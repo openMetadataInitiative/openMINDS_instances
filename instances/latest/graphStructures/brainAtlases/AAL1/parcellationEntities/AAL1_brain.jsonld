@@ -7,11 +7,7 @@
   "abbreviation": null,
   "alternateName": null,
   "definition": null,
-  "hasParent": [
-    {
-      "@id": null
-    }
-  ],
+  "hasParent": null,
   "hasVersion": null,
   "lookupLabel": "AAL1_brain",
   "name": "brain",
