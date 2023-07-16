@@ -865,16 +865,16 @@
       "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-MNI152"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-BigBrain"
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-BigBrain"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-Colin27"
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-Colin27"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-fsaverage"
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-fsaverage"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-MNI152"
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-MNI152"
     }
   ],
   "homepage": "https://julich-brain-atlas.de/",
