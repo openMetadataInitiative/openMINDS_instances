@@ -7,7 +7,7 @@
   "abbreviation": "JBA",
   "author": null,
   "custodian": null,
-  "description": "| The Julich Brain Atlas is a three-dimensional atlas of the human brain which replaces historical maps of the brain's microstructure such as that of Brodmann. It integrates high-resolution cytoarchitectonic maps with microstructural and connectivity data as well as neurotransmitter receptor expression profiles and functional data – all into a common reference space.\nIt is continuously expanded and openly accessible for researchers to systematically integrate multi-level data. It is interoperable in a way that it can be linked with other brain parcellations, databases and mapping projects. The Julich Brain Atlas offers a powerful tool for neuroscience and medicine alike.",
+  "description": "The Julich Brain Atlas is a three-dimensional atlas of the human brain which replaces historical maps of the brain's microstructure such as that of Brodmann. It integrates high-resolution cytoarchitectonic maps with microstructural and connectivity data as well as neurotransmitter receptor expression profiles and functional data – all into a common reference space.\nIt is continuously expanded and openly accessible for researchers to systematically integrate multi-level data. It is interoperable in a way that it can be linked with other brain parcellations, databases and mapping projects. The Julich Brain Atlas offers a powerful tool for neuroscience and medicine alike.",
   "digitalIdentifier": {"@id": "https://scicrunch.org/resolver/RRID:SCR_023277"},
   "fullName": "Julich-Brain Cytoarchitectonic Atlas",
   "hasTerminology": {
