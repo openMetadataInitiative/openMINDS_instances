@@ -878,7 +878,7 @@
     }
   ],
   "homepage": "https://julich-brain-atlas.de/",
-  "howToCite": "For a version-independent reference please cite the RRID (RRID:SCR_023277) and the original research paper:\n- Amunts, K., Mohlberg, H., Bludau, S., & Zilles, K. (2020). Julich-Brain: A 3D probabilistic atlas of the human brain’s cytoarchitecture. Science, 369(6506), 988–992. DOI: https://doi.org/10.1126/science.abb4588\n\nPlease follow the version-specific 'how to cite' for referencing specific versions of this atlas.",
+  "howToCite": "| For a version-independent reference please cite the RRID (RRID:SCR_023277) and the original research paper:\n\n| - Amunts, K., Mohlberg, H., Bludau, S., & Zilles, K. (2020). Julich-Brain: A 3D probabilistic atlas of the human brain’s cytoarchitecture. Science, 369(6506), 988–992. DOI: https://doi.org/10.1126/science.abb4588\n\n| Please follow the version-specific 'how to cite' for referencing specific versions of this atlas.",
   "shortName": "Julich-Brain Atlas",
   "usedSpecies": {
     "@id": "https://openminds.ebrains.eu/instances/species/homoSapiens"
