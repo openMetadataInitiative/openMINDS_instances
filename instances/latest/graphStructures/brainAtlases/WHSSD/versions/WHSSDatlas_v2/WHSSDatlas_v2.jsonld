@@ -15,8 +15,12 @@
   "copyright": null,
   "custodian": null,
   "description": null,
-  "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "digitalIdentifier": {
+		"@id": "https://scicrunch.org/resolver/RRID:SCR_017124"
+	},
+  "fullDocumentation": {
+		"@id": "https://doi.org/10.1016/j.neuroimage.2014.12.080"
+	},
   "fullName": "Waxholm Space Atlas of the Sprague Dawley Rat Brain",
   "funding": null,
   "hasTerminology": {
@@ -266,8 +270,8 @@
 		],
 		"ontologyIdentifier": null
 	},
-  "homepage": null,
-  "howToCite": "Please refer to the atlas by its RRID: SCR_017124, and cite the first publication (Papp et al., 2014) along with the publication for the atlas version you have used (see Related publications below).",
+  "homepage": "https://www.nitrc.org/projects/whs-sd-atlas/",
+  "howToCite": "Please refer to the atlas by its RRID: SCR_017124, and cite the following publications: Papp et al. (2014) https://doi.org/10.1016/j.neuroimage.2014.04.001 ; Kjonigsen et al. (2015) https://doi.org/10.1016/j.neuroimage.2014.12.080",
   "isAlternativeVersionOf": null,
   "isNewVersionOf": {
     "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v1.01"
@@ -279,7 +283,14 @@
   "majorVersionIdentifier": null,
   "ontologyIdentifier": null,
   "otherContribution": null,
-  "relatedPublication": null,
+  "relatedPublication": [
+    {
+			"@id": "https://doi.org/10.1016/j.neuroimage.2014.04.001"
+		},
+    {
+			"@id": "https://doi.org/10.1016/j.neuroimage.2014.10.017"
+		}  
+  ],
   "releaseDate": "2015-02-02",
   "repository": null,
   "shortName": "Waxholm Space Rat Brain Atlas",
