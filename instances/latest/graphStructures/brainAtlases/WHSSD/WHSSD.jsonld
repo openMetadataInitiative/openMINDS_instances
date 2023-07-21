@@ -7,7 +7,7 @@
   "abbreviation": "WHSSDatlas",
   "author": null,
   "custodian": null,
-  "description": "The Waxholm Space Atlas of the Sprague Dawley Rat Brain is an open access volumetric atlas. The delineations are defined in isotropic magnetic resonance (39 micrometre) and diffusion tensor (78 micrometre) images acquired ex vivo from an 80 day old male rat at the Duke Center for In Vivo Microscopy. Coordinates for navigating the volume are provided by the Waxholm Space coordinate system. The location of bregma and lambda are also identified as anchors towards stereotaxic space. The atlas (with MRI/DTI anatomical volumes, delineation- and label files) is hosted at [NITRC](https://www.nitrc.org/projects/whs-sd-atlas/) along with configuration files for ITK-SNAP, the Mouse BIRN Atlasing Toolkit, and PMOD. The atlas has been adopted as the standard rat brain atlas for the EBRAINS infrastructure, see [EBRAINS Rat Brain Atlas](https://ebrains.eu/service/rat-brain-atlas/). The atlas (RRID: SCR_017124) is shared under the CC BY-SA 4.0 licence. Note that the licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.",
+  "description": "The Waxholm Space Atlas of the Sprague Dawley Rat Brain is an open access volumetric atlas. The delineations are defined in isotropic magnetic resonance (39 micrometre) and diffusion tensor (78 micrometre) images acquired ex vivo from an 80 day old male rat at the Duke Center for In Vivo Microscopy. Coordinates for navigating the volume are provided by the Waxholm Space coordinate system. The location of bregma and lambda are also identified as anchors towards stereotaxic space. The atlas (with MRI/DTI anatomical volumes, delineation- and label files) is hosted at [NITRC](https://www.nitrc.org/projects/whs-sd-atlas/) along with configuration files for ITK-SNAP, the Mouse BIRN Atlasing Toolkit, and PMOD. The atlas has been adopted as the standard rat brain atlas for the EBRAINS infrastructure, see [EBRAINS Rat Brain Atlas](https://ebrains.eu/service/rat-brain-atlas/). Note that the licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.",
   "digitalIdentifier": {
     "@id": "https://scicrunch.org/resolver/SCR_001592"
   },
@@ -1036,7 +1036,7 @@
     }
   ],
   "homepage": "https://www.nitrc.org/projects/whs-sd-atlas/",
-  "howToCite": "Please refer to the atlas by its RRID: SCR_017124, and cite the first publication (Papp et al., 2014) along with the atlas version(s) you have used.",
+  "howToCite": "Please refer to the atlas by its RRID:SCR_001592, and cite the first publication (Papp et al. 2014 ; https://doi.org/10.1016/j.neuroimage.2014.04.001) along with the atlas version(s) you have used.",
   "shortName": "Waxholm Space Rat Brain Atlas",
   "usedSpecies": {
     "@id": "https://openminds.ebrains.eu/instances/species/rattusNorvegicus"
