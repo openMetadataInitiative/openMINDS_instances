@@ -383,7 +383,7 @@
 		"ontologyIdentifier": null
 	},
   "homepage": "https://www.nitrc.org/projects/whs-sd-atlas/",
-  "howToCite": "Please refer to the atlas by its RRID: SCR_001592, and cite the following publications:\n- Papp et al. (2014) https://doi.org/10.1016/j.neuroimage.2014.04.001 ; Osen et al. (2019) https://doi.org/10.1016/j.neuroimage.2019.05.016",
+  "howToCite": "Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Osen et al. (2019)](https://doi.org/10.1016/j.neuroimage.2019.05.016).",
   "isAlternativeVersionOf": null,
   "isNewVersionOf": {
     "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v3"

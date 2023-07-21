@@ -579,7 +579,7 @@
     "ontologyIdentifier": null
   },
   "homepage": "https://julich-brain-atlas.de/",
-  "howToCite": null,
+  "howToCite": "Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).",
   "isAlternativeVersionOf": [
     {
       "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-BigBrain"
@@ -605,7 +605,9 @@
   "releaseDate": null,
   "repository": null,
   "shortName": "Julich-Brain Atlas",
-  "supportChannel": "julich-brain@fz-juelich.de",
+  "supportChannel": [
+    "julich-brain@fz-juelich.de"
+  ],
   "type": {
     "@id": "https://openminds.ebrains.eu/instances/atlasType/probabilisticAtlas"
   },
