@@ -867,6 +867,42 @@
       "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-MNI152"
     },
     {
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-BigBrain"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-Colin27"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-fsaverage"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-MNI152"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-BigBrain"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-Colin27"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-fsaverage"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-MNI152"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-BigBrain"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-Colin27"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-fsaverage"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-MNI152"
+    },
+    {
       "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-BigBrain"
     },
     {
