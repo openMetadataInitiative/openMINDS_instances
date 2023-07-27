@@ -5,7 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryVisualCortex",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "'Secondary visual cortex' is part of Brodmann area 18 and a functional region of the brain. It is part of the visual cortex.",
-  "description": "A region of the visual cortex adjacent and strongly connected to the primary visual cortex. It plays an important role in the analysis and discrimination of visual input related to motion, complex shapes, and position. A part of the visual assocation area.",
+  "description": "A region of the visual cortex adjacent and strongly connected to the primary visual cortex. It plays an important role in the analysis and discrimination of visual input related to motion, complex shapes, and position. A part of the visual association area.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0727119",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022232#secondary-visual-cortex",
   "name": "secondary visual cortex",
