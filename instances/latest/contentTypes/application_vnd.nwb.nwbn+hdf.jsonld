@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nwb.nwbn+hdf",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".nwb",
+    ".h5"
+  ],
+  "http://schema.org/identifier": [
+    "https://openminds.ebrains.eu/instances/contentTypes/application.vnd.nwb.nwbn+hdf"
+  ],
+  "name": "application/vnd.nwb.nwbn+hdf",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "NWB:N"
+  ]
+}
