@@ -11,8 +11,8 @@
 ![GitHub][license-url]
 ![GitHub contributors][contributors-url]
 
-To learn more about the openMINDS metadata framework please go to :arrow_right: [**ReadTheDocs**][docu-url].
-For browsing through all metadata instances you can also directly jump to the :arrow_right: [**instance libraries**][libraries-url].
+To learn more about the openMINDS metadata framework please go to :arrow_right: [**ReadTheDocs**][docu-url].  
+For browsing through the metadata instances you can also directly jump to the :arrow_right: [**instance libraries**][libraries-url].
 
 ## How to contribute
 
