@@ -4,18 +4,18 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/dioxygen",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
-  "definition": "The common allotrope of elemental oxygen on Earth, O2, is generally known as oxygen. [adapted from wikipedia (https://en.wikipedia.org/wiki/Allotropes_of_oxygen)]",
+  "definition": "The common allotrope of elemental oxygen on Earth, O2, is generally known as oxygen. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Allotropes_of_oxygen)]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0398707",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:15379#dioxygen",
-  "name": "Dioxygen",
+  "name": "dioxygen",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_15379",
   "synonym": [
-    "Oxygen",
+    "oxygen",
     "O2",
-    "Diatomic oxygen",
-    "Molecular oxygen",
+    "diatomic oxygen",
+    "molecular oxygen",
     "dioxidene",
-    "Oxygen gas"
+    "oxygen gas"
   ]
 }
