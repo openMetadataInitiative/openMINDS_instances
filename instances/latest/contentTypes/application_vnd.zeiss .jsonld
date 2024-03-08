@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss ",
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "dataType": null,
   "description": null,
@@ -10,7 +10,7 @@
   "fileExtension": [
     ".czi"
   ],
-  "name": "application/vnd.zeiss ",
+  "name": "application/vnd.zeiss",
   "relatedMediaType": null,
   "specification": null,
   "synonym": null
