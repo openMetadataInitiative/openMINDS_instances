@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/GTPDisodiumSalt",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Guanosine 5'-triphosphate (GTP) sodium salt hydrate.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "GTP, Disodium salt",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Guanosine 5'-triphosphate sodium salt hydrate",
+    "NaGTP",
+    "5'-triphospho-guanosine; hydrate; sodium salt",
+    "disodium;[[[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-oxidophosphoryl] hydrogen phosphate;dihydrate"
+  ]
+}
