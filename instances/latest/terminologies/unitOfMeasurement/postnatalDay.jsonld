@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "postnatal day",
   "preferredOntologyIdentifier": null,
-  "synonym": "Postnatal day"
+  "synonym": [
+    "P"
+  ]
 }
