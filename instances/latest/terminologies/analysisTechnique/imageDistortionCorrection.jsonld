@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/imageDistortionCorrection",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/imageDistortionCorrection",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
   "definition": "'Image distortion correction' is the general term for any image processing technique correcting optical or perspective aberrations of an image.",
   "description": null,
   "interlexIdentifier": null,
