@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_superiorColliculusZonalLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SCzo",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusZonalLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_superiorColliculusZonalLayer",
+  "name": "superior colliculus, zonal layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

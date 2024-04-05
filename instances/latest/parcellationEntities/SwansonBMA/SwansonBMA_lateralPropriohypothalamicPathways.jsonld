@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_lateralPropriohypothalamicPathways",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "phpl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralPropriohypothalamicPathways"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_lateralPropriohypothalamicPathways",
+  "name": "lateral propriohypothalamic pathways",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

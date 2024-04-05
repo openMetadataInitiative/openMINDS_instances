@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_anteriorOlfactoryNucleusKolliker",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AON",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusKolliker"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_anteriorOlfactoryNucleusKolliker",
+  "name": "anterior olfactory nucleus [Kölliker]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

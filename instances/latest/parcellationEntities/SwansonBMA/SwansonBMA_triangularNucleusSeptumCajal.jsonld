@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_triangularNucleusSeptumCajal",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "TRS",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_triangularNucleusSeptumCajal"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_triangularNucleusSeptumCajal",
+  "name": "triangular nucleus septum [Cajal]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

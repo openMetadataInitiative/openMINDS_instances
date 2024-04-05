@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_mammillotegmentalTractGudden",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "mtg",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mammillotegmentalTractGudden"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_mammillotegmentalTractGudden",
+  "name": "mammillotegmental tract [Gudden]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

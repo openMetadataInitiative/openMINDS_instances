@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_corticospinalTract",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "cst",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticospinalTract"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_corticospinalTract",
+  "name": "corticospinal tract",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

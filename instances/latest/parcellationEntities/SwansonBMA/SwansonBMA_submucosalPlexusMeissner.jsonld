@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_submucosalPlexusMeissner",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "smp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_submucosalPlexusMeissner"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_submucosalPlexusMeissner",
+  "name": "submucosal plexus [Meissner]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

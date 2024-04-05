@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_intraculminateFissure1",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "icu1",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intraculminateFissure1"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_intraculminateFissure1",
+  "name": "intraculminate fissure 1",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

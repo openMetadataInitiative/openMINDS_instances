@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_bedNucleiStriaTerminalisAnteriorDivisionJuxtacapsularNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "BSTju",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionJuxtacapsularNucleus"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_bedNucleiStriaTerminalisAnteriorDivisionJuxtacapsularNucleus",
+  "name": "bed nuclei stria terminalis, anterior division, juxtacapsular nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

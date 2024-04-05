@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_subependymalZone",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SEZ",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subependymalZone"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_subependymalZone",
+  "name": "subependymal zone",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

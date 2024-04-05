@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_parapyramidalNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PPY",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parapyramidalNucleus"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_parapyramidalNucleus",
+  "name": "parapyramidal nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

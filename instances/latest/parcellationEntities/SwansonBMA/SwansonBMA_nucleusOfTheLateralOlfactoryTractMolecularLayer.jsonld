@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_nucleusOfTheLateralOlfactoryTractMolecularLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "NLOT1",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractMolecularLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_nucleusOfTheLateralOlfactoryTractMolecularLayer",
+  "name": "nucleus of the lateral olfactory tract, molecular layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

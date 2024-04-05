@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_spinalCordCoccygealLevelSegments13",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SP-Co1-3",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalCordCoccygealLevelSegments13"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_spinalCordCoccygealLevelSegments13",
+  "name": "spinal cord, coccygeal level, segments 1-3",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

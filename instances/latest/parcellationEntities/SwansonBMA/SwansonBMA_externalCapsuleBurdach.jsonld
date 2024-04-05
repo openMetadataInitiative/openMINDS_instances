@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_externalCapsuleBurdach",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "ec",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_externalCapsuleBurdach"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_externalCapsuleBurdach",
+  "name": "external capsule [Burdach]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

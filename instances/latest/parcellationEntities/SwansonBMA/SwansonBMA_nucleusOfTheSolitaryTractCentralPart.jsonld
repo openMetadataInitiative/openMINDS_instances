@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_nucleusOfTheSolitaryTractCentralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "NTSce",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheSolitaryTractCentralPart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_nucleusOfTheSolitaryTractCentralPart",
+  "name": "nucleus of the solitary tract, central part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

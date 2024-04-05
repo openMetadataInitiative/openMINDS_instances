@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_parabrachialNucleusVentralMedialPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PBmv",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusVentralMedialPart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_parabrachialNucleusVentralMedialPart",
+  "name": "parabrachial nucleus, ventral medial part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

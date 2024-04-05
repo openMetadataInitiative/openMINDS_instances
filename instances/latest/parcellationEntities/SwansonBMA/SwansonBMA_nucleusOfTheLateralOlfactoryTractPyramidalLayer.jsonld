@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_nucleusOfTheLateralOlfactoryTractPyramidalLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "NLOT2",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractPyramidalLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_nucleusOfTheLateralOlfactoryTractPyramidalLayer",
+  "name": "nucleus of the lateral olfactory tract, pyramidal layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

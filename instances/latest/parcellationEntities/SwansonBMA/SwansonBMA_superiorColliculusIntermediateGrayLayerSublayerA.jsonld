@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_superiorColliculusIntermediateGrayLayerSublayerA",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SCig.a",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusIntermediateGrayLayerSublayerA"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_superiorColliculusIntermediateGrayLayerSublayerA",
+  "name": "superior colliculus, intermediate gray layer, sublayer a",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

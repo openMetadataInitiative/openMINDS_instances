@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_dentateGyrusLateralBladepolymorphLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DGlb-po",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusLateralBladepolymorphLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_dentateGyrusLateralBladepolymorphLayer",
+  "name": "dentate gyrus, lateral blade-polymorph layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

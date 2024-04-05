@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_prelimbicArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_prelimbicArea"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_prelimbicArea",
+  "name": "prelimbic area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

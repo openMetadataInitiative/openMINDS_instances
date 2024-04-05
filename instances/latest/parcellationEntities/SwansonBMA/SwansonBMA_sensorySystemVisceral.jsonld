@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_sensorySystemVisceral",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SENvsc",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sensorySystemVisceral"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_sensorySystemVisceral",
+  "name": "sensory system, visceral",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

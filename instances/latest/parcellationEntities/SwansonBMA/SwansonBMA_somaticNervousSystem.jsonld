@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_somaticNervousSystem",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SMS",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_somaticNervousSystem"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_somaticNervousSystem",
+  "name": "somatic nervous system",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

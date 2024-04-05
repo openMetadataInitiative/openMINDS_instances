@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_fieldCA1AmmonsHornLorenteDeNo",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CA1",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA1AmmonsHornLorenteDeNo"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_fieldCA1AmmonsHornLorenteDeNo",
+  "name": "field CA1, Ammon’s horn [Lorente de Nó]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

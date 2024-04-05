@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_periaqueductalGrayDorsalDivisionBeitz",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PAGd",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periaqueductalGrayDorsalDivisionBeitz"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_periaqueductalGrayDorsalDivisionBeitz",
+  "name": "periaqueductal gray, dorsal division [Beitz]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

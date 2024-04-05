@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/ISBN/SwansonBM_3rd-ed",
+  "@type": "https://openminds.ebrains.eu/core/ISBN",
+  "identifier": "0-126-10582-0"
+}
+

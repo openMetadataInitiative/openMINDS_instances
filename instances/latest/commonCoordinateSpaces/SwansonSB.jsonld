@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpace/SwansonSB",
+  "@type": "https://openminds.ebrains.eu/core/CommonCoordinateSpace",
+  "abbreviation": "SwansonSB",
+  "author": null,
+  "custodian": null,
+  "description": "Stereotactic coordinate system derived from the atlas by Paxinos and Watson (1986; ISBN: 0-12-547621-3).",
+  "digitalIdentifier": null,
+  "fullName": "Swanson's Stereotactic Brain",
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/SwansonSB-Bregma_1st-ed"
+    }
+  ],
+  "homepage": null,
+  "howToCite": null,
+  "ontologyIdentifier": null,
+  "shortName": null,
+  "usedSpecies": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/species/rattusNorvegicus"
+    }
+  ]
+}
+

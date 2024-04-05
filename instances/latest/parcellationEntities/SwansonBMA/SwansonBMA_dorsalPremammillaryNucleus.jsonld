@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_dorsalPremammillaryNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PMd",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalPremammillaryNucleus"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_dorsalPremammillaryNucleus",
+  "name": "dorsal premammillary nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

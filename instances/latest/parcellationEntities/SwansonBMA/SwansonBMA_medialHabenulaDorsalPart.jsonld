@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_medialHabenulaDorsalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "MHd",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialHabenulaDorsalPart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_medialHabenulaDorsalPart",
+  "name": "medial habenula, dorsal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

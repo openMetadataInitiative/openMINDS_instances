@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_precommissuralFornixGeneral",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "fxprg",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_precommissuralFornixGeneral"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_precommissuralFornixGeneral",
+  "name": "precommissural fornix, general",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

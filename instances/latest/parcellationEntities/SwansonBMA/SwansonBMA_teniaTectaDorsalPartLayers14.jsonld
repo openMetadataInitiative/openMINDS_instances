@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_teniaTectaDorsalPartLayers14",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "TTd1-4",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_teniaTectaDorsalPartLayers14"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_teniaTectaDorsalPartLayers14",
+  "name": "tenia tecta, dorsal part, layers 1-4",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

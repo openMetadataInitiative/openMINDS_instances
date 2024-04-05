@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_lateralSeptalNucleusCaudalPartVentralZoneMedialRegion",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "LSc.v.m",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneMedialRegion"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_lateralSeptalNucleusCaudalPartVentralZoneMedialRegion",
+  "name": "lateral septal nucleus, caudal part, ventral zone, medial region",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

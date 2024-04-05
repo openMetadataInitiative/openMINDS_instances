@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_thirdVentricleMammillaryRecess",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "V3m",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thirdVentricleMammillaryRecess"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_thirdVentricleMammillaryRecess",
+  "name": "third ventricle, mammillary recess",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

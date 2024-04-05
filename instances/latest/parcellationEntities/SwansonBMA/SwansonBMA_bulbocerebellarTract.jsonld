@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_bulbocerebellarTract",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "bct",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bulbocerebellarTract"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_bulbocerebellarTract",
+  "name": "bulbocerebellar tract",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

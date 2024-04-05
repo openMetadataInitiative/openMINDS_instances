@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_parabrachialNucleusCentralLateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PBlc",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusCentralLateralPart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_parabrachialNucleusCentralLateralPart",
+  "name": "parabrachial nucleus, central lateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

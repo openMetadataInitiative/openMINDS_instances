@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_midbrainReticularNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "MRN",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_midbrainReticularNucleus"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_midbrainReticularNucleus",
+  "name": "midbrain reticular nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

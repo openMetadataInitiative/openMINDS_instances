@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_interpeduncularNucleusLateralSubnucleusIntermediatePart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "IPNli",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusIntermediatePart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_interpeduncularNucleusLateralSubnucleusIntermediatePart",
+  "name": "interpeduncular nucleus, lateral subnucleus, intermediate part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

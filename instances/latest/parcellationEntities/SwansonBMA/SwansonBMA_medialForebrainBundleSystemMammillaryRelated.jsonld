@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_medialForebrainBundleSystemMammillaryRelated",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "mfbsma",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialForebrainBundleSystemMammillaryRelated"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_medialForebrainBundleSystemMammillaryRelated",
+  "name": "medial forebrain bundle system, mammillary related",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

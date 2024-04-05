@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_primaryVisualArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "VISp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primaryVisualArea"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_primaryVisualArea",
+  "name": "primary visual area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

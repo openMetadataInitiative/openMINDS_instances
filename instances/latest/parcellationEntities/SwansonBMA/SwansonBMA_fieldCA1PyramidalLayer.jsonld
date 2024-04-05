@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_fieldCA1PyramidalLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CA1sp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA1PyramidalLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_fieldCA1PyramidalLayer",
+  "name": "field CA1, pyramidal layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

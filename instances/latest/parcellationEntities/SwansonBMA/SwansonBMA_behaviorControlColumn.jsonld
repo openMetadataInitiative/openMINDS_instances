@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_behaviorControlColumn",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "BCC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_behaviorControlColumn"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_behaviorControlColumn",
+  "name": "behavior control column",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

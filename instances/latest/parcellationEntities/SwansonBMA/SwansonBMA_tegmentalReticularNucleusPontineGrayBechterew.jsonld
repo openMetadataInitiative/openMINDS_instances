@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_tegmentalReticularNucleusPontineGrayBechterew",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "TRN",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tegmentalReticularNucleusPontineGrayBechterew"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_tegmentalReticularNucleusPontineGrayBechterew",
+  "name": "tegmental reticular nucleus, pontine gray [Bechterew]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

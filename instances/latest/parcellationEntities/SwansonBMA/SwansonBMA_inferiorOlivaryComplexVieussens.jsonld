@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_inferiorOlivaryComplexVieussens",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "IO",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorOlivaryComplexVieussens"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_inferiorOlivaryComplexVieussens",
+  "name": "inferior olivary complex [Vieussens]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

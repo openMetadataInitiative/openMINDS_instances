@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_spinothalamicTractThieleHorsley",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "stt",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinothalamicTractThieleHorsley"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_spinothalamicTractThieleHorsley",
+  "name": "spinothalamic tract [Thiele-Horsley]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

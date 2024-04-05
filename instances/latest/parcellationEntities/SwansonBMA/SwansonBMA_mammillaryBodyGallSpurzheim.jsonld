@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_mammillaryBodyGallSpurzheim",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "MBO",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mammillaryBodyGallSpurzheim"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_mammillaryBodyGallSpurzheim",
+  "name": "mammillary body [Gall-Spurzheim]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

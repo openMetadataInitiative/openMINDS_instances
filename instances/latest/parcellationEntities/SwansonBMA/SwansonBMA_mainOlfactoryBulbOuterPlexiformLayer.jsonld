@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_mainOlfactoryBulbOuterPlexiformLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "MOBopl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mainOlfactoryBulbOuterPlexiformLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_mainOlfactoryBulbOuterPlexiformLayer",
+  "name": "main olfactory bulb, outer plexiform layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

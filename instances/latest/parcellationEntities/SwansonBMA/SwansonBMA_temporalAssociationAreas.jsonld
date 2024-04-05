@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_temporalAssociationAreas",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "TEa",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_temporalAssociationAreas"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_temporalAssociationAreas",
+  "name": "temporal association areas",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

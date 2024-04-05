@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_parabrachialNucleusMedialMedialPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PBmm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusMedialMedialPart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_parabrachialNucleusMedialMedialPart",
+  "name": "parabrachial nucleus, medial medial part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_nucleusRapheObscurus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "RO",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusRapheObscurus"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_nucleusRapheObscurus",
+  "name": "nucleus raphé obscurus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

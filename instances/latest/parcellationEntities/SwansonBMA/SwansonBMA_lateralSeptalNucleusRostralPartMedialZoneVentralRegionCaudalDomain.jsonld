@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_lateralSeptalNucleusRostralPartMedialZoneVentralRegionCaudalDomain",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "LSr.m.v.c",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneVentralRegionCaudalDomain"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_lateralSeptalNucleusRostralPartMedialZoneVentralRegionCaudalDomain",
+  "name": "lateral septal nucleus, rostral part, medial zone, ventral region, caudal domain",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

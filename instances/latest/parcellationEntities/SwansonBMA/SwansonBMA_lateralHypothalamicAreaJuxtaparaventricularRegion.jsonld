@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_lateralHypothalamicAreaJuxtaparaventricularRegion",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "LHAjp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaparaventricularRegion"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_lateralHypothalamicAreaJuxtaparaventricularRegion",
+  "name": "lateral hypothalamic area, juxtaparaventricular region",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

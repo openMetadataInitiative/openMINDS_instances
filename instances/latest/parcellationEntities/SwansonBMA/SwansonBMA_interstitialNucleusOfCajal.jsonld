@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_interstitialNucleusOfCajal",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "INC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interstitialNucleusOfCajal"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_interstitialNucleusOfCajal",
+  "name": "interstitial nucleus of Cajal",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_inferiorOlivaryComplexMedialAccessoryOlive",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "IOma",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorOlivaryComplexMedialAccessoryOlive"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_inferiorOlivaryComplexMedialAccessoryOlive",
+  "name": "inferior olivary complex, medial accessory olive",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

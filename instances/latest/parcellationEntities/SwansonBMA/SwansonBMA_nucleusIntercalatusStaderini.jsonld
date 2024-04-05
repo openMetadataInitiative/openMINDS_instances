@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_nucleusIntercalatusStaderini",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "NIS",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusIntercalatusStaderini"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_nucleusIntercalatusStaderini",
+  "name": "nucleus intercalatus [Staderini]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

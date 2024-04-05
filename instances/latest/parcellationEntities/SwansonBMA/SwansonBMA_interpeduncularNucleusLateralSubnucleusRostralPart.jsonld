@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_interpeduncularNucleusLateralSubnucleusRostralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "IPNlr",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusRostralPart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_interpeduncularNucleusLateralSubnucleusRostralPart",
+  "name": "interpeduncular nucleus, lateral subnucleus, rostral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

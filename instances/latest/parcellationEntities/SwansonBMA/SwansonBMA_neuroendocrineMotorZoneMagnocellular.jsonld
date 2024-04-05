@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_neuroendocrineMotorZoneMagnocellular",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "NEMm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_neuroendocrineMotorZoneMagnocellular"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_neuroendocrineMotorZoneMagnocellular",
+  "name": "neuroendocrine motor zone, magnocellular",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

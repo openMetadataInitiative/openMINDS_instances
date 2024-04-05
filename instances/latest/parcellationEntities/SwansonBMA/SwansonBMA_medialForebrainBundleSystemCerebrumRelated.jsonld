@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_medialForebrainBundleSystemCerebrumRelated",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "mfbsc",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialForebrainBundleSystemCerebrumRelated"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_medialForebrainBundleSystemCerebrumRelated",
+  "name": "medial forebrain bundle system, cerebrum related",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

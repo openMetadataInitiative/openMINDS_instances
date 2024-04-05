@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_corticospinalTractUncrossedBurdachTurck",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "cstu",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticospinalTractUncrossedBurdachTurck"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_corticospinalTractUncrossedBurdachTurck",
+  "name": "corticospinal tract, uncrossed [Burdach, Türck]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

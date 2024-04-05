@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_lateralHypothalamicAreaSuprafornicalRegion",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "LHAs",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaSuprafornicalRegion"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_lateralHypothalamicAreaSuprafornicalRegion",
+  "name": "lateral hypothalamic area, suprafornical region",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

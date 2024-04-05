@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_sympatheticGanglia",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "GSY",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sympatheticGanglia"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_sympatheticGanglia",
+  "name": "sympathetic ganglia",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_medialAmygdalarNucleusPosterodorsalPartSublayersAc",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "MEApd-a,b,c",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialAmygdalarNucleusPosterodorsalPartSublayersAc"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_medialAmygdalarNucleusPosterodorsalPartSublayersAc",
+  "name": "medial amygdalar nucleus, posterodorsal part, sublayers a-c",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

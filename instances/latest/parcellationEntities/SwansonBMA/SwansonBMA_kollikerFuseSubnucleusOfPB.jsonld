@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_kollikerFuseSubnucleusOfPB",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "KF",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_kollikerFuseSubnucleusOfPB"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_kollikerFuseSubnucleusOfPB",
+  "name": "Kölliker-Fuse subnucleus (of PB)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

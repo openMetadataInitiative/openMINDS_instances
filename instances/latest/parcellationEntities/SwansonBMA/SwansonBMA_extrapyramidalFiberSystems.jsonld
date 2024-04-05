@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_extrapyramidalFiberSystems",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "eps",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_extrapyramidalFiberSystems"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_extrapyramidalFiberSystems",
+  "name": "extrapyramidal fiber systems",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

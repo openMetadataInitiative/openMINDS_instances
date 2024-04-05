@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_fieldCA3StratumLacunosummoleculare",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CA3slm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA3StratumLacunosummoleculare"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_fieldCA3StratumLacunosummoleculare",
+  "name": "field CA3, stratum lacunosum-moleculare",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

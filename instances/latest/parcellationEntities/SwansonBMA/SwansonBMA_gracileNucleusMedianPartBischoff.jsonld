@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_gracileNucleusMedianPartBischoff",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "GRm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_gracileNucleusMedianPartBischoff"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_gracileNucleusMedianPartBischoff",
+  "name": "gracile nucleus, median part [Bischoff]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

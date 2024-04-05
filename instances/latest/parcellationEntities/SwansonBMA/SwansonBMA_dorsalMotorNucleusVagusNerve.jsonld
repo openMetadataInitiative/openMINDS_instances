@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_dorsalMotorNucleusVagusNerve",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DMX",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalMotorNucleusVagusNerve"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_dorsalMotorNucleusVagusNerve",
+  "name": "dorsal motor nucleus vagus nerve",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

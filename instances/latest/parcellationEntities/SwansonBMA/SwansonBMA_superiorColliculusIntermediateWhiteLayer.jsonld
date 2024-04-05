@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_superiorColliculusIntermediateWhiteLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SCiw",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusIntermediateWhiteLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_superiorColliculusIntermediateWhiteLayer",
+  "name": "superior colliculus, intermediate white layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

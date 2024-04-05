@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_superiorColliculusSuperficialGrayLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SCsg",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusSuperficialGrayLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_superiorColliculusSuperficialGrayLayer",
+  "name": "superior colliculus, superficial gray layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

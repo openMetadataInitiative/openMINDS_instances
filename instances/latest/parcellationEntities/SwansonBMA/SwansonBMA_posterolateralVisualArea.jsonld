@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_posterolateralVisualArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "VISpl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posterolateralVisualArea"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_posterolateralVisualArea",
+  "name": "posterolateral visual area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_corpusCallosumAnteriorForcepsArnold",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "fa",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corpusCallosumAnteriorForcepsArnold"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_corpusCallosumAnteriorForcepsArnold",
+  "name": "corpus callosum, anterior forceps [Arnold]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

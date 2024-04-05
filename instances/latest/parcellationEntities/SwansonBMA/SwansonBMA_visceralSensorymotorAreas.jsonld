@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_visceralSensorymotorAreas",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "VSM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_visceralSensorymotorAreas"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_visceralSensorymotorAreas",
+  "name": "visceral sensory-motor areas",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

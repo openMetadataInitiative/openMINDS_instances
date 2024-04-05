@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_nucleusReuniensRostralDivisionLateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "REl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensRostralDivisionLateralPart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_nucleusReuniensRostralDivisionLateralPart",
+  "name": "nucleus reuniens, rostral division, lateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

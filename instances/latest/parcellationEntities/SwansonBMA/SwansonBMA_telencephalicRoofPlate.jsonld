@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_telencephalicRoofPlate",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "trp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_telencephalicRoofPlate"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_telencephalicRoofPlate",
+  "name": "telencephalic roof plate",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

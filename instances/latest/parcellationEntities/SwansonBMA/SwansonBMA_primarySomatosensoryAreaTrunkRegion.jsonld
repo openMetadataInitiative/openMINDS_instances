@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_primarySomatosensoryAreaTrunkRegion",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SSp-tr",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primarySomatosensoryAreaTrunkRegion"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_primarySomatosensoryAreaTrunkRegion",
+  "name": "primary somatosensory area, trunk region",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_corticalAmygdalarNucleusPosteriorPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "COAp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticalAmygdalarNucleusPosteriorPart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_corticalAmygdalarNucleusPosteriorPart",
+  "name": "cortical amygdalar nucleus, posterior part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_nucleusReuniensCaudalDivisionPosteriorPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "REp",
+  "alternateName": [
+    "REcp"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionPosteriorPart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_nucleusReuniensCaudalDivisionPosteriorPart",
+  "name": "nucleus reuniens, caudal division, posterior part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

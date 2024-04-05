@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/webResource/SwansonBMA-fullDocumentation",
+  "@type": "https://openminds.ebrains.eu/core/WebResource",
+  "contentDescription": null,
+  "format": null,
+  "IRI": "https://larrywswanson.com/?page_id=164"
+}
+

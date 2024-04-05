@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_fieldCA1PyramidalLayerSuperficial",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CA1sps",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA1PyramidalLayerSuperficial"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_fieldCA1PyramidalLayerSuperficial",
+  "name": "field CA1, pyramidal layer, superficial",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

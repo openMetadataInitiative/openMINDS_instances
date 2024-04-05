@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_dorsomedialHypothalamicNucleusVentralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DMHv",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsomedialHypothalamicNucleusVentralPart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_dorsomedialHypothalamicNucleusVentralPart",
+  "name": "dorsomedial hypothalamic nucleus, ventral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

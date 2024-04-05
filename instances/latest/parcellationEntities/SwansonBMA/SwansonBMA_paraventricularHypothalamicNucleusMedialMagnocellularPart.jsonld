@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_paraventricularHypothalamicNucleusMedialMagnocellularPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PVHmm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialMagnocellularPart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_paraventricularHypothalamicNucleusMedialMagnocellularPart",
+  "name": "paraventricular hypothalamic nucleus, medial magnocellular part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

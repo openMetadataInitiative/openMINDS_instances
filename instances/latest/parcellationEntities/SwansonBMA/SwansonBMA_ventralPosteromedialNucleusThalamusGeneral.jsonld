@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_ventralPosteromedialNucleusThalamusGeneral",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "VPMg",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralPosteromedialNucleusThalamusGeneral"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_ventralPosteromedialNucleusThalamusGeneral",
+  "name": "ventral posteromedial nucleus thalamus, general",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_supraopticNucleusProper",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SO",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supraopticNucleusProper"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_supraopticNucleusProper",
+  "name": "supraoptic nucleus, proper",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

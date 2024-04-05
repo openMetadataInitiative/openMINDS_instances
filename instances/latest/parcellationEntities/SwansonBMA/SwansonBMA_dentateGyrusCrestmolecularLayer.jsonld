@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_dentateGyrusCrestmolecularLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DGcr-mo",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusCrestmolecularLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_dentateGyrusCrestmolecularLayer",
+  "name": "dentate gyrus, crest-molecular layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

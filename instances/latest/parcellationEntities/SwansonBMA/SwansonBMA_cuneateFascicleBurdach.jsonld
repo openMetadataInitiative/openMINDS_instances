@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_cuneateFascicleBurdach",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "cuf",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cuneateFascicleBurdach"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_cuneateFascicleBurdach",
+  "name": "cuneate fascicle [Burdach]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

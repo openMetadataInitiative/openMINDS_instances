@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_dorsalTegmentalNucleusGudden",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DTN",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalTegmentalNucleusGudden"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_dorsalTegmentalNucleusGudden",
+  "name": "dorsal tegmental nucleus [Gudden]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

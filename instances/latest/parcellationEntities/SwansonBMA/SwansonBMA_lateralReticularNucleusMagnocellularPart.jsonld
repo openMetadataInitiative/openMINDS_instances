@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBMA_lateralReticularNucleusMagnocellularPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "LRNm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralReticularNucleusMagnocellularPart"
+    }
+  ],
+  "lookupLabel": "SwansonBMA_lateralReticularNucleusMagnocellularPart",
+  "name": "lateral reticular nucleus, magnocellular part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+
