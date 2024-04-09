@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_edingerWestphalNucleus",
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_EdingerWestphalNucleus",
   "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
   "abbreviation": "EW",
   "additionalRemarks": null,
@@ -10,7 +10,7 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
-  "lookupLabel": "SwansonBM_3rd-ed_edingerWestphalNucleus",
+  "lookupLabel": "SwansonBM_3rd-ed_EdingerWestphalNucleus",
   "name": "Edinger-Westphal nucleus",
   "ontologyIdentifier": null,
   "relationAssessment": null,

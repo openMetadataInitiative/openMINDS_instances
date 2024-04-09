@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_barringtonsNucleus",
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_BarringtonsNucleus",
   "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
   "abbreviation": "B",
   "additionalRemarks": null,
@@ -10,7 +10,7 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
-  "lookupLabel": "SwansonBM_3rd-ed_barringtonsNucleus",
+  "lookupLabel": "SwansonBM_3rd-ed_BarringtonsNucleus",
   "name": "Barrington’s nucleus",
   "ontologyIdentifier": null,
   "relationAssessment": null,

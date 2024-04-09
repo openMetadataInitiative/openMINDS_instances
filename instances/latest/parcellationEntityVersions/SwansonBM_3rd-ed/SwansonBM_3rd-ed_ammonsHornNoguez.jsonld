@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ammonsHornNoguez",
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_AmmonsHornNoguez",
   "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
   "abbreviation": "CA",
   "additionalRemarks": null,
@@ -10,7 +10,7 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
-  "lookupLabel": "SwansonBM_3rd-ed_ammonsHornNoguez",
+  "lookupLabel": "SwansonBM_3rd-ed_AmmonsHornNoguez",
   "name": "Ammon’s horn [Noguez]",
   "ontologyIdentifier": null,
   "relationAssessment": null,
