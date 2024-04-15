@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/differentialInterferenceContrastMicroscopy",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "An optical microscopy technique, used to enhance the contrast in unstained, transparent samples [taken from [Wikipedia](https://en.wikipedia.org/wiki/Differential_interference_contrast_microscopy)].",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739494",
+  "knowledgeSpaceLink": null,
+  "name": "differential interference contrast microscopy",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
