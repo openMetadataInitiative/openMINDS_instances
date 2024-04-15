@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/superResolutionMicroscopy",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A series of techniques in optical microscopy that allow such images to have resoltions higher than those imposed by the diffraction limit, which is due to the diffraction of light [taken from [Wikipedia](https://en.wikipedia.org/wiki/Super-resolution_microscopy)].",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739445",
+  "knowledgeSpaceLink": null,
+  "name": "super resolution microscopy",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "super-resolution microscopy"
+  ]
