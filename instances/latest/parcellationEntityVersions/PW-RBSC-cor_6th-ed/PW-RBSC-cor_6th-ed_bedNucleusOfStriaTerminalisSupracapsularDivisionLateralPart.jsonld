@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "STSL",
+  "additionalRemarks": "Both the name of the region and its abbreviation have spelling mistakes (name: 'Lateral part' is lacking the space between the words; abbreviation: should read 'STSL' istead of 'STSM'). The assumed correct name 'bed nucleus of stria terminalis, supracapsular division, lateral part' has been added under 'correctedName'. The assumed correct abbreviation 'STSL' has been added under 'abbreviation'. 'STSM' has been added under 'alternateName'.",
+  "alternateName": [
+    "STSM"
+  ],
+  "correctedName": "bed nucleus of stria terminalis, supracapsular division, lateral part",
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart",
+  "name": "bed nucleus of stria terminalis, supracapsular division, lateralpart",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "6th ed.",
+  "versionInnovation": null
+}
+

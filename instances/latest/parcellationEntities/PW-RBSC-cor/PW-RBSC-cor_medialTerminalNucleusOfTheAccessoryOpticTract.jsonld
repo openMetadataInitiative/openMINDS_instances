@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialTerminalNucleusOfTheAccessoryOpticTract",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "MT",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_medialTerminalNucleusOfTheAccessoryOpticTract"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_medialTerminalNucleusOfTheAccessoryOpticTract",
+  "name": "medial terminal nucleus of the accessory optic tract",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ependymaAndSubependymalLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "E",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_ependymaAndSubependymalLayer"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_ependymaAndSubependymalLayer",
+  "name": "ependyma and subependymal layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

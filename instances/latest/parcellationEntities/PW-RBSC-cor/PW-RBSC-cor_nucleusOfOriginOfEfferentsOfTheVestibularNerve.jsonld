@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfOriginOfEfferentsOfTheVestibularNerve",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "EVe",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_nucleusOfOriginOfEfferentsOfTheVestibularNerve"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_nucleusOfOriginOfEfferentsOfTheVestibularNerve",
+  "name": "nucleus of origin of efferents of the vestibular nerve",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

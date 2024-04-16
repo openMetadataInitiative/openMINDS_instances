@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_medialTerminalNucleusOfTheAccessoryOpticTract",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "MT",
+  "additionalRemarks": "Region name has a spelling mistake ('tract' is lacking the 't' at the end). The assumed correct name 'medial terminal nucleus of the accessory optic tract' has been added under 'correctedName'.",
+  "alternateName": null,
+  "correctedName": "medial terminal nucleus of the accessory optic tract",
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_6th-ed_medialTerminalNucleusOfTheAccessoryOpticTract",
+  "name": "medial terminal nucleus of the accessory optic trac",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "6th ed.",
+  "versionInnovation": null
+}
+
