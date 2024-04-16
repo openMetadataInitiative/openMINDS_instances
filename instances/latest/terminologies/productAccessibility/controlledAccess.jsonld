@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAccessibility",
-  "definition": "With 'controlled access' selected, data and metadata are both released, but data are only available for users after they logged in and authenticated themselves.",
+  "definition": "With 'controlled access' selected, data and metadata are both released and available free of charge, but users must logged in and authenticated themselves to access the data.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
