@@ -5,16 +5,12 @@
   "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Interaural-right",
   "@type": "https://openminds.ebrains.eu/core/CommonCoordinateSpaceVersion",
   "abbreviation": "PW-RBSC-corT",
-  "accessibility": [
-    {
-      "@id": "https://openminds.ebrains.eu/instances/productAccessibility/paidAccess"
-    }
-  ],
-  "anatomicalAxesOrientation": [
-    {
-      "@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RSA"
-    }
-  ],
+  "accessibilty": {
+    "@id": "https://openminds.ebrains.eu/instances/productAccessibility/paidAccess"
+  },
+  "anatomicalAxesOrientation": {
+    "@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RSA"
+  },
   "author": null,
   "axesOrigin": null,
   "copyright": null,
@@ -22,11 +18,9 @@
   "defaultImage": null,
   "description": "This coordinate space of the coronal plates from Paxinos and Watson's 'Rat Brain in Stereotaxic Coordinates' uses the midpoint of the interaural line as its origin. The coordinates of the origin in the physical coordinate system of the rat brain could not be determined from the information provided in the atlas publication. Since the mediolateral axis of the coordinate system has positive values in either directions, two different coordinate systems were used - one left oriented and one right oriented. The X, Y and Z axes of this coordinate system are oriented towards the right, superior, anterior (positive mediolateral values describe the rat's right hemisphere), respectively.",
   "digitalIdentifier": null,
-  "fullDocumentation": [
-    {
-      "@id": "https://openminds.ebrans.eu/instances/ISBN/0-12-547612-4"
-    }
-  ],
+  "fullDocumentation": {
+    "@id": "https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4"
+  },
   "fullName": "Paxinos and Watson's Coronal Template of the Rat Brain in Stereotaxic Coordinates",
   "funding": null,
   "homepage": null,
@@ -35,11 +29,9 @@
   "isNewVersionOf": null,
   "keyword": null,
   "license": null,
-  "nativeUnit": [
-    {
-      "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/millimeter"
-    }
-  ],
+  "nativeUnit": {
+    "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/millimeter"
+  },
   "ontologyIdentifier": null,
   "otherContribution": null,
   "relatedPublication": null,

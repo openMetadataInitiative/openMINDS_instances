@@ -2468,10 +2468,8 @@
   "howToCite": null,
   "ontologyIdentifier": null,
   "shortName": "Paxinos and Watson's Stereotaxic Rat Brain Atlas (Coronal)",
-  "usedSpecies": [
-    {
-      "@id": "https://openminds.ebrains.eu/instances/species/rattusNorvegicus"
-    }
-  ]
+  "usedSpecies": {
+    "@id": "https://openminds.ebrains.eu/instances/species/rattusNorvegicus"
+  }
 }
 

@@ -12,26 +12,24 @@
   "fullName": "Paxinos and Watson's Coronal Template of the Rat Brain in Stereotaxic Coordinates",
   "hasVersion": [
     {
-      "@type": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Bregma-left"
+      "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Bregma-left"
     },
     {
-      "@type": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Bregma-right"
+      "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Bregma-right"
     },
     {
-      "@type": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Interaural-left"
+      "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Interaural-left"
     },
     {
-      "@type": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Interaural-right"
+      "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Interaural-right"
     }
   ],
   "homepage": null,
   "howToCite": null,
   "ontologyIdentifier": null,
   "shortName": "Paxinos and Watson's Stereotaxic Coronal Template (Rat Brain)",
-  "usedSpecies": [
-    {
-      "@id": "https://openminds.ebrains.eu/instances/species/rattusNorvegicus"
-    }
-  ]
+  "usedSpecies": {
+    "@id": "https://openminds.ebrains.eu/instances/species/rattusNorvegicus"
+  }
 }
 
