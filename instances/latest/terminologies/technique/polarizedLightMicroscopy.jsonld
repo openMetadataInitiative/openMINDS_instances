@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "polarized light microscopy",
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0013816",
-  "synonym": null
+  "synonym": [
+    "polarized-light microscopy"
+  ]
 }
