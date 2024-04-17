@@ -3503,10 +3503,8 @@
   "howToCite": null,
   "ontologyIdentifier": null,
   "shortName": "Swanson's Brain Maps",
-  "usedSpecies": [
-    {
-      "@id": "https://openminds.ebrains.eu/instances/species/rattusNorvegicus"
-    }
-  ]
+  "usedSpecies": {
+    "@id": "https://openminds.ebrains.eu/instances/species/rattusNorvegicus"
+  }
 }
 
