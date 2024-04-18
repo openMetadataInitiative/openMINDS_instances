@@ -5,7 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Bregma-left",
   "@type": "https://openminds.ebrains.eu/core/CommonCoordinateSpaceVersion",
   "abbreviation": "PW-RBSC-corT",
-  "accessibilty": {
+  "accessibility": {
     "@id": "https://openminds.ebrains.eu/instances/productAccessibility/paidAccess"
   },
   "anatomicalAxesOrientation": {
