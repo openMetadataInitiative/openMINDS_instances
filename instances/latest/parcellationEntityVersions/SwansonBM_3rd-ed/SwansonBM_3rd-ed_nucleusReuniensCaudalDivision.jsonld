@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensCaudalDivision",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "REc",
+  "additionalRemarks": "Corrected name based on ['Errata for Brain maps: structure of the rat brain, 3rd edition'](https://larrywswanson.com/wp-content/uploads/2015/03/BM3-Errata.pdf). The 'nucleus reuniens, caudal division, caudal part' should not exist, but 'nucleus reuniens, caudal division' should. Abbreviation remained. Correct name has been added under 'correctedName'.",
+  "alternateName": null,
+  "correctedName": "nucleus reuniens, caudal division",
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_3rd-ed_nucleusReuniensCaudalDivision",
+  "name": "nucleus reuniens, caudal division, caudal part",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "3rd ed.",
+  "versionInnovation": null
+}
+

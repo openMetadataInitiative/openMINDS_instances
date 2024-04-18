@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpace/SwansonSRB",
+  "@type": "https://openminds.ebrains.eu/core/CommonCoordinateSpace",
+  "abbreviation": "SwansonSRB",
+  "author": null,
+  "custodian": null,
+  "description": "Stereotactic coordinate system derived from the atlas by Paxinos and Watson (1986; ISBN: 0-12-547621-3).",
+  "digitalIdentifier": null,
+  "fullName": "Swanson's Stereotactic Brain of the Sprague Dawley Rat",
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/SwansonSRB_v1992"
+    }
+  ],
+  "homepage": null,
+  "howToCite": null,
+  "ontologyIdentifier": null,
+  "shortName": "Swanson's Stereotactic Rat Brain",
+  "usedSpecies": {
+    "@id": "https://openminds.ebrains.eu/instances/species/rattusNorvegicus"
+  }
+}
+
