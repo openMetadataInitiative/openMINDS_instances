@@ -1,4 +1,4 @@
 [codespell]
 skip = .git,*.pdf,*.svg
 ignore-regex = ((inernal|extermal) segment|cerebral aquaduct)
-ignore-words-list = te,pres,tha,regio,mebrains,als,fof,mater,vas,ot,tht,olt,aci,loos,varian,nd,quesant,improvision,interpolar
+ignore-words-list = te,pres,tha,regio,mebrains,als,fof,mater,vas,ot,tht,olt,aci,loos,varian,nd,quesant,improvision,interpolar,INFex,ANS,AONd,ECT,fpr,MOT,FRO,INFex,AONd,MOT
