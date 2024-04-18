@@ -5,7 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/SwansonSRB_v1992",
   "@type": "https://openminds.ebrains.eu/core/CommonCoordinateSpaceVersion",
   "abbreviation": "SwansonSRB",
-  "accessibilty": {
+  "accessibility": {
     "@id": "https://openminds.ebrains.eu/instances/productAccessibility/freeAccess"
   },
   "anatomicalAxesOrientation": {
