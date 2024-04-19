@@ -5,7 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.meshview+json",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "dataType": null,
-  "description": "Coordinate lists for display in MeshView (https://scicrunch.org/resolver/RRID:SCR_017222)",
+  "description": "Coordinate triplets for display of point clouds in MeshView (RRID:SCR_017222)",
   "displayLabel": null,
   "fileExtension": [
     ".json"
