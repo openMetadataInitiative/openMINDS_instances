@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/opticalCoherenceTomography",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "Imaging technique that combines interferometry with short-coherence-length light to obtain micrometer-level depth resolution. Transverse scanning of the light beam is used to form two- and three-dimensional images, reflected from bioloical tissue or scattering media [Adapted from [Wikipedia](https://en.wikipedia.org/wiki/Optical_coherence_tomography)].",
+  "definition": "Imaging technique that combines interferometry with short-coherence-length light to obtain micrometer-level depth resolution. Transverse scanning of the light beam is used to form two- and three-dimensional images, reflected from biological tissue or scattering media [Adapted from [Wikipedia](https://en.wikipedia.org/wiki/Optical_coherence_tomography)].",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
