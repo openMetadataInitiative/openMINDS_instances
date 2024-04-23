@@ -9,6 +9,11 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739494",
   "knowledgeSpaceLink": null,
   "name": "differential interference contrast microscopy",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/technique/IRDIC",
+  "synonym": [
+    "IR DIC video microscopy",
+    "IR-DIC",
+    "DIC microscopy",
+    "DIC"
+  ]
 }
