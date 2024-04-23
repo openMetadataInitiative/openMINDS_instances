@@ -2,13 +2,16 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/darkFieldMicroscopy",
+  "@id": "https://openminds.ebrains.eu/instances/technique/darkfieldMicroscopy",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "dark field microscopy",
+  "name": "darkfield microscopy",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "dark-field microscopy",
+    "dark field microscopy"
+  ]
 }
