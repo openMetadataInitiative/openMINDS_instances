@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Bregma-right",
-  "@type": "https://openminds.ebrains.eu/core/CommonCoordinateSpaceVersion",
+  "@type": "https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion",
   "abbreviation": "PW-RBSC-corT",
   "accessibility": {
     "@id": "https://openminds.ebrains.eu/instances/productAccessibility/paidAccess"
