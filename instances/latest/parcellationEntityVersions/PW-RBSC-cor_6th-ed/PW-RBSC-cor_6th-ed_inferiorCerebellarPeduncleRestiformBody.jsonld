@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_inferiorCerebellarPeduncleRestiformBody",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "icp",
+  "additionalRemarks": null,
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_6th-ed_inferiorCerebellarPeduncleRestiformBody",
+  "name": "inferior cerebellar peduncle (restiform body)",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "6th ed.",
+  "versionInnovation": null
+}
+

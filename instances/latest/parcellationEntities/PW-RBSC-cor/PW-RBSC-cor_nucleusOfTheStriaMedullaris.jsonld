@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheStriaMedullaris",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_nucleusOfTheStriaMedullaris"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_nucleusOfTheStriaMedullaris",
+  "name": "nucleus of the stria medullaris",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

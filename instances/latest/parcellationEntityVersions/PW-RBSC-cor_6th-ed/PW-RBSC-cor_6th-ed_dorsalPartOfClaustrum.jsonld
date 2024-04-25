@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsalPartOfClaustrum",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "DCl",
+  "additionalRemarks": null,
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_6th-ed_dorsalPartOfClaustrum",
+  "name": "dorsal part of claustrum",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "6th ed.",
+  "versionInnovation": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_caudalInterstitialNucleusOfTheMedialLongitudinalFasciculus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CI",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_caudalInterstitialNucleusOfTheMedialLongitudinalFasciculus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_caudalInterstitialNucleusOfTheMedialLongitudinalFasciculus",
+  "name": "caudal interstitial nucleus of the medial longitudinal fasciculus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

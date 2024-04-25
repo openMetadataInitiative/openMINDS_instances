@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_substantiaInnominataBasalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SIB",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_substantiaInnominataBasalPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_substantiaInnominataBasalPart",
+  "name": "substantia innominata, basal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

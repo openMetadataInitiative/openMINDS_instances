@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalCorticospinalTract",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "dcs",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsalCorticospinalTract"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dorsalCorticospinalTract",
+  "name": "dorsal corticospinal tract",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

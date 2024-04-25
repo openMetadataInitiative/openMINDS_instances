@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivisionMedialPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "STSM",
+  "additionalRemarks": "The abbreviation of the brain region has a spelling mistake. The assumed correct abbreviation 'STSL' has been added under 'abbreviation'. 'STSM' has been added under 'alternateName'.",
+  "alternateName": [
+    "STSL"
+  ],
+  "correctedName": null,
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivisionMedialPart",
+  "name": "bed nucleus of stria terminalis, supracapsular division, medial part",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "6th ed.",
+  "versionInnovation": null
+}
+
