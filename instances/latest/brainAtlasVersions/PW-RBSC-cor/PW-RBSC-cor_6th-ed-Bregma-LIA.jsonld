@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-right",
+  "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-LIA",
   "@type": "https://openminds.ebrains.eu/sands/BrainAtlasVersion",
   "abbreviation": "PW-RBSC-cor",
   "accessibility": {
@@ -10,7 +10,7 @@
   },
   "author": null,
   "coordinateSpace": {
-    "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Bregma-right"
+    "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Bregma-LIA"
   },
   "copyright": null,
   "custodian": null,
@@ -2481,7 +2481,7 @@
     "@id": "https://openminds.ebrains.eu/instances/atlasType/deterministicAtlas"
   },
   "usedSpecimen": null,
-  "versionIdentifier": "6th ed. (Bregma, right)",
+  "versionIdentifier": "6th ed. (Bregma, LIA)",
   "versionInnovation": "The 6th edition introduces color photographs of the coronal brain section. All diagrams from the previous editions have been completely revised [paraphrased from the ‘Preface’ of the book ISBN: 0-12-547612-4]."
 }
 
