@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/SwansonSRB_v1992",
-  "@type": "https://openminds.ebrains.eu/core/CommonCoordinateSpaceVersion",
+  "@type": "https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion",
   "abbreviation": "SwansonSRB",
   "accessibility": {
     "@id": "https://openminds.ebrains.eu/instances/productAccessibility/freeAccess"
