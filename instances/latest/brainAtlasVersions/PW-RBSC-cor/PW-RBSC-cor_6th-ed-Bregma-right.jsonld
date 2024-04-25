@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-right",
-  "@type": "https://openminds.ebrains.eu/core/BrainAtlasVersion",
+  "@type": "https://openminds.ebrains.eu/sands/BrainAtlasVersion",
   "abbreviation": "PW-RBSC-cor",
   "accessibility": {
     "@id": "https://openminds.ebrains.eu/instances/productAccessibility/paidAccess"
