@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpace/PW-RBSC-corT",
-  "@type": "https://openminds.ebrains.eu/core/CommonCoordinateSpace",
+  "@type": "https://openminds.ebrains.eu/sands/CommonCoordinateSpace",
   "abbreviation": "PW-RBSC-corT",
   "author": null,
   "custodian": null,
