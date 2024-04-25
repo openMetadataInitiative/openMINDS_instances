@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/brainAtlas/SwansonBM",
-  "@type": "https://openminds.ebrains.eu/core/BrainAtlas",
+  "@type": "https://openminds.ebrains.eu/sands/BrainAtlas",
   "abbreviation": "SwansonBM",
   "author": null,
   "custodian": null,
