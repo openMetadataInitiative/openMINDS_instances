@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalPeduncularPontineNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DPPn",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsalPeduncularPontineNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dorsalPeduncularPontineNucleus",
+  "name": "dorsal peduncular pontine nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

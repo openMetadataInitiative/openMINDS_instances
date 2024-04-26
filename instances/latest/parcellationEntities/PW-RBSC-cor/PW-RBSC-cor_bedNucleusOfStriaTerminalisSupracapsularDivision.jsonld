@@ -5,12 +5,14 @@
   "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivision",
   "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
   "abbreviation": "STS",
-  "alternateName": null,
+  "alternateName": [
+    "bed nucleus of the stria terminalis, supracapsular division"
+  ],
   "definition": null,
   "hasParent": null,
   "hasVersion": [
     {
-      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisSupracapsularDivision"
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivision"
     }
   ],
   "lookupLabel": "PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivision",

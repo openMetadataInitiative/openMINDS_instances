@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_substantiaNigraCompactaPartVentralTier",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SNCV",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_substantiaNigraCompactaPartVentralTier"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_substantiaNigraCompactaPartVentralTier",
+  "name": "substantia nigra, compacta part, ventral tier",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+
