@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/deviceType/standardBoreMRIScanner",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
-  "definition": "A 'standard-bore MRI scanner' is a closed high-field scanner which features a capsule-like space where the patient lies on, limiting the patient's movement, and typically has a magnetic strength of 1.0T trough 3.0T.",
+  "definition": "A 'standard-bore MRI scanner' is a closed high-field scanner which features a a magnet surrounding the patient creating a capsule-like space where the patient lies on. The typical magnetic strength lies between 1.0T and 3.0T.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
