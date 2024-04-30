@@ -11,8 +11,8 @@
   "name": "open MRI scanner",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "open-bore magnetic resonance imaging scanner",
     "open magnetic resonance imaging scanner",
+    "open-bore magnetic resonance imaging scanner",
     "open-bore MRI scanner"
   ]
 }
