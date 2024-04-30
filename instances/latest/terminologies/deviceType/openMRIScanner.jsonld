@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/deviceType/openMRIScanner",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
-  "definition": "An 'open MRI scanner' is a low-field scanner which has a magnetic top and bottom, but is otherwise open, increasing patient's comfort and unobstructed view of the scanning area. The typical magnetic strength lies between 0.2T to 0.3T.",
+  "definition": "An 'open MRI scanner' is a low-field scanner which has a magnetic top and bottom, but is otherwise open, increasing patient's comfort and unobstructed view of the scanning area. The typical magnetic strength lies between 0.2T and 0.3T.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
