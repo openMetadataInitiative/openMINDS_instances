@@ -2,12 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/licenses/bsd3",
+  "@id": "https://openminds.ebrains.eu/instances/licenses/BSD-3-Clause",
   "@type": "https://openminds.ebrains.eu/core/License",
-  "fullName": "The 3-Clause BSD License",
+  "fullName": "TBSD 3-Clause 'New' or 'Revised' License",
   "legalCode": "https://spdx.org/licenses/BSD-3-Clause.html",
   "shortName": "BSD-3-Clause",
   "webpage": [
-    "https://opensource.org/licenses/BSD-3-Clause"
+    "https://opensource.org/licenses/BSD-3-Clause",
+    "https://spdx.org/licenses/BSD-3-Clause.html"
   ]
 }

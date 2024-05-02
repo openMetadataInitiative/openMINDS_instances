@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/licenses/mpl2.0",
+  "@id": "https://openminds.ebrains.eu/instances/licenses/MPL-2.0",
   "@type": "https://openminds.ebrains.eu/core/License",
   "fullName": "Mozilla Public License 2.0",
   "legalCode": "https://www.mozilla.org/MPL/2.0/",
