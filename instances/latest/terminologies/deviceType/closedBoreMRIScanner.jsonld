@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/deviceType/closedBoreMRIScanner",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
-  "definition": "A 'closed-bore MRI scanner' is a high-field scanner which features a magnet surrounding the patient creating a capsule-like space where the patient lies on.",
+  "definition": "'Closed-bore MRI scanners' are high-field scanners which feature a magnet surrounding the patient creating a capsule-like space where the patient lies on.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
