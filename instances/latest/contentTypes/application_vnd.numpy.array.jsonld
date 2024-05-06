@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.numpy.array",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "A standard binary file format in NumPy for persisting a single arbitrary NumPy array on disk.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".npy"
+  ],
+  "name": "application/vnd.numpy.array",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "NumPy array"
+  ]
+}
