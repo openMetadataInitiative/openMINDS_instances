@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.freesurfer.metadata+json",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".json"
+  ],
+  "name": "application/vnd.freesurfer.metadata+json",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/json",
+  "specification": null,
+  "synonym": [
+    "FreeSurfer Metadata File"
+  ]
+}
