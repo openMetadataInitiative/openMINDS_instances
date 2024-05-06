@@ -7,7 +7,12 @@
   "dataType": null,
   "description": null,
   "displayLabel": null,
-  "fileExtension": null,
+  "fileExtension": [
+    ".tsq",
+    ".tbk",
+    ".tev",
+    ".sev"
+  ],
   "name": "application/vnd.tdt",
   "relatedMediaType": null,
   "specification": null,
