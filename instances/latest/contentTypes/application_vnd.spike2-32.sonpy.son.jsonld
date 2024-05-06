@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spike2.sonpy.son",
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spike2-32.sonpy.son",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "dataType": null,
   "description": null,
@@ -10,10 +10,10 @@
   "fileExtension": [
     ".smr"
   ],
-  "name": "application/vnd.spike2.sonpy.son",
+  "name": "application/vnd.spike2-32.sonpy.son",
   "relatedMediaType": null,
   "specification": null,
   "synonym": [
-    "CED spike2 files"
+    "CED spike2 files (32 bit)"
   ]
 }
