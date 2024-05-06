@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_probeinterface+json",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "A trivial json-serialisation of a Python dictionary. The dictionary maps every attribute of the Probe class."
+  "displayLabel": null,
+  "fileExtension": [
+    ".json"
+  ],
+  "name": "application/probeinterface+json",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/json",
+  "specification": "https://probeinterface.readthedocs.io/en/main/format_spec.html",
+  "synonym": [
+    "probeinterface (JSON)",
+    "JSON-based probeinterface Format"
+  ]
+}
