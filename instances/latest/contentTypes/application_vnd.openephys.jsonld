@@ -7,7 +7,11 @@
   "dataType": null,
   "description": null,
   "displayLabel": null,
-  "fileExtension": null,
+  "fileExtension": [
+    ".dat",
+    ".npy",
+    ".json"
+  ],
   "name": "application/vnd.openephys",
   "relatedMediaType": null,
   "specification": null,
