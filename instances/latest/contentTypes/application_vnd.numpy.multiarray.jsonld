@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.numpy.multiarray",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "File format by numpy that provides storage of array data using gzip compression.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".npz"
+  ],
+  "name": "application/vnd.numpy.multiarray",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "NumPy multiarray"
+  ]
+}
