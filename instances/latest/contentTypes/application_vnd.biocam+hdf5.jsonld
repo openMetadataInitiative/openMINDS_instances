@@ -2,21 +2,19 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.klustakwik",
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.biocam+hdf5",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "dataType": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
-    ".fet",
-    ".clu",
-    ".res",
-    ".spk"
+    ".hdf5",
+    ".h5"
   ],
-  "name": "application/vnd.klustakwik",
+  "name": "application/vnd.biocam+hdf5",
   "relatedMediaType": null,
   "specification": null,
   "synonym": [
-    "KlustaKwik format"
+    "Biocam HDF5"
   ]
 }
