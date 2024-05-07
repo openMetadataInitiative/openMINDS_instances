@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/text_x-pdb",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "A textual file format describing the three-dimensional structures of molecules held in the [Protein Data Bank](https://www.rcsb.org/).",
+  "displayLabel": null,
+  "fileExtension": [
+    ".pdb"
+  ],
+  "name": "text/x-pdb",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Protein Data Bank Format"
+  ]
+}
