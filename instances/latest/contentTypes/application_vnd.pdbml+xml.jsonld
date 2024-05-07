@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pdbml+xml",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".xml"
+  ],
+  "name": "application/vnd.pdbml+xml",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/text/xml",
+  "specification": "https://pdbml.wwpdb.org/",
+  "synonym": [
+    "Protein Data Bank Markup Language",
+    "PDB Markup Language",
+    "PDBML"
+  ]
+}
