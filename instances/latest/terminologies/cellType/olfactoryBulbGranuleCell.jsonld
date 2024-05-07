@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/cellType/OlfactoryBulbGranuleCell",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/olfactoryBulbGranuleCell",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
   "definition": "'Olfactory bulb granule cells' are axonless inhibitory interneurons and form the majority of neurons in the vertebrate olfactory bulb [adapted from [Egger et al. (2003)](https://doi.org/10.1523%2FJNEUROSCI.23-20-07551.2003)].",
   "description": null,
