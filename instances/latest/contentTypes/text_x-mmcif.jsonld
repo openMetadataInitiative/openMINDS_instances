@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/text_x-mmcif",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "A textual file format for representing macromolecular structure data.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".mmcif"
+  ],
+  "name": "text/x-mmcif",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Macromolecular Crystallographic Information File Format",
+    "mmCIF Format",
+    "PDBx/mmCIF"
+  ]
+}
