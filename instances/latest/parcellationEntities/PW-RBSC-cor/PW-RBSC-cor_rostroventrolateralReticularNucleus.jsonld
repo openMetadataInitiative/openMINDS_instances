@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rostroventrolateralReticularNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "RVL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_rostroventrolateralReticularNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_rostroventrolateralReticularNucleus",
+  "name": "rostroventrolateral reticular nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

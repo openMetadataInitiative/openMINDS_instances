@@ -5,7 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsalNucleusOfTheLateralLemniscus",
   "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
   "abbreviation": "DLL",
-  "additionalRemarks": null,
+  "additionalRemarks": "Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.",
   "alternateName": null,
   "correctedName": null,
   "hasAnnotation": null,
