@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sequencereadarchive.fastq",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "A text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores often including a description added by the Sequence Read Archive.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".fg",
+    ".fg.gz"
+  ],
+  "name": "application/vnd.sequencereadarchive.fastq",
+  "relatedMediaType": null,
+  "specification": "https://en.wikipedia.org/wiki/FASTQ_format",
+  "synonym": [
+    "FASTQ Format",
+    "International Nucleotide Sequence Database Collaboration Sequence Read Archive FASTQ Format",
+    "INSDC Sequence Read Archive FASTQ Format",
+    "International Nucleotide Sequence Database Collaboration SRA FASTQ Format",
+    "INSDC SRA FASTQ Format"    
+  ]
+}
