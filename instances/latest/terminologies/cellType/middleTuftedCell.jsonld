@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cellType/middleTuftedCell",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "definition": "A subclass of neurons situated in the middle layer of the external plexiform layer of the olfactory bulb.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107935",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:121#olfactory-bulb-main-tufted-cell",
+  "name": "middle tufted cell",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_121",
+  "synonym": [
+    "olfactory bulb (main) tufted cell (middle)"
+  ]
+}
