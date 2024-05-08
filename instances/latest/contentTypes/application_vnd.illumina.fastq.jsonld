@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.illumina.fastq",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "A text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores with a systematic identifier assigned by the Illumina software.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".fg",
+    ".fg.gz"
+  ],
+  "name": "application/vnd.illumina.fastq",
+  "relatedMediaType": null,
+  "specification": "https://en.wikipedia.org/wiki/FASTQ_format",
+  "synonym": [
+    "FASTQ Format",
+    "Illumina FASTQ Format"
+  ]
+}
