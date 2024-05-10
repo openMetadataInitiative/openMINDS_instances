@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/licenses/lgpl3.0Only",
+  "@id": "https://openminds.ebrains.eu/instances/licenses/LGPL-3.0-only",
   "@type": "https://openminds.ebrains.eu/core/License",
   "fullName": "GNU Lesser General Public License v3.0 only",
   "legalCode": "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
