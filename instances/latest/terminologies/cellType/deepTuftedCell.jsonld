@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbDeepTuftedCell",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "definition": "A subclass of neurons situated in the innermost (deep) layer of the external plexiform layer of the main olfactory bulb.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "main olfactory bulb deep tufted cell",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "deep tufted cell of the main olfactory bulb"
+  ]
+}
