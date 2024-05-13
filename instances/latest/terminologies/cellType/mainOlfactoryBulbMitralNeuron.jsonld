@@ -2,17 +2,19 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/cellType/mitralCell",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbMitralNeuron",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "definition": "'Mitral cells' are a neuronal cell type in the mammalian olfactory bulb, distinguished by the position of their somata located in an orderly row in the mitral cell layer of the bulb. [from [Wikipedia](https://en.wikipedia.org/wiki/Mitral_cell#Structure)]",
+  "definition": "'Mitral neurons' are a neuronal cell type in the mammalian olfactory bulb, distinguished by the position of their somata located in an orderly row in the mitral cell layer of the bulb. [from [Wikipedia](https://en.wikipedia.org/wiki/Mitral_cell#Structure)]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107933",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:120#olfactory-bulb-main-mitral-cell",
-  "name": "mitral cell",
+  "name": "main olfactory bulb mitral neuron",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_120",
   "synonym": [
     "olfactory bulb (main) mitral cell",
     "olfactory bulb (main) mitral neuron",
-    "mitral neuron"
+    "mitral neuron",
+    "main olfactory bulb mitral cell",
+    "mitral neuron of the main olfactory bulb"
   ]
 }
