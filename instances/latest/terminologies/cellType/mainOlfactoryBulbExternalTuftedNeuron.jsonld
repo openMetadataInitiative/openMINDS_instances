@@ -2,17 +2,19 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbExternalTuftedCell",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbExternalTuftedNeuron",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
   "definition": "An excitatory neuron type found predominately at the glomerular layer of the main olfactory bulb.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107943",
   "knowledgeSpaceLink": null,
-  "name": "main olfactory bulb external tufted cell",
+  "name": "main olfactory bulb external tufted neuron",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_82555",
   "synonym": [
     "olfactory bulb main tufted cell external",
     "olfactory bulb external tufted cell",
-    "external tuftes cell of the main olfactory bulb"
+    "external tuftes cell of the main olfactory bulb",
+    "main olfactory bulb external tufted cell",
+    "external tuftes neuron of the main olfactory bulb"
   ]
 }
