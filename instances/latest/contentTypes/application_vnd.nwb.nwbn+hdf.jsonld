@@ -11,9 +11,6 @@
     ".nwb",
     ".h5"
   ],
-  "http://schema.org/identifier": [
-    "https://openminds.ebrains.eu/instances/contentTypes/application.vnd.nwb.nwbn+hdf"
-  ],
   "name": "application/vnd.nwb.nwbn+hdf",
   "relatedMediaType": null,
   "specification": null,
