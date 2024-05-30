@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Paraventricular nucleus of the hypothalamus' is a nucleus in the anterior part of the hypothalamus.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0773830",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001930#paraventricular-nucleus-of-hypothalamus-1",
+  "name": "paraventricular nucleus of the hypothalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001930",
+  "synonym": [
+    "filiform nucleus",
+    "nuclei paraventriculares",
+    "nuclei paraventricularis hypothalami",
+    "nucleus filiformis",
+    "nucleus hypothalami filiformis",
+    "nucleus hypothalami paraventricularis",
+    "nucleus paraventricularis hypothalami",
+    "Pa",
+    "paraventricular hypothalamic nucleus",
+    "paraventricular nucleus hypothalamus",
+    "paraventricular nucleus of the hypothalamus",
+    "paraventricular nucleus",
+    "parvocellular hypothalamic nucleus",
+    "subcommissural nucleus"
+  ]
+}
