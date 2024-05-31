@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/multivariateAnalysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
+  "definition": "'Multivariate analysis' refers to a group of statistical data analysis procedures that simultaneously consider more than two variables.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "multivariate analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "MVA",
+    "multivariate statistics"
+  ]
+}
