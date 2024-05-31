@@ -2,20 +2,14 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openephys",
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroshare.types",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "dataType": null,
   "description": null,
   "displayLabel": null,
-  "fileExtension": [
-    ".dat",
-    ".npy",
-    ".json"
-  ],
-  "name": "application/vnd.openephys",
+  "fileExtension": null,
+  "name": "application/vnd.neuroshare.types",
   "relatedMediaType": null,
   "specification": null,
-  "synonym": [
-    "Open Ephys Format"
-  ]
+  "synonym": null
 }

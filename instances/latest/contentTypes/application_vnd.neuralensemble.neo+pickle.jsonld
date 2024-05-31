@@ -2,20 +2,19 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openephys",
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuralensemble.neo+pickle",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "dataType": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
-    ".dat",
-    ".npy",
-    ".json"
+    ".pkl",
+    ".pickle"
   ],
-  "name": "application/vnd.openephys",
+  "name": "application/vnd.neuralensemble.neo+pickle",
   "relatedMediaType": null,
   "specification": null,
   "synonym": [
-    "Open Ephys Format"
+    "Pickled Neo Format"
   ]
 }

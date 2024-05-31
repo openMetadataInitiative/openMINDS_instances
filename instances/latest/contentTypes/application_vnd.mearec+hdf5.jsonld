@@ -2,20 +2,20 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openephys",
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mearec+hdf5",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "dataType": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
-    ".dat",
-    ".npy",
-    ".json"
+    ".hdf5",
+    ".h5"
   ],
-  "name": "application/vnd.openephys",
+  "name": "application/vnd.mearec+hdf5",
   "relatedMediaType": null,
   "specification": null,
   "synonym": [
-    "Open Ephys Format"
+    "Multi-Electrode-Arrays HDF5",
+    "MEA HDF5"
   ]
 }

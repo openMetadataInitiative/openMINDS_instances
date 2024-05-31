@@ -2,20 +2,18 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openephys",
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.phy",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "dataType": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
-    ".dat",
-    ".npy",
-    ".json"
+    ".npy"
   ],
-  "name": "application/vnd.openephys",
+  "name": "application/vnd.phy",
   "relatedMediaType": null,
   "specification": null,
   "synonym": [
-    "Open Ephys Format"
+    "phy files"
   ]
 }

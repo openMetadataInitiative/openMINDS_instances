@@ -2,20 +2,18 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openephys",
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spike2-64.sonpy.son",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "dataType": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
-    ".dat",
-    ".npy",
-    ".json"
+    ".smrx"
   ],
-  "name": "application/vnd.openephys",
+  "name": "application/vnd.spike2-64.sonpy.son",
   "relatedMediaType": null,
   "specification": null,
   "synonym": [
-    "Open Ephys Format"
+    "CED spike2 files (64 bit)"
   ]
 }
