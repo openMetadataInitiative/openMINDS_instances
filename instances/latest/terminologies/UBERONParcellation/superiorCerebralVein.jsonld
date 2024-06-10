@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebralVein",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a superficial cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035150)]",
+  "description": "The Superior Cerebral Veins, eight to twelve in number, drain the superior, lateral, and medial surfaces of the hemispheres, and are mainly lodged in the sulci between the gyri, but some run across the gyri. They open into the superior sagittal sinus; the anterior veins runs nearly at right angles to the sinus; the posterior and larger veins are directed obliquely forward and open into the sinus in a direction more or less opposed to the current of the blood contained within it. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035150)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035150#superior-cerebral-vein",
+  "name": "superior cerebral vein",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035150",
+  "synonym": null
+}
+
