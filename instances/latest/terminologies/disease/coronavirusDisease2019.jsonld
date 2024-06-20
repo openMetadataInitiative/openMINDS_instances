@@ -2,15 +2,17 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/disease/coronavirusDisease",
+  "@id": "https://openminds.ebrains.eu/instances/disease/coronavirusDisease2019",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
-  "definition": "A Coronavirus infectious disease that is characterized by fever, cough and shortness of breath and that has_material_basis_in SARS-CoV-2.",
-  "description": "Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+  "definition": "An infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and typically presents with fever, cough and shortness of breath.",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739370",
   "knowledgeSpaceLink": null,
-  "name": "coronavirus disease",
+  "name": "coronavirus disease 2019",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_0080600",
   "synonym": [
+    "COVID-19",
+    "severe acute respiratory syndrome coronavirus 2",
     "2019 Novel Coronavirus (2019-nCoV)",
     "2019-nCoV infection",
     "COVID19",
