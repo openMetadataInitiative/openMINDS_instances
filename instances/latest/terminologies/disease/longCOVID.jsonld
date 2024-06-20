@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/longCOVID",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
+  "definition": "A Coronavirus infectious disease that is characterized by long-term persistent and fluctuating symptoms, in individuals with COVID-19, persisting beyond three to four weeks, including the loss of the ability to smell and taste, breathlessness, fatigue, difficulty in breathing, difficulty concentrating, memory loss, confusion, headache, heart palpitations, chest pain, pain with deep breaths, dizziness, and tachycardia.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "long COVID",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_0080848",
+  "synonym": [
+    "chronic COVID-19",
+    "PASC",
+    "post-acute sequelae of SARS-CoV-2 infection",
+    "post-COVID syndrome"
+  ]
+}
