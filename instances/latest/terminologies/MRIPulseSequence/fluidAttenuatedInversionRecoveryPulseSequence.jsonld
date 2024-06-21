@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/MRIPulseSequence/fluidAttenuatedInversionRecoveryPulseSequence",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MRIPulseSequence",
+  "definition": "A special inversion recovery pulse sequence where the inversion time is adjusted such that at equilibrium there is no net transverse magnetization of fluid in order to null the signal from fluid in the resulting image.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "fluid attenuated inversion recovery pulse sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "FLAIR",
+    "FLAIR pulse sequence"
+  ]
+}
