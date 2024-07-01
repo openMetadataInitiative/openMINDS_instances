@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/motionCapture",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/motionCapture",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
   "definition": "'Motion capture' refers to a group of techniques used to measure the movement and/or position of an object, specimen, or anatomical parts of a specimen over a given period of time.",
   "description": null,
   "interlexIdentifier": null,
