@@ -5,7 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/contentTypes/text_vnd.fsl.bvec",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "dataType": null,
-  "description": "The FSL bvec format is used for ASCII text file that contains a list of gradient directions applied during diffusion weighted volumes. The order of entries in this file must match the order of volumes in the input data (4D NIFTI file).",
+  "description": "The FSL bvec format is an ASCII text file that contains a list of gradient directions applied during diffusion weighted imaging. The values are listed in three rows, representing the x, y, and z axis. The order of entries in this file must match the order of volumes in the input data (4D NIFTI file).",
   "displayLabel": null,
   "fileExtension": [
     ".bvec"
