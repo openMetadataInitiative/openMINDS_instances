@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/biasFieldCorrection",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/biasFieldCorrection",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
   "definition": "A 'bias field correction' is a mathematical technique to remove a corrupting, low frequency signal from magnetic resonance images. This bias field signal is typically caused by inhomogeneities in the magnetic ﬁelds of the magnetic resonance imaging machine.",
   "description": null,
   "interlexIdentifier": null,
