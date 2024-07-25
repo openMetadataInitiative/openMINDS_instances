@@ -2,9 +2,9 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/annotationCriteriaType/probabalisticAnnotation",
+  "@id": "https://openminds.ebrains.eu/instances/annotationCriteriaType/probabilisticAnnotation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnnotationCriteriaType",
-  "definition": "A 'probabalistic annotation' provides the probability or probabilities to which an entity or a list of entities belong(s) to a defined annotation.",
+  "definition": "A 'probabilistic annotation' provides the probability or probabilities to which an entity or a list of entities belong(s) to a defined annotation.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
