@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlOrBr",
+  "@id": "https://openminds.ebrains.eu/instances/colormap/matplotlib.colormaps.YlOrBr",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
   "definition": "The colormap 'YlOrBr' is a sequential colormap of the Python plotting library Matplotlib.",
   "description": null,

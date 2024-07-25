@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuRd",
+  "@id": "https://openminds.ebrains.eu/instances/colormap/matplotlib.colormaps.PuRd",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
   "definition": "The colormap 'PuRd' is a sequential colormap of the Python plotting library Matplotlib.",
   "description": null,

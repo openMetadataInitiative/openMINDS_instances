@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Oranges",
+  "@id": "https://openminds.ebrains.eu/instances/colormap/matplotlib.colormaps.Oranges",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
   "definition": "The colormap 'Oranges' is a sequential colormap of the Python plotting library Matplotlib.",
   "description": null,

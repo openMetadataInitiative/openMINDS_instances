@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlGn",
+  "@id": "https://openminds.ebrains.eu/instances/colormap/matplotlib.colormaps.YlGn",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
   "definition": "The colormap 'YlGn' is a sequential colormap of the Python plotting library Matplotlib.",
   "description": null,

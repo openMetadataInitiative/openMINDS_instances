@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.rainbow",
+  "@id": "https://openminds.ebrains.eu/instances/colormap/matplotlib.colormaps.rainbow",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
   "definition": "The colormap 'rainbow' is a miscellaneous colormap of the Python plotting library Matplotlib.",
   "description": null,
