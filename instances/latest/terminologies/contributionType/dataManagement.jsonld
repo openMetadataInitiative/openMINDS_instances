@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contributionType/dataManagment",
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/dataManagement",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
   "definition": null,
   "description": null,
