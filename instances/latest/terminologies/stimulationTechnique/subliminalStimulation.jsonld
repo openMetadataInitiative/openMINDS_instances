@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/subliminalStimulation",
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/subliminalStimulation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
   "definition": "'Subliminal stimulation' is a technique providing any sensory stimuli below an individual's threshold for conscious perception (adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli))",
   "description": null,

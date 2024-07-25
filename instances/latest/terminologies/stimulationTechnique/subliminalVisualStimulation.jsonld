@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/subliminalVisualSimulation",
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/subliminalVisualSimulation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
   "definition": "'Subliminal visual simulation' is a technique providing visual stimuli below an indivdual's threshold for conscious perception [adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli)]",
   "description": null,
