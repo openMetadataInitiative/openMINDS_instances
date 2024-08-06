@@ -8,7 +8,8 @@
   "description": null,
   "displayLabel": null,
   "fileExtension": [
-    ".gii"
+    ".gii",
+    ".gii.gz"
   ],
   "name": "application/vnd.gifti",
   "relatedMediaType": null,
