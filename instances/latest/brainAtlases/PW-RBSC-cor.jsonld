@@ -2875,16 +2875,16 @@
   },
   "hasVersion": [
     {
-      "@type": "https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-LIA"
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-LIA"
     },
     {
-      "@type": "https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-RIA"
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-RIA"
     },
     {
-      "@type": "https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-LSA"
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-LSA"
     },
     {
-      "@type": "https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-RSA"
+      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-RSA"
     }
   ],
   "homepage": null,
