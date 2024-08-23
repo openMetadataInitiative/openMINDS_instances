@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openminds.schema+json",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "JSON-Schema inspired schema syntax for specifying properties and values of linked data.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".schema.omi.json"
+  ],
+  "name": "application/vnd.openminds.schema+json",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "openMINDS schema"
+  ]
+}
