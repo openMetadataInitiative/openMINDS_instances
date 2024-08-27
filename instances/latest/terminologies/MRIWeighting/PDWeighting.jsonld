@@ -11,15 +11,18 @@
   "name": "PD weighting",
   "preferredOntologyIdentifier": null,
   "synonym": [
+    "PD weighted image processing",
     "PD weighted imaging",
     "PD weighted magnetic resonance imaging",
     "PD weighted MRI",
+    "PDw image processing",
     "PDw imaging",
     "PDw magnetic resonance imaging",
     "PDw MRI",
-    "proton density weighting",
+    "proton density weighted image processing",
     "proton density weighted imaging",
     "proton density weighted magnetic resonance imaging",
-    "proton density weighted MRI"
+    "proton density weighted MRI",
+    "proton density weighting"
   ]
 }
