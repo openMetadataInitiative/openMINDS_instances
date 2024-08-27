@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/MRIPulseSequence/T2-starWeighting",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MRIWeighting",
-  "definition": "TBD",
+  "definition": "Image processing technique that specifically enhances the signal-to-noise ratio of the observed spin-spin relaxation (T2-star relaxation time) which includes field inhomogeneities.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
