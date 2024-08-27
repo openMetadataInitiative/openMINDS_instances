@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/MRIPulseSequence/T1RhoWeighting",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MRIWeighting",
+  "definition": "Image processing technique that specifically enhances the signal-to-noise ratio of the spin-lattice relaxation in the rotation frame at the presence of an external RF pulse in the transverse plane (T1 rho relaxation time).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "T1 rho weighting",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "T1 rho weighted image processing",
+    "T1 rho weighted imaging",
+    "T1 rho weighted magnetic resonance imaging",
+    "T1 rho weighted MRI",
+    "T1ρ weighted image processing",
+    "T1ρ weighted imaging",
+    "T1ρ weighted magnetic resonance imaging",
+    "T1ρ weighted MRI"
+  ]
+}
