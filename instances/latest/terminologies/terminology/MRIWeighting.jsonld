@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/MRIWeighting",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "'MRI weighting' refers to a class of imaging techniques where the image contrast is dominated by a specific intrinsic tissue parameter (T1, T2, spin-density (ρ), diffusion, susceptibility, chemical shift, flow, perfusion, etc.).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MRI weighting",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
