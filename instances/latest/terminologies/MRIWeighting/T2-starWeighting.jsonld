@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/MRIPulseSequence/T2-starWeighting",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MRIWeighting",
+  "definition": "TBD",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "T2-star weighting",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "T2* weighted imaging",
+    "T2* weighted magnetic resonance imaging",
+    "T2* weighted MRI",
+    "T2*w imaging",
+    "T2*w magnetic resonance imaging",
+    "T2*w MRI",
+    "T2-star weighted imaging",
+    "T2-star weighted magnetic resonance imaging",
+    "T2-star weighted MRI"
+  ]
+}
