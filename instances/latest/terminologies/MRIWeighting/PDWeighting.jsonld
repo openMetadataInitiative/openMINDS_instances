@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/MRIPulseSequence/PDWeighting",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MRIWeighting",
-  "definition": "TBD",
+  "definition": "Image processing technique that specifically enhances the signal-to-noise ratio of density of protons (hydrogen atoms).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
