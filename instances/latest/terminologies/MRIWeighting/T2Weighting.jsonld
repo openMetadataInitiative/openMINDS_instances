@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/MRIPulseSequence/T2Weighting",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MRIWeighting",
-  "definition": "Weighting technique in magnetic resonance imaging that allows the magnetization of the specimen or object to decay (spin-spin relaxation) before measuring the magnetic resonance signal by changing the echo time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/MRI_sequence)]",
+  "definition": "Image processing technique that specifically enhances the signal-to-noise ration of the spin-spin relaxation (T2 relaxation time).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
