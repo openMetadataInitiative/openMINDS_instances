@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/MRIPulseSequence/R2Weighting",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MRIWeighting",
+  "definition": "Image processing technique that creates the image contrast from the reciprocal of the T2 relaxation time.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "R2 weighting",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "R2 weighted image processing",
+    "R2 weighted imaging",
+    "R2 weighted magnetic resonance imaging",
+    "R2 weighted MRI",
+    "R2w image processing",
+    "R2w imaging",
+    "R2w magnetic resonance imaging",
+    "R2w MRI"
+  ]
+}
