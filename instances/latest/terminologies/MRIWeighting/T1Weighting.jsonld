@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/MRIPulseSequence/T1Weighting",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MRIWeighting",
-  "definition": "Image processing technique that specifically enhances the signal-to-noise ration of the spin-lattice relaxation (T1 relaxation time).",
+  "definition": "Image processing technique that specifically enhances the signal-to-noise ratio of the spin-lattice relaxation (T1 relaxation time).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
