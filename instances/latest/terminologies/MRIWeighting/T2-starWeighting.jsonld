@@ -11,14 +11,17 @@
   "name": "T2-star weighting",
   "preferredOntologyIdentifier": null,
   "synonym": [
+    "T2-star weighted image processing",
+    "T2-star weighted imaging",
+    "T2-star weighted magnetic resonance imaging",
+    "T2-star weighted MRI",
+    "T2* weighted image processing",
     "T2* weighted imaging",
     "T2* weighted magnetic resonance imaging",
     "T2* weighted MRI",
+    "T2*w image processing",
     "T2*w imaging",
     "T2*w magnetic resonance imaging",
-    "T2*w MRI",
-    "T2-star weighted imaging",
-    "T2-star weighted magnetic resonance imaging",
-    "T2-star weighted MRI"
+    "T2*w MRI"
   ]
 }
