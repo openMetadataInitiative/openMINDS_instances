@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/MRIPulseSequence/T2-starWeighting",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MRIWeighting",
+  "definition": "Image processing technique that specifically enhances the signal-to-noise ratio of the observed spin-spin relaxation (T2-star relaxation time) which includes field inhomogeneities.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "T2-star weighting",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "T2-star weighted image processing",
+    "T2-star weighted imaging",
+    "T2-star weighted magnetic resonance imaging",
+    "T2-star weighted MRI",
+    "T2* weighted image processing",
+    "T2* weighted imaging",
+    "T2* weighted magnetic resonance imaging",
+    "T2* weighted MRI",
+    "T2* weighting",
+    "T2*w image processing",
+    "T2*w imaging",
+    "T2*w magnetic resonance imaging",
+    "T2*w MRI"
+  ]
+}
