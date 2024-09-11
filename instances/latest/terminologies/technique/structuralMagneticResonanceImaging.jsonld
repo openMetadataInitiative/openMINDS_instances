@@ -4,13 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/structuralMagneticResonanceImaging",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "A magnetic resonance imaging technique that uses strong magnetic fields, magnetic field gradients, and radio waves to generate images with static information of the scanned body.",
+  "definition": "A magnetic resonance imaging technique that generates static images of some aspect of the structural anatomy of a specimen.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "structural magnetic resonance imaging",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "sMRI"
+    "sMRI",
+    "MRI",
+    "magnetic resonance imaging"
   ]
 }
