@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+.good {
+    background-color: green;
+}
+
+.medium {
+    background-color: orange;
+}
+
+.bad {
+    background-color: red;
+}
+
+th {
+    text-align: center;
+    min-width: 6rem;
+}
+
+td {
+    min-width: 6rem;
+}
