@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_x-tgif",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".obj"
+  ],
+  "name": "application/x-tgif",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Tgif file format"
+  ]
+}

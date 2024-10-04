@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractIntermediatePart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SolIM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractIntermediatePart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_nucleusOfTheSolitaryTractIntermediatePart",
+  "name": "nucleus of the solitary tract, intermediate part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

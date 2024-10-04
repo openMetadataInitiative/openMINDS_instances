@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_simpleLobuleB",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SimB",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_simpleLobuleB"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_simpleLobuleB",
+  "name": "simple lobule B",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

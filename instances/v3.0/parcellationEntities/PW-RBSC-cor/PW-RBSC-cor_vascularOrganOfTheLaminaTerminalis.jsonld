@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vascularOrganOfTheLaminaTerminalis",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "VOLT",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_vascularOrganOfTheLaminaTerminalis"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_vascularOrganOfTheLaminaTerminalis",
+  "name": "vascular organ of the lamina terminalis",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

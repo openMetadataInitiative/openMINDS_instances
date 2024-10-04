@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_medialEntorhinalCortexVentralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "MEntV",
+  "additionalRemarks": "Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.",
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_6th-ed_medialEntorhinalCortexVentralPart",
+  "name": "medial entorhinal cortex, ventral part",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "6th ed.",
+  "versionInnovation": null
+}
+

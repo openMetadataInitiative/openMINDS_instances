@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nrrd",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".txt",
+    ".raw",
+    ".nhdr",
+    ".nrrd"
+  ],
+  "name": "application/vnd.nrrd",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Nearly Raw Raster Data"
+  ]
+}

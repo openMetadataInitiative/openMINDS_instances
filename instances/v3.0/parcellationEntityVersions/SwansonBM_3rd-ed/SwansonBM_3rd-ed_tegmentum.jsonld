@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tegmentum",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "TG",
+  "additionalRemarks": null,
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_3rd-ed_tegmentum",
+  "name": "tegmentum",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "3rd ed.",
+  "versionInnovation": null
+}
+

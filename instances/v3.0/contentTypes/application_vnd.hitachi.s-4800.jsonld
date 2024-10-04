@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hitachi.s-4800",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".jpg",
+    ".bmp",
+    ".tif",
+    ".txt"
+  ],
+  "name": "application/vnd.hitachi.s-4800",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Hitachi S-4800"
+  ]
+}

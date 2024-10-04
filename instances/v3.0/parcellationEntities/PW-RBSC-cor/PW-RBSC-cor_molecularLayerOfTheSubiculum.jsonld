@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_molecularLayerOfTheSubiculum",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "MoS",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_molecularLayerOfTheSubiculum"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_molecularLayerOfTheSubiculum",
+  "name": "molecular layer of the subiculum",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

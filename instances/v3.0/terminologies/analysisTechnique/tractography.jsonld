@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/tractography",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "tractography",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

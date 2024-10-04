@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/licenses/MIT",
+  "@type": "https://openminds.ebrains.eu/core/License",
+  "fullName": "MIT License",
+  "legalCode": "https://spdx.org/licenses/MIT.html",
+  "shortName": "MIT",
+  "webpage": [
+    "https://opensource.org/licenses/MIT",
+    "https://spdx.org/licenses/MIT.html"
+  ]
+}

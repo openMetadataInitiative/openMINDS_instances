@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_preEdingerWestphalNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PrEW",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_preEdingerWestphalNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_preEdingerWestphalNucleus",
+  "name": "pre-Edinger-Westphal nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

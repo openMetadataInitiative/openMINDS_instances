@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.axio-csm",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".lsm  "
+  ],
+  "name": "application/vnd.zeiss.axio-csm",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

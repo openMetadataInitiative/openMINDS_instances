@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralPosteriorNucleusOfTheThalamusParvicellularPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "VPPC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_ventralPosteriorNucleusOfTheThalamusParvicellularPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_ventralPosteriorNucleusOfTheThalamusParvicellularPart",
+  "name": "ventral posterior nucleus of the thalamus, parvicellular part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

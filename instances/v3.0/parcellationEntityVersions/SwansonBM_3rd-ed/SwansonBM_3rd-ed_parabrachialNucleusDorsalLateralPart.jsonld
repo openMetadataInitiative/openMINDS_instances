@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusDorsalLateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "PBld",
+  "additionalRemarks": null,
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_3rd-ed_parabrachialNucleusDorsalLateralPart",
+  "name": "parabrachial nucleus, dorsal lateral part",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "3rd ed.",
+  "versionInnovation": null
+}
+

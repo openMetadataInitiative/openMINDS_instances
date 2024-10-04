@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionPosteriorPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "REp",
+  "additionalRemarks": "Corrected abbreviation based on ['Errata for Brain maps: structure of the rat brain, 3rd edition'](https://larrywswanson.com/wp-content/uploads/2015/03/BM3-Errata.pdf). 'REcp' has been added under 'alternateName'.",
+  "alternateName": [
+    "REcp"
+  ],
+  "correctedName": null,
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionPosteriorPart",
+  "name": "nucleus reuniens, caudal division, posterior part",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "3rd ed.",
+  "versionInnovation": null
+}
+

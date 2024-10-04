@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralStripeOfTheStriatum",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "LSS",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_lateralStripeOfTheStriatum"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_lateralStripeOfTheStriatum",
+  "name": "lateral stripe of the striatum",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interpeduncularNucleusDorsomedialSubnucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "IPDM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_interpeduncularNucleusDorsomedialSubnucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_interpeduncularNucleusDorsomedialSubnucleus",
+  "name": "interpeduncular nucleus, dorsomedial subnucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

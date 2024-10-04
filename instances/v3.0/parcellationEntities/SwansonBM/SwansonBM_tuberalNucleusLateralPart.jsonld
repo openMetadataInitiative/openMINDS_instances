@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_tuberalNucleusLateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "TUl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tuberalNucleusLateralPart"
+    }
+  ],
+  "lookupLabel": "SwansonBM_tuberalNucleusLateralPart",
+  "name": "tuberal nucleus, lateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

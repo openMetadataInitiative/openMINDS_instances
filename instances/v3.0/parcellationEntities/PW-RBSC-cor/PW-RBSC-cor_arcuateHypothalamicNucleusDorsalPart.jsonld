@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_arcuateHypothalamicNucleusDorsalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "ArcD",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleusDorsalPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_arcuateHypothalamicNucleusDorsalPart",
+  "name": "arcuate hypothalamic nucleus, dorsal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

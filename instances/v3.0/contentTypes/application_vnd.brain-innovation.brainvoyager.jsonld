@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brain-innovation.brainvoyager",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".v16",
+    ".vmr"
+  ],
+  "name": "application/vnd.brain-innovation.brainvoyager",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

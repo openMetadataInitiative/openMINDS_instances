@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "STSL",
+  "alternateName": [
+    "STSM"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart",
+  "name": "bed nucleus of stria terminalis, supracapsular division, lateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_gustatoryArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "GU",
+  "additionalRemarks": null,
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_3rd-ed_gustatoryArea",
+  "name": "gustatory area",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "3rd ed.",
+  "versionInnovation": null
+}
+

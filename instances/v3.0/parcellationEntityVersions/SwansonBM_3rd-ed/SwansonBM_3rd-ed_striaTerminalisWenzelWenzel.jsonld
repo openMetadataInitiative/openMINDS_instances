@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_striaTerminalisWenzelWenzel",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "st",
+  "additionalRemarks": null,
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_3rd-ed_striaTerminalisWenzelWenzel",
+  "name": "stria terminalis [Wenzel-Wenzel]",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "3rd ed.",
+  "versionInnovation": null
+}
+

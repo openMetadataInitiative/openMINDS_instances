@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.asciidoc",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".asciidoc",
+    ".adoc"
+  ],
+  "name": "application/vnd.asciidoc",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "AsciiDoc"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/text_plain",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".txt"
+  ],
+  "name": "text/plain",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "plain text file format"
+  ]
+}

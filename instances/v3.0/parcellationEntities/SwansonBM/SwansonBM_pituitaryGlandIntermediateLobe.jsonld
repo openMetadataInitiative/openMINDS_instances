@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_pituitaryGlandIntermediateLobe",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "IL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pituitaryGlandIntermediateLobe"
+    }
+  ],
+  "lookupLabel": "SwansonBM_pituitaryGlandIntermediateLobe",
+  "name": "pituitary gland, intermediate lobe",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

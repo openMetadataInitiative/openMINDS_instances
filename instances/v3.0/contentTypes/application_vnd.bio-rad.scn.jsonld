@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bio-rad.scn",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".scn"
+  ],
+  "name": "application/vnd.bio-rad.scn",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Bio-Rad SCN"
+  ]
+}

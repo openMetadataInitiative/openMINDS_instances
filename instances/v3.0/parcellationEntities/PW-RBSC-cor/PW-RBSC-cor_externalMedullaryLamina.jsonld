@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_externalMedullaryLamina",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "eml",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_externalMedullaryLamina"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_externalMedullaryLamina",
+  "name": "external medullary lamina",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

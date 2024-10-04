@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_principalMammillaryTractKolliker",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "pm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_principalMammillaryTractKolliker"
+    }
+  ],
+  "lookupLabel": "SwansonBM_principalMammillaryTractKolliker",
+  "name": "principal mammillary tract [Kölliker]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

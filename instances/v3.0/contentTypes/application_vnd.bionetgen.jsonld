@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bionetgen",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".ebngl",
+    ".bngl"
+  ],
+  "name": "application/vnd.bionetgen",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "BioNetGen Language"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_medianEminenceExternalLamina",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "MEex",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medianEminenceExternalLamina"
+    }
+  ],
+  "lookupLabel": "SwansonBM_medianEminenceExternalLamina",
+  "name": "median eminence, external lamina",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_r1ReticularFormation",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "r1Rt",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_r1ReticularFormation"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_r1ReticularFormation",
+  "name": "r1 reticular formation",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

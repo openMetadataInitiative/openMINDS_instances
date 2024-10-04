@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_striaMedullarisOfTheThalamus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "sm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_striaMedullarisOfTheThalamus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_striaMedullarisOfTheThalamus",
+  "name": "stria medullaris of the thalamus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

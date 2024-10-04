@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivision",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "STS",
+  "additionalRemarks": "Brain region name and abbreviation listed both in chapter 'List of Abbreviations' and twice in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'. In 'List of Structures', one of the region names is an alternate version of the region name ('bed nucleus of the stria [...]' instead of 'bed nucleus of stria [...]'). The alternate name 'bed nucleus of the stria terminalis, supracapsular division' has been added under 'alternateName'.",
+  "alternateName": [
+    "bed nucleus of the stria terminalis, supracapsular division"
+  ],
+  "correctedName": null,
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivision",
+  "name": "bed nucleus of stria terminalis, supracapsular division",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "6th ed.",
+  "versionInnovation": null
+}
+

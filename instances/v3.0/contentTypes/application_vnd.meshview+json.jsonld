@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.meshview+json",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "Coordinate triplets for display of point clouds in MeshView (RRID:SCR_017222)",
+  "displayLabel": null,
+  "fileExtension": [
+    ".json"
+  ],
+  "name": "application_vnd.meshview+json",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/json",
+  "specification": null,
+  "synonym": [
+    "MeshView JavaScript Object Notation",
+    "MeshView JSON"
+  ]
+}

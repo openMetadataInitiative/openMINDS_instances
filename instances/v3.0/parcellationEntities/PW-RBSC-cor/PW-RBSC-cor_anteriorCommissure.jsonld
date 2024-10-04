@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorCommissure",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "ac",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_anteriorCommissure"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_anteriorCommissure",
+  "name": "anterior commissure",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

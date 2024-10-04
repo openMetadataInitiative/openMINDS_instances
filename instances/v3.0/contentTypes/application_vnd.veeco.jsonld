@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.veeco",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".tfr",
+    ".ffr",
+    ".zfr",
+    ".zfp",
+    ".2fl"
+  ],
+  "name": "application/vnd.veeco",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "TopoMetrix"
+  ]
+}

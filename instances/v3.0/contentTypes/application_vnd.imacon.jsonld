@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imacon",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".fff"
+  ],
+  "name": "application/vnd.imacon",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Imacon"
+  ]
+}

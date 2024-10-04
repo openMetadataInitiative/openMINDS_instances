@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.scalasca.cube4",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".cubex"
+  ],
+  "name": "application/vnd.scalasca.cube4",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

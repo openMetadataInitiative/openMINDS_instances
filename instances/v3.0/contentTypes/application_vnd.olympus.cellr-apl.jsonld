@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus.cellr-apl",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".obsep",
+    ".tiff",
+    ".tnb",
+    ".mtb",
+    ".apl"
+  ],
+  "name": "application/vnd.olympus.cellr-apl",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Olympus CellR/APL"
+  ]
+}

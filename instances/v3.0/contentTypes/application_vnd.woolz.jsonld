@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.woolz",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".wlz"
+  ],
+  "name": "application/vnd.woolz",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

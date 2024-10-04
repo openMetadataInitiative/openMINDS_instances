@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_superiorCerebellarPeduncleBrachiumConjunctivum",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "scp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_superiorCerebellarPeduncleBrachiumConjunctivum"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_superiorCerebellarPeduncleBrachiumConjunctivum",
+  "name": "superior cerebellar peduncle (brachium conjunctivum)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

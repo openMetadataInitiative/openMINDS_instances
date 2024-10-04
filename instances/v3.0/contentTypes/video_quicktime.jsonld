@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/video_quicktime",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".mov"
+  ],
+  "name": "video/quicktime",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "QuickTime Movie"
+  ]
+}

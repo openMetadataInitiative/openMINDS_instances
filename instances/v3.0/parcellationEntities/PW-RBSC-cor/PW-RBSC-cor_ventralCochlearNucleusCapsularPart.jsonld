@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralCochlearNucleusCapsularPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "VCCap",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_ventralCochlearNucleusCapsularPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_ventralCochlearNucleusCapsularPart",
+  "name": "ventral cochlear nucleus, capsular part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

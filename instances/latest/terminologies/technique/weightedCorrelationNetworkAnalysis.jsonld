@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/weightedCorrelationNetworkAnalysis",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.om-i.org/instances/technique/weightedCorrelationNetworkAnalysis",
+  "@type": "https://openminds.om-i.org/types/controlledTerms/Technique",
   "definition": "Weighted correlation network analysis is a widely used data mining method for studying networks based on pairwise correlations between variables. While it can be applied to most high-dimensional data sets, it has been most widely used in genomic applications. [adopted from: [wikipedia](https://en.wikipedia.org/wiki/Weighted_correlation_network_analysis)]",
   "description": null,
   "interlexIdentifier": null,

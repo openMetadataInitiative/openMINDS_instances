@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularThalamicNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PV",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_paraventricularThalamicNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_paraventricularThalamicNucleus",
+  "name": "paraventricular thalamic nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

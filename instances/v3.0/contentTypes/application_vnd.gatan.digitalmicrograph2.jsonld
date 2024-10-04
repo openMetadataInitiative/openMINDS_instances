@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.gatan.digitalmicrograph2",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": null,
+  "name": "application/vnd.gatan.digitalmicrograph2",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Gatan Digital Micrograph 2"
+  ]
+}

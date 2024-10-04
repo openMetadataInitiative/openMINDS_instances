@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica-biosystems.aperiosvstiff",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".tiff",
+    ".svs"
+  ],
+  "name": "application/vnd.leica-biosystems.aperiosvstiff",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

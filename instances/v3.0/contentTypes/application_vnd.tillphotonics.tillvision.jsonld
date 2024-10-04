@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tillphotonics.tillvision",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".vws"
+  ],
+  "name": "application/vnd.tillphotonics.tillvision",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_medianEminence",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "ME",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medianEminence"
+    }
+  ],
+  "lookupLabel": "SwansonBM_medianEminence",
+  "name": "median eminence",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

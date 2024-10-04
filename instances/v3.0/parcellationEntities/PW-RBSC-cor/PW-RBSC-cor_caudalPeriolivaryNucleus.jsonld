@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_caudalPeriolivaryNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CPO",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_caudalPeriolivaryNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_caudalPeriolivaryNucleus",
+  "name": "caudal periolivary nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

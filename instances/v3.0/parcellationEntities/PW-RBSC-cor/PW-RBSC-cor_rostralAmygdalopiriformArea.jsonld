@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rostralAmygdalopiriformArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "RAPir",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_rostralAmygdalopiriformArea"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_rostralAmygdalopiriformArea",
+  "name": "rostral amygdalopiriform area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

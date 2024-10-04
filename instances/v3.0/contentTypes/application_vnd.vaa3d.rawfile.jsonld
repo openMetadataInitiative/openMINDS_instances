@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.rawfile",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".v3draw",
+    ".raw",
+    ".v3dpbd"
+  ],
+  "name": "application/vnd.vaa3d.rawfile",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

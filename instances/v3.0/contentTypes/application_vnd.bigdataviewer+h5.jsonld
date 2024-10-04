@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bigdataviewer+h5",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".h5"
+  ],
+  "name": "application/vnd.bigdataviewer+h5",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Big Data Viewer"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.inveon",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".hdr"
+  ],
+  "name": "application/vnd.inveon",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Inveon"
+  ]
+}

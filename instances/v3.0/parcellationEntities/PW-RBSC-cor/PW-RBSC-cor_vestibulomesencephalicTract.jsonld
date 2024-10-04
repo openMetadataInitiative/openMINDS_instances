@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vestibulomesencephalicTract",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "veme",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_vestibulomesencephalicTract"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_vestibulomesencephalicTract",
+  "name": "vestibulomesencephalic tract",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

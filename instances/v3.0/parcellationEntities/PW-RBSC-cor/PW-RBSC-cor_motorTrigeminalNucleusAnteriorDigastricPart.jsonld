@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_motorTrigeminalNucleusAnteriorDigastricPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "5ADi",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_motorTrigeminalNucleusAnteriorDigastricPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_motorTrigeminalNucleusAnteriorDigastricPart",
+  "name": "motor trigeminal nucleus, anterior digastric part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

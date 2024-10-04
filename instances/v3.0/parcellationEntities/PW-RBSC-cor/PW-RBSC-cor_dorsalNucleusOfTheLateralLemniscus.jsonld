@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalNucleusOfTheLateralLemniscus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DLL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsalNucleusOfTheLateralLemniscus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dorsalNucleusOfTheLateralLemniscus",
+  "name": "dorsal nucleus of the lateral lemniscus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

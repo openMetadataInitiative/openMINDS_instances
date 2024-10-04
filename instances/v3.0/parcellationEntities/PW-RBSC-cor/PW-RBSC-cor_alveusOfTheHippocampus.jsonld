@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_alveusOfTheHippocampus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "alv",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_alveusOfTheHippocampus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_alveusOfTheHippocampus",
+  "name": "alveus of the hippocampus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

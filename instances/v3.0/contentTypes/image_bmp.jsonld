@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/image_bmp",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".bmp"
+  ],
+  "name": "image/bmp",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/image/bmp",
+  "specification": null,
+  "synonym": [
+    "Bitmap image"
+  ]
+}

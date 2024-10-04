@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_x-blender",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".blend"
+  ],
+  "name": "application/x-blender",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Blender scene description format"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/text_x-cml+xml",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".cml"
+  ],
+  "name": "text/x-cml+xml",
+  "relatedMediaType": null,
+  "specification": "http://www.xml-cml.org/schema/schema3/schema.xsd",
+  "synonym": null
+}

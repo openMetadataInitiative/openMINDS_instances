@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mrtrix.legacysparseformat",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".msf",
+    ".msh"
+  ],
+  "name": "application/vnd.mrtrix.legacysparseformat",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Legacy MRtrix Sparse Format"
+  ]
+}

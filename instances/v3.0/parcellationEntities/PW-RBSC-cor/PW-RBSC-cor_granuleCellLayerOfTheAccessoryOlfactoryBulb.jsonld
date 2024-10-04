@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_granuleCellLayerOfTheAccessoryOlfactoryBulb",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "GrA",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_granuleCellLayerOfTheAccessoryOlfactoryBulb"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_granuleCellLayerOfTheAccessoryOlfactoryBulb",
+  "name": "granule cell layer of the accessory olfactory bulb",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

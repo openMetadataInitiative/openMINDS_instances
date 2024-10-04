@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_principalSensoryTrigeminalNucleusDorsomedialPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "Pr5DM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_principalSensoryTrigeminalNucleusDorsomedialPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_principalSensoryTrigeminalNucleusDorsomedialPart",
+  "name": "principal sensory trigeminal nucleus, dorsomedial part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

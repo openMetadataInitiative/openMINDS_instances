@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_zonaIncertaDopaminergicGroup",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "ZIda",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_zonaIncertaDopaminergicGroup"
+    }
+  ],
+  "lookupLabel": "SwansonBM_zonaIncertaDopaminergicGroup",
+  "name": "zona incerta, dopaminergic group",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.edf",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".edf"
+  ],
+  "name": "application/vnd.edf",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "European Data Format"
+  ]
+}

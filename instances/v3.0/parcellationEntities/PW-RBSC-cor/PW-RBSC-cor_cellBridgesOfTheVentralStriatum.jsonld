@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cellBridgesOfTheVentralStriatum",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CB",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_cellBridgesOfTheVentralStriatum"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_cellBridgesOfTheVentralStriatum",
+  "name": "cell bridges of the ventral striatum",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

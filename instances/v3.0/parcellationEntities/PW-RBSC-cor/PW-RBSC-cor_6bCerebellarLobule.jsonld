@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_6bCerebellarLobule",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "6bCb",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_6bCerebellarLobule"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_6bCerebellarLobule",
+  "name": "6b cerebellar lobule",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

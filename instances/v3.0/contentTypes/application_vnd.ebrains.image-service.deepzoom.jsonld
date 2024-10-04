@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ebrains.image-service.deepzoom",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "This content type defines a file repository produced by the EBRAINS image-service holding a collection of files that is conform with the Microsoft Deep Zoom specifications.",
+  "displayLabel": null,
+  "fileExtension": null,
+  "name": "application/vnd.ebrains.image-service.deepzoom",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "EBRAINS image-service with Deep Zoom specifications",
+    "EBRAINS image-service Deep Zoom specs"
+  ]
+}

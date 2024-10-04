@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_layer6bOfCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "6b",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_layer6bOfCortex"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_layer6bOfCortex",
+  "name": "layer 6b of cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

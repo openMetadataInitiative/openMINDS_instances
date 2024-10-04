@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/image_vnd.compix.simplepcihcimage",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".cxd "
+  ],
+  "name": "image/vnd.compix.simplepcihcimage",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "SimplePCI, HCImage"
+  ]
+}

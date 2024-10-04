@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.intranat+txt",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".pts",
+    ".txt"
+  ],
+  "name": "application/vnd.intranat+txt",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "IntrAnat PTS"
+  ]
+}

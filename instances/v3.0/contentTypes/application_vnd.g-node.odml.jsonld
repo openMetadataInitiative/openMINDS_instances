@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.g-node.odml",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".odml"
+  ],
+  "name": "application/vnd.g-node.odml",
+  "relatedMediaType": null,
+  "specification": "https://g-node.github.io/python-odml/",
+  "synonym": [
+    "odML",
+    "open metadata Markup Language"
+  ]
+}

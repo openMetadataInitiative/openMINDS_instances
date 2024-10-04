@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.nuance",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".im3"
+  ],
+  "name": "application/vnd.perkinelmer.nuance",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "PerkinElmer Nuance"
+  ]
+}

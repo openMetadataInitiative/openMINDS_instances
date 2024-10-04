@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsolateralEntorhinalCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DLEnt",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsolateralEntorhinalCortex"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dorsolateralEntorhinalCortex",
+  "name": "dorsolateral entorhinal cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

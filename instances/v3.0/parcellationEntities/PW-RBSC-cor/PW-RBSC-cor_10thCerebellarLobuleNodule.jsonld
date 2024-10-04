@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_10thCerebellarLobuleNodule",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "10Cb",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_10thCerebellarLobuleNodule"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_10thCerebellarLobuleNodule",
+  "name": "10th cerebellar lobule (nodule)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

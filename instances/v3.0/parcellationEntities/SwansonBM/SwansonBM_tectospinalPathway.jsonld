@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_tectospinalPathway",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "tsp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tectospinalPathway"
+    }
+  ],
+  "lookupLabel": "SwansonBM_tectospinalPathway",
+  "name": "tectospinal pathway",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

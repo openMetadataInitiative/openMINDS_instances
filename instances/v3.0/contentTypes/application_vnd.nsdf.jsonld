@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nsdf",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".nsdf"
+  ],
+  "http://schema.org/identifier": [
+    "https://openminds.ebrains.eu/instances/contentTypes/application.vnd.nsdf"
+  ],
+  "name": "application/vnd.nsdf",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "NSDF files"
+  ]
+}

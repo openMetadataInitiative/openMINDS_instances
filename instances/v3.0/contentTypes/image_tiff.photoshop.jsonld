@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/image_tiff.photoshop",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".tiff"
+  ],
+  "name": "image/tiff.photoshop",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Photoshop TIFF"
+  ]
+}

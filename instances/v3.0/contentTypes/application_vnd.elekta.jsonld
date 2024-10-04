@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elekta",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".fif"
+  ],
+  "name": "application/vnd.elekta",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "FIFF"
+  ]
+}

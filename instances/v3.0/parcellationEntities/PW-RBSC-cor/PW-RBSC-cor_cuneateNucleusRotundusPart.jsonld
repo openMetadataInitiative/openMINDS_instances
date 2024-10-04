@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cuneateNucleusRotundusPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CuR",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_cuneateNucleusRotundusPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_cuneateNucleusRotundusPart",
+  "name": "cuneate nucleus, rotundus part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

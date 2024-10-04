@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_medialPretectalArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "MPT",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialPretectalArea"
+    }
+  ],
+  "lookupLabel": "SwansonBM_medialPretectalArea",
+  "name": "medial pretectal area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

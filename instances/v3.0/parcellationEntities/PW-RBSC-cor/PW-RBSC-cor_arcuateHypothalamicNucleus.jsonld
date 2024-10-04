@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_arcuateHypothalamicNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "Arc",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_arcuateHypothalamicNucleus",
+  "name": "arcuate hypothalamic nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

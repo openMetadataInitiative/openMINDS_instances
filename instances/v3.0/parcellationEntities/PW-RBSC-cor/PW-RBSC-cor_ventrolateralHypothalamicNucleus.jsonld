@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventrolateralHypothalamicNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "VLH",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_ventrolateralHypothalamicNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_ventrolateralHypothalamicNucleus",
+  "name": "ventrolateral hypothalamic nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

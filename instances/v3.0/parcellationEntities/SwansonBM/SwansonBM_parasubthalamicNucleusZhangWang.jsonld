@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_parasubthalamicNucleusZhangWang",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PSTN",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parasubthalamicNucleusZhangWang"
+    }
+  ],
+  "lookupLabel": "SwansonBM_parasubthalamicNucleusZhangWang",
+  "name": "parasubthalamic nucleus [Zhang-Wang]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

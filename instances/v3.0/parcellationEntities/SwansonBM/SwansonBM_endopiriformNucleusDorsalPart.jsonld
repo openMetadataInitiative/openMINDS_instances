@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_endopiriformNucleusDorsalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "EPd",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_endopiriformNucleusDorsalPart"
+    }
+  ],
+  "lookupLabel": "SwansonBM_endopiriformNucleusDorsalPart",
+  "name": "endopiriform nucleus, dorsal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

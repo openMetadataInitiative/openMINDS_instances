@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posterolateralCorticalAmygdaloidNucleusLayer1",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PLCo1",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_posterolateralCorticalAmygdaloidNucleusLayer1"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_posterolateralCorticalAmygdaloidNucleusLayer1",
+  "name": "posterolateral cortical amygdaloid nucleus, layer 1",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

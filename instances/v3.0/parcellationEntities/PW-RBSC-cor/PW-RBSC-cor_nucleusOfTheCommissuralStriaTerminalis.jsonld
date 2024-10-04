@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheCommissuralStriaTerminalis",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CST",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_nucleusOfTheCommissuralStriaTerminalis"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_nucleusOfTheCommissuralStriaTerminalis",
+  "name": "nucleus of the commissural stria terminalis",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

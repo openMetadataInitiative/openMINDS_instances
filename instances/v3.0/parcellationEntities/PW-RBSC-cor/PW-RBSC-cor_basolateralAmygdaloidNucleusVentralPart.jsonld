@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_basolateralAmygdaloidNucleusVentralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "BLV",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_basolateralAmygdaloidNucleusVentralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_basolateralAmygdaloidNucleusVentralPart",
+  "name": "basolateral amygdaloid nucleus, ventral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralCochlearNucleusPosteriorPartOctopusCellArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "VCPO",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_ventralCochlearNucleusPosteriorPartOctopusCellArea"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_ventralCochlearNucleusPosteriorPartOctopusCellArea",
+  "name": "ventral cochlear nucleus, posterior part, octopus cell area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+
