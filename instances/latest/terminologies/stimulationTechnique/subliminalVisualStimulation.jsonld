@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/technique/subliminalVisualSimulation",
+  "@id": "https://openminds.om-i.org/instances/technique/subliminalVisualStimulation",
   "@type": "https://openminds.om-i.org/types/controlledTerms/StimulationTechnique",
-  "definition": "'Subliminal visual simulation' is a technique providing visual stimuli below an indivdual's threshold for conscious perception [adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli)]",
+  "definition": "'Subliminal visual stimulation' is a technique providing visual stimuli below an indivdual's threshold for conscious perception [adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "subliminal visual simulation",
+  "name": "subliminal visual stimulation",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
