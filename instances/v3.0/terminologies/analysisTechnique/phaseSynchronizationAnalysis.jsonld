@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/phaseSynchronizationAnalysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
+  "definition": "A 'phase synchronization analysis' detects and quantifies synchronization between two time series.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "phase synchronization analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "PS analysis",
+    "PSA"
+  ]
+}

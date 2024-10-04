@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralNucleusOfTheInferiorColliculus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CIC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_centralNucleusOfTheInferiorColliculus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_centralNucleusOfTheInferiorColliculus",
+  "name": "central nucleus of the inferior colliculus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

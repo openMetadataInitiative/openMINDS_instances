@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorOlfactoryNucleusLateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AOL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusLateralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_anteriorOlfactoryNucleusLateralPart",
+  "name": "anterior olfactory nucleus, lateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

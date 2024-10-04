@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_suprachiasmaticNucleusDorsolateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SChDL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_suprachiasmaticNucleusDorsolateralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_suprachiasmaticNucleusDorsolateralPart",
+  "name": "suprachiasmatic nucleus, dorsolateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

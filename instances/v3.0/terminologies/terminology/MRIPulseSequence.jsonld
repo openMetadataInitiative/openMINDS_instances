@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/MRIPulseSequence",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "An 'MRI pulse sequence' is a particular setting of pulse sequences and pulsed field gradients, resulting in a particular image appearance [adapted from [Wikipedia](https://en.wikipedia.org/wiki/MRI_pulse_sequence)].",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MRI pulse sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_amygdalostriatalTransitionArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "ASt",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_amygdalostriatalTransitionArea"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_amygdalostriatalTransitionArea",
+  "name": "amygdalostriatal transition area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

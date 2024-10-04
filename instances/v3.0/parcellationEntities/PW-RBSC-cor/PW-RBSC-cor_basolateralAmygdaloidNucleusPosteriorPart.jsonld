@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_basolateralAmygdaloidNucleusPosteriorPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "BLP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_basolateralAmygdaloidNucleusPosteriorPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_basolateralAmygdaloidNucleusPosteriorPart",
+  "name": "basolateral amygdaloid nucleus, posterior part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

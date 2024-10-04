@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rostrumOfTheCorpusCallosum",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "rcc",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_rostrumOfTheCorpusCallosum"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_rostrumOfTheCorpusCallosum",
+  "name": "rostrum of the corpus callosum",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

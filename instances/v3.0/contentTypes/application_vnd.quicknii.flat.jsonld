@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quicknii.flat",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".flat"
+  ],
+  "name": "application/vnd.quicknii.flat",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "QuickNII flat file"
+  ]
+}

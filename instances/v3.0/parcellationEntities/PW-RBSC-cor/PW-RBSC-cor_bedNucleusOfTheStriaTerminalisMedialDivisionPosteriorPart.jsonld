@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosteriorPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "STMP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionPosteriorPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosteriorPart",
+  "name": "bed nucleus of the stria terminalis, medial division, posterior part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

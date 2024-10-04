@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuralensemble.pynn",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".py"
+  ],
+  "name": "application/vnd.neuralensemble.pynn",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Python:PyNN"
+  ]
+}
