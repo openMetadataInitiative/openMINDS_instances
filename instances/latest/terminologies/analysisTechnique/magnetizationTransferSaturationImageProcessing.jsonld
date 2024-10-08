@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/magnetizationTransferSaturationImageProcessing",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
-  "definition": null,
+  "definition": "'Magnetization transfer saturation image processing' improves the contrast between white matter, gray matter, and cerebrospinal fluid, by enhancing the correlation with macromolecular content [adapted from [Longoni G, Martinez Chavez E, Young K, et al., (2023)](https://doi.org/10.1177/13524585221137500)].",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
