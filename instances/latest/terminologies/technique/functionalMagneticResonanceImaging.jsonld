@@ -4,11 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/functionalMagneticResonanceImaging",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "A magnetic resonance imaging technique that generates multiple images over time of some physiological processes of a specimen.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "functional magnetic resonance imaging",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "fMRI"
+  ]
 }
