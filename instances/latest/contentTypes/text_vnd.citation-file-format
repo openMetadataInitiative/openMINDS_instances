@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/text_vnd.citation-file-format",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "CITATION.cff files are plain text files with human- and machine-readable citation information for software (and datasets). Code developers can include them in their repositories to let others know how to correctly cite their software.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".cff"
+  ],
+  "name": "text/vnd.citation-file-format",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "CITATION.cff"
+  ]
+}
