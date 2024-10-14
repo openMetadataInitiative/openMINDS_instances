@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/terminology/measuredSignalType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "definition": "The types of electrophysiological signals or activity that can measured.",
+  "definition": "The types of electrophysiological signals or activities that can be measured.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
