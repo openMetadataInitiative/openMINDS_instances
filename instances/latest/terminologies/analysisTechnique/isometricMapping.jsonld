@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/isometricMapping",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
-  "definition": "'Isometric mapping' is an approach to reduce the dimensionality of machine learning.",
+  "definition": "A superclass of machine learning approaches to reduce the dimensionality of high-dimensional data.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
