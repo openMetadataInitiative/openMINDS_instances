@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/chemicalMixtureType/alloy",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType",
-  "definition": "An 'alloy' is a mixture of chemical elements of which at least one is a metal, the atoms are joined by metallic bonding and retains all properties of a metal. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Alloy)]",
+  "definition": "A mixture of chemical elements of which at least one is a metal, the atoms are joined by metallic bonding and retains all properties of a metal. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Alloy)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
