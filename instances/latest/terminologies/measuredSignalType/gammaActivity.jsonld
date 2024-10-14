@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/measuredSignalType/gammaActivity",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MeasuredSignalType",
-  "definition": "Gamma activity is a neural oscillation in the high frequency range (typically between 30-150 Hz) arising from synchronous and coherent electrical activity in the brain. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Gamma_wave)]",
+  "definition": "A neural oscillation in the high frequency range (typically between 30-150 Hz) arising from synchronous and coherent electrical activity in the brain. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Gamma_wave)]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104539",
   "knowledgeSpaceLink": null,
