@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/cellType/striatumMediumSpinyNeuron",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/CellType",
+  "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "A special type of GABAergic neuron with large dendritic trees that is located in the striatum.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0784362",

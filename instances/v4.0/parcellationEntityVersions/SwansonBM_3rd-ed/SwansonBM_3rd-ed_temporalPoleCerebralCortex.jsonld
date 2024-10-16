@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_temporalPoleCerebralCortex",
-  "@type": "https://openminds.om-i.org/types/sands/ParcellationEntityVersion",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
   "abbreviation": "TEP",
   "additionalRemarks": null,
   "alternateName": null,

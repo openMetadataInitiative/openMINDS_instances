@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/modelScope/network-microcircuit",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/ModelScope",
+  "@type": "https://openminds.om-i.org/types/ModelScope",
   "definition": "A model of a neuronal microcircuit",
   "description": null,
   "interlexIdentifier": null,

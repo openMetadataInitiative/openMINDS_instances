@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/service/ModelDB",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Service",
+  "@type": "https://openminds.om-i.org/types/Service",
   "definition": "ModelDB is a curated database of published models in the broad domain of computational neuroscience.",
   "description": "ModelDB provides an accessible location for storing and efficiently retrieving computational neuroscience models. A ModelDB entry contains a model's source code, concise description, and a citation of the article that published it. The source code can be in any language for any environment, can be viewed before downloading, and optionally can be auto-launched on download.",
   "interlexIdentifier": null,

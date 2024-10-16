@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/technique/stereoelectroencephalography",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Technique",
+  "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "In 'stereoelectroencephalography' depth electrodes (typically linear electrode arrays) are stereotactically implanted in the brain of a subject in order to record or stimulate electrographic activity of otherwise inaccessible brain regions. [cf. [wikipedia](https://en.wikipedia.org/wiki/Stereoelectroencephalography), or [Gholipour et al. 2020](https://doi.org/10.1016/j.clineuro.2019.105640)]",
   "description": null,
   "interlexIdentifier": null,

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/species/rattusNorvegicus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Species",
+  "@type": "https://openminds.om-i.org/types/Species",
   "definition": "The species *Rattus norvegicus* (brown rat) belongs to the family of *muridae* (murids).",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109658",

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/technique/HoechstStaining",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Technique",
+  "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "A nuclear-specific staining technique where a Hoechst dye is used.",
   "description": "Hoechst dyes are part of a family of blue fluorescent dye that bind to DNA. It acts similarly as DAPi and can also be used on both fixated and living cells.",
   "interlexIdentifier": null,

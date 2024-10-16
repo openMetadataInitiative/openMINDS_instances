@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/terminology/colormap",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Terminology",
+  "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "A colormap is a lookup table specifying the colors to be used in rendering a palettized image, [adapted from [Wiktionary](https://en.wiktionary.org/wiki/colormap)].",
   "description": null,
   "interlexIdentifier": null,

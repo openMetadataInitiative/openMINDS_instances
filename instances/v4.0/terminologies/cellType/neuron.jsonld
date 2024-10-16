@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/cellType/neuron",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/CellType",
+  "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "A 'neuron' is a basic cellular unit of nervous tissue which can receive, conduct, and transmit electrical impulses.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107497",

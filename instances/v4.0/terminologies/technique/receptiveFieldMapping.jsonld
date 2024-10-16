@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/technique/receptiveFieldMapping",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Technique",
+  "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "In 'receptive field mapping' a distinct set of physiological stimuli is used to evoke a sensory neuronal response in specific organisms to define its respective sensory space (receptive field).",
   "description": null,
   "interlexIdentifier": null,

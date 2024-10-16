@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/cellType/postmitoticCell",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/CellType",
+  "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "A 'postmitotic cell' is a fully differentiated, non-dividing mature cell that no longer undergoes mitosis.",
   "description": null,
   "interlexIdentifier": null,

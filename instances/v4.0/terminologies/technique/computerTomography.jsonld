@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/technique/computerTomography",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Technique",
+  "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "'Computer tomogoraphy' is a noninvasive medical imaging technique where a computer generates multiple X-ray scans to obtain detailed internal 3D image of the body.",
   "description": null,
   "interlexIdentifier": null,

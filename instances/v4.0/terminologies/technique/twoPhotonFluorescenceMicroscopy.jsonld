@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/technique/twoPhotonFluorescenceMicroscopy",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Technique",
+  "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Two-photon fluorescence microscopy is a fluorescence microscopy technique for living tissue which is based on the simultaneous excitation by two photons with longer wavelength than the emitted light.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739658",

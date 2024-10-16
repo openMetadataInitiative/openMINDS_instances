@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/disease/disorderOfConsciousness",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Disease",
+  "@type": "https://openminds.om-i.org/types/Disease",
   "definition": "A 'disorder of consciousness' is a state where a subject's consciousness has been affected by damage to the brain.",
   "description": null,
   "interlexIdentifier": null,

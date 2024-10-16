@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/technique/confocalMicroscopy",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Technique",
+  "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Confocal microscopy is a specialized fluorescence microscopy technique that uses pinholes to reject out-of-focus light.",
   "description": "Confocal microscopy focuses light onto a defined spot at a specific depth within a fluorescent sample to eliminate out-of-focus glare, and increase resolution and contrast in the micrographs.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739731",

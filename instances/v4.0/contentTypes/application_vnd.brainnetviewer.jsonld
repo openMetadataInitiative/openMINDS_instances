@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.brainnetviewer",
-  "@type": "https://openminds.om-i.org/types/core/ContentType",
+  "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "description": null,
   "displayLabel": null,

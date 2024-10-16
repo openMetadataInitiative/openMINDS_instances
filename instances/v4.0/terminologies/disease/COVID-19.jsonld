@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/disease/COVID-19",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Disease",
+  "@type": "https://openminds.om-i.org/types/Disease",
   "definition": "A coronavirus infectious disease that is characterized by fever, cough and shortness of breath and caused by the coronavirus strain SARS-CoV-2.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739370",

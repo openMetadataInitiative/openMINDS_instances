@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/service/AllenInstituteCellTypesDataPortal",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Service",
+  "@type": "https://openminds.om-i.org/types/Service",
   "definition": "Web application for visualizing and browsing the Allen Cell Types Database.",
   "description": "The Allen Cell Types Database contains a multimodal characterization of single brain cells by electrophysiology and morphology, as well as single-cell transcriptional data from nuclei or whole cells, with search and visualization tools for exploring the single cell transcriptomics for LGd, and single cell electrophysiology, morphology, and modeling data.",
   "interlexIdentifier": null,

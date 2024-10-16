@@ -3,14 +3,14 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AMBA_CCFv3-2015_nucleusOfTheSolitaryTractGelatinousPart",
-  "@type": "https://openminds.om-i.org/types/sands/ParcellationEntityVersion",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
   "abbreviation": null,
   "additionalRemarks": null,
   "alternateName": null,
   "correctedName": null,
   "hasAnnotation": [
     {
-      "@type": "https://openminds.om-i.org/types/sands/AtlasAnnotation",
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
       "anchorPoint": null,
       "criteria": null,
       "criteriaQualityType": {
@@ -30,7 +30,7 @@
         }
       ],
       "preferredVisualization": {
-        "@type": "https://openminds.om-i.org/types/sands/ViewerSpecification",
+        "@type": "https://openminds.om-i.org/types/ViewerSpecification",
         "additionalRemarks": null,
         "anchorPoint": null,
         "cameraPosition": null,

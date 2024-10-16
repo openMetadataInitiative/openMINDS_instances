@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/deviceType/electronicAmplifier",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/DeviceType",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
   "definition": "An 'electronic amplifier' is a device that increases the power (voltage or current) of a time-varying signal.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100567",

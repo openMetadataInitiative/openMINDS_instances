@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/technique/transmissionElectronMicroscopy",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Technique",
+  "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Transmission electron microscopy is a microscopy technique in which a beam of electrons is transmitted through a specimen to produce an image.",
   "description": null,
   "interlexIdentifier": null,

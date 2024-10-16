@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_superiorSalivatoryNucleus",
-  "@type": "https://openminds.om-i.org/types/sands/ParcellationEntityVersion",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
   "abbreviation": "SuS",
   "additionalRemarks": "Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.",
   "alternateName": null,

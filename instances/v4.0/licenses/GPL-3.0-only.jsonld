@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/licenses/GPL-3.0-only",
-  "@type": "https://openminds.om-i.org/types/core/License",
+  "@type": "https://openminds.om-i.org/types/License",
   "fullName": "GNU General Public License v3.0 only",
   "legalCode": "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
   "shortName": "GPL-3.0-only",

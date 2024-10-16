@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/handedness/ambilevousHandedness",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Handedness",
+  "@type": "https://openminds.om-i.org/types/Handedness",
   "definition": "Handedness where the organism exhibits equally poor dexterity in the use of right or left hand or foot in the performance of tasks that require one (dominant) hand or foot.",
   "description": null,
   "interlexIdentifier": null,

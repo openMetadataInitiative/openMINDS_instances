@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/technique/serialSectionTransmissionElectronMicroscopy",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Technique",
+  "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Serial section transmission electron microscopy is a microscopy technique in which a beam of electrons is transmitted through multiple successive slices of a volumetric sample to produce images of the slices (e.g. for later 3D reconstruction).",
   "description": null,
   "interlexIdentifier": null,

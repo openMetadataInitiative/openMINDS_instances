@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/dataType/rasterGraphic",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/DataType",
+  "@type": "https://openminds.om-i.org/types/DataType",
   "definition": "A 'raster graphic' is a matrix, representing values (scalars, lists, matrices) on a grid in a two dimensional space, viewable via a monitor, paper, or other display medium.",
   "description": null,
   "interlexIdentifier": null,

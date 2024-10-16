@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/disease/cerebralAtrophy",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Disease",
+  "@type": "https://openminds.om-i.org/types/Disease",
   "definition": "Cerebral atrophy describes the pathological process of wasting or decrease in size of the cells or tissue of the cerebrum.",
   "description": null,
   "interlexIdentifier": null,

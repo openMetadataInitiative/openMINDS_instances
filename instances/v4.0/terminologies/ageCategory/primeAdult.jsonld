@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/ageCategory/primeAdult",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/AgeCategory",
+  "@type": "https://openminds.om-i.org/types/AgeCategory",
   "definition": "'Prime adult' categorizes the life cycle stage of an animal or human that starts at the onset of sexual maturity or the cessation of growth, whichever comes last, and ends before senescence.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0733125",

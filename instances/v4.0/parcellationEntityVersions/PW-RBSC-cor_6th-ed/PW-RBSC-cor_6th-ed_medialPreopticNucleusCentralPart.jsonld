@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_medialPreopticNucleusCentralPart",
-  "@type": "https://openminds.om-i.org/types/sands/ParcellationEntityVersion",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
   "abbreviation": "MPOC",
   "additionalRemarks": "Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.",
   "alternateName": null,

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/technique/myelinStaining",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Technique",
+  "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "A technique used to selectively alter the appearance of myelin (sheaths) that surround the nerve cell axons.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0107265",
