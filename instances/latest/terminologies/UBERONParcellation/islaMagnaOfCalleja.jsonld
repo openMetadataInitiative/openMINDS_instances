@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/islaMagnaOfCalleja",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Isla magna of Calleja' is a regional part of brain. It is part of the island of Calleja.",
   "description": "A profile (typically representing a sequence alignment) derived from a matrix of nucleotide (or amino acid) counts per position that reflects information content at each position.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105729",

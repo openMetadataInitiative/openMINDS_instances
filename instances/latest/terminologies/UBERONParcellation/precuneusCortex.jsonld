@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/precuneusCortex",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Precuneus cortex' is a gyrus. It is part of the parietal lobe.",
   "description": "Component of the parietal lobe.  The rostral boundary was the posterior extent of the paracentral lobule whereas the caudal boundary was the lingual gyrus. The medial and lateral boundaries were the parieto-occipital fissure and the superior parietal gyrus respectively (Christine Fennema-Notestine).",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109199",

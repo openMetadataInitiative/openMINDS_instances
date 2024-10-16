@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/deviceType/standardBoreMRIScanner",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/DeviceType",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
   "definition": "A 'standard-bore MRI scanner' is a closed high-field scanner which features a magnet surrounding the patient creating a capsule-like space where the patient lies on.",
   "description": null,
   "interlexIdentifier": null,

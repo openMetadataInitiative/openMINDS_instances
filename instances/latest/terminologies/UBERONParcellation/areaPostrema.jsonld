@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/areaPostrema",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Area postrema' is a sensory circumventricular organ. It is part of the medulla oblongata and fourth ventricle.",
   "description": "A small, rounded eminence on each side of the fourth ventricle, which receives nerve fibers from the solitary nucleus , spinal cord, and adjacent areas of the medulla. The area postrema lies outside the blood-brain barrier and its functions include acting as an emetic chemoreceptor.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100888",

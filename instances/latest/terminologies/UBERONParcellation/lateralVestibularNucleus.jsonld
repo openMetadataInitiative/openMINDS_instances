@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralVestibularNucleus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Lateral vestibular nucleus' is a vestibular nucleus.",
   "description": "One of the nuclei comprising the vestibular nuclear complex. In some mammals, e.g., primates, it is further subdivided into subnuclei.  It therefore differs in appearance and topology in different mammals.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106126",

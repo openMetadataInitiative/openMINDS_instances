@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/decussationOfTrochlearNerve",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Decussation of trochlear nerve' is a neural decussation. It is part of the pontine tegmentum.",
   "description": "The crossing of the two trochlear nerves at their exit through the velum medullare anterius.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102964",

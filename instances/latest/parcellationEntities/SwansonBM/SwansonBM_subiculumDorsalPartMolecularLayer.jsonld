@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumDorsalPartMolecularLayer",
-  "@type": "https://openminds.om-i.org/types/sands/ParcellationEntity",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "SUBd-m",
   "alternateName": null,
   "definition": null,

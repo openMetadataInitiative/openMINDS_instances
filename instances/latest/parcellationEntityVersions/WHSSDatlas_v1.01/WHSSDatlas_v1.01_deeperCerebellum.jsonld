@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_deeperCerebellum",
-  "@type": "https://openminds.om-i.org/types/sands/ParcellationEntityVersion",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
   "abbreviation": null,
   "additionalRemarks": "both .label file name and .mbat file name are \"deeper cerebellum\", but name was changed to reflect the possibility for subdivision; abbreviation for the corrected name has been added under \"alternateName\"; for details, see atlas documentation",
   "alternateName": [
@@ -13,7 +13,7 @@
   "correctedName": "cerebellum, unspecified",
   "hasAnnotation": [
     {
-      "@type": "https://openminds.om-i.org/types/sands/AtlasAnnotation",
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
       "anchorPoint": null,
       "criteria": null,
       "criteriaQualityType": {
@@ -33,7 +33,7 @@
         }
       ],
       "preferredVisualization": {
-        "@type": "https://openminds.om-i.org/types/sands/ViewerSpecification",
+        "@type": "https://openminds.om-i.org/types/ViewerSpecification",
         "additionalRemarks": null,
         "anchorPoint": null,
         "cameraPosition": null,

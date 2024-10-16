@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/midbrainTegmentum",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Midbrain tegmentum' is a regional part of brain. It is part of the midbrain and brainstem.",
   "description": "Subdivision of the midbrain lying anterior to the tectum and posterior to the substantia nigra and cerebral peduncle.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106951",

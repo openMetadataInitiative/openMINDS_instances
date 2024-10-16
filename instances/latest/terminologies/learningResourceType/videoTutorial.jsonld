@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/learningResourceType/videoTutorial",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/LearningResourceType",
+  "@type": "https://openminds.om-i.org/types/LearningResourceType",
   "definition": "A tutorial presented as a video.",
   "description": null,
   "interlexIdentifier": null,

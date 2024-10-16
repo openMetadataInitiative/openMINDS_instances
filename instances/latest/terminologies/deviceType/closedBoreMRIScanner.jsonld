@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/deviceType/closedBoreMRIScanner",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/DeviceType",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
   "definition": "'Closed-bore MRI scanners' are high-field scanners which feature a magnet surrounding the patient creating a capsule-like space (standard or wide) where the patient lies on.",
   "description": null,
   "interlexIdentifier": null,

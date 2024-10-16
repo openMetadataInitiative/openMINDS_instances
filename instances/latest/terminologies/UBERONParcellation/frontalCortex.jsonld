@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/frontalCortex",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Frontal cortex' is a cortex of cerebral lobe. It is part of the frontal lobe.",
   "description": "Anterior portion of the frontal cortex, lying anterior to the central sulcus in humans.  It is bounded by the parietal cortex posteriorly and the temporal cortex laterally.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104449",

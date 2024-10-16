@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-yeo7n",
-  "@type": "https://openminds.om-i.org/types/sands/BrainAtlasVersion",
+  "@type": "https://openminds.om-i.org/types/BrainAtlasVersion",
   "abbreviation": "Schaefer-400p",
   "accessibility": {
     "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
@@ -18,7 +18,7 @@
   "fullName": "Schaefer Atlas with 400 Parcellation",
   "funding": null,
   "hasTerminology": {
-    "@type": "https://openminds.om-i.org/types/sands/ParcellationTerminologyVersion",
+    "@type": "https://openminds.om-i.org/types/ParcellationTerminologyVersion",
     "dataLocation": null,
     "hasEntity":null,
     "ontologyIdentifier": null

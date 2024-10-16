@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/parietalLobe",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "Upper central part of the cerebral hemisphere. (MSH).",
   "description": "'Parietal lobe' is a lobe of cerebral hemisphere.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108534",

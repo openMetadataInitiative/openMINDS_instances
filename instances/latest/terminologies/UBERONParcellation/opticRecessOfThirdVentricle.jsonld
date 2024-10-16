@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/opticRecessOfThirdVentricle",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Optic recess of third ventricle' is an anatomical entity. It is part of the third ventricle.",
   "description": "Recess in third ventricle lying in front of the optic chiasm at the base of the lamina terminalis",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108073",

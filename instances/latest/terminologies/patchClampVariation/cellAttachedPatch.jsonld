@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/patchClampVariation/cellAttachedPatch",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/PatchClampVariation",
+  "@type": "https://openminds.om-i.org/types/PatchClampVariation",
   "definition": "A variation of the patch-clamp technique in which the cell membrane remains intact.",
   "description": "For this method, the pipette is sealed onto the cell membrane to obtain a gigaseal (a seal with electrical resistance on the order of a gigaohm), while ensuring that the cell membrane remains intact. This allows the recording of currents through single, or a few, ion channels contained in the patch of membrane captured by the pipette. By only attaching to the exterior of the cell membrane, there is very little disturbance of the cell structure. Also, by not disrupting the interior of the cell, any intracellular mechanisms normally influencing the channel will still be able to function as they would physiologically. [Wikipedia]",
   "interlexIdentifier": null,

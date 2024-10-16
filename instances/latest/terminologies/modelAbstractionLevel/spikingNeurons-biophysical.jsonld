@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/modelAbstractionLevel/spikingNeurons-biophysical",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/ModelAbstractionLevel",
+  "@type": "https://openminds.om-i.org/types/ModelAbstractionLevel",
   "definition": "Modelling neural networks in which individual neurons are represented by models with detailed morphology and biophysical models of ion channels",
   "description": null,
   "interlexIdentifier": null,

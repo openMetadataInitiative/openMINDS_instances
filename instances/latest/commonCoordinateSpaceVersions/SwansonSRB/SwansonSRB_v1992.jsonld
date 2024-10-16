@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/SwansonSRB_v1992",
-  "@type": "https://openminds.om-i.org/types/sands/CommonCoordinateSpaceVersion",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
   "abbreviation": "SwansonSRB",
   "accessibility": {
     "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
@@ -14,7 +14,7 @@
   "author": null,
   "axesOrigin": [
     {
-      "@type": "https://openminds.om-i.org/types/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "typeOfUncertainty": null,
       "uncertainty": null,
       "unit": {
@@ -23,7 +23,7 @@
       "value": 0
     },
     {
-      "@type": "https://openminds.om-i.org/types/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "typeOfUncertainty": null,
       "uncertainty": null,
       "unit": {
@@ -32,7 +32,7 @@
       "value": 12
     },
     {
-      "@type": "https://openminds.om-i.org/types/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "typeOfUncertainty": null,
       "uncertainty": null,
       "unit": {

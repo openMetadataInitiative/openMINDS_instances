@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsolateralFasciculusOfMedulla",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Dorsolateral fasciculus of medulla' is a tract of brain. It is part of the medulla oblongata.",
   "description": "Part of Lissauer's tract located in the medulla",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106302",

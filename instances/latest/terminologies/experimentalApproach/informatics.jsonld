@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/experimentalApproach/informatics",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/ExperimentalApproach",
+  "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on collection, classification, storage, retrieval, analysis, visualization, and dissemination of recorded knowledge in computational systems.",
   "description": null,
   "interlexIdentifier": null,

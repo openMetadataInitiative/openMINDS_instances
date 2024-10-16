@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/centralMedialNucleus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Central medial nucleus' is a nucleus of dorsal thalamus. It is part of the rostral intralaminar nuclear group.",
   "description": "A small cell group in the interthalamic adhesion of the thalamus that occupy the midline region of the internal medullary lamina, between the left and right paracentral nuclei.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101899",

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/periamygdaloidArea",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Periamygdaloid area' is a cerebral hemisphere gray matter. It is part of the parahippocampal gyrus.",
   "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108715",

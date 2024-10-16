@@ -4,7 +4,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/actionStatusType/pending",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/ActionStatusType",
+  "@type": "https://openminds.om-i.org/types/ActionStatusType",
   "definition": "An action which is awaiting execution.",
   "description": null,
   "interlexIdentifier": null,

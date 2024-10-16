@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/analysisTechnique/nonrigidTransformation",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/AnalysisTechnique",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "A 'nonrigid transformation' is a specific linear transformation using combinations of rotations, translations, reflections, scaling, shearing, and perspective projections to map coordinates between two coordinate spaces.",
   "description": null,
   "interlexIdentifier": null,

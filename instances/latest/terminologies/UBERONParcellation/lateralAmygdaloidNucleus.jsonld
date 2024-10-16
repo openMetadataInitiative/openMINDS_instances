@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralAmygdaloidNucleus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Lateral amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.",
   "description": "The sensory interface of the amygdala where plasticity is mediated (Phelps & LeDoux, 2005, PMID: 16242399).",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106043",

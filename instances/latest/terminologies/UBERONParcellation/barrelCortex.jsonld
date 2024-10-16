@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/barrelCortex",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Barrel cortex' is a functional part of brain. It is part of the primary somatosensory cortex.",
   "description": "The term primary somatosensory area, barrel field refers to one of 6 subdivisions of the primary somesthetic area of the cerebral cortex in the mouse (Dong-2004) and the rat (Swanson-2004). It is defined as dark-staining regions in Nissl and other types of stains of layer four of the somatosensory cortex of rodents where somatosensory inputs from the contralateral side of the body come in from the thalamus, in particular input from the whiskers. Each barrel ranges in size from 100-400 um in diameter. (modified from BrainInfo and Wikipedia)",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101097",

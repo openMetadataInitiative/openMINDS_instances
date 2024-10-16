@@ -3,7 +3,7 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@id": "https://openminds.om-i.org/instances/molecularEntity/edeticAcid",
-    "@type": "https://openminds.om-i.org/types/controlledTerms/MolecularEntity",
+    "@type": "https://openminds.om-i.org/types/MolecularEntity",
     "definition": "Edetic Acid (Ethylenediaminetetraacetic acid, EDTA), also called edetic acid after its own abbreviation, is an aminopolycarboxylic acid with the formula [CH2N(CH2CO2H)2]2. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Ethylenediaminetetraacetic_acid)]",
     "description": "This white, water-soluble solid is widely used to bind to iron (Fe2+/Fe3+) and calcium ions (Ca2+), forming water-soluble complexes even at neutral pH. It is thus used to dissolve Fe- and Ca-containing scale as well as to deliver iron ions under conditions where its oxides are insoluble. EDTA is available as several salts, notably disodium EDTA, sodium calcium edetate, and tetrasodium EDTA, but these all function similarly. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Ethylenediaminetetraacetic_acid)]",
     "interlexIdentifier": null,

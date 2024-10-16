@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/degreeCelsius",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UnitOfMeasurement",
+  "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "The 'degree Celsius' is a unit of temperature on the Celsius scale where the freezing point of water is at 0 °C and the boiling point of water is at 100 °C under standard atmospheric pressure.",
   "description": null,
   "interlexIdentifier": null,

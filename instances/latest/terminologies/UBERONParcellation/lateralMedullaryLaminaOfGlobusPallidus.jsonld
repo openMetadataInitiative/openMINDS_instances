@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralMedullaryLaminaOfGlobusPallidus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Lateral medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the globus pallidus.",
   "description": "Thin band of myelinated fibers lying on the lateral (external) surface of the globus pallidus, external segment, separating it from the putamen.  (Carpenter, A core text of neuroanatomy, 3rd ed., 1985, pg 303).",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106077",

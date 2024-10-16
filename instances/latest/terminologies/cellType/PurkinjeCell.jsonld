@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/cellType/PurkinjeCell",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/CellType",
+  "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "A class of GABAergic inhibitory neurons located in the cerebellum with pear-shape cell bodies arranged in a single layer, typically one primary dendrites and an elaborate dendritic tree heavily invested with dendritic spines.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0101974",

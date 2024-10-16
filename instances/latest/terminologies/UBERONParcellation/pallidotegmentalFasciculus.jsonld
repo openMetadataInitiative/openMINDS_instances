@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pallidotegmentalFasciculus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Pallidotegmental fasciculus' is a tract of brain. It is part of the midbrain tegmentum.",
   "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108383",

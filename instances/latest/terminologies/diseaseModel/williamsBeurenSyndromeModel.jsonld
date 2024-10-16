@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/diseaseModel/williamsBeurenSyndromeModel",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/DiseaseModel",
+  "@type": "https://openminds.om-i.org/types/DiseaseModel",
   "definition": "An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Williams-Beuren syndrome.",
   "description": null,
   "interlexIdentifier": null,

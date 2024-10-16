@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/disease/longCOVID",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Disease",
+  "@type": "https://openminds.om-i.org/types/Disease",
   "definition": "A long-term disease originally caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with symptoms persisting beyond three to four weeks.",
   "description": "A Coronavirus infectious disease that is characterized by long-term persistent and fluctuating symptoms, in individuals with COVID-19, persisting beyond three to four weeks, including the loss of the ability to smell and taste, breathlessness, fatigue, difficulty in breathing, difficulty concentrating, memory loss, confusion, headache, heart palpitations, chest pain, pain with deep breaths, dizziness, and tachycardia.",
   "interlexIdentifier": null,

@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/types/controlledTerms/programmingLanguage/AMPL",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/ProgrammingLanguage",
+  "@id": "https://openminds.om-i.org/types/programmingLanguage/AMPL",
+  "@type": "https://openminds.om-i.org/types/ProgrammingLanguage",
   "name": "AMPL",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

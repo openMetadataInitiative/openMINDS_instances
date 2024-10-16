@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralTuberalNucleus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Lateral tuberal nucleus' is a hypothalamic nucleus. It is part of the lateral hypothalamic area.",
   "description": "Nerve cell nuclei situated ventrally in the intermediate hypothalamic region, mainly in the lateral hypothalamic area.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106124",

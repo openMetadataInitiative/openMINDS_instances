@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/actionStatusType/failed",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/ActionStatusType",
+  "@type": "https://openminds.om-i.org/types/ActionStatusType",
   "definition": "An action that failed to complete or completed but produced an error.",
   "description": null,
   "interlexIdentifier": null,

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/caudalAnteriorCingulateCortex",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Caudal anterior cingulate cortex' is a regional part of brain. It is part of the anterior cingulate cortex.",
   "description": "Component of the cingulate cortex.  The rostral boundary was the first appearance of the genu of the corpus callosum whereas the caudal boundary was established as the first appearance of the mammillary bodies. The medial boundary was the medial aspect of the cortex. The supero-lateral boundary was the superior frontal gyrus whereas the infero-lateral boundary was the corpus callosum (Christine Fennema-Notestine).",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101709",

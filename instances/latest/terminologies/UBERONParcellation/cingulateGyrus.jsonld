@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cingulateGyrus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Cingulate gyrus' is a gyrus. It is part of the limbic system.",
   "description": "One of the convolutions on the medial surface of the cerebral hemisphere. It surrounds the rostral part of the brain and interhemispheric commissure and forms part of the limbic system. (MSH)  One of three essential structures comprising the limbic lobe, the other two being the hippocampus and parahippocampal gyrus. (CSP)",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102180",

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/subarachnoidFissure",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Subarachnoid fissure' is an anatomical entity. It is part of the subarachnoid space.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0735254",

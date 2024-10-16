@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/R2Weighting",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/MRIWeighting",
+  "@type": "https://openminds.om-i.org/types/MRIWeighting",
   "definition": "Image processing technique that creates the image contrast from the reciprocal of the T2 relaxation time.",
   "description": null,
   "interlexIdentifier": null,

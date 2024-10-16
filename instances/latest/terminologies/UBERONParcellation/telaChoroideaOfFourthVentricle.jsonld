@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/telaChoroideaOfFourthVentricle",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Tela choroidea of fourth ventricle' is a tela choroidea. It is part of the fourth ventricle.",
   "description": "Tela chorioidea that lines the fourth ventricle[ZFA]. The tela chorioidea of the fourth ventricle is the name applied to the triangular fold of pia mater which is carried upward between the cerebellum and the medulla oblongata. It consists of two layers, which are continuous with each other in front, and are more or less adherent throughout:  The posterior layer covers the antero-inferior surface of the cerebellum. The anterior layer is applied to the structures which form the lower part of the roof of the ventricle, and is continuous inferiorly with the pia mater on the inferior peduncles and closed part of the medulla[WP].",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0727490",

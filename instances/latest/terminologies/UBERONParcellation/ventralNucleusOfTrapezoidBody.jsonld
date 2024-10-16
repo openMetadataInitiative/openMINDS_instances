@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralNucleusOfTrapezoidBody",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Ventral nucleus of trapezoid body' is a nucleus of trapezoid body. It is part of the periolivary nucleus.",
   "description": "A small nucleus of the periolivary complex located laterally to the MNTB, and ventral to the MSO.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112324",

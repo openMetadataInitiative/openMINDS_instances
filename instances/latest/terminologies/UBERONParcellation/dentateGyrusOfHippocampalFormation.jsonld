@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusOfHippocampalFormation",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Dentate gyrus of hippocampal formation' is a regional part of brain. It is part of the hippocampal formation.",
   "description": "Part of the hippocampal formation forming a \"V\" or \"U\" shaped structure with the opening bounded by hippocampal area CA3.  It consists of 3 layers from superficial to deep:  molecular, granule cell and polymorphic or hilar layer.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103048",

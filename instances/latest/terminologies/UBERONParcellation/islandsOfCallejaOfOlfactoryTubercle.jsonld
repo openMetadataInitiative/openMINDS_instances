@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/islandsOfCallejaOfOlfactoryTubercle",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Islands of Calleja of olfactory tubercle' is a regional part of brain. It is part of the island of Calleja and olfactory tubercle.",
   "description": "Part of olfactory tubercle defined by dense aggregations of granule cells",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105732",

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/shellOfNucleusAccumbens",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Shell of nucleus accumbens' is a regional part of brain. It is part of the nucleus accumbens.",
   "description": "Crescent shaped outer zone of the nucleus accumbens, defined by a combination of chemoarchitecture and afferent and efferent connections.  The shell is distinguished from the more centrally located core through the notable reduction in staining for the calcium-binding protein calbindin D28K, which is dense in the core and virtually absent in the shell.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110602",

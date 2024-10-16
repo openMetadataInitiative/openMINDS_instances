@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/diseaseModel/huntingtonsDiseaseModel",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/DiseaseModel",
+  "@type": "https://openminds.om-i.org/types/DiseaseModel",
   "definition": "An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Huntington's disease.",
   "description": null,
   "interlexIdentifier": null,

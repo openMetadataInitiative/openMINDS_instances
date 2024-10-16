@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_uvulaIXSublobulesAbc",
-  "@type": "https://openminds.om-i.org/types/sands/ParcellationEntity",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "UVUab,c",
   "alternateName": null,
   "definition": null,

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/laterality/right",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Laterality",
+  "@type": "https://openminds.om-i.org/types/Laterality",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,

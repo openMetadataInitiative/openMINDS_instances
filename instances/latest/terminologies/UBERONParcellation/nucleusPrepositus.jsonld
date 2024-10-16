@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusPrepositus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Nucleus prepositus' is a nucleus of medulla oblongata. It is part of the pons.",
   "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107787",

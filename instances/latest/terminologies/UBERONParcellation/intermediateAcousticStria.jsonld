@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/intermediateAcousticStria",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Intermediate acoustic stria' is a stria of neuraxis and white matter of pontine tegmentum.",
   "description": "White matter structure containing axons arising from cochlear nuclear complex (Brodal, Neurological Anatomy, 3rd ed, 1985, pg 609)",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105568",

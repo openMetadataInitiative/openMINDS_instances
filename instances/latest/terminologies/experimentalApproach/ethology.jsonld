@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/experimentalApproach/ethology",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/ExperimentalApproach",
+  "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on natural unmanipulated human or animal behavior and social organization from a biological, life history, and often evolutionary perspective.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739388",

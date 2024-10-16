@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/technique/scanningElectronMicroscopy",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Technique",
+  "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Scanning electron microscopy is a microscopy technique to produce images of a specimen by scanning the surface with focused beam of electrons.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0739710",

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/fornixOfBrain",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Fornix of brain' is a tract of brain. It is part of the hippocampal formation.",
   "description": "White matter structure carrying axons connecting the hippocampal formation to other brain regions.  It is typically divided into the columns (crus), body, commissure and the pre-commissural and post-commissural fornix (MM).",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104362",

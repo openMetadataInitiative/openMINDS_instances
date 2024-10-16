@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/septumPellucidum",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Septum pellucidum' is part of the septum of telencephalon and telencephalic ventricle.",
   "description": "A triangular double membrane, consisting of glial cells and fibers (Heimer, 1996) separating the anterior horns of the lateral ventricles of the brain. It is situated in the median plane and bounded by the corpus callosum and the body and columns of the fornix.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110509",

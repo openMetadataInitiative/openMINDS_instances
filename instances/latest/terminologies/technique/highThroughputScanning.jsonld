@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/technique/highThroughputScanning",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Technique",
+  "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "'High-throughput scanning' is a technique for automatic creation of analog or digital images of a large number of samples.",
   "description": null,
   "interlexIdentifier": null,

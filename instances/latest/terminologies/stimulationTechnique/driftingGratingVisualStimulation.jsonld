@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/stimulationTechnique/driftingGratingVisualStimulation",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/StimulationTechnique",
+  "@type": "https://openminds.om-i.org/types/StimulationTechnique",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/olfactoryTubercle",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Olfactory tubercle' is a telencephalic nucleus. It is part of the olfactory cortex.",
   "description": "Region in the ventral telencephalon, prominent in rodents, but present in all mammals, consisting of a laminated cortical part and the cap/hilus region.  It is traditionally viewed as part of the olfactory cortex but recognized by some as having a striatal character.  According to many authors, the structure of the OT transitions from cortical like to striatal like along the lateral medial axis.   (Maryann Martone)",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107974",

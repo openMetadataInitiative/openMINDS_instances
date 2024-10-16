@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/volumePerVolumePercentage",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UnitOfMeasurement",
+  "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "Percentage of volume of one liquid dissolved in another liquid, where the volume of both liquids have the same unit",
   "description": null,
   "interlexIdentifier": null,

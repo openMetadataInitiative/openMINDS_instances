@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/transverseGyrusOfHeschl",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Transverse gyrus of Heschl' is a gyrus. It is part of the auditory cortex.",
   "description": "Component of the temporal lobe, lateral aspect.  The rostral boundary is the first appearance of the transverse temporal sulcus whereas the caudal boundary is the last slice where the transverse temporal cortex could be identified before its merger into the insular cortex. The lateral fissure and the superior temporal gyrus are the medial and lateral boundaries respectively (Christine Fennema-Notestine).",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111910",

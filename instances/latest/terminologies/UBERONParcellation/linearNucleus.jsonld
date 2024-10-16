@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/linearNucleus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Linear nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106275",

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsalMotorNucleusOfVagusNerve",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Dorsal motor nucleus of vagus nerve' is a nucleus of medulla oblongata and motor nucleus of vagal nerve.",
   "description": "A cranial nerve nucleus for the vagus nerve in the medulla that lies under the floor of the fourth ventricle. It mostly serves parasympathetic vagal functions in the gastrointestinal tract, lungs, and other thoracic and abdominal vagal innervations. The cell bodies for the preganglionic parasympathetic vagal neurons that innervate the heart reside in the nucleus ambiguus.[WP,unvetted].",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103451",

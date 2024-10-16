@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/analysisTechnique/interpolation",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/AnalysisTechnique",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "An 'interpolation' is an analysis technique that delivers estimates for new data points based on a range of a discrete set of known data points.",
   "description": null,
   "interlexIdentifier": null,

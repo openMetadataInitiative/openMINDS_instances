@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralLateralNucleusOfThalamus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Ventral lateral nucleus of thalamus' is a nucleus of dorsal thalamus and nucleus of ventral thalamus. It is part of the ventral nuclear group.",
   "description": "The ventral lateral nucleus (VL) is a nucleus of the thalamus. [WP,unvetted].",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112309",

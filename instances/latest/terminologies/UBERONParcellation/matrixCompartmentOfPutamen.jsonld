@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/matrixCompartmentOfPutamen",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Matrix compartment of putamen' is a matrix compartment. It is part of the putamen.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0730490",

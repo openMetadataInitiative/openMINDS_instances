@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/tuberomammillaryNucleus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Tuberomammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body and lateral hypothalamic area.",
   "description": "The tuberomammillary nucleus is a subnucleus of the posterior third of the hypothalamus. It consists of, largely, histaminergic and is involved with the control of arousal, sleep and circadian rhythm. Axons of the tuberomammillary nucleus project primarily to the cerebral cortex, thalamus, basal ganglia, basal forebrain, and hypothalamus. The projections to the cerebral cortex directly increase cortical activation and arousal, and projections to acetylcholinergic neurons of the basal forebrain and dorsal pons do so indirectly, by increasing the release of acetylcholine in the cerebral cortex. [WP,unvetted].",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112051",

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/analysisTechnique/stochasticOnlineMatrixFactorization",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/AnalysisTechnique",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "'Stochastic online matrix factorization' is a matrix-factorization algorithm that scales to input matrices with both huge number of rows and columns [(Mensch et al., 2018)](https://doi.org/10.1109/TSP.2017.2752697).",
   "description": null,
   "interlexIdentifier": null,

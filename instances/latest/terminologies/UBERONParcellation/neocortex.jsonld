@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/neocortex",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Neocortex' is a regional part of brain. It is part of the cerebral cortex.",
   "description": "Part of cerebral cortex defined on the basis of cytoarchitecture that has six layers. Starting from the cortical surface the layers are: molecular layer (I), external granular layer (II), external pyramidal layer (III), internal granular layer (IV), internal pyramidal layer (V), and multiform layer (VI). Neocortex is most prominent in the frontal lobe, the parietal lobe, the temporal lobe and the occipital lobe, less so in the cingulate gyrus, the parahippocampal gyrus and the insula. It is composed of two subdivisions: true isocortex and proisocortex (Carpenter-83) (NN) * The largest portion of the CEREBRAL CORTEX. It is composed of NEURONS arranged in six layers. (MSH) * the newer, 6 layered portion of the cerebral cortex showing stratification and organization characteristic of the most highly evolved type of cerebral tissue. (CSP)",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107350",

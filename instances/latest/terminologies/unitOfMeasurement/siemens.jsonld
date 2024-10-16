@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/siemens",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UnitOfMeasurement",
+  "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "An electrical conduction unit which is equal to A/V.",
   "description": null,
   "interlexIdentifier": null,

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/entorhinalCortexLayer3",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Entorhinal cortex layer 3' is the pyramidal layer of the entorhinal cortex.",
   "description": "Layer of the entorhinal cortex lying superficial to layer 4 and deep to layer 2. It is characterized by cells of various sizes and shapes with a predominance of pyramidal cells (Adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 474).",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103864",

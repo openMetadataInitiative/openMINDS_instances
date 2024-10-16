@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/organismSubstance/blood",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/OrganismSubstance",
+  "@type": "https://openminds.om-i.org/types/OrganismSubstance",
   "definition": "''Blood' is a body fluid in the circulatory system of vertebrates that transports substances to and from cells (e.g. nutrients, oxygen or metabolic waste products). [[adapted from Wikipedia](https://en.wikipedia.org/wiki/Blood)]",
   "description": "A bodily fluid that is composed of blood plasma and erythrocytes (blood cells).",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101354",

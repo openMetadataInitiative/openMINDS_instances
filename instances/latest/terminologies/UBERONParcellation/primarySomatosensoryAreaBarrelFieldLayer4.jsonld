@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer4",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Primary somatosensory area barrel field layer 4' is a layer of neocortex. It is part of the barrel cortex.",
   "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109288",

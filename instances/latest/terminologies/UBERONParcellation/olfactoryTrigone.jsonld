@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/olfactoryTrigone",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Olfactory trigone' is a regional part of brain. It is part of the olfactory lobe.",
   "description": "A small triangular area in front of the anterior perforated substance. Its apex, directed forward, occupies the posterior part of the olfactory sulcus, and is brought into view by throwing back the olfactory tract (adapted from Wikipedia)",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107973",

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/differenceMeasure/kolmogorovSmirnovStatistic",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/DifferenceMeasure",
+  "@type": "https://openminds.om-i.org/types/DifferenceMeasure",
   "definition": "Quantification of a distance between the empirical distribution function of the sample and the cumulative distribution function of the reference distribution, or between the empirical distribution functions of two samples.",
   "description": null,
   "interlexIdentifier": null,

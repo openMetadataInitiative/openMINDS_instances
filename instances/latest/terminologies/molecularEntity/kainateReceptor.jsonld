@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/molecularEntity/kainateReceptor",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/MolecularEntity",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "The kainate receptors belong to the class of ionotropic glutamate receptors that can be involved in excitatory neurotransmission (postsynaptic) as well as inhibitory neurotransmission (presynaptic).",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0105822",

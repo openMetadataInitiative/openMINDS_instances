@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/posteriorLobeOfCerebellum",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "The region of the cerebellum that is posterior to the primary fissure and anterior to the posteriolateral fissure.",
   "description": "'Posterior lobe of cerebellum' is a cerebellum lobe.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109103",

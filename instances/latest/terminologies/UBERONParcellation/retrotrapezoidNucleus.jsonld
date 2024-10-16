@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/retrotrapezoidNucleus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Retrotrapezoid nucleus' is a nucleus of medulla oblongata.",
   "description": "Group of cells in the rostral medulla close to the ventral surface, near to the trapezoid body",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110082",

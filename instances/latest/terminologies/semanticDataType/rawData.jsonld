@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/semanticDataType/rawData",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/SemanticDataType",
+  "@type": "https://openminds.om-i.org/types/SemanticDataType",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,

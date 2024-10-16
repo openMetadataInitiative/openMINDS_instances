@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/experimentalApproach/optogenetics",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/ExperimentalApproach",
+  "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on using genetically encoded light-sensitive proteins in combination with targeted delivery of light in order to manipulate the behavior of populations of cells.",
   "description": null,
   "interlexIdentifier": null,

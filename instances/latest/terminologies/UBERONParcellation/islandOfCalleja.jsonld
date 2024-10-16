@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/islandOfCalleja",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Island of Calleja' is a telencephalic nucleus. It is part of the cerebral hemisphere.",
   "description": "Small clusters of granule cells located in the olfactory tubercle and also within the Island of Calleja magna that lies between the septum and the nucleus accumbens",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105730",

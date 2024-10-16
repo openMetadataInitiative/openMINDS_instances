@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/spinEchoPulseSequence",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/MRIPulseSequence",
+  "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
   "definition": "In magnetic resonance imaging, a 'spin echo pulse sequence' is a contrast generation technique that induces bulk changes in the spin magnetization of a sample by applying sequential pulses of resonant electromagnetic waves at different angles (cf. [Fonseca (2013)](https://doi.org/10.5772/53693)).",
   "description": null,
   "interlexIdentifier": null,

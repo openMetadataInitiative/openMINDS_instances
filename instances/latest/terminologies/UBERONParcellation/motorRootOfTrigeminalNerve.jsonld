@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/motorRootOfTrigeminalNerve",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Motor root of trigeminal nerve' is a trigeminal nerve root.",
   "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107128",

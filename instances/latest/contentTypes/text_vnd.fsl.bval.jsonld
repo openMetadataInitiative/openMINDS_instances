@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/contentTypes/text_vnd.fsl.bval",
-  "@type": "https://openminds.om-i.org/types/core/ContentType",
+  "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "description": "The FSL bval format is an ASCII text file that contains a list of b-values applied during each volume acquisition. The b-values are assumed to be in s/mm^2 units. The order of entries in this file must match the order of volumes in the diffusion weighted input data (4D NIFTI file) and entries in the gradient directions text file (FSL bvec format).",
   "displayLabel": null,

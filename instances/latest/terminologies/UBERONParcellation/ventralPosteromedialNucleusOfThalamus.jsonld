@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralPosteromedialNucleusOfThalamus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Ventral posteromedial nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral posterior nucleus of thalamus.",
   "description": "The ventral posteromedial nucleus is a nucleus of the thalamus. [WP,unvetted].",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112339",

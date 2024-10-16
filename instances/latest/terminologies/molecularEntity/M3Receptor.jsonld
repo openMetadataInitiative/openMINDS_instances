@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/molecularEntity/M3Receptor",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/MolecularEntity",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "The M3 receptor belongs to the family of muscarinic receptors which are activated by acetylcholine as endegenous ligand. It is expressed in many glands, in lungs, and in the smooth muscles of blood vessels.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0106431",

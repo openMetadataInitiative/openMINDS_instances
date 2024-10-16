@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralSuperiorOlivaryNucleus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Lateral superior olivary nucleus' is a nucleus of superior olivary complex. It is part of the primary superior olive.",
   "description": "One of two recognized nuclei comprising the superior olive.  The lateral superior olivary nucleus is much less prominent in humans than in many rodents and carnivores.  In the latter species, it is frequently described as S- or V-shaped.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106117",

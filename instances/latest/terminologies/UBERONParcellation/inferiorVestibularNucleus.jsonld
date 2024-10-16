@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorVestibularNucleus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Inferior vestibular nucleus' is a vestibular nucleus.",
   "description": "One of the nuclei comprising the vestibular nuclear complex, characterized by bundles of longitudinal fibers running through it.  Multiple cell groups are often identified within it.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105466",

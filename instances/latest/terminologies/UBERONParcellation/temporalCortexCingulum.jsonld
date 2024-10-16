@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/temporalCortexCingulum",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "The 'temporal cortex cingulum' is a white matter fibre bundle. It is part of cingulum of brain.",
   "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0727013",

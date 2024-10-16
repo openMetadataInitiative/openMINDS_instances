@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cochlearNuclearComplex",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Cochlear nuclear complex' is a gray matter of hindbrain. It is part of the medulla oblongata.",
   "description": "The cochlear nuclei consist of: (a) the dorsal cochlear nucleus, corresponding to the tuberculum acusticum on the dorso-lateral surface of the inferior peduncle; and (b) the ventral or accessory cochlear nucleus, placed between the two divisions of the nerve, on the ventral aspect of the inferior peduncle. [WP,unvetted].",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102309",

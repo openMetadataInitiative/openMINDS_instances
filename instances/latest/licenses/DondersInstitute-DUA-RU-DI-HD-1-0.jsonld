@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/licenses/DondersInstitute-DUA-RU-DI-HD-1-0",
-  "@type": "https://openminds.om-i.org/types/core/License",
+  "@type": "https://openminds.om-i.org/types/License",
   "fullName": "Donder’s Institute DUA Version RU-DI-HD-1.0",
   "legalCode": "https://data.donders.ru.nl/doc/dua/RU-DI-HD-1.0.html",
   "shortName": "RU-DI-HD-1.0",

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_brainstem",
-  "@type": "https://openminds.om-i.org/types/sands/ParcellationEntityVersion",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
   "abbreviation": null,
   "additionalRemarks": ".label file name \"brainstem\" does not match the name in the .mbat file (\"brain stem\") - same meaning but different spelling; name was also changed to reflect the possibility for subdivision; abbreviation for the corrected name has been added under \"alternateName\"; for details, see atlas documentation",
   "alternateName": [
@@ -13,7 +13,7 @@
   "correctedName": "brainstem, unspecified",
   "hasAnnotation": [
     {
-      "@type": "https://openminds.om-i.org/types/sands/AtlasAnnotation",
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
       "anchorPoint": null,
       "criteria": null,
       "criteriaQualityType": {
@@ -33,7 +33,7 @@
         }
       ],
       "preferredVisualization": {
-        "@type": "https://openminds.om-i.org/types/sands/ViewerSpecification",
+        "@type": "https://openminds.om-i.org/types/ViewerSpecification",
         "additionalRemarks": null,
         "anchorPoint": null,
         "cameraPosition": null,

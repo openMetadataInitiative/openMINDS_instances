@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/tissueSampleType/wholeOrgan",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/TissueSampleType",
+  "@type": "https://openminds.om-i.org/types/TissueSampleType",
   "definition": "A whole organ sample from a living or deceased multicellular organism body.",
   "description": null,
   "interlexIdentifier": null,

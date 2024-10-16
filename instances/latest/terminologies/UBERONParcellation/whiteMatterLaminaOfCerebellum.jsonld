@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterLaminaOfCerebellum",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'White matter lamina of cerebellum' is a white matter lamina of neuraxis. It is part of the cerebellum.",
   "description": "The white laminae of cerebellum is subdivision of the cerebellar cortex comprised of myelinated axons lying deep to the granule cell layer of the cerebellar cortex.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112629",

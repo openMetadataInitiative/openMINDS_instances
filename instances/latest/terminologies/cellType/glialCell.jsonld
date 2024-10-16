@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/cellType/glialCell",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/CellType",
+  "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "A 'glial cell' is a non-neuronal cell of the nervous system. Glial cells provide physical support, respond to injury, regulate the ionic and chemical composition of the extracellular milieu, guide neuronal migration during development, and exchange metabolites with neurons.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104634",

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/subjectAttribute/hasInsertedDevice",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/SubjectAttribute",
+  "@type": "https://openminds.om-i.org/types/SubjectAttribute",
   "definition": "A typically temporary state of an organism during which a device (e.g., an electrode) is inserted to measure or stimulate bodily functions.",
   "description": null,
   "interlexIdentifier": null,

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/organismSystem/digestiveSystem",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/OrganismSystem",
+  "@type": "https://openminds.om-i.org/types/OrganismSystem",
   "definition": "The 'digestive system' is an anatomical organ system composed of organs devoted to the ingestion, digestion, the assimilation of food and the discharge of residual wastes.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0729362",

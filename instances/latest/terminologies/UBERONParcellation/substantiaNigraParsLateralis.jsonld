@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/substantiaNigraParsLateralis",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Substantia nigra pars lateralis' is a regional part of brain. It is part of the substantia nigra.",
   "description": "Part of the pars reticulata of substantia nigra. It is the lateral, 'most fibrous' part (Poirier-83), which is regarded to be the phylogenetically oldest part of the substantia nigra and the only part found in nonmammalian vertebrates (Crosby-62) (Adapted from Brain Info: http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111221",

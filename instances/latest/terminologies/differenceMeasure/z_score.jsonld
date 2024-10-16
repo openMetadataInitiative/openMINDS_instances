@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/differenceMeasure/z_score",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/DifferenceMeasure",
+  "@type": "https://openminds.om-i.org/types/DifferenceMeasure",
   "definition": "The number of standard deviations by which an observed value is above or below the mean value.",
   "description": null,
   "interlexIdentifier": null,

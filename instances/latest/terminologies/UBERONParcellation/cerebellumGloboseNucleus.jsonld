@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellumGloboseNucleus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Cerebellum globose nucleus' is a cerebellum interpositus nucleus.",
   "description": "One of two nuclei comprising the interpositus cerebellar nuclear complex of the deep cerebellar nuclei.  It is  recognized in human cerebellum but is not distinguishable in all mammalian species.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104655",

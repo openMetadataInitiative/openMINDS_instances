@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/waferHour",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UnitOfMeasurement",
+  "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "Usage of one wafer of a wafer-scale computing system for one hour",
   "description": "An example of such a wafer-scale system would be BrainScaleS-1",
   "interlexIdentifier": null,

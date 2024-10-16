@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_BA7",
-  "@type": "https://openminds.om-i.org/types/sands/ParcellationEntity",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "BA7",
   "alternateName": [
     "Brodmann's area 7",

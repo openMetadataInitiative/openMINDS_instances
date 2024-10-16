@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/oralPontineReticularNucleus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Oral pontine reticular nucleus' is a nucleus of pontine reticular formation.",
   "description": "The oral pontine reticular nucleus is delineated from its caudal brother, with which it shares its first three names. This nucleus tapers into the lower mesencephalic reticular formation and contains sporadic giant cells. Different populations of the pontis oralis have displayed discharge patterns which coordinate with phasic movements to and from paradoxical sleep. From this information it has been implied that the n.r. pontis oralis is involved in the mediation of changing to and from REM sleep. [WP,unvetted].",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108083",

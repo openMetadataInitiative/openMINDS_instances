@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/modelAbstractionLevel/spikingNeurons",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/ModelAbstractionLevel",
+  "@type": "https://openminds.om-i.org/types/ModelAbstractionLevel",
   "definition": "Modelling neural networks in which the action potentials of individual neurons are represented",
   "description": null,
   "interlexIdentifier": null,

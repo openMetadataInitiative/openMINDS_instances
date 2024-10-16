@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/molecularEntity/5-HT1BReceptor",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/MolecularEntity",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "The 5-HT1B receptor is a subtype of serotonin receptor group (5-HT receptors) that bind the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT).",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100034",

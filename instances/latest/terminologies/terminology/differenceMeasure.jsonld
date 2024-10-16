@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/terminology/differenceMeasure",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/Terminology",
+  "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "A measure of the difference between two things",
   "description": "This may be a numerical or physical quantity, a set of categories, etc. Examples include 'mean squared error', 't-statistic', 'p-value'.",
   "interlexIdentifier": null,

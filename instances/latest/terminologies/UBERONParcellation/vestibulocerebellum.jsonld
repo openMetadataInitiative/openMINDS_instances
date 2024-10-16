@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/vestibulocerebellum",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Vestibulocerebellum' is a regional part of brain. It is part of the cerebellum.",
   "description": "A phylogenetic subdivision of the cerebellum, the oldest part, which regulates balance and eye movements. It receives vestibular input from both the semicircular canals and from the vestibular nuclei, and sends fibres back to the medial and lateral vestibular nuclei. It also receives visual input from the superior colliculi and from the visual cortex (the latter via the pontine nuclei, forming a cortico-ponto-cerebellar pathway). Lesions of the vestibulocerebellum cause disturbances of balance and gait.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0725946",

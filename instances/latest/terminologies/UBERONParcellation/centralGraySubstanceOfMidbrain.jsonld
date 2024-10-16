@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/centralGraySubstanceOfMidbrain",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Central gray substance of midbrain' is a gray matter of midbrain and central gray substance. It is part of the midbrain tegmentum.",
   "description": "Periaqueductal gray (PAG; also called the 'central gray') is the gray matter located around the cerebral aqueduct within the midbrain. It plays a role in the descending modulation of pain and in defensive behaviour. The ascending pain and temperature fibers of the spinothalamic tract also send information to the PAG via the spinomesencephalic tract. The spinomesencephalic tract is so-named because the fibers originate in the spine and terminate in the mesencephalon, another name for the midbrain, the part of the brain in which the PAG resides. [WP,unvetted].",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108717",

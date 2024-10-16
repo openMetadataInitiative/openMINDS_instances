@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/forebrain",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Forebrain' is a regional part of brain.",
   "description": "The part of the brain developed from the most rostral of the three primary vesicles of the embryonic neural tube and consisting of the DIENCEPHALON and TELENCEPHALON. (MSH) * part of the brain developed from the most rostral of the three primary vesicles of the embryonic neural tube (brain) from which the diencephalon and telencephalon are derived; also called the forebrain. (CSP), The part of the brain developed from the most rostral of the three primary vesicles of the embryonic neural tube and consisting of the Diencephalon and Telencephalon.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104355",

@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/analysisTechnique/convolution",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/AnalysisTechnique",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "In functional analysis, 'convolution' is a mathematical operation on two functions (f and g) producing a third function (f * g) that expresses how the shape of one is modified by the other. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Convolution)]",
   "description": null,
   "interlexIdentifier": null,

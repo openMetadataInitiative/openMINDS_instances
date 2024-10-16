@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pretectalRegion",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Pretectal region' is a brain gray matter and nuclear complex of neuraxis.",
   "description": "Region of brain lying between the midbrain tectum and the thalamus (Sefton and Dreher, in Paxinos, G The rat central nervous system, 1995, pg 859),  Situated at the level of poterior commissure and just rostral to the superior colliculus  (Brodal, Neurological Anatomy, 3rd ed, 1981, pg 542)",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109258",

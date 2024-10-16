@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/licenses/LGPL-2.1-only",
-  "@type": "https://openminds.om-i.org/types/core/License",
+  "@type": "https://openminds.om-i.org/types/License",
   "fullName": "GNU Lesser General Public License v2.1 only",
   "legalCode": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
   "shortName": "LGPL-2.1-only",

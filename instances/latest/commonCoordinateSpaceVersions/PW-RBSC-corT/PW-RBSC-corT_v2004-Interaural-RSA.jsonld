@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Interaural-RSA",
-  "@type": "https://openminds.om-i.org/types/sands/CommonCoordinateSpaceVersion",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
   "abbreviation": "PW-RBSC-corT",
   "accessibility": {
     "@id": "https://openminds.om-i.org/instances/productAccessibility/paidAccess"

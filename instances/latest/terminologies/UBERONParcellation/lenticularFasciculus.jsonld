@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lenticularFasciculus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Lenticular fasciculus' is a ventral thalamic fasciculus.",
   "description": "The lenticular fasciculus is a tract connecting the globus pallidus to the Thalamic fasciculus. The thalamic fasciculus (composed of the lenticular fasciculus and ansa lenticularis) runs into the Thalamus. It connects the globus pallidus to the thalamus.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106170",

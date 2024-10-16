@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/fileUsageRole/screenshot",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/FileUsageRole",
+  "@type": "https://openminds.om-i.org/types/FileUsageRole",
   "definition": "A screenshot is an image of the content displayed on the screen of a computer or mobile device.",
   "description": null,
   "interlexIdentifier": null,

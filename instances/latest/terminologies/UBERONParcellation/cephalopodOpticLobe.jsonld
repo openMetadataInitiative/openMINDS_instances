@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cephalopodOpticLobe",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Cephalopod optic lobe' is a visual processing part of nervous system. It is part of the brain.",
   "description": "Large lobes of the brain associated with the eyes. In octopods and some squids the optic lobes may be separated from the rest of the brain by an optic stalk of varying length. In Octopus the optic lobes contain 92 million cells compared with only 42 million in the main central mass of the brain (J. Young, 1963) .",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0725883",

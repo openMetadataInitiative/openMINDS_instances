@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorColliculus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Inferior colliculus' is a regional part of brain. It is part of the corpora quadrigemina.",
   "description": "Part of the midbrain tectum, consisting of paired predominantly gray matter elevations on the dorsal aspect of the midbrain, located caudal to the superior colliculus, dorsal to the periaqueductal gray of the cerebral aqueduct and rostral to the cerebellum.  According to Neuronames, the inferior colliculus comprises the central, pericentral and external nucleus and two predominantly white matter structures, the brachium of the inferior colliculus and the commissure of the inferior colliculus (MM).",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105436",

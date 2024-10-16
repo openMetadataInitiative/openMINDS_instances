@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_p1PeriaqueductalGray",
-  "@type": "https://openminds.om-i.org/types/sands/ParcellationEntity",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "p1PAG",
   "alternateName": null,
   "definition": null,

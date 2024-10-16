@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/radiationOfThalamus",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/UBERONParcellation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "The 'radiation of thalamus' is a white matter fibre bundle. It is part of of the thalamic complex.",
   "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0724984",

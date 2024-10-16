@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/molecularEntity/alpha-4Beta-2Receptor",
-  "@type": "https://openminds.om-i.org/types/controlledTerms/MolecularEntity",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "The alpha-4 beta-2 receptor belongs to the family of nicotinic acetylcholine receptors that respond to the neurotransmitter acetylcholine as endogenous ligand. This subtype is located in the brain, where activation yields post- and presynaptic excitation.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0597802",
