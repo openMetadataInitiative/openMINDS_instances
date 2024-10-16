@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/experimentalApproach/genetics",
+  "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
+  "definition": "Experimental approach that measures or manipulates some aspect of the genetic material of an organism.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "genetics",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

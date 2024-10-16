@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/megabyte",
+  "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "megabyte",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/ALS",
+  "@type": "https://openminds.om-i.org/types/AnatomicalAxesOrientation",
+  "definition": "X, Y, Z axes are oriented towards anterior, left and superior, respectively.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ALS",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

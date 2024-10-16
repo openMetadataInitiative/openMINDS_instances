@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/intermediateOrbitalGyrus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Intermediate orbital gyrus' is an orbital gyrus.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105574",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002644#intermediate-orbital-gyrus-1",
+  "name": "intermediate orbital gyrus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002644",
+  "synonym": [
+    ""
+  ]
+}

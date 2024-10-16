@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation",
+  "@type": "https://openminds.om-i.org/types/AnnotationCriteriaType",
+  "definition": "A 'probabalistic annotation' provides the probability or probabilities to which an entity or a list of entities belong(s) to a defined annotation.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "probabilistic annotation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/cholineAcetyltransferase",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Choline acetyltransferase is a synthetic enzyme that catalyzes the formation of acetylcholine from acetyl-CoA and choline",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102129",
+  "knowledgeSpaceLink": null,
+  "name": "choline acetyltransferase",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao722953401",
+  "synonym": [
+    "ChAT",
+    "choline acetylase"
+  ]
+}

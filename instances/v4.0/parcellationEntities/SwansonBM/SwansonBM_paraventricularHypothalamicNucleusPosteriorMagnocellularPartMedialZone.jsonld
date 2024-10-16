@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPartMedialZone",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PVHpmm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPosteriorMagnocellularPartMedialZone"
+    }
+  ],
+  "lookupLabel": "SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPartMedialZone",
+  "name": "paraventricular hypothalamic nucleus, posterior magnocellular part, medial zone",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

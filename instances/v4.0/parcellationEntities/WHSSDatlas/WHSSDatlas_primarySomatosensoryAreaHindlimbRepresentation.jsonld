@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_primarySomatosensoryAreaHindlimbRepresentation",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "S1-hl"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_primarySomatosensoryAreaHindlimbRepresentation"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_primarySomatosensoryAreaHindlimbRepresentation",
+  "name": "primary somatosensory area, hindlimb representation",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

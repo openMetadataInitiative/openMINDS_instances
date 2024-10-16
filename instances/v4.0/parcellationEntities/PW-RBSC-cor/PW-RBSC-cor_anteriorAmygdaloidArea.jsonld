@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_anteriorAmygdaloidArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "AA",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_anteriorAmygdaloidArea"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_anteriorAmygdaloidArea",
+  "name": "anterior amygdaloid area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

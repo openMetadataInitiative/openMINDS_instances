@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralLemniscusDorsalPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "NLLd",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusDorsalPart"
+    }
+  ],
+  "lookupLabel": "SwansonBM_nucleusOfTheLateralLemniscusDorsalPart",
+  "name": "nucleus of the lateral lemniscus, dorsal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

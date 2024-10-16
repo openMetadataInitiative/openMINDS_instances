@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_primaryAuditoryArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "Au1"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_primaryAuditoryCortex"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_primaryAuditoryCortex"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_primaryAuditoryArea"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_primaryAuditoryArea",
+  "name": "primary auditory area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

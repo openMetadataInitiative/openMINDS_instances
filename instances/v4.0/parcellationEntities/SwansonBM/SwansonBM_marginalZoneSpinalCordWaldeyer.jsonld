@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_marginalZoneSpinalCordWaldeyer",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "MZ",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_marginalZoneSpinalCordWaldeyer"
+    }
+  ],
+  "lookupLabel": "SwansonBM_marginalZoneSpinalCordWaldeyer",
+  "name": "marginal zone spinal cord [Waldeyer]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

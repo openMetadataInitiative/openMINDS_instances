@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusIntermediateWhiteLayer",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "SCiw",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusIntermediateWhiteLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBM_superiorColliculusIntermediateWhiteLayer",
+  "name": "superior colliculus, intermediate white layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

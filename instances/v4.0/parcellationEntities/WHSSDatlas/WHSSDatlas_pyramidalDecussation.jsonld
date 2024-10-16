@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_pyramidalDecussation",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "pyx"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_pyramidalDecussation"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_pyramidalDecussation"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_pyramidalDecussation"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_pyramidalDecussation"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_pyramidalDecussation"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_pyramidalDecussation",
+  "name": "pyramidal decussation",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/tissueSampleAttribute/stained",
+  "@type": "https://openminds.om-i.org/types/TissueSampleAttribute",
+  "definition": "A specimen that has been dyed using chemical or biochemical substances for general colorization of e.g., molecules or subcellular components, that can be visualized under the right light exposure.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "stained",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/subcellularEntity/asymmetricSynapse",
+  "@type": "https://openminds.om-i.org/types/SubcellularEntity",
+  "definition": "An 'asymmetric synapse' is characterized by rounded vesicles in the presynaptic cell and a prominent postsynaptic density. Asymmetric synapses are typically excitatory.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "asymmetric synapse",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

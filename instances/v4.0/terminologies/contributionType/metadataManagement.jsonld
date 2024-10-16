@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/metadataManagment",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "metadata management",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

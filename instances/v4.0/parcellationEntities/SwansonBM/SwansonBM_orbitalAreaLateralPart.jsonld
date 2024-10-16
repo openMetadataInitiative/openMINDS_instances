@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_orbitalAreaLateralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "ORBl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_orbitalAreaLateralPart"
+    }
+  ],
+  "lookupLabel": "SwansonBM_orbitalAreaLateralPart",
+  "name": "orbital area, lateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

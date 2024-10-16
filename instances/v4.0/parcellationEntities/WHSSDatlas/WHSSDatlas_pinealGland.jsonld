@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_pinealGland",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "PG"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_pinealGland"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_pinealGland"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_pinealGland"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_pinealGland"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_pinealGland"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_pinealGland",
+  "name": "pineal gland",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

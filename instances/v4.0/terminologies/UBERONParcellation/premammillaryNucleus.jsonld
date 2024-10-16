@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/premammillaryNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Premammillary nucleus' is a hypothalamic nucleus. It is part of the posterior hypothalamic region.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109218",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002712#premammillary-nucleus-1",
+  "name": "premammillary nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002712",
+  "synonym": [
+    "nuclei premamillaris",
+    "nucleus premamillaris hypothalami",
+    "PMm",
+    "premamillary nucleus",
+    "premammillary nuclei"
+  ]
+}

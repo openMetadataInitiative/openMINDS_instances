@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/LPI",
+  "@type": "https://openminds.om-i.org/types/AnatomicalAxesOrientation",
+  "definition": "X, Y, Z axes are oriented towards left, posterior and inferior, respectively.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "LPI",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_fasciculusRetroflexus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "fr"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_fasciculusRetroflexus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_fasciculusRetroflexus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_fasciculusRetroflexus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_fasciculusRetroflexus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_fasciculusRetroflexus"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_fasciculusRetroflexus",
+  "name": "fasciculus retroflexus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/limitansNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Limitans nucleus' is a nucleus of brain.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106267",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003026#limitans-nucleus-1",
+  "name": "limitans nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003026",
+  "synonym": [
+    "Lim",
+    "limitans thalamic nucleus",
+    "nucleus limitans",
+    "nucleus limitans opticus (Hassler)",
+    "nucleus limitans thalami"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/criteriaQualityType/asserted",
+  "@type": "https://openminds.om-i.org/types/CriteriaQualityType",
+  "definition": "If a criteria is 'asserted' it is based on an opinion or claim, usually made by an expert.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "asserted",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

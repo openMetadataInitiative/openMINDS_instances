@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/maximumProbabilityProjection",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "maximum probability projection",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

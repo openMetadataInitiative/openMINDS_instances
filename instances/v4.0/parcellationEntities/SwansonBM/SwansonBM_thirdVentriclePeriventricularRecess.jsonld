@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentriclePeriventricularRecess",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "V3r",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thirdVentriclePeriventricularRecess"
+    }
+  ],
+  "lookupLabel": "SwansonBM_thirdVentriclePeriventricularRecess",
+  "name": "third ventricle, periventricular recess",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

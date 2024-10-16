@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/educationalLevel/advanced",
+  "@type": "https://openminds.om-i.org/types/EducationalLevel",
+  "definition": "The learner has extensive knowledge of the given topic.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "advanced",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

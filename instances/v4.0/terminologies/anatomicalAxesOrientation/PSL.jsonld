@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/PSL",
+  "@type": "https://openminds.om-i.org/types/AnatomicalAxesOrientation",
+  "definition": "X, Y, Z axes are oriented towards posterior, superior and left, respectively.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "PSL",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

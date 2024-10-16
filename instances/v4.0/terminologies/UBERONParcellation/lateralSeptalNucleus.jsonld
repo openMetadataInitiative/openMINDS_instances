@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralSeptalNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Lateral septal nucleus' is a telencephalic nucleus. It is part of the lateral septal complex.",
+  "description": "Regional part of the septal nuclei, lying dorsal and slightly lateral to the medial septal nucleus.  The lateral septum receives the bulk of projections of areas projecting to the septal nuclei (Adapted from Brodal, 1981).",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106106",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002667#lateral-septal-nucleus-1",
+  "name": "lateral septal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002667",
+  "synonym": [
+    "lateral parolfactory nucleus",
+    "lateral septal nucleus (Cajal)",
+    "lateral septum",
+    "lateral septum nucleus",
+    "nucleus lateralis septi",
+    "nucleus septalis lateralis",
+    "nucleus septi lateralis"
+  ]
+}

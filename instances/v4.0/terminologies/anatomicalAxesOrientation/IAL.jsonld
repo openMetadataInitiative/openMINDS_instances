@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/IAL",
+  "@type": "https://openminds.om-i.org/types/AnatomicalAxesOrientation",
+  "definition": "X, Y, Z axes are oriented towards inferior, anterior and left, respectively.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "IAL",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

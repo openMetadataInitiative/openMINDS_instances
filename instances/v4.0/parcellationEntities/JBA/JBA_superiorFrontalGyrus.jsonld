@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_superiorFrontalGyrus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_frontalLobe"
+    }
+  ],
+  "hasVersion": null,
+  "lookupLabel": "JBA_superiorFrontalGyrus",
+  "name": "superior frontal gyrus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

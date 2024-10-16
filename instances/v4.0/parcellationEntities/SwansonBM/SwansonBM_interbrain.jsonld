@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interbrain",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "IB",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interbrain"
+    }
+  ],
+  "lookupLabel": "SwansonBM_interbrain",
+  "name": "interbrain",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

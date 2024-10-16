@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticCommissuresAnteriorGanser",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "supa",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supraopticCommissuresAnteriorGanser"
+    }
+  ],
+  "lookupLabel": "SwansonBM_supraopticCommissuresAnteriorGanser",
+  "name": "supraoptic commissures, anterior [Ganser]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

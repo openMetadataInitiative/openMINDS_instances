@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/stimulationTechnique/abstractImageVisualStimulation",
+  "@type": "https://openminds.om-i.org/types/StimulationTechnique",
+  "definition": "In an 'abstract image visual stimulation' a subject is visually stimulated with a static image that does not show a natural scene but reduced information or forms (e.g., colored symbols or outlines of faces).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "abstract image visual stimulation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

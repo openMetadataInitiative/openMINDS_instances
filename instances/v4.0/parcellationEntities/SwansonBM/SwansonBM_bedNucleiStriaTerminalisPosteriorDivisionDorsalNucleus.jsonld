@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionDorsalNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "BSTd",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionDorsalNucleus"
+    }
+  ],
+  "lookupLabel": "SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionDorsalNucleus",
+  "name": "bed nuclei stria terminalis, posterior division, dorsal nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

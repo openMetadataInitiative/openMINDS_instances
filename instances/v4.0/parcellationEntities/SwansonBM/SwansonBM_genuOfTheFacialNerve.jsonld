@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_genuOfTheFacialNerve",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "gVIIn",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_genuOfTheFacialNerve"
+    }
+  ],
+  "lookupLabel": "SwansonBM_genuOfTheFacialNerve",
+  "name": "genu of the facial nerve",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

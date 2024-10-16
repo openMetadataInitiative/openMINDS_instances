@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralNucleiDorsalThalamus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "LAT",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralNucleiDorsalThalamus"
+    }
+  ],
+  "lookupLabel": "SwansonBM_lateralNucleiDorsalThalamus",
+  "name": "lateral nuclei, dorsal thalamus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

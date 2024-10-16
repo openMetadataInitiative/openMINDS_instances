@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mammillothalamicTractVicqDAzyr",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "mtt",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mammillothalamicTractVicqDAzyr"
+    }
+  ],
+  "lookupLabel": "SwansonBM_mammillothalamicTractVicqDAzyr",
+  "name": "mammillothalamic tract [Vicq d'Azyr]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

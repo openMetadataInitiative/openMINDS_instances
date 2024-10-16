@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_BA18",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "BA18",
+  "alternateName": [
+    "Brodmann's area 18",
+    "human BA18",
+    "human Brodmann area 18",
+    "human Brodmann's area 18"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_cerebralCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/BA-human_1909_BA18"
+    }
+  ],
+  "lookupLabel": "BA-human_BA18",
+  "name": "Brodmann area 18",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

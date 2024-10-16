@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_anteriorNucleiOfTheDorsalThalamus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "ANT"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": null,
+  "lookupLabel": "WHSSDatlas_anteriorNucleiOfTheDorsalThalamus",
+  "name": "anterior nuclei of the dorsal thalamus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

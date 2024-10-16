@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_pontineRapheNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PnR",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_pontineRapheNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_pontineRapheNucleus",
+  "name": "pontine raphe nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

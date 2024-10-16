@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorLongitudinalFasciculus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "",
+  "description": "The 'inferior longitudinal fasciculus' is a white matter fibre bundle. It is a cerebral nerve fasciculus, connecting the temporal and occipital lobe.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0724061",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034743#inferior-longitudinal-fasciculus",
+  "name": "inferior longitudinal fasciculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034743",
+  "synonym": [
+    "external sagittal stratum",
+    "fasciculus longitudinalis inferior",
+    "ilf"
+  ]
+}

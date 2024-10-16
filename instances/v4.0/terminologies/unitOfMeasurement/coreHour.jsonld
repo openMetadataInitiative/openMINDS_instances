@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/coreHour",
+  "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
+  "definition": "Usage of a computer processor core for one hour",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "core-hour",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

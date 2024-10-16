@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_POST",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "POST",
+  "alternateName": [
+    "PA",
+    "Postcentral"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_centralRegion"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_POST"
+    }
+  ],
+  "lookupLabel": "AAL1_POST",
+  "name": "postcentral gyrus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

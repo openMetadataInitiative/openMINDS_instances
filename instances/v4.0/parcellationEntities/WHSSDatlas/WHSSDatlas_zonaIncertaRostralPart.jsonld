@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_zonaIncertaRostralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "ZI-r"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_zonaIncertaRostralPart"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_zonaIncertaRostralPart",
+  "name": "zona incerta, rostral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/gustatoryStimulusType/sourSubstance",
+  "@type": "https://openminds.om-i.org/types/GustatoryStimulusType",
+  "definition": "Any chemical compound that tastes sour.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "sour substance",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

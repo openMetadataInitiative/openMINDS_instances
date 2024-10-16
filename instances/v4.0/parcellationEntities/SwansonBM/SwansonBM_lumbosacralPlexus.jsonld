@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lumbosacralPlexus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "lsp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lumbosacralPlexus"
+    }
+  ],
+  "lookupLabel": "SwansonBM_lumbosacralPlexus",
+  "name": "lumbosacral plexus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

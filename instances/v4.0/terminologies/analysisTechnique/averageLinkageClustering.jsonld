@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/averageLinkageClustering",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "average linkage clustering",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleEdinger",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "mfb",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialForebrainBundleEdinger"
+    }
+  ],
+  "lookupLabel": "SwansonBM_medialForebrainBundleEdinger",
+  "name": "medial forebrain bundle [Edinger]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

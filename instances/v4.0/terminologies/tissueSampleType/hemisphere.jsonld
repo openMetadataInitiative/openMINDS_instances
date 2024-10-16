@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/tissueSampleType/hemisphere",
+  "@type": "https://openminds.om-i.org/types/TissueSampleType",
+  "definition": "One of the symmetric halves excised from a bilateral organ tissue sample (e.g., a brain) from a living or deceased multicellular organism body.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "hemisphere",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

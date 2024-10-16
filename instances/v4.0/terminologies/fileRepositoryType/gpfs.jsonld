@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/fileRepositoryType/gpfs",
+  "@type": "https://openminds.om-i.org/types/FileRepositoryType",
+  "definition": "GPFS, short for General Parallel File System is a high-performance clustered file system developed by IBM",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "GPFS repository",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

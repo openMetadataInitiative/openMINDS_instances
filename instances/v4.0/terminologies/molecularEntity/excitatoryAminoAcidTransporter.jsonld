@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/excitatoryAminoAcidTransporter",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The excitatory amino acid transporters are a subclass of glutamate transporters that remove glutamate from the synaptic cleft and extrasynaptic sites via glutamate reuptake into glial cells and neurons.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "excitatory amino acid transporter",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "EAAT"
+  ]
+}

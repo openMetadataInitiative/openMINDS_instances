@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_prelimbicArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "PrL"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_prelimbicArea"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_prelimbicArea",
+  "name": "prelimbic area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

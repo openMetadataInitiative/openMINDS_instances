@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_T1",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "T1",
+  "alternateName": [
+    "T1",
+    "Temporal_Sup"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_temporalLobe"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_T1"
+    }
+  ],
+  "lookupLabel": "AAL1_T1",
+  "name": "superior temporal gyrus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

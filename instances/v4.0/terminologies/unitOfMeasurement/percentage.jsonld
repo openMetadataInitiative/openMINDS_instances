@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/percentage",
+  "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
+  "definition": "A 'percentage' (from Latin per centum 'by a hundred') is a quantity expressed as a fraction of 100 (amount of something in each hundred).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "percent",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "%",
+    "pc",
+    "pct",
+    "percent"
+  ]
+}

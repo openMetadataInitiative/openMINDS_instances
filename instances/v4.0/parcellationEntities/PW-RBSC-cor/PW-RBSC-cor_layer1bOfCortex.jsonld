@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_layer1bOfCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "1b",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_layer1bOfCortex"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_layer1bOfCortex",
+  "name": "layer 1b of cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

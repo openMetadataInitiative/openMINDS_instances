@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cranialWindowConstructionType/clearedSkullCranialWindow",
+  "@type": "https://openminds.om-i.org/types/CranialWindowConstructionType",
+  "definition": "A cranial window that is constructed by clearing a small region of the skull.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cleared skull cranial window",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

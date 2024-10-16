@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_presubiculumLayers16Cajal",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PRE1-6",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_presubiculumLayers16Cajal"
+    }
+  ],
+  "lookupLabel": "SwansonBM_presubiculumLayers16Cajal",
+  "name": "presubiculum, layers 1-6 [Cajal]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

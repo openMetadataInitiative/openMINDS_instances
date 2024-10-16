@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/productAccessibility/retracted",
+  "@type": "https://openminds.om-i.org/types/ProductAccessibility",
+  "definition": "With 'retracted' selected, metadata are released, but data are retracted.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "retracted",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

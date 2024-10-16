@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticulospinalTractMedialPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "rstm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_reticulospinalTractMedialPart"
+    }
+  ],
+  "lookupLabel": "SwansonBM_reticulospinalTractMedialPart",
+  "name": "reticulospinal tract, medial part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

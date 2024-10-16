@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_IN",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "IN",
+  "alternateName": [
+    "IN",
+    "Insula"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_brain"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_IN"
+    }
+  ],
+  "lookupLabel": "AAL1_IN",
+  "name": "insula",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

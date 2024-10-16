@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_CAU",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "CAU",
+  "alternateName": [
+    "NC",
+    "Caudate"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_subcorticalGrayNuclei"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_CAU"
+    }
+  ],
+  "lookupLabel": "AAL1_CAU",
+  "name": "caudate nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

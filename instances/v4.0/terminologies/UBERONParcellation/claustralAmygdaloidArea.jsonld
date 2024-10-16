@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/claustralAmygdaloidArea",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Claustral amygdaloid area' is a cerebral hemisphere gray matter. It is part of the amygdala and basal nuclear complex.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102229",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002729#claustral-amygdaloid-area-1",
+  "name": "claustral amygdaloid area",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002729",
+  "synonym": [
+    "area claustralis amygdalae",
+    "claustral amygdalar area",
+    "claustrum diffusa",
+    "claustrum parvum",
+    "ventral claustrum",
+    "ventral portion of claustrum"
+  ]
+}

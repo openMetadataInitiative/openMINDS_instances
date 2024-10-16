@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/boundaryBasedRegistration",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "The term 'boundary-based registration' refers to feature based image registration methods which utilize a boundary which can be identified in the source and target image.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "boundary-based registration",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "BBR"
+  ]
+}

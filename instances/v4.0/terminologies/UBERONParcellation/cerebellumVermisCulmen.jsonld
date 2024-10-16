@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellumVermisCulmen",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Cerebellum vermis culmen' is a cerebellum vermis lobule. It is part of the cerebellum anterior vermis.",
+  "description": "The culmen is the portion of the anterior vermis adjacent to the primary fissure of cerebellum. The culmen and the anterior parts of the quadrangular lobules form the lobus culminis[WP].",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102659",
+  "knowledgeSpaceLink": null,
+  "name": "cerebellum vermis culmen",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007763",
+  "synonym": null
+}

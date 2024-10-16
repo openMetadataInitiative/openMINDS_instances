@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/typeOfUncertainty",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "type of uncertainty",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

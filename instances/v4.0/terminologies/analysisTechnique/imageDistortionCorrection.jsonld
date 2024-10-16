@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/imageDistortionCorrection",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "'Image distortion correction' is the general term for any image processing technique correcting optical or perspective aberrations of an image.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "image distortion correction",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

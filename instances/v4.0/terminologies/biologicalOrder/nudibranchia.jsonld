@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/biologicalOrder/nudibranchia",
+  "@type": "https://openminds.om-i.org/types/BiologicalOrder",
+  "definition": "The biological order *Nudibranchia* (nudibranchs) belongs to the class *Gastropoda* (gastropods).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107805",
+  "knowledgeSpaceLink": null,
+  "name": "Nudibranchia",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_70849",
+  "synonym": [
+    "nudibranchs"
+  ]
+}

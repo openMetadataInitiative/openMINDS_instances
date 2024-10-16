@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/GTPDisodiumSalt",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "A GTP (guanosine 5'-triphosphate) molecule bonded with two sodium ions (Na+), forming a salt hydrate.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "GTP, disodium salt",
+  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/135818278",
+  "synonym": [
+    "Guanosine 5'-triphosphate sodium salt hydrate",
+    "NaGTP",
+    "5'-triphospho-guanosine; hydrate; sodium salt",
+    "disodium;[[[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-oxidophosphoryl] hydrogen phosphate;dihydrate"
+  ]
+}

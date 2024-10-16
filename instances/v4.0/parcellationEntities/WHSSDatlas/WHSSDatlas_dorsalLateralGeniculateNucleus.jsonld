@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_dorsalLateralGeniculateNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "DLG"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_dorsalLateralGeniculateNucleus"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_dorsalLateralGeniculateNucleus",
+  "name": "dorsal lateral geniculate nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

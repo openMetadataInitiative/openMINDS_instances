@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialTerminalNucleusAccessoryOpticTractEdinger",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "MT",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialTerminalNucleusAccessoryOpticTractEdinger"
+    }
+  ],
+  "lookupLabel": "SwansonBM_medialTerminalNucleusAccessoryOpticTractEdinger",
+  "name": "medial terminal nucleus accessory optic tract [Edinger]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

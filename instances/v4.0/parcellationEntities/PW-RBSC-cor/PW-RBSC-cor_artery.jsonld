@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_artery",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "a",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_artery"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_artery",
+  "name": "artery",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

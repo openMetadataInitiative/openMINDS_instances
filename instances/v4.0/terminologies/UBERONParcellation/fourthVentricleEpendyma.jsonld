@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/fourthVentricleEpendyma",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Fourth ventricle ependyma' is a brain ependyma. It is part of the fourth ventricle.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0729148",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004644#fourth-ventricle-ependyma",
+  "name": "fourth ventricle ependyma",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004644",
+  "synonym": null
+}

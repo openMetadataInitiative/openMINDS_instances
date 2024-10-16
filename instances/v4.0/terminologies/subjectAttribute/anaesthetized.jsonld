@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/subjectAttribute/anaesthetized",
+  "@type": "https://openminds.om-i.org/types/SubjectAttribute",
+  "definition": "A temporary state of an organism induced by anaestetic substances that cause the reduction or loss of pain sensation with or without loss of consciousness.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "anaesthetized",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

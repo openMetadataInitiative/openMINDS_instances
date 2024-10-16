@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/biologicalOrder/didelphimorphia",
+  "@type": "https://openminds.om-i.org/types/BiologicalOrder",
+  "definition": "The biological order *Didelphimorphia* (opossums) belongs to the class *Mammalia* (mammals).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Didelphimorphia",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "opossums"
+  ]
+}

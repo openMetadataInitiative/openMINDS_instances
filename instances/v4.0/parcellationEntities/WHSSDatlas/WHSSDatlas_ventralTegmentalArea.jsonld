@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralTegmentalArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "VTA"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_ventralTegmentalArea"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_ventralTegmentalArea",
+  "name": "ventral tegmental area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

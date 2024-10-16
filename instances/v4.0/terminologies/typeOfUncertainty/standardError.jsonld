@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/typeOfUncertainty/standardError",
+  "@type": "https://openminds.om-i.org/types/TypeOfUncertainty",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "standard error",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

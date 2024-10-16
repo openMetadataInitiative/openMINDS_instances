@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modelAbstractionLevel/systemsBiology-fluxBalance",
+  "@type": "https://openminds.om-i.org/types/ModelAbstractionLevel",
+  "definition": "Systems biology modelling using flux balance analysis",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "systems biology: flux balance",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

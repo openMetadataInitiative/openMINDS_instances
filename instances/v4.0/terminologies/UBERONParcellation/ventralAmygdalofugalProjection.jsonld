@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralAmygdalofugalProjection",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Ventral amygdalofugal projection' is a tract of brain. It is part of the cerebral hemisphere white matter.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112283",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002745#ventral-amygdalofugal-projection-1",
+  "name": "ventral amygdalofugal projection",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002745",
+  "synonym": [
+    "projectiones ventrales amygdalae",
+    "tractus amygdalofugalis ventralis",
+    "vaf",
+    "ventral amygdalofugal pathway"
+  ]
+}

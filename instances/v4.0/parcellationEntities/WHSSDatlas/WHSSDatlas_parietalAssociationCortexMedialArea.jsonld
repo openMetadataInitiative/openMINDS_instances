@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_parietalAssociationCortexMedialArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "mPPC"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_parietalAssociationCortexMedialArea"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_parietalAssociationCortexMedialArea",
+  "name": "parietal association cortex, medial area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

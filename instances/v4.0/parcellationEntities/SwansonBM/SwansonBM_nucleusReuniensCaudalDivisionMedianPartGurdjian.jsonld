@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensCaudalDivisionMedianPartGurdjian",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "REcm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionMedianPartGurdjian"
+    }
+  ],
+  "lookupLabel": "SwansonBM_nucleusReuniensCaudalDivisionMedianPartGurdjian",
+  "name": "nucleus reuniens, caudal division, median part [Gurdjian]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

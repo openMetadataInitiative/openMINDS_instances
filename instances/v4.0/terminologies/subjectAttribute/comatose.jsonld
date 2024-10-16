@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/subjectAttribute/comatose",
+  "@type": "https://openminds.om-i.org/types/SubjectAttribute",
+  "definition": "A deep state of prolonged unconsciousness in which the organism cannot be awakened (temporarily or terminally), is unresponsive and typically displays depressed cerebral activity.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "comatose",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

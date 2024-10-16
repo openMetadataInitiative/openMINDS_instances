@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cranialWindowReinforcementType/polymerBasedCranialWindow",
+  "@type": "https://openminds.om-i.org/types/CranialWindowReinforcementType",
+  "definition": "A cranial window reinforced by an implantation of a polymer material.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "polymer-based cranial window",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

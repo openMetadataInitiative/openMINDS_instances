@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cervicothalamicTract",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "cett",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cervicothalamicTract"
+    }
+  ],
+  "lookupLabel": "SwansonBM_cervicothalamicTract",
+  "name": "cervicothalamic tract",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

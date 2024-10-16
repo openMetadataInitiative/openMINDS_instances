@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/breedingType/congenic",
+  "@type": "https://openminds.om-i.org/types/BreedingType",
+  "definition": "'Congenic' breeding is the production of offspring from repeated backcrossing into an inbred (background) strain, with selection for a particular marker, ideally a single gene from another strain.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "congenic",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

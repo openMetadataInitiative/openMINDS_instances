@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionTransverseNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "BSTtr",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionTransverseNucleus"
+    }
+  ],
+  "lookupLabel": "SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionTransverseNucleus",
+  "name": "bed nuclei stria terminalis, posterior division, transverse nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

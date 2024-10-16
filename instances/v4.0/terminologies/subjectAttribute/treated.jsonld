@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/subjectAttribute/treated",
+  "@type": "https://openminds.om-i.org/types/SubjectAttribute",
+  "definition": "A subject that is in a permanently or temporarily altered state compared to its natural state following some kind of treatment.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "treated",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

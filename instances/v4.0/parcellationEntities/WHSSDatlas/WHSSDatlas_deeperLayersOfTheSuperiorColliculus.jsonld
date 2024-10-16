@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_deeperLayersOfTheSuperiorColliculus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "SuD"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_deeperLayersOfTheSuperiorColliculus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_deeperLayersOfTheSuperiorColliculus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_deeperLayersOfTheSuperiorColliculus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_deeperLayersOfTheSuperiorColliculus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_deeperLayersOfTheSuperiorColliculus"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_deeperLayersOfTheSuperiorColliculus",
+  "name": "deeper layers of the superior colliculus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

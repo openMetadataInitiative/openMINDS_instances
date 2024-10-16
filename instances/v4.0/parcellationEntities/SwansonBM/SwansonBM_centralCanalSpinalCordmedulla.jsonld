@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralCanalSpinalCordmedulla",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "C",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralCanalSpinalCordmedulla"
+    }
+  ],
+  "lookupLabel": "SwansonBM_centralCanalSpinalCordmedulla",
+  "name": "central canal, spinal cord/medulla",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

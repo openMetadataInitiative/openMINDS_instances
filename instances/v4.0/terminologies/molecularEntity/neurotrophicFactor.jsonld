@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/neurotrophicFactor",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The 'neurotrophic factor' is a family of biomolecules that support growth, survival, and differentiation of both developing and mature neurons.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "neurotrophic factor",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "NTF"
+  ]
+}

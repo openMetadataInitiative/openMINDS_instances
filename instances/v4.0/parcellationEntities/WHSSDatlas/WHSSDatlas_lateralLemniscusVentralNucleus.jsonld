@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_lateralLemniscusVentralNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "VLL"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_lateralLemniscusVentralNucleus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_lateralLemniscusVentralNucleus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_lateralLemniscusVentralNucleus"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_lateralLemniscusVentralNucleus",
+  "name": "lateral lemniscus, ventral nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

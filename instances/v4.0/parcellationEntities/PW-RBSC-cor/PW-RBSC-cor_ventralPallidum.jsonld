@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_ventralPallidum",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "VP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_ventralPallidum"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_ventralPallidum",
+  "name": "ventral pallidum",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

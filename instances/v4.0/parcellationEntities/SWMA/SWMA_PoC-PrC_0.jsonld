@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_PoC-PrC_0",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/SWMA_superficialWhiteMatter"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_2018_PoC-PrC_0"
+    }
+  ],
+  "lookupLabel": "SWMA_PoC-PrC_0",
+  "name": "PoC-PrC_0",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

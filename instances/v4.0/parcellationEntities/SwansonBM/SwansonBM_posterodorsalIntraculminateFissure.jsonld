@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posterodorsalIntraculminateFissure",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "icupd",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posterodorsalIntraculminateFissure"
+    }
+  ],
+  "lookupLabel": "SwansonBM_posterodorsalIntraculminateFissure",
+  "name": "posterodorsal intraculminate fissure",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

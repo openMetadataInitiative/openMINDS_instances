@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/vesicularGlutamateTransporter3",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The vesicular glutamate transporter 3 belongs to the VGLUT family. It transports the neurotransmitter glutamate into synaptic vesicles before it is released into the synaptic cleft.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000014964#vesicular-glutamate-transporter-3",
+  "name": "vesicular glutamate transporter 3",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000014964",
+  "synonym": [
+    "SLC17A8",
+    "solute carrier family 17 member 8",
+    "VGLUT3"
+  ]
+}

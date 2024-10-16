@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegion",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "LSr.dl.l",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegion"
+    }
+  ],
+  "lookupLabel": "SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegion",
+  "name": "lateral septal nucleus, rostral part, dorsolateral zone, lateral region",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

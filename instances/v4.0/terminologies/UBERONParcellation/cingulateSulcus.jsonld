@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cingulateSulcus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "The cingulate sulcus is a sulcus (brain fold) on the medial wall of the cerebral cortex. The frontal and parietal lobes are separated by the cingulate sulcus from the cingulate gyrus. [WP,unvetted].",
+  "description": "'Cingulate sulcus' is a subarachnoid sulcus.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102181",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002710#cingulate-sulcus-1",
+  "name": "cingulate sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002710",
+  "synonym": null
+}

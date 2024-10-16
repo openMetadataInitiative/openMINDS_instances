@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_islandsOfCallejaOlfactoryTubercle",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "isl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_islandsOfCallejaOlfactoryTubercle"
+    }
+  ],
+  "lookupLabel": "SwansonBM_islandsOfCallejaOlfactoryTubercle",
+  "name": "islands of Calleja (olfactory tubercle)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

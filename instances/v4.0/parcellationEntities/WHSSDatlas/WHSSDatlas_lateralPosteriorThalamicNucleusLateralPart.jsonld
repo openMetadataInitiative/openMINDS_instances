@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_lateralPosteriorThalamicNucleusLateralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "LP-l"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_lateralPosteriorThalamicNucleusLateralPart"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_lateralPosteriorThalamicNucleusLateralPart",
+  "name": "lateral posterior thalamic nucleus, lateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

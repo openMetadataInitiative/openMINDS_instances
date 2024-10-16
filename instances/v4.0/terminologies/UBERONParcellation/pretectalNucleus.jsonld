@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pretectalNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Pretectal nucleus' is a nucleus of brain. It is part of the pretectal region.",
+  "description": "A neural nucleus of the pretectal area (between dorsal thalamus and optic tectum) that receives afferents primarily from the retina and the optic tectum and are involved in modulating motor behavior in response to visual input.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107761",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014450#nucleus-of-pretectal-area",
+  "name": "pretectal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014450",
+  "synonym": [
+    "nucleus area pretectalis",
+    "nucleus of pretectal area",
+    "nucleus of the pretectal area",
+    "pretectal area nucleus",
+    "pretectal nucleus"
+  ]
+}

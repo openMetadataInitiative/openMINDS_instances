@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_OC",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "OC",
+  "alternateName": [
+    "COB",
+    "Olfactory"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_frontalLobe"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_OC"
+    }
+  ],
+  "lookupLabel": "AAL1_OC",
+  "name": "olfactory cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

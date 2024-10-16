@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebellarAndPrecerebellarWhiteMatter",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "cbt"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": null,
+  "lookupLabel": "WHSSDatlas_cerebellarAndPrecerebellarWhiteMatter",
+  "name": "cerebellar and precerebellar white matter",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
