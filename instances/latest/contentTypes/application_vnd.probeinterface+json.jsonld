@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.probeinterface+json",
-  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.probeinterface+json",
+  "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "description": "A trivial json-serialisation of a Python dictionary. The dictionary maps every attribute of the Probe class."
   "displayLabel": null,
