@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.om-i.org/props/"
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.om-i.org/instances/cellType/mainOlfactoryBulbMitralNeuron",
-  "@type": "https://openminds.om-i.org/types/CellType",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbMitralNeuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
   "definition": "Neuronal cell type in the mammalian olfactory bulb, distinguished by the position of their somata located in an orderly row in the mitral cell layer of the bulb. [from [Wikipedia](https://en.wikipedia.org/wiki/Mitral_cell#Structure)]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107933",

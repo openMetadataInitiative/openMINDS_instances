@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.om-i.org/props/"
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.om-i.org/instances/cellType/mainOlfactoryBulbTuftedNeuron",
-  "@type": "https://openminds.om-i.org/types/CellType",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbTuftedNeuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
   "definition": "Principle neurons of the mammalian main olfactory bulb.",
   "description": null,
   "interlexIdentifier": null,

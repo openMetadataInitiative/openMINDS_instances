@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.om-i.org/props/"
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.om-i.org/instances/cellType/mainOlfactoryBulbExternalTuftedNeuron",
-  "@type": "https://openminds.om-i.org/types/CellType",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbExternalTuftedNeuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
   "definition": "An excitatory neuron type found predominately at the glomerular layer of the main olfactory bulb.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107943",

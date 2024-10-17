@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.om-i.org/props/"
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.om-i.org/instances/cellType/mainOlfactoryBulbPeriglomerularNeuron",
-  "@type": "https://openminds.om-i.org/types/CellType",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbPeriglomerularNeuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
   "definition": "Small intrinsic neurons in the glomerular layer of the main olfactory bulb, with cell bodies surrounding the olfactory glomerulus. [adapted from [InterLex](http://uri.interlex.org/base/ilx_0107934)]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107934",
