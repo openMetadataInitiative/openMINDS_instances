@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.numpy.array",
-  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.numpy.array",
+  "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "description": "A standard binary file format in NumPy for persisting a single arbitrary NumPy array on disk.",
   "displayLabel": null,
