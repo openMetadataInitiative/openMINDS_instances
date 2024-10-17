@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/brainBloodVessel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the vasculature of brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003499)]",
+  "description": "A blood vessel that is part of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003499)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0726967",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003499#brain-blood-vessel",
+  "name": "brain blood vessel",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003499",
+  "synonym": [
+    "blood vessel of brain"
+  ]
+}
+
