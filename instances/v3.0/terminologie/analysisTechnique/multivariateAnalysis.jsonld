@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/multivariateAnalysis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
-  "definition": "'Multivariate analysis' refers to a group of statistical data analysis procedures that simultaneously consider more than two variables.",
+  "definition": "A statistical study of data where multiple measurements are made on each experimental unit and where the relationships among multivariate measurements and their structure are important. [adapted from [Olkin and Sampson, 2001](https://doi.org/10.1016/B0-08-043076-7/00472-1)] ",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
