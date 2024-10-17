@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_periaqueductalGrayRostrolateralDivision",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PAGrl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periaqueductalGrayRostrolateralDivision"
+    }
+  ],
+  "lookupLabel": "SwansonBM_periaqueductalGrayRostrolateralDivision",
+  "name": "periaqueductal gray, rostrolateral division",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

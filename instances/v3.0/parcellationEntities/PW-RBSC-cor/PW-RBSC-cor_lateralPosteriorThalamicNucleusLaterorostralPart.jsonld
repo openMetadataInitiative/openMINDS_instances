@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralPosteriorThalamicNucleusLaterorostralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "LPLR",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_lateralPosteriorThalamicNucleusLaterorostralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_lateralPosteriorThalamicNucleusLaterorostralPart",
+  "name": "lateral posterior thalamic nucleus, laterorostral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

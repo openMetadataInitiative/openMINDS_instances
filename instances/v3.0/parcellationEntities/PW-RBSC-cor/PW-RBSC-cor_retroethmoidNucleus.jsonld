@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retroethmoidNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "REth",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_retroethmoidNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_retroethmoidNucleus",
+  "name": "retroethmoid nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorSpinalArtery",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "asp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_anteriorSpinalArtery"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_anteriorSpinalArtery",
+  "name": "anterior spinal artery",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

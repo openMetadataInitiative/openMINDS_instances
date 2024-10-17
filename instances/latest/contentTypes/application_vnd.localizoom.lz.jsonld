@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.localizoom.lz",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".lz"
+  ],
+  "name": "application/vnd.localizoom.lz",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "LZ file"
+  ]
+}

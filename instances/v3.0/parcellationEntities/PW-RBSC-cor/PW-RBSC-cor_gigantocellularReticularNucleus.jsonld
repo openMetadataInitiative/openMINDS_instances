@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_gigantocellularReticularNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "Gi",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_gigantocellularReticularNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_gigantocellularReticularNucleus",
+  "name": "gigantocellular reticular nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

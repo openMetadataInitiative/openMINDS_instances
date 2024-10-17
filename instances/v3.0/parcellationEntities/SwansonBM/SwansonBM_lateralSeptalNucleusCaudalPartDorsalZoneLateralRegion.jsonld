@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneLateralRegion",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "LSc.d.l",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneLateralRegion"
+    }
+  ],
+  "lookupLabel": "SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneLateralRegion",
+  "name": "lateral septal nucleus, caudal part, dorsal zone, lateral region",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

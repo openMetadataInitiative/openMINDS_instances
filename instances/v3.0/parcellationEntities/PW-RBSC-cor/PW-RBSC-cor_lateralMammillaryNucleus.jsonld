@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralMammillaryNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "LM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_lateralMammillaryNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_lateralMammillaryNucleus",
+  "name": "lateral mammillary nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

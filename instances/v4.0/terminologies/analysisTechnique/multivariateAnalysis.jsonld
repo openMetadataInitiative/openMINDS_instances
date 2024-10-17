@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/multivariateAnalysis",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "Any statistical analysis of data where multiple measurements are made on each experimental unit and where the relationships among multivariate measurements and their structure are important. [adapted from [Olkin and Sampson, 2001](https://doi.org/10.1016/B0-08-043076-7/00472-1)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "multivariate analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "MVA",
+    "multivariate statistics"
+  ]
+}

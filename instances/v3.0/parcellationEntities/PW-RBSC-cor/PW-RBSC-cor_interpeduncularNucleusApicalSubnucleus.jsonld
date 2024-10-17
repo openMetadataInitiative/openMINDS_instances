@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interpeduncularNucleusApicalSubnucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "IPA",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_interpeduncularNucleusApicalSubnucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_interpeduncularNucleusApicalSubnucleus",
+  "name": "interpeduncular nucleus, apical subnucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

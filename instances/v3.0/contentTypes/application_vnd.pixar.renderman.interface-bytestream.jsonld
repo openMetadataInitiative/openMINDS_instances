@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pixar.renderman.interface-bytestream",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".rib"
+  ],
+  "name": "application/vnd.pixar.renderman.interface-bytestream",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "RenderMan Interface Bytestream"
+  ]
+}

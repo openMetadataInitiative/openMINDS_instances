@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/R2-starWeighting",
+  "@type": "https://openminds.om-i.org/types/MRIWeighting",
+  "definition": "Image processing technique that creates the image contrast from the reciprocal of the T2-star relaxation time.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "R2-star weighting",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "R2-star weighted image processing",
+    "R2-star weighted imaging",
+    "R2-star weighted magnetic resonance imaging",
+    "R2-star weighted MRI",
+    "R2* weighted image processing",
+    "R2* weighted imaging",
+    "R2* weighted magnetic resonance imaging",
+    "R2* weighted MRI",
+    "R2* weighting",
+    "R2*w image processing",
+    "R2*w imaging",
+    "R2*w magnetic resonance imaging",
+    "R2*w MRI"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_granuleCellLayerOfTheCerebellum",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "GrCb",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_granuleCellLayerOfTheCerebellum"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_granuleCellLayerOfTheCerebellum",
+  "name": "granule cell layer of the cerebellum",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.faconstructor.3d-pli",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".txt"
+  ],
+  "name": "application/vnd.faconstructor.3d-pli",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

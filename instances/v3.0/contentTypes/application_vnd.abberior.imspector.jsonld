@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.abberior.imspector",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".msr",
+    ".obf"
+  ],
+  "name": "application/vnd.abberior.imspector",
+  "relatedMediaType": null,
+  "specification": "https://imspectordocs.readthedocs.io/en/latest/fileformat.html#the-imspector-msr-file-format",
+  "synonym": [
+    "Imspector OBF"
+  ]
+}
