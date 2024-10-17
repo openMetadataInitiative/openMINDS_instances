@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/fluidSpecimen",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
+  "@id": "https://openminds.om-i.org/instances/tissueSampleType/fluidSpecimen",
+  "@type": "https://openminds.om-i.org/types/TissueSampleType",
   "definition": "A fluid sample either taken directly from a living or deceased multicellular organism body (i.e. body fluids) or produced in a laboratory.",
   "description": null,
   "interlexIdentifier": null,

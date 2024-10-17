@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/measuredQuantity/inputResistance",
+  "@type": "https://openminds.om-i.org/types/MeasuredQuantity",
+  "definition": "Total resistance observed by the amplifier during an electrophysiological recording.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "input resistance",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "access resistance"
+  ]
+}

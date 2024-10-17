@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayDorsolateralDivisionBeitz",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PAGdl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periaqueductalGrayDorsolateralDivisionBeitz"
+    }
+  ],
+  "lookupLabel": "SwansonBM_periaqueductalGrayDorsolateralDivisionBeitz",
+  "name": "periaqueductal gray, dorsolateral division [Beitz]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

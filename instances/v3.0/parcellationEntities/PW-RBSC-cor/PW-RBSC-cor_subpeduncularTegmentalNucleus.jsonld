@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subpeduncularTegmentalNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SPTg",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_subpeduncularTegmentalNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_subpeduncularTegmentalNucleus",
+  "name": "subpeduncular tegmental nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

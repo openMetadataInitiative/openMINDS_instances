@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/choline",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Choline is a cation with the chemical formula [(CH3)3NCH2CH2OH]+. Choline forms various salts, for example choline chloride and choline bitartrate. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Choline)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102128",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:15354#choline",
+  "name": "choline",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_15354",
+  "synonym": [
+    "(2-hydroxyethyl)trimethylammonium",
+    "2-hydroxy-N,N,N-trimethylethanaminium",
+    "bilineurine",
+    "choline cation",
+    "choline ion"
+  ]
+}

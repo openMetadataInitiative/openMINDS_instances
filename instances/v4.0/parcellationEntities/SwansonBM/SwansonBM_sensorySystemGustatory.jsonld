@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemGustatory",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "SENgu",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sensorySystemGustatory"
+    }
+  ],
+  "lookupLabel": "SwansonBM_sensorySystemGustatory",
+  "name": "sensory system, gustatory",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,38 +1,38 @@
 {
 	"@context": {
-		"@vocab": "https://openminds.ebrains.eu/vocab/"
+		"@vocab": "https://openminds.om-i.org/props/"
 	},
-	"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/BigBrain_2015",
-	"@type": "https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion",
+	"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/BigBrain_2015",
+	"@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
 	"abbreviation": "BigBrain",
 	"accessibility": {
-    "@id": "https://openminds.ebrains.eu/instances/productAccessibility/freeAccess"
+    "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
   },
 	"anatomicalAxesOrientation": {
-		"@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RAS"
+		"@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
 	},
   "author": null,
 	"axesOrigin": [
     {
-      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "value": 3338.5795590551184
     },
     {
-      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "value": 3500.0
     },
     {
-      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "value": 2776.899244094488
     }
   ],
 	"copyright": null,
 	"custodian": [
     {
-      "@id": "https://openminds.ebrains.eu/instances/person/evansAlanC"
+      "@id": "https://openminds.om-i.org/instances/person/evansAlanC"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/person/amuntsKatrin"
+      "@id": "https://openminds.om-i.org/instances/person/amuntsKatrin"
     }
   ],
 	"defaultImage": null,
@@ -48,7 +48,7 @@
 	"keyword": null,
 	"license": null,
 	"nativeUnit": {
-		"@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/micrometer"
+		"@id": "https://openminds.om-i.org/instances/unitOfMeasurement/micrometer"
 	},
 	"ontologyIdentifier": null,
 	"otherContribution": null,

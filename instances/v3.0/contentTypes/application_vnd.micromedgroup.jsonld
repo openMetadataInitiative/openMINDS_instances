@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.micromedgroup",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".trc"
+  ],
+  "name": "application/vnd.micromedgroup",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Micromed files"
+  ]
+}

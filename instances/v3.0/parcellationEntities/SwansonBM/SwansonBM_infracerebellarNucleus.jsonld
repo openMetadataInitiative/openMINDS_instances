@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_infracerebellarNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "ICB",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_infracerebellarNucleus"
+    }
+  ],
+  "lookupLabel": "SwansonBM_infracerebellarNucleus",
+  "name": "infracerebellar nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

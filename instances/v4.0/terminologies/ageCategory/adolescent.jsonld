@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/ageCategory/adolescent",
+  "@type": "https://openminds.om-i.org/types/AgeCategory",
+  "definition": "'Adolescent' categorizes a transitional life cycle stage of growth and development between childhood and adulthood, often described as 'puberty'.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "adolescent",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "puberty"
+  ]
+}

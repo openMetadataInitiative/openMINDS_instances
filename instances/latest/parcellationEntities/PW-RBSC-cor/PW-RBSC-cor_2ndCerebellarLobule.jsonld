@@ -1,16 +1,16 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_2ndCerebellarLobule",
-  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_2ndCerebellarLobule",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "2Cb",
   "alternateName": null,
   "definition": null,
   "hasParent": null,
   "hasVersion": [
     {
-      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_2ndCerebellarLobule"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_2ndCerebellarLobule"
     }
   ],
   "lookupLabel": "PW-RBSC-cor_2ndCerebellarLobule",
@@ -18,4 +18,3 @@
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
-

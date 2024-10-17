@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/intraSubjectAnalysis",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "intra-subject analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

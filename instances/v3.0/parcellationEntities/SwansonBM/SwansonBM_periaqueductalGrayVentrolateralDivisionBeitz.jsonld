@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_periaqueductalGrayVentrolateralDivisionBeitz",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PAGvl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periaqueductalGrayVentrolateralDivisionBeitz"
+    }
+  ],
+  "lookupLabel": "SwansonBM_periaqueductalGrayVentrolateralDivisionBeitz",
+  "name": "periaqueductal gray, ventrolateral division [Beitz]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

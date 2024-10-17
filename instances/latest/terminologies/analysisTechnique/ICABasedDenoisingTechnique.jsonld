@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/ICABasedDenoisingTechnique",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/ICABasedDenoisingTechnique",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "An 'ICA based denoising technique' removes independent components from input data to reduce noise while preserving the features of interest in the data.",
   "description": null,
   "interlexIdentifier": null,

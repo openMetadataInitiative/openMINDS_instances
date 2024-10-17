@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_reticulotegmentalNucleusOfThePons",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "RtTg",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_reticulotegmentalNucleusOfThePons"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_reticulotegmentalNucleusOfThePons",
+  "name": "reticulotegmental nucleus of the pons",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

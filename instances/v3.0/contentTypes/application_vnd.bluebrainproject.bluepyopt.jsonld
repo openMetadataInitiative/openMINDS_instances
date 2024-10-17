@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bluebrainproject.bluepyopt",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".zip"
+  ],
+  "name": "application/vnd.bluebrainproject.bluepyopt",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "BluePyOpt"
+  ]
+}

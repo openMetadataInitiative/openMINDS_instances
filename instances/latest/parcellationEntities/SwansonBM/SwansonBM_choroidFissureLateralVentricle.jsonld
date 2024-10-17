@@ -1,16 +1,16 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_choroidFissureLateralVentricle",
-  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidFissureLateralVentricle",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "chfl",
   "alternateName": null,
   "definition": null,
   "hasParent": null,
   "hasVersion": [
     {
-      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_choroidFissureLateralVentricle"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_choroidFissureLateralVentricle"
     }
   ],
   "lookupLabel": "SwansonBM_choroidFissureLateralVentricle",
@@ -18,4 +18,3 @@
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
-

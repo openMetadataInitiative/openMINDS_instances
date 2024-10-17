@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.oxford-instruments.bitplaneimaris",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".ims"
+  ],
+  "name": "application/vnd.oxford-instruments.bitplaneimaris",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Bitplane Imaris"
+  ]
+}

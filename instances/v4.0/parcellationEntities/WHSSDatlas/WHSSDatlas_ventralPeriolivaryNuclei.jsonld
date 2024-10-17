@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralPeriolivaryNuclei",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "VPO"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_ventralPeriolivaryNuclei"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_ventralPeriolivaryNuclei"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_ventralPeriolivaryNuclei"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_ventralPeriolivaryNuclei",
+  "name": "ventral periolivary nuclei",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

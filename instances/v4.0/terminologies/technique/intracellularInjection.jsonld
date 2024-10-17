@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/intracellularInjection",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "intracellular injection",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rootOfTrochlearNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Root of trochlear nerve' is a root of cranial nerve. It is part of the brainstem.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112003",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002618#trochlear-nerve-fibers",
+  "name": "root of trochlear nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002618",
+  "synonym": [
+    "4nf",
+    "central part of trochlear nerve",
+    "fibrae nervi trochlearis",
+    "trochlear nerve fibers",
+    "trochlear nerve or its root",
+    "trochlear nerve root",
+    "trochlear nerve tract",
+    "trochlear nerve/root"
+  ]
+}

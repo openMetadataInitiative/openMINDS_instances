@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/internalCapsuleOfTelencephalon",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/internalCapsuleOfTelencephalon",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Internal capsule of telencephalon' is a cerebral hemisphere white matter.",
   "description": "White matter regional part of brain which is flanked by nuclear masses, consisting of both afferent and efferent fibers projecting between the cerebral cortex and the brainstem and spinal cord. It consists of three distinct parts: an anterior limb, posterior limb, and genu. (Adapted from MSH by Maryann Martone).",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105583",

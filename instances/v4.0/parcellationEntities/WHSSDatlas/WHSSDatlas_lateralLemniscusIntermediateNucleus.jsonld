@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_lateralLemniscusIntermediateNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "ILL"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_lateralLemniscusIntermediateNucleus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_lateralLemniscusIntermediateNucleus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_lateralLemniscusIntermediateNucleus"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_lateralLemniscusIntermediateNucleus",
+  "name": "lateral lemniscus, intermediate nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

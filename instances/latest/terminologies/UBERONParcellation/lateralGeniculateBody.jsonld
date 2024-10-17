@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGeniculateBody",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralGeniculateBody",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Lateral geniculate body' is a nucleus of dorsal thalamus. It is part of the metathalamus.",
   "description": "The group of neurons that serve as the primary processor of visual information received from the retina via the optic tract and send processed information to the visual cortex of the occipital lobe",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106064",

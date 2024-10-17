@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/image_vnd.ilastik.segmentation+dzip",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".dzip"
+  ],
+  "name": "image/vnd.ilastik.segmentation+dzip",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "ilastik segmentation image (DZIP)"
+  ]
+}

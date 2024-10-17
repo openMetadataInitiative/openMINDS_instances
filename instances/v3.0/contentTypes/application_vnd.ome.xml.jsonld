@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ome.xml",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".ome.xml",
+    ".ome"
+  ],
+  "name": "application/vnd.ome.xml",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "OME-XML"
+  ]
+}

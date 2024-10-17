@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.espina.seg+zip",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".seg"
+  ],
+  "name": "application/vnd.espina.seg+zip",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

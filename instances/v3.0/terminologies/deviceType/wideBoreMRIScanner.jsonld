@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/deviceType/wideBoreMRIScanner",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
+  "definition": "A 'wide-bore MRI scanner' is a closed high-field scanner which features a widened bore compared to the standard-bore MRI scanner.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "wide-bore MRI scanner",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "wide-bore magnetic resonance imaging scanner",
+    "wide-bore closed magnetic resonance imaging scanner",
+    "wide-bore closed MRI scanner"
+  ]
+}

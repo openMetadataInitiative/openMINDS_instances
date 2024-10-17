@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_ciliaryNerve",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "cin",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ciliaryNerve"
+    }
+  ],
+  "lookupLabel": "SwansonBM_ciliaryNerve",
+  "name": "ciliary nerve",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

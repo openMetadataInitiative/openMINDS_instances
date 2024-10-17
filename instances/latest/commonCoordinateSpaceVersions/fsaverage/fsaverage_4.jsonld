@@ -1,9 +1,9 @@
 {
 	"@context": {
-		"@vocab": "https://openminds.ebrains.eu/vocab/"
+		"@vocab": "https://openminds.om-i.org/props/"
 	},
-	"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_4",
-	"@type": "https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion",
+	"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsaverage_4",
+	"@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
 	"abbreviation": "fsaverage",
 	"accessibility": null,
 	"anatomicalAxesOrientation": null,
@@ -24,7 +24,7 @@
 	"keyword": null,
 	"license": null,
 	"nativeUnit": {
-		"@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/millimeter"
+		"@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
 	},
 	"ontologyIdentifier": null,
 	"otherContribution": null,

@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/diffusionFixationTechnique",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Diffusion fixation is a fixation technique to preserve specimen permanently as faithfully as possible compared to the living state by submerging specimen in a fixative.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "diffusion fixation technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "drop fixation"
+  ]
+}

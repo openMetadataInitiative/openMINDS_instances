@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/image_png",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".png"
+  ],
+  "name": "image/png",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/image/png",
+  "specification": null,
+  "synonym": [
+    "Portable Network Graphics",
+    "PNG"
+  ]
+}

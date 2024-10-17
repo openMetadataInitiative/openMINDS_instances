@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/3DComputerGraphicModeling",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "3D computer graphic modeling",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

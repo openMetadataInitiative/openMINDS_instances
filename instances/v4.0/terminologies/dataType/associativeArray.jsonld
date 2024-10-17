@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/dataType/associativeArray",
+  "@type": "https://openminds.om-i.org/types/DataType",
+  "definition": "A 'associative array' is an abstract data type that associates keys (scalars) with values (scalars, lists or matrices).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "associative array",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q80585",
+  "synonym": [
+    "dictionary"
+  ]
+}

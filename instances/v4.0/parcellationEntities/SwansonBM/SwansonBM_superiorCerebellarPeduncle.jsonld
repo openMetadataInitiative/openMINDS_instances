@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCerebellarPeduncle",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "scp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorCerebellarPeduncle"
+    }
+  ],
+  "lookupLabel": "SwansonBM_superiorCerebellarPeduncle",
+  "name": "superior cerebellar peduncle",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

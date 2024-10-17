@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/calbindin",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/calbindin",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Calbindin is a calcium-binding protein.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0101551",

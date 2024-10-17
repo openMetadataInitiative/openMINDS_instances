@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/learningResourceType/videoPresentation",
+  "@type": "https://openminds.om-i.org/types/LearningResourceType",
+  "definition": "A video recorded presentation.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "video presentation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

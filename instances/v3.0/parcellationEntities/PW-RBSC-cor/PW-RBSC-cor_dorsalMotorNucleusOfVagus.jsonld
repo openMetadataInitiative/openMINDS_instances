@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalMotorNucleusOfVagus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "10N",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsalMotorNucleusOfVagus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dorsalMotorNucleusOfVagus",
+  "name": "dorsal motor nucleus of vagus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

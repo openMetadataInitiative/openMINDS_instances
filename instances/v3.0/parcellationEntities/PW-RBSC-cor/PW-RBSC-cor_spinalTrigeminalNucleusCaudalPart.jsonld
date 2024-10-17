@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_spinalTrigeminalNucleusCaudalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "Sp5C",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_spinalTrigeminalNucleusCaudalPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_spinalTrigeminalNucleusCaudalPart",
+  "name": "spinal trigeminal nucleus, caudal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

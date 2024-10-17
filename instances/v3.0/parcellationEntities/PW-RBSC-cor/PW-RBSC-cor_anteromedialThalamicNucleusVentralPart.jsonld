@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteromedialThalamicNucleusVentralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AMV",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_anteromedialThalamicNucleusVentralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_anteromedialThalamicNucleusVentralPart",
+  "name": "anteromedial thalamic nucleus, ventral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

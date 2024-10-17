@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.volumeproperty",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".vp"
+  ],
+  "name": "application/vnd.volumeproperty",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Volume Property"
+  ]
+}

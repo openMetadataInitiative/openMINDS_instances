@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/CA3Alveus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/CA3Alveus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'CA3 alveus' is a layer of CA3 field. It is part of the hippocampus alveus.",
   "description": "Part of alveus lying within hippocampal sector CA3",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101535",

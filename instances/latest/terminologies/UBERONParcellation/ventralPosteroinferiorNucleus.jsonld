@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteroinferiorNucleus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralPosteroinferiorNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Ventral posteroinferior nucleus' is a nucleus of dorsal thalamus. It is part of the ventral posterior nucleus of thalamus.",
   "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112335",

@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveFibers",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/trigeminalNerveFibers",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "A nerve fiber that is part of a trigeminal nerve.",
   "description": "'Trigeminal nerve fibers' is a nerve fiber. It is part of the trigeminal nerve.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111965",

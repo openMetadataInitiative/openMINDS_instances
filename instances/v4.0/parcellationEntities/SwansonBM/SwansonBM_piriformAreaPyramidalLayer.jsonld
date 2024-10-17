@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_piriformAreaPyramidalLayer",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PIR2",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_piriformAreaPyramidalLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBM_piriformAreaPyramidalLayer",
+  "name": "piriform area, pyramidal layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

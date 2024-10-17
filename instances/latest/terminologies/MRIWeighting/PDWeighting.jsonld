@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/PDWeighting",
+  "@type": "https://openminds.om-i.org/types/MRIWeighting",
+  "definition": "Image processing technique that specifically enhances the signal-to-noise ratio of density of protons (hydrogen atoms).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "PD weighting",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "PD weighted image processing",
+    "PD weighted imaging",
+    "PD weighted magnetic resonance imaging",
+    "PD weighted MRI",
+    "PDw image processing",
+    "PDw imaging",
+    "PDw magnetic resonance imaging",
+    "PDw MRI",
+    "proton density weighted image processing",
+    "proton density weighted imaging",
+    "proton density weighted magnetic resonance imaging",
+    "proton density weighted MRI",
+    "proton density weighting"
+  ]
+}

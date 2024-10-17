@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensRostralDivision",
-  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensRostralDivision",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
   "abbreviation": "REr",
   "additionalRemarks": "Manually added based on ['Errata for Brain maps: structure of the rat brain, 3rd edition'](https://larrywswanson.com/wp-content/uploads/2015/03/BM3-Errata.pdf).",
   "alternateName": null,
@@ -17,4 +17,3 @@
   "versionIdentifier": "3rd ed.",
   "versionInnovation": null
 }
-

@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/species/macacaMulatta",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "@id": "https://openminds.om-i.org/instances/species/macacaMulatta",
+  "@type": "https://openminds.om-i.org/types/Species",
   "definition": "The species *Macaca mulatta* (rhesus macaque) belongs to the family of *cercopithecidae* (old world monkeys).",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110118",

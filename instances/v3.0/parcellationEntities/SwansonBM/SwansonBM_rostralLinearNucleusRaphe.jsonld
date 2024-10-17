@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_rostralLinearNucleusRaphe",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "RL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rostralLinearNucleusRaphe"
+    }
+  ],
+  "lookupLabel": "SwansonBM_rostralLinearNucleusRaphe",
+  "name": "rostral linear nucleus raphé",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

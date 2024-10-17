@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paravertebralSympatheticGanglia",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "GPAS",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paravertebralSympatheticGanglia"
+    }
+  ],
+  "lookupLabel": "SwansonBM_paravertebralSympatheticGanglia",
+  "name": "paravertebral sympathetic ganglia",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

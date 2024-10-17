@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-ND-4.0",
+  "@type": "https://openminds.om-i.org/types/License",
+  "fullName": "Creative Commons Attribution No Derivatives 4.0 International",
+  "legalCode": "https://creativecommons.org/licenses/by-nd/4.0/legalcode",
+  "shortName": "CC-BY-ND-4.0",
+  "webpage": [
+    "https://creativecommons.org/licenses/by-nd/4.0",
+    "https://spdx.org/licenses/CC-BY-ND-4.0.html"
+  ]
+}

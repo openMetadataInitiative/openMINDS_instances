@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/learningResourceType/slideDeck",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/LearningResourceType",
+  "@id": "https://openminds.om-i.org/instances/learningResourceType/slideDeck",
+  "@type": "https://openminds.om-i.org/types/LearningResourceType",
   "definition": "A set of slides for a visual presentation.",
   "description": null,
   "interlexIdentifier": null,

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalRapheNucleusCaudalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DRC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsalRapheNucleusCaudalPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dorsalRapheNucleusCaudalPart",
+  "name": "dorsal raphe nucleus, caudal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

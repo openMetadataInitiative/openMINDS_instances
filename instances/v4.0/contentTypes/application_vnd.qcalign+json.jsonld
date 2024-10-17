@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.qcalign+json",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".json"
+  ],
+  "name": "application/vnd.qcalign+json",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/json",
+  "specification": null,
+  "synonym": [
+    "QCAlign JavaScript Object Notation",
+    "QCAlign JSON"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/subjectAttribute/restrained",
+  "@type": "https://openminds.om-i.org/types/SubjectAttribute",
+  "definition": "An organism that has been restrained in any way causing e.g., decreased motion range and/or increased resistance in movement.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "restrained",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posterodorsalRapheNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PDR",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_posterodorsalRapheNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_posterodorsalRapheNucleus",
+  "name": "posterodorsal raphe nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

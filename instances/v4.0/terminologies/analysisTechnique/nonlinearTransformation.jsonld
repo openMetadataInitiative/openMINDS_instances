@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/nonlinearTransformation",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "A 'nonlinear transformation' is a mathematical function to map coordinates between two different coordinate systems, not preserving straight lines.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "nonlinear transformation",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "non-linear transformation"
+  ]
+}

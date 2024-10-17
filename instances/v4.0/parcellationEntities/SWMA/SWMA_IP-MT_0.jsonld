@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_IP-MT_0",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/SWMA_superficialWhiteMatter"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_2018_IP-MT_0"
+    }
+  ],
+  "lookupLabel": "SWMA_IP-MT_0",
+  "name": "IP-MT_0",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

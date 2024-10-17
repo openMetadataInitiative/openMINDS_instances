@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/enkephalin",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Enkephalin is a pentapeptide involved in regulating nociception in the body.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103826",
+  "knowledgeSpaceLink": null,
+  "name": "enkephalin",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5096",
+  "synonym": [
+    "Enk"
+  ]
+}

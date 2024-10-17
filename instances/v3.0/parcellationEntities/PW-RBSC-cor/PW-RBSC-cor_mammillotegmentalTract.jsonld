@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mammillotegmentalTract",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "mtg",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_mammillotegmentalTract"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_mammillotegmentalTract",
+  "name": "mammillotegmental tract",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/midbrain",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/midbrain",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Midbrain' is a regional part of brain.",
   "description": "Part of the brain that develops from the middle of the 3 primary vesicles of the embryonic neural tube, between the prosencephalon and rhombencephalon, later forming the tectum and cerebral peduncles. (CSP)",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106935",

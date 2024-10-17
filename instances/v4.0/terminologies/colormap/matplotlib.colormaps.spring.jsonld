@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.spring",
+  "@type": "https://openminds.om-i.org/types/Colormap",
+  "definition": "The colormap 'spring' is a sequential (type 2) colormap of the Python plotting library Matplotlib.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "matplotlib.colormaps.spring",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "spring"
+  ]
+}

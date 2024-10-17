@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralVestibularNucleusDeiters",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "LAV",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralVestibularNucleusDeiters"
+    }
+  ],
+  "lookupLabel": "SwansonBM_lateralVestibularNucleusDeiters",
+  "name": "lateral vestibular nucleus [Deiters]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

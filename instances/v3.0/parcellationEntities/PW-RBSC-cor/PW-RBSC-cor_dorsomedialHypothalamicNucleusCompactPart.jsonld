@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsomedialHypothalamicNucleusCompactPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DMC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsomedialHypothalamicNucleusCompactPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dorsomedialHypothalamicNucleusCompactPart",
+  "name": "dorsomedial hypothalamic nucleus, compact part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_yaml",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".yml",
+    ".yaml"
+  ],
+  "name": "application/yaml",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "application/yml",
+    "application/vnd.yaml",
+    "application/vnd.yml",
+    "YAML",
+    "Yet Another Markup Language"
+  ]
+}

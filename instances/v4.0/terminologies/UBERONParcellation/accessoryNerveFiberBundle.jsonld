@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/accessoryNerveFiberBundle",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Accessory nerve fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.",
+  "description": "Fibers of the accessory nerve (11th cranial nerve) contained within the medulla",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100215",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006117#accessory-nerve-fiber-bundle-1",
+  "name": "accessory nerve fiber bundle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006117",
+  "synonym": [
+    "accessory nerve fiber bundle",
+    "accessory nerve fibers",
+    "accessory nerve tract",
+    "eleventh cranial nerve fibers",
+    "fibrae nervi accessorius"
+  ]
+}

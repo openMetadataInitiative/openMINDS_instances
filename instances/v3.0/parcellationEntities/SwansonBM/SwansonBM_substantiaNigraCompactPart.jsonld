@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_substantiaNigraCompactPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SNc",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_substantiaNigraCompactPart"
+    }
+  ],
+  "lookupLabel": "SwansonBM_substantiaNigraCompactPart",
+  "name": "substantia nigra, compact part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

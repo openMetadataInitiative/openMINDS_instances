@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.laboratory-imaging.nikon",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".lim"
+  ],
+  "name": "application/vnd.laboratory-imaging.nikon",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "LIM (Laboratory Imaging/Nikon)"
+  ]
+}

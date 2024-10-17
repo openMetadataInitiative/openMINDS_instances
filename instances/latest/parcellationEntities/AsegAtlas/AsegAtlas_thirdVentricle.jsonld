@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_thirdVentricle",
-  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AsegAtlas_thirdVentricle",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
   "alternateName": null,
   "definition": null,
@@ -13,6 +13,6 @@
   "name": "third ventricle",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/thirdVentricle"
+    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/thirdVentricle"
   }
 }

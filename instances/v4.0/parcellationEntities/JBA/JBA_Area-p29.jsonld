@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-p29",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_retrosplenialPart"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v2.2-Colin27_Area-p29_PM-v11.0"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v2.2-MNI152_Area-p29_PM-v11.0"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v2.4-Colin27_Area-p29_PM-v11.0"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v2.4-MNI152_Area-p29_PM-v11.0"
+    }
+  ],
+  "lookupLabel": "JBA_Area-p29",
+  "name": "Area p29 (retrosplenial)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

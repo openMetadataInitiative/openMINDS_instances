@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_pyramidalDecussationPourfourDuPetit",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "pyd",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pyramidalDecussationPourfourDuPetit"
+    }
+  ],
+  "lookupLabel": "SwansonBM_pyramidalDecussationPourfourDuPetit",
+  "name": "pyramidal decussation [Pourfour du Petit]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/cytoarchitectonicMapping",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "'Cytoarchitectonic mapping' is a delineation technique that defines regional borders based on histological analysis of the cellular composition of the studied tissue.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cytoarchitectonic mapping",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

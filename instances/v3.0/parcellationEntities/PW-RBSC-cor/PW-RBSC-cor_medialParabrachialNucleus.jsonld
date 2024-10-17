@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialParabrachialNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "MPB",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_medialParabrachialNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_medialParabrachialNucleus",
+  "name": "medial parabrachial nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

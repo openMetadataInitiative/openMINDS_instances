@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/milligramPerMilliliter",
+  "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "milligram per milliliter",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "mg/ml"
+  ]
+}

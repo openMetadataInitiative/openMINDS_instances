@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subparaventricularZoneOfTheHypothalamus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SPa",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_subparaventricularZoneOfTheHypothalamus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_subparaventricularZoneOfTheHypothalamus",
+  "name": "subparaventricular zone of the hypothalamus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

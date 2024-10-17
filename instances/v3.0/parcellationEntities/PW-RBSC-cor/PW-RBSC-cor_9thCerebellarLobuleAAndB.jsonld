@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_9thCerebellarLobuleAAndB",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "9a,bCb",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_9thCerebellarLobuleAAndB"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_9thCerebellarLobuleAAndB",
+  "name": "9th cerebellar lobule, a and b",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

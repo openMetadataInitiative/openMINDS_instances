@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusLateralBladegranuleCellLayer",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "DGlb-sg",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusLateralBladegranuleCellLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBM_dentateGyrusLateralBladegranuleCellLayer",
+  "name": "dentate gyrus, lateral blade-granule cell layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

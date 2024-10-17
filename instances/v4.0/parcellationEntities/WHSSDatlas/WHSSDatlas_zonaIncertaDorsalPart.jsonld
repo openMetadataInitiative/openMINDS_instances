@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_zonaIncertaDorsalPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "ZI-d"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_zonaIncertaDorsalPart"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_zonaIncertaDorsalPart",
+  "name": "zona incerta, dorsal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_anteroventralThalamicNucleusDorsomedialPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "AV-dm"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_anteroventralThalamicNucleusDorsomedialPart"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_anteroventralThalamicNucleusDorsomedialPart",
+  "name": "anteroventral thalamic nucleus, dorsomedial part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_ventralTeniaTecta",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "VTT",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_ventralTeniaTecta"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_ventralTeniaTecta",
+  "name": "ventral tenia tecta",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_decliveVISublobulesAd",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DECa-d",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_decliveVISublobulesAd"
+    }
+  ],
+  "lookupLabel": "SwansonBM_decliveVISublobulesAd",
+  "name": "declive (VI), sublobules a-d",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

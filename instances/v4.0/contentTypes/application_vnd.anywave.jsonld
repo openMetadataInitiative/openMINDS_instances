@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.anywave",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".ades"
+  ],
+  "name": "application/vnd.anywave",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "AnyWave Descriptive Format"
+  ]
+}

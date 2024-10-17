@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.cellh5+hdf5",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".ch5"
+  ],
+  "name": "application/vnd.cellh5+hdf5",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCrus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebralCrus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Cerebral crus' is a white matter of midbrain. It is part of the cerebral peduncle.",
   "description": "The cerebral crus is the most anterior portion of the midbrain which consists of a massive band of nerve fibers originating primarily from the cerebral cortex.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101990",

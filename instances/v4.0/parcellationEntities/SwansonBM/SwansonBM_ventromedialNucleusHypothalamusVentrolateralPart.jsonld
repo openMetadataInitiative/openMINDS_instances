@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventromedialNucleusHypothalamusVentrolateralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "VMHvl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventromedialNucleusHypothalamusVentrolateralPart"
+    }
+  ],
+  "lookupLabel": "SwansonBM_ventromedialNucleusHypothalamusVentrolateralPart",
+  "name": "ventromedial nucleus hypothalamus, ventrolateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_preculminateFissure",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "pcuf",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_preculminateFissure"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_preculminateFissure",
+  "name": "preculminate fissure",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

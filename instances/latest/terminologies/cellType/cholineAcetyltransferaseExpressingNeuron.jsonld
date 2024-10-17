@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/cellType/cholineAcetyltransferaseExpressingNeuron",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "@id": "https://openminds.om-i.org/instances/cellType/cholineAcetyltransferaseExpressingNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "Any neuron that expresses choline acetyltransferase.",
   "description": null,
   "interlexIdentifier": null,

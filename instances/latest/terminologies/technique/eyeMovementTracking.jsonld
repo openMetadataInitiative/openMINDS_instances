@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/eyeMovementTracking",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "'Eye movement tracking' refers to a group of techniques used to record the eye movement and/or position of a living specimen over a given period of time.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0417680",
+  "knowledgeSpaceLink": null,
+  "name": "eye movement tracking",
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0493574",
+  "synonym": [
+    "eye motion tracking",
+    "eye tracking"
+  ]
+}

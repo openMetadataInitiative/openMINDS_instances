@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.becker-hickl.spcfifo",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".spc"
+  ],
+  "name": "application/vnd.becker-hickl.spcfifo",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Becker & Hickl SPC FIFO"
+  ]
+}

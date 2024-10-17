@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/vasculatureOfBrain",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/vasculatureOfBrain",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Vasculature of brain' is a vasculature of central nervous system. It is part of the brain.",
   "description": "System pertaining to blood vessels in the brain.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0735625",

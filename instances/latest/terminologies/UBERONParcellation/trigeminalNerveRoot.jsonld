@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveRoot",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/trigeminalNerveRoot",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Trigeminal nerve root' is a root of cranial nerve. It is part of the metencephalon.",
   "description": "A nerve root that extends_fibers_into a trigeminal nerve.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111966",

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_amygdalohippocampalAreaPosterolateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AHiPL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_amygdalohippocampalAreaPosterolateralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_amygdalohippocampalAreaPosterolateralPart",
+  "name": "amygdalohippocampal area, posterolateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

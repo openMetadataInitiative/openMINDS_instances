@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParahippocampalGyrus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/posteriorParahippocampalGyrus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Posterior parahippocampal gyrus' is a gyrus. It is part of the parahippocampal gyrus.",
   "description": "The posterior parahippocampal gyrus is a portion of the parahippocampal gyrus. It can show deterioration in Alzheimer's disease.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109113",

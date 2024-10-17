@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retrosplenialGranularCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "RSG",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_retrosplenialGranularCortex"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_retrosplenialGranularCortex",
+  "name": "retrosplenial granular cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainMarginalLayer",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hindbrainMarginalLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Hindbrain marginal layer' is a central nervous system cell part cluster. It is part of the hindbrain.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0733117",

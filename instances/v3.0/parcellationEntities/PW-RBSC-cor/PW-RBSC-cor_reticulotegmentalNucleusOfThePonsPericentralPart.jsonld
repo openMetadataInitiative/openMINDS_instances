@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_reticulotegmentalNucleusOfThePonsPericentralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "RtTgP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_reticulotegmentalNucleusOfThePonsPericentralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_reticulotegmentalNucleusOfThePonsPericentralPart",
+  "name": "reticulotegmental nucleus of the pons, pericentral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

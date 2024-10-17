@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorCerebralArtery",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "pcer",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_posteriorCerebralArtery"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_posteriorCerebralArtery",
+  "name": "posterior cerebral artery",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/brainAtlas/Schaefer-400p",
-  "@type": "https://openminds.ebrains.eu/sands/BrainAtlas",
+  "@id": "https://openminds.om-i.org/instances/brainAtlas/Schaefer-400p",
+  "@type": "https://openminds.om-i.org/types/BrainAtlas",
   "abbreviation": "Schaefer-400p",
   "author": null,
   "custodian": null,
@@ -11,35 +11,35 @@
   "digitalIdentifier": null,
   "fullName": "Schaefer Atlas with 400 Parcellation",
   "hasTerminology": {
-    "@type": "https://openminds.ebrains.eu/sands/ParcellationTerminology",
+    "@type": "https://openminds.om-i.org/types/ParcellationTerminology",
     "dataLocation": null,
     "hasEntity": null,
     "ontologyIdentifier": null
   },
   "hasVersion": [
     {
-      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-yeo7n"
+      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-yeo7n"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-yeo17n"
+      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-yeo17n"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-kong17n"
+      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-kong17n"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-yeo7n"
+      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-yeo7n"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-yeo17n"
+      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-yeo17n"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-kong17n"
+      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-kong17n"
     }
   ],
   "homepage": "https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal",
   "howToCite": null,
   "shortName": "Schaefer Atlas (400p)",
   "usedSpecies": {
-    "@id": "https://openminds.ebrains.eu/instances/species/homoSapiens"
+    "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
   }
 }

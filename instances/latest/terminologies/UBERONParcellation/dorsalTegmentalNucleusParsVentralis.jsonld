@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleusParsVentralis",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsalTegmentalNucleusParsVentralis",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Dorsal tegmental nucleus pars ventralis' is a regional part of brain. It is part of the dorsal tegmental nucleus.",
   "description": "Cytoarchitectural part of the dorsal tegmental nucleus based on cell size.  The pars ventralis is characterized by medium sized oval or triangular cells that stain darkly in NIssl stains.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103489",

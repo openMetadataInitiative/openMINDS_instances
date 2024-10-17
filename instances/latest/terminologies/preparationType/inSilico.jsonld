@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/preparationType/inSilico",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
+  "@id": "https://openminds.om-i.org/instances/preparationType/inSilico",
+  "@type": "https://openminds.om-i.org/types/PreparationType",
   "definition": "Conducted or produced by means of computer modelling or simulation.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0494742",

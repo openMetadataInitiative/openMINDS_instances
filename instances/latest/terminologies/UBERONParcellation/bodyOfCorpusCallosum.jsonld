@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCorpusCallosum",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/bodyOfCorpusCallosum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "The 'body of corpus callosum' is a white matter structure. It is part of the corpus callosum.",
   "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0728551",

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intercruralFissure",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "icf",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_intercruralFissure"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_intercruralFissure",
+  "name": "intercrural fissure",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_glossopharyngealNerve",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "IXn",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_glossopharyngealNerve"
+    }
+  ],
+  "lookupLabel": "SwansonBM_glossopharyngealNerve",
+  "name": "glossopharyngeal nerve",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbOuterNerveLayer",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/olfactoryBulbOuterNerveLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Olfactory bulb outer nerve layer' is an olfactory bulb layer.",
   "description": "Superficial layer of the main olfactory bulb containing axons from the olfactory nerve and glial cells",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107942",

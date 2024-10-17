@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter1",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/excitatoryAminoAcidTransporter1",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "The excitatory amino acid transporter 1 belongs to the EAAT family. It is predominantly expressed in the plasma membrane removing glutamate from the extracellular space, but was also localized in the inner mitochondrial membrane as part of the malate-aspartate shuttle.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103639",

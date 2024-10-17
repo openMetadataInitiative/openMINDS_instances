@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_accessoryAbducensFacialNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "Acs6/7",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_accessoryAbducensFacialNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_accessoryAbducensFacialNucleus",
+  "name": "accessory abducens/facial nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

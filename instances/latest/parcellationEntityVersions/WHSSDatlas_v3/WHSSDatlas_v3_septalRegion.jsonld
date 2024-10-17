@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_septalRegion",
-  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_septalRegion",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
   "abbreviation": null,
   "additionalRemarks": null,
   "alternateName": [
@@ -12,32 +12,32 @@
   "correctedName": null,
   "hasAnnotation": [
     {
-      "@type": "https://openminds.ebrains.eu/sands/AtlasAnnotation",
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
       "anchorPoint": null,
       "criteria": null,
       "criteriaQualityType": {
-        "@id": "https://openminds.ebrains.eu/instances/criteriaQualityType/processive"
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
       },
       "criteriaType": {
-        "@id": "https://openminds.ebrains.eu/instances/annotationCriteriaType/deterministicAnnotation"
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
       },
       "inspiredBy": null,
       "internalIdentifier": "40",
       "laterality": [
         {
-          "@id": "https://openminds.ebrains.eu/instances/laterality/left"
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
         },
         {
-          "@id": "https://openminds.ebrains.eu/instances/laterality/right"
+          "@id": "https://openminds.om-i.org/instances/laterality/right"
         }
       ],
       "preferredVisualization": {
-        "@type": "https://openminds.ebrains.eu/sands/ViewerSpecification",
+        "@type": "https://openminds.om-i.org/types/ViewerSpecification",
         "additionalRemarks": null,
         "anchorPoint": null,
         "cameraPosition": null,
         "preferredDisplayColor": {
-          "@id": "https://openminds.ebrains.eu/instances/singleColor/#FF0800"
+          "@id": "https://openminds.om-i.org/instances/singleColor/#FF0800"
         }
       },
       "specification": null,
@@ -46,7 +46,7 @@
   ],
   "hasParent": [
     {
-      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cerebralNuclei"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebralNuclei"
     }
   ],
   "lookupLabel": "WHSSDatlas_v3_septalRegion",

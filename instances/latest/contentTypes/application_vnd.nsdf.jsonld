@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nsdf",
-  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nsdf",
+  "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "description": null,
   "displayLabel": null,
@@ -11,7 +11,7 @@
     ".nsdf"
   ],
   "http://schema.org/identifier": [
-    "https://openminds.ebrains.eu/instances/contentTypes/application.vnd.nsdf"
+    "https://openminds.om-i.org/instances/contentTypes/application.vnd.nsdf"
   ],
   "name": "application/vnd.nsdf",
   "relatedMediaType": null,

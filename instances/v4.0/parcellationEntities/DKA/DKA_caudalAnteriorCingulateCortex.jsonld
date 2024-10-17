@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_caudalAnteriorCingulateCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_anteriorCingulateCortex"
+    }
+  ],
+  "hasVersion": null,
+  "lookupLabel": "DKA_caudalAnteriorCingulateCortex",
+  "name": "caudal anterior cingulate cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": {
+    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/caudalAnteriorCingulateCortex"
+  }
+}

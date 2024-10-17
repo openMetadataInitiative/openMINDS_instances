@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/cholinergicNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "Any neuron that releases some acetylcholine as a neurotransmitter",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0102131",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXNEURNT:090802#cholinergic-neuron",
+  "name": "cholinergic neuron",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_148005",
+  "synonym": [
+    "ACh neuron"
+  ]
+}

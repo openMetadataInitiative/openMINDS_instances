@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/operatingDevice/highPerformanceComputer",
+  "@type": "https://openminds.om-i.org/types/OperatingDevice",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "high-performance computer",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q121117",
+  "synonym": null
+}

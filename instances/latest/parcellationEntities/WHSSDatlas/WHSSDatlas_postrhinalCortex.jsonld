@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_postrhinalCortex",
-  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_postrhinalCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
   "alternateName": [
     "POR"
@@ -12,19 +12,19 @@
   "hasParent": null,
   "hasVersion": [
     {
-      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v1.01_postrhinalCortex"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_postrhinalCortex"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v2_postrhinalCortex"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_postrhinalCortex"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_postrhinalCortex"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_postrhinalCortex"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3.01_postrhinalCortex"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_postrhinalCortex"
     },
     {
-      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v4_postrhinalCortex"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_postrhinalCortex"
     }
   ],
   "lookupLabel": "WHSSDatlas_postrhinalCortex",

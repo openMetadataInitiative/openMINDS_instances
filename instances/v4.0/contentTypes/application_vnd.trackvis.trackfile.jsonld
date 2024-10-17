@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.trackvis.trackfile",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".trk"
+  ],
+  "name": "application/vnd.trackvis.trackfile",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

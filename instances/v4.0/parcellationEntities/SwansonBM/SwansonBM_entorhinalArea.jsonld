@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_entorhinalArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "ENT",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_entorhinalArea"
+    }
+  ],
+  "lookupLabel": "SwansonBM_entorhinalArea",
+  "name": "entorhinal area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

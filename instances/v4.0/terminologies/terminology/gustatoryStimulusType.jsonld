@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/gustatoryStimulusType",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "A 'gustatory stimulus type' groups similar gustatory stimuli used across gustatory stimulation techniques.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "gustatory stimulus type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

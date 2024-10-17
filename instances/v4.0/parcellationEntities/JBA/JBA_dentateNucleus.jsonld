@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_dentateNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_cerebellarNuclei"
+    }
+  ],
+  "hasVersion": null,
+  "lookupLabel": "JBA_dentateNucleus",
+  "name": "dentate nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

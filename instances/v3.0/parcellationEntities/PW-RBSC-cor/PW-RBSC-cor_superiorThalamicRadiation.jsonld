@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_superiorThalamicRadiation",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "str",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_superiorThalamicRadiation"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_superiorThalamicRadiation",
+  "name": "superior thalamic radiation",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

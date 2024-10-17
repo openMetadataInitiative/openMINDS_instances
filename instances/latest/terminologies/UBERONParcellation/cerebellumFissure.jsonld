@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumFissure",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellumFissure",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Cerebellum fissure' is a subarachnoid fissure. It is part of the cerebellum.",
   "description": "One of a set of deep furrows which divide the lobules of the cerebellum. Examples:  postcentral, primary and secondary furrows.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0728095",

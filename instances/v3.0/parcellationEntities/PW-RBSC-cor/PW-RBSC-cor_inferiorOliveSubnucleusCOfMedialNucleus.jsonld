@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorOliveSubnucleusCOfMedialNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "IOC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_inferiorOliveSubnucleusCOfMedialNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_inferiorOliveSubnucleusCOfMedialNucleus",
+  "name": "inferior olive, subnucleus C of medial nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

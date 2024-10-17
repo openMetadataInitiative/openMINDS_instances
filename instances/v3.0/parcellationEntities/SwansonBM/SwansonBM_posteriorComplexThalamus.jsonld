@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_posteriorComplexThalamus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PO",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posteriorComplexThalamus"
+    }
+  ],
+  "lookupLabel": "SwansonBM_posteriorComplexThalamus",
+  "name": "posterior complex thalamus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/productAccessibility/restrictedAccess",
+  "@type": "https://openminds.om-i.org/types/ProductAccessibility",
+  "definition": "With 'restricted access' selected, metadata are released, but data remain on an access restricted server.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "restricted access",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

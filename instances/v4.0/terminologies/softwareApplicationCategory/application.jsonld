@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/softwareApplicationCategory/application",
+  "@type": "https://openminds.om-i.org/types/SoftwareApplicationCategory",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "application",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q166142",
+  "synonym": null
+}

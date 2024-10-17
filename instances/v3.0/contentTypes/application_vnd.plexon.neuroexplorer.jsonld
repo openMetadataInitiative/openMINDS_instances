@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.plexon.neuroexplorer",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".nex"
+  ],
+  "name": "application/vnd.plexon.neuroexplorer",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "NeuroExplorer files"
+  ]
+}

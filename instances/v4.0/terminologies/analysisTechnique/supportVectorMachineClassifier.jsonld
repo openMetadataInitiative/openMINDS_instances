@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/supportVectorMachineClassifier",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "A 'support-vector machine classifier' is a supervised machine learning technique that analyzes data for classification.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "support-vector machine classifier",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "support-vector machine",
+    "support-vector machine learning",
+    "SVC",
+    "SVM",
+    "SVM classifier",
+    "SVM learning"
+  ]
+}

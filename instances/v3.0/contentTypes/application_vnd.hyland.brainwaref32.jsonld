@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hyland.brainwaref32",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".f32"
+  ],
+  "name": "application/vnd.hyland.brainwaref32",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Brainware F32 files"
+  ]
+}

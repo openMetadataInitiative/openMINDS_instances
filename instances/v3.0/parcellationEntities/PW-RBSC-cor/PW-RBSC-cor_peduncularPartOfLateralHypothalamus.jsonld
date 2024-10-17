@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_peduncularPartOfLateralHypothalamus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PLH",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_peduncularPartOfLateralHypothalamus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_peduncularPartOfLateralHypothalamus",
+  "name": "peduncular part of lateral hypothalamus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

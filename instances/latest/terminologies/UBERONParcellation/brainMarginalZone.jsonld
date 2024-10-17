@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/brainMarginalZone",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/brainMarginalZone",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Brain marginal zone' is an anatomical entity. It is part of the brain.",
   "description": "The part of the future brain that is derived from the mantle layer of the neural tube.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0734549",

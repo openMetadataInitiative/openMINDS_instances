@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/multi-compartmentModeling",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "multi-compartment modeling",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

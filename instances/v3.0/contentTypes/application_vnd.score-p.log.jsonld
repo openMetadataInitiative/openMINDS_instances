@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.score-p.log",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".txt"
+  ],
+  "name": "application/vnd.score-p.log",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "LOG"
+  ]
+}

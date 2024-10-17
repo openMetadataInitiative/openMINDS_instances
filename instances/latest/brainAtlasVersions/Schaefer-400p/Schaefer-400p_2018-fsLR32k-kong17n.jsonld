@@ -1,16 +1,16 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-kong17n",
-  "@type": "https://openminds.ebrains.eu/sands/BrainAtlasVersion",
+  "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-kong17n",
+  "@type": "https://openminds.om-i.org/types/BrainAtlasVersion",
   "abbreviation": "Schaefer-400p",
   "accessibility": {
-    "@id": "https://openminds.ebrains.eu/instances/productAccessibility/freeAccess"
+    "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
   },
   "author": null,
   "coordinateSpace": {
-    "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsLR_32k"
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsLR_32k"
   },
   "copyright": null,
   "custodian": null,
@@ -20,7 +20,7 @@
   "fullName": "Schaefer Atlas with 400 Parcellation",
   "funding": null,
   "hasTerminology": {
-    "@type": "https://openminds.ebrains.eu/sands/ParcellationTerminologyVersion",
+    "@type": "https://openminds.om-i.org/types/ParcellationTerminologyVersion",
     "dataLocation": null,
     "hasEntity":null,
     "ontologyIdentifier": null
@@ -31,7 +31,7 @@
   "isNewVersionOf": null,
   "keyword": null,
   "license": {
-    "@id": "https://openminds.ebrains.eu/instances/licenses/mit"
+    "@id": "https://openminds.om-i.org/instances/licenses/mit"
   },
   "majorVersionIdentifier": "2018",
   "ontologyIdentifier": null,
@@ -42,7 +42,7 @@
   "shortName": "Schaefer Atlas (400p)",
   "supportChannel": null,
   "type": {
-    "@id": "https://openminds.ebrains.eu/instances/atlasType/deterministicAtlas"
+    "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
   },
   "usedSpecimen": null,
   "versionIdentifier": "2018, fsLR32k, kong17n",

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_intermediateNucleusOfTheLateralLemniscus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "ILL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_intermediateNucleusOfTheLateralLemniscus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_intermediateNucleusOfTheLateralLemniscus",
+  "name": "intermediate nucleus of the lateral lemniscus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

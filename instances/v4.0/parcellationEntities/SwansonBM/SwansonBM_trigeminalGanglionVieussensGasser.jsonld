@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trigeminalGanglionVieussensGasser",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "GV",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_trigeminalGanglionVieussensGasser"
+    }
+  ],
+  "lookupLabel": "SwansonBM_trigeminalGanglionVieussensGasser",
+  "name": "trigeminal ganglion [Vieussens, Gasser]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

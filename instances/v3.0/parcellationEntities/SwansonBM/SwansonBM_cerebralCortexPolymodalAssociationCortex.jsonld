@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_cerebralCortexPolymodalAssociationCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CTXpm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralCortexPolymodalAssociationCortex"
+    }
+  ],
+  "lookupLabel": "SwansonBM_cerebralCortexPolymodalAssociationCortex",
+  "name": "cerebral cortex, polymodal association cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

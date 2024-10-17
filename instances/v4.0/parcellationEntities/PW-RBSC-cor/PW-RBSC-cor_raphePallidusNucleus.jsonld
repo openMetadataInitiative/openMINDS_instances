@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_raphePallidusNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "RPa",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_raphePallidusNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_raphePallidusNucleus",
+  "name": "raphe pallidus nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

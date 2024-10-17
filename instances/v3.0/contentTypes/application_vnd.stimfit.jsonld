@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.stimfit",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".abf",
+    ".abf2",
+    ".atf",
+    ".axgx",
+    ".axgd",
+    ".cfs",
+    ".heka",
+    ".hdf5"
+  ],
+  "name": "application/vnd.stimfit",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Python stfio"
+  ]
+}

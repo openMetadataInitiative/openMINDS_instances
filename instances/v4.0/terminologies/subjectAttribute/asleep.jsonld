@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/subjectAttribute/asleep",
+  "@type": "https://openminds.om-i.org/types/SubjectAttribute",
+  "definition": "A periodic, readily reversible state of an organism with reduced awareness and typically lower metabolic activity.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "asleep",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

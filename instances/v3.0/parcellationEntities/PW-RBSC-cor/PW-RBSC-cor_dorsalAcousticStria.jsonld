@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalAcousticStria",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "das",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsalAcousticStria"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dorsalAcousticStria",
+  "name": "dorsal acoustic stria",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

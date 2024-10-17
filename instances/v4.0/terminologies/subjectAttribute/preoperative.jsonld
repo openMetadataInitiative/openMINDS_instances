@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/subjectAttribute/preoperative",
+  "@type": "https://openminds.om-i.org/types/SubjectAttribute",
+  "definition": "A temporary state of an organism in the time period between the decision to have surgery and the beginning of the surgical procedure.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "preoperative",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

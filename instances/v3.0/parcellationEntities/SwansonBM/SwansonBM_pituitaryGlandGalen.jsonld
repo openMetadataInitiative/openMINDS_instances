@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_pituitaryGlandGalen",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PIT",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pituitaryGlandGalen"
+    }
+  ],
+  "lookupLabel": "SwansonBM_pituitaryGlandGalen",
+  "name": "pituitary gland [Galen]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

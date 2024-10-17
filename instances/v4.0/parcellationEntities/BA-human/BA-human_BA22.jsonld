@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_BA22",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "BA22",
+  "alternateName": [
+    "Brodmann's area 22",
+    "human BA22",
+    "human Brodmann area 22",
+    "human Brodmann's area 22"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_cerebralCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/BA-human_1909_BA22"
+    }
+  ],
+  "lookupLabel": "BA-human_BA22",
+  "name": "Brodmann area 22",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

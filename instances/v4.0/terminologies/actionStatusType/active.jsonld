@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/actionStatusType/active",
+  "@type": "https://openminds.om-i.org/types/ActionStatusType",
+  "definition": "An in-progress action.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "active",
+  "preferredOntologyIdentifier": "https://schema.org/ActiveActionStatus",
+  "synonym": [
+    "active action status",
+    "active action"
+  ]
+}

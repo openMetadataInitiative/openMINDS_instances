@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_externalMedullaryLaminaUnspecified",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "eml-u"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_externalMedullaryLaminaUnspecified"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_externalMedullaryLaminaUnspecified",
+  "name": "external medullary lamina, unspecified",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

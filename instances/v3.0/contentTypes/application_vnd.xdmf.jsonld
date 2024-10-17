@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.xdmf",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".xdmf",
+    ".xmf"
+  ],
+  "name": "application/vnd.xdmf",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "eXtensible Data Model and Format"
+  ]
+}

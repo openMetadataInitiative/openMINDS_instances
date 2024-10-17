@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pallium",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pallium",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Pallium' is a regional part of brain. It is part of the telencephalon.",
   "description": "The commonly used synonym of the cerebral cortex. Used first by Burdach for macrodissected adult humans (1822), and by many others since, including His (1895), and Nauta & Feirtag (1986). In Latin pallium means a mantle, cloak, or blanket",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108390",

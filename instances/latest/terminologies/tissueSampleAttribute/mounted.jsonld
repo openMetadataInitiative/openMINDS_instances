@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/tissueSampleAttribute/mounted",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute",
+  "@id": "https://openminds.om-i.org/instances/tissueSampleAttribute/mounted",
+  "@type": "https://openminds.om-i.org/types/TissueSampleAttribute",
   "definition": "A specimen that has been put ('mounted') on e.g., a glass slide with mounting medium in order to be supported for further handling and/or long term preservation.",
   "description": null,
   "interlexIdentifier": null,

@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNucleusOfThalamus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/posteriorNucleusOfThalamus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Posterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the posterior nuclear complex of thalamus.",
   "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109111",

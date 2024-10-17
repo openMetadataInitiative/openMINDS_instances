@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularHypothalamicNucleusMedialMagnocellularPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PaMM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusMedialMagnocellularPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_paraventricularHypothalamicNucleusMedialMagnocellularPart",
+  "name": "paraventricular hypothalamic nucleus, medial magnocellular part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

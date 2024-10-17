@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modelAbstractionLevel/systemsBiology",
+  "@type": "https://openminds.om-i.org/types/ModelAbstractionLevel",
+  "definition": "Modelling of neural systems below the level of individual neurons",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "systems biology",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

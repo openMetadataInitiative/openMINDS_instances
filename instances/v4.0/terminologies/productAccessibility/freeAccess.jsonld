@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess",
+  "@type": "https://openminds.om-i.org/types/ProductAccessibility",
+  "definition": "With 'free access' selected, data and metadata are both released and become immediately available without any access restrictions.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "free access",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

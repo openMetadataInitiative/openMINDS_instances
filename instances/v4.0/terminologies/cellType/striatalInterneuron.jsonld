@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/striatalInterneuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "striatal interneuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

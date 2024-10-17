@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_intermediateGraySpinalCordProper",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "IH",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intermediateGraySpinalCordProper"
+    }
+  ],
+  "lookupLabel": "SwansonBM_intermediateGraySpinalCordProper",
+  "name": "intermediate gray spinal cord proper",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

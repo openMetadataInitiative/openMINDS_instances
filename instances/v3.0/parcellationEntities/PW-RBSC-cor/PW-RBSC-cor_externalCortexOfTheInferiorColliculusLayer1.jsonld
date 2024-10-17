@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_externalCortexOfTheInferiorColliculusLayer1",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "ECIC1",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_externalCortexOfTheInferiorColliculusLayer1"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_externalCortexOfTheInferiorColliculusLayer1",
+  "name": "external cortex of the inferior colliculus, layer 1",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hilumOfDentateNucleus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hilumOfDentateNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Hilum of dentate nucleus' is a hilum of neuraxis. It is part of the dentate nucleus.",
   "description": "The mouth of the flasklike dentate nucleus of the cerebellum, directed inward (rostromedial), and giving exit to many of the fibers that compose the superior cerebellar peduncle or brachium conjunctivum.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105003",

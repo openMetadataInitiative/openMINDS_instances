@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_Q",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "Q",
+  "alternateName": [
+    "Q",
+    "Cuneus"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_occipitalLobe"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_Q"
+    }
+  ],
+  "lookupLabel": "AAL1_Q",
+  "name": "cuneus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

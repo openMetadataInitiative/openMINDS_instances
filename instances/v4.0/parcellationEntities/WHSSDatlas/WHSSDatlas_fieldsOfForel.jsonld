@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_fieldsOfForel",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "FoF"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_fieldsOfForel"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_fieldsOfForel",
+  "name": "fields of Forel",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

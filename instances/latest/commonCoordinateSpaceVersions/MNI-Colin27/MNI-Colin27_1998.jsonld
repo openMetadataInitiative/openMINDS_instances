@@ -1,26 +1,26 @@
 {
 	"@context": {
-		"@vocab": "https://openminds.ebrains.eu/vocab/"
+		"@vocab": "https://openminds.om-i.org/props/"
 	},
-	"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-Colin27_1998",
-	"@type": "https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion",
+	"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-Colin27_1998",
+	"@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
 	"abbreviation": "MNI-Colin27",
 	"accessibility": null,
 	"anatomicalAxesOrientation": {
-		"@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RAS"
+		"@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
 	},
   "author": null,
 	"axesOrigin": [
     {
-      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "value": 75.0
     },
     {
-      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "value": 111.0
     },
     {
-      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "value": 67.0
     }
   ],
@@ -36,14 +36,14 @@
 	"howToCite": null,
 	"isAlternativeVersionOf": [
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-Colin27_2008"
+			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-Colin27_2008"
 		}
 	],
 	"isNewVersionOf": null,
 	"keyword": null,
 	"license": null,
 	"nativeUnit": {
-			"@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/millimeter"
+			"@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
 	},
 	"ontologyIdentifier": null,
 	"otherContribution": null,

@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralCochlearNucleusAnteriorPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "AVCN"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_ventralCochlearNucleusAnteriorPart"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_ventralCochlearNucleusAnteriorPart"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_ventralCochlearNucleusAnteriorPart"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_ventralCochlearNucleusAnteriorPart",
+  "name": "ventral cochlear nucleus, anterior part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

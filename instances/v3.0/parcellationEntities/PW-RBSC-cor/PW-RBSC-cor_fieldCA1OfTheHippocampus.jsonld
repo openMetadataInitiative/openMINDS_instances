@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_fieldCA1OfTheHippocampus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CA1",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_fieldCA1OfTheHippocampus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_fieldCA1OfTheHippocampus",
+  "name": "field CA1 of the hippocampus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

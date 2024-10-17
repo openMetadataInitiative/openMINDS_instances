@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ethmoidLimitansNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "Eth"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_ethmoidLimitansNucleus"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_ethmoidLimitansNucleus",
+  "name": "ethmoid-Limitans nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

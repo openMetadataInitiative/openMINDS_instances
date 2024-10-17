@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteroventralPreopticNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "AVP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteroventralPreopticNucleus"
+    }
+  ],
+  "lookupLabel": "SwansonBM_anteroventralPreopticNucleus",
+  "name": "anteroventral preoptic nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

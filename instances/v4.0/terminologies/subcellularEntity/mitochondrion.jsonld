@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/subcellularEntity/mitochondrion",
+  "@type": "https://openminds.om-i.org/types/SubcellularEntity",
+  "definition": "A 'mitochondrion' is a semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration (Gene Ontology).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107028",
+  "knowledgeSpaceLink": null,
+  "name": "mitochondrion",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao1860313010",
+  "synonym": null
+}

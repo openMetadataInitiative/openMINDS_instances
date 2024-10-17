@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularHypothalamicNucleusDorsalCap",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PaDC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusDorsalCap"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_paraventricularHypothalamicNucleusDorsalCap",
+  "name": "paraventricular hypothalamic nucleus, dorsal cap",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

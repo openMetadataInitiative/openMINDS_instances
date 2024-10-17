@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerII",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/corticalLayerII",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "Layer of neocortex lying just deep to molecular layer characterized by numerous small cell bodies.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107368",

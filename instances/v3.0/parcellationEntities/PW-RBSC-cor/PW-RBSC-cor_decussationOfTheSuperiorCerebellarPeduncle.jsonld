@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_decussationOfTheSuperiorCerebellarPeduncle",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "xscp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_decussationOfTheSuperiorCerebellarPeduncle"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_decussationOfTheSuperiorCerebellarPeduncle",
+  "name": "decussation of the superior cerebellar peduncle",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

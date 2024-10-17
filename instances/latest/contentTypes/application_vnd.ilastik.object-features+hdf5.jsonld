@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.ilastik.object-features+hdf5",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".hdf5",
+    ".h5"
+  ],
+  "name": "application/vnd.ilastik.object-features+hdf5",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "ilastik object features HDF5"
+  ]
+}

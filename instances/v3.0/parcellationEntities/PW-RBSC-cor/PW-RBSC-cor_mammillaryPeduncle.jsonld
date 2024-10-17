@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mammillaryPeduncle",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "mp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_mammillaryPeduncle"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_mammillaryPeduncle",
+  "name": "mammillary peduncle",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

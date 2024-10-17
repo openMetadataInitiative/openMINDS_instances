@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/productAccessibility/controlledAccess",
+  "@type": "https://openminds.om-i.org/types/ProductAccessibility",
+  "definition": "With 'controlled access' selected, data and metadata are both released and available free of charge, but users must logged in and authenticated themselves to access the data.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "controlled access",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

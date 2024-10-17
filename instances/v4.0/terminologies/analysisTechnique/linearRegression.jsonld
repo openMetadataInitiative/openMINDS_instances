@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/linearRegression",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "A 'linear regression' is an analysis approach for modelling the linear relationship between a scalar response and one or more explanatory variables.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "linear regression",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

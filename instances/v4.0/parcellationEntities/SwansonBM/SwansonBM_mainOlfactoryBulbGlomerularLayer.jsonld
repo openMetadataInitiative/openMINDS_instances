@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbGlomerularLayer",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "MOBgl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mainOlfactoryBulbGlomerularLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBM_mainOlfactoryBulbGlomerularLayer",
+  "name": "main olfactory bulb, glomerular layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

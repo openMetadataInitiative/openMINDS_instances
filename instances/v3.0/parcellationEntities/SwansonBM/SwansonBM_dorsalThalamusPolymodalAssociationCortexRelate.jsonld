@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_dorsalThalamusPolymodalAssociationCortexRelate",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DORpm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalThalamusPolymodalAssociationCortexRelate"
+    }
+  ],
+  "lookupLabel": "SwansonBM_dorsalThalamusPolymodalAssociationCortexRelate",
+  "name": "dorsal thalamus, polymodal association cortex relate",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

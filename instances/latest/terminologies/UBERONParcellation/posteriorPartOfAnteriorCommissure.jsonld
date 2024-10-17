@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorPartOfAnteriorCommissure",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/posteriorPartOfAnteriorCommissure",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Posterior part of anterior commissure' is a commissure of telencephalon. It is part of the anterior commissure.",
   "description": "The main part of the anterior commissure, distinct from the anterior olfactory part, that interconnects the temporal lobes. (Maryann Martone)",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109121",

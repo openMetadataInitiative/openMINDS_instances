@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/subjectAttribute/postoperative",
+  "@type": "https://openminds.om-i.org/types/SubjectAttribute",
+  "definition": "A temporary state of an organism in the time period that immediately follows a surgical procedure.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "postoperative",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

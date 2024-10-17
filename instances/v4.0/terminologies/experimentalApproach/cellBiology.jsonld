@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/experimentalApproach/cellBiology",
+  "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
+  "definition": "Any experimental approach focused on structure, function, multiplication, pathology, and life history of biological cells.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739391",
+  "knowledgeSpaceLink": null,
+  "name": "cell biology",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Cellular",
+  "synonym": [
+    "cellular approach"
+  ]
+}

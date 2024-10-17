@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/imageRegistration",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "An 'image registration' is a process of bringing a set of images into the same coordinate system.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "image registration",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "spatial registration"
+  ]
+}

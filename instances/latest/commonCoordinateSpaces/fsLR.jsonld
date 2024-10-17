@@ -1,9 +1,9 @@
 {
 	"@context": {
-		"@vocab": "https://openminds.ebrains.eu/vocab/"
+		"@vocab": "https://openminds.om-i.org/props/"
 	},
-	"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpace/fsLR",
-	"@type": "https://openminds.ebrains.eu/sands/CommonCoordinateSpace",
+	"@id": "https://openminds.om-i.org/instances/commonCoordinateSpace/fsLR",
+	"@type": "https://openminds.om-i.org/types/CommonCoordinateSpace",
 	"abbreviation": "fsLR",
 	"author": null,
 	"custodian": null,
@@ -12,10 +12,10 @@
 	"fullName": "Unbiased FsAverage Left–Right Hybrid Surface Space",
 	"hasVersion": [
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsLR_32k"
+			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsLR_32k"
 		},
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsLR_164k"
+			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsLR_164k"
 		}
 	],
 	"homepage": null,
@@ -23,6 +23,6 @@
   "ontologyIdentifier": null,
 	"shortName": "fsLR Surface Space",
 	"usedSpecies": {
-		"@id": "https://openminds.ebrains.eu/instances/species/homoSapiens"
+		"@id": "https://openminds.om-i.org/instances/species/homoSapiens"
 	}
 }

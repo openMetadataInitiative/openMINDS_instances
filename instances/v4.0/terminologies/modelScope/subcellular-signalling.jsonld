@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modelScope/subcellular-signalling",
+  "@type": "https://openminds.om-i.org/types/ModelScope",
+  "definition": "A model of sub-cellular signalling pathways",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "subcellular: signalling",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

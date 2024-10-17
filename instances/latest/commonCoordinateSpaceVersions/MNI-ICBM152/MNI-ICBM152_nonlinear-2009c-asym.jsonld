@@ -1,26 +1,26 @@
 {
 	"@context": {
-		"@vocab": "https://openminds.ebrains.eu/vocab/"
+		"@vocab": "https://openminds.om-i.org/props/"
 	},
-	"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-asym",
-	"@type": "https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion",
+	"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-asym",
+	"@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
 	"abbreviation": "ICBM152",
 	"accessibility": null,
 	"anatomicalAxesOrientation": {
-		"@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RAS"
+		"@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
 	},
   "author": null,
 	"axesOrigin": [
     {
-      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "value": 96.0
     },
     {
-      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "value": 132.0
     },
     {
-      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "value": 78.0
     }
   ],
@@ -39,7 +39,7 @@
 	"keyword": null,
 	"license": null,
 	"nativeUnit": {
-			"@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/millimeter"
+			"@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
 	},
 	"ontologyIdentifier": null,
 	"otherContribution": null,

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.princeton-instruments",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".spe"
+  ],
+  "name": "application/vnd.princeton-instruments",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Princeton Instruments SPE"
+  ]
+}

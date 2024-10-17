@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusMedialBladegranuleCellLayer",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "DGmb-sg",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusMedialBladegranuleCellLayer"
+    }
+  ],
+  "lookupLabel": "SwansonBM_dentateGyrusMedialBladegranuleCellLayer",
+  "name": "dentate gyrus, medial blade-granule cell layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

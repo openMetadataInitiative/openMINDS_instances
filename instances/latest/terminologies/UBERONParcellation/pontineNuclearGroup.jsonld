@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pontineNuclearGroup",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pontineNuclearGroup",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Pontine nuclear group' is a brainstem nucleus and hindbrain nucleus. It is part of the basal part of pons.",
   "description": "Nuclei in the basal pons, intermingled among the descending axons from the cortex, that receive neocrotcial input and give rise to many axons that cross the midline to enter the contralateral cerebellum (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 135)",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109028",

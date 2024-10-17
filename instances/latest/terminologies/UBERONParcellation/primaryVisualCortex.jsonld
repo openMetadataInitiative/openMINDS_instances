@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualCortex",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/primaryVisualCortex",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Primary visual cortex' is a Brodmann area and functional part of brain. It is part of the visual cortex.",
   "description": "Region of visual cortex that receives visual input from the eyes through the lateral geniculate nuclei (Sadato et al., 1996, PMID: 8606771).",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112514",

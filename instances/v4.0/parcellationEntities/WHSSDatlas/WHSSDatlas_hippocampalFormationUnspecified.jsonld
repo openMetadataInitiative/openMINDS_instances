@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_hippocampalFormationUnspecified",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "HF-u"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_hippocampalFormation"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_hippocampalFormationUnspecified",
+  "name": "hippocampal formation, unspecified",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

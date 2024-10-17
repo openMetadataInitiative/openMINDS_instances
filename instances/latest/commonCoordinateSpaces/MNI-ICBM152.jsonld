@@ -1,9 +1,9 @@
 {
 	"@context": {
-		"@vocab": "https://openminds.ebrains.eu/vocab/"
+		"@vocab": "https://openminds.om-i.org/props/"
 	},
-	"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpace/MNI-ICBM152",
-	"@type": "https://openminds.ebrains.eu/sands/CommonCoordinateSpace",
+	"@id": "https://openminds.om-i.org/instances/commonCoordinateSpace/MNI-ICBM152",
+	"@type": "https://openminds.om-i.org/types/CommonCoordinateSpace",
 	"abbreviation": "ICBM152",
 	"author": null,
 	"custodian": null,
@@ -12,28 +12,28 @@
 	"fullName": "MNI ICBM152 Average Brain Stereotaxic Registration Model",
 	"hasVersion": [
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_linear-2001-sym"
+			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_linear-2001-sym"
 		},
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-6G-sym"
+			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-6G-sym"
 		},
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009a-asym"
+			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009a-asym"
 		},
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009a-sym"
+			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009a-sym"
 		},
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009b-asym"
+			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009b-asym"
 		},
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009b-sym"
+			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009b-sym"
 		},
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-asym"
+			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-asym"
 		},
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-sym"
+			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-sym"
 		}
 	],
 	"homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases",
@@ -41,6 +41,6 @@
   "ontologyIdentifier": null,
 	"shortName": "MNI ICBM152",
 	"usedSpecies": {
-		"@id": "https://openminds.ebrains.eu/instances/species/homoSapiens"
+		"@id": "https://openminds.om-i.org/instances/species/homoSapiens"
 	}
 }

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_commissuralNucleusPeriaqueductalGrayPaxinosWatson",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "COM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_commissuralNucleusPeriaqueductalGrayPaxinosWatson"
+    }
+  ],
+  "lookupLabel": "SwansonBM_commissuralNucleusPeriaqueductalGrayPaxinosWatson",
+  "name": "commissural nucleus, periaqueductal gray [Paxinos-Watson]",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

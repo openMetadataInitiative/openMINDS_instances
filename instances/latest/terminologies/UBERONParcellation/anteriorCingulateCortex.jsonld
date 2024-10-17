@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateCortex",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/anteriorCingulateCortex",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Anterior cingulate cortex' is a regional part of brain. It is part of the cingulate cortex.",
   "description": "The frontal part of the cingulate cortex that resembles a collar form around the corpus callosum. It includes both the ventral and dorsal areas of the cingulate cortex. http://en.wikipedia.org/wiki/File:Gray727.svg",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100689",

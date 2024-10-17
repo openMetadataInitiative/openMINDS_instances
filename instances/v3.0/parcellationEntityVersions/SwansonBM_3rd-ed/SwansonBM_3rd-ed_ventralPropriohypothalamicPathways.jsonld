@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralPropriohypothalamicPathways",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "phpv",
+  "additionalRemarks": "Region name does not match the abbreviation (medial propriohypothalamic pathways vs. phpv). The assumed correct name 'ventral propriohypothalamic pathways' has been added under 'correctedName'.",
+  "alternateName": null,
+  "correctedName": "ventral propriohypothalamic pathways",
+  "hasAnnotation": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_3rd-ed_ventralPropriohypothalamicPathways",
+  "name": "medial propriohypothalamic pathways",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "3rd ed.",
+  "versionInnovation": null
+}
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bsc.paraver.configurationfile",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".txt"
+  ],
+  "name": "application/vnd.bsc.paraver.configurationfile",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Paraver Configuration File"
+  ]
+}

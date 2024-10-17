@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_crus1OfTheAnsiformLobule",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "Crus1",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_crus1OfTheAnsiformLobule"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_crus1OfTheAnsiformLobule",
+  "name": "crus 1 of the ansiform lobule",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

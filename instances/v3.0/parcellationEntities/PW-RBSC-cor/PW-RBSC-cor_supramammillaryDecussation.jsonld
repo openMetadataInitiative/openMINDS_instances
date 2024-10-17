@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_supramammillaryDecussation",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "sumx",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_supramammillaryDecussation"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_supramammillaryDecussation",
+  "name": "supramammillary decussation",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

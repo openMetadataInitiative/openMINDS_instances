@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralLinearNucleusRaphe",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "CLI",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralLinearNucleusRaphe"
+    }
+  ],
+  "lookupLabel": "SwansonBM_centralLinearNucleusRaphe",
+  "name": "central linear nucleus raphé",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

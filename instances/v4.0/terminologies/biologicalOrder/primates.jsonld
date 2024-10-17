@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/biologicalOrder/primates",
+  "@type": "https://openminds.om-i.org/types/BiologicalOrder",
+  "definition": "The biological order *Primates* belongs to the class *Mammalia* (mammals).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0486298",
+  "knowledgeSpaceLink": null,
+  "name": "Primates",
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0017579",
+  "synonym": null
+}

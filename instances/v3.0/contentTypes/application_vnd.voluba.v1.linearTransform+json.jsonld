@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.voluba.v1.linearTransform+json",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".json"
+  ],
+  "name": "application/vnd.voluba.v1.linearTransform+json",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "VoluBA (v1) Linear Transformation"
+  ]
+}

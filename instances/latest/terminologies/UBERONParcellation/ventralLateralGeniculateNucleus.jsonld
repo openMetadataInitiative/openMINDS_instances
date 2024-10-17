@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralLateralGeniculateNucleus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralLateralGeniculateNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Ventral lateral geniculate nucleus' is a nucleus of dorsal thalamus. It is part of the lateral geniculate body.",
   "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112321",

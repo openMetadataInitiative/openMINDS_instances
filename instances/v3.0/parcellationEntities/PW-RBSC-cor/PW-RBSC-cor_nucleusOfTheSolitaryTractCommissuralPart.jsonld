@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractCommissuralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SolC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractCommissuralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_nucleusOfTheSolitaryTractCommissuralPart",
+  "name": "nucleus of the solitary tract, commissural part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

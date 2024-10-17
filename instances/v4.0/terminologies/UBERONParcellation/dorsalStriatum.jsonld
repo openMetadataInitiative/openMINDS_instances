@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsalStriatum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Dorsal striatum' is a gray matter of telencephalon. It is part of the striatum.",
+  "description": "Dorsal components of the striatum comprising the caudate nucleus and the putamen, in species that have distinct nuclei; the caudoputamen in species which don't.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103481",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005382#dorsal-striatum-1",
+  "name": "dorsal striatum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005382",
+  "synonym": [
+    "caudoputamen",
+    "corpus striatum",
+    "dorsal basal ganglia",
+    "dorsal basal ganglion",
+    "StD",
+    "striated body",
+    "striatum dorsal region",
+    "striatum dorsale"
+  ]
+}

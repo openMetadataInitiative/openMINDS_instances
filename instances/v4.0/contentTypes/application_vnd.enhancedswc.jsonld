@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.enhancedswc",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".eswc"
+  ],
+  "name": "application/vnd.enhancedswc",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Enhanced SWC"
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/massUnivariateAnalysis",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/massUnivariateAnalysis",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "A 'mass univariate analysis' is the statistical analysis of a massive number of simultaneously measured dependent variables via the performance of univariate hypothesis tests.",
   "description": null,
   "interlexIdentifier": null,

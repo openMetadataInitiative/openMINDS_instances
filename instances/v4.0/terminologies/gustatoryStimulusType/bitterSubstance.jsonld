@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/gustatoryStimulusType/bitterSubstance",
+  "@type": "https://openminds.om-i.org/types/GustatoryStimulusType",
+  "definition": "Any chemical compound that tastes bitter.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "bitter substance",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

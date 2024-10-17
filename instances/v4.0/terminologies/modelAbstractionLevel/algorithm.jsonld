@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modelAbstractionLevel/algorithm",
+  "@type": "https://openminds.om-i.org/types/ModelAbstractionLevel",
+  "definition": "Modelling of a neural structure or process as an algorithm",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "algorithm",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

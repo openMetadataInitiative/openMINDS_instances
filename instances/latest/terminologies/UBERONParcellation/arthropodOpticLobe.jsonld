@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/arthropodOpticLobe",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/arthropodOpticLobe",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "'Arthropod optic lobe' is a visual processing part of nervous system. It is part of the brain.",
   "description": "A region of the adult brain that processes the visual information from the compound eyes.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0732637",

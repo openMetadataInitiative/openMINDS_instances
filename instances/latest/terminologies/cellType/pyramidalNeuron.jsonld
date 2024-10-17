@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/cellType/pyramidalNeuron",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "@id": "https://openminds.om-i.org/instances/cellType/pyramidalNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "A 'pyramidal neuron' is a type of multipolar neuron that is characterized by a pyramidal shaped cell body (soma) and two distinct dendritic trees.",
   "description": null,
   "interlexIdentifier": null,

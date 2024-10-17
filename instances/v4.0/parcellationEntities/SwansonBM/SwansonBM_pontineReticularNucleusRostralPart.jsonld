@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineReticularNucleusRostralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PRNr",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pontineReticularNucleusRostralPart"
+    }
+  ],
+  "lookupLabel": "SwansonBM_pontineReticularNucleusRostralPart",
+  "name": "pontine reticular nucleus, rostral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

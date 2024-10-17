@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/excitatoryAminoAcidTransporter3",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The excitatory amino acid transporter 3 belongs to the EAAT family transporting glutamate across plasma membranes in neurons. It can also transport aspartate and plays a role in the neuronal cysteine uptake.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103641",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000014972#excitatory-amino-acid-transporter-3",
+  "name": "excitatory amino acid transporter 3",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000014972",
+  "synonym": [
+    "EAAT3"
+  ]
+}

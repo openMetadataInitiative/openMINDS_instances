@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_lambdoidSeptalZone",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "Ld",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_lambdoidSeptalZone"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_lambdoidSeptalZone",
+  "name": "lambdoid septal zone",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

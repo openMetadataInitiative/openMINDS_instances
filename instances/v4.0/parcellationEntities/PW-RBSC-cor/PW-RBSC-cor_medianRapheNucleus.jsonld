@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_medianRapheNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "MnR",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_medianRapheNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_medianRapheNucleus",
+  "name": "median raphe nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

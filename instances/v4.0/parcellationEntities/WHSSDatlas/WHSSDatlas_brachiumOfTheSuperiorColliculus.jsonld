@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_brachiumOfTheSuperiorColliculus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "bsc"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_brachiumOfTheSuperiorColliculus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_brachiumOfTheSuperiorColliculus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_brachiumOfTheSuperiorColliculus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_brachiumOfTheSuperiorColliculus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_brachiumOfTheSuperiorColliculus"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_brachiumOfTheSuperiorColliculus",
+  "name": "brachium of the superior colliculus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

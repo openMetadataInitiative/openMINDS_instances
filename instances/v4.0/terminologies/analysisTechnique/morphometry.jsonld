@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/morphometry",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "morphometry",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "morphometric analysis"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basomedialAmygdalarNucleusAnteriorPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "BMAa",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_basomedialAmygdalarNucleusAnteriorPart"
+    }
+  ],
+  "lookupLabel": "SwansonBM_basomedialAmygdalarNucleusAnteriorPart",
+  "name": "basomedial amygdalar nucleus, anterior part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

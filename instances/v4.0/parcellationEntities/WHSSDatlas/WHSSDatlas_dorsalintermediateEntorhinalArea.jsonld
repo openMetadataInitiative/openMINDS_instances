@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_dorsalintermediateEntorhinalArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_dorsalintermediateEntorhinalArea"
+    }
+  ],
+  "lookupLabel": "WHSSDatlas_dorsalintermediateEntorhinalArea",
+  "name": "dorsal-intermediate entorhinal area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

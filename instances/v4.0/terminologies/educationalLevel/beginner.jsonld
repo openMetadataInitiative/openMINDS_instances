@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/educationalLevel/beginner",
+  "@type": "https://openminds.om-i.org/types/EducationalLevel",
+  "definition": "The learner has no or minimal knowledge or experience of the given topic.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "beginner",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

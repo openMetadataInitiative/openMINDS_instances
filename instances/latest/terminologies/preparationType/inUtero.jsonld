@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/preparationType/inUtero",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
+  "@id": "https://openminds.om-i.org/instances/preparationType/inUtero",
+  "@type": "https://openminds.om-i.org/types/PreparationType",
   "definition": "Something happening in, within, or while inside the uterus.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0739675",

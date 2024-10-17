@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart",
-  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "STSL",
   "alternateName": [
     "STSM"
@@ -12,7 +12,7 @@
   "hasParent": null,
   "hasVersion": [
     {
-      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart"
     }
   ],
   "lookupLabel": "PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart",
@@ -20,4 +20,3 @@
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
-

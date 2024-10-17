@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/image_vnd.ilastik.segmentation+dzi",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".dzi",
+    ".xml"
+  ],
+  "name": "image/vnd.ilastik.segmentation+dzi",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "ilastik segmentation image (DZI)"
+  ]
+}

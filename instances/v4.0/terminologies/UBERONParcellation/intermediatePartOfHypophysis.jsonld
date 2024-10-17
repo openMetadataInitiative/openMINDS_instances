@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/intermediatePartOfHypophysis",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "'Intermediate part of hypophysis' is a regional part of brain. It is part of the adenohypophysis.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105575",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023752#intermediate-part-of-hypophysis-1",
+  "name": "intermediate part of hypophysis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023752",
+  "synonym": [
+    "IHP",
+    "intermediate lobe",
+    "intermediate lobe of hypophysis",
+    "intermediate part of hypophysis",
+    "intermediate region of hypophysis",
+    "middle lobe of hypophysis",
+    "pituitary gland"
+  ]
+}

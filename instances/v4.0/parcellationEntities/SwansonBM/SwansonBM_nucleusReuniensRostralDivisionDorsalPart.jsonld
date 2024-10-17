@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionDorsalPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "REd",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensRostralDivisionDorsalPart"
+    }
+  ],
+  "lookupLabel": "SwansonBM_nucleusReuniensRostralDivisionDorsalPart",
+  "name": "nucleus reuniens, rostral division, dorsal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

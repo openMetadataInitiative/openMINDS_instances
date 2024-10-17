@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralGrayNucleusO",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CGO",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_centralGrayNucleusO"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_centralGrayNucleusO",
+  "name": "central gray, nucleus O",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

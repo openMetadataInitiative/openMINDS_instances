@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/subjectAttribute/knockin",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/SubjectAttribute",
+  "@id": "https://openminds.om-i.org/instances/subjectAttribute/knockin",
+  "@type": "https://openminds.om-i.org/types/SubjectAttribute",
   "definition": "An organism that underwent a targeted insertation of foreign genetic material in the existing genetic material (i.e. a gene).",
   "description": null,
   "interlexIdentifier": null,

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/deviceType/openBoreMRIScanner",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
+  "definition": "'Open-bore MRI scanners' are low-field scanners which have a magnetic top and bottom, but are otherwise open, increasing patient's comfort and unobstructed view of the scanning area.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "open-bore MRI scanner",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "open-bore magnetic resonance imaging scanner",
+    "open magnetic resonance imaging scanner",
+    "open MRI scanner"
+  ]
+}

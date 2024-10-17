@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mediodorsalNucleusThalamus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "MD",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mediodorsalNucleusThalamus"
+    }
+  ],
+  "lookupLabel": "SwansonBM_mediodorsalNucleusThalamus",
+  "name": "mediodorsal nucleus thalamus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

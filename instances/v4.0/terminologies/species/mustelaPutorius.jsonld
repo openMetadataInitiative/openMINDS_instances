@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/mustelaPutorius",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "The species *Mustela putorius* (European polecat) belongs to the family of *mustelidae* (mustelids).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Mustela putorius",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9668",
+  "synonym": [
+    "european polecat",
+    "putorius putorius"
+  ]
+}

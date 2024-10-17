@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_O2",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "O2",
+  "alternateName": [
+    "O2",
+    "Occipital_Mid"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_occipitalLobe"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_O2"
+    }
+  ],
+  "lookupLabel": "AAL1_O2",
+  "name": "middle occipital gyrus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/differenceMeasure/z_score",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure",
+  "@id": "https://openminds.om-i.org/instances/differenceMeasure/z_score",
+  "@type": "https://openminds.om-i.org/types/DifferenceMeasure",
   "definition": "The number of standard deviations by which an observed value is above or below the mean value.",
   "description": null,
   "interlexIdentifier": null,

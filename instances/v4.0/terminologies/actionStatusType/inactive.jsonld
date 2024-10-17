@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/actionStatusType/inactive",
+  "@type": "https://openminds.om-i.org/types/ActionStatusType",
+  "definition": "A pending or suspended action.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "inactive",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "inactive action status",
+    "inactive action"
+  ]
+}

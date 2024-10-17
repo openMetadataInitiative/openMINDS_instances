@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/metaDataModelType/graphMetadataModel",
+  "@type": "https://openminds.om-i.org/types/MetaDataModelType",
+  "definition": "A graph metadata model defines a set of modular metadata schemas (including their relations) as architectural base of a graph database for describing the products represented in that database.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "graph metadata model",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

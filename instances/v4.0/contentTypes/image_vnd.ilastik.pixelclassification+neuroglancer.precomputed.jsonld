@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/image_vnd.ilastik.pixelclassification+neuroglancer.precomputed",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": null,
+  "name": "image/vnd.ilastik.pixelclassification+neuroglancer.precomputed",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "ilastik pixel classification image (neuroglancer precomputed)"
+  ]
+}

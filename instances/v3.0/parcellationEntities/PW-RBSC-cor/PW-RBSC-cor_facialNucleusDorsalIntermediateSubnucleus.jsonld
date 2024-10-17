@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_facialNucleusDorsalIntermediateSubnucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "7DI",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_facialNucleusDorsalIntermediateSubnucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_facialNucleusDorsalIntermediateSubnucleus",
+  "name": "facial nucleus, dorsal intermediate subnucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

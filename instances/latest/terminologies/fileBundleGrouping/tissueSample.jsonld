@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping",
+  "@id": "https://openminds.om-i.org/instances/fileBundleGrouping/tissueSample",
+  "@type": "https://openminds.om-i.org/types/FileBundleGrouping",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,

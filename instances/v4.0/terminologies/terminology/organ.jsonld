@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/organ",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Anatomical structure that performs a specific function or group of functions.",
+  "description": "The preferred ontology for 'organ' is UBERON.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "organ",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000062",
+  "synonym": null
+}

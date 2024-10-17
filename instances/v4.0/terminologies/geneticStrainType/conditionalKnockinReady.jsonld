@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/geneticStrainType/conditionalKnockinReady",
+  "@type": "https://openminds.om-i.org/types/GeneticStrainType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "conditional knockin ready",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

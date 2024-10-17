@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/terminology/tactileStimulusType",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "@id": "https://openminds.om-i.org/instances/terminology/tactileStimulusType",
+  "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "A 'tactile stimulus type' groups similar tactile stimuli used across tactile stimulation techniques.",
   "description": null,
   "interlexIdentifier": null,

@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/ageCategory/youngAdult",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
+  "@id": "https://openminds.om-i.org/instances/ageCategory/youngAdult",
+  "@type": "https://openminds.om-i.org/types/AgeCategory",
   "definition": "'Young adult' categorizes the early adult stage of an animal or human when sexual maturity has been reached, but not the cessation of growth.",
   "description": null,
   "interlexIdentifier": null,

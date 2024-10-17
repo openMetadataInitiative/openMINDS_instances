@@ -1,28 +1,28 @@
 {
 	"@context": {
-		"@vocab": "https://openminds.ebrains.eu/vocab/"
+		"@vocab": "https://openminds.om-i.org/props/"
 	},
-	"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MEBRAINStemplate_v1.0",
-	"@type": "https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion",
+	"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MEBRAINStemplate_v1.0",
+	"@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
 	"abbreviation": "MEBRAINStemplate",
 	"accessibility": {
-    "@id": "https://openminds.ebrains.eu/instances/productAccessibility/freeAccess"
+    "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
   },
 	"anatomicalAxesOrientation": {
-		"@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RAS"
+		"@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
 	},
   "author": null,
 	"axesOrigin": [
     {
-      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "value": 108.0
     },
     {
-      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "value": 128.0
     },
     {
-      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue",
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
       "value": 70.0
     }
   ],
@@ -41,7 +41,7 @@
 	"keyword": null,
 	"license": null,
 	"nativeUnit": {
-		"@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/micrometer"
+		"@id": "https://openminds.om-i.org/instances/unitOfMeasurement/micrometer"
 	},
 	"ontologyIdentifier": null,
 	"otherContribution": null,

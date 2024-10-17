@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/terminology/language",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "@id": "https://openminds.om-i.org/instances/terminology/language",
+  "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,

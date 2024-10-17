@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_facialNucleusVentralIntermediateSubnucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "7VI",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_facialNucleusVentralIntermediateSubnucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_facialNucleusVentralIntermediateSubnucleus",
+  "name": "facial nucleus, ventral intermediate subnucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

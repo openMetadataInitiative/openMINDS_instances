@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialForebrainBundle",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "mfb",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_medialForebrainBundle"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_medialForebrainBundle",
+  "name": "medial forebrain bundle",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

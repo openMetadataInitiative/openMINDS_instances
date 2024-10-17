@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAccessibility",
+  "@id": "https://openminds.om-i.org/instances/productAccessibility/restrictedAccess",
+  "@type": "https://openminds.om-i.org/types/ProductAccessibility",
   "definition": "With 'restricted access' selected, metadata are released, but data remain on an access restricted server.",
   "description": null,
   "interlexIdentifier": null,

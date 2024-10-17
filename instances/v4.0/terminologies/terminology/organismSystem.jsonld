@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/organismSystem",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Any anatomical or functional system in an organism, regardless of scale.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "organism system",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

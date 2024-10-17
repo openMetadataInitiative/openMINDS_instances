@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.anywave",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".ades"
+  ],
+  "name": "application/vnd.anywave",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "AnyWave Descriptive Format"
+  ]
+}

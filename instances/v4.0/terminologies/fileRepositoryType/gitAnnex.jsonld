@@ -1,0 +1,14 @@
+{
+    "@context": {
+      "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@id": "https://openminds.om-i.org/instances/fileRepositoryType/gitAnnex",
+    "@type": "https://openminds.om-i.org/types/FileRepositoryType",
+    "definition": "git-annex allows managing large files with git, without storing the file contents in git.",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "git-annex repository",
+    "preferredOntologyIdentifier": null,
+    "synonym": null
+  }

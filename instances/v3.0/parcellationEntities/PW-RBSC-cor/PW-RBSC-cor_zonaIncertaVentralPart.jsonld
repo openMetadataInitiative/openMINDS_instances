@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_zonaIncertaVentralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "ZIV",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_zonaIncertaVentralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_zonaIncertaVentralPart",
+  "name": "zona incerta, ventral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

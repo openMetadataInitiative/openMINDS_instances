@@ -1,0 +1,17 @@
+{
+    "@context": {
+      "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@id": "https://openminds.om-i.org/instances/fileRepositoryType/s3",
+    "@type": "https://openminds.om-i.org/types/FileRepositoryType",
+    "definition": "An S3 repository uses the cloud storage of the Amazon S3 service.",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "Amazon S3 repository",
+    "preferredOntologyIdentifier": null,
+    "synonym": [
+        "S3 repository",
+        "Amazon Simple Storage Service repository"
+    ]
+  }

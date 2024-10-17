@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/affineImageRegistration",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/affineImageRegistration",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "A 'affine image registration' is a process of bringing a set of images into the same coordinate system using affine transformation.",
   "description": null,
   "interlexIdentifier": null,
