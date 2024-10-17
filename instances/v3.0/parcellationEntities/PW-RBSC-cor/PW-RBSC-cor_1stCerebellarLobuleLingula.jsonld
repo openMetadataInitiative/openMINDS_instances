@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_1stCerebellarLobuleLingula",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "1Cb",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_1stCerebellarLobuleLingula"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_1stCerebellarLobuleLingula",
+  "name": "1st cerebellar lobule (lingula)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

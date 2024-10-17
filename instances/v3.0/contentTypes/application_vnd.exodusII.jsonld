@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.exodusII",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".gen",
+    ".g",
+    ".exoii",
+    ".exo",
+    ".exii",
+    ".ex2v2",
+    ".ex2",
+    ".e",
+    ".0000",
+    ".000",
+    ".00",
+    ".0"
+  ],
+  "name": "application/vnd.exodusII",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

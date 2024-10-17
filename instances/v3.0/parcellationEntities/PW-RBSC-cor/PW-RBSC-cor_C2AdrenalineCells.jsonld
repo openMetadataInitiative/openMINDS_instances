@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_C2AdrenalineCells",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "C2",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_C2AdrenalineCells"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_C2AdrenalineCells",
+  "name": "C2 adrenaline cells",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

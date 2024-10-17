@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_json",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".json"
+  ],
+  "name": "application/json",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/json",
+  "specification": null,
+  "synonym": [
+    "JavaScript Object Notation",
+    "JSON"
+  ]
+}

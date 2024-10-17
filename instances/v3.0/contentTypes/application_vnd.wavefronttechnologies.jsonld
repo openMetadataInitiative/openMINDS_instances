@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wavefronttechnologies",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".obj"
+  ],
+  "name": "application/vnd.wavefronttechnologies",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/model/obj",
+  "specification": null,
+  "synonym": [
+    "Wavefront OBJ"
+  ]
+}

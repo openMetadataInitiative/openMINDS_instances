@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/multiPhotonFluorescenceMicroscopy",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition":  "Multi photon fluorescence microscopy is a fluorescence microscopy technique for living tissue which is based on the simultaneous excitation by two or more photons with longer wavelength than the emitted light.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "multi photon fluorescence microscopy",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "multi photon microscopy",
+    "multi-photon microscopy",
+    "MPM",
+    "multi-photon fluorescence microscopy"
+  ]
+}

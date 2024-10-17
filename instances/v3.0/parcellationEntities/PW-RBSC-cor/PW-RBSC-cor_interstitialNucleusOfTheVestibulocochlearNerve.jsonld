@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interstitialNucleusOfTheVestibulocochlearNerve",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "I8",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_interstitialNucleusOfTheVestibulocochlearNerve"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_interstitialNucleusOfTheVestibulocochlearNerve",
+  "name": "interstitial nucleus of the vestibulocochlear nerve",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

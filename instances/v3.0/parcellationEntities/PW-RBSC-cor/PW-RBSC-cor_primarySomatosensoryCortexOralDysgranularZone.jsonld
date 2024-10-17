@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortexOralDysgranularZone",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "S1DZO",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_primarySomatosensoryCortexOralDysgranularZone"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_primarySomatosensoryCortexOralDysgranularZone",
+  "name": "primary somatosensory cortex, oral dysgranular zone",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

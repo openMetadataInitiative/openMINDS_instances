@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractVentrolateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SolVL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractVentrolateralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_nucleusOfTheSolitaryTractVentrolateralPart",
+  "name": "nucleus of the solitary tract, ventrolateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

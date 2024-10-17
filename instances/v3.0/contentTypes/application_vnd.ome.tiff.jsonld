@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ome.tiff",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".ome.btf",
+    ".ome.tf8",
+    ".ome.tf2",
+    ".ome.tiff"
+  ],
+  "name": "application/vnd.ome.tiff",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "OME-TIFF"
+  ]
+}
