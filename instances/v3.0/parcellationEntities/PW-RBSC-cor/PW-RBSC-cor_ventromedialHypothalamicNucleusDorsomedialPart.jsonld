@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventromedialHypothalamicNucleusDorsomedialPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "VMHDM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleusDorsomedialPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_ventromedialHypothalamicNucleusDorsomedialPart",
+  "name": "ventromedial hypothalamic nucleus, dorsomedial part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralTegmentalAreaRostralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "VTAR",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_ventralTegmentalAreaRostralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_ventralTegmentalAreaRostralPart",
+  "name": "ventral tegmental area, rostral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

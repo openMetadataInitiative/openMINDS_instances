@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_4thAnd5thCerebellarLobules",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "4/5Cb",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_4thAnd5thCerebellarLobules"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_4thAnd5thCerebellarLobules",
+  "name": "4th and 5th cerebellar lobules",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

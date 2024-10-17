@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_suprachiasmaticNucleusVentromedialPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SChVM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_suprachiasmaticNucleusVentromedialPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_suprachiasmaticNucleusVentromedialPart",
+  "name": "suprachiasmatic nucleus, ventromedial part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

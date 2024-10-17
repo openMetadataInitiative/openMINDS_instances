@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_substantiaNigraCompactPartDorsalTier",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SNCD",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_substantiaNigraCompactPartDorsalTier"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_substantiaNigraCompactPartDorsalTier",
+  "name": "substantia nigra, compact part, dorsal tier",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

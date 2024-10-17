@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialEntorhinalCortexVentralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "MEntV",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_medialEntorhinalCortexVentralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_medialEntorhinalCortexVentralPart",
+  "name": "medial entorhinal cortex, ventral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

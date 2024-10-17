@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_interpeduncularNucleusCentralSubnucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "IPNc",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusCentralSubnucleus"
+    }
+  ],
+  "lookupLabel": "SwansonBM_interpeduncularNucleusCentralSubnucleus",
+  "name": "interpeduncular nucleus, central subnucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

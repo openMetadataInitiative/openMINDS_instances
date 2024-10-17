@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_spinoolivaryPathway",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "sop",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinoolivaryPathway"
+    }
+  ],
+  "lookupLabel": "SwansonBM_spinoolivaryPathway",
+  "name": "spino-olivary pathway",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

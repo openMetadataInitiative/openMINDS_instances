@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_intracentralFissure2",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "ice2",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intracentralFissure2"
+    }
+  ],
+  "lookupLabel": "SwansonBM_intracentralFissure2",
+  "name": "intracentral fissure 2",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

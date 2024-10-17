@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.arbor-simulator+python",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".py"
+  ],
+  "name": "application/vnd.arbor-simulator+python",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Python:Arbor"
+  ]
+}

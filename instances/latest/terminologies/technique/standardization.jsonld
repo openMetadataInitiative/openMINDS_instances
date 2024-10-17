@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/standardization",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "'Standardization' is the process of providing (meta)data according to a consensus of different parties (e.g., firms, users, interest groups, organizations and governments).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0479520",
+  "knowledgeSpaceLink": null,
+  "name": "standardization",
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0018674",
+  "synonym": null
+}

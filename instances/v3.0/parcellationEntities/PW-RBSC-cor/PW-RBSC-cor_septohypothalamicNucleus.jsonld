@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_septohypothalamicNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SHy",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_septohypothalamicNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_septohypothalamicNucleus",
+  "name": "septohypothalamic nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

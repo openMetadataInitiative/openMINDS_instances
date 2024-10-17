@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivision",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "STL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivision"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivision",
+  "name": "bed nucleus of the stria terminalis, lateral division",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

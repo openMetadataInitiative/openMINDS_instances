@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_spinalCordCervicalLevelSegments18",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SP-C1-8",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalCordCervicalLevelSegments18"
+    }
+  ],
+  "lookupLabel": "SwansonBM_spinalCordCervicalLevelSegments18",
+  "name": "spinal cord, cervical level, segments 1-8",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_C1AdrenalineCellsAndA1NoradrenalineCells",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "C1/A1",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_C1AdrenalineCellsAndA1NoradrenalineCells"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_C1AdrenalineCellsAndA1NoradrenalineCells",
+  "name": "C1 adrenaline cells and A1 noradrenaline cells",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

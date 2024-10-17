@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorHypothalamicAreaAnteriorPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AHA",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_anteriorHypothalamicAreaAnteriorPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_anteriorHypothalamicAreaAnteriorPart",
+  "name": "anterior hypothalamic area, anterior part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

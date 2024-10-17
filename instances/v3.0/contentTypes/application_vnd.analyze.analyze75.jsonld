@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.analyze.analyze75",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".img",
+    ".hdr"
+  ],
+  "name": "application/vnd.analyze.analyze75",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Analyze 7.5"
+  ]
+}

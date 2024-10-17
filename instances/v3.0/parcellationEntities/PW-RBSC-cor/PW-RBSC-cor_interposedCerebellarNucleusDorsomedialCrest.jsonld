@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interposedCerebellarNucleusDorsomedialCrest",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "IntDM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_interposedCerebellarNucleusDorsomedialCrest"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_interposedCerebellarNucleusDorsomedialCrest",
+  "name": "interposed cerebellar nucleus, dorsomedial crest",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bids.electrodesformat",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".tsv"
+  ],
+  "name": "application/vnd.bids.electrodesformat",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "BIDS electrodes format"
+  ]
+}

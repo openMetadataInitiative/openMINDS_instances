@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.klustakwik",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": null,
+  "name": "application/vnd.klustakwik",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "KlustaKwik Format"
+  ]
+}
