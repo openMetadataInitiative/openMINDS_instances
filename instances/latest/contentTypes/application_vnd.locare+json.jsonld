@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.locare+json",
-  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.locare+json",
+  "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "description": "A text-based format for representing structured data based on JavaScript object syntax following the [LocareJSON schema specification](https://github.com/blixilla/LocareJSON).",
   "displayLabel": null,
