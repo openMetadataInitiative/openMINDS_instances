@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/ISOMAP",
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/Isomap",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
   "definition": "An unsupervised machine learning technique used for computing a quasi-isometric, low-dimensional embedding of a set of high-dimensional data points to perform a nonlinear dimensionality reduction. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Isomap)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "ISOMAP",
+  "name": "Isomap",
   "preferredOntologyIdentifier": null,
   "synonym": [
     "isomap"
