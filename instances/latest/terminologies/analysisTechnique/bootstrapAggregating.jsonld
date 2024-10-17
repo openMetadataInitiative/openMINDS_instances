@@ -1,10 +1,10 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/bootstrapAggregating",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
-  "definition": "'Bootstrap aggregating' is a specialized Ensemble Learning technique, a framework that uses a group of 'weak-learner' methods, which get trained in parallel on random data-points of the training-dataset and which outputs get aggregated into a unified results.",
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/bootstrapAggregating",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "A specialized machine learning ensemble meta-algorithm designed to improve the stability and accuracy of machine learning algorithms used in statistical classification and regression. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Bootstrap_aggregating)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -14,7 +14,7 @@
     "bagging",
     "bootstrap aggregation",
     "bagging ensemble learning",
-	  "bagging ensemble method",
-	  "ensemble learning bagging"
+		"bagging ensemble method",
+		"ensemble learning bagging"
   ]
 }
