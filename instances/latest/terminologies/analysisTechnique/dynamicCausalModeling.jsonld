@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.om-i.org/props/
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/technique/dynamicCausalModeling",
-  "@type": "https://openminds.om-i.org/types/Technique",
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/dynamicCausalModeling",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "An analysis framework for specifying non-linear state-space models in continuous time using stochastic or ordinary differential equations, for fitting them to data and comparing their evidence using Bayesian model comparison.[adapted from [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_causal_modeling)]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103618",
