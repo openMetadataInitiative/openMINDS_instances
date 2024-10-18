@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/centralArtery",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a brain blood vessel. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005020)]",
+  "description": "Arteries that irrigate the forebrain and midbrain Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005020)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2005020#central-artery",
+  "name": "central artery",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2005020",
+  "synonym": [
+    "CtA"
+  ]
+}
+

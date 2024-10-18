@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/bloodBrainBarrier",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000120) ('is_a' and 'relationship')]",
+  "description": "Cell layer consisting of lining cells that separates the central nervous system and the bloodstream. The BBB may consist of endothelial cells or glial cells. An endothelial barrier may have arisen independently several times during evolution. In bichir and lungfish the barrier is formed by brain endothelial cells, while in sturgeon it is formed by a complex perivascular glial sheath, but with no detectable tight junctions. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000120)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000120#blood-brain-barrier",
+  "name": "blood brain barrier",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000120",
+  "synonym": [
+    "blood-brain barrier"
+  ]
+}
+

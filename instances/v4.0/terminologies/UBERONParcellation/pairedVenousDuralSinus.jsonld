@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pairedVenousDuralSinus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017635)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0017635#paired-venous-dural-sinus",
+  "name": "paired venous dural sinus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0017635",
+  "synonym": [
+    "paired dural venous sinus"
+  ]
+}
+

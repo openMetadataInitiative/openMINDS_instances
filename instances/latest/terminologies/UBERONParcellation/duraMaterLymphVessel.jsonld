@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/duraMaterLymphVessel",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the meningeal cluster. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035608)]",
+  "description": "Any lymph vessel that is located in the dura mater of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035608)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035608#dura-mater-lymph-vessel",
+  "name": "dura mater lymph vessel",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035608",
+  "synonym": [
+    "dural lymph vessel"
+  ]
+}
+
