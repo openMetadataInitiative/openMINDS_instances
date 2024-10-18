@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbTuftedNeuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "definition": "Principle neurons of the mammalian main olfactory bulb.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "main olfactory bulb tufted neuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "main olfactory bulb tufted cell",
+    "tufted cell of the main olfactory bulb",
+    "tufted neuron of the main olfactory bulb"
+  ]
+}
