@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/(N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
-  "definition": "Pittsburgh compound B (PiB) is a radioactive analog of thioflavin T, which can be used in positron emission tomography scans to image beta-amyloid plaques in neuronal tissue. Due to this property, Pittsburgh compound B may be used in investigational studies of Alzheimer's disease.",
+  "definition": "(N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole (Pittsburgh compound B) is used as a positron emission tomography tracer to increase contrast of beta-amyloid plaques in neuronal tissue.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
