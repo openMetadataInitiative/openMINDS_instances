@@ -14,7 +14,6 @@ jobs:
     if: github.event.pull_request.merged == true || github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
@@ -26,9 +25,8 @@ jobs:
         with:
           python-version: '3.9'
 
-      # Step 3: Get modified JSON-LD files
-      - name: Get modified JSON-LD files
-        id: get_modified_files
+      - name: Process and Sync Changes in instance Files
+        id: process_sync_instances
         run: |
           # Fetch the base branch for comparison
           git fetch origin $GITHUB_BASE_REF
