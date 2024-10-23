@@ -10,5 +10,9 @@
   "knowledgeSpaceLink": null,
   "name": "magnetization transfer saturation image processing",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "magnetization transfer saturation estimation",
+    "MTsat estimation",
+    "MTsat image processing"
+  ]
 }
