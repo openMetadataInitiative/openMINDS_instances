@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortexTrunkRegion",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "S1Tr",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_primarySomatosensoryCortexTrunkRegion"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_primarySomatosensoryCortexTrunkRegion",
+  "name": "primary somatosensory cortex, trunk region",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.canon.canondng",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".crw",
+    ".c2r"
+  ],
+  "name": "application/vnd.canon.canondng",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

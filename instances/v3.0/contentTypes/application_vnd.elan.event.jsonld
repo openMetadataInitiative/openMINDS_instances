@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elan.event",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".pos"
+  ],
+  "name": "application/vnd.elan.event",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "ELAN event file"
+  ]
+}

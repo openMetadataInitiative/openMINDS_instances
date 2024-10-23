@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalSpinocerebellarTractAndOlivocerebellarTract",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "dsc/oc",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsalSpinocerebellarTractAndOlivocerebellarTract"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dorsalSpinocerebellarTractAndOlivocerebellarTract",
+  "name": "dorsal spinocerebellar tract and olivocerebellar tract",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

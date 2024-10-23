@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralEntorhinalCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "LEnt",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_lateralEntorhinalCortex"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_lateralEntorhinalCortex",
+  "name": "lateral entorhinal cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

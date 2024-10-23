@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalHypothalamicArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DA",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsalHypothalamicArea"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dorsalHypothalamicArea",
+  "name": "dorsal hypothalamic area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

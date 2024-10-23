@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_preopticPeriventricularNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PVpo",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_preopticPeriventricularNucleus"
+    }
+  ],
+  "lookupLabel": "SwansonBM_preopticPeriventricularNucleus",
+  "name": "preoptic periventricular nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

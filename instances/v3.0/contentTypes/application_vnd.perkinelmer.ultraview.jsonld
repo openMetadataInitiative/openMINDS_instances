@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.ultraview",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".4",
+    ".3",
+    ".2",
+    ".tiff"
+  ],
+  "name": "application/vnd.perkinelmer.ultraview",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "PerkinElmer UltraVIEW"
+  ]
+}

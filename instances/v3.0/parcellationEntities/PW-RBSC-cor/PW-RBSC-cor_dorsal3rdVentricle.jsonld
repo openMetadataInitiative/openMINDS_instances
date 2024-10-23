@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsal3rdVentricle",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "D3V",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsal3rdVentricle"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dorsal3rdVentricle",
+  "name": "dorsal 3rd ventricle",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

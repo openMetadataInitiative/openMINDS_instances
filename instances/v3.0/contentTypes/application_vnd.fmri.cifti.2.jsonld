@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.fmri.cifti.2",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".nii.gz",
+    ".dtseries.nii"
+  ],
+  "name": "application/vnd.fmri.cifti.2",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

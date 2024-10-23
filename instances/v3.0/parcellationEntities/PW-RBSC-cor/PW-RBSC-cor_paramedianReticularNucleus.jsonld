@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paramedianReticularNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PMn",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_paramedianReticularNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_paramedianReticularNucleus",
+  "name": "paramedian reticular nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

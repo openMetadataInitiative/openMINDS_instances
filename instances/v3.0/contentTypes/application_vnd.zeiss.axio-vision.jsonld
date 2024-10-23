@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.axio-vision",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".xml",
+    ".tiff",
+    ".zvl"
+  ],
+  "name": "application/vnd.zeiss.axio-vision",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

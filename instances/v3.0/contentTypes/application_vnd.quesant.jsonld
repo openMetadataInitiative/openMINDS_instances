@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quesant",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".afm"
+  ],
+  "name": "application/vnd.quesant",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Quesant"
+  ]
+}

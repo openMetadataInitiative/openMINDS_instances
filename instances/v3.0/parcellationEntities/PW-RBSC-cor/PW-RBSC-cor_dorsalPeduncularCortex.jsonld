@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalPeduncularCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsalPeduncularCortex"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dorsalPeduncularCortex",
+  "name": "dorsal peduncular cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

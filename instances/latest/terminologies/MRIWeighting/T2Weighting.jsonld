@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/MRIPulseSequence/T2Weighting",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/MRIWeighting",
+  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/T2Weighting",
+  "@type": "https://openminds.om-i.org/types/MRIWeighting",
   "definition": "Image processing technique that specifically enhances the signal-to-noise ratio of the true spin-spin relaxation (T2 relaxation time) excluding field inhomogeneities.",
   "description": null,
   "interlexIdentifier": null,

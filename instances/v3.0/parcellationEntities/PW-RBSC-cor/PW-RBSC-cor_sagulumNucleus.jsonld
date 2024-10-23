@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_sagulumNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "Sag",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_sagulumNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_sagulumNucleus",
+  "name": "sagulum nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.freesurfer",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".white",
+    ".sphere",
+    ".smoothwm",
+    ".pial",
+    ".orig",
+    ".inflated",
+    ".mgz",
+    ".mgh"
+  ],
+  "name": "application/vnd.freesurfer",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

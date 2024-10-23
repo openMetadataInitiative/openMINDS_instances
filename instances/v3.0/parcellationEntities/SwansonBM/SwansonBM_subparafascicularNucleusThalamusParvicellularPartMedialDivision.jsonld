@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_subparafascicularNucleusThalamusParvicellularPartMedialDivision",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SPFpm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subparafascicularNucleusThalamusParvicellularPartMedialDivision"
+    }
+  ],
+  "lookupLabel": "SwansonBM_subparafascicularNucleusThalamusParvicellularPartMedialDivision",
+  "name": "subparafascicular nucleus thalamus, parvicellular part, medial division",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

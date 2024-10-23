@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_retrosplenialArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "RSP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retrosplenialArea"
+    }
+  ],
+  "lookupLabel": "SwansonBM_retrosplenialArea",
+  "name": "retrosplenial area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+
