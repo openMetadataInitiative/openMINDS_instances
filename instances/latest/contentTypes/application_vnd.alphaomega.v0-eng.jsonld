@@ -2,21 +2,17 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.klustakwik",
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.alphaomega.v0-eng",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
-    ".fet",
-    ".clu",
-    ".res",
-    ".spk"
+    ".lsx",
+    ".mpx"
   ],
-  "name": "application/vnd.klustakwik",
+  "name": "application/vnd.alphaomega.v0-eng",
   "relatedMediaType": null,
   "specification": null,
-  "synonym": [
-    "KlustaKwik Format"
-  ]
+  "synonym": null
 }
