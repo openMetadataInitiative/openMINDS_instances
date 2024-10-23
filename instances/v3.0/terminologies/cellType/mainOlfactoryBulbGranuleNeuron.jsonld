@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbGranuleNeuron",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "definition": "Axonless inhibitory interneurons and form the majority of neurons in the vertebrate main olfactory bulb [adapted from [Egger et al. (2003)](https://doi.org/10.1523%2FJNEUROSCI.23-20-07551.2003)].",
+  "definition": "Axonless inhibitory interneurons and form the majority of neurons in the vertebrate main olfactory bulb [adapted from [Egger et al. (2003)](https://doi.org/10.1523/JNEUROSCI.23-20-07551.2003)].",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107930",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:123#olfactory-bulb-main-granule-cell",
