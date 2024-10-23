@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.om-i.openminds.schema-tpl+json",
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openmetadatainitiative.openminds.schema-tpl+json",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "dataType": null,
   "description": "Simplified openMINDS-specific schema template that defines properties and values of linked data. Has to be extended with additional information to become a fully valid openMINDS schema.",
@@ -10,7 +10,7 @@
   "fileExtension": [
     ".schema.tpl.json"
   ],
-  "name": "application/vnd.om-i.openminds.schema-tpl+json",
+  "name": "application/vnd.openmetadatainitiative.openminds.schema-tpl+json",
   "relatedMediaType": null,
   "specification": null,
   "synonym": [
