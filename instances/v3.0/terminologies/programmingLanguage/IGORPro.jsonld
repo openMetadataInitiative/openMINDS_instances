@@ -4,13 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/programmingLanguage/IGORPro",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
-  "definition": null,
+  "definition": "C-like programming language of the correspondent scientific data analysis software and numerical computing environment IGOR Pro available for Windows or Mac operating systems.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "IGOR Pro",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "Igor Pro"
+    "IGOR Pro programming language"
   ]
 }
