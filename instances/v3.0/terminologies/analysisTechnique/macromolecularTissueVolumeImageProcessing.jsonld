@@ -4,14 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/macromolecularTissueVolumeImageProcessing",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
-  "definition": "'Macromolecular tissue volume image processing' quantifies the volume of water and non-water components at voxel level [adapted from [Mezer A, Yeatman JD, Stikov N, et al., (2013)](https://doi.org/10.1038/nm.3390)].",
+  "definition": "Magnetic resonance imaging analysis technique that provides a quantitative estimate of the macromolecular tissue volume within the image. [adapted from [Mezer et al., (2013)](https://doi.org/10.1038/nm.3390)].",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "macromolecular tissue volume image processing",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "MTV",
+    "macromolecular tissue volume estimation",
+    "MTV estimation",
     "MTV image processing"
   ]
 }
