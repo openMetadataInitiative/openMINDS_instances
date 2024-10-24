@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/arachnoidBarrierLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the endothelial blood brain barrier and the arachnoid mater. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000437)]",
+  "description": "The arachnoid barrier layer is a part of the arachnoid meningeal layer. It is formed by tight junctions between the endothelial cells of cerebral capillaries in the arachnoid mater. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000437)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000437#arachnoid-barrier-layer",
+  "name": "arachnoid barrier layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000437",
+  "synonym": null
+}
+
