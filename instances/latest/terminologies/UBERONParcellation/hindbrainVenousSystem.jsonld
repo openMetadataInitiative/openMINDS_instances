@@ -4,11 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hindbrainVenousSystem",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Hindbrain venous system' is part of the hindbrain.",
-  "description": "A venous system that is part of a hindbrain.",
+  "definition": "Is part of the hindbrain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005720)]",
+  "description": "A venous system that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005720)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0735731",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005720#hindbrain-venous-system",
   "name": "hindbrain venous system",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005720",
   "synonym": null
 }
+

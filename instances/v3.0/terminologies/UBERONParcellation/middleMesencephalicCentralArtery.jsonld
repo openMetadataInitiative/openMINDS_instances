@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/middleMesencephalicCentralArtery",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005078)]",
+  "description": "Project rostrally and dorsally from the AMCtA to to irrigate the midportion of the midbrain Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005078)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2005078#middle-mesencephalic-central-artery",
+  "name": "middle mesencephalic central artery",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2005078",
+  "synonym": [
+    "MMCtA"
+  ]
+}
+
