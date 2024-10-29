@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/image_x-n5",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".n5"
+  ],
+  "name": "image/x-n5",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "N5 image"
+  ]
+}

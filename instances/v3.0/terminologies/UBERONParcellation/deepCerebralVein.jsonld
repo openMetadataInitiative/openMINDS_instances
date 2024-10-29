@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/deepCerebralVein",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016564)]",
+  "description": "The deep cerebral veins are a group of veins in the head. This group includes the superior thalamostriate vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016564)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016564#deep-cerebral-vein",
+  "name": "deep cerebral vein",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016564",
+  "synonym": null
+}
+

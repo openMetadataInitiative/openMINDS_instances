@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorMesencephalicCentralArtery",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005079)]",
+  "description": "Project dorsally from BCA to irrigate the caudal part of midbrain Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005079)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2005079#posterior-mesencephalic-central-artery",
+  "name": "posterior mesencephalic central artery",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2005079",
+  "synonym": [
+    "caudal mesencephalic central artery",
+    "PMCtA"
+  ]
+}
+

@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/venousDuralSinus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the meningeal cluster. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005486)]",
+  "description": "A venous channel found between layers of dura mater in the brain. Receives blood from internal and external veins of the brain, receive cerebrospinal fluid (CSF) from the subarachnoid space, and ultimately empty into the internal jugular vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005486)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005486#venous-dural-sinus",
+  "name": "venous dural sinus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005486",
+  "synonym": [
+    "cranial dural venous sinus",
+    "dural sinus",
+    "dural vein",
+    "dural venous sinus",
+    "venous dural",
+    "venous dural sinus"
+  ]
+}
+

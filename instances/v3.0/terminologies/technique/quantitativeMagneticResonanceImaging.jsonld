@@ -4,11 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/quantitativeMagneticResonanceImaging",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Any magnetic resonance imaging technique that generates images of a specimen based on the physical parameters of the local tissue microstructural environment.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "quantitative magnetic resonance imaging",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "qMRI"
+  ]
 }
