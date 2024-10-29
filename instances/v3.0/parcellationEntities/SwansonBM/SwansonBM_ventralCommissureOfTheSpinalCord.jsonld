@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_ventralCommissureOfTheSpinalCord",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "vc",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralCommissureOfTheSpinalCord"
+    }
+  ],
+  "lookupLabel": "SwansonBM_ventralCommissureOfTheSpinalCord",
+  "name": "ventral commissure of the spinal cord",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

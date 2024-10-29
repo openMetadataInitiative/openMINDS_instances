@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.prairie-technologies",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".cfg",
+    ".xml",
+    ".tiff"
+  ],
+  "name": "application/vnd.prairie-technologies",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Prairie Technologies TIFF"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_fieldCA3StratumOriens",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "CA3so",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA3StratumOriens"
+    }
+  ],
+  "lookupLabel": "SwansonBM_fieldCA3StratumOriens",
+  "name": "field CA3, stratum oriens",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

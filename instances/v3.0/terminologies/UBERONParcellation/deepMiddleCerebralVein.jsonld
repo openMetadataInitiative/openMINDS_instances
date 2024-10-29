@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/deepMiddleCerebralVein",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebral vein. Is part of the basal vein. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035532) ('is_a' and 'relationship')]",
+  "description": "The blood vessel that receives deoxygenated blood from the insula and gyri and drains into the basal vein of Rosenthal deep in the lateral sulcus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035532)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035532#deep-middle-cerebral-vein",
+  "name": "deep middle cerebral vein",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035532",
+  "synonym": null
+}
+

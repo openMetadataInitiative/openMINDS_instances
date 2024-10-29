@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/greatCerebralVein",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006666)]",
+  "description": "The great cerebral vein is one of the large blood vessels in the skull draining the cerebrum (brain) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006666)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006666#great-cerebral-vein",
+  "name": "great cerebral vein",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006666",
+  "synonym": [
+    "great cerebral vein",
+    "great cerebral vein of Galen",
+    "vein of Galen"
+  ]
+}
+

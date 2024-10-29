@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_episupraopticNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "ESO",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_episupraopticNucleus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_episupraopticNucleus",
+  "name": "episupraoptic nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

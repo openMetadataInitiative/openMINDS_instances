@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pontineReticularNucleusOralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PnO",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_pontineReticularNucleusOralPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_pontineReticularNucleusOralPart",
+  "name": "pontine reticular nucleus, oral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

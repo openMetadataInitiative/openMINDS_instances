@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wavefronttechnologies.mtl",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".mtl"
+  ],
+  "name": "application/vnd.wavefronttechnologies.mtl",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/model/mtl",
+  "specification": null,
+  "synonym": [
+    "Wavefront MTL"
+  ]
+}

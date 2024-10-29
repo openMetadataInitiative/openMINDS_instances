@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nifti.1",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".hdr",
+    ".img",
+    ".nii.gz",
+    ".nii"
+  ],
+  "name": "application/vnd.nifti.1",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "NIfTI"
+  ]
+}

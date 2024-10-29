@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/eyeMovementAnalysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
+  "definition": "'Eye movement analysis' refers to a group of techniques used to analyze eye movements from video or images.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "eye movement analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "eye motion analysis"
+  ]
+}

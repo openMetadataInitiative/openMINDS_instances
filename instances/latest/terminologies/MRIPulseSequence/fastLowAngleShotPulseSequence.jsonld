@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/MRIPulseSequence/fastLowAngleShotPulseSequence",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/MRIPulseSequence",
+  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/fastLowAngleShotPulseSequence",
+  "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
   "definition": "A gradient echo pulse sequence that combines a low-flip angle radio-frequency excitation of the nuclear magnetic resonance signal (recorded as a spatially encoded gradient echo) with a short repetition time. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Fast_low_angle_shot_magnetic_resonance_imaging)]",
   "description": null,
   "interlexIdentifier": null,

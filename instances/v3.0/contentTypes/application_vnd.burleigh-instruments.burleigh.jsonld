@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.burleigh-instruments.burleigh",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".img"
+  ],
+  "name": "application/vnd.burleigh-instruments.burleigh",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}

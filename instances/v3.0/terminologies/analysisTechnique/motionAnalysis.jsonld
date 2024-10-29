@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/motionAnalysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
+  "definition": "'Motion analysis' refers to a group of analysis techniques used to measure from video/images the movement and/or position of an object, specimen, or anatomical parts of a specimen over a given period of time.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "motion analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "movement analysis"
+  ]
+}

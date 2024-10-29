@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/measuredSignalType",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "The types of biological electrical and non-electrical signals that vary in time and/or space and can be measured.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "measured signal type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

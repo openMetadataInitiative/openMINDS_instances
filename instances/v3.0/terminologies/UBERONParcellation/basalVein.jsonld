@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/basalVein",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a deep cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035530)]",
+  "description": "The basal vein is formed at the anterior perforated substance by the union of (a) a small anterior cerebral vein which accompanies the anterior cerebral artery and supplies the medial surface of the frontal lobe by the fronto-basal vein. (b) the deep middle cerebral vein (deep Sylvian vein), which receives tributaries from the insula and neighboring gyri, and runs in the lower part of the lateral cerebral fissure, and (c) the inferior striate veins, which leave the corpus striatum through the anterior perforated substance. The basal vein passes backward around the cerebral peduncle, and ends in the internal cerebral vein; it receives tributaries from the interpeduncular fossa, the inferior horn of the lateral ventricle, the hippocampal gyrus, and the mid-brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035530)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035530#basal-vein",
+  "name": "basal vein",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035530",
+  "synonym": [
+    "basal vein of rosenthal",
+    "rosenthal's vein"
+  ]
+}
+

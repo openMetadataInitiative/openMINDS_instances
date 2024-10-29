@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest-simulator.recording",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".gdf",
+    ".dat"
+  ],
+  "name": "application/vnd.nest-simulator.recording",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": null
+}
