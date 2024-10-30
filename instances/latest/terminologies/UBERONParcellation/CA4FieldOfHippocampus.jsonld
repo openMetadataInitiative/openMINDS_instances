@@ -4,22 +4,22 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/CA4FieldOfHippocampus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "The last region in the cornu ammonis of the hippocampus and part of the hilus of the dental gyrus. Mostly contains mossy cells, that receive inputs from the dentate gyrus and pyramidal cells in the CA3 region and projects back to the dentate gyrus [taken from [Interlex](http://uri.interlex.org/base/ilx_0734458)]."
-  "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0734458",
+  "definition": "Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003884)]",
+  "description": "The last of four regions in the cornu ammonis of the hippocampus and is also part of the hilus of the dentate gyrus. This area contains mostly mossy cells that receive inputs from the dentate gyrus and pyramidal cells in the CA3 region and also projects back to the dentate gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003884)]",
+  "interlexIdentifier": null,
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003884#ca4-field-of-hippocampus",
   "name": "CA4 field of hippocampus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003884",
   "synonym": [
-    "regio IV cornus ammonis",
-    "CA4 field",
-    "region IV of ammon's horn",
-    "region IV of hippocampus proper",
-    "CA4 field of Ammon's horn",
-    "hippocampus CA4",
-    "region 4 of Ammon's horn",
     "CA4",
+    "CA4 field",
+    "CA4 field of Ammon's horn",
     "CA4 field of cornu ammonis",
-    "regio IV hippocampi proprii"    
+    "hippocampus CA4",
+    "regio IV cornus ammonis",
+    "regio IV hippocampi proprii",
+    "region 4 of Ammon's horn",
+    "region IV of ammon's horn",
+    "region IV of hippocampus proper"
   ]
 }
