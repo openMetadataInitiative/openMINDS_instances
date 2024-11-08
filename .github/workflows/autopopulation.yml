@@ -28,61 +28,81 @@ jobs:
       - name: Process and Sync Changes in instance Files
         id: process_sync_instances
         run: |
-          # Fetch the base branch for comparison
-          git fetch origin $GITHUB_BASE_REF
-          
+          git checkout HEAD
+
           # Compare the changes between the PR branch and the base branch
-          git diff --name-only --diff-filter=AM origin/$GITHUB_BASE_REF...HEAD | grep '\.jsonld$' > changed_files.txt || true
+          git diff --name-only --diff-filter=AM HEAD^ HEAD | grep '\.jsonld$' > changed_files.txt || true
           
-          declare -A seen_files
+          cat changed_files.txt
           declare -A modified_jsons
+          declare -A file_versions
+          declare -A skip_files
           
           # Check if there are any changed .jsonld files
           if [ -s changed_files.txt ]; then
             while IFS= read -r file; do
-              FILE_MODULE=$(echo "$file" | cut -d'/' -f3-4)
+              FILE_MODULE=$(dirname "$file" | cut -d'/' -f3-)
               FILE_NAME=$(basename "$file")
               MODULE_NAME="$FILE_MODULE/$FILE_NAME"
-              
-              # Check there are no modifications across versions
-              if [[ -z "${seen_files[$MODULE_NAME]}" ]]; then
-                FILE_VERSION=$(echo "$file" | cut -d'/' -f2)
-                seen_files[$MODULE_NAME]=1
-                modified_jsons["$file"]="$FILE_VERSION"
+              FILE_VERSION=$(echo "$file" | cut -d'/' -f2)
+          
+              # Track file versions across modules
+              if [[ -n "${file_versions[$MODULE_NAME]}" ]]; then
+                # If we encounter a second version for the same MODULE_NAME, mark it to be skipped
+                skip_files[$MODULE_NAME]=1
+                echo "Skipping all versions of $MODULE_NAME due to multiple versions detected."
               else
-                echo "Ignoring file modified in different versions: $FILE_MODULE/$FILE_NAME"
+                file_versions[$MODULE_NAME]="$FILE_VERSION"
+                modified_jsons["$file"]="$FILE_VERSION"
               fi
             done < changed_files.txt
           fi
           
           if [ ${#modified_jsons[@]} -gt 0 ]; then
             MAIN_FOLDER="instances"
-
+            
+            # Add template files
+            wget https://raw.githubusercontent.com/openMetadataInitiative/openMINDS/refs/heads/main/vocab/types.json -P .github/templates/
+            wget https://raw.githubusercontent.com/openMetadataInitiative/openMINDS/refs/heads/main/vocab/properties.json -P .github/templates/
+            
             for FILE in "${!modified_jsons[@]}"; do
-              FILE_VERSION="${modified_jsons[$FILE]}"
+              FILE_MODULE=$(dirname "$FILE" | cut -d'/' -f3-)
               FILE_NAME=$(basename "$FILE")
-              
+              MODULE_NAME="$FILE_MODULE/$FILE_NAME"
+          
+              # Skip processing if marked in skip_files
+              if [[ -n "${skip_files[$MODULE_NAME]}" ]]; then
+                echo "Skipping generation for $MODULE_NAME due to multiple versions in PR/push."
+                continue
+              fi
+          
+              FILE_VERSION="${modified_jsons[$FILE]}"
+          
               # Iterate over all other versions (excluding the one where the file was modified)
               for VERSION in $(ls "$MAIN_FOLDER"); do
                 if [ "$VERSION" != "$FILE_VERSION" ]; then
                   TARGET_FILE="$MAIN_FOLDER/$VERSION/$FILE_MODULE/$FILE_NAME"
-                  
-                  # If the target file exists in the other version folder, sync the properties
-                  if [ -f "$TARGET_FILE" ]; then
-                    echo "Syncing properties from $FILE to $TARGET_FILE"
-                    
-                    # Run the Python syncing script
-                    python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE"
+                  if [ -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ]; then
+                    echo "Generating instance from $FILE to $TARGET_FILE"
+                    python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
                   fi
                 fi
               done
             done
-          
-            # Commit changes if any JSON-LD files were modified
+            
+            # Clean up template files and changed_files.txt
+            rm .github/templates/types.json .github/templates/properties.json
+            rm changed_files.txt
+            
+            # Commit changes if any instance files were modified
             git config --global user.name "openMINDS pipeline"
             git config --global user.email "openminds@ebrains.eu"
             git add $MAIN_FOLDER/**/*.jsonld
-            git commit -m "Population of properties from modified instance files"
+            git commit -m "Autopopulation of instance file."
+            
+            # Fetch latest changes from remote and rebase before pushing
+            git fetch origin main
+            git pull --rebase origin main
             git push origin HEAD:main
           else
             echo "No JSON-LD files modified."
