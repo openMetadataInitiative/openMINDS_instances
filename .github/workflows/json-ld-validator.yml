@@ -1,0 +1,70 @@
+name: JSON-LD Validator
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+
+jobs:
+  validate-jsonld:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout instances repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch full history to compare against the base branch
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install JSON-LD Validator
+        run: npm install -g jsonld-cli
+
+      - name: Validate JSON-LD files
+        run: |
+          # Fetch the base branch for comparison
+          git fetch origin $GITHUB_BASE_REF
+
+          # Compare the changes between the PR branch and the base branch
+          git diff --name-only --diff-filter=AM origin/$GITHUB_BASE_REF...HEAD | grep '\.jsonld$' > changed_files.txt || true
+
+          # Check and validate JSON-LD files if present
+          if [ -s changed_files.txt ]; then
+            echo "The following JSON-LD files will be validated:"
+            cat changed_files.txt
+          
+            validation_failed=false
+
+            # Validate each file
+            while IFS= read -r file; do
+              echo "Validating $file..."
+              # Use jsonld-cli to validate JSON-LD and capture the output
+              validation_output=$(jsonld lint "$file" 2>&1 || true)
+              echo "$validation_output"
+              
+              if echo "$validation_output" | grep -E "SyntaxError|Error|Invalid" > /dev/null; then
+                echo "❌ Validation failed for $file"
+                validation_failed=true
+              else
+                echo "✅ Validation passed for $file"
+              fi
+            done < changed_files.txt
+
+            # If any validation failed, exit with a non-zero status
+            if [ "$validation_failed" = true ]; then
+              echo "❌ Some JSON-LD files failed validation."
+              exit 1
+            else
+              echo "✅ All JSON-LD files passed validation."
+            fi
+          else
+            echo "No JSON-LD files to validate."
+          fi
+        shell: bash
