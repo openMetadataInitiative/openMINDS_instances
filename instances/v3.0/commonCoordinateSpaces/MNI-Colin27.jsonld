@@ -12,10 +12,10 @@
 	"fullName": "MNI Colin27 Average Brain Stereotaxic Registration Model",
 	"hasVersion": [
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNIColin27_1998"
+			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-Colin27_1998"
 		},
 		{
-			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNIColin27_2008"
+			"@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-Colin27_2008"
 		}
 	],
 	"homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases",
