@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/futureInferiorSalivatoryNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a gray matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010124)]",
+  "description": "A gray matter that has the potential to develop into a inferior salivatory nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010124)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010124#future-inferior-salivatory-nucleus",
+  "name": "future inferior salivatory nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010124",
+  "synonym": null
+}
+
