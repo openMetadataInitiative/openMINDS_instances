@@ -5,7 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/regionalPartOfBrain",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "Is a regional part of nervous system. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002616) ('is_a' and 'relationship')]",
-  "description": "Anatomical divisons of the brain according to one or more criteria, e.g. cytoarchitectural, gross anatomy. Parts may be contiguous in 3D or not, e.g., basal ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002616)]",
+  "description": "Anatomical divisions of the brain according to one or more criteria, e.g. cytoarchitectural, gross anatomy. Parts may be contiguous in 3D or not, e.g., basal ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002616)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109835",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002616#regional-part-of-brain-1",
   "name": "regional part of brain",
