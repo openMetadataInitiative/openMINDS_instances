@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/photoreceptorLayerOfRetina",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001787) ('is_a' and 'relationship')]",
+  "description": "The layer within the retina where the photoreceptor cell receptor segments reside. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001787)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001787#photoreceptor-layer-of-retina",
+  "name": "photoreceptor layer of retina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001787",
+  "synonym": [
+    "retina photoreceptor layer",
+    "retinal photoreceptor layer",
+    "stratum segmentorum externorum et internorum (retina)",
+    "stratum segmentorum externorum et internorum retinae"
+  ]
+}
+
