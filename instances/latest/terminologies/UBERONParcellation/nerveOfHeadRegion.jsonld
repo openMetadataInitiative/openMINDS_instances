@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nerveOfHeadRegion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011779)]",
+  "description": "A nerve that is part of a head. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011779)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011779#nerve-of-head-region",
+  "name": "nerve of head region",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011779",
+  "synonym": null
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/octavalNerveMotorNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cranial nerve nucleus and nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002174)]",
+  "description": "Hindbrain nucleus which consists of cell bodies whose axons exit the hindbrain via cranial nerve VIII and innervate hair cells of the lateral line and inner ear. The neurons of these nuclei are unusual in that they extend both contra- and ipsilateral dendrites. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002174)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2002174#octaval-nerve-motor-nucleus",
+  "name": "octaval nerve motor nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2002174",
+  "synonym": null
+}
+

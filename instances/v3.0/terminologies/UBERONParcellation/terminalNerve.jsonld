@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/terminalNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002924)]",
+  "description": "The terminal nerve, located anterior to cranial nerve I, is comprised of a group of cells with somata adjacent to the olfactory bulb and processes that extend anteriorly to the olfactory epithelium and posteriorly to the telencephalon. In teleost fish an additional group of axons extends along the optic tract and delivers putative neuromodulators to the retina. It is thought to develop from cranial neural crest. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002924)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002924#terminal-nerve-1",
+  "name": "terminal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002924",
+  "synonym": [
+    "cranial nerve 0",
+    "cranial nerve zero",
+    "nervus terminalis",
+    "terminalis nerve"
+  ]
+}
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/vidianNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the facial nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018412) ('is_a' and 'relationship')]",
+  "description": "A nerve that is formed by the junction of the great petrosal nerve and the deep petrosal nerve and continues on to innervate the palate, nose and lacrimal gland. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018412)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018412#vidian-nerve",
+  "name": "vidian nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018412",
+  "synonym": [
+    "nerve of pterygoid canal",
+    "pterygoid canal nerve",
+    "vidian nerve"
+  ]
+}
+

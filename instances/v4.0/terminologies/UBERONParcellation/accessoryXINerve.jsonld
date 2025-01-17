@@ -1,0 +1,30 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/accessoryXINerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a laryngeal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002019)]",
+  "description": "A cranial nerve that originates from neurons in the medulla and in the cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002019)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002019#accessory-nerve",
+  "name": "accessory XI nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002019",
+  "synonym": [
+    "accessory nerve",
+    "accessory nerve [XI]",
+    "accessory XI",
+    "accessory XI nerve",
+    "cervical accessory nerve",
+    "cranial nerve XI",
+    "eleventh cranial nerve",
+    "nervus accessorius [XI]",
+    "pars spinalis nervus accessorius",
+    "radix spinalis nervus accessorius",
+    "spinal accessory nerve",
+    "spinal accessory nerve tree",
+    "spinal part of accessory nerve",
+    "Willis' nerve"
+  ]
+}
+

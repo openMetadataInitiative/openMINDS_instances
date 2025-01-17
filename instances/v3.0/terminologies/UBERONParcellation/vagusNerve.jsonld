@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/vagusNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001759)]",
+  "description": "Cranial nerve that branches into the lateral (to body sense organs) and the intestino-accessorial (to the skin, muscles of shoulder, hyoid, larynx, gut, lungs, and heart). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001759)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001759#vagus-nerve-1",
+  "name": "vagus nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001759",
+  "synonym": [
+    "nervus vagus [x]",
+    "tenth cranial nerve",
+    "vagus",
+    "vagus nerve [X]",
+    "vagus nerve tree",
+    "vagus X nerve"
+  ]
+}
+

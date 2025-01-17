@@ -1,0 +1,30 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/mandibularNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the trigeminal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000375) ('is_a' and 'relationship')]",
+  "description": "The motor and sensory nerve subdivision of the trigeminal nerve that transmits sensory information from the auricle, the external acoustic meatus, tympanic membrane, temporal region, the cheek, the skin overlying the mandible, the anterior portion of the tongue, the floor of the mouth, lower teeth and gingiva and transmits motor information from the muscles of mastication, the mylohyoid muscle and digastric muscle and the muscles tensor tympani and tensor veli palatini. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000375)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000375#mandibular-nerve",
+  "name": "mandibular nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000375",
+  "synonym": [
+    "inferior maxillary nerve",
+    "mandibular division [V3]",
+    "mandibular division [Vc]",
+    "mandibular division of fifth cranial nerve",
+    "mandibular division of trigeminal nerve [Vc; V3]",
+    "mandibular nerve [V3]",
+    "mandibular nerve [Vc]",
+    "nervus mandibularis [v3]",
+    "nervus mandibularis [Vc; V3]",
+    "nervus mandibularis [vc]",
+    "ramus mandibularis (ramus V3)",
+    "third division of fifth cranial nerve",
+    "third division of trigeminal nerve",
+    "trigeminal V nerve mandibular division"
+  ]
+}
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lumbarNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a spinal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009624)]",
+  "description": "The lumbar nerves are the five spinal nerves emerging from the lumbar vertebrae. They are divided into posterior and anterior divisions. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009624)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009624#lumbar-nerve",
+  "name": "lumbar nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009624",
+  "synonym": [
+    "lumbar spinal nerve",
+    "nervus lumbalis"
+  ]
+}
+
