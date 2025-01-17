@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/materialAnatomicalEntity",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a material entity and anatomical entity. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000465)]",
+  "description": "Anatomical entity that has mass. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000465)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000465#material-anatomical-entity",
+  "name": "material anatomical entity",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000465",
+  "synonym": null
+}
+

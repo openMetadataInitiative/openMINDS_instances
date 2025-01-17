@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/regionalPartOfNervousSystem",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000073) ('is_a' and 'relationship')]",
+  "description": "Any part or collection of parts of the central or peripheral nervous system. Parts may span both CNS and PNS. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000073)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000073#part-of-nervous-system",
+  "name": "regional part of nervous system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000073",
+  "synonym": [
+    "part of nervous system"
+  ]
+}
+
