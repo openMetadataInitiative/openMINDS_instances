@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/insectBolwigOrgan",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an insect internal sensillum and insect embryonic/larval head sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005805)]",
+  "description": "Visual organ of the larva. It consists of a dense cluster of 12 ciliated photoreceptor neurons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005805)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6005805#bolwig-organ",
+  "name": "insect Bolwig organ",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6005805",
+  "synonym": [
+    "Bolwig's organ",
+    "embryonic Bolwig's organ",
+    "embryonic visual system",
+    "larval Bolwig's organ"
+  ]
+}
+
