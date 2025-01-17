@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/headTasteBud",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an integumental taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034720)]",
+  "description": "A taste bud that is located on the skin of the head. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034720)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034720#head-taste-bud",
+  "name": "head taste bud",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034720",
+  "synonym": null
+}
+
