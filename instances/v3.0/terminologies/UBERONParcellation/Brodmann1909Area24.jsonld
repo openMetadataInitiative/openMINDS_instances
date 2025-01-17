@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area24",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. Is part of the anterior cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006101) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006101#brodmann-1909-area-24-1",
+  "name": "Brodmann (1909) area 24",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006101",
+  "synonym": [
+    "area 24 of Brodmann",
+    "area 24 of Brodmann-1909",
+    "area cingularis anterior ventralis",
+    "B09-24",
+    "BA24",
+    "Brodmann (1909) area 24",
+    "Brodmann area 24",
+    "ventral anterior cingulate"
+  ]
+}
+

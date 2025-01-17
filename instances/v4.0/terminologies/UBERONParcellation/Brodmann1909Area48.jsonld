@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area48",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006485)]",
+  "description": "Retrosubicular area 48 is a subdivision of the cytoarchitecturally defined hippocampal region of the cerebral cortex. In the human it is located on the medial surface of the temporal lobe. Cytoarchitectually it is bounded rostrally by the perirhinal area 35 and medially by the presubiculum. While described by Brodmann (Brodmann-1909), it was not included in his areal maps of human cortex (Brodmann-1909; Brodmann-1910). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006485)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006485#brodmann-1909-area-48-1",
+  "name": "Brodmann (1909) area 48",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006485",
+  "synonym": [
+    "area 48 of Brodmann",
+    "area retrosubicularis",
+    "B09-48",
+    "BA48",
+    "Brodmann (1909) area 48",
+    "Brodmann area 48",
+    "Brodmann area 48, retrosubicular",
+    "Brodmann's area 48",
+    "retrosubicular area 48"
+  ]
+}
+

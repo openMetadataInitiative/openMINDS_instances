@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area27",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. Is part of the presubiculum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013558) ('is_a' and 'relationship')]",
+  "description": "Area 27 of Brodmann-1909 is a cytoarchitecturally defined cortical area that is a rostral part of the parahippocampal gyrus of the guenon (Brodmann-1909). It is commonly regarded as a synonym of presubiculum (Crosby-62). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013558)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013558#brodmann-1909-area-27-1",
+  "name": "Brodmann (1909) area 27",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013558",
+  "synonym": [
+    "area 27",
+    "area 27 of Brodmann",
+    "area 27 of Brodmann-1909",
+    "area praesubicularis",
+    "B09-27",
+    "BA27",
+    "Brodmann (1909) area 27",
+    "Brodmann area 26, presubicular",
+    "Brodmann area 27",
+    "presubicular area"
+  ]
+}
+

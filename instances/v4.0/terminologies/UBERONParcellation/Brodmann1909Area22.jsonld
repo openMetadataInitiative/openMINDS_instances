@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area22",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013553)]",
+  "description": "Brodmann area 22 is one of Brodmann's cytologically defined regions of the brain. It is involved in auditory processing. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013553)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013553#brodmann-1909-area-22-1",
+  "name": "Brodmann (1909) area 22",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013553",
+  "synonym": [
+    "area 22 of Brodmann",
+    "area 22 of Brodmann-1909",
+    "area temporalis superior",
+    "area temporalis superior",
+    "B09-22",
+    "Brodmann (1909) area 22",
+    "Brodmann area 22",
+    "Brodmann area 22, superior temporal",
+    "Superior temporal area"
+  ]
+}
+

@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area5",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006471)]",
+  "description": "Brodmann area 5 is one of Brodmann's cytologically defined regions of the brain. It is involved in somatosensory processing and association. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006471)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006471#brodmann-1909-area-5-1",
+  "name": "Brodmann (1909) area 5",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006471",
+  "synonym": [
+    "area 5 of Brodmann-1909",
+    "area praeparietalis",
+    "B09-5",
+    "BA5",
+    "Brodmann (1909) area 5",
+    "Brodmann area 5",
+    "Brodmann area 5, preparietal",
+    "preparietal area 5"
+  ]
+}
+

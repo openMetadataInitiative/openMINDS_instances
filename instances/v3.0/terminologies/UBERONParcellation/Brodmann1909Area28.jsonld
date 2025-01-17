@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area28",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. Is part of the secondary olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013559) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013559#brodmann-1909-area-28-1",
+  "name": "Brodmann (1909) area 28",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013559",
+  "synonym": [
+    "area 28 of Brodmann",
+    "area 28 of Brodmann (Crosby)",
+    "area 28 of Brodmann-1909",
+    "area entorhinalis",
+    "area entorhinalis ventralis",
+    "B09-28",
+    "BA28",
+    "Brodmann (1909) area 28",
+    "Brodmann area 28",
+    "Brodmann area 28, entorhinal"
+  ]
+}
+

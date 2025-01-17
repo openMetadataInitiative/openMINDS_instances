@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area14",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. Is part of the prefrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013545) ('is_a' and 'relationship')]",
+  "description": "Brodmann Area 14 is one of Brodmann's subdivisions of the cerebral cortex in the brain. It was defined by Brodmann in the guenon monkey. No equivalent structure exists in humans. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013545)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013545#brodmann-1909-area-14-1",
+  "name": "Brodmann (1909) area 14",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013545",
+  "synonym": [
+    "area 14 of Brodmann-1909",
+    "B09-14",
+    "Brodmann (1909) area 14",
+    "Brodmann area 14"
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/perirhinalCortexOfBurwellEtAl1995",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a perirhinal cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023936)]",
+  "description": "Rostral portion of the parahippocampal cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023936)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023936#perirhinal-cortex-of-burwell-et-al-1995",
+  "name": "perirhinal cortex of Burwell et al 1995",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023936",
+  "synonym": [
+    "perirhinal cortex of burwell et al 1995"
+  ]
+}
+

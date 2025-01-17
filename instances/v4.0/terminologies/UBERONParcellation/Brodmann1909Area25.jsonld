@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area25",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013556)]",
+  "description": "Brodmann area 25 (BA25) is an area in the cerebral cortex of the brain and delineated based on its cytoarchitectonic characteristics. It is also called the subgenual area or area subgenualis. It is the 25th 'Brodmann area' defined by Korbinian Brodmann (thus its name). BA25 is located in the cingulate region as a narrow band in the caudal portion of the subcallosal area adjacent to the paraterminal gyrus. The posterior parolfactory sulcus separates the paraterminal gyrus from BA25. Rostrally it is bound by the prefrontal area 11 of Brodmann. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013556)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013556#brodmann-1909-area-25-1",
+  "name": "Brodmann (1909) area 25",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013556",
+  "synonym": [
+    "area 25 of Brodmann",
+    "area 25 of Brodmann-1909",
+    "area subgenualis",
+    "B09-25",
+    "Brodmann (1909) area 25",
+    "Brodmann area 25",
+    "Brodmann area 25, subgenual",
+    "Brodmann's area 25"
+  ]
+}
+

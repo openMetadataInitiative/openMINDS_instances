@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/OngurPriceAndFerry2003AreaIam",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an Ongur, Price, and Ferry (2003) prefrontal cortical partition scheme region. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028433)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0028433#ongur-price-and-ferry-2003-area-iam-1",
+  "name": "Ongur, Price, and Ferry (2003) area Iam",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0028433",
+  "synonym": [
+    "ongur, price, and ferry (2003) area iam",
+    "ongur, price, and ferry (2003) area iam"
+  ]
+}
+

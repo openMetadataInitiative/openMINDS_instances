@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area39",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006480)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006480#brodmann-1909-area-39-1",
+  "name": "Brodmann (1909) area 39",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006480",
+  "synonym": [
+    "angular area 39",
+    "area 39 of Brodmann",
+    "area 39 of Brodmann-1909",
+    "area angularis",
+    "B09-39",
+    "BA39",
+    "Brodmann (1909) area 39",
+    "Brodmann area 39",
+    "Brodmann area 39, angular"
+  ]
+}
+

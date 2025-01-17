@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area33",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006476) ('is_a' and 'relationship')]",
+  "description": "Brodmann area 33, also known as pregenual area 33, is a subdivision of the cytoarchitecturally defined cingulate region of cerebral cortex. It is a narrow band located in the anterior cingulate gyrus adjacent to the supracallosal gyrus in the depth of the callosal sulcus, near the genu of the corpus callosum. Cytoarchitecturally it is bounded by the ventral anterior cingulate area 24 and the supracallosal gyrus (Brodmann-1909). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006476)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006476#brodmann-1909-area-33-1",
+  "name": "Brodmann (1909) area 33",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006476",
+  "synonym": [
+    "area 33 of Brodmann",
+    "area 33 of Brodmann-1909",
+    "area praegenualis",
+    "area praegenualis",
+    "B09-33",
+    "BA33",
+    "Brodmann (1909) area 33",
+    "Brodmann area 33",
+    "Brodmann area 33, pregenual",
+    "Brodmann's area 33",
+    "pregenual area 33"
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/basalGangliaOfRodent",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a collection of basal ganglia. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023920)]",
+  "description": "The basal ganglia of the rodent. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023920)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023920#basal-ganglia-of-rodent-1",
+  "name": "basal ganglia of rodent",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023920",
+  "synonym": [
+    "basal ganglia of rodent"
+  ]
+}
+

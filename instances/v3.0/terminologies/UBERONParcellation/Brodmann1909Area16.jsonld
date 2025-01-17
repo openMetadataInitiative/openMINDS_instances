@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area16",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013547)]",
+  "description": "Brodmann area 16 is a subdivision of the cerebral cortex of the guenon defined on the basis of cytoarchitecture. It is a relatively undifferentiated cortical area that Brodmann regarded as part of the insula because of the relation of its innermost multiform layer (VI) with the claustrum (VICl). The laminar organization of cortex is almost totally lacking. The molecular layer (I) is wide as in area 15 of Brodmann-1905. The space between layer I and layer VI is composed of a mixture of pyramidal cells and spindle cells with no significant number of granule cells. Pyramidal cells clump in the outer part to form glomeruli similar to those seen in some of the primary olfactory areas (Brodmann-1905). This term also refers to an area known as peripaleocortical claustral - a cytoarchitecturally defined (agranular) portion of the insula at its rostral extreme where it approaches most closely the claustrum and the prepyriform area (Stephan-76). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013547)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013547#brodmann-1909-area-16-1",
+  "name": "Brodmann (1909) area 16",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013547",
+  "synonym": [
+    "area 16 of Brodmann",
+    "area 16 of Brodmann-1909",
+    "B09-16",
+    "Brodmann (1909) area 16",
+    "Brodmann area 16"
+  ]
+}
+

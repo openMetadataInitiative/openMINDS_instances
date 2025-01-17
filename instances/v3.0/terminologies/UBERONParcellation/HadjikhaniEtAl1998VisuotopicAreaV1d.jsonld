@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/HadjikhaniEtAl1998VisuotopicAreaV1d",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Hadjikhani et al. (1998) visuotopic partition scheme region. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028398)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0028398#hadjikhani-et-al-1998-visuotopic-area-v1d-1",
+  "name": "Hadjikhani et al. (1998) visuotopic area V1d",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0028398",
+  "synonym": [
+    "Hadjikhani et al. (1998) visuotopic area v1d",
+    "Hadjikhani et al. (1998) visuotopic area v1d"
+  ]
+}
+

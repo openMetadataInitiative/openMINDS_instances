@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area36",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. Is part of the perirhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006104) ('is_a' and 'relationship')]",
+  "description": "Ectorhinal area 36 is a subdivision of the cytoarchitecturally defined temporal region of cerebral cortex. With its medial boundary corresponding approximately to the rhinal sulcus it is located primarily in the fusiform gyrus. Cytoarchitecturally it is bounded laterally and caudally by the inferior temporal area 20, medially by the perirhinal area 35 and rostrally by the temporopolar area 38 (H) (Brodmann-1909). Together with Brodmann area 35, it comprises the perirhinal cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006104)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006104#brodmann-1909-area-36-1",
+  "name": "Brodmann (1909) area 36",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006104",
+  "synonym": [
+    "area 36 of Brodmann",
+    "area 36 of Brodmann-1909",
+    "area ectorhinalis",
+    "B09-36",
+    "BA36",
+    "Brodmann (1909) area 36",
+    "Brodmann area 36",
+    "ectorhinal",
+    "ectorhinal area 36"
+  ]
+}
+

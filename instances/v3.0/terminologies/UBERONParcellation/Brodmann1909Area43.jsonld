@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area43",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013561)]",
+  "description": "Brodmann area 43 is a subdivision of the cerebral cortex of the guenon defined on the basis of cytoarchitecture. It was described (but not labeled) on the map of cortical areas in Brodmann-1909, and it was regarded as cytoarchitecturally homologous to area 30 of Mauss in 1908 in the guenon and subcentral area 43 of the human (Brodmann-1909). The Vogts found no distinctive architectonic area of the corresponding location in the guenon (Vogts-1919). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013561)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013561#brodmann-1909-area-43-1",
+  "name": "Brodmann (1909) area 43",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013561",
+  "synonym": [
+    "area 43 of brodmann",
+    "area 43 of Brodmann-1909",
+    "area subcentralis",
+    "B09-43",
+    "Brodmann (1909) area 43",
+    "Brodmann area 43",
+    "Brodmann area 43, subcentral"
+  ]
+}
+

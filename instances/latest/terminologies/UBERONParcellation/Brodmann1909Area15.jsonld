@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area15",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013546)]",
+  "description": "Brodmann Area 15 is one of Brodmann's subdivisions of the cerebral cortex in the brain. Area 15 was defined by Brodmann in the guenon monkey, but he found no equivalent structure in humans. However, functional imaging experiments have found structures that may be homologous. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013546)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013546#brodmann-1909-area-15-1",
+  "name": "Brodmann (1909) area 15",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013546",
+  "synonym": [
+    "area 15 of Brodmann-1909",
+    "B09-15",
+    "Brodmann (1909) area 15",
+    "Brodmann area 15"
+  ]
+}
+

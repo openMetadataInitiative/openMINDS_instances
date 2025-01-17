@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area19",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. Is part of the extrastriate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013550) ('is_a' and 'relationship')]",
+  "description": "Brodmann area 19, or BA19, is part of the occipital lobe cortex in the human brain. Along with area 18, it comprises the extrastriate (or peristriate) cortex. In normally-sighted humans, extrastriate cortex is a visual association area, with feature-extracting, shape recognition, attentional, and multimodal integrating functions. This area is also known as peristriate area 19, and it refers to a subdivision of the cytoarchitecturally defined occipital region of cerebral cortex. In the human it is located in parts of the lingual gyrus, the cuneus, the lateral occipital gyrus (H) and the superior occipital gyrus (H) of the occipital lobe where it is bounded approximately by the parieto-occipital sulcus. Cytoarchitecturally it is bounded on one side by the parastriate area 18 which it surrounds. Rostrally it is bounded by the angular area 39 (H) and the occipitotemporal area 37 (H) (Brodmann-1909). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013550)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013550#brodmann-1909-area-19-1",
+  "name": "Brodmann (1909) area 19",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013550",
+  "synonym": [
+    "area 19 of Brodmann",
+    "area 19 of Brodmann-1909",
+    "area peristriata",
+    "B09-19",
+    "Brodmann (1909) area 19",
+    "Brodmann area 19",
+    "Brodmann area 19, peristriate",
+    "Brodmann's area 19",
+    "preoccipital area"
+  ]
+}
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/OngurPriceAndFerry2003PrefrontalCorticalPartitionSchemeRegion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026777) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026777#ongur-price-and-ferry-2003-prefrontal-cortical-partition-scheme-region-1",
+  "name": "Ongur, Price, and Ferry (2003) prefrontal cortical partition scheme region",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026777",
+  "synonym": [
+    "ongur, price, and ferry (2003) prefrontal cortical partition scheme region",
+    "ongur, price, and ferry (2003) prefrontal cortical partition scheme region"
+  ]
+}
+

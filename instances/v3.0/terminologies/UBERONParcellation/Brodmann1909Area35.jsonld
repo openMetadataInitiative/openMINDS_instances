@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area35",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. Is part of the perirhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006102) ('is_a' and 'relationship')]",
+  "description": "Brodmann area 35, together with Brodmann area 36, is most frequently referred to as perirhinal cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006102)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006102#brodmann-1909-area-35-1",
+  "name": "Brodmann (1909) area 35",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006102",
+  "synonym": [
+    "area 35 of Brodmann",
+    "area 35 of Brodmann-1909",
+    "area perirhinalis",
+    "B09-35",
+    "BA35",
+    "Brodmann (1909) area 35",
+    "Brodmann area 35",
+    "Brodmann area 35, perirhinal",
+    "Brodmann's area 35",
+    "perirhinal area 35"
+  ]
+}
+

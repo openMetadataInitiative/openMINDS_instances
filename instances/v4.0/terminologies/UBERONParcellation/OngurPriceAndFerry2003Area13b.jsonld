@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/OngurPriceAndFerry2003Area13b",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an Ongur, Price, and Ferry (2003) prefrontal cortical partition scheme region. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028418)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0028418#ongur-price-and-ferry-2003-area-13b-1",
+  "name": "Ongur, Price, and Ferry (2003) area 13b",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0028418",
+  "synonym": [
+    "ongur, price, and ferry (2003) area 13b",
+    "ongur, price, and ferry (2003) area 13b"
+  ]
+}
+

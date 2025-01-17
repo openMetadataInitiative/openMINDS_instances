@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area31",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006475)]",
+  "description": "Brodmann area 31, also known as dorsal posterior cingulate area 31, is a subdivision of the cytoarchitecturally defined cingulate region of the cerebral cortex. In the human it occupies portions of the posterior cingulate gyrus and medial aspect of the parietal lobe. Approximate boundaries are the cingulate sulcus dorsally and the parieto-occipital sulcus caudally. It partially surrounds the subparietal sulcus, the ventral continuation of the cingulate sulcus in the parietal lobe. Cytoarchitecturally it is bounded rostrally by the ventral anterior cingulate area 24, ventrally by the ventral posterior cingulate area 23, dorsally by the gigantopyramidal area 4 and preparietal area 5 and caudally by the superior parietal area 7 (H) (Brodmann-1909). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006475)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006475#brodmann-1909-area-31-1",
+  "name": "Brodmann (1909) area 31",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006475",
+  "synonym": [
+    "area 31 of Brodmann",
+    "area 31 of Brodmann-1909",
+    "area cingularis posterior dorsalis",
+    "area cingularis posterior dorsalis",
+    "B09-31",
+    "BA31",
+    "Brodmann (1909) area 31",
+    "Brodmann area 31",
+    "Brodmann area 31, dorsal posterior cingulate",
+    "Brodmann's area 31",
+    "cinguloparietal transition area",
+    "dorsal posterior cingulate area 31"
+  ]
+}
+

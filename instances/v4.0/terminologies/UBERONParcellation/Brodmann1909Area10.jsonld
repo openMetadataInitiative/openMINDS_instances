@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area10",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. Is part of the prefrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013541) ('is_a' and 'relationship')]",
+  "description": "Brodmann area 10, or BA10, is part of the frontal cortex in the human brain. BA10 encompasses the most anterior part of the frontal cortex, known as the frontopolar region. This area is believed to play a part in strategic processes involved in memory retrieval and executive function. This area is also called frontopolar area 10, and it refers to a subdivision of the cytoarchitecturally defined frontal region of cerebral cortex. It occupies the most rostral portions of the superior frontal gyrus and the middle frontal gyrus. In humans, on the medial aspect of the hemisphere it is bounded ventrally by the superior rostral sulcus (H). It does not extend as far as the cingulate sulcus. Cytoarchitecturally it is bounded dorsally by the granular frontal area 9, caudally by the middle frontal area 46, and ventrally by the orbital area 47 and by the rostral area 12 or, in an early version of Brodmann's cortical map (Brodmann-1909), the prefrontal Brodmann area 11-1909. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013541)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013541#brodmann-1909-area-10-1",
+  "name": "Brodmann (1909) area 10",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013541",
+  "synonym": [
+    "area 10 of Brodmann",
+    "area 10 of Brodmann-1909",
+    "area frontopolaris",
+    "B09-10",
+    "Brodmann (1909) area 10",
+    "Brodmann area 10",
+    "Brodmann area 10, frontoplar",
+    "lateral orbital area"
+  ]
+}
+

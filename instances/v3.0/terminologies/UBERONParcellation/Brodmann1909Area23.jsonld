@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area23",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013554)]",
+  "description": "The term area 23 of Brodmann-1909 refers to a subdivision of the cerebral cortex of the guenon defined on the basis of cytoarchitecture. Brodmann regarded it as topographically and cytoarchitecturally homologous to the combined ventral posterior cingulate area 23 and dorsal posterior cingulate area 31 of the human (Brodmann-1909). Distinctive Features (Brodmann-1905): the cortex is relatively thin; smaller cells predominate; the cell density of the multiform layer (VI) is great, producing a distinct boundary with the subcortical white matter; the internal granular layer (IV) is rather well developed; the internal pyramidal layer (V) contains a dense population of round, medium-sized ganglion cells concentrated at the border with layer IV; layers V and VI are narrow with a distinct mutual boundary.nn* Definition Source NeuroNames. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013554)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013554#brodmann-1909-area-23-1",
+  "name": "Brodmann (1909) area 23",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013554",
+  "synonym": [
+    "area 23 of Brodmann",
+    "area 23 of Brodmann-1909",
+    "area cingularis posterior ventralis",
+    "area cingularis posterior ventralis",
+    "B09-23",
+    "Brodmann (1909) area 23",
+    "Brodmann area 23",
+    "Brodmann area 23, ventral posterior cingulate",
+    "granular cingulate area",
+    "posterior cingulate area"
+  ]
+}
+

@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area52",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006486)]",
+  "description": "Parainsular area 52 (H) is a subdivision of the cytoarchitecturally defined temporal region of cerebral cortex. It is located in the bank of the lateral sulcus on the dorsal surface of the temporal lobe. Its medial boundary corresponds approximately to the junction between the temporal lobe and the insula. Cytoarchitecturally it is bounded laterally by the anterior transverse temporal area 42 (H) (Brodmann-1909). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006486)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006486#brodmann-1909-area-52-1",
+  "name": "Brodmann (1909) area 52",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006486",
+  "synonym": [
+    "area 52 of Brodmann",
+    "area parainsularis",
+    "B09-52",
+    "BA52",
+    "Brodmann (1909) area 52",
+    "Brodmann area 52",
+    "Brodmann area 52, parainsular",
+    "parainsular area 52"
+  ]
+}
+
