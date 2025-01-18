@@ -4,11 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/flocculonodularLobeHemispherePortion",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Flocculonodular lobe, hemisphere portion' is a regional part of cerebellar cortex. It is part of the cerebellar hemisphere and flocculonodular lobe.",
+  "definition": "Is a regional part of cerebellar cortex. Is part of the cerebellar hemisphere and the flocculonodular lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027331) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104947",
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0027331#flocculonodular-lobe-hemisphere-portion",
   "name": "flocculonodular lobe, hemisphere portion",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0027331",
-  "synonym": null
+  "synonym": [
+    "hemispheric part of the flocculonodular lobe of the cerebellum",
+    "hemispheric part of the flocculonodular lobe of the cerebellum"
+  ]
 }
+
