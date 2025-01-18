@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/borderOfSublaminarLayersS2AndS3",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a border between sublaminar layers. Is part of the sublaminar layers S2 or S3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009852) ('is_a' and 'relationship')]",
+  "description": "The intersection of sublaminar layers S2 and S3. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009852)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009852#border-of-sublaminar-layers-s2-and-s3",
+  "name": "border of sublaminar layers S2 and S3",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009852",
+  "synonym": null
+}
+

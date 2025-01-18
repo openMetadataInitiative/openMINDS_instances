@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/borderBetweenSublaminarLayers",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nervous system cell part layer. Is part of the retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009740) ('is_a' and 'relationship')]",
+  "description": "A region of the retina corresponding to a portion of two adjacent substratum layers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009740)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009740#border-between-sublaminar-layers",
+  "name": "border between sublaminar layers",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009740",
+  "synonym": null
+}
+

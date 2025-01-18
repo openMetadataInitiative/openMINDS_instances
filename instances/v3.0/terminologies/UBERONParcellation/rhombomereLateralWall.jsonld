@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomereLateralWall",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the rhombomere. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005501)]",
+  "description": "A neural tube lateral wall that is part of a rhombomere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005501)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005501#rhombomere-lateral-wall",
+  "name": "rhombomere lateral wall",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005501",
+  "synonym": null
+}
+
