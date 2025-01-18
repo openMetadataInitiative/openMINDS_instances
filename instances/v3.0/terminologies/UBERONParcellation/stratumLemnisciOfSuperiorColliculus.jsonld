@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLemnisciOfSuperiorColliculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a gray matter layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006782)]",
+  "description": "Composite layer of the superior colliculus lying deep to the stratum opticum, that can be further subdivided into fiber and cell rich layers (Brodal, Neurological Anatomy, 2nd ed., 1981, pg 544) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006782)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006782#stratum-lemnisci-of-superior-colliculus",
+  "name": "stratum lemnisci of superior colliculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006782",
+  "synonym": null
+}
+

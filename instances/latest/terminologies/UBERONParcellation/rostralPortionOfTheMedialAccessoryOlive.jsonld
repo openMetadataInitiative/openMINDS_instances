@@ -4,14 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rostralPortionOfTheMedialAccessoryOlive",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Rostral portion of the medial accessory olive' is a regional part of brain. It is part of the inferior olivary complex.",
-  "description": "",
+  "definition": "Is a regional part of brain. Is part of the inferior olivary complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024043) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110220",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0024043#rostral-portion-of-the-medial-accessory-olive-1",
   "name": "rostral portion of the medial accessory olive",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024043",
   "synonym": [
-    "RMAO",
+    "rostral portion of the medial accessory olive",
     "rostral portion of the medial accessory olive"
   ]
 }
+

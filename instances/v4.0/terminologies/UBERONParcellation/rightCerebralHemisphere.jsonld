@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rightCerebralHemisphere",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002813)]",
+  "description": "A cerebral hemisphere that is in the right side of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002813)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002813#right-cerebral-hemisphere-1",
+  "name": "right cerebral hemisphere",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002813",
+  "synonym": [
+    "right hemisphere"
+  ]
+}
+
