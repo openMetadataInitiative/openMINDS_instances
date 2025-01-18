@@ -5,7 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/circuitPartOfCentralNervousSystem",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "Is a regional part of nervous system. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024914) ('is_a' and 'relationship')]",
-  "description": "A collection of neuronal components interacting in a functional circuit. A neural circuit is bounded by the nervous sytem regions in which its participating neuronal components are contained (BB). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024914)]",
+  "description": "A collection of neuronal components interacting in a functional circuit. A neural circuit is bounded by the nervous system regions in which its participating neuronal components are contained (BB). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024914)]",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0024914#circuit-part-of-central-nervous-system-1",
   "name": "circuit part of central nervous system",
