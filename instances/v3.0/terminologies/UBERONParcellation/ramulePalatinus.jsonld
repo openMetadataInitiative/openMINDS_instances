@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ramulePalatinus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a ramus nasalis internus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010665)]",
+  "description": "Ramules that descends towards the buccal roof and give rise to several short branches that anastomose with palatine ramus of the facial nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010665)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010665#ramule-palatinus",
+  "name": "ramule palatinus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010665",
+  "synonym": null
+}
+

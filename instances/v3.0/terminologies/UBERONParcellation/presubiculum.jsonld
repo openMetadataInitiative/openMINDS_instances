@@ -4,17 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/presubiculum",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Presubiculum' is part of the hippocampal formation and parahippocampal gyrus.",
-  "description": "A modified six-layered cortex between the subiculum and the main part of the parahippocampal gyrus.",
+  "definition": "Is part of the hippocampal formation and the parahippocampal gyrus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001953)]",
+  "description": "A modified six-layered cortex between the subiculum and the main part of the parahippocampal gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001953)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109252",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001953#presubiculum-1",
   "name": "presubiculum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001953",
   "synonym": [
-    "Area 27 of Brodmann",
-    "praesubiculum",
     "presubicular cortex (presubiculum)",
-    "presubiculum (Cajal)",
-    "PrS"
+    "presubiculum (Cajal)"
   ]
 }
+
