@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralMedialComplexOfThalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an aggregate regional part of brain. Is part of the ventral nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000431) ('is_a' and 'relationship')]",
+  "description": "A group of nuclei located in the medial portion of the ventral thalamic nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000431)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000431#ventral-medial-complex-of-thalamus",
+  "name": "ventral medial complex of thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000431",
+  "synonym": [
+    "ventral medial complex of thalamus",
+    "ventral medial nuclei of thalamus"
+  ]
+}
+

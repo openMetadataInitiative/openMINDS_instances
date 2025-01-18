@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/vestibularEpithelium",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sensory epithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006932)]",
+  "description": "An epithelium that is part of a vestibular labyrinth. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006932)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006932#vestibular-epithelium",
+  "name": "vestibular epithelium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006932",
+  "synonym": [
+    "epithelium of vestibular labyrinth",
+    "inner ear vestibular component epithelium",
+    "vestibular sensory epithelium"
+  ]
+}
+

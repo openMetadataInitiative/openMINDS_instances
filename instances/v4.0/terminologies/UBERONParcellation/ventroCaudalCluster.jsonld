@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventroCaudalCluster",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a midbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2007003)]",
+  "description": "Early-forming neural cluster of the ventral midbrain. At 16 h, axons of the vcc grow caudally to pioneer the medial longitudinal fasciculus (MLF), which is part of the larger ventral longitudinal tract (VLT). Later, neurons from this cluster project axons rostrally into the tract of the post-optic commissure (TPOC). Ross et al., 1992. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2007003)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2007003#ventro-caudal-cluster",
+  "name": "ventro-caudal cluster",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2007003",
+  "synonym": [
+    "vcc",
+    "ventrocaudal cluster"
+  ]
+}
+

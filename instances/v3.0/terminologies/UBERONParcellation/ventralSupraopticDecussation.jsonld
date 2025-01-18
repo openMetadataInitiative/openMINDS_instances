@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralSupraopticDecussation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a commissure of diencephalon. Is part of the anterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002676) ('is_a' and 'relationship')]",
+  "description": "The ventral supraoptic decussation is the crossover point for signals from the left and right eye, en route respectively to the right and left sides of the visual cortex. Occupying the posterior part of the commissure of the optic chiasma is a strand of fibers, the Ventral supraoptic decussation (commissure of Gudden, Gudden's inferior commissure), which is not derived from the optic nerves; it forms a connecting link between the medial geniculate bodies. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002676)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002676#ventral-supraoptic-decussation-1",
+  "name": "ventral supraoptic decussation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002676",
+  "synonym": [
+    "commissura supraoptica ventralis",
+    "commissure of Gudden",
+    "Gudden commissure",
+    "Gudden's commissure",
+    "supraoptic commissures, ventral",
+    "ventral supra-optic commissure",
+    "ventral supraoptic commissure (of Meynert)",
+    "ventral supraoptic decussation",
+    "von Gudden's commissure",
+    "VSOX"
+  ]
+}
+

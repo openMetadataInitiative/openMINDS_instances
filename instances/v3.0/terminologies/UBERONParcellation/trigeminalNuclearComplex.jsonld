@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNuclearComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nuclear complex of neuraxis. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007641)]",
+  "description": "The sensory trigeminal nerve nuclei are the largest of the cranial nerve nuclei, and extend through the whole of the midbrain, pons and medulla. There is also a distinct trigeminal motor nucleus that is medial to the chief sensory nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007641)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007641#trigeminal-nuclear-complex-1",
+  "name": "trigeminal nuclear complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007641",
+  "synonym": [
+    "trigeminal nuclei"
+  ]
+}
+
