@@ -4,22 +4,19 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/striatum",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Striatum' is a gray matter of telencephalon. It is part of the ventral part of telencephalon, corpus striatum and basal nuclear complex.",
-  "description": "* Externally Sourced Definition: A region of the brain consisting of the phylogenetically newer part of the Corpus_striatum (Caudate_nucleus and Putamen).",
+  "definition": "Is a gray matter of telencephalon. Is part of the ventral part of telencephalon, the corpus striatum and the basal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002435) ('is_a' and 'relationship')]",
+  "description": "A region of the forebrain consisting of the caudate nucleus, putamen and fundus striati. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002435)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111098",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002435#striatum",
   "name": "striatum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002435",
   "synonym": [
-    "caudate putamen",
-    "corpus striatum",
-    "corpus striatum (Zilles)",
-    "dorsal striatum",
+    "neostriatum",
     "neostriatum",
     "neuraxis striatum",
     "striate nucleus",
-    "striated nucleus",
     "striatum",
     "striatum of neuraxis"
   ]
 }
+

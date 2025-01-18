@@ -2,16 +2,16 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/sommersSector",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/SommersSector",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Sommer's sector' is a regional part of brain. It is part of the hippocampal formation.",
-  "description": "Part of hippocampal formation comprising area CA1 and the subiculum (pg 425, Heimer, L. The human brain and spinal cord, Springer-Verlag, 1995)",
+  "definition": "Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023932) ('is_a' and 'relationship')]",
+  "description": "Part of hippocampal formation comprising area CA1 and the subiculum (pg 425, Heimer, L. The human brain and spinal cord, Springer-Verlag, 1995) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023932)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110759",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023932#sommer-s-sector-1",
   "name": "Sommer's sector",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023932",
   "synonym": [
-    "sommer's sector",
-    "sommers sector"
+    "sommer's sector"
   ]
 }
+

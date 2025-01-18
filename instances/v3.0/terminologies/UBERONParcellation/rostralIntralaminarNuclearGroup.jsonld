@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rostralIntralaminarNuclearGroup",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Rostral intralaminar nuclear group' is a nucleus of dorsal thalamus. It is part of the intralaminar nuclear group.",
-  "description": "",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the intralaminar nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002965) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110211",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002965#rostral-intralaminar-nuclei",
   "name": "rostral intralaminar nuclear group",
@@ -13,9 +13,9 @@
   "synonym": [
     "anterior group of intralaminar nuclei",
     "nuclei intralaminares rostrales",
-    "RIL",
     "rostral group of intralaminar nuclei",
     "rostral intralaminar nuclear group",
     "rostral intralaminar nuclei"
   ]
 }
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rightSubLobarRegion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sub-lobar region. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024901)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0024901#right-sub-lobar-region-1",
+  "name": "right sub-lobar region",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024901",
+  "synonym": [
+    "right sub-lobar region",
+    "right sub-lobar region"
+  ]
+}
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/striosome",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a chemoarchitectural part of striatum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027371)]",
+  "description": "One of two compartments identified in the neostriatum, particularly the caudate nucleus, on the basis of differential staining for several biochemical markers such as acetylcholinesterase and calbindin. In individual sections, the striosomes appear as small patches of differentially high or low staining activity. In three dimensions, they form a 3D labyrinth extending throughout the caudate nucleus and in the putamen. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027371)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0027371#striosome",
+  "name": "striosome",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0027371",
+  "synonym": [
+    "striosomal compartment",
+    "striosome"
+  ]
+}
+
