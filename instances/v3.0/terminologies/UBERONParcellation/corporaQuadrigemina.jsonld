@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corporaQuadrigemina",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the midbrain tectum. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002259)]",
+  "description": "Either of the two pairs of colliculi on the dorsal surface of the midbrain composed of white matter externally and gray matter within, the superior pair containing correlation centers for optic reflexes and the inferior pair containing correlation centers for auditory reflexes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002259)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002259#corpora-quadrigemina",
+  "name": "corpora quadrigemina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002259",
+  "synonym": [
+    "colliculi",
+    "corpora quadrigemina",
+    "quadrigeminal body"
+  ]
+}
+

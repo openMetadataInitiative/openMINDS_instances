@@ -4,28 +4,16 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebralCrus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Cerebral crus' is a white matter of midbrain. It is part of the cerebral peduncle.",
-  "description": "The cerebral crus is the most anterior portion of the midbrain which consists of a massive band of nerve fibers originating primarily from the cerebral cortex.",
+  "definition": "Is a white matter of midbrain. Is part of the cerebral peduncle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002631) ('is_a' and 'relationship')]",
+  "description": "The cerebral crus is the anterior portion of the cerebral peduncle which contains the motor tracts, the plural of which is cerebral crura. In some older texts, it is used as a synonym for the entire cerebral peduncle, not just the anterior portion of it. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002631)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101990",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002631#cerebral-crus-1",
   "name": "cerebral crus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002631",
   "synonym": [
-    "basal part",
-    "base of cerebral peduncle",
-    "basis cerebri (Oertel)",
-    "basis pedunculi (Oertel)",
-    "basis pedunculi cerebri (Willis)",
-    "ccr",
-    "cerebral peduncle",
     "cerebral peduncle (clinical definition)",
     "crura cerebri",
-    "crus cerebri",
-    "crus of the cerebral peduncle",
-    "pars basalis",
-    "pars neo-encephalica pedunculi",
-    "pedunculus cerebri",
-    "pes pedunculi",
-    "pes pedunculi of midbrain"
+    "crus cerebri"
   ]
 }
+
