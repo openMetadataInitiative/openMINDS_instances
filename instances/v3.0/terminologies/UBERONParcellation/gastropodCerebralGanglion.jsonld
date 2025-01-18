@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/gastropodCerebralGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008942)]",
+  "description": "The cerebral ganglia are primarily sensual centres, that compute information from the eyes as well as from the tactile and position sensors (statocystes). Besides coordination they also serve the locational memory of a snail. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008942)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008942#gastropod-cerebral-ganglion",
+  "name": "gastropod cerebral ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008942",
+  "synonym": [
+    "cerebral ganglion"
+  ]
+}
+

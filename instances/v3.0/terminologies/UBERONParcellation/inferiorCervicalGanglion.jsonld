@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCervicalGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cervical ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002440)]",
+  "description": "The inferior cervical ganglion is situated between the base of the transverse process of the last cervical vertebra and the neck of the first rib, on the medial side of the costocervical artery. Its form is irregular; it is larger in size than the middle cervical ganglion, and is frequently fused with the first thoracic ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002440)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002440#inferior-cervical-ganglion",
+  "name": "inferior cervical ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002440",
+  "synonym": [
+    "variant cervical ganglion"
+  ]
+}
+
