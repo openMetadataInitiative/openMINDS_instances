@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/earlyMidbrainVesicle",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a future brain vesicle. Is part of the midbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013148) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013148#early-midbrain-vesicle",
+  "name": "early midbrain vesicle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013148",
+  "synonym": [
+    "midbrain vesicle"
+  ]
+}
+
