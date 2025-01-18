@@ -4,11 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellumVermisLobule",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Cerebellum vermis lobule' is a cerebellum lobule. It is part of the cerebellar vermis.",
-  "description": "The region of a cerebellar lobule that resides in the central section of the cerebellum between the two hemispheres.",
+  "definition": "Is a cerebellum lobule. Is part of the cerebellar vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004070) ('is_a' and 'relationship')]",
+  "description": "The region of a cerebellar lobule that resides in the central section of the cerebellum between the two hemispheres. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004070)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109877",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004070#cerebellum-vermis-lobule",
   "name": "cerebellum vermis lobule",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004070",
-  "synonym": null
+  "synonym": [
+    "lobule of vermis"
+  ]
 }
+

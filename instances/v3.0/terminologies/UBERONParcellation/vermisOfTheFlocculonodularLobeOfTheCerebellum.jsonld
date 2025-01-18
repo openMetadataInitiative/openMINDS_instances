@@ -4,14 +4,16 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/vermisOfTheFlocculonodularLobeOfTheCerebellum",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Vermis of the flocculonodular lobe of the cerebellum' is a cerebellar vermis.",
-  "description": "",
+  "definition": "Is a cerebellar vermis. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024037)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112409",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0024037#vermis-of-the-flocculonodular-lobe-of-the-cerebellum-1",
   "name": "vermis of the flocculonodular lobe of the cerebellum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024037",
   "synonym": [
     "flocculonodular vermis",
+    "vermis of the flocculonodular lobe of the cerebellum",
     "vermis of the flocculonodular lobe of the cerebellum"
   ]
 }
+

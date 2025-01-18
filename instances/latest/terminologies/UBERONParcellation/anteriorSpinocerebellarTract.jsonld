@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/anteriorSpinocerebellarTract",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a tract of brain. Is part of the medulla oblongata and the spinocerebellar tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002987) ('is_a' and 'relationship')]",
+  "description": "Runs through the ventrolateral surface of the spinal cord. It enters the cerebellum through the superior cerebellar peduncle. It crosses the midline at the segmental level and recrosses in the cerebellum. Its terminals are distributed in the cerebellar anterior lobe, preferentially in the ipsilateral intermediate cortex. Rostrally, it extends to lobule II. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002987)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002987#anterior-spinocerebellar-tract-1",
+  "name": "anterior spinocerebellar tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002987",
+  "synonym": [
+    "Gower's tract",
+    "Gowers' tract",
+    "ventral spinocerebellar tract"
+  ]
+}
+
