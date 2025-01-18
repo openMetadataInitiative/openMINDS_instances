@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialOlfactoryStria",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a stria of neuraxis. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034734)]",
+  "description": "The medial olfactory stria turns medialward behind the parolfactory area and ends in the subcallosal gyrus; in some cases a small intermediate stria is seen running backward to the anterior perforated substance. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034734)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034734#medial-olfactory-stria",
+  "name": "medial olfactory stria",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034734",
+  "synonym": [
+    "stria olfactoria medialis"
+  ]
+}
+

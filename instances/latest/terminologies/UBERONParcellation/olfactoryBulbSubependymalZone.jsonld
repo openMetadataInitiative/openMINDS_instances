@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/olfactoryBulbSubependymalZone",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an olfactory bulb layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005380)]",
+  "description": "The region of mitotically active layer of cells surrounding the lateral brain ventricles that consists of migrating neuroblasts, astrocytes and transitory amplifying progenitor cells, that produce neurons that migrate to the olfactory bulb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005380)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005380#olfactory-bulb-subependymal-zone",
+  "name": "olfactory bulb subependymal zone",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005380",
+  "synonym": null
+}
+
