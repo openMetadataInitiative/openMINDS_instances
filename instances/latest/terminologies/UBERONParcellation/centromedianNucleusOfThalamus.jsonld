@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/centromedianNucleusOfThalamus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Centromedian nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the intralaminar nuclear group.",
-  "description": "In the anatomy of the brain, the centromedian nucleus, also known as the centrum medianum, (CM or Cm-Pf) is a part of the intralaminar nucleus (ILN) of the thalamus. There are two centromedian nuclei arranged bilaterally. It contains about 2000 neurons per cubic millimetre and has a volume of about 310 cubic millimetres with 664,000 neurons in total. [WP,unvetted].",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the intralaminar nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002972) ('is_a' and 'relationship')]",
+  "description": "In the anatomy of the brain, the centromedian nucleus, also known as the centrum medianum, (CM or Cm-Pf) is a part of the intralaminar nucleus (ILN) of the thalamus. There are two centromedian nuclei arranged bilaterally. It contains about 2000 neurons per cubic millimetre and has a volume of about 310 cubic millimetres with 664,000 neurons in total. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002972)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101921",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002972#centromedian-nucleus",
   "name": "centromedian nucleus of thalamus",
@@ -14,14 +14,12 @@
     "central magnocellular nucleus of thalamus",
     "central nucleus-1",
     "centre median nucleus",
-    "centromedial thalamic nucleus",
     "centromedian nucleus",
     "centromedian nucleus of thalamus",
     "centromedian thalamic nucleus",
     "centrum medianum",
     "centrum medianum thalami",
-    "CMn",
-    "Noyau centre median of Luys",
+    "noyau centre median of Luys",
     "nucleus centralis centralis",
     "nucleus centralis thalami (Hassler)",
     "nucleus centri mediani thalami",
@@ -30,3 +28,4 @@
     "nucleus centrum medianum"
   ]
 }
+
