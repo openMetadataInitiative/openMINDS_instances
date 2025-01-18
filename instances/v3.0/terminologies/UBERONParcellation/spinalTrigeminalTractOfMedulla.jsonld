@@ -4,14 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfMedulla",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Spinal trigeminal tract of medulla' is a spinal trigeminal tract. It is part of the medulla oblongata.",
-  "description": "Part of spinal trigeminal tract located in the medulla",
+  "definition": "Is a spinal trigeminal tract. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002715) ('is_a' and 'relationship')]",
+  "description": "Part of spinal trigeminal tract located in the medulla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002715)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110958",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002715#spinal-trigeminal-tract-of-medulla-1",
   "name": "spinal trigeminal tract of medulla",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002715",
-  "synonym": [
-    "spinal trigeminal tract of the medulla",
-    "tractus spinalis nervi trigemini (myelencephali)"
-  ]
+  "synonym": null
 }
+

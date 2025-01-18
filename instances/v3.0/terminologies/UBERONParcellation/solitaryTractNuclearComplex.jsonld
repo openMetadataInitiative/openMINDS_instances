@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/solitaryTractNuclearComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002126) ('is_a' and 'relationship')]",
+  "description": "The solitary tract and nucleus are structures in the brainstem that carry and receive visceral sensation and taste from the facial (VII), glossopharyngeal (IX) and vagus (X) cranial nerves. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002126)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002126#solitary-tract-nuclear-complex",
+  "name": "solitary tract nuclear complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002126",
+  "synonym": [
+    "nuclei of solitary tract",
+    "nucleus tractus solitarii",
+    "solitary nuclei"
+  ]
+}
+

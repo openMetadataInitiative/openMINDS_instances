@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/habenuloInterpeduncularTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a fasciculus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002138)]",
+  "description": "White matter tract containing fibers projecting from the habenular nuclei to the interpeduncular nucleus (Maryann Martone) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002138)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002138#fasciculus-retroflexus",
+  "name": "habenulo-interpeduncular tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002138",
+  "synonym": [
+    "fasciculus retroflexus",
+    "fasciculus retroflexus (Meynert)",
+    "habenulointerpeduncular fasciculus",
+    "habenulopeduncular tract",
+    "Meynert's retroflex bundle",
+    "tractus habenulo-interpeduncularis"
+  ]
+}
+

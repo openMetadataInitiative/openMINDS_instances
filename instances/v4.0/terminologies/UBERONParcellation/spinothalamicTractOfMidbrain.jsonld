@@ -4,15 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/spinothalamicTractOfMidbrain",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Spinothalamic tract of midbrain' is a tract of brain. It is part of the midbrain tegmentum and spinothalamic tract.",
-  "description": "",
+  "definition": "Is a tract of brain. Is part of the midbrain tegmentum and the spinothalamic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002609) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110975",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002609#spinothalamic-tract-of-midbrain-1",
   "name": "spinothalamic tract of midbrain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002609",
-  "synonym": [
-    "spinothalamic tract of the midbrain",
-    "stmb",
-    "tractus spinothalamicus (mesencephali)"
-  ]
+  "synonym": null
 }
+

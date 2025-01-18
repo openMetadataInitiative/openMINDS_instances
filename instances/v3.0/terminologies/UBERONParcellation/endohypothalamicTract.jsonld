@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/endohypothalamicTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005343)]",
+  "description": "CNS white matter, axonal tract interconnecting catecholaminergic cell groups in the posterior tuberculum and hypothalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005343)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2005343#endohypothalamic-tract",
+  "name": "endohypothalamic tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2005343",
+  "synonym": null
+}
+

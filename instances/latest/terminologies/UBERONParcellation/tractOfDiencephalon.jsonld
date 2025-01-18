@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/tractOfDiencephalon",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a tract of brain. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011591) ('is_a' and 'relationship')]",
+  "description": "An axon tract that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011591)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011591#tract-of-diencephalon",
+  "name": "tract of diencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011591",
+  "synonym": [
+    "diencephalon tract"
+  ]
+}
+

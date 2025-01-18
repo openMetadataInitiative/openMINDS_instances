@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTrigeminalTract",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Dorsal trigeminal tract' is a trigeminothalamic tract and tract of brain. It is part of the pontine tegmentum.",
-  "description": "The dorsal trigeminal tract (dorsal trigeminothalamic tract, or lemniscus) is a tract which receives signals from Meissner's corpuscles and Pacinian corpuscles. this tract arises from Principal trigeminal nucleus and terminates in the VPM nucleus of the thalamus. [WP,unvetted].",
+  "definition": "Is a trigeminothalamic tract and tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002797) ('is_a' and 'relationship')]",
+  "description": "The dorsal trigeminal tract (dorsal trigeminothalamic tract, or lemniscus) is a tract which receives signals from Meissner's corpuscles and Pacinian corpuscles. this tract arises from Principal trigeminal nucleus and terminates in the VPM nucleus of the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002797)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103494",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002797#dorsal-trigeminal-tract-1",
   "name": "dorsal trigeminal tract",
@@ -13,18 +13,15 @@
   "synonym": [
     "dorsal ascending trigeminal tract",
     "dorsal division of trigeminal lemniscus",
-    "Dorsal secondary ascending tract of V",
-    "Dorsal secondary tract of V",
+    "dorsal secondary ascending tract of v",
+    "dorsal secondary tract of v",
     "dorsal trigeminal lemniscus",
     "dorsal trigeminal pathway",
-    "dorsal trigemino-thalamic tract",
     "dorsal trigeminothalamic tract",
-    "dorsal trigmino-thalamic tract",
     "posterior trigeminothalamic tract",
     "reticulothalamic tract",
-    "tractus trigeminalis dorsalis",
-    "tractus trigemino-thalamicus dorsalis",
     "tractus trigeminothalamicus posterior",
     "uncrossed dorsal trigeminothalamic tract"
   ]
 }
+

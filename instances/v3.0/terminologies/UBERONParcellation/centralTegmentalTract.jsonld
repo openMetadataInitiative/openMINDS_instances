@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009643)]",
+  "description": "A pathway containing fibers from midbrain nuclei that project to the inferior olivary complex, as well as fibers originating in the pontine reticular formation and the medullary reticular formation that project to several nuclei of the thalamus. It can be identified in the midbrain and the pons (Adapted from Brain Info). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009643)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009643#central-tegmental-tract",
+  "name": "central tegmental tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009643",
+  "synonym": null
+}
+
