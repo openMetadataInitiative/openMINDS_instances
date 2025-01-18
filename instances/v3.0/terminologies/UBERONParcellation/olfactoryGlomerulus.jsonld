@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryGlomerulus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neural glomerulus. Is part of the olfactory bulb glomerular layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005387) ('is_a' and 'relationship')]",
+  "description": "One of the small globular masses of dense neuropil in the olfactory bulb, containing the first synapse in the olfactory pathway. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005387)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005387#olfactory-glomerulus",
+  "name": "olfactory glomerulus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005387",
+  "synonym": [
+    "glomerulus of olfactory bulb",
+    "olfactory bulb glomerulus"
+  ]
+}
+
