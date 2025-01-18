@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/commissureOfSuperiorColliculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a brain commissure. Is part of the white matter of superior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002583) ('is_a' and 'relationship')]",
+  "description": "A commissure that is part of a superior colliculus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002583)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002583#commissure-of-superior-colliculus-1",
+  "name": "commissure of superior colliculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002583",
+  "synonym": [
+    "anterior colliculus commissure",
+    "anterior corpus quadrigeminum commissure",
+    "commissure of anterior colliculus",
+    "commissure of anterior corpus quadrigeminum",
+    "commissure of cranial colliculus",
+    "commissure of optic tectum",
+    "commissure of superior colliculi",
+    "cranial colliculus commissure",
+    "intertectal commissure",
+    "optic tectum commissure",
+    "superior colliculus commissure"
+  ]
+}
+
