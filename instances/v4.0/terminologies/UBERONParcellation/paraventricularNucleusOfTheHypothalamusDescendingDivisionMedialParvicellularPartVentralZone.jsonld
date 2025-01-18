@@ -4,20 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionMedialParvicellularPartVentralZone",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus descending division.",
-  "description": "",
+  "definition": "Is a regional part of brain. Is part of the paraventricular nucleus of the hypothalamus descending division. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014595) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108506",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014595#paraventricular-nucleus-of-the-hypothalamus-descending-division-medial-parvicellular-part-ventral-zone-1",
   "name": "paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014595",
   "synonym": [
-    "descending division",
-    "medial parvicellular part",
-    "paraventricular hypothalamic nucleus",
-    "paraventricular hypothalamic nucleus medial parvicellular part",
-    "paraventricular nucleus of the hypothalamus",
-    "paraventricular nucleus of the hypothalamus descending division - medial parvicellular part",
-    "PVHmpv",
-    "ventral zone"
+    "paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone"
   ]
 }
+

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/trigeminalNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cranial nerve nucleus. Is part of the trigeminal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002925) ('is_a' and 'relationship')]",
+  "description": "A nucleus of brain that is part of a trigeminal nuclear complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002925)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002925#trigeminal-nucleus-1",
+  "name": "trigeminal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002925",
+  "synonym": [
+    "nucleus of trigeminal nuclear complex",
+    "trigeminal nuclear complex nucleus",
+    "trigeminal nucleus",
+    "trigeminal V nucleus"
+  ]
+}
+

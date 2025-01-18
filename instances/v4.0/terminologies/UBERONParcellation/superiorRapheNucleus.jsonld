@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/superiorRapheNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the raphe nuclei. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000440) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000440#superior-raphe-nucleus",
+  "name": "superior raphe nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000440",
+  "synonym": [
+    "anterior raphe nucleus"
+  ]
+}
+

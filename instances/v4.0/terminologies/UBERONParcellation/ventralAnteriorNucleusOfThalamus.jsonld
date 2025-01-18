@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralAnteriorNucleusOfThalamus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Ventral anterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral nuclear group.",
-  "description": "The ventral anterior nucleus is a nucleus of the thalamus.",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the ventral nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002637) ('is_a' and 'relationship')]",
+  "description": "The ventral anterior nucleus is a nucleus of the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002637)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112284",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002637#ventral-anterior-nucleus",
   "name": "ventral anterior nucleus of thalamus",
@@ -15,12 +15,11 @@
     "nucleus ventralis anterior",
     "nucleus ventralis anterior thalami",
     "nucleus ventralis thalami anterior",
-    "VA",
     "ventral anterior nucleus",
     "ventral anterior nucleus of thalamus",
-    "ventral anterior nucleus of the thalamus",
     "ventral anterior thalamic nucleus",
     "ventroanterior nucleus of the thalamus",
     "ventroanterior thalamic nucleus"
   ]
 }
+

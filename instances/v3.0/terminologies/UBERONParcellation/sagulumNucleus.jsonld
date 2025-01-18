@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sagulumNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of midbrain tectum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022423)]",
+  "description": "A collection of principally small and medium-sized cells in the midbrain tegmentum lying at the margin of the midbrain adjacent to the nuclei of the lateral lemniscus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022423)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022423#sagulum-nucleus",
+  "name": "sagulum nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022423",
+  "synonym": [
+    "nucleus saguli"
+  ]
+}
+
