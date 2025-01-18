@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fifthCervicalDorsalRootGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002842)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002842#fifth-cervical-dorsal-root-ganglion-1",
+  "name": "fifth cervical dorsal root ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002842",
+  "synonym": [
+    "C5 dorsal root ganglion",
+    "fifth cervical dorsal root ganglion",
+    "fifth cervical spinal ganglion"
+  ]
+}
+

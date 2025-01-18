@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fourthLumbarDorsalRootGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a lumbar dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003943)]",
+  "description": "The group of nerve cell bodies located on the dorsal spinal roots within the vertebral column at the level of the fourth lumbar vertebra. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003943)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003943#forth-lumbar-dorsal-root-ganglion",
+  "name": "fourth lumbar dorsal root ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003943",
+  "synonym": [
+    "forth lumbar dorsal root ganglion",
+    "fourth lumbar dorsal root ganglion",
+    "fourth lumbar spinal ganglion",
+    "L4 dorsal root ganglion"
+  ]
+}
+

@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/thoracicDorsalRootGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a dorsal root ganglion and thoracic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002835)]",
+  "description": "A dorsal root ganglion that is part of a thorax. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002835)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002835#thoracic-dorsal-root-ganglion-1",
+  "name": "thoracic dorsal root ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002835",
+  "synonym": [
+    "dorsal root ganglion of thorax",
+    "ganglion of dorsal root of thorax",
+    "ganglion spinalis of thorax",
+    "thoracic dorsal root ganglion",
+    "thoracic spinal ganglion",
+    "thorax dorsal root ganglion",
+    "thorax ganglion of dorsal root",
+    "thorax ganglion spinalis"
+  ]
+}
+

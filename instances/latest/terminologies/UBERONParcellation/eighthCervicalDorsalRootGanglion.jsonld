@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/eighthCervicalDorsalRootGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002844)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002844#eighth-cervical-dorsal-root-ganglion-1",
+  "name": "eighth cervical dorsal root ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002844",
+  "synonym": [
+    "eighth cervical dorsal root ganglion",
+    "eighth cervical spinal ganglion"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ganglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000045) ('is_a' and 'relationship')]",
+  "description": "A biological tissue mass, most commonly a mass of nerve cell bodies. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000045)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000045#ganglion-1",
+  "name": "ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000045",
+  "synonym": null
+}
+
