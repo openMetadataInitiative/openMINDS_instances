@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/neuralTubeBasalPlate",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the neural tube mantle layer. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004064)]",
+  "description": "The region of the mantle layer of the neural tube that lies ventral to the sulcus limitans and contains primarily motor neurons and interneurons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004064)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004064#neural-tube-basal-plate",
+  "name": "neural tube basal plate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004064",
+  "synonym": [
+    "basal plate",
+    "basal plate of neural tube"
+  ]
+}
+

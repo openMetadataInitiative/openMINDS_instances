@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/neuromere",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a segmental subdivision of nervous system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004731)]",
+  "description": "A transverse unitary subdivision of the neural tube that shares a common dorsoventral structure (floor, basal, alar, and roof plates), but each having differential molecular identities and fates; they comprise the secondary prosencephalon, diencephalon (prosomeres), the midbrain (mesomeres), and the hindbrain (rhombomeres). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004731)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004731#neuromere",
+  "name": "neuromere",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004731",
+  "synonym": [
+    "neural tube metameric segment",
+    "neural tube segment",
+    "neuromere"
+  ]
+}
+
