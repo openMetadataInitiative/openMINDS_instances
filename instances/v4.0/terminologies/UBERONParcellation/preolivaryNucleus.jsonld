@@ -4,14 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/preolivaryNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Preolivary nucleus' is a nucleus of superior olivary complex.",
-  "description": "",
+  "definition": "Is a nucleus of superior olivary complex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002976)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109224",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002976#preolivary-nucleus-1",
   "name": "preolivary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002976",
   "synonym": [
-    "nucleus preolivaris",
     "preolivary nuclei"
   ]
 }
+

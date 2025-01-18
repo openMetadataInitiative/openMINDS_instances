@@ -4,16 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/tuberomammillaryNucleusDorsalPart",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Tuberomammillary nucleus dorsal part' is a regional part of brain. It is part of the tuberomammillary nucleus.",
-  "description": "",
+  "definition": "Is a regional part of brain. Is part of the tuberomammillary nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014593) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112052",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014593#tuberomammillary-nucleus-dorsal-part-1",
   "name": "tuberomammillary nucleus dorsal part",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014593",
   "synonym": [
-    "dorsal part",
-    "TMd",
-    "tuberomammillary nucleus",
     "tuberomammillary nucleus dorsal part"
   ]
 }
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sublingualNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002881)]",
+  "description": "In the substance of the formatio reticularis are two small nuclei of gray matter. The one near the dorsal aspect of the hilus of the inferior olivary nucleus is called the Sublingual nucleus (inferior central nucleus, nucleus of Roller.). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002881)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002881#sublingual-nucleus-1",
+  "name": "sublingual nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002881",
+  "synonym": [
+    "nucleus of roller",
+    "Roller's nucleus"
+  ]
+}
+

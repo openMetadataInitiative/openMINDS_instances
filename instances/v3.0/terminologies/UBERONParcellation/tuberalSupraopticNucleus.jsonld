@@ -4,15 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/tuberalSupraopticNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Tuberal supraoptic nucleus' is a hypothalamic nucleus. It is part of the supraoptic nucleus.",
-  "description": "Posterior division of the supraoptic nucleus, formed by the ascension of the optic tract splitting the nucleus into two regions.  The tuberal SON lies along the posterior tuber cinereum of the hypothalamus.  In some species, some neurons lie under the optic chiasm.",
+  "definition": "Is a hypothalamic nucleus. Is part of the supraoptic nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024079) ('is_a' and 'relationship')]",
+  "description": "Posterior division of the supraoptic nucleus, formed by the ascension of the optic tract splitting the nucleus into two regions. The tuberal SON lies along the posterior tuber cinereum of the hypothalamus. In some species, some neurons lie under the optic chiasm. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024079)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112049",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0024079#tuberal-supraoptic-nucleus-1",
   "name": "tuberal supraoptic nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024079",
   "synonym": [
-    "SONt",
-    "retrochiasmatic subdivision",
     "tuberal supraoptic nucleus"
   ]
 }
+

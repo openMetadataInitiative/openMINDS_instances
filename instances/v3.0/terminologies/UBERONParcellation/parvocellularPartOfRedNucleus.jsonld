@@ -4,26 +4,16 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularPartOfRedNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Parvocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.",
-  "description": "Rostral portion of the red nucleus, located in the midbrain but originated from the diencephalon. Contains both large and small cells.",
+  "definition": "Is a gray matter of midbrain. Is part of the red nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002938) ('is_a' and 'relationship')]",
+  "description": "The parvocellular red nucleus (RNp) is located in the rostral midbrain and is involved in motor coordination. Together with the magnocellular red nucleus, it makes up the red nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002938)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108564",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002938#parvocellular-part-of-red-nucleus-1",
   "name": "parvocellular part of red nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002938",
   "synonym": [
     "neoruber",
-    "neorubrum",
-    "nucleus ruber",
-    "nucleus ruber parvocellularis",
-    "pars parvocellularis",
-    "pars parvocellularis (ruber)",
     "pars parvocellularis nuclei rubri",
-    "parvicellular part",
-    "parvocellular part",
-    "parvocellular part of the red nucleus",
-    "parvocellular red nucleus",
-    "red nucleus",
-    "red nucleus parvicellular part",
-    "RPC"
+    "red nucleus, parvocellular part"
   ]
 }
+

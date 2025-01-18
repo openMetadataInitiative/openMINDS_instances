@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/subparafascicularNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a diencephalic nucleus. Is part of the thalamic complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016641) ('is_a' and 'relationship')]",
+  "description": "The term subparafascicular nucleus refers to a cell group located ventral to the parafascicular nucleus in the thalamus. Identified by internal structure, it is present in the human ( Mai-1997 ), the macaque ( Paxinos-2009a ), the rat ( Swanson-1998 ), and the mouse ( Hof-2000 ). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016641)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016641#subparafascicular-nucleus",
+  "name": "subparafascicular nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016641",
+  "synonym": null
+}
+
