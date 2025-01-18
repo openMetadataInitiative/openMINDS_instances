@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfTectalVentricle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a choroid plexus. Is part of the midbrain cerebral aqueduct. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007299) ('is_a' and 'relationship')]",
+  "description": "A choroid plexus that is part of a cerebral aqueduct. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007299)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007299#choroid-plexus-of-tectal-ventricle",
+  "name": "choroid plexus of tectal ventricle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007299",
+  "synonym": [
+    "choroid plexus tectal ventricle"
+  ]
+}
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pinealRecessOfThirdVentricle",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022283) ('is_a' and 'relationship')]",
+  "description": "The diverticulum of the thin roof of the dorsocaudal third ventricle that projects into the stalk of the pineal gland. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022283)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022283#pineal-recess-of-third-ventricle",
+  "name": "pineal recess of third ventricle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022283",
+  "synonym": [
+    "pineal recess",
+    "pineal recess of 3V",
+    "recessus pinealis"
+  ]
+}
+
