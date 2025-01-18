@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/intraculminateFissureOfCerebellum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellum fissure. Is part of the cerebellum vermis culmen. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035922) ('is_a' and 'relationship')]",
+  "description": "A fissure that divides the culmen lobule (lobules IV and V) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035922)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035922#intraculminate-fissure-of-cerebellum",
+  "name": "intraculminate fissure of cerebellum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035922",
+  "synonym": [
+    "fissura intraculminalis",
+    "intraculminate fissure",
+    "intraculminate fissure"
+  ]
+}
+

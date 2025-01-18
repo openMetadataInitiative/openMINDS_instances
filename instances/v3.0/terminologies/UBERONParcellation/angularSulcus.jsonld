@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/angularSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a temporal sulcus and sulcus of parietal lobe. Is part of the angular gyrus and the superior temporal sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026725) ('is_a' and 'relationship')]",
+  "description": "A superficial feature of the parietal lobe. It is the portion of the superior temporal sulcus that extends into the angular gyrus (Ono-90). (NN) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026725)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026725#angular-sulcus-1",
+  "name": "angular sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026725",
+  "synonym": [
+    "angular sulcus",
+    "angular sulcus"
+  ]
+}
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/transverseParietalSulcus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sulcus of parietal lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026722)]",
+  "description": "A sulcus in the human parietal lobe that branches dorsally from the intraparietal sulcus (Savel'ev-96). (NN) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026722)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026722#transverse-parietal-sulcus-1",
+  "name": "transverse parietal sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026722",
+  "synonym": [
+    "transverse parietal sulcus",
+    "transverse parietal sulcus"
+  ]
+}
+

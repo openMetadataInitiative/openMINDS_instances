@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/middleFrontalSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a frontal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014618)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014618#middle-frontal-sulcus-1",
+  "name": "middle frontal sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014618",
+  "synonym": [
+    "middle frontal sulcus"
+  ]
+}
+

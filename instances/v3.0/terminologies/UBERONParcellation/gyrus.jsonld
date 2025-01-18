@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/gyrus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the cerebral hemisphere. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000200)]",
+  "description": "A ridge on the cerebral cortex. It is generally surrounded by one or more sulci. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000200)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000200#gyrus",
+  "name": "gyrus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000200",
+  "synonym": [
+    "cerebral gyrus",
+    "gyrus of neuraxis",
+    "neuraxis gyrus"
+  ]
+}
+

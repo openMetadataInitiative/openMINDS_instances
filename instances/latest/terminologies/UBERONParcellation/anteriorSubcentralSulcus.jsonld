@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/anteriorSubcentralSulcus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a subarachnoid sulcus and frontal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002672)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002672#anterior-subcentral-sulcus-1",
+  "name": "anterior subcentral sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002672",
+  "synonym": null
+}
+

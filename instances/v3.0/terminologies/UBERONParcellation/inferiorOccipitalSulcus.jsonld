@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitalSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an occipital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025102)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0025102#inferior-occipital-sulcus-1",
+  "name": "inferior occipital sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0025102",
+  "synonym": [
+    "inferior occipital sulcus",
+    "inferior occipital sulcus"
+  ]
+}
+
