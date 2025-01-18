@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsomedialSubnucleusOfSolitaryTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a gray matter of hindbrain. Is part of the nucleus of solitary tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026541) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026541#dorsomedial-subnucleus-of-solitary-tract-1",
+  "name": "dorsomedial subnucleus of solitary tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026541",
+  "synonym": [
+    "dorsomedial subnucleus of solitary tract",
+    "dorsomedial subnucleus of solitary tract"
+  ]
+}
+

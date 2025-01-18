@@ -4,18 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusPosteriorPart",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Anterior nucleus of hypothalamus posterior part' is a regional part of brain. It is part of the anterior nucleus of hypothalamus.",
-  "description": "",
+  "definition": "Is a regional part of brain. Is part of the anterior nucleus of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014591) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100722",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014591#anterior-nucleus-of-hypothalamus-posterior-part-1",
   "name": "anterior nucleus of hypothalamus posterior part",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014591",
   "synonym": [
-    "AHNp",
-    "anterior hypothalamic nucleus",
-    "anterior hypothalamic nucleus posterior part",
-    "anterior hypothalamic posterior part",
-    "anterior nucleus of hypothalamus posterior part",
-    "posterior part"
+    "anterior nucleus of hypothalamus posterior part"
   ]
 }
+
