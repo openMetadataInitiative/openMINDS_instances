@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/germinalNeuroepithelium",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a proliferating neuroepithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004022)]",
+  "description": "The single layer of epithelial cells that lines the early neural tube and develops into the nervous system and into the neural crest cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004022)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004022#germinal-neuroepithelium",
+  "name": "germinal neuroepithelium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004022",
+  "synonym": [
+    "germinal neuroepithelial layer",
+    "germinal neuroepithelium",
+    "original neural tube"
+  ]
+}
+
