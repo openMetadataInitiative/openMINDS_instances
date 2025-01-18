@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/arachnoidVillus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the arachnoid mater. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013153)]",
+  "description": "Small protrusions of the arachnoid mater into vascular sinuses, acting as one-way pressure-sensitive valves. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013153)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013153#arachnoid-villus",
+  "name": "arachnoid villus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013153",
+  "synonym": null
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ansaCervicalis",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve. Is part of the cervical nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005430) ('is_a' and 'relationship')]",
+  "description": "A loop of nerves that are part of the cervical plexus that lies superficial to the internal jugular vein in the carotid sheath. Branches from the ansa cervicalis innervate three of the four infrahyoid muscles, including the sternohyoid muscle, the sternothyroid muscle, and the omohyoid muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005430)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005430#ansa-cervicalis",
+  "name": "ansa cervicalis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005430",
+  "synonym": [
+    "ansa cervicalis"
+  ]
+}
+
