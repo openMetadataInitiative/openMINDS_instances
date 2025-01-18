@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/spinalCordLateralHorn",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal cord column. Is part of the gray matter of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004676) ('is_a' and 'relationship')]",
+  "description": "A triangular field that is a lateralward projection of the postero-lateral part of the anterior column. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004676)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004676#spinal-cord-lateral-horn-1",
+  "name": "spinal cord lateral horn",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004676",
+  "synonym": [
+    "columna grisea intermedia medullare spinalis",
+    "intermediate gray column of spinal cord",
+    "lateral gray column of spinal cord",
+    "lateral gray horn",
+    "lateral gray matter of spinal cord",
+    "lateral horn of spinal cord",
+    "spinal cord intermediate horn",
+    "spinal cord lateral horn"
+  ]
+}
+

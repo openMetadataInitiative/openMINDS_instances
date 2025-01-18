@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lumbarSpinalCordVentralHorn",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a ventral horn of spinal cord. Is part of the lumbar spinal cord gray matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0030276) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0030276#lumbar-spinal-cord-ventral-horn-1",
+  "name": "lumbar spinal cord ventral horn",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0030276",
+  "synonym": [
+    "lumbar spinal cord ventral horn",
+    "lumbar spinal cord ventral horn"
+  ]
+}
+

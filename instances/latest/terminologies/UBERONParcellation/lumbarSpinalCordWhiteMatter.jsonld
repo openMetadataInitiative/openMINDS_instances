@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCordWhiteMatter",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter of spinal cord. Is part of the lumbar spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026386) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026386#lumbar-spinal-cord-white-matter",
+  "name": "lumbar spinal cord white matter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026386",
+  "synonym": [
+    "lumbar spinal cord white matter",
+    "lumbar spinal cord white matter"
+  ]
+}
+

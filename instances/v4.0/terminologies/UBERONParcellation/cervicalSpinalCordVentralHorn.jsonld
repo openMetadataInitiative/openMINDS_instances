@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCordVentralHorn",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a ventral horn of spinal cord. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014621) ('is_a' and 'relationship')]",
+  "description": "A ventral horn of spinal cord that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014621)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014621#cervical-spinal-cord-ventral-horn-1",
+  "name": "cervical spinal cord ventral horn",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014621",
+  "synonym": [
+    "cervical spinal cord ventral horn"
+  ]
+}
+

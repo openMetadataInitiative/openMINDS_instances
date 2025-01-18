@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinalCordEpendyma",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an ependyma. Is part of the central canal of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005359) ('is_a' and 'relationship')]",
+  "description": "The ependymal cell layer that lines the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005359)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005359#spinal-cord-ependyma",
+  "name": "spinal cord ependyma",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005359",
+  "synonym": [
+    "ependyma of central canal of spinal cord",
+    "spinal cord ependymal layer"
+  ]
+}
+

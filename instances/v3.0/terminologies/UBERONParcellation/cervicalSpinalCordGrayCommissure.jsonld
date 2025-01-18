@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cervicalSpinalCordGrayCommissure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cervical spinal cord gray matter and dorsal gray commissure of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0029626)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0029626#cervical-spinal-cord-gray-commissure-1",
+  "name": "cervical spinal cord gray commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0029626",
+  "synonym": [
+    "cervical spinal cord gray commissure",
+    "cervical spinal cord gray commissure"
+  ]
+}
+

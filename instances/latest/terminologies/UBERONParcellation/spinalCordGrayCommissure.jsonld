@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/spinalCordGrayCommissure",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a lamina of gray matter of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004677)]",
+  "description": "The band of grey substance spanning the midline of the spinal cord that surrounds the central canal. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004677)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004677#spinal-cord-gray-commissure-1",
+  "name": "spinal cord gray commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004677",
+  "synonym": [
+    "area spinalis X",
+    "gray commissure of spinal cord",
+    "lamina X",
+    "lamina X of gray matter of spinal cord",
+    "rexed lamina X",
+    "spinal area X",
+    "spinal cord gray commissure",
+    "spinal cord grey commissure",
+    "spinal lamina X"
+  ]
+}
+
