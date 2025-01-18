@@ -4,13 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corpusCallosum",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "",
-  "description": "The 'corpus callosum' is a white matter structure containing massive numbers of commissural fibers connecting cortical areas in the two cerebral hemispheres.",
+  "definition": "Is an intercerebral commissure and dorsal telencephalic commissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002336)]",
+  "description": "W. Ite matter structure containing massive numbers of commissural fibers connecting cortical areas in the two cerebral hemispheres. It is subdivided into a genu, a rostrum, a body, and a splenium. (MM) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002336)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102562",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002336#corpus-callosum",
   "name": "corpus callosum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002336",
-  "synonym": [
-    "cc"
-  ]
+  "synonym": null
 }
+
