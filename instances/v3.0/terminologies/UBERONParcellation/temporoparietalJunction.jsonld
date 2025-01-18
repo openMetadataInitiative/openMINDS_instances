@@ -4,14 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/temporoparietalJunction",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Temporoparietal junction' is a regional part of brain. It is part of the cerebral cortex.",
-  "description": "An area of the brain that locates at the interception of temporal and parietal cortices (at the posterior end of the Sylvian fissure).",
+  "definition": "Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023852) ('is_a' and 'relationship')]",
+  "description": "An area of the brain that locates at the interception of temporal and parietal cortices (at the posterior end of the Sylvian fissure). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023852)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111603",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023852#temporoparietal-junction-1",
   "name": "temporoparietal junction",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023852",
   "synonym": [
-    "TPJ",
     "temporoparietal junction"
   ]
 }
+

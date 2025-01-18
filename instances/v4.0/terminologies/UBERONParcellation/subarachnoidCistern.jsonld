@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/subarachnoidCistern",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a subarachnoid space. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004050)]",
+  "description": "The widening portions of the subarachnoid space within the cranium where the arachnoid bridges over a depression on the surface of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004050)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004050#subarachnoid-cistern",
+  "name": "subarachnoid cistern",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004050",
+  "synonym": null
+}
+

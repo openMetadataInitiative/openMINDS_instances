@@ -4,14 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/temporalOperculum",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Temporal operculum' is a regional part of brain. It is part of the operculum of brain.",
-  "description": "Part of temporal lobe overlaying the insular cortex",
+  "definition": "Is a regional part of brain. Is part of the operculum of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002560) ('is_a' and 'relationship')]",
+  "description": "Part of temporal lobe overlaying the insular cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002560)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111592",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002560#temporal-operculum-1",
   "name": "temporal operculum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002560",
   "synonym": [
-    "facies supratemporalis",
-    "operculum temporale"
+    "facies supratemporalis"
   ]
 }
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/tegmentum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a composite part spanning multiple base regional parts of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024151)]",
+  "description": "The ventral topographic division of the midbrain; the dorsal topographic division is the tectum. Meckel (1817; see English translation, 1832, vol. 2, p. 467) apparently introduced the term and roughly its definition here for macrodissected adult humans, except he excluded the cerebral peduncle (Tarin, 1753), a white matter tract at the base of the midbrain, which is still common today but is included here. As defined here, tegmentum refers to the whole of the midbrain (Baer, 1837) excluding the tectum but including the pretectal region (Scalia, 1972); see Swanson (2000, pp. 522, 526). Usage of this term is very complex, inconsistent, and illogical; see for example Crosby et al. (1962, pp. 221, 260, 262), Carpenter (1976, p. 367 ff.). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024151)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0024151#tegmentum-1",
+  "name": "tegmentum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024151",
+  "synonym": [
+    "tegmentum",
+    "tegmentum"
+  ]
+}
+
