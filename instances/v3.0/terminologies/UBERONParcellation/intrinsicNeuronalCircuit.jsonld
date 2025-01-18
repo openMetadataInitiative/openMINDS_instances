@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/intrinsicNeuronalCircuit",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a circuit part of central nervous system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026547)]",
+  "description": "A neuronal circuit where all the participating neurons are bounded within a defined and limited region of the nervous system.(BB). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026547)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026547#intrinsic-neuronal-circuit-1",
+  "name": "intrinsic neuronal circuit",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026547",
+  "synonym": [
+    "intrinsic neuronal circuit",
+    "intrinsic neuronal circuit"
+  ]
+}
+

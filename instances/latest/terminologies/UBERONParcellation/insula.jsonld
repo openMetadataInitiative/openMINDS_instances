@@ -4,28 +4,21 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/insula",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "Gray matter of the insular region of the neocortex. In gyrencephalic animals, it is part of the insular lobe and lies in the depths of the lateral fissure and covered by portions of the frontal, parietal and temporal lobes. It includes Brodmann areas 13-16.",
-  "description": "'Insula' is a cerebral hemisphere gray matter. It is part of the cerebral cortex.",
+  "definition": "Is a cerebral hemisphere gray matter. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002022) ('is_a' and 'relationship')]",
+  "description": "Gray matter of the insular region of the neocortex. In gyrencephalic animals, it is part of the insular lobe and lies in the depths of the lateral fissure and covered by portions of the frontal, parietal and temporal lobes. It includes Brodmann areas 13-16. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002022)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105519",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002022#insula-1",
   "name": "insula",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002022",
   "synonym": [
     "central lobe",
-    "cortex insularis",
     "cortex of island",
-    "iNS",
-    "insula cerebri",
     "insula lobule",
-    "insula of Reil",
-    "insula Reilii",
-    "insular cortex",
-    "insular gyrus",
+    "insular lobe",
     "insular lobe",
     "insular region",
-    "insulary cortex",
     "island of Reil",
-    "lobus insularis",
-    "morphological insula"
+    "lobus insularis"
   ]
 }
+
