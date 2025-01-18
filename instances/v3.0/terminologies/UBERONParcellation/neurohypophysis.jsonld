@@ -4,11 +4,26 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/neurohypophysis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Neurohypophysis' is a gland of diencephalon and secretory circumventricular organ. It is part of the pituitary gland.",
-  "description": "The posterior part of the pituitary gland that secretes hormones involved in blood pressure regulation such as oxytocin and antidiuretic hormon.",
+  "definition": "Is a gland of diencephalon and secretory circumventricular organ. Is part of the pituitary gland. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002198) ('is_a' and 'relationship')]",
+  "description": "The posterior part of the pituitary gland that secretes hormones involved in blood pressure regulation such as oxytocin and antidiuretic hormon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002198)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107477",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002198#neurohypophysis-1",
   "name": "neurohypophysis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002198",
-  "synonym": null
+  "synonym": [
+    "infundibular process",
+    "lobus nervosus neurohypophysis",
+    "lobus posterior (glandula pituitaria)",
+    "lobus posterior hypophysis",
+    "neural lobe",
+    "neural lobe of pituitary",
+    "neural lobe of pituitary gland",
+    "neuro hypophysis",
+    "neurohypophysis",
+    "pituitary gland, posterior lobe",
+    "posterior lobe of pituitary",
+    "posterior lobe of pituitary gland",
+    "posterior pituitary"
+  ]
 }
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/neuralGlomerulus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neuropil. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001047)]",
+  "description": "Large synaptic bouton found in areas like olfactory bulb, cerebellar cortex and thalamus, that contacts many post-synaptic targets. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001047)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001047#neural-glomerulus",
+  "name": "neural glomerulus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001047",
+  "synonym": null
+}
+
