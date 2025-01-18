@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/somaticSensorySystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the somatic nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003942)]",
+  "description": "The sensory system for the sense of touch and pain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003942)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003942#somatosensory-system",
+  "name": "somatic sensory system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003942",
+  "synonym": [
+    "somatic sensory system",
+    "somatosensory system",
+    "system for detection of somatic senses"
+  ]
+}
+
