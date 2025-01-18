@@ -4,16 +4,17 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/CA1StratumRadiatum",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'CA1 stratum radiatum' is a layer of CA1 field. It is part of the hippocampus stratum radiatum.",
-  "description": "Part of stratum radiatum lying in area CA1, superficial to the CA1 pyramidal cell layer and deep to the CA1 stratum lucidum-moleculare, continuous with the stratum radiatum of CA2 and bounded by the subiculum. It contains the Schaffer collateral projection from CA3.",
+  "definition": "Is a layer of CA1 field. Is part of the hippocampus stratum radiatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014554) ('is_a' and 'relationship')]",
+  "description": "Part of stratum radiatum lying in area CA1, superficial to the CA1 pyramidal cell layer and deep to the CA1 stratum lucidum-moleculare, continuous with the stratum radiatum of CA2 and bounded by the subiculum. It contains the Schaffer collateral projection from CA3. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014554)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101526",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014554#ca1-stratum-radiatum-1",
   "name": "CA1 stratum radiatum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014554",
   "synonym": [
     "CA1 part of stratum radiatum",
-    "CA1 s. radiatum",
-    "radiatum layer of CA1 field",
+    "CA1 stratum radiatum",
+    "radiate layer of CA1 field",
     "stratum radiatum of the CA1 field"
   ]
 }
+
