@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corticopontineFibers",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neuron projection bundle and central nervous system cell part cluster. Is part of the white matter of pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022271) ('is_a' and 'relationship')]",
+  "description": "Corticopontine fibers, commonly referred to as corticobulbar fibers, are projections from the cerebral cortex to the pontine nuclei. Depending upon the lobe of origin, they can be classified as frontopontine fibers, parietopontine fibers, temporopontine fibers and occipitopontine fibers. They are motor fibers that stretch from the precentral gyrus (motor strip) to the nuclei of cranial nerves V (trigenimal), VII (facial) and XII (hypoglossal). These fibers run alongside the corticospinal fibers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022271)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022271#corticopontine-fibers",
+  "name": "corticopontine fibers",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022271",
+  "synonym": [
+    "cortico-pontine fibers",
+    "cortico-pontine fibers, pontine part",
+    "corticopontine fibers",
+    "corticopontine fibers of pons",
+    "corticopontine fibers set",
+    "corticopontine fibres",
+    "fibrae corticopontinae",
+    "tractus corticopontinus"
+  ]
+}
+

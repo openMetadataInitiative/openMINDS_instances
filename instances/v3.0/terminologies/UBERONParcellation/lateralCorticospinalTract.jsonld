@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralCorticospinalTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a tract of brain. Is part of the medulla oblongata and the corticospinal tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002589) ('is_a' and 'relationship')]",
+  "description": "Part of the corticospinal tract located in the spinal cord, formed as 75 to 90% of the corticospinal fibers cross to the opposite side of the brainstem in the pyramidal decussation. This tract descends the length of the spinal cord in the lateral white column (Adapted from Brain Info) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002589)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002589#lateral-corticospinal-tract-1",
+  "name": "lateral corticospinal tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002589",
+  "synonym": [
+    "corticospinal tract, crossed",
+    "crossed pyramidal tract",
+    "lateral pyramidal tract",
+    "pyramidal tract, crossed"
+  ]
+}
+

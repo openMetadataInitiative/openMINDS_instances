@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParietalCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the parietal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034889) ('is_a' and 'relationship')]",
+  "description": "The posterior parietal cortex is a portion of the parietal lobe which manipulates mental images, and integrates sensory and motor portions of the brain. Some sources say that it consists of Brodmann area 5 and Brodmann area 7. Other sources say it is only area 7. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034889)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034889#posterior-parietal-cortex",
+  "name": "posterior parietal cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034889",
+  "synonym": null
+}
+
