@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAnteriorLateralLineNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a lateral line nerve. Is part of the anterior lateral line nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001481) ('is_a' and 'relationship')]",
+  "description": "Nerve fibers originating from the ventral anterior lateral line ganglion. These rami innervate the mandibular and opercular neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001481)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2001481#ventral-anterior-lateral-line-nerve",
+  "name": "ventral anterior lateral line nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2001481",
+  "synonym": null
+}
+

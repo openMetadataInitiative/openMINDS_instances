@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralNerveRootOfCervicalSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a ventral root of spinal cord and root of cervical nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014634)]",
+  "description": "A ventral root of spinal cord that overlaps a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014634)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014634#ventral-nerve-root-of-cervical-spinal-cord-1",
+  "name": "ventral nerve root of cervical spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014634",
+  "synonym": [
+    "ventral nerve root of cervical spinal cord"
+  ]
+}
+

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pterygopalatineNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the maxillary nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034725) ('is_a' and 'relationship')]",
+  "description": "The pharyngeal nerve (pterygopalatine nerve) is a small branch arising from the posterior part of the pterygopalatine ganglion. It passes through the pharyngeal canal with the pharyngeal branch of the maxillary artery, and is distributed to the mucous membrane of the nasal part of the pharynx, behind the auditory tube. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034725)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034725#pterygopalatine-nerve",
+  "name": "pterygopalatine nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034725",
+  "synonym": [
+    "ganglionic branch of maxillary nerve to pterygopalatine ganglion",
+    "pterygopalatine nerve",
+    "radix sensoria ganglii pterygopalatini",
+    "sensory root of pterygopalatine ganglion"
+  ]
+}
+

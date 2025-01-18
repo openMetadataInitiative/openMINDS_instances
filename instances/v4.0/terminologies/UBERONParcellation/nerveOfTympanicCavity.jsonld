@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nerveOfTympanicCavity",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve of head region. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004116)]",
+  "description": "A nerve that is part of a tympanic cavity. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004116)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004116#nerve-of-tympanic-cavity",
+  "name": "nerve of tympanic cavity",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004116",
+  "synonym": [
+    "anatomical cavity of middle ear nerve",
+    "cavity of middle ear nerve",
+    "middle ear anatomical cavity nerve",
+    "middle ear cavity nerve",
+    "nerve of anatomical cavity of middle ear",
+    "nerve of cavity of middle ear",
+    "nerve of middle ear anatomical cavity",
+    "nerve of middle ear cavity",
+    "tympanic cavity nerve",
+    "tympanic cavity nerves"
+  ]
+}
+
