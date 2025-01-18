@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualAreaLayer6a",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the primary visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035892) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035892#primary-visual-area-layer-6a",
+  "name": "primary visual area, layer 6a",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035892",
+  "synonym": null
+}
+
