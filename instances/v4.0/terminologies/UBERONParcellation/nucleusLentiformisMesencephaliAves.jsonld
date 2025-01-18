@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusLentiformisMesencephaliAves",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035586)]",
+  "description": "A pretectal nucleus in Aves that receives heavy retinal input and is hypothesized to be homologous to the nucleus of the optic tract of Mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035586)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035586#nucleus-lentiformis-mesencephali-aves",
+  "name": "nucleus lentiformis mesencephali (Aves)",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035586",
+  "synonym": null
+}
+

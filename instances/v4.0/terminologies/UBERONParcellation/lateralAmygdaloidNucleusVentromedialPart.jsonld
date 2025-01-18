@@ -4,15 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralAmygdaloidNucleusVentromedialPart",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Lateral amygdaloid nucleus, ventromedial part' is a regional part of brain.",
-  "description": "",
+  "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023417)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106046",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023417#lateral-amygdaloid-nucleus-ventromedial-part-1",
   "name": "lateral amygdaloid nucleus, ventromedial part",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023417",
   "synonym": [
-    "LaVM",
-    "lateral amygdaloid nucleus",
-    "ventromedial part"
+    "lateral amygdaloid nucleus, ventromedial part",
+    "lateral amygdaloid nucleus, ventromedial part"
   ]
 }
+

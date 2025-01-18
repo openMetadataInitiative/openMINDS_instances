@@ -4,21 +4,18 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIntercalatus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Nucleus intercalatus' is a nucleus of medulla oblongata.",
-  "description": "",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002876)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107749",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002876#nucleus-intercalatus-1",
   "name": "nucleus intercalatus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002876",
   "synonym": [
-    "In",
-    "intercalated nucleus",
     "intercalated nucleus of medulla",
-    "intercalated nucleus of the medulla",
-    "nucleus intercalates",
-    "nucleus intercalatus (Staderini)",
     "nucleus intercalatus of medulla",
     "nucleus of Staderini",
+    "nucleus Staderini",
     "nucleus Staderini"
   ]
 }
+

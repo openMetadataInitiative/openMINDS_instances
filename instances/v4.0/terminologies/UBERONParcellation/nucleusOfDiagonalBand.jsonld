@@ -4,11 +4,17 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfDiagonalBand",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Nucleus of diagonal band' is a telencephalic nucleus. It is part of the medial septal complex.",
-  "description": "A brain structure that is part of the septal nuclear complex. It is connected with the hippocampus, hypothalamus and amygdala.",
+  "definition": "Is a telencephalic nucleus. Is part of the medial septal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001879) ('is_a' and 'relationship')]",
+  "description": "A brain structure that is part of the septal nuclear complex. It is connected with the hippocampus, hypothalamus and amygdala. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001879)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107755",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001879#nucleus-of-diagonal-band-1",
   "name": "nucleus of diagonal band",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001879",
-  "synonym": null
+  "synonym": [
+    "diagonal band nucleus",
+    "nucleus of diagonal band (of Broca)",
+    "nucleus of the diagonal band of Broca",
+    "olfactory area (roberts)"
+  ]
 }
+
