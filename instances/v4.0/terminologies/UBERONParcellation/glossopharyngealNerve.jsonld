@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/glossopharyngealNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001649)]",
+  "description": "Cranial nerve that branches into the ramus communicans (to the skin), the pretrematic (to the walls of the pharynx and mouth, viscero-sensory fibers), and the larval post-trematic branch (lost in the adult). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001649)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001649#glossopharyngeal-nerve-1",
+  "name": "glossopharyngeal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001649",
+  "synonym": [
+    "glossopharyngeal IX",
+    "glossopharyngeal IX nerve",
+    "glossopharyngeal nerve [IX]",
+    "glossopharyngeal nerve tree",
+    "nervus glossopharyngeus",
+    "nervus glossopharyngeus [ix]",
+    "ninth cranial nerve"
+  ]
+}
+

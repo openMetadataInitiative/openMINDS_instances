@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/accessoryXINerveNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cranial nerve nucleus and nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0020358)]",
+  "description": "The spinal accessory nucleus lies within the cervical spinal cord (C1-C5) in the ventral horn. The nucleus ambiguus is classically said to provide the 'cranial component' of the accessory nerve. However, the very existence of this cranial component has been recently questioned and seen as contributing exclusively to the vagus nerve. The terminology continues to be used in describing both human anatomy, and that of other animals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0020358)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0020358#accessory-xi-nerve-nucleus",
+  "name": "accessory XI nerve nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0020358",
+  "synonym": [
+    "accessory neural nucleus"
+  ]
+}
+

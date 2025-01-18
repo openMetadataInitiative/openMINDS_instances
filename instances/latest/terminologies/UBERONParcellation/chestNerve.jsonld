@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/chestNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve of thoracic segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003432)]",
+  "description": "A nerve that is part of a chest. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003432)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003432#chest-nerve",
+  "name": "chest nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003432",
+  "synonym": [
+    "anterior thoracic region nerve",
+    "anterolateral part of thorax nerve",
+    "front of thorax nerve",
+    "nerve of anterior thoracic region",
+    "nerve of anterolateral part of thorax",
+    "nerve of chest",
+    "nerve of front of thorax"
+  ]
+}
+

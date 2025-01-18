@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nasociliaryNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the frontal nerve (branch of ophthalmic). [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022300) ('is_a' and 'relationship')]",
+  "description": "A branch of the ophthalmic nerve that serves to supply the mucous membrane of the nose, the tip of the nose, and the conjunctiva. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022300)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022300#nasociliary-nerve",
+  "name": "nasociliary nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022300",
+  "synonym": [
+    "nasal nerve"
+  ]
+}
+

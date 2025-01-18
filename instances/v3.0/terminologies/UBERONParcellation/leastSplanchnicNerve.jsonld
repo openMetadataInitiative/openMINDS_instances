@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/leastSplanchnicNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a thoracic splanchnic nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001964)]",
+  "description": "A thoracic nerve that nerve travels into the abdomen, where its fibers synapse in the renal ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001964)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001964#least-splanchnic-nerve",
+  "name": "least splanchnic nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001964",
+  "synonym": [
+    "least thoracic splanchnic nerve",
+    "lowest splanchnic nerve",
+    "nervus splanchnicus imus",
+    "ramus renalis nervus splanchnici minoris",
+    "ramus renalis nervus splanchnici minoris",
+    "renal branch of lesser splanchnic nerve",
+    "renal nerve"
+  ]
+}
+

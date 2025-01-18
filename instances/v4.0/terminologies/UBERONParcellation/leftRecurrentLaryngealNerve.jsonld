@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/leftRecurrentLaryngealNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a recurrent laryngeal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011766)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011766#left-recurrent-laryngeal-nerve",
+  "name": "left recurrent laryngeal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011766",
+  "synonym": [
+    "left recurrent laryngeal branch",
+    "left recurrent laryngeal nerve",
+    "vagus X nerve left recurrent laryngeal branch"
+  ]
+}
+

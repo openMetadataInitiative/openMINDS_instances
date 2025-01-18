@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/mylohyoidNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011322)]",
+  "description": "A nerve that innervates the mylohyoid muscle and the anterior belly of the digastric muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011322)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011322#mylohyoid-nerve",
+  "name": "mylohyoid nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011322",
+  "synonym": [
+    "branch of inferior alveolar nerve to mylohyoid",
+    "mylodigastric nerve",
+    "mylohyoid branch of inferior alveolar nerve",
+    "nerve to mylohyoid",
+    "nervus mylohyoideus",
+    "nervus mylohyoideus"
+  ]
+}
+

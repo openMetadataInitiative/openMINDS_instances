@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cervicalNervePlexus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a spinal nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003725)]",
+  "description": "An arrangement of nerve fibers, running from the spine that travels to the head and neck where it innervates skin and muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003725)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003725#cervical-nerve-plexus",
+  "name": "cervical nerve plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003725",
+  "synonym": [
+    "cervical nerve plexus",
+    "cervical plexus",
+    "plexus cervicalis"
+  ]
+}
+
