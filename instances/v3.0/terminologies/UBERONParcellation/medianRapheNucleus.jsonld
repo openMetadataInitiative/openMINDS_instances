@@ -4,22 +4,21 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medianRapheNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "A large cell serotonergic raphe nucleus in the upper pons and lower mesencephalon that is part of the reticular formation",
-  "description": "'Median raphe nucleus' is a nucleus of midbrain reticular formation. It is part of the raphe nuclei.",
+  "definition": "Is a nucleus of midbrain reticular formation. Is part of the raphe nuclei. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003004) ('is_a' and 'relationship')]",
+  "description": "The median raphe nucleus (or superior central nucleus) is composed of polygonal, fusiform and pyriform neurons and exists rostral to the nucleus raphe pontis. One trait of the MRN is its inhibition by lysergic acid diethylamide and psilocin, two serotonin antagonist hallucinogens. The inactivation of the nucleus centralis superior via LSD produces a dose dependent inactivation in the MRN, but not in the raphe pallidus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003004)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111276",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003004#superior-central-nucleus",
   "name": "median raphe nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003004",
   "synonym": [
-    "Cell group B8",
+    "cell group b8",
     "medial raphe nucleus",
     "median nucleus of the raphe",
-    "median raphe nucleus",
     "MRN",
-    "nucleus centralis superior",
     "nucleus raphes medianus",
     "superior central nucleus",
     "superior central nucleus raphe",
     "superior central tegmental nucleus"
   ]
 }
+

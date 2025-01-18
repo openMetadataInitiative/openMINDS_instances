@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusPropriusOfSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a gray matter of spinal cord. Is part of the dorsal horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016610) ('is_a' and 'relationship')]",
+  "description": "The Nucleus proprius is a layer of the spinal cord adjacent to the substantia gelatinosa. Nucleus proprius constitutes the bulk of the dorsal horn and receives inputs from the dorsal root ganglions that carry sensory information, such as light touch, as well as pain and temperature information. Cells in this nucleus project to deeper laminae of the spinal cord, to the posterior column nuclei, and to other supraspinal relay centers including the midbrain, thalamus, and hypothalamus. Rexed laminae III, IV, and V make up the nucleus propius Nucleus proprius (NP), along with nucleus dorsalis (ND) are involved in sensing fine touch and proprioception. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016610)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016610#nucleus-proprius-of-spinal-cord",
+  "name": "nucleus proprius of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016610",
+  "synonym": [
+    "nucleus proprius medullae spinalis",
+    "proper sensory nucleus"
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfSuperiorOlivaryComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the superior olivary complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007247) ('is_a' and 'relationship')]",
+  "description": "Any of the nuclei that comprise the superior olivary complex (superior olive). This includes both the primary nuclei such as the lateral and medial nuclei, as well as periolivary nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007247)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007247#nucleus-of-superior-olivary-complex",
+  "name": "nucleus of superior olivary complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007247",
+  "synonym": [
+    "superior olivary complex nucleus"
+  ]
+}
+

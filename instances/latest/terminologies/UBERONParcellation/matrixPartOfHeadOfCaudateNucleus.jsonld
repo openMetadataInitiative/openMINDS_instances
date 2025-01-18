@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/matrixPartOfHeadOfCaudateNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Matrix part of head of caudate nucleus' is a matrix compartment of caudate nucleus. It is part of the head of caudate nucleus.",
-  "description": "Matrix compartment located in the head of the caudate nucleus",
+  "definition": "Is a matrix compartment of caudate nucleus. Is part of the head of caudate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027245) ('is_a' and 'relationship')]",
+  "description": "Matrix compartment located in the head of the caudate nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027245)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106571",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0027245#matrix-part-of-head-of-caudate-nucleus-1",
   "name": "matrix part of head of caudate nucleus",
@@ -15,3 +15,4 @@
     "matrix part of head of caudate nucleus"
   ]
 }
+
