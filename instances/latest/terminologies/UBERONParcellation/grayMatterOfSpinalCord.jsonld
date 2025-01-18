@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/grayMatterOfSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a gray matter. Is part of the spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002315) ('is_a' and 'relationship')]",
+  "description": "The ridge-shaped grey matter of the spinal cord that extends longitudunally through the center of each half of the spinal cord, and are largely or entirely composed of nerve cell bodies and their dendrites and some supportive tissue. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002315)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002315#gray-matter-of-spinal-cord",
+  "name": "gray matter of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002315",
+  "synonym": [
+    "gray matter of spinal cord",
+    "gray substance of spinal cord",
+    "grey matter of spinal cord",
+    "grey substance of spinal cord",
+    "spinal cord gray matter",
+    "spinal cord grey matter",
+    "spinal cord grey substance",
+    "substantia grisea medullae spinalis"
+  ]
+}
+

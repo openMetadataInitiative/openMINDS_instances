@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaGelatinosaOfThoracicSpinalCordDorsalHorn",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a substantia gelatinosa. Is part of the thoracic spinal cord dorsal horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014612) ('is_a' and 'relationship')]",
+  "description": "Substantia gelatinosa of thoracic spinal cord posterior horn. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014612)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014612#substantia-gelatinosa-of-thoracic-spinal-cord-dorsal-horn-1",
+  "name": "substantia gelatinosa of thoracic spinal cord dorsal horn",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014612",
+  "synonym": [
+    "substantia gelatinosa of thoracic spinal cord dorsal horn"
+  ]
+}
+

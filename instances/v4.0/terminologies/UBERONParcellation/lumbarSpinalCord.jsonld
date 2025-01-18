@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002792)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002792#lumbar-spinal-cord-1",
+  "name": "lumbar spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002792",
+  "synonym": [
+    "lumbar segment of spinal cord",
+    "lumbar segments of spinal cord [1-5]",
+    "lumbar spinal cord",
+    "pars lumbalis medullae spinalis",
+    "segmenta lumbalia medullae spinalis [1-5]",
+    "spinal cord lumbar segment"
+  ]
+}
+

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralFuniculusOfSpinalCord",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a funiculus of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002180)]",
+  "description": "The white substance of the spinal cord lying on either side between the ventral median fissure and the ventral roots of the spinal nerves. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002180)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002180#ventral-funiculus-of-spinal-cord",
+  "name": "ventral funiculus of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002180",
+  "synonym": [
+    "anterior funiculus",
+    "anterior funiculus of spinal cord",
+    "anterior white column of spinal cord",
+    "funiculus anterior medullae spinalis",
+    "ventral funiculus",
+    "ventral funiculus of spinal cord",
+    "ventral white column of spinal cord"
+  ]
+}
+

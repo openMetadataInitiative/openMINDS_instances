@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/apexOfThoracicSpinalCordDorsalHorn",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the thoracic spinal cord dorsal horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014611) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014611#apex-of-thoracic-spinal-cord-dorsal-horn-1",
+  "name": "apex of thoracic spinal cord dorsal horn",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014611",
+  "synonym": [
+    "apex of thoracic spinal cord dorsal horn"
+  ]
+}
+
