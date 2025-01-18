@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/tractOfThePostopticCommissure",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a diencephalic white matter. Is part of the postoptic commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001366) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2001366#tract-of-the-postoptic-commissure",
+  "name": "tract of the postoptic commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2001366",
+  "synonym": [
+    "TPOC"
+  ]
+}
+
