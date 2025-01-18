@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/thirdVentricleChoroidPlexusStroma",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a choroid plexus stroma. Is part of the choroid plexus of third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006339) ('is_a' and 'relationship')]",
+  "description": "A choroid plexus stroma that is part of a third ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006339)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006339#third-ventricle-choroid-plexus-stroma",
+  "name": "third ventricle choroid plexus stroma",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006339",
+  "synonym": null
+}
+

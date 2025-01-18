@@ -4,20 +4,20 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/bodyOfLateralVentricle",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Body of lateral ventricle' is a telencephalic ventricle.",
-  "description": "Part of lateral ventricle consisting of the central portion that lies dorsally, bounded by the thalamus on the ventral side (Adapted from Heimer, 1996)",
+  "definition": "Is a telencephalic ventricle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002655)]",
+  "description": "Part of lateral ventricle consisting of the central portion that lies dorsally, bounded by the thalamus on the ventral side (Adapted from Heimer, 1996) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002655)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101374",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002655#body-of-lateral-ventricle-1",
   "name": "body of lateral ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002655",
   "synonym": [
     "central part of lateral ventricle",
-    "corpus",
     "corpus ventriculi lateralis",
     "lateral ventricular body",
-    "pars centralis",
     "pars centralis (ventriculi lateralis)",
     "pars centralis ventriculi lateralis",
-    "ventriculus lateralis"
+    "ventriculus lateralis, corpus",
+    "ventriculus lateralis, pars centralis"
   ]
 }
+

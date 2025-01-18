@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/calcarAvisOfTheLateralVentricle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the telencephalic ventricle and the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035970) ('is_a' and 'relationship')]",
+  "description": "On the medial wall of the posterior cornu of the lateral ventricle is a longitudinal eminence, the calcar avis (hippocampus minor), which is an involution of the ventricular wall produced by the calcarine fissure. It is sometimes visible on ultrasonogram. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035970)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035970#calcar-avis-of-the-lateral-ventricle",
+  "name": "calcar avis of the lateral ventricle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035970",
+  "synonym": [
+    "hippocampus minor"
+  ]
+}
+

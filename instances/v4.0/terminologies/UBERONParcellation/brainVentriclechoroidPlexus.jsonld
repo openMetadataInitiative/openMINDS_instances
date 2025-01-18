@@ -2,13 +2,14 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/brainVentriclechoroidPlexus",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/brainVentricleChoroidPlexus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Brain ventricle/choroid plexus' is part of the brain.",
-  "description": "The brain ventricles or their associated choroid plexuses.",
+  "definition": "Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003947)]",
+  "description": "The brain ventricles or their associated choroid plexuses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003947)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0730467",
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003947#brain-ventricle-choroid-plexus",
   "name": "brain ventricle/choroid plexus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003947",
   "synonym": null
 }
+
