@@ -4,17 +4,16 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/parasubiculum",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Parasubiculum' is a regional part of brain. It is part of the hippocampal formation.",
-  "description": "A transitional zone between the presubiculum and the entorhinal area in the mouse (Paxinos-2001), the rat (Swanson-1998) and the primate (Zilles-1990). Defined on the basis of cytoarchitecture, it is more similar to the presubiculum than to the entorhinal area (Zilles-1990). (from Brain Info)",
+  "definition": "Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004683) ('is_a' and 'relationship')]",
+  "description": "A transitional zone between the presubiculum and the entorhinal area in the mouse (Paxinos-2001), the rat (Swanson-1998) and the primate (Zilles-1990). Defined on the basis of cytoarchitecture, it is more similar to the presubiculum than to the entorhinal area (Zilles-1990). (from Brain Info) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004683)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108477",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004683#parasubiculum-1",
   "name": "parasubiculum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004683",
   "synonym": [
     "parasubicular area",
-    "parasubicular cortex",
     "parasubicular cortex (parasubiculum)",
-    "parasubiculum",
-    "PaS"
+    "parasubiculum"
   ]
 }
+
