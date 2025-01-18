@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/superiorRostralGyrus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Superior rostral gyrus' is a regional part of brain. It is part of the rostral gyrus.",
-  "description": "",
+  "definition": "Is a regional part of brain. Is part of the rostral gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019279) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111324",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0019279#superior-rostral-gyrus-1",
   "name": "superior rostral gyrus",
@@ -14,3 +14,4 @@
     "superior rostral gyrus"
   ]
 }
+

@@ -4,22 +4,16 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/middleFrontalGyrus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Middle frontal gyrus' is a frontal gyrus.",
-  "description": "Component of the frontal lobe, lateral aspect (Christine Fennema-Notestine).",
+  "definition": "Is a frontal gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002702)]",
+  "description": "Component of the frontal lobe, lateral aspect (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002702)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106961",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002702#middle-frontal-gyrus-1",
   "name": "middle frontal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002702",
   "synonym": [
-    "gyrus F2",
     "gyrus frontalis medialis",
-    "gyrus frontalis medialis (Winters)",
-    "gyrus frontalis medius",
-    "gyrus frontalis secundus",
     "intermediate frontal gyrus",
-    "medial frontal gyrus",
-    "medial frontal gyrus (Mai)",
-    "medial frontal gyrus x",
-    "middle (medial) frontal gyrus"
+    "medial frontal gyrus"
   ]
 }
+

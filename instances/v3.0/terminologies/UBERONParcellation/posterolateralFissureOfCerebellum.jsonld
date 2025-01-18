@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posterolateralFissureOfCerebellum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002818)]",
+  "description": "Fissure between cerebellar lobules IX and X. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002818)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002818#posterolateral-fissure-of-cerebellum",
+  "name": "posterolateral fissure of cerebellum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002818",
+  "synonym": [
+    "dorsolateral fissure of cerebellum",
+    "posterolateral fissure of cerebellum",
+    "prenodular fissure",
+    "prenodular sulcus",
+    "uvulonodular fissure"
+  ]
+}
+

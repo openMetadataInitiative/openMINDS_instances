@@ -4,18 +4,17 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/triangularPartOfInferiorFrontalGyrus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Triangular part of inferior frontal gyrus' is part of the inferior frontal gyrus.",
-  "description": "Component of the inferior frontal gyrus.defined as the second gyrus from the precentral gyrus (Christine Fennema-Notestine).",
+  "definition": "Is part of the inferior frontal gyrus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002629)]",
+  "description": "Component of the inferior frontal gyrus. Defined as the second gyrus from the precentral gyrus (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002629)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111954",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002629#triangular-part-of-inferior-frontal-gyrus-1",
   "name": "triangular part of inferior frontal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002629",
   "synonym": [
-    "gyrus frontalis inferior",
-    "inferior frontal gyrus",
+    "gyrus frontalis inferior, pars triangularis",
     "pars triangularis",
     "pars triangularis gyri frontalis inferioris",
-    "pars triangularis of frontal operculum (Ono)",
-    "triangular part"
+    "pars triangularis of frontal operculum (Ono)"
   ]
 }
+
