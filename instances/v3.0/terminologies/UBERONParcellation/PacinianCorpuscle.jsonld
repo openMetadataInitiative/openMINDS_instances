@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/PacinianCorpuscle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003719)]",
+  "description": "Any of the rapidly adapting mechanoreceptors found in subcutaneous tissue beneath both hairy and glabrous skin, and which normally contain an afferent nerve fiber surrounded by a capsule with multiple concentric layers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003719)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003719#pacinian-corpuscle",
+  "name": "Pacinian corpuscle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003719",
+  "synonym": [
+    "corpuscle of golgi-mazzoni",
+    "corpusculum lamellosum",
+    "golgi-mazzoni corpuscle",
+    "lamellar corpuscle",
+    "Pacinian corpuscle"
+  ]
+}
+
