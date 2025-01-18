@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/CA3StratumLacunosumMoleculare",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a layer of CA3 field. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014559) ('is_a' and 'relationship')]",
+  "description": "Part of stratum lacunosum-moleculare in area CA3. It is bounded by the stratum lacunosum-moleculare of CA2 and CA1. It is bounded superficially by the pial surface and deep by the CA3 stratum radiatum. It is continuous with the stratum lacunosum-moleculare of CA2. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014559)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014559#ca3-stratum-lacunosum-moleculare-1",
+  "name": "CA3 stratum lacunosum moleculare",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014559",
+  "synonym": [
+    "CA3 part of stratum lacunosum moleculare",
+    "CA3 stratum lacunosum moleculare",
+    "lacunar-molecular layer of CA3 field",
+    "stratum lacunosum moleculare of the CA3 field"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusGranuleCellLayerOuterBlade",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a layer of dentate gyrus. Is part of the dentate gyrus granule cell layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022349) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022349#dentate-gyrus-granule-cell-layer-outer-blade",
+  "name": "dentate gyrus granule cell layer outer blade",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022349",
+  "synonym": null
+}
+
