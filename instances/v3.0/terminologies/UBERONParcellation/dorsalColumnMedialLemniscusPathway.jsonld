@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalColumnMedialLemniscusPathway",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neuron projection bundle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018237)]",
+  "description": "A sensory tract originating in the spinal cord responsible for transmitting fine touch, vibration and conscious proprioceptive information from the body to the cerebral cortex. The components include the fasciculus gracilis and fasciculus cuneatus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018237)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018237#dorsal-column-medial-lemniscus-pathway",
+  "name": "dorsal column-medial lemniscus pathway",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018237",
+  "synonym": null
+}
+

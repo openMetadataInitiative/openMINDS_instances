@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/epineurium",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000124) ('is_a' and 'relationship')]",
+  "description": "A loose connective tissue sheath surrounding each peripheral nerve. Composed mainly of colagen and fibroblasts, it forms a substantial covering over nerve trunks, then thins to an incomplete layer around smaller branches near their terminations. The epineurium is continuous centrally with the dura. Peripherally, it usually ends near the termination of a nerve fiber, but it may continue as the capsule of Meissner corpuscles and a few other encapsulated endings. Nolte, J. The Human Brain 3rd edition. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000124)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000124#epineurium",
+  "name": "epineurium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000124",
+  "synonym": null
+}
+

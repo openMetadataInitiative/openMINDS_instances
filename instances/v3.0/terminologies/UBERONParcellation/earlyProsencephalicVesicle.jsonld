@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/earlyProsencephalicVesicle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a future brain vesicle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006284)]",
+  "description": "Future brain vesicle that gives rise to telencephalic ventricle/lateral ventricles and 3rd ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006284)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006284#early-prosencephalic-vesicle",
+  "name": "early prosencephalic vesicle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006284",
+  "synonym": [
+    "prosencephalic vesicle"
+  ]
+}
+

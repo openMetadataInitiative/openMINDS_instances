@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsalOcellus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a head sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003161)]",
+  "description": "A simple visual organ of insects. Two ocelli appear on the vertical and one on the frontal plate. The multi-tissue structure that is located on the top of the head, composed of the corneal lens, pigment cell, rhabdoms and synaptic plexus. Two evolutionary distinct ocellus types exist: dorsal ocelli (or simply 'ocelli'), found in most insects, and lateral ocelli (or stemmata), which are found in the larvae of some insect orders. They are structurally and functionally very different. Simple eyes of other animals, e.g. cnidarians may also be referred to as 'ocelli', but again the structure and anatomy of these eyes is quite distinct from those of the dorsal ocelli of insects. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003161)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003161#dorsal-ocellus",
+  "name": "dorsal ocellus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003161",
+  "synonym": [
+    "ocellus"
+  ]
+}
+
