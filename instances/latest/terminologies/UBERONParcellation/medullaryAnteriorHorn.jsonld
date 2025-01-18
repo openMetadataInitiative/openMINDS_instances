@@ -4,15 +4,16 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/medullaryAnteriorHorn",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Medullary anterior horn' is a gray matter of hindbrain. It is part of the medulla oblongata.",
-  "description": "",
+  "definition": "Is a gray matter of hindbrain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023378) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106740",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023378#medullary-anterior-horn-1",
   "name": "medullary anterior horn",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023378",
   "synonym": [
     "cornu anterius medullaris",
-    "MAH",
+    "medullary anterior horn",
     "medullary anterior horn"
   ]
 }
+

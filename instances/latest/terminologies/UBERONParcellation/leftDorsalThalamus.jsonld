@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/leftDorsalThalamus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a dorsal thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013683)]",
+  "description": "A dorsal thalamus that is in the left side of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013683)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013683#left-dorsal-thalamus",
+  "name": "left dorsal thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013683",
+  "synonym": null
+}
+
