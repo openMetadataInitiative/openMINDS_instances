@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere7",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005523)]",
+  "description": "The seventh transiently divided segment of the developing rhombencephalon; rhombomeres are lineage restricted, express different genes from one another, and adopt different developmental fates; rhombomeres are numbered in caudal to rostral order. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005523)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005523#rhombomere-7",
+  "name": "rhombomere 7",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005523",
+  "synonym": [
+    "r7"
+  ]
+}
+

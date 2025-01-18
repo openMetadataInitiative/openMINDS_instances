@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rhombomere6",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005519)]",
+  "description": "The sixth transiently divided segment of the developing rhombencephalon; rhombomeres are lineage restricted, express different genes from one another, and adopt different developmental fates; rhombomeres are numbered in caudal to rostral order. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005519)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005519#rhombomere-6",
+  "name": "rhombomere 6",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005519",
+  "synonym": [
+    "r6"
+  ]
+}
+

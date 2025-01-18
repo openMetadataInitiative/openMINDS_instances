@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rhombomereRoofPlate",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the rhombomere. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005502)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005502#rhombomere-roof-plate",
+  "name": "rhombomere roof plate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005502",
+  "synonym": [
+    "roof plate rhombomere",
+    "roof plate rhombomere region",
+    "roof plate rhombomeres"
+  ]
+}
+
