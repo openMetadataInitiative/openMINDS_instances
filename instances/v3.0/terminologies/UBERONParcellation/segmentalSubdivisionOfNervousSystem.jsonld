@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/segmentalSubdivisionOfNervousSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004732) ('is_a' and 'relationship')]",
+  "description": "Any segmental subdivision of a nervous system. Includes metameric developmental segments, such as vertebrates neuromeres. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004732)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004732#segmental-subdivision-of-nervous-system",
+  "name": "segmental subdivision of nervous system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004732",
+  "synonym": null
+}
+
