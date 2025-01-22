@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area30",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006474)]",
+  "description": "Brodmann area 30, also known as agranular retrolimbic area 30, is a subdivision of the cytoarchitecturally defined retrosplenial region of the cerebral cortex. In the human it is located in the isthmus of cingulate gyrus. Cytoarchitecturally it is bounded internally by the granular retrolimbic area 29, dorsally by the ventral posterior cingulate area 23 and ventrolaterally by the ectorhinal area 36 (Brodmann-1909). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006474)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006474#brodmann-1909-area-30-1",
+  "name": "Brodmann (1909) area 30",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006474",
+  "synonym": [
+    "agranular retrolimbic area 30",
+    "area 30 of Brodmann",
+    "area 30 of Brodmann-1909",
+    "area retrolimbica agranularis",
+    "area retrosplenialis agranularis",
+    "B09-30",
+    "BA30",
+    "Brodmann (1909) area 30",
+    "Brodmann area 30",
+    "Brodmann area 30, agranular retrolimbic",
+    "Brodmann's area 30"
+  ]
+}
+

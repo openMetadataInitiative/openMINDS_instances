@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area32",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013560)]",
+  "description": "The Brodmann area 32, also known in the human brain as the dorsal anterior cingulate area 32, refers to a subdivision of the cytoarchitecturally defined cingulate region of cerebral cortex. In the human it forms an outer arc around the anterior cingulate gyrus. The cingulate sulcus defines approximately its inner boundary and the superior rostral sulcus (H) its ventral boundary; rostrally it extends almost to the margin of the frontal lobe. Cytoarchitecturally it is bounded internally by the ventral anterior cingulate area 24, externally by medial margins of the agranular frontal area 6, intermediate frontal area 8, granular frontal area 9, frontopolar area 10, and prefrontal area 11-1909. (Brodmann19-09). Dorsal region of anterior cingulate gyrus is associated with rational thought processes, most notably active during the Stroop task. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013560)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013560#brodmann-1909-area-32-1",
+  "name": "Brodmann (1909) area 32",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013560",
+  "synonym": [
+    "area 32 of Brodmann",
+    "area 32 of Brodmann-1909",
+    "area cingularis anterior dorsalis",
+    "area cingularis anterior dorsalis",
+    "B09-32",
+    "Brodmann (1909) area 32",
+    "Brodmann area 32",
+    "Brodmann area 32, dorsal anterior cingulate",
+    "Prelimbic area"
+  ]
+}
+

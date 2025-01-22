@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area1",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006099)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006099#brodmann-1909-area-1-1",
+  "name": "Brodmann (1909) area 1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006099",
+  "synonym": [
+    "area 1 of Brodmann",
+    "area 1 of Brodmann-1909",
+    "area postcentralis intermedia",
+    "B09-1",
+    "BA1",
+    "Brodmann (1909) area 1",
+    "Brodmann area 1",
+    "Brodmann's area 1",
+    "intermediate postcentral",
+    "intermediate postcentral area"
+  ]
+}
+

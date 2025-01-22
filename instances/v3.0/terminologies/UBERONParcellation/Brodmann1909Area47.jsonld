@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area47",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006484)]",
+  "description": "Brodmann area 47, or BA47, is part of the frontal cortex in the human brain. Curving from the lateral surface of the frontal lobe into the ventral (orbital) frontal cortex. It is below areas BA10 and BA45, and beside BA11. This area is also known as orbital area 47. In the human, on the orbital surface it surrounds the caudal portion of the orbital sulcus (H) from which it extends laterally into the orbital part of inferior frontal gyrus (H). Cytoarchitectonically it is bounded caudally by the triangular area 45, medially by the prefrontal area 11 of Brodmann-1909, and rostrally by the frontopolar area 10 (Brodmann-1909). It incorporates the region that Brodmann identified as 'Area 12' in the monkey, and therefore, following the suggestion of Michael Petrides, some contemporary neuroscientists refer to the region as 'BA47/12. ' BA47 has been implicated in the processing of syntax in spoken and signed languages, and more recently in musical syntax. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006484)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006484#brodmann-1909-area-47-1",
+  "name": "Brodmann (1909) area 47",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006484",
+  "synonym": [
+    "area 47 of Brodmann",
+    "area 47 of Brodmann-1909",
+    "area orbitalis",
+    "area orbitalis",
+    "B09-47",
+    "BA47",
+    "Brodmann (1909) area 47",
+    "Brodmann area 47",
+    "Brodmann area 47, orbital",
+    "orbital area 47"
+  ]
+}
+

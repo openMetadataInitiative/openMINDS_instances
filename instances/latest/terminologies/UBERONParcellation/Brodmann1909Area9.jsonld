@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area9",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. Is part of the dorsolateral prefrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013540) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013540#brodmann-1909-area-9-1",
+  "name": "Brodmann (1909) area 9",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013540",
+  "synonym": [
+    "area 9 of Brodmann",
+    "area 9 of Brodmann-1909",
+    "area frontalis granularis",
+    "area frontalis granularis",
+    "B09-9",
+    "Brodmann (1909) area 9",
+    "Brodmann area 9",
+    "Brodmann area 9, granular frontal",
+    "granular frontal area"
+  ]
+}
+

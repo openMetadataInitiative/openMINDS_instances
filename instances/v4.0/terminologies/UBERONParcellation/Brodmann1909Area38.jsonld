@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area38",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006479)]",
+  "description": "Brodmann area 38, also BA38 or temporopolar area 38 (H), is part of the temporal cortex in the human brain. BA 38 is at the anterior end of the temporal lobe, known as the temporal pole. BA38 is a subdivision of the cytoarchitecturally defined temporal region of cerebral cortex. It is located primarily in the most rostral portions of the superior temporal gyrus and the middle temporal gyrus. Cytoarchitecturally it is bounded caudally by the inferior temporal area 20, the middle temporal area 21, the superior temporal area 22 and the ectorhinal area 36 (Brodmann-1909). Cytoarchitectonic and chemoarchitectonic studies find that it contains at least seven subareas, one of which, TG, is unique to humans. 'The functional significance of this area TG is not known, but it may bind complex, highly processed perceptual inputs to visceral emotional responses.' This area is among the earliest affected by Alzheimer's disease and the earliest involved at the start of temporal lobe seizures. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006479)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006479#brodmann-1909-area-38-1",
+  "name": "Brodmann (1909) area 38",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006479",
+  "synonym": [
+    "area 38 of Brodmann",
+    "area 38 of Brodmann-1909",
+    "area temporopolaris",
+    "B09-38",
+    "BA38",
+    "Brodmann (1909) area 38",
+    "Brodmann area 38",
+    "Brodmann area 38, temporopolar",
+    "temporopolar area 38"
+  ]
+}
+

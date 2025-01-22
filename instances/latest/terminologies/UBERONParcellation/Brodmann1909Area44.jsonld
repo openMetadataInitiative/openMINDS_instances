@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area44",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006481)]",
+  "description": "Brodmann area 44, or BA44, is part of the frontal cortex in the human brain. Situated just anterior to premotor cortex and on the lateral surface, inferior to BA9. This area is also known as pars opercularis (of the inferior frontal gyrus), and it refers to a subdivision of the cytoarchitecturally defined frontal region of cerebral cortex. In the human it corresponds approximately to the opercular part of inferior frontal gyrus (H). Thus, it is bounded caudally by the inferior precentral sulcus (H) and rostrally by the anterior ascending limb of lateral sulcus (H). It surrounds the diagonal sulcus (H). In the depth of the lateral sulcus it borders on the insula. Cytoarchitectonically it is bounded caudally and dorsally by the agranular frontal area 6, dorsally by the granular frontal area 9 and rostrally by the triangular area 45 (Brodmann-1909). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006481)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006481#brodmann-1909-area-44-1",
+  "name": "Brodmann (1909) area 44",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006481",
+  "synonym": [
+    "area 44 of Brodmann",
+    "area 44 of Brodmann-1909",
+    "area opercularis",
+    "B09-44",
+    "BA44",
+    "Brodmann (1909) area 44",
+    "Brodmann area 44",
+    "Brodmann area 44, opercular",
+    "opercular area 44"
+  ]
+}
+

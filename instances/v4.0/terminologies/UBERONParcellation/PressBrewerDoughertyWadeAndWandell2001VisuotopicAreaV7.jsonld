@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/PressBrewerDoughertyWadeAndWandell2001VisuotopicAreaV7",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the occipital lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026776) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026776#press-brewer-dougherty-wade-and-wandell-2001-visuotopic-area-v7-1",
+  "name": "Press, Brewer, Dougherty, Wade and Wandell (2001) visuotopic area V7",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026776",
+  "synonym": [
+    "press, brewer, dougherty, wade and wandell (2001) visuotopic area v7",
+    "press, brewer, dougherty, wade and wandell (2001) visuotopic area v7"
+  ]
+}
+

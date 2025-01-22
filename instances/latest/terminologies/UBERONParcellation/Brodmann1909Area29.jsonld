@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area29",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004717)]",
+  "description": "Brodmann area 29, also known as granular retrolimbic area 29 or granular retrosplenial cortex, is a cytoarchitecturally defined portion of the retrosplenial region of the cerebral cortex. In the human it is a narrow band located in the isthmus of cingulate gyrus. Cytoarchitecturally it is bounded internally by the ectosplenial area 26 and externally by the agranular retrolimbic area 30 (Brodmann-1909). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004717)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004717#brodmann-1909-area-29-1",
+  "name": "Brodmann (1909) area 29",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004717",
+  "synonym": [
+    "area 29 of Brodmann",
+    "area 29 of Brodmann-1909",
+    "area retrolimbica granularis",
+    "B09-29",
+    "Brodmann (1909) area 29",
+    "Brodmann area 29",
+    "Brodmann area 29, granular retrolimbic",
+    "Brodmann's area 29"
+  ]
+}
+

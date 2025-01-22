@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area34",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006477)]",
+  "description": "Brodmann area 34 is a part of the brain. It has been described as part of the entorhinal area. It has been described as part of the superior temporal gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006477)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006477#brodmann-1909-area-34-1",
+  "name": "Brodmann (1909) area 34",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006477",
+  "synonym": [
+    "area 34 of Brodmann",
+    "area 34 of Brodmann-1909",
+    "area entorhinalis dorsalis",
+    "area entorhinalis dorsalis",
+    "B09-34",
+    "BA34",
+    "Brodmann (1909) area 34",
+    "Brodmann area 34",
+    "Brodmann area 34, dorsal entorhinal",
+    "dorsal entorhinal area 34"
+  ]
+}
+

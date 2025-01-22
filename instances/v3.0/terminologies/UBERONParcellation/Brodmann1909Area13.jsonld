@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area13",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013544)]",
+  "description": "Brodmann area 13 is a subdivision of the cerebral cortex as defined on the guenon monkey and on the basis of cytoarchitecture. Brodmann area 13 is found in humans, however it seems to act as a bridge between the lateral and medial layers of the brain. Thus it is sometimes misidentified as not being a Brodmann area. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013544)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013544#brodmann-1909-area-13-1",
+  "name": "Brodmann (1909) area 13",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013544",
+  "synonym": [
+    "area 13 of Brodmann-1909",
+    "B09-13",
+    "Brodmann (1909) area 13",
+    "Brodmann area 13"
+  ]
+}
+

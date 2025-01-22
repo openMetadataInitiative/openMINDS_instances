@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/TootellAndHadjikhani2001LOCLOPComplex",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the occipital lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026775) ('is_a' and 'relationship')]",
+  "description": "Cortical parcel in occipital cortex of human according to Tootell and Hadjikhani 2001 that is activated preferentially by more peripheral stimuli compared to the adjacent lateral occipital central parcel. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026775)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026775#tootell-and-hadjikhani-2001-loc-lop-complex-1",
+  "name": "Tootell and Hadjikhani (2001) LOC/LOP complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026775",
+  "synonym": [
+    "tootell and Hadjikhani (2001) loc/lop complex",
+    "tootell and Hadjikhani (2001) loc/lop complex"
+  ]
+}
+

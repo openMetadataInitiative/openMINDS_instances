@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area6",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006472)]",
+  "description": "Brodmann area 6, or BA6, is part of the frontal cortex in the human brain. Situated just anterior to the primary motor cortex, it is composed of the premotor cortex and, medially, the supplementary motor area, or SMA. This large area of the frontal cortex is believed to play a role in the planning of complex, coordinated movements. Brodmann area 6 is also called agranular frontal area 6 in humans because it lacks an internal granular cortical layer (layer IV). It is a subdivision of the cytoarchitecturally defined precentral region of cerebral cortex. In the human brain, it is located on the portions of the precentral gyrus that are not occupied by the gigantopyramidal area 4; furthermore, BA6 extends onto the caudal portions of the superior frontal and middle frontal gyri. It extends from the cingulate sulcus on the medial aspect of the hemisphere to the lateral sulcus on the lateral aspect. It is bounded rostrally by the granular frontal region and caudally by the gigantopyramidal area 4 (Brodmann, 1909). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006472)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006472#brodmann-1909-area-6-1",
+  "name": "Brodmann (1909) area 6",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006472",
+  "synonym": [
+    "agranular frontal area 6",
+    "area 6 of Brodmann",
+    "area 6 of Brodmann-1909",
+    "area frontalis agranularis",
+    "B09-6",
+    "BA6",
+    "Brodmann (1909) area 6",
+    "Brodmann area 6",
+    "Brodmann area 6, agranular frontal",
+    "frontal belt"
+  ]
+}
+

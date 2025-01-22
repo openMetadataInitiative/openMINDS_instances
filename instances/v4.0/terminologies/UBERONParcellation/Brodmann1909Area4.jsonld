@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area4",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. Is part of the primary motor cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013535) ('is_a' and 'relationship')]",
+  "description": "The term area 4 of Brodmann-1909 refers to a cytoarchitecturally defined portion of the frontal lobe of the guenon. It is located predominantly in the precentral gyrus. Brodmann-1909 regarded it as topographically and cytoarchitecturally homologous to the human gigantopyramidal area 4 and noted that it occupies a much greater fraction of the frontal lobe in the monkey than in the human. Distinctive features (Brodmann-1905): the cortex is unusually thick; the layers are not distinct; the cells are relatively sparsely distributed; giant pyramidal (Betz) cells are present in the internal pyramidal layer (V); lack of an internal granular layer (IV) such that the boundary between the external pyramidal layer (III) and the internal pyramidal layer (V) is indistinct; lack of a distinct external granular layer (II); a gradual transition from the multiform layer (VI) to the subcortical white matter. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013535)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013535#brodmann-1909-area-4-1",
+  "name": "Brodmann (1909) area 4",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013535",
+  "synonym": [
+    "area 4 of Brodmann",
+    "area 4 of Brodmann-1909",
+    "area gigantopyramidalis",
+    "B09-4",
+    "Brodmann (1909) area 4",
+    "Brodmann area 4",
+    "Brodmann area 4, gigantopyramidal",
+    "Brodmann's area 4",
+    "giant pyramidal area"
+  ]
+}
+

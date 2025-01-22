@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area8",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013539)]",
+  "description": "Brodmann area 8 is one of Brodmann's cytologically defined regions of the brain. It is involved in planning complex movements. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013539)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013539#brodmann-1909-area-8-1",
+  "name": "Brodmann (1909) area 8",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013539",
+  "synonym": [
+    "area 8 of Brodmann",
+    "area 8 of Brodmann-1909",
+    "area frontalis intermedia",
+    "area frontalis intermedia",
+    "B09-8",
+    "Brodmann (1909) area 8",
+    "Brodmann area 8",
+    "Brodmann area 8, intermediate frontal",
+    "intermediate frontal area"
+  ]
+}
+

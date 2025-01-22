@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Brodmann1909Area45",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. Is part of the frontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006482) ('is_a' and 'relationship')]",
+  "description": "Part of the cytoarchitecturally defined frontal region of cerebral cortex. In the human, it occupies the triangular part of the inferior frontal gyrus (human) and, surrounding the anterior horizontal limb of the lateral sulcus (human), a portion of the orbital part of the inferior frontal gyrus (human). Bounded caudally by the anterior ascending limb of the lateral sulcus (human), it borders on the insula in the depth of the lateral sulcus. Cytoarchitectonically it is bounded caudally by the opercular area 44, rostrodorsally by the area 46 of Brodmann (human) and ventrally by the area 47 of Brodmann (human) (Brodmann-1909) (Adapted from Brain Info) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006482)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006482#brodmann-1909-area-45-1",
+  "name": "Brodmann (1909) area 45",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006482",
+  "synonym": [
+    "area 45 of Brodmann",
+    "area 45 of Brodmann-1909",
+    "area triangularis",
+    "area triangularis",
+    "B09-45",
+    "BA45",
+    "Brodmann (1909) area 45",
+    "Brodmann area 45",
+    "Brodmann area 45, triangular",
+    "triangular area 45"
+  ]
+}
+

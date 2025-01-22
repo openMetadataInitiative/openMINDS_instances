@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area3",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006100)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006100#brodmann-1909-area-3-1",
+  "name": "Brodmann (1909) area 3",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006100",
+  "synonym": [
+    "area 3 of Brodmann",
+    "area 3 of Brodmann-1909",
+    "area postcentralis oralis",
+    "B09-3",
+    "BA3",
+    "Brodmann (1909) area 3",
+    "Brodmann area 3",
+    "Brodmann's area 3",
+    "rostral postcentral",
+    "rostral postcentral area"
+  ]
+}
+

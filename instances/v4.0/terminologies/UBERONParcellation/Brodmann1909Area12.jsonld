@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/Brodmann1909Area12",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013543)]",
+  "description": "Brodmann area 12 is a subdivision of the cerebral cortex of the guenon defined on the basis of cytoarchitecture. It occupies the most rostral portion of the frontal lobe. Brodmann-1909 did not regard it as homologous, either topographically or cytoarchitecturally, to rostral area 12 of the human. Distinctive features (Brodmann-1905): a quite distinct internal granular layer (IV) separates slender pyramidal cells of the external pyramidal layer (III) and the internal pyramidal layer (V); the multiform layer (VI) is expanded, contains widely dispersed spindle cells and merges gradually with the underlying cortical white matter; all cells, including the pyramidal cells of the external and internal pyramidal layers are inordinately small; the internal pyramidal layer (V) also contains spindle cells in groups of two to five located close to its border with the internal granular layer (IV). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013543)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013543#brodmann-1909-area-12-1",
+  "name": "Brodmann (1909) area 12",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013543",
+  "synonym": [
+    "area 12 of Brodmann",
+    "area 12 of Brodmann-1909",
+    "area praefrontalis",
+    "B09-12",
+    "Brodmann (1909) area 12",
+    "Brodmann area 12",
+    "Brodmann area 12, prefrontal",
+    "frontopolar area"
+  ]
+}
+
