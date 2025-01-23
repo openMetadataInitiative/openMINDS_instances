@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/otolithOrgan",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a vestibular organ. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002518)]",
+  "description": "The crystalline particles composed of calcium carbonate and a protein which adhere to the gelatinous membrane of the maculae of the utricle and saccule (otolithic membrane) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002518)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002518#otolith-organ",
+  "name": "otolith organ",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002518",
+  "synonym": null
+}
+

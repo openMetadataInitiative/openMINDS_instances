@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/infundibularOrgan",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of nervous system. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011358) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011358#infundibular-organ",
+  "name": "infundibular organ",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011358",
+  "synonym": [
+    "infundibular organ of Boeke",
+    "ventral infundibular organ"
+  ]
+}
+

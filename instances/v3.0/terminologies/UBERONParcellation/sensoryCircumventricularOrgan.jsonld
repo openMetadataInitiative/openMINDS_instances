@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sensoryCircumventricularOrgan",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a circumventricular organ. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010135)]",
+  "description": "A circumventricular organ that is capable of monitoring the levels of substances to the cerebrospinal fluid. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010135)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010135#sensory-circumventricular-organ",
+  "name": "sensory circumventricular organ",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010135",
+  "synonym": null
+}
+
