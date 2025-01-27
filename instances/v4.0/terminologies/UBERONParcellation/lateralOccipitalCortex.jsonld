@@ -4,19 +4,18 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralOccipitalCortex",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Lateral occipital cortex' is an occipital gyrus. It is part of the neocortex.",
-  "description": "Component of the occipital lobe.  The rostral and caudal boundaries of the lateral occipital cortex were the superior parietal gyrus and as the last visible portion of occipital cortex respectively. The medial and lateral boundaries were the cuneus/pericalcarine cortex and the inferior temporal/inferior parietal gyri respectively (Christine Fennema-Notestine).",
+  "definition": "Is an occipital gyrus. Is part of the neocortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006114) ('is_a' and 'relationship')]",
+  "description": "Component of the occipital lobe. The rostral and caudal boundaries of the lateral occipital cortex were the superior parietal gyrus and as the last visible portion of occipital cortex respectively. The medial and lateral boundaries were the cuneus/pericalcarine cortex and the inferior temporal/inferior parietal gyri respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006114)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106080",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006114#lateral-occipital-cortex-1",
   "name": "lateral occipital cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006114",
   "synonym": [
     "gyrus occipitalis lateralis",
-    "gyrus occipitalis medius",
     "gyrus occipitalis medius (mai)",
     "gyrus occipitalis secundus",
     "lateral occipital cortex",
-    "lateral occipital gyrus",
-    "middle occipital gyrus"
+    "lateral occipital gyrus"
   ]
 }
+

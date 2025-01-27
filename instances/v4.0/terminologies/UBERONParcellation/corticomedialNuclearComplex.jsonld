@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/corticomedialNuclearComplex",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Corticomedial nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the amygdala.",
-  "description": "These structures are referred to as nuclei but have a layered cortical like structure. These areas include the anterior amygdaloid area, posterior amygdaloid area, the periamygdaloid cortex, and the bed nucleus of the accessory olfactory tract.",
+  "definition": "Is a cerebral hemisphere gray matter and nuclear complex of neuraxis. Is part of the amygdala. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006108) ('is_a' and 'relationship')]",
+  "description": "These structures are referred to as nuclei but have a layered cortical like structure. These areas include the anterior amygdaloid area, posterior amygdaloid area, the periamygdaloid cortex, and the bed nucleus of the accessory olfactory tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006108)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102590",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006108#corticomedial-nuclear-complex-1",
   "name": "corticomedial nuclear complex",
@@ -13,12 +13,12 @@
   "synonym": [
     "amygdalar corticomedial nucleus",
     "CMA",
-    "corpus amygdaloideum pars corticomedialis",
-    "corpus amygdaloideum pars olfactoria",
     "corticomedial nuclear complex",
+    "corticomedial nuclear group",
     "corticomedial nuclear group",
     "corticomedial nuclei of amygdala",
     "pars corticomedialis (Corpus amygdaloideum)",
     "set of corticomedial nuclei of amygdala"
   ]
 }
+

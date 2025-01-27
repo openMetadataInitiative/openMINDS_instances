@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialVentralTegmentalArea",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Medial ventral tegmental area' is a regional part of brain. It is part of the ventral tegmental area.",
-  "description": "",
+  "definition": "Is a regional part of brain. Is part of the ventral tegmental area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023865) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106709",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023865#medial-ventral-tegmental-area-1",
   "name": "medial ventral tegmental area",
@@ -14,3 +14,4 @@
     "medial ventral tegmental area"
   ]
 }
+

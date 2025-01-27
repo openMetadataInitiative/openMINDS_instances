@@ -4,24 +4,17 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidArea",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Periamygdaloid area' is a cerebral hemisphere gray matter. It is part of the parahippocampal gyrus.",
-  "description": "",
+  "definition": "Is a cerebral hemisphere gray matter. Is part of the parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002656) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108715",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002656#periamygdaloid-area-1",
   "name": "periamygdaloid area",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002656",
   "synonym": [
-    "cortical amygdaloid nucleus",
-    "gyrus semilunaris",
-    "Para-amygdaloid cortex",
-    "periamygdalar area",
     "periamygdaloid area",
-    "periamygdaloid cortex",
     "periamygdaloid region",
-    "posterior amygdalar nucleus",
-    "posterior nucleus of the amygdala",
-    "regio periamygdalaris",
     "semilunar gyrus",
     "ventral cortical nucleus of amygdala"
   ]
 }
+

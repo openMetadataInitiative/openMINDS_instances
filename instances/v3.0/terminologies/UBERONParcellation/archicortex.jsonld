@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/archicortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an allocortex. Is part of the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002961) ('is_a' and 'relationship')]",
+  "description": "A portion of the cerebral cortex that, with the paleocortex, develops in association with the olfactory system, and which is phylogenetically older than the neocortex and lacks its layered structure. The embryonic archicortex corresponds to the cortex of the dentate gyrus and hippocampus in mature mammals. Being part of the limbic system, it has functions related to emotions and formation of memory. Signals being sent from the limbic lobe to the hippocampal formations can go via the archicortex as an intermediate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002961)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "archicortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002961",
+  "synonym": [
+    "archipallium"
+  ]
+}
+
