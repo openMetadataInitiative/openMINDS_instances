@@ -4,16 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/superiorCerebellarPeduncleOfMidbrain",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Superior cerebellar peduncle of midbrain' is a regional part of brain. It is part of the midbrain tegmentum and superior cerebellar peduncle.",
-  "description": "Regional part of superior cerebellar peduncle, located in the midbrain, consisting of a large bundle of fibers largely projecting from the deep cerebellar nuclei to the midbrain and thalamus.  It is continuous with the superior cerebellar peduncle of the pons. (MM).",
+  "definition": "Is a regional part of brain. Is part of the midbrain tegmentum and the superior cerebellar peduncle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007707) ('is_a' and 'relationship')]",
+  "description": "Regional part of superior cerebellar peduncle, located in the midbrain, consisting of a large bundle of fibers largely projecting from the deep cerebellar nuclei to the midbrain and thalamus. It is continuous with the superior cerebellar peduncle of the pons. (MM). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007707)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111280",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007707#superior-cerebellar-peduncle-of-midbrain-1",
   "name": "superior cerebellar peduncle of midbrain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007707",
   "synonym": [
-    "pedunculus cerebellaris superior (mesencephalon)",
-    "scpmb",
-    "superior cerebellar peduncle of midbrain",
-    "superior cerebellar peduncle of the midbrain"
+    "SCPMB",
+    "superior cerebellar peduncle of midbrain"
   ]
 }
+

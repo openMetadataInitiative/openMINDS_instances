@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinocerebellarTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an axon tract. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005413) ('is_a' and 'relationship')]",
+  "description": "This tract conveys interoceptive, proprioceptive, and exteroceptive information from the body's internal organs, and from the trunk, extremities, and neck region to the Cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005413)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005413#spinocerebellar-tract",
+  "name": "spinocerebellar tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005413",
+  "synonym": null
+}
+

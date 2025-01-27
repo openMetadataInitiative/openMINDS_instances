@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rostralMesencephaloCerebellarTract",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter. Is part of the brainstem and spinal white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000579) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000579#rostral-mesencephalo-cerebellar-tract",
+  "name": "rostral mesencephalo-cerebellar tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000579",
+  "synonym": null
+}
+

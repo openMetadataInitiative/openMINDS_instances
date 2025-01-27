@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/valleculaOfCerebellum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the medulla oblongata. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013166)]",
+  "description": "On the upper surface of the cerebellum the vermis is elevated above the level of the hemispheres, but on the under surface it is sunk almost out of sight in the bottom of a deep depression between them; this depression is called the vallecula of the cerebellum, and lodges the posterior part of the medulla oblongata. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013166)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013166#vallecula-of-cerebellum",
+  "name": "vallecula of cerebellum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013166",
+  "synonym": [
+    "vallecula cerebelli"
+  ]
+}
+

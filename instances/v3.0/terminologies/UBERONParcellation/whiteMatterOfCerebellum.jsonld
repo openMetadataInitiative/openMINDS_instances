@@ -4,10 +4,10 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfCerebellum",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'white matter of cerebellum' is a regional part of the cerebellum. It is a part of the overall brain white matter.",
-  "description": "Regional part of cerebellum consisting of the myelinated axons lying deep to the granule cell layer, excluding the deep cerebellar nuclei and the cerebellar peduncles. [BIRNLEX:1562]",
+  "definition": "Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002317)]",
+  "description": "Regional part of cerebellum consisting of the myelinated axons lying deep to the granule cell layer, excluding the deep cerebellar nuclei and the cerebellar peduncles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002317)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101962",
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002317#cerebellar-white-matter",
   "name": "white matter of cerebellum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002317",
   "synonym": [
@@ -15,3 +15,4 @@
     "cerebellum white matter"
   ]
 }
+

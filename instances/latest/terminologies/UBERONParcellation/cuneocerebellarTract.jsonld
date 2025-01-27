@@ -4,15 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cuneocerebellarTract",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Cuneocerebellar tract' is a tract of brain. It is part of the white matter of medulla oblongata.",
-  "description": "White matter tract that originates from the cuneate and external cuneate nuclei.  It relays ascending spinal fibers in the dorsal funiculus and conveys information from forelimbs to the cerebellum.",
+  "definition": "Is a tract of brain. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002640) ('is_a' and 'relationship')]",
+  "description": "White matter tract that originates from the cuneate and external cuneate nuclei. It relays ascending spinal fibers in the dorsal funiculus and conveys information from forelimbs to the cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002640)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102673",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002640#cuneocerebellar-tract-1",
   "name": "cuneocerebellar tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002640",
   "synonym": [
-    "CCT",
-    "cuneocerebellar fibers",
-    "tractus cuneocerebelli"
+    "cuneocerebellar fibers"
   ]
 }
+

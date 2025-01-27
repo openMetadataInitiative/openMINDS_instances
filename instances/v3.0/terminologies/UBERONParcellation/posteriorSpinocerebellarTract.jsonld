@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorSpinocerebellarTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an axon tract. Is part of the spinocerebellar tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002753) ('is_a' and 'relationship')]",
+  "description": "It ascends the dorsal part of the lateral funiculus and enters the cerebellum via the restiform body. Within the cerebellum, its axons terminate in the ipsilateral hindlimb area of the anterior lobe and in the pyramis and the paramedian lobule predominantly ipsilaterally. Rostrally, it extends to lobules I and II. Afferents from the upper trunk, forelimbs, and the neck to the cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002753)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002753#posterior-spinocerebellar-tract-1",
+  "name": "posterior spinocerebellar tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002753",
+  "synonym": [
+    "dorsal spinocerebellar tract",
+    "flechsig's tract"
+  ]
+}
+

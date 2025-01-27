@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleVIIAf",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of cerebellar cortex. Is part of the cerebellum posterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036044) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036044#cerebellum-vermis-lobule-viiaf",
+  "name": "cerebellum vermis lobule VIIAf",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036044",
+  "synonym": [
+    "lobule VIIAf/crus I (folium and superior semilunar lobule)",
+    "VIIAf"
+  ]
+}
+
