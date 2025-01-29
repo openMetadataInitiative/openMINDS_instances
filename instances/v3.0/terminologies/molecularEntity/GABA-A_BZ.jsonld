@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/GABA-A/BZ",
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/GABA-A_BZ",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
   "definition": "The GABA-A/BZ is a distinct binding site for benzodiazepines that is situated at the interface between the \u03b1- and \u03b3-subunits of \u03b1- and \u03b3-subunit containing GABA-A receptors.",
   "description": null,
