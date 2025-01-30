@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_parasolitaryNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PAS",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parasolitaryNucleus"
+    }
+  ],
+  "lookupLabel": "SwansonBM_parasolitaryNucleus",
+  "name": "parasolitary nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

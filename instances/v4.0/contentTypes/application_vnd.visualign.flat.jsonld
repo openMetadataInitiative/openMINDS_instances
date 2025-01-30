@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.visualign.flat",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".flat"
+  ],
+  "name": "application/vnd.visualign.flat",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "VisuAlign flat file"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dysgranularInsularCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "DI",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dysgranularInsularCortex"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_dysgranularInsularCortex",
+  "name": "dysgranular insular cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

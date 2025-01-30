@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parvicellularReticularNucleusAlphaPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PCRtA",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_parvicellularReticularNucleusAlphaPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_parvicellularReticularNucleusAlphaPart",
+  "name": "parvicellular reticular nucleus, alpha part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

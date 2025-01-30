@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_thoracicSympatheticGanglia313",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "Gs-T3-13",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thoracicSympatheticGanglia313"
+    }
+  ],
+  "lookupLabel": "SwansonBM_thoracicSympatheticGanglia313",
+  "name": "thoracic sympathetic ganglia, 3-13",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

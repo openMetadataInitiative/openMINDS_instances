@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/qualitativeOverlap/partiallyOverlapsWith",
+  "@type": "https://openminds.om-i.org/types/QualitativeOverlap",
+  "definition": "Two sets/objects (A and B) partially overlap when some elements/incidents are part of both original objects (A and B).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "partially overlaps with",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

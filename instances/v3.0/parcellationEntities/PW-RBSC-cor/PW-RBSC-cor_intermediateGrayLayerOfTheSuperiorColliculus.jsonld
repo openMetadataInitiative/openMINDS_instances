@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermediateGrayLayerOfTheSuperiorColliculus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "InG",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_intermediateGrayLayerOfTheSuperiorColliculus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_intermediateGrayLayerOfTheSuperiorColliculus",
+  "name": "intermediate gray layer of the superior colliculus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

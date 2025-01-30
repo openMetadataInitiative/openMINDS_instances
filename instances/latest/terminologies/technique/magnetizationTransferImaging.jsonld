@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/magnetizationTransferImaging",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "A magnetic resonance imaging technique that exploits the contrast between tissues where 1H protons are (i) bound to macromolecules, (ii) in free water, and (iii) in water of hydration layer between macromolecules and free water.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "magnetization transfer imaging",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "MTI",
+    "MT imaging"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorColliculus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "IC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_inferiorColliculus"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_inferiorColliculus",
+  "name": "inferior colliculus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

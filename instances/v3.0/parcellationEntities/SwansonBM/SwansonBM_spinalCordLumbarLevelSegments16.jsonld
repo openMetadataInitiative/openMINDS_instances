@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_spinalCordLumbarLevelSegments16",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "SP-L1-6",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalCordLumbarLevelSegments16"
+    }
+  ],
+  "lookupLabel": "SwansonBM_spinalCordLumbarLevelSegments16",
+  "name": "spinal cord, lumbar level, segments 1-6",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

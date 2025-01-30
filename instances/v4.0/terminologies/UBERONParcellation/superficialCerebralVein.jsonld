@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/superficialCerebralVein",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016559)]",
+  "description": "The superficial cerebral veins are a group of veins in the head. This group includes the superior cerebral veins. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016559)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016559#superficial-cerebral-vein",
+  "name": "superficial cerebral vein",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016559",
+  "synonym": [
+    "cortical cerebral vein"
+  ]
+}
+

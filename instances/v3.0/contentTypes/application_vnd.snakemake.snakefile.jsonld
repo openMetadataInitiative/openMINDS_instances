@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.snakemake.snakefile",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [],
+  "name": "application/vnd.snakemake.snakefile",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Snakefile"
+  ]
+}

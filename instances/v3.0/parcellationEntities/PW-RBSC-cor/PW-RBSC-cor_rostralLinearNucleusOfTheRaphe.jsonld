@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rostralLinearNucleusOfTheRaphe",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "RLi",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_rostralLinearNucleusOfTheRaphe"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_rostralLinearNucleusOfTheRaphe",
+  "name": "rostral linear nucleus of the raphe",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

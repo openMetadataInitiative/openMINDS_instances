@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParabrachialNucleusSuperiorPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "LPBS",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_lateralParabrachialNucleusSuperiorPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_lateralParabrachialNucleusSuperiorPart",
+  "name": "lateral parabrachial nucleus, superior part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

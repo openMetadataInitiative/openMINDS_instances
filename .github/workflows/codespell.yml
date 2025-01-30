@@ -23,3 +23,4 @@ jobs:
         with:
           ignore_words_file: .codespellignore
           skip: .git,*.pdf,*.svg
+          exclude_file: instances/latest/parcellationEntityVersions/PW-RBSC-cor_6th-ed/PW-RBSC-cor_6th-ed_temporalAssociationCortex.jsonld

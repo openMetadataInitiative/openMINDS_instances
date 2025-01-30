@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_schema+json",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".schema.json",
+    ".json",
+    ".jschema",
+    ".jsd",
+    ".jsonsd"
+  ],
+  "name": "application/schema+json",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/schema+json",
+  "specification": null,
+  "synonym": [
+    "JSON Schema"
+  ]
+}

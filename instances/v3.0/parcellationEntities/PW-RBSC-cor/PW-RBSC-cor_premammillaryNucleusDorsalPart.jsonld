@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_premammillaryNucleusDorsalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PMD",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_premammillaryNucleusDorsalPart"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_premammillaryNucleusDorsalPart",
+  "name": "premammillary nucleus, dorsal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

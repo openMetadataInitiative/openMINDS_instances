@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_middleCerebellarPeduncle",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "mcp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_middleCerebellarPeduncle"
+    }
+  ],
+  "lookupLabel": "PW-RBSC-cor_middleCerebellarPeduncle",
+  "name": "middle cerebellar peduncle",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

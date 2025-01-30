@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nikon.nis-elements",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".nd2"
+  ],
+  "name": "application/vnd.nikon.nis-elements",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "Nikon NIS-Elements"
+  ]
+}

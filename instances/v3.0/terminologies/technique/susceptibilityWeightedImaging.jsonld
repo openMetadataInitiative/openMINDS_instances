@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/susceptibilityWeightedImaging",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "MRI sequence, used with fully flow compensated, long echo, gradient recalled echo (GRE) pulse sequence. Acquires images sensitive to venous blood, hemorrhage and iron storage. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Susceptibility_weighted_imaging)].",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "susceptibility weighted imaging",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "SWI",
+    "BOLD venographic imaging"
+  ]
+}

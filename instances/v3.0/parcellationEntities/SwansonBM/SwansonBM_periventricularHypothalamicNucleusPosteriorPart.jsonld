@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/SwansonBM_periventricularHypothalamicNucleusPosteriorPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PVp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periventricularHypothalamicNucleusPosteriorPart"
+    }
+  ],
+  "lookupLabel": "SwansonBM_periventricularHypothalamicNucleusPosteriorPart",
+  "name": "periventricular hypothalamic nucleus, posterior part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

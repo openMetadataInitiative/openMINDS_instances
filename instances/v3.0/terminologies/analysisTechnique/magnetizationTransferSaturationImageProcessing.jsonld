@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/magnetizationTransferSaturationImageProcessing",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
+  "definition": "Magnetization transfer estimation method that improves the contrast between white matter, gray matter, and cerebrospinal fluid, as well as the correlation with macromolecular content [adapted from [Longoni et al., (2023)](https://doi.org/10.1177/13524585221137500)].",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "magnetization transfer saturation image processing",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "magnetization transfer saturation estimation",
+    "MTsat estimation",
+    "MTsat image processing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/licenses/BSD-2-Clause",
+  "@type": "https://openminds.om-i.org/types/License",
+  "fullName": "BSD 2-Clause 'Simplified' License",
+  "legalCode": "https://spdx.org/licenses/BSD-2-Clause.html",
+  "shortName": "BSD-2-Clause",
+  "webpage": [
+    "https://opensource.org/licenses/BSD-2-Clause",
+    "https://spdx.org/licenses/BSD-2-Clause.html"
+  ]
+}
