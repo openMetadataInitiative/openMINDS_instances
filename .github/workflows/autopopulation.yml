@@ -61,9 +61,10 @@ jobs:
           if [ ${#modified_jsons[@]} -gt 0 ]; then
             MAIN_FOLDER="instances"
             
-            # Add template files
-            wget https://raw.githubusercontent.com/openMetadataInitiative/openMINDS/refs/heads/main/vocab/types.json -P .github/templates/
-            wget https://raw.githubusercontent.com/openMetadataInitiative/openMINDS/refs/heads/main/vocab/properties.json -P .github/templates/
+            # Add reference files
+            wget https://raw.githubusercontent.com/openMetadataInitiative/openMINDS/refs/heads/main/vocab/types.json -P .github/
+            wget https://raw.githubusercontent.com/openMetadataInitiative/openMINDS/refs/heads/main/vocab/properties.json -P .github/
+            wget https://raw.githubusercontent.com/openMetadataInitiative/openMINDS/refs/heads/pipeline/versions.json -P .github/
             
             for FILE in "${!modified_jsons[@]}"; do
               FILE_MODULE=$(dirname "$FILE" | cut -d'/' -f3-)
@@ -90,8 +91,8 @@ jobs:
               done
             done
             
-            # Clean up template files and changed_files.txt
-            rm .github/templates/types.json .github/templates/properties.json
+            # Clean up reference files and changed_files.txt
+            rm .github/types.json .github/properties.json .github/versions.json
             rm changed_files.txt
             
             # Commit changes if any instance files were modified

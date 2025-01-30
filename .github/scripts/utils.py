@@ -1,11 +1,11 @@
 import json
 
 
-with open('.github/templates/versions-instances.json') as f:
+with open('.github/versions.json') as f:
     version_file = json.load(f)
-with open('.github/templates/types.json') as f:
+with open('.github/types.json') as f:
     types_file = json.load(f)
-with open('.github/templates/properties.json') as f:
+with open('.github/properties.json') as f:
     properties_file = json.load(f)
 
 regex_pattern_type = r"https://openminds\.(om-i\.org|ebrains\.eu)/.*/"
