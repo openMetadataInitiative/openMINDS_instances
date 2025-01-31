@@ -1,23 +1,26 @@
 name: Autopopulation
 
 on:
+  # Trigger when a pull request is merged into main
   pull_request:
     types: [closed]
     branches:
       - main
+  # Trigger on direct pushes to main
   push:
     branches:
       - main
 
 jobs:
   sync-instances:
+    # Run the job if a PR was merged or a push occurred on main
     if: github.event.pull_request.merged == true || github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch full history to compare against the base branch
+          fetch-depth: 0  # Fetch full history for accurate diff comparisons
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
@@ -28,17 +31,16 @@ jobs:
       - name: Process and Sync Changes in instance Files
         id: process_sync_instances
         run: |
+          # Identify modified or added .jsonld files
+          # Store them in changed_files.txt (fallback to true to prevent pipeline failure)
           git checkout HEAD
-
-          # Compare the changes between the PR branch and the base branch
           git diff --name-only --diff-filter=AM HEAD^ HEAD | grep '\.jsonld$' > changed_files.txt || true
           
-          cat changed_files.txt
           declare -A modified_jsons
           declare -A file_versions
           declare -A skip_files
           
-          # Check if there are any changed .jsonld files
+          # Process the list of changed .jsonld files
           if [ -s changed_files.txt ]; then
             while IFS= read -r file; do
               FILE_MODULE=$(dirname "$file" | cut -d'/' -f3-)
@@ -46,11 +48,12 @@ jobs:
               MODULE_NAME="$FILE_MODULE/$FILE_NAME"
               FILE_VERSION=$(echo "$file" | cut -d'/' -f2)
           
-              # Track file versions across modules
+              # If the file appears in multiple versions on push, mark it for skipping
               if [[ -n "${file_versions[$MODULE_NAME]}" ]]; then
-                # If we encounter a second version for the same MODULE_NAME, mark it to be skipped
                 skip_files[$MODULE_NAME]=1
                 echo "Skipping all versions of $MODULE_NAME due to multiple versions detected."
+              
+              # Store eligible .jsonld files for instance generation
               else
                 file_versions[$MODULE_NAME]="$FILE_VERSION"
                 modified_jsons["$file"]="$FILE_VERSION"
@@ -58,31 +61,38 @@ jobs:
             done < changed_files.txt
           fi
           
+          # Process eligible .jsonld files for instance generation
           if [ ${#modified_jsons[@]} -gt 0 ]; then
             MAIN_FOLDER="instances"
             
-            # Add reference files
+            # Fetch reference files required for instance generation
             wget https://raw.githubusercontent.com/openMetadataInitiative/openMINDS/refs/heads/main/vocab/types.json -P .github/
             wget https://raw.githubusercontent.com/openMetadataInitiative/openMINDS/refs/heads/main/vocab/properties.json -P .github/
             wget https://raw.githubusercontent.com/openMetadataInitiative/openMINDS/refs/heads/pipeline/versions.json -P .github/
             
+            # Loop through each modified .jsonld file
             for FILE in "${!modified_jsons[@]}"; do
               FILE_MODULE=$(dirname "$FILE" | cut -d'/' -f3-)
               FILE_NAME=$(basename "$FILE")
               MODULE_NAME="$FILE_MODULE/$FILE_NAME"
           
-              # Skip processing if marked in skip_files
+              # Skip generation if marked for skipping
               if [[ -n "${skip_files[$MODULE_NAME]}" ]]; then
-                echo "Skipping generation for $MODULE_NAME due to multiple versions in PR/push."
+                echo "Skipping generation for $MODULE_NAME due to multiple versions in a merged PR/push."
                 continue
               fi
-          
+              
+              # Retrieve version where the .jsonld file is located
               FILE_VERSION="${modified_jsons[$FILE]}"
           
-              # Iterate over all other versions (excluding the one where the file was modified)
+              # Iterate over existing versions in the instances directory
               for VERSION in $(ls "$MAIN_FOLDER"); do
+          
+                # Skip processing if the version matches the modified file's version
                 if [ "$VERSION" != "$FILE_VERSION" ]; then
                   TARGET_FILE="$MAIN_FOLDER/$VERSION/$FILE_MODULE/$FILE_NAME"
+          
+                  # Generate instance only if the target directory exists
                   if [ -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ]; then
                     echo "Generating instance from $FILE to $TARGET_FILE"
                     python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
@@ -91,17 +101,17 @@ jobs:
               done
             done
             
-            # Clean up reference files and changed_files.txt
+            # Cleanup reference files and change log
             rm .github/types.json .github/properties.json .github/versions.json
             rm changed_files.txt
             
-            # Commit changes if any instance files were modified
+            # Commit changes if any instances were modified
             git config --global user.name "openMINDS pipeline"
             git config --global user.email "openminds@ebrains.eu"
             git add $MAIN_FOLDER/**/*.jsonld
             git commit -m "Autopopulation of instance file."
             
-            # Fetch latest changes from remote and rebase before pushing
+            # Fetch latest remote changes and rebase before pushing
             git fetch origin main
             git pull --rebase origin main
             git push origin HEAD:main
