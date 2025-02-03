@@ -4,23 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/habenula",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Habenula' is a regional part of brain. It is part of the epithalamus.",
-  "description": "Habenula is a segment of the epithalamus that has as its parts the lateral and medial habenular nuclei and the habenular commissure.",
+  "definition": "Is a regional part of brain. Is part of the epithalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001904) ('is_a' and 'relationship')]",
+  "description": "A segment of the epithalamus that has as its parts the habenular nuclei and the habenular commissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001904)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104854",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001904#habenula-1",
   "name": "habenula",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001904",
   "synonym": [
-    "ganglion intercrurale",
-    "ganglion interpedunculare",
-    "habenula complex",
-    "habenulae",
-    "habenular complex",
-    "habenular nuclei",
-    "habenular nucleus",
-    "Hb",
-    "nuclei habenulares",
-    "nucleus habenularis",
-    "pineal peduncle"
+    "habenula complex"
   ]
 }
+
