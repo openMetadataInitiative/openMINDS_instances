@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorColliculusSuperficialGrayLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a gray matter layer of superior colliculus and superficial layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006120)]",
+  "description": "Layer of the superior colliculus, lying just deep to the outermost stratum zonale (Carpenter, A Core Text of Neuroanatomy, 3rd ed., 1985, pg 175) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006120)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006120#superior-colliculus-superficial-gray-layer",
+  "name": "superior colliculus superficial gray layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006120",
+  "synonym": [
+    "lamina colliculi superioris ii",
+    "lamina II of superior colliculus",
+    "layer II of superior colliculus",
+    "outer gray layer of superior colliculus",
+    "stratum cinereum",
+    "stratum griseum superficiale",
+    "stratum griseum superficiale colliculi superioris",
+    "stratum griseum superficiale of superior colliculus",
+    "superficial gray layer of superior colliculus",
+    "superficial grey layer of superior colliculus",
+    "superior colliculus superficial gray layer"
+  ]
+}
+

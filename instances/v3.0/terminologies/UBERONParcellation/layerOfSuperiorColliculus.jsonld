@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfSuperiorColliculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the superior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006783) ('is_a' and 'relationship')]",
+  "description": "The microstructure of the optic tectum / superior colliculus varies across species. As a general rule, there is always a clear distinction between superficial layers, which receive input primarily from the visual system and show primarily visual responses, and deeper layers, which receive many types of input and project to numerous motor-related brain areas. The distinction between these two zones is so clear and consistent that some anatomists have suggested that they should be considered separate brain structures. In mammals, neuroanatomists conventionally identify seven layers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006783)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006783#layer-of-superior-colliculus",
+  "name": "layer of superior colliculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006783",
+  "synonym": [
+    "cytoarchitectural part of superior colliculus",
+    "layer of optic tectum"
+  ]
+}
+

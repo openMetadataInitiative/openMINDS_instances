@@ -4,14 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/olfactoryBulbMainGlomerularLayer",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Olfactory bulb main glomerular layer' is an olfactory bulb glomerular layer. It is part of the main olfactory bulb.",
-  "description": "The glomerular layer of the main olfactory bulb, lying deep to the olfactory nerve layer.  It contains the glomeruli, neuropil rich spheroid structures surrounded by a distinctive shell of small neuros and glial cells (Paxinos, the Rat Nervous System, 2nd ed., Academic Press, 1995).",
+  "definition": "Is an olfactory bulb glomerular layer. Is part of the main olfactory bulb. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023934) ('is_a' and 'relationship')]",
+  "description": "The glomerular layer of the main olfactory bulb, lying deep to the olfactory nerve layer. It contains the glomeruli, neuropil rich spheroid structures surrounded by a distinctive shell of small neuros and glial cells (Paxinos, the Rat Nervous System, 2nd ed., Academic Press, 1995). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023934)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107938",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023934#olfactory-bulb-main-glomerular-layer-1",
   "name": "olfactory bulb main glomerular layer",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023934",
   "synonym": [
-    "Gl",
     "olfactory bulb main glomerular layer"
   ]
 }
+
