@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.webalign.waln+json",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/ContentType/",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ContentType",
   "dataType": null,
   "description": "WebAlign waln is a JSON-based content type containing the linear image registration information for multiple tissue section images to a standard atlas space. It contains complete metadata for a collection of deepzoom images (mandatory), their storage location (mandatory), identifier of the standard atlas space (mandatory), and the actual linear image registration in the form of 3D vector triplets per image (optional).",
   "displayLabel": null,
