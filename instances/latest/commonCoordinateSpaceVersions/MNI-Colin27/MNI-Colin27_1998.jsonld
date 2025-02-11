@@ -15,15 +15,15 @@
   "axesOrigin": [
     {
       "@type": "https://openminds.om-i.org/types/QuantitativeValue",
-      "value": 75.0	    
+      "value": 75.0
     },
     {
       "@type": "https://openminds.om-i.org/types/QuantitativeValue",
-      "value": 111.0	    
+      "value": 111.0
     },    
     {
       "@type": "https://openminds.om-i.org/types/QuantitativeValue",
-      "value": 67.0	    
+      "value": 67.0
     }	    
   ],
   "copyright": null,
