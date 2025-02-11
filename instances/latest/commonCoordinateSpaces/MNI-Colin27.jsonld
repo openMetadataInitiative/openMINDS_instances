@@ -19,7 +19,7 @@
     }
   ],
   "homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases",
-  "howToCite": "Please make sure to follow the copyright of the [MNI Colin27 Average Brain Stereotaxic Registration Model (original 1998 version)](https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/colin-27). You may also cite its original publication, [Holmes et al. (1998)](http://doi.org/10.1097/00004728-199803000-00032), and/or its later publication, [Aubert-Broche et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.03.052).",
+  "howToCite": "Please make sure to follow the copyright of the [MNI Colin27 Average Brain Stereotaxic Registration Model](https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/colin-27). You may also cite its original publication, [Holmes et al. (1998)](http://doi.org/10.1097/00004728-199803000-00032), and/or its later publication, [Aubert-Broche et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.03.052).",
   "ontologyIdentifier": null,
   "shortName": "MNI Colin27 Average Brain",
   "usedSpecies": {
