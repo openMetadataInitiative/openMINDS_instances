@@ -50,5 +50,5 @@
   "supportChannel": null,
   "usedSpecimen": null,
   "versionIdentifier": "2008",
-  "versionInnovation": "This is the high-resolution version of the common coordinate space. These volumes are defined at a 0.5mm isotropic voxel grid in Talairach space, with dimensions 362x434x362 (XxYxZ) and start coordinates −90,−126,−72 (x,y,z)."
+  "versionInnovation": "This is the high-resolution version of the common coordinate space. These volumes are defined at a 0.5 mm isotropic voxel grid in Talairach space, with dimensions 362x434x362 (XxYxZ) and start coordinates −90,−126,−72 (x,y,z)."
 }
