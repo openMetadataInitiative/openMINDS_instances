@@ -22,10 +22,10 @@
   "fullName": "MNI Colin27 Average Brain Stereotaxic Registration Model",
   "funding": null,
   "homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases",
-  "howToCite": "Please make sure to follow the copyright of the [MNI Colin27 Average Brain Stereotaxic Registration Model (original 1998 version)](https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/colin-27). You may also cite its original publication, [Holmes et al. (1998)](http://doi.org/10.1097/00004728-199803000-00032).",
+  "howToCite": "Please make sure to follow the copyright of the [MNI Colin27 Average Brain Stereotaxic Registration Model (original 1998 version)](https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/colin-27). You may also cite its original publication, [Holmes et al. (1998)](http://doi.org/10.1097/00004728-199803000-00032), and the corrsponding publication, [Aubert-Broche et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.03.052).",
   "isAlternativeVersionOf": [
     {
-      "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-Colin27_2008"
+      "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-Colin27_1998"
     }
   ],
   "isNewVersionOf": null,
@@ -39,13 +39,16 @@
   "relatedPublication": [
     {
       "@id": "https://doi.org/10.1097/00004728-199803000-00032"	  
+    },
+    {
+      "@id": "https://doi.org/10.1016/j.neuroimage.2006.03.052"	  
     }
   ],
-  "releaseDate": "1998-06-01",
+  "releaseDate": "2006-08-01",
   "repository": null,
   "shortName": "MNI Colin27 Average Brain",
   "supportChannel": null,
   "usedSpecimen": null,
-  "versionIdentifier": "1998",
-  "versionInnovation": "This is the original version of the common coordinate space."
+  "versionIdentifier": "2008",
+  "versionInnovation": "This is the high-resolution version of the common coordinate space. These volumes are defined at a 0.5mm isotropic voxel grid in Talairach space, with dimensions 362x434x362 (XxYxZ) and start coordinates −90,−126,−72 (x,y,z)."
 }
