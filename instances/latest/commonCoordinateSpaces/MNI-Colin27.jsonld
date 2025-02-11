@@ -1,28 +1,28 @@
 {
-	"@context": {
-		"@vocab": "https://openminds.om-i.org/props/"
-	},
-	"@id": "https://openminds.om-i.org/instances/commonCoordinateSpace/MNI-Colin27",
-	"@type": "https://openminds.om-i.org/types/CommonCoordinateSpace",
-	"abbreviation": "MNI-Colin27",
-	"author": null,
-	"custodian": null,
-	"description": "The 'MNI Colin 27 Average Brain Stereotaxic Registration Model' is a stereotaxic average of T1-, T2- and PD-weighted MRI scans of the same individual (27, 12 and 12 scans, respectively).It was created at the Montreal Neurological Institute (MNI). The MRI scans were automatically registered to a common stereotaxic space using MRITOTAL (an automated volumetric registration procedure), resampled and intensity averaged.",
-	"digitalIdentifier": null,
-	"fullName": "MNI Colin27 Average Brain Stereotaxic Registration Model",
-	"hasVersion": [
-		{
-			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-Colin27_1998"
-		},
-		{
-			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-Colin27_2008"
-		}
-	],
-	"homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases",
-	"howToCite": "Holmes CJ, Hoge R, Collins L, Woods R, Toga AW, and Evans AC; 'Enhancement of MR images using registration for signal averaging.'; J Comput Assist Tomogr; 1998 Mar-Apr; 22(2):324–33. [doi: 10.1097/00004728-199803000-00032](http://dx.doi.org/10.1097/00004728-199803000-00032)\nAubert-Broche B, Evans AC, and Collins DL; 'A new improved version of the realistic digital brain phantom'; NeuroImage; 2006 Aug;32(1):138–45. [doi: 10.1016/j.neuroimage.2006.03.052](https://doi.org/10.1016/j.neuroimage.2006.03.052)",
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateSpace/MNI-Colin27",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateSpace",
+  "abbreviation": "MNI-Colin27",
+  "author": null,
+  "custodian": null,
+  "description": "The 'MNI Colin 27 Average Brain Stereotaxic Registration Model' is a stereotaxic average of T1-, T2- and PD-weighted MRI scans of the same individual (27, 12 and 12 scans, respectively).It was created at the Montreal Neurological Institute (MNI). The MRI scans were automatically registered to a common stereotaxic space using MRITOTAL (an automated volumetric registration procedure), resampled and intensity averaged.",
+  "digitalIdentifier": null,
+  "fullName": "MNI Colin27 Average Brain Stereotaxic Registration Model",
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-Colin27_1998"
+    },    
+    {
+      "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-Colin27_2008"
+    }
+  ],
+  "homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases",
+  "howToCite": "Please make sure to follow the copyright of the [MNI Colin27 Average Brain Stereotaxic Registration Model (original 1998 version)](https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/colin-27). You may also cite its original publication, [Holmes et al. (1998)](http://doi.org/10.1097/00004728-199803000-00032), and/or its later publication, [Aubert-Broche et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.03.052).",
   "ontologyIdentifier": null,
-	"shortName": "MNI Colin27 Average Brain",
-	"usedSpecies": {
-		"@id": "https://openminds.om-i.org/instances/species/homoSapiens"
-	}
+  "shortName": "MNI Colin27 Average Brain",
+  "usedSpecies": {
+    "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
+  }
 }
