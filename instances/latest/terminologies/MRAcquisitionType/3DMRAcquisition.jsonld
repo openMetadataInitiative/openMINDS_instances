@@ -10,5 +10,8 @@
     "knowledgeSpaceLink": null,
     "name": "3D MR acquisition",
     "preferredOntologyIdentifier": null,
-    "synonym": "3D MRI acquisition"
+    "synonym": [
+        "3D MRI acquisition",
+        "frequency * phase * phase"
+    ]
 }
