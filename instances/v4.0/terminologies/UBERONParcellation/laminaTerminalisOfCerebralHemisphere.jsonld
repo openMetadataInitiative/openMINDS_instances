@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/laminaTerminalisOfCerebralHemisphere",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter lamina of cerebral hemisphere. Is part of the cerebral hemisphere white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015117) ('is_a' and 'relationship')]",
+  "description": "The remnant of the lamina terminalis in the developed brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015117)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015117#lamina-terminalis-of-cerebral-hemisphere",
+  "name": "lamina terminalis of cerebral hemisphere",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015117",
+  "synonym": null
+}
+
