@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/roofPlateOfMedullaOblongata",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the medulla oblongata. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003303)]",
+  "description": "A roof plate that is part of a medulla oblongata. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003303)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003303#roof-plate-of-medulla-oblongata",
+  "name": "roof plate of medulla oblongata",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003303",
+  "synonym": [
+    "bulb roof plate",
+    "bulb roofplate",
+    "medulla oblongata roof plate",
+    "medulla oblongata roofplate",
+    "medulla oblonmgata roof plate",
+    "medulla oblonmgata roofplate",
+    "metepencephalon roof plate",
+    "metepencephalon roofplate",
+    "roof plate medulla oblongata",
+    "roof plate of bulb",
+    "roof plate of medulla oblonmgata",
+    "roof plate of metepencephalon",
+    "roofplate of bulb",
+    "roofplate of medulla oblongata",
+    "roofplate of medulla oblonmgata",
+    "roofplate of metepencephalon"
+  ]
+}
+
