@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/paracentralSulcus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002598)]",
+  "description": "The paracentral sulcus is a sulcus of the brain. It forms the paracentral lobule's anterior border. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002598)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002598#paracentral-sulcus-1",
+  "name": "paracentral sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002598",
+  "synonym": [
+    "sulcus subcentralis medialis"
+  ]
+}
+
