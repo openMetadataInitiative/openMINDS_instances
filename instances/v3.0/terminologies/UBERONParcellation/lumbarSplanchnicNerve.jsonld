@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lumbarSplanchnicNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a splanchnic nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018683)]",
+  "description": "The lumbar splanchnic nerves are splanchnic nerves that arise from the lumbar part of the sympathetic trunk and travel to an adjacent plexus near the aorta. They are originated from L1 and L2. These nerves contain preganglionic sympathetic and visceral afferent fibers. The site of synapse is found in the prevertebral ganglia and innervate the smooth muscle and glands of the pelvic viscera and hindgut. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018683)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018683#lumbar-splanchnic-nerve",
+  "name": "lumbar splanchnic nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018683",
+  "synonym": null
+}
+
