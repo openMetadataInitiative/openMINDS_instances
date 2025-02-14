@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularLayerOfDorsalNucleusOfLateralGeniculateBody",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a layer of lateral geniculate body. Is part of the dorsal lateral geniculate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013606) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013606#magnocellular-layer-of-dorsal-nucleus-of-lateral-geniculate-body",
+  "name": "magnocellular layer of dorsal nucleus of lateral geniculate body",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013606",
+  "synonym": [
+    "lateral geniculate nucleus magnocellular layer",
+    "magnocellular layer of lateral geniculate nucleus",
+    "strata magnocellularia nuclei dorsalis corporis geniculati lateralis"
+  ]
+}
+

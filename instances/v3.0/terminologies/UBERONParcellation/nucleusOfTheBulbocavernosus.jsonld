@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheBulbocavernosus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of spinal cord. Is part of the ventral horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018545) ('is_a' and 'relationship')]",
+  "description": "A cluster of motoneurons located in the anterior gray column of lumbar segments 5 and 6 of the spinal cord in the rat. Functionally it belongs to the somatic motoneuron pools of the subcortical motor system ( Swanson-2004 ) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018545)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018545#nucleus-of-the-bulbocavernosus",
+  "name": "nucleus of the bulbocavernosus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018545",
+  "synonym": null
+}
+
