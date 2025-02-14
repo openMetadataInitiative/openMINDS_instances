@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/descendingOctavalNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an octaval nerve sensory nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000645)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000645#descending-octaval-nucleus",
+  "name": "descending octaval nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000645",
+  "synonym": null
+}
+

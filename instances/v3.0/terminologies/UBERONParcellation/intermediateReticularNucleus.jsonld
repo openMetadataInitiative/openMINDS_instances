@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateReticularNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of medulla oblongata. Is part of the intermediate reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009777) ('is_a' and 'relationship')]",
+  "description": "A nucleus of brain that is part of a intermediate reticular formation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009777)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009777#intermediate-reticular-nucleus",
+  "name": "intermediate reticular nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009777",
+  "synonym": null
+}
+
