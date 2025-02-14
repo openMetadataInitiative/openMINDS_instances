@@ -4,19 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/interanterodorsalNucleusOfTheThalamus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Interanterodorsal nucleus of the thalamus' is a regional part of brain. It is part of the anterior nuclear group.",
-  "description": "A group of nerve cells that bridges the midline of the thalamus between the anterodorsal nucleus of the thalamus of the left and right sides. According to Crosby (1962), it is more developed and consistently present in rodents than in primates (adapted from Brain Info).",
+  "definition": "Is a regional part of brain. Is part of the anterior nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035972) ('is_a' and 'relationship')]",
+  "description": "A group of nerve cells that bridges the midline of the thalamus between the anterodorsal nucleus of the thalamus of the left and right sides. According to Crosby (1962), it is more developed and consistently present in rodents than in primates (adapted from Brain Info). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035972)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105539",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035972#interanterodorsal-nucleus-of-the-thalamus",
   "name": "interanterodorsal nucleus of the thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035972",
-  "synonym": [
-    "IAD",
-    "interanterodorsal nucleus of thalamus",
-    "interanterodorsal nucleus of the thalamus",
-    "interanterodorsal nucleus thalamus",
-    "interanterodorsal thalamic nucleus",
-    "nucleus commissura interanterodorsalis",
-    "nucleus interanterodorsalis"
-  ]
+  "synonym": null
 }
+
