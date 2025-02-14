@@ -4,11 +4,24 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/CA3FieldOfHippocampus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Part of hippocampus proper bounded by the hilus of the dentate gyrus and area CA2, characterized by large pyramidal cells and a dense projection from dentate gyrus granule cell mossy fibers.",
-  "description": "'CA3 field of hippocampus' is a hippocampal field.",
+  "definition": "Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003883)]",
+  "description": "Part of hippocampus proper bounded by the hilus of the dentate gyrus and area CA2, characterized by large pyramidal cells and a dense projection from dentate gyrus granule cell mossy fibers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003883)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101534",
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003883#ca3",
   "name": "CA3 field of hippocampus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003883",
-  "synonym": null
+  "synonym": [
+    "CA3",
+    "CA3 field",
+    "CA3 field of Ammon's horn",
+    "CA3 field of cornu ammonis",
+    "hippocampus CA3",
+    "regio III cornus ammonis",
+    "regio III hippocampi proprii",
+    "regio inferior",
+    "region 3 of Ammon's horn",
+    "region III of ammon's horn",
+    "region III of hippocampus proper"
+  ]
 }
+

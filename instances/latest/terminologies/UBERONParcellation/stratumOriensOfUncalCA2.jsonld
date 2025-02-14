@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/stratumOriensOfUncalCA2",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the uncal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034866) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034866#stratum-oriens-of-uncal-ca2",
+  "name": "stratum oriens of uncal CA2",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034866",
+  "synonym": null
+}
+

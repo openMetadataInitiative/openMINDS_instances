@@ -4,11 +4,20 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hippocampalCommissure",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Hippocampal commissure' is a dorsal telencephalic commissure. It is part of the cerebral hemisphere white matter.",
-  "description": "The triangular subcallosal plate of commissural fibers resulting from the converging of the right and left fornix bundles which exchange numerous fibers and which curve back in the contralateral fornix to end in the hippocampus of the opposite side.",
+  "definition": "Is a dorsal telencephalic commissure. Is part of the cerebral hemisphere white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000908) ('is_a' and 'relationship')]",
+  "description": "The triangular subcallosal plate of commissural fibers resulting from the converging of the right and left fornix bundles which exchange numerous fibers and which curve back in the contralateral fornix to end in the hippocampus of the opposite side. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000908)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102407",
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000908#commissure-of-fornix",
   "name": "hippocampal commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000908",
-  "synonym": null
+  "synonym": [
+    "commissura hippocampi",
+    "commissure of fornix of forebrain",
+    "delta fornicis",
+    "dorsal hippocampal commissure",
+    "fornical commissure",
+    "fornix commissure",
+    "hippocampus commissure"
+  ]
 }
+
