@@ -4,12 +4,18 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusDorsalPart",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Is a regional part of brain. Is part of the anterior nucleus of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014592) ('is_a' and 'relationship')]",
-  "description": null,
+  "definition": "'Anterior nucleus of hypothalamus dorsal part' is a regional part of brain. It is part of the anterior nucleus of hypothalamus.",
+  "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100721",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014592#anterior-nucleus-of-hypothalamus-dorsal-part-1",
   "name": "anterior nucleus of hypothalamus dorsal part",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014592",
-  "synonym": null
+  "synonym": [
+    "AHNd",
+    "anterior hypothalamic dorsal part",
+    "anterior hypothalamic nucleus",
+    "anterior hypothalamic nucleus dorsal part",
+    "anterior nucleus of hypothalamus dorsal part",
+    "dorsal part"
+  ]
 }
-

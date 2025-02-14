@@ -4,20 +4,29 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfMedialGeniculateBody",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Is a nucleus of dorsal thalamus. Is part of the medial geniculate body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002758) ('is_a' and 'relationship')]",
-  "description": "Dorsal division of the medial geniculate nucleus, as first defined by Morest (1964) in the cat, but also described in the rat. It fills all but the medial edge of the posterior tip in cat, and joins the lateral thalamic nucleus anteriorly (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1261345/?page=3) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002758)]",
+  "definition": "'Dorsal nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.",
+  "description": "Dorsal division of the medial geniculate nucleus, as first defined by Morest (1964) in the cat, but also described in the rat. It fills all but the medial edge of the posterior tip in cat, and joins the lateral thalamic nucleus anteriorly (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1261345/?page=3)",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103458",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002758#dorsal-nucleus-of-medial-geniculate-body-1",
   "name": "dorsal nucleus of medial geniculate body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002758",
   "synonym": [
+    "DMG",
+    "dorsal medial geniculate nucleus",
+    "dorsal nucleus of medial geniculate body",
     "dorsal nucleus of medial geniculate complex",
-    "medial geniculate complex, dorsal part",
-    "medial geniculate nucleus, dorsal part",
-    "nucleus corporis geniculati medialis, pars dorsalis",
+    "dorsal nucleus of the medial geniculate body",
+    "dorsal part",
+    "medial geniculate complex",
+    "medial geniculate complex dorsal part",
+    "medial geniculate nucleus",
+    "medial geniculate nucleus dorsal part",
+    "MGD",
+    "nucleus corporis geniculati medialis",
+    "nucleus dorsalis coporis geniculati medialis",
     "nucleus dorsalis corporis geniculati medialis",
-    "nucleus geniculatus medialis fibrosus (hassler)",
-    "nucleus geniculatus medialis pars dorsalis"
+    "nucleus geniculatus medialis fibrosus (Hassler)",
+    "nucleus geniculatus medialis pars dorsalis",
+    "pars dorsalis"
   ]
 }
-

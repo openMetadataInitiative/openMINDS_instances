@@ -4,19 +4,22 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/caudalPartOfVentralLateralNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "Is a gray matter of diencephalon. Is part of the ventral lateral nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002608) ('is_a' and 'relationship')]",
-  "description": null,
+  "definition": "'Caudal part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.",
+  "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101722",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002608#caudal-part-of-ventral-lateral-nucleus-1",
   "name": "caudal part of ventral lateral nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002608",
   "synonym": [
-    "dorsal part of ventral lateral posterior nucleus (jones)",
+    "caudal part",
+    "caudal part of the ventral lateral nucleus",
+    "dorsal part of ventral lateral posterior nucleus (Jones)",
     "nucleus dorsooralis (van buren)",
     "nucleus lateralis intermedius mediodorsalis situs dorsalis",
-    "nucleus ventralis lateralis, pars caudalis",
-    "ventral lateral nucleus, caudal part",
-    "ventral lateral thalamic nucleus, caudal part"
+    "nucleus ventralis lateralis",
+    "pars caudalis",
+    "ventral lateral nucleus",
+    "ventral lateral thalamic nucleus",
+    "VLC"
   ]
 }
-

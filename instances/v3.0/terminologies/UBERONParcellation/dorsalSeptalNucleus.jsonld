@@ -4,12 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalSeptalNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Is a telencephalic nucleus. Is part of the septal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002931) ('is_a' and 'relationship')]",
-  "description": null,
+  "definition": "'Dorsal septal nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.",
+  "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103478",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002931#dorsal-septal-nucleus-1",
   "name": "dorsal septal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002931",
-  "synonym": null
+  "synonym": [
+    "nucleus dorsalis septi",
+    "nucleus septalis dorsalis"
+  ]
 }
-

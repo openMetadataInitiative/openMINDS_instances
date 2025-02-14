@@ -4,17 +4,26 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/caudalPartOfVentralPosterolateralNucleusOfThalamus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "Is a gray matter of diencephalon. Is part of the ventral posterolateral nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002781) ('is_a' and 'relationship')]",
-  "description": null,
+  "definition": "'Caudal part of ventral posterolateral nucleus of thalamus' is a gray matter of diencephalon. It is part of the ventral posterolateral nucleus.",
+  "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101723",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002781#caudal-part-of-ventral-posterolateral-nucleus",
   "name": "caudal part of ventral posterolateral nucleus of thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002781",
   "synonym": [
+    "caudal part",
+    "caudal part of the ventral posterolateral nucleus",
     "caudal part of ventral posterolateral nucleus",
+    "nucleus ventralis caudalis lateralis",
+    "nucleus ventralis posterior lateralis",
+    "nucleus ventralis posterior pars lateralis (Dewulf)",
+    "nucleus ventralis posterolateralis (Walker)",
+    "nucleus ventrocaudalis externus (Van Buren)",
+    "pars caudalis",
+    "posterior part",
     "ventral posterior lateral nucleus (ilinsky)",
-    "ventral posterolateral nucleus, caudal part",
-    "ventral posterolateral thalamic nucleus, caudal part"
+    "ventral posterolateral nucleus",
+    "ventral posterolateral thalamic nucleus",
+    "VPLC"
   ]
 }
-

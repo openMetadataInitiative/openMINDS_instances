@@ -4,16 +4,22 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsomedialNucleusOfHypothalamus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "Is a hypothalamic nucleus. Is part of the medial zone of hypothalamus and the intermediate hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001934) ('is_a' and 'relationship')]",
-  "description": "The Dorsomedial hypothalamic nucleus is a nucleus of the hypothalamus. It is involved in feeding, drinking, and body weight regulation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001934)]",
+  "definition": "'Dorsomedial nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the medial zone of hypothalamus and intermediate hypothalamic region.",
+  "description": "The Dorsomedial hypothalamic nucleus is a nucleus of the hypothalamus. It is involved in feeding, drinking, and body weight regulation. [WP,unvetted].",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103515",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001934#dorsomedial-nucleus-of-hypothalamus-1",
   "name": "dorsomedial nucleus of hypothalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001934",
   "synonym": [
+    "DMH",
     "dorsomedial hypothalamic nucleus",
+    "dorsomedial nucleus",
+    "dorsomedial nucleus hypothalamus",
     "dorsomedial nucleus of dorsal hypothalamus",
-    "dorsomedial nucleus of intermediate hypothalamus"
+    "dorsomedial nucleus of intermediate hypothalamus",
+    "dorsomedial nucleus of the hypothalamus",
+    "nucleus dorsomedialis hypothalami",
+    "nucleus dorsomedialis hypothalamicae intermediae",
+    "nucleus hypothalamicus dorsomedialis"
   ]
 }
-

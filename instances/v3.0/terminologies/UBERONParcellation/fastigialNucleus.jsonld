@@ -4,17 +4,24 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fastigialNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Is a nucleus of cerebellar nuclear complex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002153)]",
-  "description": "The most medial of the cerebellar nuclei; it receives its afferent input from Purkinje cells of the flocculonodular lobe and the vermis, and most of its efferent connections travel via the inferior cerebellar peduncle to the vestibular nuclei and to the medullary reticular formation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002153)]",
+  "definition": "'Fastigial nucleus' is a nucleus of cerebellar nuclear complex.",
+  "description": "The most medial of the cerebellar nuclei; it receives its afferent input from Purkinje cells of the flocculonodular lobe and the vermis, and most of its efferent connections travel via the inferior cerebellar peduncle to the vestibular nuclei and to the medullary reticular formation",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104122",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002153#fastigial-nucleus-1",
   "name": "fastigial nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002153",
   "synonym": [
+    "Fas",
+    "fasciculosus thalamic nucleus",
+    "fastigial cerebellar nucleus",
     "medial (fastigial) nucleus",
     "medial cerebellar nucleus",
+    "medial nucleus of cerebellum",
+    "nucleus (motorius) tecti cerebelli",
+    "nucleus fastigiatus",
     "nucleus fastigii",
+    "nucleus fastigii cerebelli",
+    "nucleus fastigius cerebelli",
     "roof nucleus-1"
   ]
 }
-

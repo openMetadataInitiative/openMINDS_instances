@@ -4,15 +4,19 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellumInterpositusNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "Is a nucleus of cerebellar nuclear complex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004073)]",
-  "description": "The nucleus composed of the globose and emoliform nuclei of the cerebellum; in some mammalian species the globose nucleus is not distinguishable. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004073)]",
+  "definition": "'Cerebellum interpositus nucleus' is a nucleus of cerebellar nuclear complex.",
+  "description": "The nucleus composed of the globose and emoliform nuclei of the cerebellum; in some mammalian species the globose nucleus is not distinguishable",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105602",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004073#interpositus-nucleus",
   "name": "cerebellum interpositus nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004073",
   "synonym": [
+    "Int",
+    "interposed cerebellar nuclei",
+    "interposed nucleus",
     "interposed nucleus of cerebellum",
-    "interposed nucleus of the cerebellum"
+    "interposed nucleus of the cerebellum",
+    "interpositus",
+    "interpositus nucleus"
   ]
 }
-

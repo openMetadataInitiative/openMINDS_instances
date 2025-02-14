@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfSpinalTrigeminalNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Is a gray matter of hindbrain. Is part of the spinal nucleus of trigeminal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002866) ('is_a' and 'relationship')]",
-  "description": null,
+  "definition": "'Caudal part of spinal trigeminal nucleus' is a gray matter of hindbrain. It is part of the spinal nucleus of trigeminal nerve.",
+  "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101721",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002866#caudal-part-of-spinal-trigeminal-nucleus-1",
   "name": "caudal part of spinal trigeminal nucleus",
@@ -13,7 +13,19 @@
   "synonym": [
     "caudal nucleus",
     "caudal nucleus (kandell)",
-    "spinal trigeminal nucleus, caudal part"
+    "Caudal nucleus (Kandell)",
+    "caudal part",
+    "caudal part of the spinal trigeminal nucleus",
+    "CSp5",
+    "nucleus caudalis tractus spinalis nervi trigemini",
+    "nucleus spinalis nervi trigemini",
+    "pars caudalis",
+    "spinal nucleus of the trigeminal",
+    "spinal nucleus of the trigeminal caudal part",
+    "spinal nucleus of the trigeminal nerve caudal part",
+    "spinal trigeminal nucleus",
+    "spinal trigeminal nucleus caudal part",
+    "subnucleus caudalis",
+    "trigeminal caudal nucleus"
   ]
 }
-

@@ -4,17 +4,21 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfLateralLemniscus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Is a nucleus of lateral lemniscus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003006)]",
-  "description": null,
+  "definition": "'Dorsal nucleus of lateral lemniscus' is a nucleus of lateral lemniscus.",
+  "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103457",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003006#dorsal-nucleus-of-lateral-lemniscus-1",
   "name": "dorsal nucleus of lateral lemniscus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003006",
   "synonym": [
+    "DLL",
     "dorsal nucleus of the lateral lemniscus",
-    "nucleus of the lateral lemniscus, dorsal part",
+    "dorsal part",
+    "nucleus lemnisci lateralis dorsalis",
+    "nucleus lemnisci lateralis pars dorsalis",
+    "nucleus of the lateral lemniscus",
+    "nucleus of the lateral lemniscus dorsal part",
     "nucleus posterior lemnisci lateralis",
     "posterior nucleus of lateral lemniscus"
   ]
 }
-

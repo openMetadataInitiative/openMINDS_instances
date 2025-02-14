@@ -4,12 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/anteroventralPreopticNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "Is a preoptic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035974)]",
-  "description": null,
+  "definition": "'Anteroventral preoptic nucleus' is a preoptic nucleus.",
+  "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100783",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035974#anteroventral-preoptic-nucleus",
   "name": "anteroventral preoptic nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035974",
-  "synonym": null
+  "synonym": [
+    "anteroventral preoptic nuclei",
+    "AVP"
+  ]
 }
-

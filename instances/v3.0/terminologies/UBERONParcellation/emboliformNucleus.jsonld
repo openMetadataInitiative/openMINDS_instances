@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/emboliformNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Is a cerebellum interpositus nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002602)]",
-  "description": "The small wedge shaped nucleus interposed between the dentate and fastigial nuclei; it receives axons from Purkinje cells of the intermediate area of the cerebral hemispheres and most of its efferent connections travel via the superior cerebellar peduncle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002602)]",
+  "definition": "'Emboliform nucleus' is a cerebellum interpositus nucleus.",
+  "description": "The small wedge shaped nucleus interposed between the dentate and fastigial nuclei; it receives axons from Purkinje cells of the intermediate area of the cerebral hemispheres and most of its efferent connections travel via the superior cerebellar peduncle",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103738",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002602#emboliform-nucleus-1",
   "name": "emboliform nucleus",
@@ -15,9 +15,13 @@
     "anterior interpositus nucleus",
     "cerebellar emboliform nucleus",
     "cerebellum emboliform nucleus",
+    "Emb",
     "embolus",
     "lateral interpositus (emboliform) nucleus",
-    "nucleus interpositus anterior"
+    "lateral interpositus nucleus",
+    "nucleus emboliformis",
+    "nucleus emboliformis cerebelli",
+    "nucleus interpositus anterior",
+    "nucleus interpositus anterior cerebelli"
   ]
 }
-
