@@ -4,20 +4,16 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/opticChiasma",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Optic chiasma' is a decussation of diencephalon.",
-  "description": "A location within the visual system of binocular animals where axons of retinal ganglion cells cross contralaterally or remain ipsilatterally towards termination zones in the lateral geniculate nucleus.",
+  "definition": "Is a decussation of diencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000959)]",
+  "description": "A decussation of the diencephalon where the fibers of the optic nerve cross. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000959)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108069",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000959#optic-chiasm",
   "name": "optic chiasma",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000959",
   "synonym": [
-    "chiasma",
-    "chiasma nervorum opticorum",
     "chiasma opticum",
     "decussation of optic nerve fibers",
-    "optic chiasm",
-    "optic chiasm (Rufus of Ephesus)",
-    "optic chiasma",
-    "ox"
+    "optic chiasm"
   ]
 }
+
