@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rootOfThoracicNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009630)]",
+  "description": "A spinal nerve root that is part of a thoracic nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009630)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009630#nerve-root-part-of-thoracic-spinal-cord",
+  "name": "root of thoracic nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009630",
+  "synonym": [
+    "nerve root part of thoracic spinal cord",
+    "thoracic nerve root",
+    "thoracic neural root"
+  ]
+}
+
