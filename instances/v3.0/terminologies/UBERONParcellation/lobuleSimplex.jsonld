@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lobuleSimplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellum hemisphere lobule and hemisphere part of cerebellar posterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005350)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005350#lobule-simplex",
+  "name": "lobule simplex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005350",
+  "synonym": [
+    "hemispheric lobule VI",
+    "lobule h VI of larsell",
+    "lobulus quadrangularis pars caudalis/posterior",
+    "lobulus quadrangularis pars inferoposterior",
+    "lobulus quadrangularis posterior",
+    "lobulus quadrangularis posterior cerebelli [H VI]",
+    "lobulus simplex",
+    "lobulus simplex cerebelli [h vi et vi]",
+    "posterior crescentic lobule of cerebellum",
+    "semilunar lobule-1 (posterior)",
+    "simple lobule",
+    "simple lobule of cerebellum",
+    "simple lobule of cerebellum [h VI and VI]",
+    "simplex",
+    "simplex (hVI)",
+    "simplex lobule"
+  ]
+}
+

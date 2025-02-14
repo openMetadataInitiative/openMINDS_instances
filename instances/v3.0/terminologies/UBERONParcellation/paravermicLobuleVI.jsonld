@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleVI",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028923)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0028923#paravermic-lobule-vi",
+  "name": "paravermic lobule VI",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0028923",
+  "synonym": [
+    "paravermic lobule vi"
+  ]
+}
+
