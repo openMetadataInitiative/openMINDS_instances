@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/chemoarchitecturalPartOfBrain",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Chemoarchitectural part of brain' is a regional part of brain.",
-  "description": "Regional part of an anatomical region that is revealed by the use of a stain that reveals chemoarchitecture.",
+  "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024090)]",
+  "description": "Regional part of an anatomical region that is revealed by the use of a stain that reveals chemoarchitecture. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024090)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102072",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0024090#chemoarchitectural-part",
   "name": "chemoarchitectural part of brain",
@@ -14,3 +14,4 @@
     "chemoarchitectural part"
   ]
 }
+
