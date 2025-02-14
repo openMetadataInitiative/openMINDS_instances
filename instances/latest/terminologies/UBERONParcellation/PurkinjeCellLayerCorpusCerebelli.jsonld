@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/PurkinjeCellLayerCorpusCerebelli",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the corpus cerebelli. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002240)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2002240#purkinje-cell-layer-corpus-cerebelli",
+  "name": "Purkinje cell layer corpus cerebelli",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2002240",
+  "synonym": null
+}
+

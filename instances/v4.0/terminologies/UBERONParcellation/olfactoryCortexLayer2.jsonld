@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/olfactoryCortexLayer2",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022318) ('is_a' and 'relationship')]",
+  "description": "Middle layer of olfactory cortex lying deep to layer 1 and superficial to layer 3, characterized by a compact layer of cell bodies. It can be divided into a superficial part and a deep part. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022318)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022318#olfactory-cortex-layer-2",
+  "name": "olfactory cortex layer 2",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022318",
+  "synonym": null
+}
+
