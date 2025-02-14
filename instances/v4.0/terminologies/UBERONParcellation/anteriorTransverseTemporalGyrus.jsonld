@@ -10,6 +10,11 @@
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002773#anterior-transverse-temporal-gyrus-1",
   "name": "anterior transverse temporal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002773",
-  "synonym": null
+  "synonym": [
+    "anterior transverse convolution of heschl",
+    "anterior transverse temporal convolution of heschl",
+    "first transverse gyrus of Heschl",
+    "great transverse gyrus of Heschl"
+  ]
 }
 

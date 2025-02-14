@@ -10,6 +10,21 @@
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002721#lateral-sulcus-1",
   "name": "lateral sulcus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002721",
-  "synonym": null
+  "synonym": [
+    "fissura lateralis",
+    "fissura lateralis cerebri",
+    "fissura lateralis cerebri (sylvii)",
+    "fissura transversa cerebri",
+    "fissure of Sylvius",
+    "lateral cerebral fissure",
+    "lateral cerebral sulcus",
+    "lateral fissure",
+    "lateral fissure of Sylvius",
+    "sulcus lateralis",
+    "sulcus lateralis cerebri",
+    "Sylvian fissure",
+    "Sylvian sulcus",
+    "transverse cerebral fissure"
+  ]
 }
 

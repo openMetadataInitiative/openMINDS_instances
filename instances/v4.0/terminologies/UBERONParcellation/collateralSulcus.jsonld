@@ -10,6 +10,9 @@
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002716#collateral-sulcus-1",
   "name": "collateral sulcus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002716",
-  "synonym": null
+  "synonym": [
+    "collateral fissure",
+    "sulcus collateralis"
+  ]
 }
 
