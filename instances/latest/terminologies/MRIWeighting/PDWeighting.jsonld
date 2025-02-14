@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/PDWeighting",
+  "@id": "https://openminds.om-i.org/instances/MRIWeighting/PDWeighting",
   "@type": "https://openminds.om-i.org/types/MRIWeighting",
   "definition": "Image processing technique that specifically enhances the signal-to-noise ratio of density of protons (hydrogen atoms).",
   "description": null,
