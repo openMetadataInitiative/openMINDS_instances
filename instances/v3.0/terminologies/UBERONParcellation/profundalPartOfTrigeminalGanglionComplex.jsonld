@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/profundalPartOfTrigeminalGanglionComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cranial ganglion. Is part of the trigeminal ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035599) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035599#profundal-part-of-trigeminal-ganglion-complex",
+  "name": "profundal part of trigeminal ganglion complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035599",
+  "synonym": null
+}
+

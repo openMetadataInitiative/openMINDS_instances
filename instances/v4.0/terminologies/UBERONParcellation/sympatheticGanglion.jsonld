@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/sympatheticGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an autonomic ganglion. Is part of the sympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001806) ('is_a' and 'relationship')]",
+  "description": "A ganglion of the sympathetic nervous system. Examples: paravertebral and the prevertebral ganglia, which include the sympathetic chain ganglia, the superior, middle, and inferior cervical ganglia, and the aorticorenal, celiac, and stellate ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001806)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001806#sympathetic-ganglion",
+  "name": "sympathetic ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001806",
+  "synonym": [
+    "ganglion of sympathetic nervous system",
+    "ganglion of sympathetic part of autonomic division of nervous system",
+    "ganglion sympatheticum",
+    "sympathetic nervous system ganglion",
+    "sympathetic part of autonomic division of nervous system ganglion"
+  ]
+}
+

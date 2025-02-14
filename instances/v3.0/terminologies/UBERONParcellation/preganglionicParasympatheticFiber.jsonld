@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/preganglionicParasympatheticFiber",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a preganglionic autonomic fiber. Is part of the parasympathetic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011930) ('is_a' and 'relationship')]",
+  "description": "A cholinergic axonal fibers projecting from the CNS to a parasympathetic ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011930)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011930#preganglionic-parasympathetic-fiber",
+  "name": "preganglionic parasympathetic fiber",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011930",
+  "synonym": null
+}
+

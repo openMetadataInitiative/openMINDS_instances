@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/autonomicGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a ganglion of peripheral nervous system. Is part of the autonomic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001805) ('is_a' and 'relationship')]",
+  "description": "Ganglion that has dendrites that form a junction between autonomic nerves originating from the central nervous system and autonomic nerves innervating their target organs in the periphery. There are two subtypes, sympathetic ganglion and parasympathetic ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001805)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001805#autonomic-ganglion",
+  "name": "autonomic ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001805",
+  "synonym": [
+    "autonomic nervous system ganglion",
+    "ganglion of autonomic nervous system",
+    "ganglion of visceral nervous system",
+    "visceral nervous system ganglion"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/glossopharyngealVagusIXXPreganglionComplex",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the cranial ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013499) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013499#glossopharyngeal-vagus-ix-x-preganglion-complex",
+  "name": "glossopharyngeal-vagus IX-X preganglion complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013499",
+  "synonym": null
+}
+
