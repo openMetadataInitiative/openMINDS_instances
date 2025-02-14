@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/corpusCardiacum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an arthropod neurohemal organ. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001056)]",
+  "description": "One of a pair of neurohemal organs located on the walls of the aorta just behind the brain. The corpora cardiaca release their store of PTTH only after they receive a signal from neurosecretory cells in the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001056)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001056#corpus-cardiacum",
+  "name": "corpus cardiacum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001056",
+  "synonym": null
+}
+
