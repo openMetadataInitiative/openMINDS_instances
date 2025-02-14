@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortexNeuropil",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neuropil. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013693) ('is_a' and 'relationship')]",
+  "description": "A neuropil that is part of a cerebral cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013693)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013693#cerebral-cortex-neuropil",
+  "name": "cerebral cortex neuropil",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013693",
+  "synonym": [
+    "neuropil of cerebral cortex"
+  ]
+}
+
