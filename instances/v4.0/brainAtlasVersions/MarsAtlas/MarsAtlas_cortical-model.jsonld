@@ -179,6 +179,6 @@
   },
   "usedSpecimen": null,
   "versionIdentifier": "cortical model",
-  "versionInnovation": "This is the first version of this parcellation scheme. It contains 41 cortical parcellation areas on each hemisphere belonging to 7 parent regions, and builds on the [HipHop parameterization pipeline](https://meca-brain.org/software/hip-hop/). The pipeline performs a parameterization of the white matter surface and implicitely provides an inter-subject cortical surface matching. The resulting 2D coordinate system (longitude/latitude) is fitted to a model of cortical organization, which means that a number of sulcal lines have a constant coordinate (longitude or latitude) and that some pairs of sulci have the same coordinate because they are aligned in this model."
+  "versionInnovation": "This is the first version of this parcellation scheme. It contains 41 cortical parcellation areas on each hemisphere belonging to 7 parent regions, and builds on the [HipHop parameterization pipeline](https://meca-brain.org/software/hip-hop/). The pipeline performs a parameterization of the white matter surface and implicitly provides an inter-subject cortical surface matching. The resulting 2D coordinate system (longitude/latitude) is fitted to a model of cortical organization, which means that a number of sulcal lines have a constant coordinate (longitude or latitude) and that some pairs of sulci have the same coordinate because they are aligned in this model."
 }
 
