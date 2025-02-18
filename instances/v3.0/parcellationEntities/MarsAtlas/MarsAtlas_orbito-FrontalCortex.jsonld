@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarsAtlas_orbito-FrontalCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "orbito-frontal region"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": null,
+  "lookupLabel": "MarsAtlas_orbito-FrontalCortex",
+  "name": "orbito-frontal cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": {
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/orbitofrontalCortex"
+  }
+}
+
