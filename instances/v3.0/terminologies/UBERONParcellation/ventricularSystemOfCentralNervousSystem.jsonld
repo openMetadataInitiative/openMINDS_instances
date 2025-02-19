@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularSystemOfCentralNervousSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical system. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005281) ('is_a' and 'relationship')]",
+  "description": "A set of structures containing cerebrospinal fluid in the brain. It is continuous with the central canal of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005281)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005281#ventricular-system-of-central-nervous-system",
+  "name": "ventricular system of central nervous system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005281",
+  "synonym": [
+    "CNS ventricular system",
+    "ventricular system",
+    "ventricular system of neuraxis"
+  ]
+}
+
