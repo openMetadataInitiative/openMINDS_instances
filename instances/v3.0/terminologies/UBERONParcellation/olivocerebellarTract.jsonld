@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olivocerebellarTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a tract of brain. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002752) ('is_a' and 'relationship')]",
+  "description": "The olivocerebellar tract (olivocerebellar fibers) leaves the olivary nucleus and pass out through the hilum and decussate with those from the opposite olive in the raphé, then as internal arcuate fibers they pass partly through and partly around the opposite olive and enter the inferior peduncle to be distributed to the cerebellar hemisphere of the opposite side from which they arise. They terminate directly on Purkinje cells as the climbing fiber input system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002752)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002752#olivocerebellar-tract-1",
+  "name": "olivocerebellar tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002752",
+  "synonym": null
+}
+

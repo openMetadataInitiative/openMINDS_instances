@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarHemisphere",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002245)]",
+  "description": "A paired regions of the cerebellum that lie outside and lateral to the central vermis. The cerebellum consists of three parts, a median and two lateral, which are continuous with each other, and are substantially the same in structure. The median portion is constricted, and is called the vermis, from its annulated appearance which it owes to the transverse ridges and furrows upon it; the lateral expanded portions are named the hemispheres. The lateral hemisphere is considered the portion of the cerebellum to develop most recently. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002245)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002245#cerebellar-hemisphere-1",
+  "name": "cerebellar hemisphere",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002245",
+  "synonym": [
+    "cerebellum hemisphere",
+    "hemisphere of cerebellum",
+    "hemisphere of cerebellum [H II - H X]",
+    "hemispherium cerebelli [H II - H X]",
+    "hemispherium cerebelli [hII-hX]"
+  ]
+}
+
