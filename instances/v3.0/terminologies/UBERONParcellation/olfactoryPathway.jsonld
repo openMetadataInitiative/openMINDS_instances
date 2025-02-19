@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryPathway",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neuron projection bundle and central nervous system cell part cluster. Is part of the limbic system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013201) ('is_a' and 'relationship')]",
+  "description": "Set of nerve fibers conducting impulses from olfactory receptors to the cerebral cortex. It includes the olfactory nerve; olfactory bulb; olfactory tract, olfactory tubercle, anterior perforated substance, and olfactory cortex. The term rhinencephalon is restricted to structures in the CNS receiving fibers from the olfactory bulb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013201)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013201#olfactory-pathway",
+  "name": "olfactory pathway",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013201",
+  "synonym": null
+}
+
