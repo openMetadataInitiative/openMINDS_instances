@@ -2,15 +2,14 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/habenulointerpeduncularTractOfDiencephalon",
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/habenuloInterpeduncularTractOfDiencephalon",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Habenulo-interpeduncular tract of diencephalon' is a fasciculus of brain. It is part of the habenulo-interpeduncular tract and diencephalic white matter.",
-  "description": "",
+  "definition": "Is a fasciculus of brain. Is part of the habenulo-interpeduncular tract and the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022649) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104856",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022649#habenulo-interpeduncular-tract-of-diencephalon-1",
   "name": "habenulo-interpeduncular tract of diencephalon",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022649",
-  "synonym": [
-    "habenulo-interpeduncular tract of diencephalon"
-  ]
+  "synonym": null
 }
+
