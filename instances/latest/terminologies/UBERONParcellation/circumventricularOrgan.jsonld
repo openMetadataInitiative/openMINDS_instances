@@ -4,15 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/circumventricularOrgan",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Circumventricular organ' is a regional part of brain.",
-  "description": "Brain region located around or in relation to the ventricular system that is highly vascularized and distinguished by the lack of a blood brain barrier.",
+  "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005408)]",
+  "description": "Any of any of the secretory or sensory organs located in the brain region around or in relation to the ventricular system that are characterized by extensive vasculature and a lack of a normal blood brain barrier (BBB) and allow for the linkage between the central nervous system and peripheral blood flow. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005408)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102196",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005408#circumventricular-organ-1",
   "name": "circumventricular organ",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005408",
   "synonym": [
-    "CVO",
-    "circumventricular organ",
-    "circumventricular organ of neuraxis"
+    "circumventricular organ of neuraxis",
+    "CVO"
   ]
 }
+

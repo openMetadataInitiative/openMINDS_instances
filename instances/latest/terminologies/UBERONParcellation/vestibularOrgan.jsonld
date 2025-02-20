@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/vestibularOrgan",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the somatic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006585) ('is_a' and 'relationship')]",
+  "description": "An organ that is part of a vestibular system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006585)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006585#vestibular-organ-1",
+  "name": "vestibular organ",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006585",
+  "synonym": [
+    "balance organ"
+  ]
+}
+
