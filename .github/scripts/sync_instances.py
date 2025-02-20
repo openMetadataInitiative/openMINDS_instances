@@ -2,41 +2,52 @@ import json
 import re
 import sys
 
-from utils import properties_file, regex_pattern_type, regex_pattern_instance, types_file, version_file
 
+def load_json(path):
+    with open(path) as f:
+        json_file = json.load(f)
+    return json_file
+
+VERSION_FILE = load_json('.github/versions.json')
+TYPES_FILE = load_json('.github/types.json')
+PROPERTIES_FILE = load_json('.github/properties.json')
+REGEX_PATTERN_TYPE = r"https://openminds\.(om-i\.org|ebrains\.eu)/.*/"
+REGEX_PATTERN_INSTANCE = r"^https://openminds\.(om-i\.org|ebrains\.eu)/instances/"
 
 def sync_properties(src_data, tgt_data, version):
     """Sync properties from src_data to tgt_data."""
     for key, value in src_data.items():
         try:
             if key == "@vocab":
-                tgt_data[key] = version_file[version]["namespaces"]["props"]
+                tgt_data[key] = VERSION_FILE[version]["namespaces"]["props"]
                 continue
+
             # Check if @type exists for a given version and add the appropriate namespaces
             elif key == "@type":
-                if re.match(regex_pattern_type, src_data[key]):
-                    _type = re.sub(regex_pattern_type, "", src_data[key])
-                    tgt_data[key] = [_namespace_version for _namespace_version in types_file[_type]["hasNamespace"] if version in _namespace_version["inVersions"]][0]['namespace'] + _type
+                if re.match(REGEX_PATTERN_TYPE, src_data[key]):
+                    schema_type_name = re.sub(REGEX_PATTERN_TYPE, "", src_data[key])
+                    # IndexError if schema_type_name not in vocab for the given version
+                    tgt_data[key] = [_namespace_version for _namespace_version in TYPES_FILE[schema_type_name]["hasNamespace"] if version in _namespace_version["inVersions"]][0]['namespace'] + schema_type_name
                 else:
                     tgt_data[key] = src_data[key]
                 continue
             elif key == "@id":
-                if re.match(regex_pattern_instance, src_data[key]):
-                    _id = re.sub(regex_pattern_instance, "", src_data[key])
-                    tgt_data[key] = version_file[version]["namespaces"]["instances"] + _id
+                if re.match(REGEX_PATTERN_INSTANCE, src_data[key]):
+                    _id = re.sub(REGEX_PATTERN_INSTANCE, "", src_data[key])
+                    tgt_data[key] = VERSION_FILE[version]["namespaces"]["instances"] + _id
                 else:
                     tgt_data[key] = src_data[key]
                 continue
         except IndexError:
-            print(f"Type {_type} not found in version {version}.")
+            print(f"Type {schema_type_name} not found in version {version}.")
             return
 
-        # Check if a property exists for a given version, if not remove it
         if key in ["@context", "@type"]:
             continue
-        elif key in properties_file:
+        elif key in PROPERTIES_FILE:
             try:
-                [_namespace_version for _namespace_version in properties_file[key]["hasNamespace"] if version in _namespace_version["inVersions"]][0]
+                # IndexError if property not found for the given version
+                [_namespace_version for _namespace_version in PROPERTIES_FILE[key]["hasNamespace"] if version in _namespace_version["inVersions"]][0]
             except IndexError:
                 del tgt_data[key]
                 print(f"Property skipped: {key} not found in version {version}.")
@@ -71,16 +82,13 @@ def sync_properties(src_data, tgt_data, version):
 
     return tgt_data
 
-
 def main(src_file, tgt_file, version):
     # Load source JSON data
-    with open(src_file) as f:
-        src_data = json.load(f)
+    src_data = load_json(src_file)
 
-    # Load target JSON data
+    # Load target JSON data if it exists
     try:
-        with open(tgt_file) as f:
-            tgt_data = json.load(f)
+        tgt_data = load_json(tgt_file)
     except FileNotFoundError:
         tgt_data = {}
 
@@ -89,7 +97,7 @@ def main(src_file, tgt_file, version):
     # Sync properties
     target_data = sync_properties(src_data, tgt_data, version)
 
-    # Write the updated target data back to the file
+    # Write the updated target data back to the target file
     with open(tgt_file, 'w') as f:
         json.dump(target_data, f, indent=2)
 
