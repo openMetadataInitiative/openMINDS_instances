@@ -4,29 +4,24 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerIII",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Layer of neocortex lying deep to the external granule cell layer defined cytoarchitecturally by numerous small pyramidal neurons.",
-  "description": null,
+  "definition": "Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005392)]",
+  "description": "Layer of neocortex lying deep to the external granule cell layer defined cytoarchitecturally by numerous small pyramidal neurons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005392)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107369",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005392#neocortex-layer-3",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005392#cortical-layer-iii",
   "name": "cortical layer III",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005392",
   "synonym": [
-    "cortical layer 3",
+    "cerebral cortex, layer 3",
     "external pyramidal cell layer",
-    "external pyramidal layer of isocortex",
+    "external pyramidal cell layer of neocortex",
+    "external pyramidal layer of isocortex [layer iii]",
     "external pyramidal layer of neocortex",
-    "lamina 3",
-    "lamina III",
-    "lamina pyramidalis externa isocorticis",
-    "layer 3",
+    "lamina pyramidalis externa isocorticis [lamina iii]",
     "layer 3 of neocortex",
-    "layer III",
-    "layer iii",
     "layer III of neocortex",
     "neocortex external pyramidal cell layer",
     "neocortex layer 3",
-    "neocortex layer III",
-    "neocortical layer 3",
-    "neocortical layer III"
+    "neocortex layer III"
   ]
 }
+
