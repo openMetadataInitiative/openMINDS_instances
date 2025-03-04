@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/transverseOccipitalSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an occipital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002900)]",
+  "description": "The transverse occipital sulcus is a structure in the occipital lobe. The transverse occipital sulcus is continuous with the posterior end of the occipital ramus of the intraparietal sulcus, and runs across the upper part of the lobe, a short distance behind the parietoC6ccipital fissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002900)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002900#transverse-occipital-sulcus-1",
+  "name": "transverse occipital sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002900",
+  "synonym": [
+    "sulcus occipitalis transversus"
+  ]
+}
+

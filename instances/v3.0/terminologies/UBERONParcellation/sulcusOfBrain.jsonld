@@ -4,11 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusOfBrain",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Sulcus of brain' is an anatomical entity. It is part of the brain.",
-  "description": "A depression or fissure in the surface of the brain. It surrounds the gyri, creating the characteristic appearance of the brain in humans and other large mammals.",
+  "definition": "Is an anatomical entity. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013118) ('is_a' and 'relationship')]",
+  "description": "A depression or fissure in the surface of the brain. It surrounds the gyri, creating the characteristic appearance of the brain in humans and other large mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013118)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0725590",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013118#sulcus-of-brain",
   "name": "sulcus of brain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013118",
   "synonym": null
 }
+
