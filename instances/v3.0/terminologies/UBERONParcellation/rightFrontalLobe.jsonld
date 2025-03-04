@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rightFrontalLobe",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a frontal cortex. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002810) ('is_a' and 'relationship')]",
+  "description": "A frontal cortex that is part of a right cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002810)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002810#right-frontal-lobe-1",
+  "name": "right frontal lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002810",
+  "synonym": null
+}
+
