@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAnteriorLateralLineNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a lateral line nerve. Is part of the anterior lateral line nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001480) ('is_a' and 'relationship')]",
+  "description": "Nerve fibers originating from the dorsal anterior lateral line ganglion. These rami innervate the otic, supraorbital, and infraorbital neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001480)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2001480#dorsal-anterior-lateral-line-nerve",
+  "name": "dorsal anterior lateral line nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2001480",
+  "synonym": null
+}
+
