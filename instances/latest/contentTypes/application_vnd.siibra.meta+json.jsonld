@@ -1,0 +1,20 @@
+{
+    "@context": {
+      "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.siibra.meta+json.jsonld",
+    "@type": "https://openminds.om-i.org/types/ContentType",
+    "dataType": null,
+    "description": null,
+    "displayLabel": null,
+    "fileExtension": [
+      "meta.json"
+    ],
+    "name": "application/vnd.siibra.meta+json",
+    "relatedMediaType": null,
+    "specification": "https://raw.githubusercontent.com/FZJ-INM1-BDA/siibra-explorer/refs/heads/staging/.metaSpec/meta.schema.json",
+    "synonym": [
+      "siibra toolsuite volume descriptor"
+    ]
+  }
+  
