@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nest-simulator.model+cpp",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": "Source code for an extension module for the NEST simulator",
+  "displayLabel": null,
+  "fileExtension": [
+    ".cpp"
+  ],
+  "name": "application/vnd.nest-simulator.model+cpp",
+  "relatedMediaType": "text/x-c",
+  "specification": "https://nest-extension-module.readthedocs.io/en/latest/extension_modules.html",
+  "synonym": null
+}
