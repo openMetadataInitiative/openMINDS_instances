@@ -1,0 +1,19 @@
+{
+    "@context": {
+      "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nest-desktop.model.v4+json",
+    "@type": "https://openminds.om-i.org/types/ContentType",
+    "dataType": null,
+    "description": "NEST Desktop model specification version 4",
+    "displayLabel": null,
+    "fileExtension": [
+      ".json"
+    ],
+    "name": "application/vnd.nest-desktop.model.v4+json",
+    "relatedMediaType": "application/json",
+    "specification": null,
+    "synonym": [
+      "NEST Desktop model specification version 4"
+    ]
+  }
