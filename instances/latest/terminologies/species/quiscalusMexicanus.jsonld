@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/quiscalusMexicanus",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "The species *Quiscalus Mexicanus* (Great-tailed Grackle) belongs to the family of *Icteridae*.",
+  "description": "It is a medium-sized, highly social passerine bird native to North and South America.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Quiscalus Mexicanus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_64278",
+  "synonym": [
+    "Great-tailed Grackle"
+  ]
+}
