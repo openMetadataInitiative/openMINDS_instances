@@ -6,7 +6,7 @@
     "@type": "https://openminds.om-i.org/types/ContentType",
     "dataType": null,
     "description": "A JSON file containing a project configuration (version 4) for NEST Desktop",
-    "displayLabel": "NEST Desktop project configuration,
+    "displayLabel": "NEST Desktop project configuration",
     "fileExtension": [
       ".json"
     ],
