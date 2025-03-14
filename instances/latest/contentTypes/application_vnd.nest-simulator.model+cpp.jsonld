@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "description": "Source code for an extension module for the NEST simulator",
-  "displayLabel": null,
+  "displayLabel": "NEST simulator extension module source code",
   "fileExtension": [
     ".cpp"
   ],
   "name": "application/vnd.nest-simulator.model+cpp",
-  "relatedMediaType": "text/x-c",
+  "relatedMediaType": "https://mimetype.io/text/x-c",
   "specification": "https://nest-extension-module.readthedocs.io/en/latest/extension_modules.html",
   "synonym": null
 }
