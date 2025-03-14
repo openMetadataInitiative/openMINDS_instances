@@ -1,20 +1,23 @@
 {
-    "@context": {
-      "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.siibra.meta+json.jsonld",
-    "@type": "https://openminds.om-i.org/types/ContentType",
-    "dataType": null,
-    "description": null,
-    "displayLabel": null,
-    "fileExtension": [
-      "meta.json"
-    ],
-    "name": "application/vnd.siibra.meta+json",
-    "relatedMediaType": null,
-    "specification": "https://raw.githubusercontent.com/FZJ-INM1-BDA/siibra-explorer/refs/heads/staging/.metaSpec/meta.schema.json",
-    "synonym": [
-      "siibra toolsuite volume descriptor"
-    ]
-  }
-  
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.siibra.meta+json.jsonld",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": [
+    {
+      "@id": "https://openminds.om-i.org/instances/dataType/associativeArray"
+    }
+  ],
+  "description": "Sidecar file to volumetric/raster filebundle, providing metadata to the said bundle",
+  "displayLabel": "siibra meta.json file",
+  "fileExtension": [
+    "meta.json"
+  ],
+  "name": "application/vnd.siibra.meta+json",
+  "relatedMediaType": null,
+  "specification": "https://raw.githubusercontent.com/FZJ-INM1-BDA/siibra-explorer/refs/heads/staging/.metaSpec/meta.schema.json",
+  "synonym": [
+    "siibra toolsuite volume descriptor"
+  ]
+}
