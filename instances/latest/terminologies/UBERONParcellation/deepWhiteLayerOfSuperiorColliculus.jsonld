@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/deepWhiteLayerOfSuperiorColliculus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter of superior colliculus and deep layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006790)]",
+  "description": "Deep white matter layer of superior collilculus that consists entirely of fibers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006790)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006790#deep-white-layer-of-superior-colliculus",
+  "name": "deep white layer of superior colliculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006790",
+  "synonym": [
+    "lamina colliculi superioris vii",
+    "lamina VII of superior colliculus",
+    "layer VII of superior colliculus",
+    "stratum album profundum",
+    "stratum album profundum of superior colliculus",
+    "stratum medullare profundum colliculi superioris"
+  ]
+}
+

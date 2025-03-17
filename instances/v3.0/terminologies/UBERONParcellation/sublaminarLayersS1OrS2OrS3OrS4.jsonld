@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sublaminarLayersS1OrS2OrS3OrS4",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a substratum of layer of retina. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009737)]",
+  "description": "One of sublaminar layers S1, S2, S3, or S4. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009737)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009737#sublaminar-layers-s1-or-s2-or-s3-or-s4",
+  "name": "sublaminar layers S1 or S2 or S3 or S4",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009737",
+  "synonym": null
+}
+
