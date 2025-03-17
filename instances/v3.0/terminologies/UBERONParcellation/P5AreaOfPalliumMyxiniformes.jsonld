@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/P5AreaOfPalliumMyxiniformes",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014755) ('is_a' and 'relationship')]",
+  "description": "Most deep of the areas of the pallium in the enlarged evaginated telencephalon of hagfishes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014755)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014755#p5-area-of-pallium-myxiniformes",
+  "name": "P5 area of pallium (Myxiniformes)",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014755",
+  "synonym": null
+}
+
