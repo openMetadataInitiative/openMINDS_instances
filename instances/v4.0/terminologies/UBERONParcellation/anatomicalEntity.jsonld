@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/anatomicalEntity",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an independent continuant. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001062)]",
+  "description": "Biological entity that is either an individual member of a biological species or constitutes the structural organization of an individual member of a biological species. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001062)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001062#anatomical-entity",
+  "name": "anatomical entity",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001062",
+  "synonym": null
+}
+
