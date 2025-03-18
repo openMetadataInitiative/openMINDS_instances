@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cranialSensoryGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cranial ganglion and sensory ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009992)]",
+  "description": "The ganglion found on the root of each cranial nerve, containing the cell bodies of afferent (sensory) neurons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009992)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009992#cranial-sensory-ganglion",
+  "name": "cranial sensory ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009992",
+  "synonym": [
+    "cranial nerve sensory ganglion",
+    "ganglion sensorium cranialium",
+    "ganglion sensorium nervi cranialis",
+    "sensory ganglion of cranial nerve"
+  ]
+}
+

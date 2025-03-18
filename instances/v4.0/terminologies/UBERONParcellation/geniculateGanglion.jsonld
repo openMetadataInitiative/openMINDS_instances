@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/geniculateGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sensory ganglion and epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001700)]",
+  "description": "The group of sensory neuron cell bodies associated with the facial nerve (seventh cranial nerve) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001700)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001700#geniculate-ganglion",
+  "name": "geniculate ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001700",
+  "synonym": [
+    "facial VII ganglion",
+    "ganglion genicularum",
+    "genicular ganglion",
+    "gVII"
+  ]
+}
+
