@@ -6,7 +6,7 @@
     "@type": "https://openminds.om-i.org/types/ContentType",
     "dataType": null,
     "description": "A JSON file containing a computational model specification (version 4) for NEST Desktop",
-    "displayLabel": "NEST Desktop model, v4",
+    "displayLabel": "NEST Desktop model (v4)",
     "fileExtension": [
       ".json"
     ],
