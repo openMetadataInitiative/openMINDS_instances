@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.webwarp.wwrp+json",
+  "@id": "https://openminds.om-i.org/instances/contentType/application_vnd.webwarp.wwrp+json",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "description": "WebWarp wwrp is a JSON-based content type containing the linear and optionally non-linear image registration information for multiple tissue section images to a standard atlas space. It contains complete metadata for a collection of deepzoom images (mandatory), their storage location (mandatory), identifier of the standard atlas space (mandatory), the linear image registration in the form of 3D vector triplets per image (optional), and the non-linear image registration in form of a list of 2D deformation vectors per image (optional).",
