@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.meshview+json",
+  "@id": "https://openminds.ebrains.eu/instances/contentType/application_vnd.meshview+json",
   "@type": "https://openminds.ebrains.eu/core/ContentType",
   "dataType": null,
   "description": "Coordinate triplets for display of point clouds in MeshView (RRID:SCR_017222)",
