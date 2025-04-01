@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/corticalPreplate",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034711)]",
+  "description": "The layer of the developing cerebral cortex that is formed from the first cohort of neurons to migrate out of the cortical ventricular zone; split by the second wave into marginal zone and subplate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034711)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034711#cortical-preplate",
+  "name": "cortical preplate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034711",
+  "synonym": null
+}
+

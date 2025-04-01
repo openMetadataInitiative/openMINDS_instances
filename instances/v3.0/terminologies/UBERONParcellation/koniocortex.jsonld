@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/koniocortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013589) ('is_a' and 'relationship')]",
+  "description": "Regions of the cerebal cortex characterized by a particularly well-developed inner granular layer (layer 4); this type of cerebral cortex is represented by the primary sensory Brodmann area 17 of the visual cortex, Brodmann areas 1-3 of the somatic sensory cortex, and Brodmann area 41 of the auditory cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013589)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013589#koniocortex",
+  "name": "koniocortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013589",
+  "synonym": null
+}
+

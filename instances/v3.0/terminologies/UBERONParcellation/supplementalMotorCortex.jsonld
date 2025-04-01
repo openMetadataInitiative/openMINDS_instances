@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/supplementalMotorCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016636) ('is_a' and 'relationship')]",
+  "description": "The supplementary motor area (SMA) is a part of the sensorimotor cerebral cortex (perirolandic, i.e. on each side of the Rolando or central sulcus). It was included, on purely cytoarchitectonic arguments, in area 6 of Brodmann and the Vogts. It is located on the medial face of the hemisphere, just in front of primary motor cortex. This is an element that appeared late in evolution, in monkeys, linked to the appearance of a true medial pallidum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016636)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016636#supplemental-motor-cortex",
+  "name": "supplemental motor cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016636",
+  "synonym": null
+}
+
