@@ -4,16 +4,16 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfMedullaOblongata",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "A white matter that is part of a medulla oblongata.",
-  "description": "'White matter of medulla oblongata' is a brainstem white matter and white matter of myelencephalon. It is part of the medulla oblongata.",
+  "definition": "Is a brainstem white matter and white matter of myelencephalon. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014649) ('is_a' and 'relationship')]",
+  "description": "A white matter that is part of a medulla oblongata. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014649)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106748",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014649#medullary-white-matter",
   "name": "white matter of medulla oblongata",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014649",
   "synonym": [
-    "medullary white matter",
     "substantia alba medullae oblongatae",
     "white matter of medulla",
     "white substance of medulla"
   ]
 }
+
