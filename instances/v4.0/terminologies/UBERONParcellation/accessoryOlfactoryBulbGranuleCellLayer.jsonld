@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/accessoryOlfactoryBulbGranuleCellLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an olfactory bulb layer. Is part of the accessory olfactory bulb and the olfactory bulb granule cell layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015244) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015244#accessory-olfactory-bulb-granule-cell-layer",
+  "name": "accessory olfactory bulb granule cell layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015244",
+  "synonym": [
+    "accessory olfactory bulb, granular layer",
+    "AOB, granular layer"
+  ]
+}
+

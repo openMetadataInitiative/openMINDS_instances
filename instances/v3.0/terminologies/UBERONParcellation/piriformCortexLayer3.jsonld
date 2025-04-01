@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer3",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the piriform cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014283) ('is_a' and 'relationship')]",
+  "description": "Deepest of 3 cytoarchitecturally defined layers of the piriform cortex characterized by a moderately high density of pyramidal cells and large numbers of basal dendrites descending from pyramidal cells in layer 2. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014283)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014283#piriform-cortex-layer-3",
+  "name": "piriform cortex layer 3",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014283",
+  "synonym": [
+    "layer 3 of piriform cortex"
+  ]
+}
+

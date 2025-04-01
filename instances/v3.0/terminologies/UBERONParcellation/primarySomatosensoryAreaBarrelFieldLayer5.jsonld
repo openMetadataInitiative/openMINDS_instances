@@ -4,15 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer5",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Primary somatosensory area barrel field layer 5' is a layer of neocortex. It is part of the barrel cortex.",
-  "description": "",
+  "definition": "Is a layer of neocortex. Is part of the barrel cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035872) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109290",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035872#primary-somatosensory-area-barrel-field-layer-5",
   "name": "primary somatosensory area barrel field layer 5",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035872",
-  "synonym": [
-    "barrel cortex layer 5",
-    "barrel cortex layer 5,",
-    "SSp-bfd5"
-  ]
+  "synonym": null
 }
+
