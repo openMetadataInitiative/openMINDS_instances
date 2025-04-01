@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/BrodmannArea",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013529) ('is_a' and 'relationship')]",
+  "description": "A segmentation of the cerebral cortex on the basis of cytoarchitecture as described in Brodmann-1905, Brodmann-1909 and Brodmann-10. Maps for several species were presented. NeuroNames includes only areas in the human and in Old World monkeys. Of the latter, Brodmann studied representatives of several species including guenons (one Cercopithecus mona, one Cercocebus torquatus, and one Cercopithecus otherwise unspecified), which are all closely related African species, and one macaque (Macaca mulatta) an Asian species (Brodmann-1905). The legend to the summary map in Brodmann-1909 ascribes the areas simply to Cercopithecus. Brodmann referenced the areas by name and number. The same area number in humans and monkeys did not necessarily refer to topologically or cytoarchitecturally homologous structures. In NeuroNames the standard term for human areas consists of the English translation of Brodmann's Latin name followed by the number he assigned, e.g., agranular frontal area 6; the standard terms for monkey areas are in the format: area 6 of Brodmann-1909. He mapped a portion of areas limited to the banks of sulci, e.g., area 3 of Brodmann-1909 (Brodmann-1909) onto the adjacent, visible surface. This accounts for the fact that some areas appear larger on his surface map than on maps of other authors, e.g., area 3 of Vogts-1919. (Adapted from NeuroNames) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013529)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013529#brodmann-partition-scheme-region",
+  "name": "Brodmann area",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013529",
+  "synonym": null
+}
+
