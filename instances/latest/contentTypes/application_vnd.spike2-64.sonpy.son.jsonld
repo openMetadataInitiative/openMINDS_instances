@@ -2,20 +2,18 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.openephys",
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.spike2-64.sonpy.son",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
-    ".dat",
-    ".npy",
-    ".json"
+    ".smrx"
   ],
-  "name": "application/vnd.openephys",
+  "name": "application/vnd.spike2-64.sonpy.son",
   "relatedMediaType": null,
   "specification": null,
   "synonym": [
-    "Open Ephys Format"
+    "CED spike2 files (64 bit)"
   ]
 }
