@@ -4,14 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralStriatum",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Ventral striatum' is a gray matter of telencephalon. It is part of the striatum.",
-  "description": "A composite structure of the telencephalon that is defined in the striatopallidal system by connectivity and neurochemical staining. It includes the nucleus accumbens, the most ventral portions of the caudate nucleus and the putamen, the rostrolateral portion of the anterior perforated substance, the islands of Calleja and a rostral subcommissural portion of substantia innominata. The boundary between the ventral striatum and dorsal striatum is indistinct in sections stained for Nissl substance (Heimer-1995;  adapted from Brain Info).",
+  "definition": "Is a gray matter of telencephalon. Is part of the striatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005403) ('is_a' and 'relationship')]",
+  "description": "A composite structure of the telencephalon that is defined in the striatopallidal system by connectivity and neurochemical staining. It includes the nucleus accumbens, the most ventral portions of the caudate nucleus and the putamen, the rostrolateral portion of the anterior perforated substance, the islands of Calleja and a rostral subcommissural portion of substantia innominata. The boundary between the ventral striatum and dorsal striatum is indistinct in sections stained for Nissl substance (Heimer-1995; adapted from Brain Info). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005403)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112346",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005403#ventral-striatum",
   "name": "ventral striatum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005403",
   "synonym": [
-    "striatum ventral region",
-    "striatum ventrale"
+    "striatum ventral region"
   ]
 }
+

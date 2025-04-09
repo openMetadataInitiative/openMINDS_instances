@@ -4,17 +4,16 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/vestibularNuclearComplex",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Vestibular nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata.",
-  "description": "Nuclear complex containing the vestibular nuclei.",
+  "definition": "Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002673) ('is_a' and 'relationship')]",
+  "description": "Nuclear complex containing the vestibular nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002673)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112452",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002673#vestibular-nuclear-complex-1",
   "name": "vestibular nuclear complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002673",
   "synonym": [
-    "nuclei vestibulares",
     "nuclei vestibulares in medulla oblongata",
     "vestibular nuclei",
-    "vestibular nuclei in medulla oblongata",
-    "vestibular nucleus"
+    "vestibular nuclei in medulla oblongata"
   ]
 }
+
