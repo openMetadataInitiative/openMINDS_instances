@@ -2,20 +2,18 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.openephys",
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.numpy.array",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
-  "description": null,
+  "description": "A standard binary file format in NumPy for persisting a single arbitrary NumPy array on disk.",
   "displayLabel": null,
   "fileExtension": [
-    ".dat",
-    ".npy",
-    ".json"
+    ".npy"
   ],
-  "name": "application/vnd.openephys",
+  "name": "application/vnd.numpy.array",
   "relatedMediaType": null,
   "specification": null,
   "synonym": [
-    "Open Ephys Format"
+    "NumPy array"
   ]
 }
