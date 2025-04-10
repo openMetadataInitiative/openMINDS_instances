@@ -11,7 +11,7 @@
     ".locare.json",
     ".json"
   ],
-  "name": "application/vnd.locare+json,
+  "name": "application/vnd.locare+json",
   "relatedMediaType": "https://www.iana.org/assignments/media-types/application/json",
   "specification": null,
   "synonym": [
