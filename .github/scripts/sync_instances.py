@@ -18,8 +18,8 @@ def sync_properties(src_data, tgt_data, version):
     """Sync properties from src_data to tgt_data."""
     for key, value in src_data.items():
         try:
-            if key == "@vocab":
-                tgt_data[key] = VERSION_FILE[version]["namespaces"]["props"]
+            if key == "@context":
+                tgt_data["@context"] = { "@vocab": VERSION_FILE[version]["namespaces"]["props"] }
                 continue
 
             # Check if @type exists for a given version and add the appropriate namespaces
@@ -100,7 +100,7 @@ def main(src_file, tgt_file, version):
     # Write the updated target data back to the target file
     with open(tgt_file, 'w') as f:
         json.dump(target_data, f, indent=2)
-
+        f.write("\n\n")
     print(f'Successfully synced properties from {src_file} to {tgt_file}')
 
 
