@@ -1,0 +1,17 @@
+{
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.espina.segmentation.seg",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": "This segmentation file format is a compressed archive providing the configuration information for a performed image segmentation.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".seg"
+  ],
+  "name": "application/vnd.espina.segmentation.seg",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "EspINA Interactive Neuron Analyzer Segmentation file",
+    "EsPINA Segmentation file"
+  ]
+}
