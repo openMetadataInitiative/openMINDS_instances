@@ -5,7 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.espina.segmentation.seg",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
-  "description": null,
+  "description": "This segmentation file format is a compressed archive providing the configuration information for a performed image segementation.",
   "displayLabel": null,
   "fileExtension": [
     ".seg"
