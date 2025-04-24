@@ -1,0 +1,22 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+    "abbreviation": null,
+    "alternateName": [
+        "A3a"
+    ],
+    "definition": null,
+    "hasParent": null,
+    "hasVersion": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNM_v1_Area_3aOfCortex"
+        }
+    ],
+    "name": "Area 3a of cortex (somatosensory)",
+    "ontologyIdentifier": null,
+    "relatedUBERONTerm": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNM_Area_3aOfCortex",
+    "lookupLabel": "MarmosetNM_Area_3aOfCortex"
+}

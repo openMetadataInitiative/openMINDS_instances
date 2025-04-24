@@ -1,0 +1,22 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+    "abbreviation": null,
+    "alternateName": [
+        "S2E"
+    ],
+    "definition": null,
+    "hasParent": null,
+    "hasVersion": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNM_v1_SecondarySomatosensoryCortex,ExternalPart"
+        }
+    ],
+    "name": "Secondary somatosensory cortex, external part",
+    "ontologyIdentifier": null,
+    "relatedUBERONTerm": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNM_SecondarySomatosensoryCortex,ExternalPart",
+    "lookupLabel": "MarmosetNM_SecondarySomatosensoryCortex,ExternalPart"
+}

@@ -1,0 +1,22 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+    "abbreviation": null,
+    "alternateName": [
+        "TE2"
+    ],
+    "definition": null,
+    "hasParent": null,
+    "hasVersion": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNM_v1_TemporalAreaTe2"
+        }
+    ],
+    "name": "Temporal area te2 (inferior temporal cortex)",
+    "ontologyIdentifier": null,
+    "relatedUBERONTerm": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNM_TemporalAreaTe2",
+    "lookupLabel": "MarmosetNM_TemporalAreaTe2"
+}

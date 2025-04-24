@@ -1,0 +1,22 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+    "abbreviation": null,
+    "alternateName": [
+        "A19DI"
+    ],
+    "definition": null,
+    "hasParent": null,
+    "hasVersion": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNM_v1_Area_19OfCortex,DorsointermediatePart"
+        }
+    ],
+    "name": "Area 19 of cortex, dorsointermediate part",
+    "ontologyIdentifier": null,
+    "relatedUBERONTerm": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNM_Area_19OfCortex,DorsointermediatePart",
+    "lookupLabel": "MarmosetNM_Area_19OfCortex,DorsointermediatePart"
+}
