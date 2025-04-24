@@ -5,50 +5,46 @@
     "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
     "abbreviation": null,
     "alternateName": "A25",
-    "definition": null,
     "hasParent": null,
     "name": "Area 25 of cortex",
     "ontologyIdentifier": null,
-    "relatedUBERONTerm": null,
     "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNM_v1_Area_25OfCortex",
     "lookupLabel": "MarmosetNM_v1_Area_25OfCortex",
     "additionalRemarks": null,
     "correctedName": null,
     "hasAnnotation": [
-        [
-            {
-                "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+        {
+            "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+            "anchorPoint": null,
+            "criteria": null,
+            "criteriaQualityType": {
+                "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+            },
+            "criteriaType": {
+                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+            },
+            "inspiredBy": null,
+            "internalIdentifier": "20",
+            "laterality": [
+                {
+                    "@id": "https://openminds.om-i.org/instances/laterality/left"
+                },
+                {
+                    "@id": "https://openminds.om-i.org/instances/laterality/right"
+                }
+            ],
+            "preferredVisualization": {
+                "@type": "https://openminds.om-i.org/types/ViewerSpecification",
+                "additionalRemarks": null,
                 "anchorPoint": null,
-                "criteria": null,
-                "criteriaQualityType": {
-                    "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
-                },
-                "criteriaType": {
-                    "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
-                },
-                "inspiredBy": null,
-                "internalIdentifier": "20",
-                "laterality": [
-                    {
-                        "@id": "https://openminds.om-i.org/instances/laterality/left"
-                    },
-                    {
-                        "@id": "https://openminds.om-i.org/instances/laterality/right"
-                    }
-                ],
-                "preferredVisualization": {
-                    "@type": "https://openminds.om-i.org/types/ViewerSpecification",
-                    "additionalRemarks": null,
-                    "anchorPoint": null,
-                    "cameraPosition": null,
-                    "preferredDisplayColor": {
-                        "@id": "https://openminds.om-i.org/instances/singleColor/#FFE6B2"
-                    }
-                },
-                "specification": null,
-                "type": null
-            }
-        ]
+                "cameraPosition": null,
+                "preferredDisplayColor": {
+                    "@id": "https://openminds.om-i.org/instances/singleColor/#FFE6B2"
+                }
+            },
+            "specification": null,
+            "type": null
+        }
     ],
     "relationAssessment": null,
     "versionIdentifier": "v1",
