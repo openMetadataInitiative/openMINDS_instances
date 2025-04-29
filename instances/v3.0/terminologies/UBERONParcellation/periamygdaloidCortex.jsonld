@@ -4,14 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidCortex",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Periamygdaloid cortex' is a regional part of brain. It is part of the cerebral cortex and corticomedial nuclear complex.",
-  "description": "Is located ventral to the basal nucleus and has three subdivisions: the periamygdaloid cortex, the medial division, and the sulcal division.",
+  "definition": "Is a regional part of brain. Is part of the cerebral cortex and the corticomedial nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014537) ('is_a' and 'relationship')]",
+  "description": "Is located ventral to the basal nucleus and has three subdivisions: the periamygdaloid cortex, the medial division, and the sulcal division. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014537)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108716",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014537#periamygdaloid-cortex-1",
   "name": "periamygdaloid cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014537",
-  "synonym": [
-    "periamygdaloid area",
-    "periamygdaloid cortex"
-  ]
+  "synonym": null
 }
+
