@@ -4,20 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/mammillaryBody",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Mammillary body' is part of the medial zone of hypothalamus and posterior hypothalamic region.",
-  "description": "One of two hemispherical bulges on the base of the posterior hypothalamus (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 455).",
+  "definition": "Is part of the medial zone of hypothalamus and the posterior hypothalamic region. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002206)]",
+  "description": "One of two hemispherical bulges on the base of the posterior hypothalamus (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 455). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002206)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106500",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002206#mammillary-body",
   "name": "mammillary body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002206",
   "synonym": [
-    "corpora mamillaria",
-    "corpora mammillaria",
-    "corpus mamillare",
-    "corpus mamillaris",
-    "corpus mammillare",
-    "mamillary body",
-    "mammillary area",
-    "mmb"
+    "corpus mamillare"
   ]
 }
+
