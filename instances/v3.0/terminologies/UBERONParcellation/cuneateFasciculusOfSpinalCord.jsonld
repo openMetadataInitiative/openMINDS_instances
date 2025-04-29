@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cuneateFasciculusOfSpinalCord",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cuneate fasciculus, fasciculus of spinal cord and tract of spinal cord. Is part of the spinal cord dorsal column. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005835) ('is_a' and 'relationship')]",
+  "description": "An axon tract in the spinal cord which primarily transmits information from the forelimb and trunk. It is part of the posterior column-medial lemniscus pathway. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005835)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005835#cuneate-fasciculus-of-spinal-cord",
+  "name": "cuneate fasciculus of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005835",
+  "synonym": [
+    "burdach's tract",
+    "cuneate fascicle of spinal cord",
+    "fasciculus cuneatus",
+    "tract of Burdach"
+  ]
+}
+

@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/laminaIOfGrayMatterOfSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a lamina of gray matter of spinal cord. Is part of the dorsal horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006118) ('is_a' and 'relationship')]",
+  "description": "Cytoarchitectural part of spinal cord gray matter. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006118)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006118#lamina-i-of-gray-matter-of-spinal-cord",
+  "name": "lamina I of gray matter of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006118",
+  "synonym": [
+    "lamina i of gray matter of spinal cord",
+    "lamina marginalis",
+    "lamina spinalis i",
+    "layer of Waldeyer",
+    "layer of waldeyer",
+    "rexed lamina I",
+    "rexed lamina i",
+    "rexed layer 1",
+    "spinal lamina I",
+    "spinal lamina i"
+  ]
+}
+

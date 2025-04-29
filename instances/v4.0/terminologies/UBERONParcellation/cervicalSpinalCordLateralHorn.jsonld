@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCordLateralHorn",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal cord lateral horn. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014619) ('is_a' and 'relationship')]",
+  "description": "A spinal cord lateral horn that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014619)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014619#cervical-spinal-cord-lateral-horn-1",
+  "name": "cervical spinal cord lateral horn",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014619",
+  "synonym": null
+}
+

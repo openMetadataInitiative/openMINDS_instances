@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsalGrayCommissureOfSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a gray matter of spinal cord. Is part of the spinal cord gray commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014631) ('is_a' and 'relationship')]",
+  "description": "The part of the gray commissure in the spinal central gray posterior to the central canal of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014631)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014631#spinal-cord-posterior-gray-commissure",
+  "name": "dorsal gray commissure of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014631",
+  "synonym": [
+    "commissura grisea posterior medullae spinalis",
+    "dorsal gray commissure",
+    "dorsal grey commissure of spinal cord",
+    "posterior grey commissure of spinal cord",
+    "spinal cord posterior gray commissure"
+  ]
+}
+
