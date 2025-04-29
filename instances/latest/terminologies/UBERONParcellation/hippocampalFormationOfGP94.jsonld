@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hippocampalFormationOfGP94",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023862)]",
+  "description": "The combined region of AmmonÕs horn, subicular complex and dentate gyrus; only fields CA1-CA3 of the hippocampus were considered to be part of the HF, field CA4 being included in the hilus of the dentate gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023862)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023862#hippocampal-formation-of-gp94-1",
+  "name": "hippocampal formation of GP94",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023862",
+  "synonym": [
+    "hippocampal formation of gp94"
+  ]
+}
+
