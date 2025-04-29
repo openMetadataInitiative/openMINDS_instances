@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ansoparamedianFissureOfCerebellum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014468)]",
+  "description": "Fissure between cerebellar hemispheric lobules VIIBi and VIIBii. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014468)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014468#ansoparamedian-fissure-of-cerebellum",
+  "name": "ansoparamedian fissure of cerebellum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014468",
+  "synonym": [
+    "ansoparamedian fissure",
+    "fissura ansoparamedianis",
+    "fissura lunogracilis",
+    "lunogracile fissure",
+    "lunogracile fissure of cerebellum"
+  ]
+}
+

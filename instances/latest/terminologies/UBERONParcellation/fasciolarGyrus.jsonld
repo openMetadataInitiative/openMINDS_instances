@@ -4,21 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/fasciolarGyrus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Fasciolar gyrus' is part of the limbic lobe.",
-  "description": "A small paired band that passes around the splenium of the corpus callosum from the lateral longitudinal stria to the dentate gyrus[Biology-Online]. A posterior and upward extension of the dentate gyrus, forming a transitional area between the dentate gyrus and the indusium griseum[BTO].",
+  "definition": "Is part of the limbic lobe. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002601)]",
+  "description": "A small paired band that passes around the splenium of the corpus callosum from the lateral longitudinal stria to the dentate gyrus. A posterior and upward extension of the dentate gyrus, forming a transitional area between the dentate gyrus and the indusium griseum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002601)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104114",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002601#fasciolar-gyrus-1",
   "name": "fasciolar gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002601",
   "synonym": [
-    "Arnold)",
-    "fasciola cinerea",
-    "fasciola cinerea (Reil",
-    "fasciola cinereum",
-    "FC",
-    "gyrus fasciolaris",
-    "gyrus retrosplenialis hippocampi",
-    "retrosplenial gyrus of hippocampus",
-    "splenial gyrus"
+    "retrosplenial gyrus of hippocampus"
   ]
 }
+

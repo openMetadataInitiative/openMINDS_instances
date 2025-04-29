@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHorizontalLimbOfLateralSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a subarachnoid sulcus and frontal sulcus. Is part of the lateral sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002669) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002669#anterior-horizontal-limb-of-lateral-sulcus-1",
+  "name": "anterior horizontal limb of lateral sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002669",
+  "synonym": [
+    "anterior branch of lateral sulcus",
+    "anterior horizontal limb of lateral fissure",
+    "anterior horizontal ramus of lateral fissure",
+    "anterior ramus of lateral cerebral sulcus",
+    "horizontal limb of lateral fissure",
+    "horizontal ramus of sylvian fissure",
+    "ramus anterior sulci lateralis cerebri"
+  ]
+}
+
