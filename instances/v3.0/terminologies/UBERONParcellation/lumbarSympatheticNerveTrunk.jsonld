@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lumbarSympatheticNerveTrunk",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a sympathetic nerve trunk. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009646)]",
+  "description": "A sympathetic nerve trunk that is part of a lower back. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009646)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009646#lumbar-sympathetic-nerve-trunk",
+  "name": "lumbar sympathetic nerve trunk",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009646",
+  "synonym": [
+    "lumbar sympathetic trunk"
+  ]
+}
+
