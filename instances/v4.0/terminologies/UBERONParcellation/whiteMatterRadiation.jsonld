@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterRadiation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022259)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022259#white-matter-radiation",
+  "name": "white matter radiation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022259",
+  "synonym": [
+    "neuraxis radiation",
+    "radiation of neuraxis"
+  ]
+}
+
