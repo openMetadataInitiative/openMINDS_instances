@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/encapsulatedTactileReceptor",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a tactile mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035969)]",
+  "description": "A tacile mechanoreceptor that lacks a capsule. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035969)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035969#encapsulated-tactile-receptor",
+  "name": "encapsulated tactile receptor",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035969",
+  "synonym": [
+    "encapsulated nerve ending"
+  ]
+}
+
