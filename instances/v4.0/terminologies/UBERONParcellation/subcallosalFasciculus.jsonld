@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/subcallosalFasciculus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an occipitofrontal fasciculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022250)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022250#subcallosal-fasciculus",
+  "name": "subcallosal fasciculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022250",
+  "synonym": [
+    "fasciculus occipitofrontalis superior",
+    "fasciculus subcallosus",
+    "superior occipitofrontal fasciculus"
+  ]
+}
+
