@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/tongueTasteBud",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014451)]",
+  "description": "A taste bud that is located on the tongue, situated on a gustatory papilla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014451)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014451#tongue-taste-bud",
+  "name": "tongue taste bud",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014451",
+  "synonym": [
+    "gustatory papilla taste bud",
+    "gustatory papillae taste bud"
+  ]
+}
+
