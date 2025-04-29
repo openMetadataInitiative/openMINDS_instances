@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/vertebralGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a paravertebral ganglion. Is part of the cervical ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000408) ('is_a' and 'relationship')]",
+  "description": "Any of a group of sympathetic ganglia which form two chains extending from the base of the skull to the coccyx along the sides of the spinal column. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000408)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000408#vertebral-ganglion",
+  "name": "vertebral ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000408",
+  "synonym": [
+    "intermediate ganglion"
+  ]
+}
+

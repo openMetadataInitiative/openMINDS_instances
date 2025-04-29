@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/middleCervicalGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cervical ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001990)]",
+  "description": "The small ganglion located at the level of the cricoid cartilage of the laryngeal wall. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001990)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001990#middle-cervical-ganglion",
+  "name": "middle cervical ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001990",
+  "synonym": [
+    "middle cervical sympathetic ganglion"
+  ]
+}
+

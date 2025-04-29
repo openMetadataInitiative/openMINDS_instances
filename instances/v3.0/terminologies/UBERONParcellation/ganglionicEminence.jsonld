@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ganglionicEminence",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004023) ('is_a' and 'relationship')]",
+  "description": "The transient proliferative population of neurons that expands exponentially during late prenatal development; it is a continuous germinal zone distinct from the ventricular zone that surrounds the brain ventricles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004023)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004023#ganglionic-eminence",
+  "name": "ganglionic eminence",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004023",
+  "synonym": [
+    "embryonic subventricular zone",
+    "embryonic/fetal subventricular zone",
+    "fetal subventricular zone",
+    "subependymal layer"
+  ]
+}
+
