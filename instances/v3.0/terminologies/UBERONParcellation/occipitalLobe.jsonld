@@ -4,14 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalLobe",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Occipital lobe' is a lobe of cerebral hemisphere.",
-  "description": "Posterior part of the cerebral hemisphere (MSH)",
+  "definition": "Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002021)]",
+  "description": "Posterior part of the cerebral hemisphere (MSH) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002021)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107883",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002021#occipital-lobe-1",
   "name": "occipital lobe",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002021",
   "synonym": [
-    "lobus occipitalis",
     "regio occipitalis"
   ]
 }
+
