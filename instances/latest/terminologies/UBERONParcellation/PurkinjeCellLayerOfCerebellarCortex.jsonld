@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/PurkinjeCellLayerOfCerebellarCortex",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebellar layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002979)]",
+  "description": "The Purkinje cell layer lies just underneath the molecular layer of the cerebellar cortex. It contains the neuronal cell bodies of the Purkinje cells that are arranged side by side in a single layer. Candelabrum interneurons are vertically oriented between the Purkinje cells. Purkinje neurons are inhibitory and provide the output of the cerebellar cortex through axons that project into the white matter. Extensive dendritic trees from the Purkinje cells extend upward in a single plane into the molecular layer where they synapse with parallel fibers of granule cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002979)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002979#purkinje-cell-layer-of-cerebellar-cortex-1",
+  "name": "Purkinje cell layer of cerebellar cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002979",
+  "synonym": [
+    "cerebellar Purkinje cell layer",
+    "cerebellum Purkinje cell layer",
+    "cerebellum Purkinje layer",
+    "Purkinje cell layer"
+  ]
+}
+

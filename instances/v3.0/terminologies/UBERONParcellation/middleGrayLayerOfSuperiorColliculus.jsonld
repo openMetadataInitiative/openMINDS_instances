@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/middleGrayLayerOfSuperiorColliculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a gray matter layer of superior colliculus and intermediate layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006788)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006788#middle-gray-layer-of-superior-colliculus",
+  "name": "middle gray layer of superior colliculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006788",
+  "synonym": [
+    "intermediate gray layer",
+    "intermediate grey layer of superior colliculus",
+    "lamina colliculi superioris iv",
+    "lamina IV of superior colliculus",
+    "layer IV of superior colliculus",
+    "stratum griseum intermediale",
+    "stratum griseum intermediale of superior colliculus",
+    "stratum griseum intermedium colliculi superioris",
+    "stratum griseum mediale"
+  ]
+}
+

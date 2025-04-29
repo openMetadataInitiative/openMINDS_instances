@@ -4,11 +4,16 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebralCortexMarginalLayer",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Cerebral cortex marginal layer' is a layer of developing cerebral cortex. It is part of the brain marginal zone.",
-  "description": "Developing superficial cortical layer located just under the pia matter, develops from the marginal layer of the neural tube and becomes cortical layer I.",
+  "definition": "Is a layer of developing cerebral cortex. Is part of the brain marginal zone. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014935) ('is_a' and 'relationship')]",
+  "description": "Developing superficial cortical layer located just under the pia matter, develops from the marginal layer of the neural tube and becomes cortical layer I. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014935)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0726687",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014935#cerebral-cortex-marginal-layer",
   "name": "cerebral cortex marginal layer",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014935",
-  "synonym": null
+  "synonym": [
+    "cortical marginal layer",
+    "cortical marginal zone",
+    "future cortical layer I"
+  ]
 }
+
