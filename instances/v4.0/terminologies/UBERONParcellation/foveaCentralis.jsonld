@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/foveaCentralis",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the macula lutea. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001786)]",
+  "description": "A depression in the inner retinal surface within the macula lutea, the photoreceptor layer of which is entirely cones and which is specialized for maximum visual acuity. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001786)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001786#fovea",
+  "name": "fovea centralis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001786",
+  "synonym": [
+    "centre of macula",
+    "fovea centralis in macula"
+  ]
+}
+
