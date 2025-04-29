@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/interveningZone",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the midbrain-hindbrain boundary. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001341) ('is_a' and 'relationship')]",
+  "description": "A zone of delayed differentiation at the midbrainhindbrain boundary. The IZ separates midbrain from anterior hindbrain neuronal clusters and has been described in all vertebrates. Geling et al, 2003. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001341)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2001341#intervening-zone",
+  "name": "intervening zone",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2001341",
+  "synonym": [
+    "IZ"
+  ]
+}
+
