@@ -2,22 +2,18 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/caudateputamen",
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/caudatePutamen",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Caudate-putamen' is a central nervous system cell part cluster. It is part of the dorsal striatum.",
-  "description": "Regional part of telencephalon in some species, e.g., rodent, equivalent to the dorsal striatum (caudate nucleus and putamen).  Unlike the dorsal striatum of primates, for example, the caudoputamen is not split into separate nuclei by the fibers of the internal capsule.  Rather, the internal capsule splits into fiber bundles which course through the structure.",
+  "definition": "Is a central nervous system cell part cluster. Is part of the dorsal striatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005383) ('is_a' and 'relationship')]",
+  "description": "Regional part of telencephalon in some species, e.g., rodent, equivalent to the dorsal striatum (caudate nucleus and putamen). Unlike the dorsal striatum of primates, for example, the caudoputamen is not split into separate nuclei by the fibers of the internal capsule. Rather, the internal capsule splits into fiber bundles which course through the structure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005383)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101739",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005383#caudoputamen",
   "name": "caudate-putamen",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005383",
   "synonym": [
     "caudate putamen",
-    "caudate putamen (striatum)",
-    "Caudate-putamen",
     "caudateputamen",
-    "caudoputamen",
-    "dorsal striatum",
-    "neostriatum",
-    "striatum"
+    "caudoputamen"
   ]
 }
+
