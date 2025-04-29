@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusGeniculatusOfPretectum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035580)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035580#nucleus-geniculatus-of-pretectum",
+  "name": "nucleus geniculatus of pretectum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035580",
+  "synonym": [
+    "nucleus geniculatus pretectalis"
+  ]
+}
+
