@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/petrosalPlacode",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an epibranchial placode. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009125)]",
+  "description": "Epibranchial placode between geniculate and nodose. Associated with 2nd branchial cleft. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009125)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009125#petrosal-placode",
+  "name": "petrosal placode",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009125",
+  "synonym": [
+    "epibranchial placode 2",
+    "glossopharyngeal epibranchial placode",
+    "glossopharyngeal IX placode",
+    "glossopharyngeal placode"
+  ]
+}
+
