@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/caudalOctavolateralisNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a lateral line sensory nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000480)]",
+  "description": "Hindbrain nucleus which is part of the medulla oblongata and is a mechanoreceptive area along with the medial octavolateralis nucleus. It is smaller than the medial octavolateralis nucleus and is located lateral to the facial and vagal lobes of the medulla oblongata. From Neuroanatomy of the Zebrafish Brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000480)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000480#caudal-octavolateralis-nucleus",
+  "name": "caudal octavolateralis nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000480",
+  "synonym": null
+}
+
