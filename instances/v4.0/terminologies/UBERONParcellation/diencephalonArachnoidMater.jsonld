@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/diencephalonArachnoidMater",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a meninx of diencephalon and forebrain arachnoid mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003558)]",
+  "description": "An arachnoid mater that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003558)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003558#diencephalon-arachnoid-mater",
+  "name": "diencephalon arachnoid mater",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003558",
+  "synonym": [
+    "arachnoid mater of between brain",
+    "arachnoid mater of diencephalon",
+    "arachnoid mater of interbrain",
+    "arachnoid mater of mature diencephalon",
+    "arachnoid mater of neuraxis of between brain",
+    "arachnoid mater of neuraxis of diencephalon",
+    "arachnoid mater of neuraxis of interbrain",
+    "arachnoid mater of neuraxis of mature diencephalon",
+    "arachnoid of between brain",
+    "arachnoid of diencephalon",
+    "arachnoid of interbrain",
+    "arachnoid of mature diencephalon",
+    "between brain arachnoid",
+    "between brain arachnoid mater",
+    "between brain arachnoid mater of neuraxis",
+    "diencephalon arachnoid",
+    "diencephalon arachnoid mater of neuraxis",
+    "interbrain arachnoid",
+    "interbrain arachnoid mater",
+    "interbrain arachnoid mater of neuraxis",
+    "mature diencephalon arachnoid",
+    "mature diencephalon arachnoid mater",
+    "mature diencephalon arachnoid mater of neuraxis"
+  ]
+}
+
