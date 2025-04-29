@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/principalNeuronalCircuit",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a circuit part of central nervous system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026546)]",
+  "description": "A neuronal circuit bearing a principal projection neuron whose axon extends beyond the region where its soma is located to synapse on the dendrites of cells in other regions of the nervous system (BB). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026546)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026546#principal-neuronal-circuit-1",
+  "name": "principal neuronal circuit",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026546",
+  "synonym": null
+}
+
