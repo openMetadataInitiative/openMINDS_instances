@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/insectAdultProtocerebrum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an insect protocerebrum. Is part of the insect adult cerebral ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007145) ('is_a' and 'relationship')]",
+  "description": "Protocerebrum of the adult brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007145)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6007145#adult-protocerebrum",
+  "name": "insect adult protocerebrum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6007145",
+  "synonym": null
+}
+
