@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/ageCategory/neonate",
   "@type": "https://openminds.om-i.org/types/AgeCategory",
-  "definition": "'Neonate' categorizes the life cycle stage of an animal or human that immediately follows birth.",
+  "definition": "Life cycle stage of a subject that immediately follows birth.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0732178",
   "knowledgeSpaceLink": null,
