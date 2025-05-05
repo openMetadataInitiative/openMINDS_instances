@@ -4,11 +4,17 @@
   },
   "@id": "https://openminds.om-i.org/instances/technique/ultraHighFieldMagneticResonanceImaging",
   "@type": "https://openminds.om-i.org/types/Technique",
-  "definition": "'Ultra high-field magnetic resonance imaging' comprises all structural MRI techniques conducted with a MRI scanner with a magnetic field strength equal or above 7 Tesla.",
+  "definition": "Any medical imaging technique that typically uses a magnetic field strength of 7 Tesla (or higher) to generate images of a specimen based on the principle of nuclear magnetic resonance.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "ultra high-field magnetic resonance imaging",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "UHF MRI",
+    "UHF magnetic resonance imaging",
+    "UHF unspecified magnetic resonance imaging",
+    "ultra high-field MRI",
+    "ultra high-field unspecified magnetic resonance imaging"
+  ]
 }
