@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/ageCategory/death",
   "@type": "https://openminds.om-i.org/types/AgeCategory",
-  "definition": "Life cycle stage of a subject loosely defined by the transitional growth and development between childhood and adulthood, often described as ‘puberty’.",
+  "definition": "Life cycle stage of a subject that starts with death and ends with full decomposition of the subject's body.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0724696",
   "knowledgeSpaceLink": null,
