@@ -1,0 +1,23 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+    "abbreviation": null,
+    "alternateName": [
+        "PRM",
+        "Motor and premotor cortical regions"
+    ],
+    "definition": null,
+    "hasParent": null,
+    "hasVersion": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_MotorAndPremotorCorticalRegions"
+        }
+    ],
+    "name": "Motor and premotor cortical regions",
+    "ontologyIdentifier": null,
+    "relatedUBERONTerm": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_MotorAndPremotorCorticalRegions",
+    "lookupLabel": "MarmosetNMA_MotorAndPremotorCorticalRegions"
+}

@@ -1,0 +1,23 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+    "abbreviation": null,
+    "alternateName": [
+        "V1",
+        "primary visual cortex"
+    ],
+    "definition": null,
+    "hasParent": null,
+    "hasVersion": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_primaryVisualCortex"
+        }
+    ],
+    "name": "primary visual cortex",
+    "ontologyIdentifier": null,
+    "relatedUBERONTerm": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_primaryVisualCortex",
+    "lookupLabel": "MarmosetNMA_primaryVisualCortex"
+}

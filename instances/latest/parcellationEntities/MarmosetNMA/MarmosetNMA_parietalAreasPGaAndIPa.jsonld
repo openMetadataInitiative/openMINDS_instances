@@ -1,0 +1,23 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+    "abbreviation": null,
+    "alternateName": [
+        "PGa/IPa(FSTv)",
+        "parietal areas PGa and IPa (fundus of superior temporal ventral area)"
+    ],
+    "definition": null,
+    "hasParent": null,
+    "hasVersion": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreasPGaAndIPa"
+        }
+    ],
+    "name": "parietal areas PGa and IPa (fundus of superior temporal ventral area)",
+    "ontologyIdentifier": null,
+    "relatedUBERONTerm": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_parietalAreasPGaAndIPa",
+    "lookupLabel": "MarmosetNMA_parietalAreasPGaAndIPa"
+}

@@ -1,0 +1,23 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+    "abbreviation": null,
+    "alternateName": [
+        "A6Vb",
+        "area 6 of cortex ventral part b"
+    ],
+    "definition": null,
+    "hasParent": null,
+    "hasVersion": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area_6OfCortexVentralPartB"
+        }
+    ],
+    "name": "area 6 of cortex ventral part b",
+    "ontologyIdentifier": null,
+    "relatedUBERONTerm": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area_6OfCortexVentralPartB",
+    "lookupLabel": "MarmosetNMA_area_6OfCortexVentralPartB"
+}

@@ -1,0 +1,29 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MarmosetNMA_v1",
+    "@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
+    "abbreviation": "MarmosetNMA",
+    "author": null,
+    "custodian": null,
+    "description": null,
+    "digitalIdentifier": null,
+    "fullName": "Marmoset Nencki-Monash Space of the Common Marmoset (coordinate space)",
+    "homepage": "https://www.marmosetbrain.org/nencki_monash_template",
+    "howToCite": null,
+    "ontologyIdentifier": null,
+    "shortName": "Nencki-Monash Space of the Common Marmoset Brain",
+    "accessibility": null,
+    "anatomicalAxesOrientation": {
+        "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
+    },
+    "versionIdentifier": "v1",
+    "versionInnovation": "",
+    "fullDocumentation": null,
+    "nativeUnit": {
+        "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/micrometer"
+    },
+    "axesOrigin": null,
+    "releaseDate": null
+}
