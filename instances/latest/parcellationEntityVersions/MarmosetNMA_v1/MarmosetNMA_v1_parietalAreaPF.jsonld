@@ -1,0 +1,60 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+    "abbreviation": "PF",
+    "alternateName": [
+        "PF",
+        "parietal area PF (cortex)",
+        "parietalAreaPF"
+    ],
+    "hasParent": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
+        }
+    ],
+    "name": "parietal area PF (cortex)",
+    "ontologyIdentifier": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPF",
+    "lookupLabel": "MarmosetNMA_v1_parietalAreaPF",
+    "additionalRemarks": null,
+    "correctedName": null,
+    "hasAnnotation": [
+        {
+            "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+            "anchorPoint": null,
+            "criteria": null,
+            "criteriaQualityType": {
+                "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+            },
+            "criteriaType": {
+                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+            },
+            "inspiredBy": null,
+            "internalIdentifier": "89",
+            "laterality": [
+                {
+                    "@id": "https://openminds.om-i.org/instances/laterality/left"
+                },
+                {
+                    "@id": "https://openminds.om-i.org/instances/laterality/right"
+                }
+            ],
+            "preferredVisualization": {
+                "@type": "https://openminds.om-i.org/types/ViewerSpecification",
+                "additionalRemarks": null,
+                "anchorPoint": null,
+                "cameraPosition": null,
+                "preferredDisplayColor": {
+                    "@id": "https://openminds.om-i.org/instances/singleColor/#D4DF3B"
+                }
+            },
+            "specification": null,
+            "type": null
+        }
+    ],
+    "relationAssessment": null,
+    "versionIdentifier": "v1",
+    "versionInnovation": null
+}

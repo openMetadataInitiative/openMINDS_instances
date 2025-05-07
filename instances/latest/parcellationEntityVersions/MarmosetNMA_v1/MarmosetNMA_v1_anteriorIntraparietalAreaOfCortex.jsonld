@@ -1,0 +1,60 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+    "abbreviation": "AIP",
+    "alternateName": [
+        "AIP",
+        "anterior intraparietal area of cortex",
+        "anteriorIntraparietalAreaOfCortex"
+    ],
+    "hasParent": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
+        }
+    ],
+    "name": "anterior intraparietal area of cortex",
+    "ontologyIdentifier": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_anteriorIntraparietalAreaOfCortex",
+    "lookupLabel": "MarmosetNMA_v1_anteriorIntraparietalAreaOfCortex",
+    "additionalRemarks": null,
+    "correctedName": null,
+    "hasAnnotation": [
+        {
+            "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+            "anchorPoint": null,
+            "criteria": null,
+            "criteriaQualityType": {
+                "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+            },
+            "criteriaType": {
+                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+            },
+            "inspiredBy": null,
+            "internalIdentifier": "51",
+            "laterality": [
+                {
+                    "@id": "https://openminds.om-i.org/instances/laterality/left"
+                },
+                {
+                    "@id": "https://openminds.om-i.org/instances/laterality/right"
+                }
+            ],
+            "preferredVisualization": {
+                "@type": "https://openminds.om-i.org/types/ViewerSpecification",
+                "additionalRemarks": null,
+                "anchorPoint": null,
+                "cameraPosition": null,
+                "preferredDisplayColor": {
+                    "@id": "https://openminds.om-i.org/instances/singleColor/#FEFF76"
+                }
+            },
+            "specification": null,
+            "type": null
+        }
+    ],
+    "relationAssessment": null,
+    "versionIdentifier": "v1",
+    "versionInnovation": null
+}

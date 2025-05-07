@@ -3,10 +3,10 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": "Pir",
+    "abbreviation": "PirC",
     "alternateName": [
-        "Pir",
-        "piriform cortex",
+        "PirC",
+        "Piriform cortex",
         "piriformCortex"
     ],
     "definition": null,
@@ -16,7 +16,7 @@
             "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_piriformCortex"
         }
     ],
-    "name": "piriform cortex",
+    "name": "Piriform cortex",
     "ontologyIdentifier": null,
     "relatedUBERONTerm": null,
     "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_piriformCortex",

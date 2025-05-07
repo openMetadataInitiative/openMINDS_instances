@@ -1,0 +1,24 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+    "abbreviation": "LIT",
+    "alternateName": [
+        "LIT",
+        "Lateral and inferior temporal cortical region",
+        "lateralAndInferiorTemporalCorticalRegion"
+    ],
+    "definition": null,
+    "hasParent": null,
+    "hasVersion": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_lateralAndInferiorTemporalCorticalRegion"
+        }
+    ],
+    "name": "Lateral and inferior temporal cortical region",
+    "ontologyIdentifier": null,
+    "relatedUBERONTerm": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_lateralAndInferiorTemporalCorticalRegion",
+    "lookupLabel": "MarmosetNMA_lateralAndInferiorTemporalCorticalRegion"
+}

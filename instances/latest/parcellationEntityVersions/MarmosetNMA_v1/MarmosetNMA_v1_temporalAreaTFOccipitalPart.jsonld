@@ -1,0 +1,60 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+    "abbreviation": "TFO",
+    "alternateName": [
+        "TFO",
+        "temporal area TF occipital part",
+        "temporalAreaTFOccipitalPart"
+    ],
+    "hasParent": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventralAreasOfTheTemporalLobe"
+        }
+    ],
+    "name": "temporal area TF occipital part",
+    "ontologyIdentifier": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTFOccipitalPart",
+    "lookupLabel": "MarmosetNMA_v1_temporalAreaTFOccipitalPart",
+    "additionalRemarks": null,
+    "correctedName": null,
+    "hasAnnotation": [
+        {
+            "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+            "anchorPoint": null,
+            "criteria": null,
+            "criteriaQualityType": {
+                "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+            },
+            "criteriaType": {
+                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+            },
+            "inspiredBy": null,
+            "internalIdentifier": "117",
+            "laterality": [
+                {
+                    "@id": "https://openminds.om-i.org/instances/laterality/left"
+                },
+                {
+                    "@id": "https://openminds.om-i.org/instances/laterality/right"
+                }
+            ],
+            "preferredVisualization": {
+                "@type": "https://openminds.om-i.org/types/ViewerSpecification",
+                "additionalRemarks": null,
+                "anchorPoint": null,
+                "cameraPosition": null,
+                "preferredDisplayColor": {
+                    "@id": "https://openminds.om-i.org/instances/singleColor/#51FF00"
+                }
+            },
+            "specification": null,
+            "type": null
+        }
+    ],
+    "relationAssessment": null,
+    "versionIdentifier": "v1",
+    "versionInnovation": null
+}

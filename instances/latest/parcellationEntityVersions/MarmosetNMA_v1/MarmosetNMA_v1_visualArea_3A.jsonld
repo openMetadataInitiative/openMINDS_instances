@@ -1,0 +1,60 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+    "abbreviation": "V3A(DA)",
+    "alternateName": [
+        "V3A(DA)",
+        "visual area 3A (dorsoanterior area)",
+        "visualArea_3A"
+    ],
+    "hasParent": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_visualCortex"
+        }
+    ],
+    "name": "visual area 3A (dorsoanterior area)",
+    "ontologyIdentifier": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea_3A",
+    "lookupLabel": "MarmosetNMA_v1_visualArea_3A",
+    "additionalRemarks": null,
+    "correctedName": null,
+    "hasAnnotation": [
+        {
+            "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+            "anchorPoint": null,
+            "criteria": null,
+            "criteriaQualityType": {
+                "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+            },
+            "criteriaType": {
+                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+            },
+            "inspiredBy": null,
+            "internalIdentifier": "129",
+            "laterality": [
+                {
+                    "@id": "https://openminds.om-i.org/instances/laterality/left"
+                },
+                {
+                    "@id": "https://openminds.om-i.org/instances/laterality/right"
+                }
+            ],
+            "preferredVisualization": {
+                "@type": "https://openminds.om-i.org/types/ViewerSpecification",
+                "additionalRemarks": null,
+                "anchorPoint": null,
+                "cameraPosition": null,
+                "preferredDisplayColor": {
+                    "@id": "https://openminds.om-i.org/instances/singleColor/#A4FF2C"
+                }
+            },
+            "specification": null,
+            "type": null
+        }
+    ],
+    "relationAssessment": null,
+    "versionIdentifier": "v1",
+    "versionInnovation": null
+}
