@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "INS",
     "alternateName": [
         "INS",
-        "Insular cortex"
+        "Insular cortex",
+        "InsularCortex"
     ],
     "definition": null,
     "hasParent": null,

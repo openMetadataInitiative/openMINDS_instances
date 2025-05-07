@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "PaIL",
     "alternateName": [
         "PaIL",
-        "parainsular cortex lateral part"
+        "parainsular cortex lateral part",
+        "parainsularCortexLateralPart"
     ],
     "definition": null,
     "hasParent": null,

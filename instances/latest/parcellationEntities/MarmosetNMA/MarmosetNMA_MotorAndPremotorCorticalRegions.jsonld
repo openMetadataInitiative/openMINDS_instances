@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "PRM",
     "alternateName": [
         "PRM",
-        "Motor and premotor cortical regions"
+        "Motor and premotor cortical regions",
+        "MotorAndPremotorCorticalRegions"
     ],
     "definition": null,
     "hasParent": null,

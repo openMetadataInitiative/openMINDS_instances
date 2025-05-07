@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "S2PR",
     "alternateName": [
         "S2PR",
-        "secondary somatosensory cortex parietal rostral area"
+        "secondary somatosensory cortex parietal rostral area",
+        "secondarySomatosensoryCortexParietalRostralArea"
     ],
     "definition": null,
     "hasParent": null,

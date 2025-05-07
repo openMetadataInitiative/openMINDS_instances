@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "V4(VLA)",
     "alternateName": [
         "V4(VLA)",
-        "visual area 4 (ventrolatereral anterior area)"
+        "visual area 4 (ventrolatereral anterior area)",
+        "visualArea_4"
     ],
     "definition": null,
     "hasParent": null,

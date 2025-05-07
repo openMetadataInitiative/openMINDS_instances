@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "V6(DM)",
     "alternateName": [
         "V6(DM)",
-        "visual area 6 (dorsomedial area)"
+        "visual area 6 (dorsomedial area)",
+        "visualArea_6"
     ],
     "definition": null,
     "hasParent": null,

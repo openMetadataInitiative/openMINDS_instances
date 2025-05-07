@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "AuCM",
     "alternateName": [
         "AuCM",
-        "auditory cortex caudomedial area"
+        "auditory cortex caudomedial area",
+        "auditoryCortexCaudomedialArea"
     ],
     "definition": null,
     "hasParent": null,

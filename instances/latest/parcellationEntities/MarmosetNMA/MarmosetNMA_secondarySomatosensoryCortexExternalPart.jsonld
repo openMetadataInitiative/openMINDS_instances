@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "S2E",
     "alternateName": [
         "S2E",
-        "secondary somatosensory cortex external part"
+        "secondary somatosensory cortex external part",
+        "secondarySomatosensoryCortexExternalPart"
     ],
     "definition": null,
     "hasParent": null,

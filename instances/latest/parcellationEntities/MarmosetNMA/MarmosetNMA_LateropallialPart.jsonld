@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "LatPal",
     "alternateName": [
         "LatPal",
-        "Lateropallial part"
+        "Lateropallial part",
+        "LateropallialPart"
     ],
     "definition": null,
     "hasParent": null,

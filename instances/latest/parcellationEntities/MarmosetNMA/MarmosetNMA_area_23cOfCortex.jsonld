@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "A23c",
     "alternateName": [
         "A23c",
-        "area 23c of cortex"
+        "area 23c of cortex",
+        "area_23cOfCortex"
     ],
     "definition": null,
     "hasParent": null,

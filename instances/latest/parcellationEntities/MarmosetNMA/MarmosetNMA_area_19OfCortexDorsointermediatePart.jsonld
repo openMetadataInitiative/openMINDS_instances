@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "A19DI",
     "alternateName": [
         "A19DI",
-        "area 19 of cortex dorsointermediate part"
+        "area 19 of cortex dorsointermediate part",
+        "area_19OfCortexDorsointermediatePart"
     ],
     "definition": null,
     "hasParent": null,

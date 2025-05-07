@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "PPC",
     "alternateName": [
         "PPC",
-        "Posterior parietal cortex"
+        "Posterior parietal cortex",
+        "PosteriorParietalCortex"
     ],
     "definition": null,
     "hasParent": null,

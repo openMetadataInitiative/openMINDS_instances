@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "A13L",
     "alternateName": [
         "A13L",
-        "area 13 of cortex lateral part"
+        "area 13 of cortex lateral part",
+        "area_13OfCortexLateralPart"
     ],
     "definition": null,
     "hasParent": null,

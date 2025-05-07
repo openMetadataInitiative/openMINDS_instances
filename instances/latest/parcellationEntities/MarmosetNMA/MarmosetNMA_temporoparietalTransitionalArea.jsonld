@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "TPt",
     "alternateName": [
         "TPt",
-        "temporoparietal transitional area"
+        "temporoparietal transitional area",
+        "temporoparietalTransitionalArea"
     ],
     "definition": null,
     "hasParent": null,

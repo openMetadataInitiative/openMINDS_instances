@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "A13a",
     "alternateName": [
         "A13a",
-        "area 13a of cortex"
+        "area 13a of cortex",
+        "area_13aOfCortex"
     ],
     "definition": null,
     "hasParent": null,

@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "A9",
     "alternateName": [
         "A9",
-        "area 9 of cortex"
+        "area 9 of cortex",
+        "area_9OfCortex"
     ],
     "definition": null,
     "hasParent": null,

@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "TEO",
     "alternateName": [
         "TEO",
-        "temporal area TE occipital part"
+        "temporal area TE occipital part",
+        "temporalAreaTEOccipitalPart"
     ],
     "definition": null,
     "hasParent": null,

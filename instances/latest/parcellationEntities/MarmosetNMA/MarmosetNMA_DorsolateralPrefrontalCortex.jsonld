@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "DLP",
     "alternateName": [
         "DLP",
-        "Dorsolateral prefrontal cortex"
+        "Dorsolateral prefrontal cortex",
+        "DorsolateralPrefrontalCortex"
     ],
     "definition": null,
     "hasParent": null,

@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "DI",
     "alternateName": [
         "DI",
-        "dysgranular insular cortex"
+        "dysgranular insular cortex",
+        "dysgranularInsularCortex"
     ],
     "definition": null,
     "hasParent": null,

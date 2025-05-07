@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
-    "abbreviation": null,
+    "abbreviation": "A32V",
     "alternateName": [
         "A32V",
-        "area 32 of cortex ventral part"
+        "area 32 of cortex ventral part",
+        "MedialPrefrontalCortex"
     ],
     "hasParent": [
         {

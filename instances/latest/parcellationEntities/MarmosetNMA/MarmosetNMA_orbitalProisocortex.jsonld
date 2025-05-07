@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "OPro",
     "alternateName": [
         "OPro",
-        "orbital proisocortex"
+        "orbital proisocortex",
+        "orbitalProisocortex"
     ],
     "definition": null,
     "hasParent": null,

@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "A6Vb",
     "alternateName": [
         "A6Vb",
-        "area 6 of cortex ventral part b"
+        "area 6 of cortex ventral part b",
+        "area_6OfCortexVentralPartB"
     ],
     "definition": null,
     "hasParent": null,

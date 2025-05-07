@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "AuCL",
     "alternateName": [
         "AuCL",
-        "auditory cortex caudolateral area"
+        "auditory cortex caudolateral area",
+        "auditoryCortexCaudolateralArea"
     ],
     "definition": null,
     "hasParent": null,

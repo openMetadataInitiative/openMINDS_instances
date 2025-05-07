@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "A45",
     "alternateName": [
         "A45",
-        "area 45 of cortex"
+        "area 45 of cortex",
+        "area_45OfCortex"
     ],
     "definition": null,
     "hasParent": null,

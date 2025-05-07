@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "A14R",
     "alternateName": [
         "A14R",
-        "area 14 of cortex rostral part"
+        "area 14 of cortex rostral part",
+        "area_14OfCortexRostralPart"
     ],
     "definition": null,
     "hasParent": null,

@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "A6DC",
     "alternateName": [
         "A6DC",
-        "area 6 of cortex dorsocaudal part"
+        "area 6 of cortex dorsocaudal part",
+        "area_6OfCortexDorsocaudalPart"
     ],
     "definition": null,
     "hasParent": null,

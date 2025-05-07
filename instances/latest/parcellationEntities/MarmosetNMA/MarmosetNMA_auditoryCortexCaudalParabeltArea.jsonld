@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "AuCPB",
     "alternateName": [
         "AuCPB",
-        "auditory cortex caudal parabelt area"
+        "auditory cortex caudal parabelt area",
+        "auditoryCortexCaudalParabeltArea"
     ],
     "definition": null,
     "hasParent": null,

@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "V3(VLP)",
     "alternateName": [
         "V3(VLP)",
-        "visual area 3 (ventrolateral posterior area)"
+        "visual area 3 (ventrolateral posterior area)",
+        "visualArea_3"
     ],
     "definition": null,
     "hasParent": null,

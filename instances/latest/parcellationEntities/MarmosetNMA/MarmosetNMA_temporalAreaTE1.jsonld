@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "TE1",
     "alternateName": [
         "TE1",
-        "temporal area TE1 (inferior temporal cortex)"
+        "temporal area TE1 (inferior temporal cortex)",
+        "temporalAreaTE1"
     ],
     "definition": null,
     "hasParent": null,

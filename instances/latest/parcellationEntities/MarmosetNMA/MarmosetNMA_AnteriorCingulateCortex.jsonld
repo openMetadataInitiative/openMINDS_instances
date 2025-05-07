@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "ACC",
     "alternateName": [
         "ACC",
-        "Anterior cingulate cortex"
+        "Anterior cingulate cortex",
+        "AnteriorCingulateCortex"
     ],
     "definition": null,
     "hasParent": null,

@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "AI",
     "alternateName": [
         "AI",
-        "agranular insular cortex"
+        "agranular insular cortex",
+        "agranularInsularCortex"
     ],
     "definition": null,
     "hasParent": null,

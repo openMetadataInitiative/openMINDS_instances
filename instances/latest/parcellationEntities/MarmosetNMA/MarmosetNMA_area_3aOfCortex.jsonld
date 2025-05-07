@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "A3a",
     "alternateName": [
         "A3a",
-        "area 3a of cortex (somatosensory)"
+        "area 3a of cortex (somatosensory)",
+        "area_3aOfCortex"
     ],
     "definition": null,
     "hasParent": null,

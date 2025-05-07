@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "AIP",
     "alternateName": [
         "AIP",
-        "anterior intraparietal area of cortex"
+        "anterior intraparietal area of cortex",
+        "anteriorIntraparietalAreaOfCortex"
     ],
     "definition": null,
     "hasParent": null,

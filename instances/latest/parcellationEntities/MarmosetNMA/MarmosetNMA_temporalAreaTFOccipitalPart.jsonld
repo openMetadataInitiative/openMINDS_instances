@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "TFO",
     "alternateName": [
         "TFO",
-        "temporal area TF occipital part"
+        "temporal area TF occipital part",
+        "temporalAreaTFOccipitalPart"
     ],
     "definition": null,
     "hasParent": null,

@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
-    "abbreviation": null,
+    "abbreviation": "S2PV",
     "alternateName": [
         "S2PV",
-        "secondary somatosensory cortex parietal ventral area"
+        "secondary somatosensory cortex parietal ventral area",
+        "SomatosensoryCortex"
     ],
     "hasParent": [
         {

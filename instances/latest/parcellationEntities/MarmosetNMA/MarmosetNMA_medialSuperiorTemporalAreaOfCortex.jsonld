@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "MST",
     "alternateName": [
         "MST",
-        "medial superior temporal area of cortex"
+        "medial superior temporal area of cortex",
+        "medialSuperiorTemporalAreaOfCortex"
     ],
     "definition": null,
     "hasParent": null,

@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "TF",
     "alternateName": [
         "TF",
-        "temporal area TF"
+        "temporal area TF",
+        "temporalAreaTF"
     ],
     "definition": null,
     "hasParent": null,

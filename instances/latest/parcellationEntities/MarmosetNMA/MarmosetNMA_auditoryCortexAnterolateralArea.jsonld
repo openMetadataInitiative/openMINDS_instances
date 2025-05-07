@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "AuAL",
     "alternateName": [
         "AuAL",
-        "auditory cortex anterolateral area"
+        "auditory cortex anterolateral area",
+        "auditoryCortexAnterolateralArea"
     ],
     "definition": null,
     "hasParent": null,

@@ -3,10 +3,11 @@
         "@vocab": "https://openminds.om-i.org/props/"
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": null,
+    "abbreviation": "PirC",
     "alternateName": [
         "PirC",
-        "Piriform cortex"
+        "Piriform cortex",
+        "PiriformCortex"
     ],
     "definition": null,
     "hasParent": null,
