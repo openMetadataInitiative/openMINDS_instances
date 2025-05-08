@@ -7,9 +7,9 @@
     "abbreviation": "MarmosetNMA",
     "author": null,
     "custodian": null,
-    "description": null,
+    "description": "The Marmoset Nencki-Monash Template is a three dimensional (3D) population-based  brain template reconstructed from 20 postmortem brains obtained from young adult marmoset monkeys (Callithrix jacchus).",
     "digitalIdentifier": null,
-    "fullName": "Marmoset Nencki-Monash Space of the Common Marmoset (coordinate space)",
+    "fullName": "Marmoset Nencki-Monash Population-Based Brain Template",
     "hasVersion": [
         {
             "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MarmosetNMA_v1"
@@ -18,7 +18,7 @@
     "homepage": "https://www.marmosetbrain.org/nencki_monash_template",
     "howToCite": null,
     "ontologyIdentifier": null,
-    "shortName": "Nencki-Monash Space of the Common Marmoset Brain",
+    "shortName": "Marmoset Nencki-Monash Template",
     "usedSpecies": {
         "@id": "https://openminds.om-i.org/instances/species/callithrixJacchus"
     }

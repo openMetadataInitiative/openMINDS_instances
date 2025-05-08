@@ -7,9 +7,9 @@
     "abbreviation": "MarmosetNMA",
     "author": null,
     "custodian": null,
-    "description": "Histology\u2010Based Average Template of the Marmoset Cortex With Probabilistic Localization of Cytoarchitectural Areas",
+    "description": "The Marmoset Nencki-Monash Atlas is a three dimensional (3D) probabilistic  brain atlas reconstructed from 20 young adult marmoset monkeys (Callithrix jacchus) and segmented based on the cytoarchitectonic analysis of the serial Nissl-stained sections of those brains.",
     "digitalIdentifier": {
-        "@id": "https://doi.org/10.1016/j.neuroimage.2020.117625"
+        "@id": "https://search.kg.ebrains.eu/instances/6eb874e1-63b3-4889-948a-0d3987cb249b"
     },
     "fullName": null,
     "hasTerminology": {
@@ -369,7 +369,7 @@
     },
     "homepage": "https://www.marmosetbrain.org",
     "howToCite": "Piotr Majka, Sylwia Bednarek, Jonathan M. Chan, Natalia Jermakow, Cirong Liu, Gabriela Saworska, Katrina H. Worthy, Afonso C. Silva, Daniel K. W\u00f3jcik, Marcello G.P. Rosa, Histology\u2010Based Average Template of the Marmoset Cortex With Probabilistic Localization of Cytoarchitectural Areas, NeuroImage, Volume 226, 2021, 117625, ISSN 1053-8119, https://doi.org/10.1016/j.neuroimage.2020.117625. (https://www.sciencedirect.com/science/article/pii/S1053811920311101)",
-    "shortName": "Marmoset Nencki-Monash template",
+    "shortName": "Marmoset Nencki-Monash Atlas",
     "accessibility": {
         "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
     },
@@ -390,7 +390,7 @@
     "otherContribution": null,
     "relatedPublication": [
         {
-            "@id": ""
+            "@id": "https://doi.org/10.1016/j.neuroimage.2020.117625"
         }
     ],
     "releaseDate": null,
@@ -403,5 +403,5 @@
     },
     "usedSpecimen": null,
     "versionIdentifier": "v1",
-    "versionInnovation": ""
+    "versionInnovation": null
 }
