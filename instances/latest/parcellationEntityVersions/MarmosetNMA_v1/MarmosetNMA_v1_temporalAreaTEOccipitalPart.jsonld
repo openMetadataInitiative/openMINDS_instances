@@ -4,11 +4,7 @@
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
     "abbreviation": "TEO",
-    "alternateName": [
-        "TEO",
-        "temporal area TE occipital part",
-        "temporalAreaTEOccipitalPart"
-    ],
+    "alternateName": [],
     "hasParent": [
         {
             "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_lateralAndInferiorTemporalCorticalRegion"
@@ -29,16 +25,13 @@
                 "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
             },
             "criteriaType": {
-                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
             },
             "inspiredBy": null,
             "internalIdentifier": "115",
             "laterality": [
                 {
                     "@id": "https://openminds.om-i.org/instances/laterality/left"
-                },
-                {
-                    "@id": "https://openminds.om-i.org/instances/laterality/right"
                 }
             ],
             "preferredVisualization": {

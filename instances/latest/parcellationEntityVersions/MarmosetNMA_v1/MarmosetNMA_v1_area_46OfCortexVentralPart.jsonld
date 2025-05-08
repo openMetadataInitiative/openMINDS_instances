@@ -4,11 +4,7 @@
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
     "abbreviation": "A46V",
-    "alternateName": [
-        "A46V",
-        "area 46 of cortex ventral part",
-        "area_46OfCortexVentralPart"
-    ],
+    "alternateName": [],
     "hasParent": [
         {
             "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_dorsolateralPrefrontalCortex"
@@ -29,16 +25,13 @@
                 "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
             },
             "criteriaType": {
-                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
             },
             "inspiredBy": null,
             "internalIdentifier": "33",
             "laterality": [
                 {
                     "@id": "https://openminds.om-i.org/instances/laterality/left"
-                },
-                {
-                    "@id": "https://openminds.om-i.org/instances/laterality/right"
                 }
             ],
             "preferredVisualization": {

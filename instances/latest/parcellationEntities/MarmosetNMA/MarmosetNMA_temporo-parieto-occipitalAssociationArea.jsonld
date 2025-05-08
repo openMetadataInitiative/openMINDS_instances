@@ -4,13 +4,13 @@
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
     "abbreviation": "TPO(STP)",
-    "alternateName": [
-        "TPO(STP)",
-        "temporo-parieto-occipital association area (superior temporal polysensory cortex)",
-        "temporo-parieto-occipitalAssociationArea"
-    ],
+    "alternateName": [],
     "definition": null,
-    "hasParent": null,
+    "hasParent": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_lateralAndInferiorTemporalCorticalRegion"
+        }
+    ],
     "hasVersion": [
         {
             "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporo-parieto-occipitalAssociationArea"

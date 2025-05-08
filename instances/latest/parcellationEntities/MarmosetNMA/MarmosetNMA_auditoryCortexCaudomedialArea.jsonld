@@ -4,13 +4,13 @@
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
     "abbreviation": "AuCM",
-    "alternateName": [
-        "AuCM",
-        "auditory cortex caudomedial area",
-        "auditoryCortexCaudomedialArea"
-    ],
+    "alternateName": [],
     "definition": null,
-    "hasParent": null,
+    "hasParent": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_auditoryCortex"
+        }
+    ],
     "hasVersion": [
         {
             "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexCaudomedialArea"

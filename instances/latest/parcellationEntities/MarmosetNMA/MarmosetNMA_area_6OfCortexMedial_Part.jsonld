@@ -4,13 +4,13 @@
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
     "abbreviation": "A6M",
-    "alternateName": [
-        "A6M",
-        "area 6 of cortex medial (supplementary motor) part",
-        "area_6OfCortexMedial_Part"
-    ],
+    "alternateName": [],
     "definition": null,
-    "hasParent": null,
+    "hasParent": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_motorAndPremotorCorticalRegions"
+        }
+    ],
     "hasVersion": [
         {
             "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area_6OfCortexMedial_Part"

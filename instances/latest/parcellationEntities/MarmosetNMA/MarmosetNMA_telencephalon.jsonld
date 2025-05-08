@@ -4,13 +4,13 @@
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
     "abbreviation": "TelCeph",
-    "alternateName": [
-        "TelCeph",
-        "Telencephalon",
-        "telencephalon"
-    ],
+    "alternateName": [],
     "definition": null,
-    "hasParent": null,
+    "hasParent": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_prosencephalon"
+        }
+    ],
     "hasVersion": [
         {
             "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_telencephalon"

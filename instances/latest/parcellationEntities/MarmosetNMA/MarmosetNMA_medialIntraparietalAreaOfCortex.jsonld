@@ -4,13 +4,13 @@
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
     "abbreviation": "MIP",
-    "alternateName": [
-        "MIP",
-        "medial intraparietal area of cortex",
-        "medialIntraparietalAreaOfCortex"
-    ],
+    "alternateName": [],
     "definition": null,
-    "hasParent": null,
+    "hasParent": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
+        }
+    ],
     "hasVersion": [
         {
             "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_medialIntraparietalAreaOfCortex"

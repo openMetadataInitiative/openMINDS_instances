@@ -4,11 +4,7 @@
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
     "abbreviation": "A9",
-    "alternateName": [
-        "A9",
-        "area 9 of cortex",
-        "area_9OfCortex"
-    ],
+    "alternateName": [],
     "hasParent": [
         {
             "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_dorsolateralPrefrontalCortex"
@@ -29,16 +25,13 @@
                 "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
             },
             "criteriaType": {
-                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
             },
             "inspiredBy": null,
             "internalIdentifier": "48",
             "laterality": [
                 {
                     "@id": "https://openminds.om-i.org/instances/laterality/left"
-                },
-                {
-                    "@id": "https://openminds.om-i.org/instances/laterality/right"
                 }
             ],
             "preferredVisualization": {

@@ -4,11 +4,7 @@
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
     "abbreviation": "TE3",
-    "alternateName": [
-        "TE3",
-        "temporal area TE3 (inferior temporal cortex)",
-        "temporalAreaTE3"
-    ],
+    "alternateName": [],
     "hasParent": [
         {
             "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_lateralAndInferiorTemporalCorticalRegion"
@@ -29,16 +25,13 @@
                 "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
             },
             "criteriaType": {
-                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
             },
             "inspiredBy": null,
             "internalIdentifier": "114",
             "laterality": [
                 {
                     "@id": "https://openminds.om-i.org/instances/laterality/left"
-                },
-                {
-                    "@id": "https://openminds.om-i.org/instances/laterality/right"
                 }
             ],
             "preferredVisualization": {

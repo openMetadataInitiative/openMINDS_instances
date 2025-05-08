@@ -4,11 +4,7 @@
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
     "abbreviation": "A19DI",
-    "alternateName": [
-        "A19DI",
-        "area 19 of cortex dorsointermediate part",
-        "area_19OfCortexDorsointermediatePart"
-    ],
+    "alternateName": [],
     "hasParent": [
         {
             "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_visualCortex"
@@ -29,16 +25,13 @@
                 "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
             },
             "criteriaType": {
-                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
             },
             "inspiredBy": null,
             "internalIdentifier": "10",
             "laterality": [
                 {
                     "@id": "https://openminds.om-i.org/instances/laterality/left"
-                },
-                {
-                    "@id": "https://openminds.om-i.org/instances/laterality/right"
                 }
             ],
             "preferredVisualization": {

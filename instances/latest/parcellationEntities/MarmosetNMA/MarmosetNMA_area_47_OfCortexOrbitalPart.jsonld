@@ -4,13 +4,13 @@
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
     "abbreviation": "A47O(12O)",
-    "alternateName": [
-        "A47O(12O)",
-        "area 47 (old 12) of cortex orbital part",
-        "area_47_OfCortexOrbitalPart"
-    ],
+    "alternateName": [],
     "definition": null,
-    "hasParent": null,
+    "hasParent": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventrolateralPrefrontalCortex"
+        }
+    ],
     "hasVersion": [
         {
             "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area_47_OfCortexOrbitalPart"
