@@ -2,15 +2,15 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/service/Multi-Image-OSd",
+  "@id": "https://openminds.ebrains.eu/instances/service/SeriesZoom",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Service",
   "definition": "Web application for viewing of series of high-resolution 2D images.",
-  "description": "Multi-Image-OSd allows the viewing and exploring of high-resolution images. For more information see: https://github.com/Neural-Systems-at-UIO/Multi-Image-OSd",
+  "description": "SeriesZoom allows the viewing and exploring of high-resolution images. For more information see: https://github.com/Neural-Systems-at-UIO/SeriesZoom",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "Multi-Image-OSd",
+  "name": "SeriesZoom",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "Multi-Image OpenSeadragon viewer"
+    "SeriesZoom viewer"
   ]
 }
