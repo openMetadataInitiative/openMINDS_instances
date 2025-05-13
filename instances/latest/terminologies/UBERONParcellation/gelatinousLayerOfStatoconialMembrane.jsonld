@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/gelatinousLayerOfStatoconialMembrane",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the statoconial membrane. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016568)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016568#gelatinous-layer-of-statoconial-membrane",
+  "name": "gelatinous layer of statoconial membrane",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016568",
+  "synonym": null
+}
+
