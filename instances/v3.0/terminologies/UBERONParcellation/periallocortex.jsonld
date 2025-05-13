@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/periallocortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014736) ('is_a' and 'relationship')]",
+  "description": "Agranular cortical structures located next to the allocortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014736)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014736#periallocortex",
+  "name": "periallocortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014736",
+  "synonym": null
+}
+
