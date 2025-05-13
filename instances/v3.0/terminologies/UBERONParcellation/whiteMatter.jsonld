@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a central nervous system cell part cluster. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002316)]",
+  "description": "Neural tissue consisting of myelinated axons connecting grey matter areas of the central nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002316)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002316#white-matter",
+  "name": "white matter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002316",
+  "synonym": [
+    "CNS tract/commissure",
+    "neuronal white matter",
+    "white matter of neuraxis",
+    "white substance"
+  ]
+}
+
