@@ -40,7 +40,7 @@
                 "anchorPoint": null,
                 "cameraPosition": null,
                 "preferredDisplayColor": {
-                    "@id": "https://openminds.om-i.org/instances/annotationType/annotationMask"
+                    "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.Greys"
                 }
             },
             "specification": null,
