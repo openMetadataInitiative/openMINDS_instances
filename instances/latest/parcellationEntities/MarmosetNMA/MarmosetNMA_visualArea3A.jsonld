@@ -1,0 +1,24 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+    "abbreviation": "V3A(DA)",
+    "alternateName": [],
+    "definition": null,
+    "hasParent": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_visualCortex"
+        }
+    ],
+    "hasVersion": [
+        {
+            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea3A"
+        }
+    ],
+    "name": "visual area 3A (dorsoanterior area)",
+    "ontologyIdentifier": null,
+    "relatedUBERONTerm": null,
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_visualArea3A",
+    "lookupLabel": "MarmosetNMA_visualArea3A"
+}
