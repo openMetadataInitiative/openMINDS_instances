@@ -4,7 +4,7 @@
     },
     "@type": "https://openminds.om-i.org/types/ParcellationEntity",
     "abbreviation": "A8b",
-    "alternateName": [],
+    "alternateName": null,
     "definition": null,
     "hasParent": [
         {
