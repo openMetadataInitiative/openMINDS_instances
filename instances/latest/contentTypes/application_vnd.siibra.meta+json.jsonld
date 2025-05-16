@@ -16,7 +16,7 @@
   ],
   "name": "application/vnd.siibra.meta+json",
   "relatedMediaType": null,
-  "specification": "https://raw.githubusercontent.com/FZJ-INM1-BDA/siibra-explorer/refs/heads/staging/.metaSpec/meta.schema.json",
+  "specification": "https://raw.githubusercontent.com/FZJ-INM1-BDA/siibra-explorer/refs/heads/master/.metaSpec/meta.schema.json",
   "synonym": [
     "siibra toolsuite volume descriptor"
   ]
