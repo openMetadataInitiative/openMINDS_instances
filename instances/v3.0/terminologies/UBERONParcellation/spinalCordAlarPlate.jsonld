@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinalCordAlarPlate",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neural tube alar plate. Is part of the future spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004063) ('is_a' and 'relationship')]",
+  "description": "The region of the mantle layer of the neural tube that lies dorsal to the sulcus limitans and contains primarily sensory neurons and interneurons involved in communication of sensory impulses; the alar plate develops into the dorsal horn in the grey matter of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004063)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004063#spinal-cord-alar-plate",
+  "name": "spinal cord alar plate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004063",
+  "synonym": [
+    "alar column spinal cord",
+    "spinal cord alar column",
+    "spinal cord alar lamina"
+  ]
+}
+
