@@ -2,14 +2,11 @@ name: Autopopulation
 
 on:
   # Trigger when a pull request is merged into main
-  pull_request:
-    types: [closed]
-    branches:
-      - main
+  repository_dispatch:
+    types: [autopopulation_trigger]
   # Trigger on direct pushes to main
   push:
     branches:
-      - main
       - pipeline
 
 jobs:
