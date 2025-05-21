@@ -11,8 +11,6 @@ on:
 
 jobs:
   sync-instances:
-    # Run the job if a PR was merged or a push occurred on main
-    if: github.event.pull_request.merged == true || github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
