@@ -4,7 +4,6 @@ on:
   # Trigger when a pull request is merged into main
   repository_dispatch:
     types: [autopopulation_trigger]
-  # Trigger on direct pushes to main
   push:
     branches:
       - pipeline
