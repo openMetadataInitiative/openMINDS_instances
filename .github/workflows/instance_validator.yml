@@ -1,9 +1,8 @@
 name: Instance Validator
 
 on:
-  pull_request:
-    branches:
-      - main
+  repository_dispatch:
+    types: [instance_validator_trigger]
   push:
     branches:
       - pipeline

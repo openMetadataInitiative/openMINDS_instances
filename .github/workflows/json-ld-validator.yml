@@ -1,9 +1,8 @@
 name: JSON-LD Validator
 
 on:
-  pull_request:
-    branches:
-      - main
+  repository_dispatch:
+    types: [json-ld-validator_trigger]
   push:
     branches:
       - pipeline
