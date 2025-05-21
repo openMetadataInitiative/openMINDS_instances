@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/ultraHighFieldStructuralMagneticResonanceImaging",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "A magnetic resonance imaging technique that typically uses a magnetic field strength of 7 Tesla (or higher) to generate images with static information of the scanned body.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ultra high-field structural magnetic resonance imaging",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "UHF sMRI",
+    "UHF structural MRI",
+    "ultra high-field structural MRI",
+    "UHF structural magnetic resonance imaging",
+    "UHF MRI",
+    "ultra high-field MRI",
+    "UHF magnetic resonance imaging",
+    "ultra high-field magnetic resonance imaging"
+  ]
+}
