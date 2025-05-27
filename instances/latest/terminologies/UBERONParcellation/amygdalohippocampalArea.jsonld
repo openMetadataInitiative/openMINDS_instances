@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/amygdalohippocampalArea",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebral hemisphere gray matter and nuclear complex of neuraxis. Is part of the corticomedial nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034673) ('is_a' and 'relationship')]",
+  "description": "A cytoarchitecturally defined portion of the periamygdalar area and the cortical amygdalar nucleus at the caudal extreme of the amygdala. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034673)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034673#amygdalohippocampal-area",
+  "name": "amygdalohippocampal area",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034673",
+  "synonym": null
+}
+
