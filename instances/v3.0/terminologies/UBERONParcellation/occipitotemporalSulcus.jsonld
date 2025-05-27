@@ -4,11 +4,21 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/occipitotemporalSulcus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": null,
-  "description": "'Occipitotemporal sulcus' is a subarachnoid sulcus.",
+  "definition": "Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002693)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107885",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002693#occipitotemporal-sulcus-1",
   "name": "occipitotemporal sulcus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002693",
-  "synonym": null
+  "synonym": [
+    "inferior temporal fissure",
+    "inferior temporal fissure (Crosby)",
+    "inferior temporal sulcus (roberts)",
+    "inferior temporal sulcus (szikla)",
+    "inferior temporal sulcus-2",
+    "lateral occipitotemporal sulcus",
+    "occipito-temporal sulcus",
+    "third temporal sulcus"
+  ]
 }
+

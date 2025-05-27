@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lunateSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a subarachnoid sulcus and occipital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002903)]",
+  "description": "The lunate sulcus is a structure in the occipital lobe. It is not present in all individuals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002903)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002903#lunate-sulcus-1",
+  "name": "lunate sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002903",
+  "synonym": [
+    "lunate fissure",
+    "sulcus lunatus",
+    "sulcus simialis"
+  ]
+}
+
