@@ -2,24 +2,24 @@
     "@context": {
         "@vocab": "https://openminds.om-i.org/props/"
     },
-    "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MarmosetNMT_v1",
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MBISC_v2012",
     "@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
-    "abbreviation": "MarmosetNMT_v1",
+    "abbreviation": "MBISC_v2012",
     "author": null,
     "custodian": null,
-    "description": "The Marmoset Nencki-Monash Template is a three dimensional (3D) population-based  brain template reconstructed from 20 postmortem brains obtained from young adult marmoset monkeys (Callithrix jacchus).",
+    "description": "According to Paxinos, Watson, Petrides, Rosa, Tokuno, 'The Marmoset Brain in Stereotaxic Coordinates' (2012), page IX, Figure B and \"Histology\" section: The horizontal zero plane passes through the lower margin of the orbit and the center of the external auditory meatus. The anteroposterior zero plane is perpendicular to the horizontal zero plane and passes through the centers of the external auditory meatus. The left-right zero plane is the midsagittal plane.",
     "digitalIdentifier": null,
-    "fullName": "The Marmoset Nencki-Monash Template in Stereotaxic Coordinates",
-    "homepage": "https://marmoset.mrosa.org/",
-    "howToCite": null,
+    "fullName": "The Marmoset Brain in Stereotaxic Coordinates",
+    "homepage": "http://www.neura.edu.au/research/themes/paxinos-group",
+    "howToCite": "G. Paxinos, C. Watson, M. Petrides, M. Rosa, H. Tokuno, The Marmoset Brain in Stereotaxic Coordinates, Academic Press (2012).",
     "ontologyIdentifier": null,
-    "shortName": "Marmoset Nencki-Monash Template",
+    "shortName": "MBISC",
     "accessibility": null,
     "anatomicalAxesOrientation": {
         "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/LAS"
     },
     "versionIdentifier": "v2012",
-    "fullDocumentation": "https://www.marmosetbrain.org/nencki_monash_template",
+    "fullDocumentation": "http://r.marmosetbrain.org/Atlas+Small.pdf",
     "nativeUnit": {
         "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
     },
@@ -52,22 +52,17 @@
             "value": 0
         }
     ],
-    "releaseDate": "2021-02-01",
-    "copyright": "Copyright \u00a9 2021 Elsevier Inc. All rights reserved",
-    "usedSpecimen": "Common Marmoset (Callithrix jacchus), 20 animals",
-    "verionInnovation": "",
+    "releaseDate": "2011-10-27",
+    "copyright": "Copyright \u00a9 2012 Elsevier Inc. All rights reserved",
+    "usedSpecimen": "Common Marmoset (Callithrix jacchus), female, 3 years 2 months, 500 g.",
+    "verionInnovation": "The first version of this stereotaxic coordinate system.",
     "authors": [
         [
-            "Piotr Majka",
-            "Sylwia Bednarek",
-            "Jonathan M. Chan",
-            "Natalia Jermakow",
-            "Cirong Liu",
-            "Gabriela Saworska",
-            "Katrina H. Worthy",
-            "Afonso C.Silva",
-            "Daniel K. W\u00f3jcik",
-            "Marcello G.P. Rosa"
+            "G. Paxinos",
+            "C. Watson",
+            "M. Petrides",
+            "M. Rosa",
+            "H. Tokuno"
         ]
     ]
 }

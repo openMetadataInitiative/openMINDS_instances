@@ -7,9 +7,9 @@
     "abbreviation": "MarmosetNMT",
     "author": null,
     "custodian": null,
-    "description": "The Marmoset Nencki-Monash Template is a three dimensional (3D) population-based  brain template reconstructed from 20 postmortem brains obtained from young adult marmoset monkeys (Callithrix jacchus). The atlas uses a stereotaxic coordinate system described in Paxinos et al. (2012). The horizontal zero plane passes through the lower margin of the orbit and the center of the external auditory meatus. The anteroposterior zero plane is perpendicular to the horizontal zero plane and passes through the centers of the external auditory meatus. The left-right zero plane is the midsagittal plane.",
+    "description": "",
     "digitalIdentifier": null,
-    "fullName": "Marmoset Nencki-Monash Population-Based Brain Template",
+    "fullName": "The Marmoset Nencki-Monash Template in Stereotaxic Coordinates",
     "hasVersion": [
         {
             "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MarmosetNMT_v1"
