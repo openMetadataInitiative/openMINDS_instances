@@ -5,8 +5,20 @@
     "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MBISC_v2012",
     "@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
     "abbreviation": "MBISC_v2012",
-    "author": null,
-    "custodian": null,
+    "author": [
+        [
+            "G. Paxinos",
+            "C. Watson",
+            "M. Petrides",
+            "M. Rosa",
+            "H. Tokuno"
+        ]
+    ],
+    "custodian": [
+        {
+            "@id": "https://openminds.om-i.org/instances/person/piotrMajka"
+        }
+    ],
     "description": "'The Marmoset Brain in Stereotaxic Coordinates' (2012), page IX, Figure B and \"Histology\" section explains: The horizontal zero plane passes through the lower margin of the orbit and the center of the external auditory meatus. The anteroposterior zero plane is perpendicular to the horizontal zero plane and passes through the centers of the external auditory meatus. The left-right zero plane is the midsagittal plane.",
     "digitalIdentifier": null,
     "fullName": "The Marmoset Brain in Stereotaxic Coordinates",
@@ -57,14 +69,5 @@
     "releaseDate": "2011-10-27",
     "copyright": "Copyright \u00a9 2012 Elsevier Inc. All rights reserved",
     "usedSpecimen": "Common Marmoset (Callithrix jacchus), female, 3 years 2 months, 500 g.",
-    "verionInnovation": "The first version of this stereotaxic coordinate system.",
-    "authors": [
-        [
-            "G. Paxinos",
-            "C. Watson",
-            "M. Petrides",
-            "M. Rosa",
-            "H. Tokuno"
-        ]
-    ]
+    "verionInnovation": "The first version of this stereotaxic coordinate system."
 }
