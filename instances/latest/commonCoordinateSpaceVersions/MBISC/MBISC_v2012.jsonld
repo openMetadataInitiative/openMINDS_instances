@@ -16,7 +16,7 @@
     "shortName": "MBISC",
     "accessibility": null,
     "anatomicalAxesOrientation": {
-        "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/LAS"
+        "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
     },
     "versionIdentifier": "v2012",
     "fullDocumentation": "http://r.marmosetbrain.org/Atlas+Small.pdf",
