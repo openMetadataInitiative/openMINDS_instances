@@ -20,7 +20,9 @@
         }
     ],
     "description": "'The Marmoset Brain in Stereotaxic Coordinates' (2012), page IX, Figure B and \"Histology\" section explains: The horizontal zero plane passes through the lower margin of the orbit and the center of the external auditory meatus. The anteroposterior zero plane is perpendicular to the horizontal zero plane and passes through the centers of the external auditory meatus. The left-right zero plane is the midsagittal plane.",
-    "digitalIdentifier": null,
+    "digitalIdentifier": {
+        "@id": "https://openminds.om-i.org/instances/ISBN/978-0-12-415818-4"
+    },
     "fullName": "The Marmoset Brain in Stereotaxic Coordinates",
     "homepage": "http://www.neura.edu.au/research/themes/paxinos-group",
     "howToCite": "G. Paxinos, C. Watson, M. Petrides, M. Rosa, H. Tokuno, The Marmoset Brain in Stereotaxic Coordinates, Academic Press (2012).",
