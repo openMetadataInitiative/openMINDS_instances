@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/grayMatterLayerOfSuperiorColliculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a layer of superior colliculus and central nervous system gray matter layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006785)]",
+  "description": "A central nervous system gray matter layer that is part of a superior colliculus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006785)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006785#gray-matter-layer-of-superior-colliculus",
+  "name": "gray matter layer of superior colliculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006785",
+  "synonym": [
+    "gray matter of superior colliculus"
+  ]
+}
+

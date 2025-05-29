@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfFrontalLobe",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter of cerebral lobe. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016528) ('is_a' and 'relationship')]",
+  "description": "A white matter of cerebral lobe that is part of a frontal lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016528)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016528#white-matter-of-frontal-lobe",
+  "name": "white matter of frontal lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016528",
+  "synonym": [
+    "frontal lobe white matter"
+  ]
+}
+
