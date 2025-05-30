@@ -12,6 +12,7 @@
         "@id": "https://search.kg.ebrains.eu/instances/6eb874e1-63b3-4889-948a-0d3987cb249b"
     },
     "fullName": "Marmoset Nencki-Monash Probabilistic Cytoarchitectonic Brain Atlas",
+    "ontologyIdentifier": null,
     "hasTerminology": {
         "@type": "https://openminds.om-i.org/types/ParcellationTerminology",
         "dataLocation": null,

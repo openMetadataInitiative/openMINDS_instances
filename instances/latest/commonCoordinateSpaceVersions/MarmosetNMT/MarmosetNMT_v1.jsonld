@@ -57,5 +57,21 @@
     "releaseDate": "2021-02-01",
     "copyright": "Copyright \u00a9 2021 Elsevier Inc. All rights reserved",
     "usedSpecimen": "Common Marmoset (Callithrix jacchus), 20 animals",
-    "verionInnovation": ""
+    "versionInnovation": "",
+    "isNewVersionOf": null,
+    "otherContribution": null,
+    "supportChannel": null,
+    "defaultImage": null,
+    "funding": null,
+    "isAlternativeVersionOf": null,
+    "repository": null,
+    "relatedPublication": [
+        {
+            "@id": "https://doi.org/10.1016/j.neuroimage.2020.117625"
+        }
+    ],
+    "keyword": null,
+    "licence": {
+        "@id": "https://openminds.om-i.org/instances/licenses/ccBy4.0"
+    }
 }
