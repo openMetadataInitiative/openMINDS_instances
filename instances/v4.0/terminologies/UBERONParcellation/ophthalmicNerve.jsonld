@@ -1,0 +1,35 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ophthalmicNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the trigeminal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000348) ('is_a' and 'relationship')]",
+  "description": "The sensory nerve subdivision of the trigeminal nerve that transmits sensory information from the orbit and its contents, the nasal cavity and the skin of the nose and forehead. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000348)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000348#ophthalmic-nerve",
+  "name": "ophthalmic nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000348",
+  "synonym": [
+    "cranial nerve V, branch V1",
+    "first branch of fifth cranial nerve",
+    "first division of fifth cranial nerve",
+    "first division of trigeminal nerve",
+    "nervus ophthalmicus (V1)",
+    "nervus ophthalmicus (Va)",
+    "nervus ophthalmicus [v1]",
+    "nervus ophthalmicus [va]",
+    "ophthalmic division [V1]",
+    "ophthalmic division [Va]",
+    "ophthalmic division of fifth cranial nerve",
+    "ophthalmic division of trigeminal nerve (V1)",
+    "ophthalmic division of trigeminal nerve (Va)",
+    "ophthalmic nerve [V1]",
+    "ophthalmic nerve [Va]",
+    "opthalmic nerve",
+    "ramus opthalmicus profundus (ramus V1)",
+    "rostral branch of trigeminal nerve",
+    "trigeminal V nerve ophthalmic division"
+  ]
+}
+
