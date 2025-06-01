@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/posteriorParahippocampalWhiteMatter",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter of temporal lobe and white matter of limbic lobe. Is part of the posterior parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022394) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022394#posterior-parahippocampal-white-matter",
+  "name": "posterior parahippocampal white matter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022394",
+  "synonym": null
+}
+
