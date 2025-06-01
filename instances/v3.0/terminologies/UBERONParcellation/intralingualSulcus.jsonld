@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/intralingualSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a subarachnoid sulcus and occipital sulcus. Is part of the lingual gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002905) ('is_a' and 'relationship')]",
+  "description": "A groove located within the boundaries of the lingual gyrus in the human. Identified by dissection, it is oriented parallel to the inferior margin of the occipital lobe ( Ono-1990; Duvernoy-1992 ). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002905)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002905#intralingual-sulcus-1",
+  "name": "intralingual sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002905",
+  "synonym": [
+    "sulcus intralingualis"
+  ]
+}
+

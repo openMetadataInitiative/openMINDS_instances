@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/centralSulcus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "The 'central sulcus' is a fold in the cerebral cortex of brains in vertebrates. [[WP,unvetted](http://en.wikipedia.org/wiki/Central_sulcus)]]",
-  "description": "The central sulcus is a prominent landmark of the brain, separating the parietal lobe from the frontal lobe and the primary motor cortex from the primary somatosensory cortex. [[WP,unvetted](http://en.wikipedia.org/wiki/Central_sulcus)]]",
+  "definition": "Is a sulcus of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002916) ('is_a' and 'relationship')]",
+  "description": "The central sulcus is a fold in the cerebral cortex of brains in vertebrates. Also called the central fissure, it was originally called the fissure of Rolando or the Rolandic fissure, after Luigi Rolando. The central sulcus is a prominent landmark of the brain, separating the parietal lobe from the frontal lobe and the primary motor cortex from the primary somatosensory cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002916)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101916",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002916#central-sulcus-1",
   "name": "central sulcus",
@@ -14,7 +14,6 @@
     "central cerebral sulcus",
     "central fissure",
     "central sulcus of Rolando",
-    "CS",
     "fissure of Rolando",
     "rolandic fissure",
     "sulcus centralis",
@@ -23,3 +22,4 @@
     "sulcus of Rolando"
   ]
 }
+
