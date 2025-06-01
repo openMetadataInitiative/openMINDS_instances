@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorSagittalSinus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sagittal sinus. Is part of the tentorial sinus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007152) ('is_a' and 'relationship')]",
+  "description": "An intracranial venous sinus that lies in a midline location along the lower free border of the falx cerebri of the brain. The sinus receives blood from the great cerebral vein and joins the superior sagittal sinus posteriorly. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007152)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007152#inferior-sagittal-sinus",
+  "name": "inferior sagittal sinus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007152",
+  "synonym": null
+}
+
