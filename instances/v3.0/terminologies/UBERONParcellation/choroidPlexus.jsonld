@@ -4,18 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Choroid plexus' is a brain ventricle/choroid plexus and vasculature of central nervous system. It is part of the brain ventricle and tela choroidea.",
-  "description": "A structure consisting of modified ependymal cells in the ventricles of the brain responsible for the production of cerebral spinal fluid (CSFF).",
+  "definition": "Is a brain ventricle/choroid plexus and vasculature of central nervous system. Is part of the brain ventricle and the tela choroidea. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001886) ('is_a' and 'relationship')]",
+  "description": "A network formed by blood vessels and the tela choroidea which secretes CSF into the ventricular spaces. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001886)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102142",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001886#choroid-plexus-1",
   "name": "choroid plexus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001886",
   "synonym": [
     "chorioid plexus",
-    "choroid plexus",
-    "choroid plexus of cerebral hemisphere",
-    "CP",
-    "plexus choroideus",
-    "ventricular choroid plexus"
+    "plexus choroideus"
   ]
 }
+
