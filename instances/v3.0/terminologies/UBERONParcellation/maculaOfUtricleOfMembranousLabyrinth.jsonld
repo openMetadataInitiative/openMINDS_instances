@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/maculaOfUtricleOfMembranousLabyrinth",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the utricle of membranous labyrinth. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002214)]",
+  "description": "The neuroepithelial sensory receptor in the inferolateral wall of the utricle; hair cells of the neuroepithelium support the statoconial membrane and have terminal arborizations of vestibular nerve fibers around their bodies; normally sensitive to linear acceleration in the longitudinal axis of the body and to gravitational influences. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002214)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002214#macula-of-utricle-of-membranous-labyrinth",
+  "name": "macula of utricle of membranous labyrinth",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002214",
+  "synonym": [
+    "macula of membranous labyrinth utricle",
+    "macula of utricle",
+    "macula of utriculus (labyrinthus vestibularis)",
+    "macula utricle",
+    "macula utriculi",
+    "membranous labyrinth utricle macula",
+    "utricle macula",
+    "utricle of membranous labyrinth macula",
+    "utriculus (labyrinthus vestibularis) macula"
+  ]
+}
+
