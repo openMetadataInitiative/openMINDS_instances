@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/axillaryNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an arm nerve. Is part of the brachial nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001493) ('is_a' and 'relationship')]",
+  "description": "The axillary nerve is a nerve of the human body, that comes off the posterior cord of the brachial plexus at the level of the axilla (armpit) and carries nerve fibers from C5 and C6. The axillary nerve travels through the quadrangular space with the posterior circumflex humeral artery and vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001493)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001493#axillary-nerve",
+  "name": "axillary nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001493",
+  "synonym": [
+    "circumflex humeral nerve"
+  ]
+}
+
