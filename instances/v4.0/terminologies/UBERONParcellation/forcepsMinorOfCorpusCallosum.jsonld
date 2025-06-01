@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/forcepsMinorOfCorpusCallosum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebral hemisphere white matter. Is part of the genu of corpus callosum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034678) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034678#forceps-minor-of-corpus-callosum",
+  "name": "forceps minor of corpus callosum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034678",
+  "synonym": [
+    "anterior forceps",
+    "anterior forceps of corpus callosum",
+    "forceps frontalis",
+    "forceps minor",
+    "frontal forceps",
+    "minor forceps"
+  ]
+}
+
