@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorGlossopharyngealIXGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a glossopharyngeal ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005361)]",
+  "description": "The upper ganglion of the glossopharyngeal nerve. is situated in the upper part of the groove in which the glossopharyngeal nerve is lodged during its passage through the jugular foramen. It is very small, and is usually regarded as a detached portion of the inferior ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005361)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005361#superior-glossopharyngeal-ix-ganglion",
+  "name": "superior glossopharyngeal IX ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005361",
+  "synonym": [
+    "Ehrenritter's ganglion",
+    "ganglion superius (nervus glossopharyngeus)",
+    "ganglion superius nervus glossopharyngei",
+    "glossopharyngeal nerve jugular ganglion",
+    "glossopharyngeal nerve superior ganglion",
+    "intracranial ganglion",
+    "ninth cranial nerve superior ganglion",
+    "superior ganglion of glossopharyngeal nerve",
+    "superior glossopharyngeal ganglia",
+    "superior glossopharyngeal ganglion",
+    "superior glossopharyngeal ganglion of the glossopharyngeal (IX) nerve"
+  ]
+}
+
