@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAccessoryNucleusOfOpticTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an accessory nucleus of optic tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013599)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013599#dorsal-accessory-nucleus-of-optic-tract",
+  "name": "dorsal accessory nucleus of optic tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013599",
+  "synonym": [
+    "dorsal terminal nucleus of accessory optic tract",
+    "dorsal terminal nucleus of the accessory optic tract",
+    "nucleus accessorius posterior tractus optici",
+    "posterior accessory nucleus of optic tract",
+    "posterior terminal nucleus of accessory optic tract"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/gigantocellularPartOfMagnocellularPreopticNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the preoptic area. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000210)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000210#gigantocellular-part-of-magnocellular-preoptic-nucleus",
+  "name": "gigantocellular part of magnocellular preoptic nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000210",
+  "synonym": null
+}
+

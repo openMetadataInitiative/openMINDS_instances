@@ -4,14 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsalNucleusOfTrapezoidBody",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Dorsal nucleus of trapezoid body' is a nucleus of trapezoid body.",
-  "description": "",
+  "definition": "Is a nucleus of trapezoid body. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009053)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103459",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009053#dorsal-nucleus-of-trapezoid-body-1",
   "name": "dorsal nucleus of trapezoid body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009053",
   "synonym": [
-    "dorsal nucleus of trapezoid body",
     "nucleus dorsalis corporis trapezoidei"
   ]
 }
+
