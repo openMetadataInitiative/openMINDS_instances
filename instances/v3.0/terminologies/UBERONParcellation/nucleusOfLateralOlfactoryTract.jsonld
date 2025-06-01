@@ -4,11 +4,16 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfLateralOlfactoryTract",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Nucleus of lateral olfactory tract' is a telencephalic nucleus. It is part of the olfactory cortex.",
+  "definition": "Is a telencephalic nucleus. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002893) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107757",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002893#nucleus-of-lateral-olfactory-tract-1",
   "name": "nucleus of lateral olfactory tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002893",
-  "synonym": null
+  "synonym": [
+    "lateral olfactory tract nucleus",
+    "NLOT",
+    "nucleus of the lateral olfactory tract (ganser)"
+  ]
 }
+
