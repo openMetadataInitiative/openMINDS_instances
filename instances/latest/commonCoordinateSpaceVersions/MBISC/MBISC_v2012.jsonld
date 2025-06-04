@@ -59,7 +59,11 @@
         }
     ],
     "releaseDate": "2011-10-27",
-    "copyright": "Copyright \u00a9 2012 Elsevier Inc. All rights reserved",
+    "copyright": {
+        "@type": "https://openminds.om-i.org/types/Copyright",
+        "holder": "Elsevier Inc.",
+        "year": "2012"
+    },
     "usedSpecimen": "Common Marmoset (Callithrix jacchus), female, 3 years 2 months, 500 g.",
     "versionInnovation": "The first version of this stereotaxic coordinate system.",
     "isNewVersionOf": null,

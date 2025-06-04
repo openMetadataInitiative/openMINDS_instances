@@ -59,7 +59,11 @@
         }
     ],
     "releaseDate": "2021-02-01",
-    "copyright": "Copyright \u00a9 2021 Elsevier Inc. All rights reserved",
+    "copyright": {
+        "@type": "https://openminds.om-i.org/types/Copyright",
+        "holder": "Elsevier Inc.",
+        "year": "2021"
+    },
     "usedSpecimen": "Common Marmoset (Callithrix jacchus), 20 animals",
     "versionInnovation": "The first version of average histology",
     "isNewVersionOf": null,
