@@ -23,7 +23,9 @@
         "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
     },
     "versionIdentifier": "v2012",
-    "fullDocumentation": "http://r.marmosetbrain.org/Atlas+Small.pdf",
+    "fullDocumentation": {
+        "@id": "http://r.marmosetbrain.org/Atlas+Small.pdf"
+     },
     "nativeUnit": {
         "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
     },
