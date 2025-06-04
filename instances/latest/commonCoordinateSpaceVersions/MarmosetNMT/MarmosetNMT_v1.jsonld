@@ -64,7 +64,33 @@
         "holder": "Elsevier Inc.",
         "year": "2021"
     },
-    "usedSpecimen": "Common Marmoset (Callithrix jacchus), 20 animals",
+    "usedSpecimen": [
+        {
+            "@type": "https://openminds.om-i.org/types/SubjectGroup",
+            "species": {
+                "@id": "https://openminds.om-i.org/instances/species/callithrixJacchus"
+            },
+            "studiedState": [
+                {
+                    "@type": "https://openminds.om-i.org/types/SubjectGroupState",
+                    "ageCategory": [
+                        {
+                            "@id": "https://openminds.om-i.org/instances/ageCategory/youngAdult"
+                        }
+                    ]
+                }
+            ],
+            "numberOfSubjects": 20,
+            "biologicalSex": [
+                {
+                    "@id": "https://openminds.om-i.org/instances/biologicalSex/male"
+                },
+                {
+                    "@id": "https://openminds.om-i.org/instances/biologicalSex/female"
+                }
+            ]
+        }
+    ],
     "versionInnovation": "The first version of average histology",
     "isNewVersionOf": null,
     "otherContribution": null,

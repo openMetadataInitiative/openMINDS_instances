@@ -64,7 +64,43 @@
         "holder": "Elsevier Inc.",
         "year": "2012"
     },
-    "usedSpecimen": "Common Marmoset (Callithrix jacchus), female, 3 years 2 months, 500 g.",
+    "usedSpecimen": [
+        {
+            "@type": "https://openminds.om-i.org/types/Subject",
+            "species": {
+                "@id": "https://openminds.om-i.org/instances/species/callithrixJacchus"
+            },
+            "studiedState": [
+                {
+                    "@type": "https://openminds.om-i.org/types/SubjectState",
+                    "ageCategory": {
+                        "@id": "https://openminds.om-i.org/instances/ageCategory/youngAdult"
+                    },
+                    "age": {
+                        "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+                        "typeOfUncertainty": null,
+                        "uncertainty": null,
+                        "value": "3.16",
+                        "unit": {
+                            "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/year"
+                        }
+                    },
+                    "weight": {
+                        "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+                        "typeOfUncertainty": null,
+                        "uncertainty": null,
+                        "value": "500",
+                        "unit": {
+                            "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/gram"
+                        }
+                    }
+                }
+            ],
+            "biologicalSex": {
+                "@id": "https://openminds.om-i.org/instances/biologicalSex/female"
+            }
+        }
+    ],
     "versionInnovation": "The first version of this stereotaxic coordinate system.",
     "isNewVersionOf": null,
     "otherContribution": null,
