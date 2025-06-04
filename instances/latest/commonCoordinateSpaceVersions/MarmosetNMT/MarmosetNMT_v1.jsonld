@@ -8,7 +8,9 @@
     "author": null,
     "custodian": null,
     "description": "The Nencki\u2013Monash (NM) template v1.0 (2020) represents a computational morphological average of 20 gender-balanced young adult brains of the Common Marmoset monkey (Callithrix jacchus), derived from 3D reconstructions based on Nissl-stained serial sections. The dataset includes a Nissl-like color anatomical reference rendered at 50 \u00b5m isotropic resolution, estimates of cortical thickness, and spatial transformations between the NM template and selected other templates of the marmoset brain to enhance interoperability. The template is embedded in stereotaxic coordinates defined following Paxinos et al. (2012) definition.",
-    "digitalIdentifier": "RRID:SCR_01836",
+    "digitalIdentifier": {
+        "@id": "https://scicrunch.org/resolver/RRID:SCR_01836"
+    },
     "fullName": "The Marmoset Nencki-Monash Template in Stereotaxic Coordinates",
     "homepage": "https://marmoset.mrosa.org/",
     "howToCite": "Majka, P., Bednarek, S., Chan, J. M., Jermakow, N., Liu, C., Saworska, G., Worthy, K. H., Silva, A. C., W\u00f3jcik, D. K., & Rosa, M. G. P. (2021). Histology-Based Average Template of the Marmoset Cortex With Probabilistic Localization of Cytoarchitectural Areas. NeuroImage, 226, 117625. https://doi.org/10.1016/j.neuroimage.2020.117625",
@@ -21,7 +23,9 @@
         "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
     },
     "versionIdentifier": "v1",
-    "fullDocumentation": "https://www.marmosetbrain.org/nencki_monash_template",
+    "fullDocumentation": {
+        "@id": "https://www.marmosetbrain.org/nencki_monash_template"
+    },
     "nativeUnit": {
         "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
     },

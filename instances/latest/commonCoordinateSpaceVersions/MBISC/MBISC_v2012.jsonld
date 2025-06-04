@@ -25,7 +25,7 @@
     "versionIdentifier": "v2012",
     "fullDocumentation": {
         "@id": "http://r.marmosetbrain.org/Atlas+Small.pdf"
-     },
+    },
     "nativeUnit": {
         "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
     },

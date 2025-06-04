@@ -7,7 +7,7 @@
     "abbreviation": "MarmosetNMA",
     "author": null,
     "custodian": null,
-    "description": "The Marmoset Nencki-Monash Atlas is a three dimensional (3D) probabilistic  brain atlas reconstructed from 20 young adult marmoset monkeys (Callithrix jacchus) and segmented based on the cytoarchitectonic analysis of the serial Nissl-stained sections of those brains.",
+    "description": "The Marmoset Nencki-Monash Atlas is a three dimensional (3D) probabilistic brain atlas reconstructed from 20 young adult marmoset monkeys (Callithrix jacchus) and segmented based on the cytoarchitectonic analysis of the serial Nissl-stained sections of those brains.",
     "digitalIdentifier": {
         "@id": "https://search.kg.ebrains.eu/instances/6eb874e1-63b3-4889-948a-0d3987cb249b"
     },
