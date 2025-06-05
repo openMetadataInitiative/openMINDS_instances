@@ -24,7 +24,10 @@
     },
     "versionIdentifier": "v1",
     "fullDocumentation": {
-        "@id": "https://www.marmosetbrain.org/nencki_monash_template"
+        "@type": "https://openminds.om-i.org/types/WebResource",
+        "contentDescription": null,
+        "format": "https://openminds.om-i.org/instances/contentTypes/text_html",
+        "IRI": "https://www.marmosetbrain.org/nencki_monash_template/"
     },
     "nativeUnit": {
         "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
@@ -61,7 +64,10 @@
     "releaseDate": "2021-02-01",
     "copyright": {
         "@type": "https://openminds.om-i.org/types/Copyright",
-        "holder": "Elsevier Inc.",
+        "holder": {
+            "@type": "https://openminds.om-i.org/types/Organization",
+            "fullName": "Elsevier Inc."
+        },
         "year": "2021"
     },
     "usedSpecimen": [
