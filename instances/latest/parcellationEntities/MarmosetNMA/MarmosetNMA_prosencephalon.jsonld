@@ -1,24 +1,20 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": "ProCeph",
-    "alternateName": null,
-    "definition": null,
-    "hasParent": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventralPallium"
-        }
-    ],
-    "hasVersion": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_prosencephalon"
-        }
-    ],
-    "name": "Prosencephalon",
-    "ontologyIdentifier": null,
-    "relatedUBERONTerm": null,
-    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_prosencephalon",
-    "lookupLabel": "MarmosetNMA_prosencephalon"
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_prosencephalon",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "ProCeph",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventralPallium"
+    }
+  ],
+  "hasVersion": null,
+  "lookupLabel": "MarmosetNMA_prosencephalon",
+  "name": "Prosencephalon",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
 }

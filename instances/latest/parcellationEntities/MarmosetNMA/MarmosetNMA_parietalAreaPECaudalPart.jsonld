@@ -1,24 +1,24 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": "PEC",
-    "alternateName": null,
-    "definition": null,
-    "hasParent": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
-        }
-    ],
-    "hasVersion": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPECaudalPart"
-        }
-    ],
-    "name": "parietal area PE caudal part",
-    "ontologyIdentifier": null,
-    "relatedUBERONTerm": null,
-    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_parietalAreaPECaudalPart",
-    "lookupLabel": "MarmosetNMA_parietalAreaPECaudalPart"
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_parietalAreaPECaudalPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PEC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPECaudalPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_parietalAreaPECaudalPart",
+  "name": "parietal area PE caudal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
 }

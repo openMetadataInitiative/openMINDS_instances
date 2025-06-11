@@ -1,117 +1,88 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MarmosetNMT_v1",
-    "@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
-    "abbreviation": "MarmosetNMT_v1",
-    "author": null,
-    "custodian": null,
-    "description": "The Nencki\u2013Monash (NM) template v1.0 (2020) represents a computational morphological average of 20 gender-balanced young adult brains of the Common Marmoset monkey (Callithrix jacchus), derived from 3D reconstructions based on Nissl-stained serial sections. The dataset includes a Nissl-like color anatomical reference rendered at 50 \u00b5m isotropic resolution, estimates of cortical thickness, and spatial transformations between the NM template and selected other templates of the marmoset brain to enhance interoperability. The template is embedded in stereotaxic coordinates defined following Paxinos et al. (2012) definition.",
-    "digitalIdentifier": {
-        "@id": "https://scicrunch.org/resolver/RRID:SCR_01836"
-    },
-    "fullName": "The Marmoset Nencki-Monash Template in Stereotaxic Coordinates",
-    "homepage": "https://marmoset.mrosa.org/",
-    "howToCite": "Majka, P., Bednarek, S., Chan, J. M., Jermakow, N., Liu, C., Saworska, G., Worthy, K. H., Silva, A. C., W\u00f3jcik, D. K., & Rosa, M. G. P. (2021). Histology-Based Average Template of the Marmoset Cortex With Probabilistic Localization of Cytoarchitectural Areas. NeuroImage, 226, 117625. https://doi.org/10.1016/j.neuroimage.2020.117625",
-    "ontologyIdentifier": null,
-    "shortName": "Marmoset Nencki-Monash Template",
-    "accessibility": {
-        "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
-    },
-    "anatomicalAxesOrientation": {
-        "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
-    },
-    "versionIdentifier": "v1",
-    "fullDocumentation": {
-        "@type": "https://openminds.om-i.org/types/WebResource",
-        "contentDescription": null,
-        "format": "https://openminds.om-i.org/instances/contentTypes/text_html",
-        "IRI": "https://www.marmosetbrain.org/nencki_monash_template/"
-    },
-    "nativeUnit": {
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MarmosetNMT_v1",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
+  "abbreviation": "MarmosetNMT_v1",
+  "accessibility": {
+    "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
+  },
+  "anatomicalAxesOrientation": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
+  },
+  "author": null,
+  "axesOrigin": [
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "typeOfUncertainty": null,
+      "uncertainty": null,
+      "unit": {
         "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
+      },
+      "value": 0
     },
-    "axesOrigin": [
-        {
-            "@type": "https://openminds.om-i.org/types/QuantitativeValue",
-            "typeOfUncertainty": null,
-            "uncertainty": null,
-            "unit": {
-                "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
-            },
-            "value": 0
-        },
-        {
-            "@type": "https://openminds.om-i.org/types/QuantitativeValue",
-            "typeOfUncertainty": null,
-            "uncertainty": null,
-            "unit": {
-                "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
-            },
-            "value": 0
-        },
-        {
-            "@type": "https://openminds.om-i.org/types/QuantitativeValue",
-            "typeOfUncertainty": null,
-            "uncertainty": null,
-            "unit": {
-                "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
-            },
-            "value": 0
-        }
-    ],
-    "releaseDate": "2021-02-01",
-    "copyright": {
-        "@type": "https://openminds.om-i.org/types/Copyright",
-        "holder": {
-            "@type": "https://openminds.om-i.org/types/Organization",
-            "fullName": "Elsevier Inc."
-        },
-        "year": "2021"
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "typeOfUncertainty": null,
+      "uncertainty": null,
+      "unit": {
+        "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
+      },
+      "value": 0
     },
-    "usedSpecimen": [
-        {
-            "@type": "https://openminds.om-i.org/types/SubjectGroup",
-            "species": {
-                "@id": "https://openminds.om-i.org/instances/species/callithrixJacchus"
-            },
-            "studiedState": [
-                {
-                    "@type": "https://openminds.om-i.org/types/SubjectGroupState",
-                    "ageCategory": [
-                        {
-                            "@id": "https://openminds.om-i.org/instances/ageCategory/youngAdult"
-                        }
-                    ]
-                }
-            ],
-            "numberOfSubjects": 20,
-            "biologicalSex": [
-                {
-                    "@id": "https://openminds.om-i.org/instances/biologicalSex/male"
-                },
-                {
-                    "@id": "https://openminds.om-i.org/instances/biologicalSex/female"
-                }
-            ]
-        }
-    ],
-    "versionInnovation": "The first version of average histology",
-    "isNewVersionOf": null,
-    "otherContribution": null,
-    "supportChannel": null,
-    "defaultImage": null,
-    "funding": null,
-    "isAlternativeVersionOf": null,
-    "repository": null,
-    "relatedPublication": [
-        {
-            "@id": "https://doi.org/10.1016/j.neuroimage.2020.117625"
-        }
-    ],
-    "keyword": null,
-    "license": {
-        "@id": "https://openminds.om-i.org/instances/licenses/ccBy4.0"
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "typeOfUncertainty": null,
+      "uncertainty": null,
+      "unit": {
+        "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
+      },
+      "value": 0
     }
+  ],
+  "copyright": {
+    "@type": "https://openminds.om-i.org/types/Copyright",
+    "holder": {
+      "@type": "https://openminds.om-i.org/types/Organization",
+      "fullName": "Elsevier Inc."
+    },
+    "year": "2021"
+  },
+  "custodian": null,
+  "defaultImage": null,
+  "description": "The Nencki-Monash (NM) template v1.0 (2020) represents a computational morphological average of selected gender-balanced young adult brains of the Common Marmoset monkey (Callithrix jacchus), derived from 3D reconstructions based on Nissl-stained serial sections.",
+  "digitalIdentifier": {
+    "@id": "https://scicrunch.org/resolver/RRID:SCR_01836"
+  },
+  "fullDocumentation": {
+    "@id": "https://www.marmosetbrain.org/nencki_monash_template/"
+  },
+  "fullName": "The Marmoset Nencki-Monash Template in Stereotaxic Coordinates",
+  "funding": null,
+  "homepage": "https://marmoset.mrosa.org/",
+  "howToCite": "Majka, P., Bednarek, S., Chan, J. M., Jermakow, N., Liu, C., Saworska, G., Worthy, K. H., Silva, A. C., W\u00f3jcik, D. K., & Rosa, M. G. P. (2021). Histology-Based Average Template of the Marmoset Cortex With Probabilistic Localization of Cytoarchitectural Areas. NeuroImage, 226, 117625. https://doi.org/10.1016/j.neuroimage.2020.117625",
+  "isAlternativeVersionOf": null,
+  "isNewVersionOf": null,
+  "keyword": null,
+  "license": {
+    "@id": "https://openminds.om-i.org/instances/licenses/ccBy4.0"
+  },
+  "nativeUnit": {
+    "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
+  },
+  "ontologyIdentifier": null,
+  "otherContribution": null,
+  "relatedPublication": [
+    {
+      "@id": "https://doi.org/10.1016/j.neuroimage.2020.117625"
+    }
+  ],
+  "releaseDate": "2021-02-01",
+  "repository": null,
+  "shortName": "Marmoset Nencki-Monash Template",
+  "supportChannel": null,
+  "usedSpecimen": null,
+  "versionIdentifier": "v1",
+  "versionInnovation": "The first version of average histology"
 }

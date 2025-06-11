@@ -1,24 +1,24 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": "ReI",
-    "alternateName": null,
-    "definition": null,
-    "hasParent": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_insularCortex"
-        }
-    ],
-    "hasVersion": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_retroinsularArea"
-        }
-    ],
-    "name": "retroinsular area (cortex)",
-    "ontologyIdentifier": null,
-    "relatedUBERONTerm": null,
-    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_retroinsularArea",
-    "lookupLabel": "MarmosetNMA_retroinsularArea"
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_retroinsularArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "ReI",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_insularCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_retroinsularArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_retroinsularArea",
+  "name": "retroinsular area (cortex)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
 }

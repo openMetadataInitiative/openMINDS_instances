@@ -1,24 +1,24 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": "PF",
-    "alternateName": null,
-    "definition": null,
-    "hasParent": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
-        }
-    ],
-    "hasVersion": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPF"
-        }
-    ],
-    "name": "parietal area PF (cortex)",
-    "ontologyIdentifier": null,
-    "relatedUBERONTerm": null,
-    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_parietalAreaPF",
-    "lookupLabel": "MarmosetNMA_parietalAreaPF"
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_parietalAreaPF",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PF",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPF"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_parietalAreaPF",
+  "name": "parietal area PF (cortex)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
 }

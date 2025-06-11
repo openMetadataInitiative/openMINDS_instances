@@ -1,24 +1,24 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": "PGa/IPa(FSTv)",
-    "alternateName": null,
-    "definition": null,
-    "hasParent": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_lateralAndInferiorTemporalCorticalRegion"
-        }
-    ],
-    "hasVersion": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreasPGaAndIPa"
-        }
-    ],
-    "name": "parietal areas PGa and IPa (fundus of superior temporal ventral area)",
-    "ontologyIdentifier": null,
-    "relatedUBERONTerm": null,
-    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_parietalAreasPGaAndIPa",
-    "lookupLabel": "MarmosetNMA_parietalAreasPGaAndIPa"
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_parietalAreasPGaAndIPa",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PGa/IPa(FSTv)",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_lateralAndInferiorTemporalCorticalRegion"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreasPGaAndIPa"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_parietalAreasPGaAndIPa",
+  "name": "parietal areas PGa and IPa (fundus of superior temporal ventral area)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
 }

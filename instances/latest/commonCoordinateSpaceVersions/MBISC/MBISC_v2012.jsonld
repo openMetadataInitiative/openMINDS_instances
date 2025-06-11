@@ -1,125 +1,86 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MBISC_v2012",
-    "@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
-    "abbreviation": "MBISC_v2012",
-    "author": null,
-    "custodian": null,
-    "description": "'The Marmoset Brain in Stereotaxic Coordinates' (2012), page IX, Figure B and \"Histology\" section explains: The horizontal zero plane passes through the lower margin of the orbit and the center of the external auditory meatus. The anteroposterior zero plane is perpendicular to the horizontal zero plane and passes through the centers of the external auditory meatus. The left-right zero plane is the midsagittal plane.",
-    "digitalIdentifier": {
-        "@id": "https://openminds.om-i.org/instances/ISBN/978-0-12-415818-4"
-    },
-    "fullName": "The Marmoset Brain in Stereotaxic Coordinates",
-    "homepage": "http://www.neura.edu.au/research/themes/paxinos-group",
-    "howToCite": "G. Paxinos, C. Watson, M. Petrides, M. Rosa, H. Tokuno, The Marmoset Brain in Stereotaxic Coordinates, Academic Press (2012).",
-    "ontologyIdentifier": null,
-    "shortName": "MBISC",
-    "accessibility": {
-        "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
-    },
-    "anatomicalAxesOrientation": {
-        "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
-    },
-    "versionIdentifier": "v2012",
-    "fullDocumentation": {
-        "@type": "https://openminds.om-i.org/types/WebResource",
-        "contentDescription": null,
-        "format": "https://openminds.om-i.org/instances/contentTypes/application_pdf",
-        "IRI": "https://r.marmosetbrain.org/Atlas+Small.pdf"
-    },
-    "nativeUnit": {
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MBISC_v2012",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
+  "abbreviation": "MBISC_v2012",
+  "accessibility": {
+    "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
+  },
+  "anatomicalAxesOrientation": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
+  },
+  "author": null,
+  "axesOrigin": [
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "typeOfUncertainty": null,
+      "uncertainty": null,
+      "unit": {
         "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
+      },
+      "value": 0
     },
-    "axesOrigin": [
-        {
-            "@type": "https://openminds.om-i.org/types/QuantitativeValue",
-            "typeOfUncertainty": null,
-            "uncertainty": null,
-            "unit": {
-                "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
-            },
-            "value": 0
-        },
-        {
-            "@type": "https://openminds.om-i.org/types/QuantitativeValue",
-            "typeOfUncertainty": null,
-            "uncertainty": null,
-            "unit": {
-                "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
-            },
-            "value": 0
-        },
-        {
-            "@type": "https://openminds.om-i.org/types/QuantitativeValue",
-            "typeOfUncertainty": null,
-            "uncertainty": null,
-            "unit": {
-                "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
-            },
-            "value": 0
-        }
-    ],
-    "releaseDate": "2011-10-27",
-    "copyright": {
-        "@type": "https://openminds.om-i.org/types/Copyright",
-        "holder": {
-            "@type": "https://openminds.om-i.org/types/Organization",
-            "fullName": "Elsevier Inc."
-        },
-        "year": "2012"
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "typeOfUncertainty": null,
+      "uncertainty": null,
+      "unit": {
+        "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
+      },
+      "value": 0
     },
-    "usedSpecimen": [
-        {
-            "@type": "https://openminds.om-i.org/types/Subject",
-            "species": {
-                "@id": "https://openminds.om-i.org/instances/species/callithrixJacchus"
-            },
-            "studiedState": [
-                {
-                    "@type": "https://openminds.om-i.org/types/SubjectState",
-                    "ageCategory": {
-                        "@id": "https://openminds.om-i.org/instances/ageCategory/youngAdult"
-                    },
-                    "age": {
-                        "@type": "https://openminds.om-i.org/types/QuantitativeValue",
-                        "typeOfUncertainty": null,
-                        "uncertainty": null,
-                        "value": "3.16",
-                        "unit": {
-                            "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/year"
-                        }
-                    },
-                    "weight": {
-                        "@type": "https://openminds.om-i.org/types/QuantitativeValue",
-                        "typeOfUncertainty": null,
-                        "uncertainty": null,
-                        "value": "500",
-                        "unit": {
-                            "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/gram"
-                        }
-                    }
-                }
-            ],
-            "biologicalSex": {
-                "@id": "https://openminds.om-i.org/instances/biologicalSex/female"
-            }
-        }
-    ],
-    "versionInnovation": "The first version of this stereotaxic coordinate system.",
-    "isNewVersionOf": null,
-    "otherContribution": null,
-    "supportChannel": null,
-    "defaultImage": null,
-    "funding": null,
-    "isAlternativeVersionOf": null,
-    "repository": null,
-    "relatedPublication": [
-        {
-            "@id": "https://openminds.om-i.org/instances/ISBN/978-0-12-415818-4"
-        }
-    ],
-    "keyword": null,
-    "license": null
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "typeOfUncertainty": null,
+      "uncertainty": null,
+      "unit": {
+        "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
+      },
+      "value": 0
+    }
+  ],
+  "copyright": {
+    "@type": "https://openminds.om-i.org/types/Copyright",
+    "holder": {
+      "@type": "https://openminds.om-i.org/types/Organization",
+      "fullName": "Elsevier Inc."
+    },
+    "year": "2012"
+  },
+  "custodian": null,
+  "defaultImage": null,
+  "description": "'The Marmoset Brain in Stereotaxic Coordinates' (2012), page IX, Figure B and \"Histology\" section explains: The horizontal zero plane passes through the lower margin of the orbit and the center of the external auditory meatus. The anteroposterior zero plane is perpendicular to the horizontal zero plane and passes through the centers of the external auditory meatus. The left-right zero plane is the midsagittal plane.",
+  "digitalIdentifier": {
+    "@id": "https://openminds.om-i.org/instances/ISBN/978-0-12-415818-4"
+  },
+  "fullDocumentation": {
+    "@id": "https://r.marmosetbrain.org/Atlas+Small.pdf"
+  },
+  "fullName": "The Marmoset Brain in Stereotaxic Coordinates",
+  "funding": null,
+  "homepage": "http://www.neura.edu.au/research/themes/paxinos-group",
+  "howToCite": "G. Paxinos, C. Watson, M. Petrides, M. Rosa, H. Tokuno, The Marmoset Brain in Stereotaxic Coordinates, Academic Press (2012).",
+  "isAlternativeVersionOf": null,
+  "isNewVersionOf": null,
+  "keyword": null,
+  "license": null,
+  "nativeUnit": {
+    "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
+  },
+  "ontologyIdentifier": null,
+  "otherContribution": null,
+  "relatedPublication": [
+    {
+      "@id": "https://openminds.om-i.org/instances/ISBN/978-0-12-415818-4"
+    }
+  ],
+  "releaseDate": "2011-10-27",
+  "repository": null,
+  "shortName": "MBISC",
+  "supportChannel": null,
+  "usedSpecimen": null,
+  "versionIdentifier": "v2012",
+  "versionInnovation": "The first version of this stereotaxic coordinate system."
 }

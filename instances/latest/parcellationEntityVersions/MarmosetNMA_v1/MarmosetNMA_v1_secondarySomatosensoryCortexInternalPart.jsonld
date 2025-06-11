@@ -1,86 +1,86 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.om-i.org/props/"
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_secondarySomatosensoryCortexInternalPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": "S2I",
+  "additionalRemarks": null,
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": "107",
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
+        }
+      ],
+      "preferredVisualization": {
+        "@type": "https://openminds.om-i.org/types/ViewerSpecification",
+        "additionalRemarks": null,
+        "anchorPoint": null,
+        "cameraPosition": null,
+        "preferredDisplayColor": {
+          "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.Greys"
+        }
+      },
+      "specification": null,
+      "type": {
+        "@id": "https://openminds.om-i.org/instances/annotationType/annotationMask"
+      }
     },
-    "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
-    "abbreviation": "S2I",
-    "alternateName": null,
-    "hasParent": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": "107",
+      "laterality": [
         {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_somatosensoryCortex"
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
         }
-    ],
-    "name": "secondary somatosensory cortex internal part",
-    "ontologyIdentifier": null,
-    "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_secondarySomatosensoryCortexInternalPart",
-    "lookupLabel": "MarmosetNMA_v1_secondarySomatosensoryCortexInternalPart",
-    "additionalRemarks": null,
-    "correctedName": null,
-    "hasAnnotation": [
-        {
-            "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
-            "anchorPoint": null,
-            "criteria": null,
-            "criteriaQualityType": {
-                "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
-            },
-            "criteriaType": {
-                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
-            },
-            "inspiredBy": null,
-            "internalIdentifier": "107",
-            "laterality": [
-                {
-                    "@id": "https://openminds.om-i.org/instances/laterality/left"
-                }
-            ],
-            "preferredVisualization": {
-                "@type": "https://openminds.om-i.org/types/ViewerSpecification",
-                "additionalRemarks": null,
-                "anchorPoint": null,
-                "cameraPosition": null,
-                "preferredDisplayColor": {
-                    "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.Greys"
-                }
-            },
-            "specification": null,
-            "type": {
-                "@id": "https://openminds.om-i.org/instances/annotationType/annotationMask"
-            }
-        },
-        {
-            "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
-            "anchorPoint": null,
-            "criteria": null,
-            "criteriaQualityType": {
-                "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
-            },
-            "criteriaType": {
-                "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
-            },
-            "inspiredBy": null,
-            "internalIdentifier": "107",
-            "laterality": [
-                {
-                    "@id": "https://openminds.om-i.org/instances/laterality/left"
-                }
-            ],
-            "preferredVisualization": {
-                "@type": "https://openminds.om-i.org/types/ViewerSpecification",
-                "additionalRemarks": null,
-                "anchorPoint": null,
-                "cameraPosition": null,
-                "preferredDisplayColor": {
-                    "@id": "https://openminds.om-i.org/instances/singleColor/#C5E976"
-                }
-            },
-            "specification": null,
-            "type": {
-                "@id": "https://openminds.om-i.org/instances/annotationType/annotationMask"
-            }
+      ],
+      "preferredVisualization": {
+        "@type": "https://openminds.om-i.org/types/ViewerSpecification",
+        "additionalRemarks": null,
+        "anchorPoint": null,
+        "cameraPosition": null,
+        "preferredDisplayColor": {
+          "@id": "https://openminds.om-i.org/instances/singleColor/#C5E976"
         }
-    ],
-    "relationAssessment": null,
-    "versionIdentifier": "v1",
-    "versionInnovation": "The first version of this parcellation."
+      },
+      "specification": null,
+      "type": {
+        "@id": "https://openminds.om-i.org/instances/annotationType/annotationMask"
+      }
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_somatosensoryCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_v1_secondarySomatosensoryCortexInternalPart",
+  "name": "secondary somatosensory cortex internal part",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "v1",
+  "versionInnovation": "The first version of this parcellation."
 }

@@ -1,24 +1,24 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": "AuRTM",
-    "alternateName": null,
-    "definition": null,
-    "hasParent": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_auditoryCortex"
-        }
-    ],
-    "hasVersion": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostrotemporalMedialArea"
-        }
-    ],
-    "name": "auditory cortex rostrotemporal medial area",
-    "ontologyIdentifier": null,
-    "relatedUBERONTerm": null,
-    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_auditoryCortexRostrotemporalMedialArea",
-    "lookupLabel": "MarmosetNMA_auditoryCortexRostrotemporalMedialArea"
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_auditoryCortexRostrotemporalMedialArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "AuRTM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_auditoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostrotemporalMedialArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_auditoryCortexRostrotemporalMedialArea",
+  "name": "auditory cortex rostrotemporal medial area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
 }

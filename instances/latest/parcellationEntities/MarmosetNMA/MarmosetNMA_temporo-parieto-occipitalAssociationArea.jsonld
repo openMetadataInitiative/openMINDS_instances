@@ -1,24 +1,24 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": "TPO(STP)",
-    "alternateName": null,
-    "definition": null,
-    "hasParent": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_lateralAndInferiorTemporalCorticalRegion"
-        }
-    ],
-    "hasVersion": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporo-parieto-occipitalAssociationArea"
-        }
-    ],
-    "name": "temporo-parieto-occipital association area (superior temporal polysensory cortex)",
-    "ontologyIdentifier": null,
-    "relatedUBERONTerm": null,
-    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_temporo-parieto-occipitalAssociationArea",
-    "lookupLabel": "MarmosetNMA_temporo-parieto-occipitalAssociationArea"
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_temporo-parieto-occipitalAssociationArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "TPO(STP)",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_lateralAndInferiorTemporalCorticalRegion"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporo-parieto-occipitalAssociationArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_temporo-parieto-occipitalAssociationArea",
+  "name": "temporo-parieto-occipital association area (superior temporal polysensory cortex)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
 }

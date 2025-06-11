@@ -1,24 +1,20 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@type": "https://openminds.om-i.org/types/ParcellationEntity",
-    "abbreviation": "PRM",
-    "alternateName": null,
-    "definition": null,
-    "hasParent": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_dorsalPallium"
-        }
-    ],
-    "hasVersion": [
-        {
-            "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_motorAndPremotorCorticalRegions"
-        }
-    ],
-    "name": "Motor and premotor cortical regions",
-    "ontologyIdentifier": null,
-    "relatedUBERONTerm": null,
-    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_motorAndPremotorCorticalRegions",
-    "lookupLabel": "MarmosetNMA_motorAndPremotorCorticalRegions"
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_motorAndPremotorCorticalRegions",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PRM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_dorsalPallium"
+    }
+  ],
+  "hasVersion": null,
+  "lookupLabel": "MarmosetNMA_motorAndPremotorCorticalRegions",
+  "name": "Motor and premotor cortical regions",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
 }
