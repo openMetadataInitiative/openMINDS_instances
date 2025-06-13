@@ -4,11 +4,13 @@
   },
   "@id": "https://openminds.om-i.org/instances/softwareFeature/commandlineInterface",
   "@type": "https://openminds.om-i.org/types/SoftwareFeature",
-  "definition": null,
+  "definition": "A text-based system that enables users to interact with a computer or software by entering commands, allowing them to perform specific tasks or operations.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "commandline interface",
+  "name": "command line interface",
   "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q189053",
-  "synonym": null
+  "synonym": [
+    "CLI"
+  ]
 }
