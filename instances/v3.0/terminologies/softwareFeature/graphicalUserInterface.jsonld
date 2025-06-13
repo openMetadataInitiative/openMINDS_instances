@@ -4,11 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/softwareFeature/graphicalUserInterface",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "definition": null,
+  "definition": "A visual system that enables users to interact with a computer or software through graphical elements like windows, icons, and menus, allowing them to perform specific tasks or operations.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "graphical user interface",
   "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q782543",
-  "synonym": null
+  "synonym": [
+    "GUI"
+  ]
 }
+
