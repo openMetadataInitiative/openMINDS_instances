@@ -19,7 +19,7 @@
   "fullDocumentation": {
     "@id": "https://www.marmosetbrain.org/nencki_monash_template"
   },
-  "fullName": null,
+  "fullName": "Marmoset Nencki-Monash Probabilistic Cytoarchitectonic Brain Atlas",
   "funding": null,
   "hasTerminology": {
     "@type": "https://openminds.om-i.org/types/ParcellationTerminologyVersion",
