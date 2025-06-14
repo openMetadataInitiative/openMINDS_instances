@@ -32,7 +32,7 @@
         "anchorPoint": null,
         "cameraPosition": null,
         "preferredDisplayColor": {
-          "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.Greys"
+          "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.Greys"
         }
       },
       "specification": null,
@@ -82,5 +82,5 @@
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "v1",
-  "versionInnovation": "The first version of this parcellation."
+  "versionInnovation": "This is the first version of this parcellation."
 }

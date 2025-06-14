@@ -41,14 +41,7 @@
       "value": 0
     }
   ],
-  "copyright": {
-    "@type": "https://openminds.om-i.org/types/Copyright",
-    "holder": {
-      "@type": "https://openminds.om-i.org/types/Organization",
-      "fullName": "Elsevier Inc."
-    },
-    "year": "2021"
-  },
+  "copyright": null,
   "custodian": null,
   "defaultImage": null,
   "description": "The Nencki-Monash (NM) template v1.0 (2020) represents a computational morphological average of selected gender-balanced young adult brains of the Common Marmoset monkey (Callithrix jacchus), derived from 3D reconstructions based on Nissl-stained serial sections.",
@@ -84,5 +77,5 @@
   "supportChannel": null,
   "usedSpecimen": null,
   "versionIdentifier": "v1",
-  "versionInnovation": "The first version of average histology"
+  "versionInnovation": "This is the first version of average histology"
 }

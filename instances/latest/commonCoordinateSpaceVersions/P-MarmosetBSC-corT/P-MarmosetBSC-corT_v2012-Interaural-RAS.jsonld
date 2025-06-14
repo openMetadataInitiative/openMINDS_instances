@@ -2,9 +2,9 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MBISC_v2012",
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/P-MarmosetBSC_v2012",
   "@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
-  "abbreviation": "MBISC_v2012",
+  "abbreviation": "P-MarmosetBSC_v2012",
   "accessibility": {
     "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
   },
@@ -41,14 +41,7 @@
       "value": 0
     }
   ],
-  "copyright": {
-    "@type": "https://openminds.om-i.org/types/Copyright",
-    "holder": {
-      "@type": "https://openminds.om-i.org/types/Organization",
-      "fullName": "Elsevier Inc."
-    },
-    "year": "2012"
-  },
+  "copyright": null,
   "custodian": null,
   "defaultImage": null,
   "description": "'The Marmoset Brain in Stereotaxic Coordinates' (2012), page IX, Figure B and \"Histology\" section explains: The horizontal zero plane passes through the lower margin of the orbit and the center of the external auditory meatus. The anteroposterior zero plane is perpendicular to the horizontal zero plane and passes through the centers of the external auditory meatus. The left-right zero plane is the midsagittal plane.",
@@ -58,7 +51,7 @@
   "fullDocumentation": {
     "@id": "https://r.marmosetbrain.org/Atlas+Small.pdf"
   },
-  "fullName": "The Marmoset Brain in Stereotaxic Coordinates",
+  "fullName": "Paxinos et al. Coronal Template of the Marmoset Brain in Stereotaxic Coordinates",
   "funding": null,
   "homepage": "http://www.neura.edu.au/research/themes/paxinos-group",
   "howToCite": "G. Paxinos, C. Watson, M. Petrides, M. Rosa, H. Tokuno, The Marmoset Brain in Stereotaxic Coordinates, Academic Press (2012).",
@@ -76,11 +69,11 @@
       "@id": "https://openminds.om-i.org/instances/ISBN/978-0-12-415818-4"
     }
   ],
-  "releaseDate": "2011-10-27",
+  "releaseDate": "2011-10-11",
   "repository": null,
-  "shortName": "MBISC",
+  "shortName": "Paxinos et al. Stereotaxic Coronal Template (Marmoset Brain)",
   "supportChannel": null,
   "usedSpecimen": null,
-  "versionIdentifier": "v2012",
-  "versionInnovation": "The first version of this stereotaxic coordinate system."
+  "versionIdentifier": "v2012 (Interaural, RAS)",
+  "versionInnovation": "This is the first version of this stereotaxic coordinate system."
 }
