@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_temporalAreaTE3",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "TE3",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_lateralAndInferiorTemporalCorticalRegion"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTE3"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_temporalAreaTE3",
+  "name": "temporal area TE3 (inferior temporal cortex)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
