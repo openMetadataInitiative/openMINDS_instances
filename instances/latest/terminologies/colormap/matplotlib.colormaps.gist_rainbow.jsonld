@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.gist_rainbow",
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.gist_rainbow",
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'gist_rainbow' is a miscellaneous colormap of the Python plotting library Matplotlib.",
   "description": null,
