@@ -8,9 +8,10 @@
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "commandline interface",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q189053",
+  "name": "command line interface",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q189053",
   "synonym": [
     "CLI"
   ]
 }
+
