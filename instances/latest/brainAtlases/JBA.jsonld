@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/brainAtlas/Julich-BrainAtlas",
+  "@id": "https://openminds.om-i.org/instances/brainAtlas/JBA",
   "@type": "https://openminds.om-i.org/types/BrainAtlas",
   "abbreviation": "JBA",
   "author": null,
