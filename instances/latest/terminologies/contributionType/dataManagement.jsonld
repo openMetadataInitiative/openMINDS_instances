@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/dataManagment",
+  "@id": "https://openminds.om-i.org/instances/contributionType/dataManagement",
   "@type": "https://openminds.om-i.org/types/ContributionType",
   "definition": null,
   "description": null,
