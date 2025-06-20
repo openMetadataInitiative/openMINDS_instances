@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/commonCoordinateSpace/MBISC",
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateSpace/P-MarmosetBSC-corT",
   "@type": "https://openminds.om-i.org/types/CommonCoordinateSpace",
   "abbreviation": "P-MarmosetBSC",
   "author": null,
@@ -12,7 +12,7 @@
   "fullName": "Paxinos et al. Coronal Template of the Marmoset Brain in Stereotaxic Coordinates",
   "hasVersion": [
     {
-      "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MBISC_2012"
+      "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/P-MarmosetBSC-corT_v2012"
     }
   ],
   "homepage": "http://www.neura.edu.au/research/themes/paxinos-group",

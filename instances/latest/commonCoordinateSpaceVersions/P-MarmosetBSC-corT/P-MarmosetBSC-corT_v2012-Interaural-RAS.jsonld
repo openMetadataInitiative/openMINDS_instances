@@ -2,9 +2,9 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/P-MarmosetBSC_v2012",
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/P-MarmosetBSC-corT_v2012",
   "@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
-  "abbreviation": "P-MarmosetBSC_v2012",
+  "abbreviation": "P-MarmosetBSC",
   "accessibility": {
     "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
   },
