@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/superiorFrontalSulcus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002562)]",
+  "description": "The superior frontal sulcus is a sulcus between the superior frontal gyrus and the middle frontal gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002562)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002562#superior-frontal-sulcus-1",
+  "name": "superior frontal sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002562",
+  "synonym": [
+    "sulcus f1",
+    "sulcus frontalis primus",
+    "sulcus frontalis superior",
+    "superior frontal fissure"
+  ]
+}
+

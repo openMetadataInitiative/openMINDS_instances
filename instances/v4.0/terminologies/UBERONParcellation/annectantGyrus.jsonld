@@ -4,13 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/annectantGyrus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Annectant gyrus' is an occipital gyrus.",
-  "description": "",
+  "definition": "Is an occipital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026137)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100647",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026137#annectant-gyrus-1",
   "name": "annectant gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026137",
-  "synonym": [
-    "annectant gyrus"
-  ]
+  "synonym": null
 }
+

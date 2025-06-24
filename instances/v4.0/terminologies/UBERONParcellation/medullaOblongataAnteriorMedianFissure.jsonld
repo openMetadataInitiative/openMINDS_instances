@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/medullaOblongataAnteriorMedianFissure",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sulcus of brain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003989) ('is_a' and 'relationship')]",
+  "description": "The longitudinal groove in the midline of the anterior aspect of the medulla oblongata. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003989)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003989#medulla-oblongata-anterior-median-fissure",
+  "name": "medulla oblongata anterior median fissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003989",
+  "synonym": [
+    "anterior median fissure",
+    "anterior median fissure of medulla",
+    "anterior median fissure of medulla oblongata",
+    "fissura mediana anterior medullae oblongatae",
+    "ventral median fissure of medulla",
+    "ventral median sulcus"
+  ]
+}
+
