@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/insectStomatogastricNervousSystem",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005096)]",
+  "description": "A group of small, interconnected ganglia situated posterior to and between the two brain hemispheres and associated with the pharynx, esophagus and aorta. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005096)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6005096#stomatogastric-nervous-system",
+  "name": "insect stomatogastric nervous system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6005096",
+  "synonym": null
+}
+

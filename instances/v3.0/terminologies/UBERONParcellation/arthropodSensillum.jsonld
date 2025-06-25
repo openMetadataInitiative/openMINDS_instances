@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/arthropodSensillum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002536) ('is_a' and 'relationship')]",
+  "description": "Sense organ embedded in the integument and consisting of one or a cluster of sensory neurons and associated sensory structures, support cells and glial cells forming a single organised unit with a largely bona-fide boundary. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002536)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002536#arthropod-sensillum",
+  "name": "arthropod sensillum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002536",
+  "synonym": [
+    "sensillum"
+  ]
+}
+
