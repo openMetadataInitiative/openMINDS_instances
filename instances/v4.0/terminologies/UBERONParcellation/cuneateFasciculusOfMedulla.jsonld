@@ -4,15 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cuneateFasciculusOfMedulla",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Cuneate fasciculus of medulla' is a cuneate fasciculus, fasciculus of brain and tract of brain. It is part of the medulla oblongata.",
-  "description": "Part of cuneate fasciculus found in the medulla",
+  "definition": "Is a cuneate fasciculus, fasciculus of brain and tract of brain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002642) ('is_a' and 'relationship')]",
+  "description": "Part of cuneate fasciculus found in the medulla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002642)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102667",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002642#cuneate-fasciculus-of-medulla-1",
   "name": "cuneate fasciculus of medulla",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002642",
   "synonym": [
-    "cu",
-    "fasciculus cuneatus (myelencephali)",
-    "nucleus pulvinaris oromedialis (Hassler)"
+    "fasciculus cuneatus (myelencephali)"
   ]
 }
+
