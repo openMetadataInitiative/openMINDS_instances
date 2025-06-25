@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/piaMater",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a leptomeninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002361)]",
+  "description": "The innermost layer of the leptomeninges, consisting of a delicate membrane closely covering the surface of the brain and spinal cord,and lying under the arachnoid membrane. The pia, unlike the arachnoid, extends into the sulci in gyrencephalic animals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002361)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002361#pia-mater",
+  "name": "pia mater",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002361",
+  "synonym": [
+    "pia mater of neuraxis",
+    "pial membrane"
+  ]
+}
+
