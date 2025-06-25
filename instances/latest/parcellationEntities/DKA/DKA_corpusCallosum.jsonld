@@ -5,14 +5,20 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_corpusCallosum",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "unmeasured corpus callosum"
+  ],
+  "definition": "The rostral and caudal extents of the corpus callosum were the medial division of the orbitofrontal cortex and the isthmus division of the cingulate cortex, respectively. The medial and lateral boundaries were the medial wall (area unknown) and the divisions of the cingulate cortex, respectively. Note this region of interest was included to restrict the boundaries of other regions and is not actually used as a measure of the corpus callosum itself since the procedures described in this manuscript measure the volume between the white matter and the gray matter surfaces. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_occipitalLobe"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_cingulateCortex"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_corpusCallosum"
+    }
+  ],
   "lookupLabel": "DKA_corpusCallosum",
   "name": "corpus callosum",
   "ontologyIdentifier": null,
