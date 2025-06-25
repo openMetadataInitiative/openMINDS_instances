@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medianParsIntermedia",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the adenohypophysis. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010541)]",
+  "description": "Region of the adenohypophysis which secretes melanophore-stimulating hormone, affecting the integumentary chromatophores. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010541)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010541#median-pars-intermedia",
+  "name": "median pars intermedia",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010541",
+  "synonym": null
+}
+

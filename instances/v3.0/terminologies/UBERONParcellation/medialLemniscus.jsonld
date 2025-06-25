@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nervous system lemniscus. Is part of the brainstem and the dorsal column-medial lemniscus pathway. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003002) ('is_a' and 'relationship')]",
+  "description": "Fiber tract arising predominantly from neurons in the nucleus gracilis and nucleus cuneatus in the medulla, projecting to thalamus. Fibers cross in the decussation of the medial lemniscus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003002)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003002#medial-lemniscus-1",
+  "name": "medial lemniscus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003002",
+  "synonym": null
+}
+
