@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/MeissnersCorpuscle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012450)]",
+  "description": "A type of nerve ending in the skin that is responsible for sensitivity to light touch. In particular, they have highest sensitivity (lowest threshold) when sensing vibrations lower than 50 Hertz. They are rapidly adaptive receptors. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012450)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0012450#meissner-s-corpuscle",
+  "name": "Meissner's corpuscle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012450",
+  "synonym": null
+}
+
