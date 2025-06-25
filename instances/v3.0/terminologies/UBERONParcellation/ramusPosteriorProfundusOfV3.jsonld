@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ramusPosteriorProfundusOfV3",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the mandibular nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010693) ('is_a' and 'relationship')]",
+  "description": "In the adult anuran, this innervates the muscles levator mandibulare internus and longus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010693)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010693#ramus-posterior-profundus-of-v3",
+  "name": "ramus posterior profundus of V3",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010693",
+  "synonym": null
+}
+

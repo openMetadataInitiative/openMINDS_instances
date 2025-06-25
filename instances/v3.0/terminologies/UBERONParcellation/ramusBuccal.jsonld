@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ramusBuccal",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anterodorsal lateral line nerve (ADLLN). [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010759)]",
+  "description": "Ventral ramus of the ADLLN that innervates the infraorbital line of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010759)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010759#ramus-buccal",
+  "name": "ramus buccal",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010759",
+  "synonym": null
+}
+
