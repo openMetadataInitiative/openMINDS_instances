@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/laminaIVOfGrayMatterOfSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a lamina of gray matter of spinal cord. Is part of the nucleus proprius of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016575) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016575#lamina-iv-of-gray-matter-of-spinal-cord",
+  "name": "lamina IV of gray matter of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016575",
+  "synonym": [
+    "lamina spinale IV",
+    "rexed lamina IV",
+    "spinal lamina IV"
+  ]
+}
+
