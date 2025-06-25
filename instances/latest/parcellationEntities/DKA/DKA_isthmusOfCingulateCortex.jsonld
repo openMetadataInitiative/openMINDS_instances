@@ -5,14 +5,23 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_isthmusOfCingulateCortex",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "isthmus",
+    "cingulate cortex - isthmus division",
+    "isthmus division",
+    "isthmus-cingulate cortex"
+  ],
+  "definition": "The rostral and caudal boundaries were the posterior division of the cingulate cortex and the parahippocampal gyrus, respectively. The medial and lateral boundaries were the medial wall (area unknown) and the precuneus, respectively. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_occipitalLobe"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_cingulateCortex"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_isthmusOfCingulateCortex"
+    }
+  ],
   "lookupLabel": "DKA_isthmusOfCingulateCortex",
   "name": "isthmus of cingulate cortex",
   "ontologyIdentifier": null,
