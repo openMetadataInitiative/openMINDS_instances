@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/unencapsulatedTactileReceptor",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a tactile mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035501)]",
+  "description": "Free nerve endings are widely distributed throughout the body, and are found as branches of unmyelinated, or lightly myelinated fibres grouped in bundles beneath the epithelium. As they penetrate the epithelium, they lose their myelin, and branch among the epithelial cells. Branches of one nerve may cover a wide area and overlap the territories of other nerves. The free nerve endings detect pain, touch, pressure and temperature, and are associated with C fibres. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035501)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035501#unencapsulated-tactile-receptor",
+  "name": "unencapsulated tactile receptor",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035501",
+  "synonym": [
+    "free nerve ending",
+    "unencapsulated nerve ending"
+  ]
+}
+
