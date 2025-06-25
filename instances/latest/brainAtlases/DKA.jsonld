@@ -7,7 +7,7 @@
   "abbreviation": "DKA",
   "author": null,
   "custodian": null,
-  "description": null,
+  "description": "An automated labeling system for subdividing the human cerebral cortex on MRI scans into gyral based regions of interest. [title of [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "digitalIdentifier": null,
   "fullName": "Desikan-Killiany Atlas",
   "hasTerminology": {
@@ -90,10 +90,10 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_orbitofrontalCortex"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_parahippocampalGyrus"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_paracentralLobule"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_paracentralLobule"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_parahippocampalGyrus"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_parietalLobe"
@@ -158,7 +158,10 @@
     ],
     "ontologyIdentifier": null
   },
-  "hasVersion": null,
+  "hasVersion": 
+  {
+    "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/DKA_v2006"
+  },
   "homepage": null,
   "howToCite": null,
   "shortName": "DK Atlas",
