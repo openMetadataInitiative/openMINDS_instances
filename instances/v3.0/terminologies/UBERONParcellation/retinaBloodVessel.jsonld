@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/retinaBloodVessel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the vasculature of retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003501)]",
+  "description": "A blood vessel that is part of a retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003501)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003501#retina-blood-vessel",
+  "name": "retina blood vessel",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003501",
+  "synonym": [
+    "blood vessel of inner layer of eyeball",
+    "blood vessel of retina",
+    "blood vessel of tunica interna of eyeball",
+    "inner layer of eyeball blood vessel",
+    "retinal blood vessel",
+    "tunica interna of eyeball blood vessel"
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/tributaryOfCentralRetinalVein",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the central retinal vein. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036300)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036300#tributary-of-central-retinal-vein",
+  "name": "tributary of central retinal vein",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036300",
+  "synonym": [
+    "central retinal venous tributary"
+  ]
+}
+
