@@ -5,14 +5,20 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lateralOccipitalCortex",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "lateral occipital"
+  ],
+  "definition": "The rostral and caudal boundaries of the lateral occipital cortex were the superior parietal gyrus and as the last visible portion of occipital cortex, respectively. The medial and lateral boundaries were the cuneus/pericalcarine cortex and the inferior temporal/inferior parietal gyri, respectively. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_occipitalLobe"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_lateralOccipitalCortex"
+    }
+  ],
   "lookupLabel": "DKA_lateralOccipitalCortex",
   "name": "lateral occipital cortex",
   "ontologyIdentifier": null,
