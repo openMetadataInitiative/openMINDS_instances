@@ -5,14 +5,20 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_cuneusCortex",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "cuneus"
+  ],
+  "definition": "The rostral and caudal extents of the calcarine sulcus were designated as the rostral and caudal boundaries of the cuneus cortex. The medial boundary was the most medial portion of the occipital and parietal cortices. The supero-lateral boundary was the parieto-occipital fissure, and the inferolateral boundary was the pericalcarine cortex. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_occipitalLobe"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_cuneusCortex",
+    }
+  ],
   "lookupLabel": "DKA_cuneusCortex",
   "name": "cuneus cortex",
   "ontologyIdentifier": null,
