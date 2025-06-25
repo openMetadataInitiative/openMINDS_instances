@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area47_OfCortexOrbitalPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A47O(12O)",
-  "alternateName": null,
+  "alternateName": [
+    "area 47 (old 12) of cortex, orbital part"
+  ],
   "definition": null,
   "hasParent": [
     {

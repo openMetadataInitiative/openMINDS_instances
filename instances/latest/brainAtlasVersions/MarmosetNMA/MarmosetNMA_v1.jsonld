@@ -377,7 +377,7 @@
     "ontologyIdentifier": null
   },
   "homepage": "https://www.marmosetbrain.org",
-  "howToCite": "Piotr Majka, Sylwia Bednarek, Jonathan M. Chan, Natalia Jermakow, Cirong Liu, Gabriela Saworska, Katrina H. Worthy, Afonso C. Silva, Daniel K. W\u00f3jcik, Marcello G.P. Rosa, Histology-Based Average Template of the Marmoset Cortex With Probabilistic Localization of Cytoarchitectural Areas, NeuroImage, Volume 226, 2021, 117625, ISSN 1053-8119, https://doi.org/10.1016/j.neuroimage.2020.117625. (https://www.sciencedirect.com/science/article/pii/S1053811920311101)",
+  "howToCite": "Majka, P., Bednarek, S., Chan, J. M., Jermakow, N., Liu, C., Saworska, G., Worthy, K. H., Silva, A. C., Wójcik, D. K., & Rosa, M. G. P. (2021). Histology-Based Average Template of the Marmoset Cortex With Probabilistic Localization of Cytoarchitectural Areas. NeuroImage, 226, 117625. https://doi.org/10.1016/j.neuroimage.2020.117625.",
   "isAlternativeVersionOf": null,
   "isNewVersionOf": null,
   "keyword": null,
@@ -403,5 +403,5 @@
   },
   "usedSpecimen": null,
   "versionIdentifier": "v1",
-  "versionInnovation": "This is the first version of this atlas"
+  "versionInnovation": "This is the first version of this atlas."
 }

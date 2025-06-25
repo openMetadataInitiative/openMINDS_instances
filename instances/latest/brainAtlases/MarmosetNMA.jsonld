@@ -427,6 +427,9 @@
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventralAreasOfTheTemporalLobe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_brain"
       }
     ],
     "ontologyIdentifier": null
@@ -437,7 +440,7 @@
     }
   ],
   "homepage": "https://www.marmosetbrain.org",
-  "howToCite": "Piotr Majka, Sylwia Bednarek, Jonathan M. Chan, Natalia Jermakow, Cirong Liu, Gabriela Saworska, Katrina H. Worthy, Afonso C. Silva, Daniel K. W\u00f3jcik, Marcello G.P. Rosa, Histology-Based Average Template of the Marmoset Cortex With Probabilistic Localization of Cytoarchitectural Areas, NeuroImage, Volume 226, 2021, 117625, ISSN 1053-8119, https://doi.org/10.1016/j.neuroimage.2020.117625. (https://www.sciencedirect.com/science/article/pii/S1053811920311101)",
+  "howToCite": "Please refer to the atlas by its [RRID:SCR_018367](https://scicrunch.org/resolver/SCR_018367), and cite the publication of the version of the template you have used.",
   "ontologyIdentifier": null,
   "shortName": "Marmoset Nencki-Monash Atlas",
   "usedSpecies": {

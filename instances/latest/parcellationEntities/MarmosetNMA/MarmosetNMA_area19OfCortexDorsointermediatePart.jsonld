@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area19OfCortexDorsointermediatePart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A19DI",
-  "alternateName": null,
+  "alternateName": [
+    "area 19 of cortex, dorsointermediate part"
+  ],
   "definition": null,
   "hasParent": [
     {

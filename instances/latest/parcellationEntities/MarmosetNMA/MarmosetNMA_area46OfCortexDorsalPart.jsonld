@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area46OfCortexDorsalPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A46D",
-  "alternateName": null,
+  "alternateName": [
+    "area 46 of cortex, dorsal part"
+  ],
   "definition": null,
   "hasParent": [
     {

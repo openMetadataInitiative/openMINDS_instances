@@ -6,7 +6,9 @@
   "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
   "abbreviation": "S2E",
   "additionalRemarks": null,
-  "alternateName": null,
+  "alternateName": [
+    "secondary somatosensory cortex, external part"
+  ],
   "correctedName": null,
   "hasAnnotation": [
     {
@@ -82,5 +84,5 @@
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "v1",
-  "versionInnovation": "This is the first version of this parcellation."
+  "versionInnovation": "This is the first version of this parcellation entity."
 }

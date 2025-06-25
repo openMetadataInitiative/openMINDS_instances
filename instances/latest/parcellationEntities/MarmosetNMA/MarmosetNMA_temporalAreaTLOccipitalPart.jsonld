@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_temporalAreaTLOccipitalPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "TLO",
-  "alternateName": null,
+  "alternateName": [
+    "temporal area TL, occipital part"
+  ],
   "definition": null,
   "hasParent": [
     {

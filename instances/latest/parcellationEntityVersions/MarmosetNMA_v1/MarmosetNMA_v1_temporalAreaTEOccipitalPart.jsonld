@@ -6,7 +6,9 @@
   "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
   "abbreviation": "TEO",
   "additionalRemarks": null,
-  "alternateName": null,
+  "alternateName": [
+    "temporal area TE, occipital part"
+  ],
   "correctedName": null,
   "hasAnnotation": [
     {
@@ -82,5 +84,5 @@
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "v1",
-  "versionInnovation": "This is the first version of this parcellation."
+  "versionInnovation": "This is the first version of this parcellation entity."
 }

@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area47_OfCortexLateralPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A47L(12L)",
-  "alternateName": null,
+  "alternateName": [
+    "area 47 (old 12) of cortex, lateral part"
+  ],
   "definition": null,
   "hasParent": [
     {

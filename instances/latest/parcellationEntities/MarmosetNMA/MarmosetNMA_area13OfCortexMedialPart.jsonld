@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area13OfCortexMedialPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A13M",
-  "alternateName": null,
+  "alternateName": [
+    "area 13 of cortex, medial part"
+  ],
   "definition": null,
   "hasParent": [
     {

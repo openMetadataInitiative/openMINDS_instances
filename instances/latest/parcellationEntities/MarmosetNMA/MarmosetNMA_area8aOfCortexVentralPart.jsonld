@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area8aOfCortexVentralPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A8aV",
-  "alternateName": null,
+  "alternateName": [
+    "area 8a of cortex, ventral part"
+  ],
   "definition": null,
   "hasParent": [
     {

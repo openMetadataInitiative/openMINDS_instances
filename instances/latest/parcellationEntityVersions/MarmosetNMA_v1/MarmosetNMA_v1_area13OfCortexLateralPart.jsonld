@@ -6,7 +6,9 @@
   "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
   "abbreviation": "A13L",
   "additionalRemarks": null,
-  "alternateName": null,
+  "alternateName": [
+    "area 13 of cortex, lateral part"
+  ],
   "correctedName": null,
   "hasAnnotation": [
     {
@@ -82,5 +84,5 @@
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "v1",
-  "versionInnovation": "This is the first version of this parcellation."
+  "versionInnovation": "This is the first version of this parcellation entity."
 }

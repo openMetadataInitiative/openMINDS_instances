@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_auditoryCortexRostralParabelt",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "AuRPB",
-  "alternateName": null,
+  "alternateName": [
+    "auditory cortex, rostral parabelt"
+  ],
   "definition": null,
   "hasParent": [
     {

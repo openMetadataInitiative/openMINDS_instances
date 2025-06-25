@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_visualArea4TransitionalPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "V4T(MTC)",
-  "alternateName": null,
+  "alternateName": [
+    "visual area 4, transitional part (middle temporal crescent)"
+  ],
   "definition": null,
   "hasParent": [
     {

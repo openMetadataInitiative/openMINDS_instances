@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_auditoryCortexAnterolateralArea",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "AuAL",
-  "alternateName": null,
+  "alternateName": [
+    "auditory cortex, anterolateral area"
+  ],
   "definition": null,
   "hasParent": [
     {

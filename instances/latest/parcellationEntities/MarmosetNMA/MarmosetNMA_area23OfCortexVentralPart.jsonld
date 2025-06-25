@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area23OfCortexVentralPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A23V",
-  "alternateName": null,
+  "alternateName": [
+    "area 23 of cortex, ventral part"
+  ],
   "definition": null,
   "hasParent": [
     {

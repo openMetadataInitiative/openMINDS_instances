@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area19OfCortexMedialPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A19M",
-  "alternateName": null,
+  "alternateName": [
+    "area 19 of cortex, medial part"
+  ],
   "definition": null,
   "hasParent": [
     {

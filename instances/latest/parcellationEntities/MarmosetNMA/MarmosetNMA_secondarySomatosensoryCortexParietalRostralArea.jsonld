@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_secondarySomatosensoryCortexParietalRostralArea",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "S2PR",
-  "alternateName": null,
+  "alternateName": [
+    "secondary somatosensory cortex, parietal rostral area"
+  ],
   "definition": null,
   "hasParent": [
     {

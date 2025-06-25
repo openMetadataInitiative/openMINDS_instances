@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_secondarySomatosensoryCortexExternalPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "S2E",
-  "alternateName": null,
+  "alternateName": [
+    "secondary somatosensory cortex, external part"
+  ],
   "definition": null,
   "hasParent": [
     {

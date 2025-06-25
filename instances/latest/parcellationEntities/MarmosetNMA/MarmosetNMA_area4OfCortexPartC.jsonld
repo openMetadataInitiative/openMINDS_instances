@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area4OfCortexPartC",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A4c",
-  "alternateName": null,
+  "alternateName": [
+    "area 4 of cortex, part c (primary motor)"
+  ],
   "definition": null,
   "hasParent": [
     {

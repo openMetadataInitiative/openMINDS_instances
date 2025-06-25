@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_auditoryCortexCaudalParabeltArea",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "AuCPB",
-  "alternateName": null,
+  "alternateName": [
+    "auditory cortex, caudal parabelt area"
+  ],
   "definition": null,
   "hasParent": [
     {

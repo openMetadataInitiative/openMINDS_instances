@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventralAreasOfTheTemporalLobe",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "VTC",
-  "alternateName": null,
+  "alternateName": [
+    null
+  ],
   "definition": null,
   "hasParent": [
     {

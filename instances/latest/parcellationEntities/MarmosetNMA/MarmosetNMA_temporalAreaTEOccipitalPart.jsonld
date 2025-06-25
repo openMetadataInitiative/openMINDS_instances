@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_temporalAreaTEOccipitalPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "TEO",
-  "alternateName": null,
+  "alternateName": [
+    "temporal area TE, occipital part"
+  ],
   "definition": null,
   "hasParent": [
     {

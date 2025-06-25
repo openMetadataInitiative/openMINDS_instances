@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area8OfCortexCaudalPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A8C",
-  "alternateName": null,
+  "alternateName": [
+    "area 8 of cortex, caudal part"
+  ],
   "definition": null,
   "hasParent": [
     {

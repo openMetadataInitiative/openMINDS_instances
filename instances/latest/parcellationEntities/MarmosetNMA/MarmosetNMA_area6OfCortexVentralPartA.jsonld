@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area6OfCortexVentralPartA",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A6Va",
-  "alternateName": null,
+  "alternateName": [
+    "area 6 of cortex, ventral, part a"
+  ],
   "definition": null,
   "hasParent": [
     {

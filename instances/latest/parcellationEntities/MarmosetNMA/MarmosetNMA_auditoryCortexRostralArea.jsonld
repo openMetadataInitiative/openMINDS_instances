@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_auditoryCortexRostralArea",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "AuR",
-  "alternateName": null,
+  "alternateName": [
+    "auditory cortex, rostral area"
+  ],
   "definition": null,
   "hasParent": [
     {

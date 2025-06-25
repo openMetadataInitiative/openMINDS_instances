@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_auditoryCortexRostrotemporalMedialArea",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "AuRTM",
-  "alternateName": null,
+  "alternateName": [
+    "auditory cortex, rostrotemporal medial area"
+  ],
   "definition": null,
   "hasParent": [
     {

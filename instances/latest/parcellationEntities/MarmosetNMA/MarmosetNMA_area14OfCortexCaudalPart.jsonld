@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area14OfCortexCaudalPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A14C",
-  "alternateName": null,
+  "alternateName": [
+    "area 14 of cortex, caudal part"
+  ],
   "definition": null,
   "hasParent": [
     {

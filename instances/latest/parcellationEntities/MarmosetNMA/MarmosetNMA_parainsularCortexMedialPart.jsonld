@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_parainsularCortexMedialPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "PaIM",
-  "alternateName": null,
+  "alternateName": [
+    "parainsular cortex, medial part"
+  ],
   "definition": null,
   "hasParent": [
     {

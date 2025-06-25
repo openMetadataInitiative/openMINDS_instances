@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area46OfCortexVentralPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A46V",
-  "alternateName": null,
+  "alternateName": [
+    "area 46 of cortex, ventral part"
+  ],
   "definition": null,
   "hasParent": [
     {
