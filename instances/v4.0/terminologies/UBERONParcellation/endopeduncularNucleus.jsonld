@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/endopeduncularNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nucleus of ventral thalamus. Is part of the ansa lenticularis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000432) ('is_a' and 'relationship')]",
+  "description": "A portion of the nucleus of ansa lenticularis located medial to the posterior limb of the internal capsule, along the course of the ansa lenticularis and the inferior thalamic peduncle or as a separate nucleus within the internal capsule adjacent to the medial GLOBUS PALLIDUS (NeuroNames, http://rprcsgi.rprc. washington.edu/neuronames/ (September 28, 1998)). In non-primates, the entopeduncular nucleus is analogous to both the medial globus pallidus and the entopeduncular nucleus of human. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000432)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000432#endopeduncular-nucleus",
+  "name": "endopeduncular nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000432",
+  "synonym": null
+}
+
