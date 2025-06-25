@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/amiculumOfInferiorOlive",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a white matter of myelencephalon and amiculum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035938)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035938#amiculum-of-inferior-olive",
+  "name": "amiculum of inferior olive",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035938",
+  "synonym": [
+    "amiculum of olive",
+    "amiculum of the olive",
+    "amiculum olivae",
+    "amiculum olivare",
+    "inferior olive amiculum"
+  ]
+}
+

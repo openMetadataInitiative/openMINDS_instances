@@ -4,30 +4,22 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/adenohypophysis",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Adenohypophysis' is part of the pituitary gland.",
-  "description": "The adenohypophysis, which consists of the anterior and intermediate lobes of the pituitary gland, contains several types of endocrine cells, which secrete systemic hormones such as adenocorticotropic hormone (ACTH), GH, LH/FSH, TSH and prolactin in response to hypothalamus-derived releasing hormones (PMID:     22080957).",
+  "definition": "Is part of the pituitary gland. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002196)]",
+  "description": "The glandular, anterior lobe of the pituitary gland. The anterior pituitary regulates several physiological processes including stress, growth, and reproduction. The anterior lobe of the hypophysis (pituitary gland). This lobe contains cells that produce prolactin, growth hormone, thyroid-stimulating hormone, follicle-stimulating hormone and proopiomelanocortin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002196)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100315",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002196#adenohypophysis-1",
   "name": "adenohypophysis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002196",
   "synonym": [
-    "AHP",
     "anterior hypophysis",
-    "anterior lobe",
     "anterior lobe (hypophysis)",
     "anterior lobe of hypophysis",
     "anterior lobe of pituitary",
     "anterior lobe of pituitary gland",
-    "anterior lobe of the pituitary",
     "anterior pituitary",
-    "anterior pituitary gland",
-    "cranial lobe",
-    "lobus anterior",
     "lobus anterior (glandula pituitaria)",
     "lobus anterior hypophysis",
-    "pituitary anterior lobe",
-    "pituitary gland",
-    "pituitary glandanterior lobe",
-    "rostral lobe"
+    "pituitary gland, anterior lobe"
   ]
 }
+

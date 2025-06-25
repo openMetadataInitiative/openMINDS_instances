@@ -4,15 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfMedialGeniculateBody",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Capsule of medial geniculate body' is a diencephalic white matter. It is part of the medial geniculate body.",
-  "description": "",
+  "definition": "Is a diencephalic white matter. Is part of the medial geniculate body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002627) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101644",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002627#capsule-of-medial-geniculate-body-1",
   "name": "capsule of medial geniculate body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002627",
   "synonym": [
     "capsula corporis geniculati medialis",
-    "capsule of the medial geniculate body",
     "medial geniculate body capsule"
   ]
 }
+
