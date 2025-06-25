@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusPraetectalisProfundus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035572)]",
+  "description": "A neural nucleus of the pretectal region that lies lateral to the posterior commissure and gives rise to widespread projections. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035572)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035572#nucleus-praetectalis-profundus",
+  "name": "nucleus praetectalis profundus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035572",
+  "synonym": [
+    "nucleus pratectalis profundus",
+    "profundal pretectal nucleus"
+  ]
+}
+
