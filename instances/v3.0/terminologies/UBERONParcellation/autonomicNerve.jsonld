@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/autonomicNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the autonomic nervous system and the zygomaticotemporal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034728) ('is_a' and 'relationship')]",
+  "description": "The autonomic nerve is a small nerve which carries postganglionic sympathetic and parasympathetic neurons from the zygomaticotemporal nerve; a branch of the maxillary nerve, to the lacrimal nerve; a branch of the ophthalmic nerve. These neurons derive from the superior cervical ganglion and the pterygopalatine ganglion respectively. They will travel to the lacrimal gland via the lacrimal nerve. Parasympathetic will induce lacrimation and vice versa. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034728)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034728#autonomic-nerve",
+  "name": "autonomic nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034728",
+  "synonym": [
+    "nervus visceralis",
+    "visceral nerve"
+  ]
+}
+

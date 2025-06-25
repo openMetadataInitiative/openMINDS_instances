@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/intercostalNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a spinal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003727)]",
+  "description": "The intercostal nerves are the anterior divisions (rami anteriores; ventral divisions) of the thoracic spinal nerves from T1 to T11. Each nerve is connected with the adjoining ganglion of the sympathetic trunk by a gray and a white ramus communicans. The intercostal nerves are distributed chiefly to the thoracic pleura and abdominal peritoneum and differ from the anterior divisions of the other spinal nerves in that each pursues an independent course without plexus formation. The first two nerves supply fibers to the upper limb in addition to their thoracic branches; the next four are limited in their distribution to the parietes of the thorax; the lower five supply the parietes of the thorax and abdomen. The 7th intercostal nerve terminates at the xyphoid process, at the lower end of the sternum. The 10th intercostal nerve terminates at the umbilicus. The twelfth thoracic is distributed to the abdominal wall and groin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003727)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003727#intercostal-nerve",
+  "name": "intercostal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003727",
+  "synonym": [
+    "anterior ramus of thoracic nerve",
+    "anterior ramus of thoracic spinal nerve",
+    "ramus anterior, nervus thoracicus",
+    "thoracic anterior ramus",
+    "ventral ramus of thoracic spinal nerve"
+  ]
+}
+

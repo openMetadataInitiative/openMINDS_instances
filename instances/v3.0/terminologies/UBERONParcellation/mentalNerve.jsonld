@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/mentalNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a sensory nerve and nerve of head region. Is part of the inferior alveolar nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018406) ('is_a' and 'relationship')]",
+  "description": "Mental nerve is a general somatic afferent (sensory) nerve which provides sensation to the anterior aspects of the chin and lower lip as well as the buccal gingivae of the mandibular anterior teeth and the premolars. It is a branch of the posterior trunk of the inferior alveolar nerve, which is itself a branch of the mandibular division of the trigeminal nerve (CN V). The nerve emerges at the mental foramen in the mandibula, and divides beneath the Depressor anguli oris muscle into three branches: one descends to the skin of the chin. two ascend to the skin and mucous membrane of the lower lip. These branches communicate freely with the facial nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018406)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018406#mental-nerve",
+  "name": "mental nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018406",
+  "synonym": null
+}
+
