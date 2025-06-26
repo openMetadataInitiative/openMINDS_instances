@@ -8,7 +8,9 @@
   "accessibility": {
     "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
   },
-  "anatomicalAxesOrientation": null,
+  "anatomicalAxesOrientation": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
+  },
   "author": null,
   "axesOrigin": null,
   "copyright": null,
