@@ -148,11 +148,7 @@
   "type": {
     "@id": "https://openminds.om-i.org/instances/atlasType/parcellationScheme"
   },
-  "usedSpecimen": [
-    {
-      "@id": "https://openminds.om-i.org/instances/subjectGroup/DKA_v2006_Group1"
-    }
-  ],
+  "usedSpecimen": null,
   "versionIdentifier": "v2006",
   "versionInnovation": "This is the first version of this parcellation scheme and subdivides the cerebral cortex into 34 regions based on manual delineations of both hemispheres of MRI scans from 40 subjects using a 'sulcal' approach (manual tracing from the depth of one sulcus to another, thus incorporating the gyrus within). The drawn ROIs were then used to generate the cortical parcellation scheme using a registration procedure that aligns the cortical folding patterns [Fischl et al. (1999)](https://doi.org/10.1002/(SICI)1097-0193(1999)8:4%3C272::AID-HBM10%3E3.0.CO;2-4) and probabilistically assigns a neuroanatomical region to every point on the cortical surface [Fischl et al. (2004)](https://doi.org/10.1093/cercor/bhg087)."
 }
