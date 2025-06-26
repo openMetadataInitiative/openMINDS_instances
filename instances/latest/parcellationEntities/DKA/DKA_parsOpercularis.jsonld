@@ -6,7 +6,7 @@
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
   "alternateName": null,
-  "definition": "The first gyrus from the precentral gyrus. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
+  "definition": "Is a subdivision of the inferior frontal gyrus and occupies the first gyrus from its caudal boundary, the precentral gyrus. [paraphrased from its parent’s and its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_inferiorFrontalGyrus"
