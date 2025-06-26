@@ -5,14 +5,22 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_banksOfSuperiorTemporalSulcus",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "banks superior temporal",
+    "banks superior temporal sulcus", 
+    "banks of the superior temporal sulcus"
+  ],
+  "definition": "Is defined as the posterior aspect of the superior temporal sulcus. The rostral boundary was the superior temporal gyrus and the caudal boundary was the middle temporal gyrus. [paraphrased from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_lateralAspect"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_banksOfSuperiorTemporalSulcus"
+    }
+  ],
   "lookupLabel": "DKA_banksOfSuperiorTemporalSulcus",
   "name": "banks of superior temporal sulcus",
   "ontologyIdentifier": null,
