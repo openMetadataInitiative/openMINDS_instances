@@ -14,7 +14,7 @@
   "copyright": null,
   "custodian": null,
   "defaultImage": null,
-  "description": "The 'MNI Colin 27 Average Brain Stereotaxic Registration Model' is a stereotaxic average of T1-, T2- and PD-weighted MRI scans of the same individual (27, 12 and 12 scans, respectively).It was created at the Montreal Neurological Institute (MNI). The MRI scans were automatically registered to a common stereotaxic space using MRITOTAL (an automated volumetric registration procedure), resampled and intensity averaged.",
+  "description": "The 'MNI Colin 27 Average Brain Stereotaxic Registration Model' is a stereotaxic average of T1-, T2- and PD-weighted MRI scans of the same individual (27, 12 and 12 scans, respectively). It was created at the Montreal Neurological Institute (MNI). The MRI scans were automatically registered to a common stereotaxic space using MRITOTAL (an automated volumetric registration procedure), resampled and intensity averaged.",
   "digitalIdentifier": null,
   "fullDocumentation": {
     "@id": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/colin-27-2008"
