@@ -14,7 +14,7 @@
   "copyright": null,
   "custodian": null,
   "defaultImage": null,
-  "description": "A stereotaxic average of T1-, T2- and PD-weighted MRI scans of the same individual (27, 12 and 12 scans, respectively). It was created at the Montreal Neurological Institute (MNI). The MRI scans were automatically registered to a common stereotaxic space using MRITOTAL (an automated volumetric registration procedure), resampled and intensity averaged. [sources: [Holmes et al. (1998)]( https://doi.org/10.1097/00004728-199803000-00032) and descriptions provided under [‘MNI-Colin27’ on their homepage]( https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases)]",
+  "description": "A stereotaxic average of T1-, T2- and PD-weighted MRI scans of the same individual (27, 12 and 12 scans, respectively). It was created at the Montreal Neurological Institute (MNI). The MRI scans were automatically registered to a common stereotaxic space using MRITOTAL (an automated volumetric registration procedure), resampled and intensity averaged. [sources: [Holmes et al. (1998)](https://doi.org/10.1097/00004728-199803000-00032) and descriptions provided under [‘MNI-Colin27’ on their homepage]( https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases)]",
   "digitalIdentifier": null,
   "fullDocumentation": {
     "@id": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/colin-27-2008"
@@ -50,5 +50,5 @@
   "supportChannel": null,
   "usedSpecimen": null,
   "versionIdentifier": "2008",
-  "versionInnovation": "This is the high-resolution version of the common coordinate space. These volumes are defined at a 0.5 mm isotropic voxel grid in Talairach space, with dimensions 362x434x362 (XxYxZ) and start coordinates −90,−126,−72 (x,y,z)."
+  "versionInnovation": "This is the high-resolution version of the common coordinate space. These volumes are defined at a 0.5 mm isotropic voxel grid in Talairach space, with dimensions 362x434x362 (XxYxZ) and start coordinates −90,−126,−72 (x,y,z). [sources: [’Overview’ summary on their homepage]( https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/colin-27-2008) and [Aubert-Broche et al. (2008)](https://doi.org/10.1016/j.neuroimage.2006.03.052)]"
 }
