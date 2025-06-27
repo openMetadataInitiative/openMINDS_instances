@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hippocampusStratumLacunosumMoleculare",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a layer of hippocampus. Is part of the Ammon's horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007640) ('is_a' and 'relationship')]",
+  "description": "Layer of the hippocampus lying just superficial to the stratum radiatum and bounded by the pial surface of the hippocampus. The fibers of the perforant pathway fibers from entorhinal cortex and several other brain areas terminate in this layer. Adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 460) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007640)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007640#stratum-lacunosum-moleculare",
+  "name": "hippocampus stratum lacunosum moleculare",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007640",
+  "synonym": [
+    "lacunar-molecular layer of hippocampus",
+    "stratum hippocampi moleculare et substratum lacunosum",
+    "stratum lacunosum moleculare",
+    "stratum lacunosum-moleculare"
+  ]
+}
+
