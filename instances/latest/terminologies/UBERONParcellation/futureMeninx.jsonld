@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/futureMeninx",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the meningeal cluster. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007645)]",
+  "description": "A developing mesenchymal capsule that covers the developing brain and spinal cord and is the precursor of the meningeal cluster. In mammals this gives rise to the arachnoid mater, pia mater and dura mater. In cyclostomes and fishes, the future meninx gives rise to a single meningeal layer, the primitive meninx. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007645)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007645#future-meninx",
+  "name": "future meninx",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007645",
+  "synonym": [
+    "primary meninx"
+  ]
+}
+
