@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/trunkMaxillaryMandibularis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the trigeminal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010669) ('is_a' and 'relationship')]",
+  "description": "Portion of the trigeminal nerve where the maxillary and mandibular rami run together prior to bifurcating. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010669)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010669#trunk-maxillary-mandibularis",
+  "name": "trunk maxillary-mandibularis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010669",
+  "synonym": null
+}
+
