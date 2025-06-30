@@ -6,13 +6,17 @@
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
   "alternateName": null,
-  "definition": null,
+  "definition": "Is a subdivision of the inferior frontal gyrus and occupies the second gyrus from its caudal boundary, the precentral gyrus. Consequently, the caudal boundary was the pars opercularis, and the rostral boundary was the pars orbitalis. The medial and lateral boundaries were the lateral bank of the inferior frontal sulcus and the medial bank of the lateral orbital sulcus and/or the circular insular sulcus, respectively.  [rephrased from its parent’s and its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_inferiorFrontalGyrus"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_parsTriangularis"
+    }
+  ],
   "lookupLabel": "DKA_parsTriangularis",
   "name": "pars triangularis",
   "ontologyIdentifier": null,
