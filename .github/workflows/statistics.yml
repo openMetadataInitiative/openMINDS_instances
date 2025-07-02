@@ -31,7 +31,8 @@ jobs:
           # Commit changes if any instances were modified
           git config --global user.name "openMINDS pipeline"
           git config --global user.email "support@openmetadatainitiative.org"
-          git add scripts/coverage/_coverage/**/*
+          cp -r scripts/coverage/_coverage/* docs/
+          git add docs/
           git commit -m "Dynamic statistics."
           
           # Fetch latest remote changes and rebase before pushing
