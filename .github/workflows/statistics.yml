@@ -1,0 +1,41 @@
+name: Statistics
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  statistics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.13'
+
+      - name: Generate statistics
+        run: |
+          uv pip install --system -r scripts/coverage/requirements.txt
+          
+          # Commit changes if any instances were modified
+          git config --global user.name "openMINDS pipeline"
+          git config --global user.email "support@openmetadatainitiative.org"
+          git add scripts/coverage/_coverage/**/*
+          git commit -m "Dynamic statistics."
+          
+          # Fetch latest remote changes and rebase before pushing
+          git fetch origin statistics
+          git pull --rebase origin statistics
+          git push origin HEAD:statistics
+        shell: bash
