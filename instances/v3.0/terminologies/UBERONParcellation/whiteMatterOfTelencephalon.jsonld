@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfTelencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a white matter of forebrain. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011299) ('is_a' and 'relationship')]",
+  "description": "A portion of white matter that is part of a telencephalon. This can be further subdivided in some species, for example, into hemisphere white matter and the corpus callosum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011299)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011299#predominantly-white-regional-part-of-telencephalon",
+  "name": "white matter of telencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011299",
+  "synonym": [
+    "predominantly white regional part of telencephalon",
+    "telencephalic tract/commissure",
+    "telencephalic white matter"
+  ]
+}
+

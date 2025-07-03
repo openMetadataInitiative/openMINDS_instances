@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/medialPrecentralSulcus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sulcus of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026721) ('is_a' and 'relationship')]",
+  "description": "A superficial feature of the frontal lobe that extends from the dorsal surface onto the medial surface of the superior frontal gyrus (Ono-90). (NN) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026721)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026721#medial-precentral-sulcus-1",
+  "name": "medial precentral sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026721",
+  "synonym": null
+}
+

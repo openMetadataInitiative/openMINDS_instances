@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinalCordSulcusLimitans",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the future spinal cord. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009570)]",
+  "description": "A sulcus limitans of neural tube that is part of a future spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009570)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009570#spinal-cord-sulcus-limitans",
+  "name": "spinal cord sulcus limitans",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009570",
+  "synonym": [
+    "spinal cord lateral wall sulcus limitans"
+  ]
+}
+
