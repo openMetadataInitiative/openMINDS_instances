@@ -16,18 +16,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fetch and checkout statistics branch
-        run: |
-          git fetch origin statistics
-          git checkout -B statistics origin/statistics
-        shell: bash
-
-      - name: Fetch scripts from main branch
-        run: |
-          git fetch origin main
-          git checkout origin/main -- scripts/coverage/
-        shell: bash
-
       - name: Install uv
         uses: astral-sh/setup-uv@v5
 
@@ -40,15 +28,19 @@ jobs:
         run: |
           uv pip install --system -r scripts/coverage/requirements.txt
           python scripts/coverage/coverage.py
+
+          # Switch to statistics branch
+          git checkout -B statistics origin/statistics
+          
+          rm -rf docs/*
+          mkdir -p docs
+          cp -r _coverage/* docs/
           
           # Commit changes if any instances were modified
           git config --global user.name "openMINDS pipeline"
           git config --global user.email "support@openmetadatainitiative.org"
-
-          mkdir -p docs
-          cp -r _coverage/* docs/
           
           git add docs/
-          git commit -m "Dynamic statistics."
+          git diff --cached --quiet || git commit -m "Dynamic statistics."
           git push origin statistics --force
         shell: bash
