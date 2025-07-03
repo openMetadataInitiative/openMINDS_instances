@@ -33,7 +33,7 @@ jobs:
           git config --global user.name "openMINDS pipeline"
           git config --global user.email "support@openmetadatainitiative.org"
           
-          cp -r scripts/coverage/_coverage/* docs/
+          cp -r _coverage/* docs/
           git add docs/
           git commit -m "Dynamic statistics."
           
