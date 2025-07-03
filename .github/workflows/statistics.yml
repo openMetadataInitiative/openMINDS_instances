@@ -43,6 +43,6 @@ jobs:
           git reset
           git add docs/
           git diff --cached --quiet || git commit -m "Dynamic statistics."
-          git pull --rebase origin statistics
+          git merge -X ours origin/statistics || true
           git push origin statistics
         shell: bash
