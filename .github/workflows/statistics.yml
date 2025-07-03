@@ -30,7 +30,7 @@ jobs:
           python scripts/coverage/coverage.py
 
           # Switch to statistics branch
-          git checkout -B statistics origin/statistics
+          git checkout -B statistics
           
           rm -rf docs/*
           mkdir -p docs
