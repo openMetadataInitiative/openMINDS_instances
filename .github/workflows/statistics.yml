@@ -30,7 +30,7 @@ jobs:
           python scripts/coverage/coverage.py
 
           git fetch origin statistics
-          git checkout -B origin/statistics
+          git checkout
           
           rm -rf docs/*
           mkdir -p docs
