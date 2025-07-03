@@ -40,6 +40,5 @@ jobs:
           
           # Fetch latest remote changes and rebase before pushing
           git fetch origin statistics
-          git pull --rebase origin statistics
-          git push origin HEAD:statistics
+          git push origin statistics --force
         shell: bash
