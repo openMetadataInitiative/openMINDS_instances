@@ -35,10 +35,10 @@ jobs:
 
           mkdir -p docs
           cp -r _coverage/* docs/
+
+          git fetch origin statistics
+          git checkout -B statistics origin/statistics
           git add docs/
           git commit -m "Dynamic statistics."
-          
-          # Fetch latest remote changes and rebase before pushing
-          git fetch origin statistics
           git push origin statistics --force
         shell: bash
