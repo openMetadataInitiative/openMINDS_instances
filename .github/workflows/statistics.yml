@@ -30,7 +30,7 @@ jobs:
           python scripts/coverage/coverage.py
 
           git fetch origin statistics
-          git checkout
+          git checkout -B statistics origin/statistics
           
           rm -rf docs/*
           mkdir -p docs
@@ -40,9 +40,8 @@ jobs:
           git config --global user.name "openMINDS pipeline"
           git config --global user.email "support@openmetadatainitiative.org"
           
-          git reset
           git add docs/
           git diff --cached --quiet || git commit -m "Dynamic statistics."
-          git merge -X ours origin/statistics || true
+          
           git push origin statistics
         shell: bash
