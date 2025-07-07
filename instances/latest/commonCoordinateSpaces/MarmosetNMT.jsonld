@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateSpace/MarmosetNMT",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateSpace",
+  "abbreviation": "MarmosetNMT",
+  "author": null,
+  "custodian": null,
+  "description": "Stereotactic coordinate space of the coronal plane generated using computational average of histology sections.",
+  "digitalIdentifier": null,
+  "fullName": "The Marmoset Nencki-Monash Template in Stereotaxic Coordinates",
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MarmosetNMT_v1"
+    }
+  ],
+  "homepage": "https://www.marmosetbrain.org/nencki_monash_template",
+  "howToCite": "Please refer to the template by its RRID:SCR_018367, and cite the publication of the version of the template you have used.",
+  "ontologyIdentifier": null,
+  "shortName": "Marmoset Nencki-Monash Template",
+  "usedSpecies": {
+    "@id": "https://openminds.om-i.org/instances/species/callithrixJacchus"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_pallialAmygdala",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PalAmyg",
+  "alternateName": [
+    null
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_pallium"
+    }
+  ],
+  "hasVersion": null,
+  "lookupLabel": "MarmosetNMA_pallialAmygdala",
+  "name": "Pallial amygdala",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
