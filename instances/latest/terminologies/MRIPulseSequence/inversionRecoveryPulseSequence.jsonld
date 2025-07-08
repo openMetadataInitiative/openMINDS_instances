@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/inversionRecoveryPulseSequence",
+  "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
+  "definition": "An magnetic resonance imaging pulse sequence composed of a 180-degree radiofrequency pulse, followed by a spin echo pulse sequence.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "inversion recovery pulse sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
