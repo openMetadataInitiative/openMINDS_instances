@@ -11,8 +11,8 @@
   "name": "fast spin echo pulse sequence",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "turbo spin echo"
-    "TSE"
+    "turbo spin echo",
+    "TSE",
     "FSE"
   ]
 }
