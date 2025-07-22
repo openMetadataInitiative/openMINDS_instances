@@ -5,6 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/molecularEntity/sodiumBicarbonate",
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "A white, crystalline powder that is commonly used as a pH buffering agent, an electrolyte replenisher, systemic alkalizer and in topical cleansing solutions.",
+  "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:32139#sodium-hydrogencarbonate",
   "name": "sodium bicarbonate",
