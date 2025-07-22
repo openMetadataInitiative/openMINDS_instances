@@ -99,7 +99,7 @@ def main(src_file, tgt_file, version):
 
     # Write the updated target data back to the target file
     with open(tgt_file, 'w') as f:
-        json.dump(target_data, f, indent=2)
+        json.dump(target_data, f, indent=2, sort_keys=True)
         f.write("\n\n")
     print(f'Successfully synced properties from {src_file} to {tgt_file}')
 
