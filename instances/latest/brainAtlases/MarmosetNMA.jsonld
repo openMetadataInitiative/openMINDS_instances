@@ -439,7 +439,7 @@
       "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/MarmosetNMA_v1"
     }
   ],
-  "homepage": "https://www.marmosetbrain.org",
+  "homepage": "https://www.marmosetbrain.org/",
   "howToCite": "Please refer to the atlas by its [RRID:SCR_018367](https://scicrunch.org/resolver/SCR_018367), and cite the publication of the version of the template you have used.",
   "ontologyIdentifier": null,
   "shortName": "Marmoset Nencki-Monash Atlas",
