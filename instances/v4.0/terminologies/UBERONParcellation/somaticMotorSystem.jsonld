@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/somaticMotorSystem",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the somatic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003945) ('is_a' and 'relationship')]",
+  "description": "The neural tissue involved in the transmission of motor signals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003945)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003945#somatic-motor-system",
+  "name": "somatic motor system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003945",
+  "synonym": null
+}
+
