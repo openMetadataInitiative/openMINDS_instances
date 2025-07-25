@@ -5,14 +5,22 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_rostralAnteriorCingulateCortex",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "RA cingulate",
+    "cingulate cortex - rostral anterior division",
+    "rostral anterior division"
+  ],
+  "definition": "The rostral boundary was the rostral extent of the cingulate sulcus (inferior to the superior frontal sulcus), and the caudal boundary was the genu of the corpus callosum. The medial boundary was the medial aspect of the cortex. The supero-lateral boundary was the superior frontal gyrus, and the inferolateral boundary was defined as the medial division of the orbitofrontal gyrus. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_anteriorCingulateCortex"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_rostralAnteriorCingulateCortex"
+    }
+  ],
   "lookupLabel": "DKA_rostralAnteriorCingulateCortex",
   "name": "rostral anterior cingulate cortex",
   "ontologyIdentifier": null,

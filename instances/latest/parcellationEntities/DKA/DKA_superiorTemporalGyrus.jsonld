@@ -5,14 +5,20 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_superiorTemporalGyrus",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "superior temporal"
+  ],
+  "definition": "The rostral boundary of the superior temporal gyrus was the rostral extent of the superior temporal sulcus. The caudal boundary was the caudal portion of the superior temporal gyrus (posterior to becoming continuous with the supramarginal gyrus). The medial boundary was the lateral fissure (and when present, the supramarginal gyrus), and the superior temporal sulcus was utilized as the lateral extent. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_lateralAspect"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_superiorTemporalGyrus"
+    }
+  ],
   "lookupLabel": "DKA_superiorTemporalGyrus",
   "name": "superior temporal gyrus",
   "ontologyIdentifier": null,
