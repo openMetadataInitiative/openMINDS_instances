@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/caudalSegmentOfSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005845)]",
+  "description": "A spinal cord segment that adjacent to a caudal region. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005845)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005845#caudal-segment-of-spinal-cord",
+  "name": "caudal segment of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005845",
+  "synonym": [
+    "coccygeal segment of spinal cord",
+    "coccygeal segments of spinal cord [1-3]",
+    "pars coccygea medullae spinalis",
+    "segmenta coccygea medullae spinalis [1-3]"
+  ]
+}
+

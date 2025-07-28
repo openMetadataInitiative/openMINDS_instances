@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/gracileFasciculusOfSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a gracile fasciculus and fasciculus of spinal cord. Is part of the spinal cord dorsal column. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005826) ('is_a' and 'relationship')]",
+  "description": "A gracile fasciculus that is part of a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005826)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005826#gracile-fasciculus-of-spinal-cord",
+  "name": "gracile fasciculus of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005826",
+  "synonym": [
+    "fasciculus gracilis (medulla spinalis)",
+    "gracile fascicle of spinal cord",
+    "spinal cord segment of fasciculus gracilis",
+    "spinal cord segment of gracile fasciculus"
+  ]
+}
+
