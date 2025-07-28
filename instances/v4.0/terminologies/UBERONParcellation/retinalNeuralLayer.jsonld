@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/retinalNeuralLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a layer of retina. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003902)]",
+  "description": "The part of the retina that contains neurons and photoreceptor cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003902)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003902#retinal-neural-layer",
+  "name": "retinal neural layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003902",
+  "synonym": [
+    "neural layer of retina",
+    "neural retina",
+    "neuroretina",
+    "stratum nervosum (retina)",
+    "stratum nervosum retinae"
+  ]
+}
+
