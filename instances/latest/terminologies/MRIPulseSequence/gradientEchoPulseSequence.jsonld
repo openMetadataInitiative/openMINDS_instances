@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/gradientEchoPulseSequence",
   "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
-  "definition": "In magnetic resonance imaging, a 'gradient-echo pulse sequence' is a contrast generation technique that rapidly induces bulk changes in the spin magnetization of a sample by applying a series of carefully constructed pulses so that the change in the gradient of the magnetic field is maximized, trading contrast for speed (cf. [Hargreaves (2012)](https://doi.org/10.1002/jmri.23742)).",
+  "definition": "An magnetic resonance imaging pulse sequence composed of one or more radio frequency pulses that are usually less than 90 degrees interleaved with the application of a spatial magnetic field gradient.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
