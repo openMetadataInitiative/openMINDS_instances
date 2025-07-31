@@ -2,12 +2,12 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexMedial_Part",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47OfCortexOrbitalPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
-  "abbreviation": "A6M",
+  "abbreviation": "A47O(12O)",
   "additionalRemarks": null,
   "alternateName": [
-    "area 6 of cortex, medial (supplementary motor) part"
+    "area 47 (old 12) of cortex, orbital part"
   ],
   "correctedName": null,
   "hasAnnotation": [
@@ -22,7 +22,7 @@
         "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
       },
       "inspiredBy": null,
-      "internalIdentifier": "41",
+      "internalIdentifier": "36",
       "laterality": [
         {
           "@id": "https://openminds.om-i.org/instances/laterality/left"
@@ -53,7 +53,7 @@
         "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
       },
       "inspiredBy": null,
-      "internalIdentifier": "41",
+      "internalIdentifier": "36",
       "laterality": [
         {
           "@id": "https://openminds.om-i.org/instances/laterality/left"
@@ -65,7 +65,7 @@
         "anchorPoint": null,
         "cameraPosition": null,
         "preferredDisplayColor": {
-          "@id": "https://openminds.om-i.org/instances/singleColor/#D0FF00"
+          "@id": "https://openminds.om-i.org/instances/singleColor/#A0FF59"
         }
       },
       "specification": null,
@@ -76,11 +76,11 @@
   ],
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_motorAndPremotorCorticalRegions"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventrolateralPrefrontalCortex"
     }
   ],
-  "lookupLabel": "MarmosetNMA_v1_area6OfCortexMedial_Part",
-  "name": "area 6 of cortex medial (supplementary motor) part",
+  "lookupLabel": "MarmosetNMA_v1_area47OfCortexOrbitalPart",
+  "name": "area 47 (old 12) of cortex orbital part",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "v1",

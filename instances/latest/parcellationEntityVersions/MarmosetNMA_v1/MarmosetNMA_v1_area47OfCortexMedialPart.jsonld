@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47_OfCortexMedialPart",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47OfCortexMedialPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
   "abbreviation": "A47M(12M)",
   "additionalRemarks": null,
@@ -79,7 +79,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventrolateralPrefrontalCortex"
     }
   ],
-  "lookupLabel": "MarmosetNMA_v1_area47_OfCortexMedialPart",
+  "lookupLabel": "MarmosetNMA_v1_area47OfCortexMedialPart",
   "name": "area 47 (old 12) of cortex medial part",
   "ontologyIdentifier": null,
   "relationAssessment": null,

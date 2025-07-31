@@ -26,7 +26,13 @@
     "dataLocation": null,
     "hasEntity": [
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_areas1And2OfCortex"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_agranularInsularCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_amygdalopiriformTransitionArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_anteriorIntraparietalAreaOfCortex"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area10OfCortex"
@@ -125,19 +131,19 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area46OfCortexVentralPart"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47_OfCortexLateralPart"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47OfCortexLateralPart"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47_OfCortexMedialPart"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47OfCortexMedialPart"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47_OfCortexOrbitalPart"
-      },
-      {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area4OfCortexPartsAAndB"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47OfCortexOrbitalPart"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area4OfCortexPartC"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area4OfCortexPartsAAndB"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexDorsocaudalPart"
@@ -146,7 +152,7 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexDorsorostralPart"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexMedial_Part"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexMedialPart"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexVentralPartA"
@@ -170,19 +176,13 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area9OfCortex"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_agranularInsularCortex"
-      },
-      {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_anteriorIntraparietalAreaOfCortex"
-      },
-      {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_amygdalopiriformTransitionArea"
-      },
-      {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexPrimaryArea"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_areas1And2OfCortex"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexAnterolateralArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexCaudalParabeltArea"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexCaudolateralArea"
@@ -191,19 +191,19 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexCaudomedialArea"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexCaudalParabeltArea"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexMiddleLateralArea"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexMiddleLateralArea"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexPrimaryArea"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostralArea"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostromedialArea"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostralParabelt"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostralParabelt"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostromedialArea"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostrotemporal"
@@ -242,13 +242,19 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_medialSuperiorTemporalAreaOfCortex"
       },
       {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_occipito-parietalTransitionalAreaOfCortex"
+      },
+      {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_orbitalPeriallocortex"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_orbitalProisocortex"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_occipito-parietalTransitionalAreaOfCortex"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parainsularCortexLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parainsularCortexMedialPart"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPE"
@@ -272,13 +278,10 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreasPGaAndIPa"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parainsularCortexLateralPart"
-      },
-      {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parainsularCortexMedialPart"
-      },
-      {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_piriformCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_primaryVisualCortex"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_proisocorticalMotorRegion"
@@ -332,19 +335,19 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTLOccipitalPart"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporo-parieto-occipitalAssociationArea"
-      },
-      {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporopolarProisocortex"
-      },
-      {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalProisocortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporo-parieto-occipitalAssociationArea"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporoparietalTransitionalArea"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_primaryVisualCortex"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporopolarProisocortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_ventralIntraparietalAreaOfCortex"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea2"
@@ -369,9 +372,6 @@
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea6A"
-      },
-      {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_ventralIntraparietalAreaOfCortex"
       }
     ],
     "ontologyIdentifier": null

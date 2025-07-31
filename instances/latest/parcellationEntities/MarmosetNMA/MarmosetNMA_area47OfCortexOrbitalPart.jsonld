@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area47_OfCortexOrbitalPart",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area47OfCortexOrbitalPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "A47O(12O)",
   "alternateName": [
@@ -16,10 +16,10 @@
   ],
   "hasVersion": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47_OfCortexOrbitalPart"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47OfCortexOrbitalPart"
     }
   ],
-  "lookupLabel": "MarmosetNMA_area47_OfCortexOrbitalPart",
+  "lookupLabel": "MarmosetNMA_area47OfCortexOrbitalPart",
   "name": "area 47 (old 12) of cortex orbital part",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null

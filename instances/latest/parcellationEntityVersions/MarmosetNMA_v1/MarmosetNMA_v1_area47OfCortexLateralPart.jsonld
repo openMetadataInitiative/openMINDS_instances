@@ -2,12 +2,12 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47_OfCortexOrbitalPart",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47OfCortexLateralPart",
   "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
-  "abbreviation": "A47O(12O)",
+  "abbreviation": "A47L(12L)",
   "additionalRemarks": null,
   "alternateName": [
-    "area 47 (old 12) of cortex, orbital part"
+    "area 47 (old 12) of cortex, lateral part"
   ],
   "correctedName": null,
   "hasAnnotation": [
@@ -22,7 +22,7 @@
         "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
       },
       "inspiredBy": null,
-      "internalIdentifier": "36",
+      "internalIdentifier": "34",
       "laterality": [
         {
           "@id": "https://openminds.om-i.org/instances/laterality/left"
@@ -53,7 +53,7 @@
         "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
       },
       "inspiredBy": null,
-      "internalIdentifier": "36",
+      "internalIdentifier": "34",
       "laterality": [
         {
           "@id": "https://openminds.om-i.org/instances/laterality/left"
@@ -65,7 +65,7 @@
         "anchorPoint": null,
         "cameraPosition": null,
         "preferredDisplayColor": {
-          "@id": "https://openminds.om-i.org/instances/singleColor/#A0FF59"
+          "@id": "https://openminds.om-i.org/instances/singleColor/#D6FFB2"
         }
       },
       "specification": null,
@@ -79,8 +79,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventrolateralPrefrontalCortex"
     }
   ],
-  "lookupLabel": "MarmosetNMA_v1_area47_OfCortexOrbitalPart",
-  "name": "area 47 (old 12) of cortex orbital part",
+  "lookupLabel": "MarmosetNMA_v1_area47OfCortexLateralPart",
+  "name": "area 47 (old 12) of cortex lateral part",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "v1",
