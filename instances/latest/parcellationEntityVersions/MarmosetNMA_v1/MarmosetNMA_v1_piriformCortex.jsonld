@@ -74,7 +74,7 @@
   ],
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_piriformCortex"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventralPallium"
     }
   ],
   "lookupLabel": "MarmosetNMA_v1_piriformCortex",
