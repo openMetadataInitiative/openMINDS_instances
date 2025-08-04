@@ -2,7 +2,7 @@
     "@context": {
         "@vocab": "https://openminds.om-i.org/props/"
     },
-    "@id": "https://openminds.om-i.org/instances/MRAcquisitionType/frequencyPhaseEncoding",
+    "@id": "https://openminds.om-i.org/instances/MRSpatialEncoding/frequencyPhaseEncoding",
     "@type": "https://openminds.om-i.org/types/MRSpatialEncoding",
     "definition": "Using frequency encoding and phase encoding in conjunction together to acquire 2D magnetic resonance images.",
     "description": "In 2D frequency x phase MRI imaging, spatial localization is achieved through a combination of slice selection, frequency encoding, and phase encoding. Slice selection involves applying a gradient along one axis (typically the z-axis) during RF excitation, ensuring that only a specific tissue slice resonates based on its unique Larmor frequency. Once the slice is excited, frequency encoding is applied along another axis (usually the x-axis) during signal acquisition, creating a direct relationship between spatial position and resonance frequency. To encode the second spatial dimension (typically the y-axis), phase encoding is applied before signal acquisition, briefly altering the phase of spins based on their position. This phase shift remains embedded in the signal and is later decoded during image reconstruction, allowing for the creation of detailed 2D MR images.",
