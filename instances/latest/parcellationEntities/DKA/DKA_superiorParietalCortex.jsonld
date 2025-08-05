@@ -5,14 +5,20 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_superiorParietalCortex",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "superior parietal"
+  ],
+  "definition": "The rostral and caudal boundaries of the superior parietal cortex were the precentral gyrus and lateral occipital cortex, respectively. The medial and lateral boundaries were the precuneus and/or cuneus cortex and the inferior parietal cortex, respectively. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_parietalLobe"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_superiorParietalCortex"
+    }
+  ],
   "lookupLabel": "DKA_superiorParietalCortex",
   "name": "superior parietal cortex",
   "ontologyIdentifier": null,
