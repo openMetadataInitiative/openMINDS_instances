@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/gradientEchoPulseSequence",
   "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
-  "definition": "An magnetic resonance imaging pulse sequence composed of one or more radio frequency pulses that are usually less than 90 degrees interleaved with the application of a spatial magnetic field gradient.",
+  "definition": "A magnetic resonance imaging pulse sequence composed of one or more radio frequency pulses that are usually less than 90 degrees interleaved with the application of a spatial magnetic field gradient.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
