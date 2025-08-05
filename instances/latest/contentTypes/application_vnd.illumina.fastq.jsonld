@@ -11,7 +11,7 @@
     ".fg",
     ".fg.gz"
   ],
-  "name": "application/vnd.illumina.fastq",
+  "name": "application/vnd.illumina.annotated-sequence+fastq",
   "relatedMediaType": null,
   "specification": "https://en.wikipedia.org/wiki/FASTQ_format",
   "synonym": [
