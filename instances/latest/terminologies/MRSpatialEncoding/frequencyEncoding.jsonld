@@ -1,0 +1,17 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@id": "https://openminds.om-i.org/instances/MRSpatialEncoding/frequencyEncoding",
+    "@type": "https://openminds.om-i.org/types/MRSpatialEncoding",
+    "definition": "Gradients establish a direct relationship between frequency and spatial position, a process referred to as frequency encoding.",
+    "description": "In MRI, gradients generate a controlled variation in the magnetic field strength across the imaging volume. Each location along the gradient direction corresponds to a unique frequency in the received MR signal. This process, known as frequency encoding, allows spatial information to be extracted from the signal during image reconstruction. Primarily used in specialized applications like spectroscopy.",
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "1D MR acquisition",
+    "preferredOntologyIdentifier": null,
+    "synonym": [
+        "frequency encoding",
+        "1D MRI acquisition"
+    ]
+}
