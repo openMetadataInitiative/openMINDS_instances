@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfDuraMater",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the dura mater. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010507)]",
+  "description": "The intracranial dura mater, consisting of two layers: the outer periosteal layer which normally always adheres to the periosteum of the bones of the cranial vault; and the inner meningeal layer which in most places is fused with the outer. The two layers separate to accommodate meningeal vessels and large venous (dural) sinuses. The meningeal layer is also involved in the formation of the various dural folds, such as the falx cerebri and tentorium cerebelli and is comparable to and continuous with the dural mater of the spinal cord. The cranial epidural space is then a potential space between the bone and the combined periosteum/periosteal layer of the dura mater realised only pathologically and is neither continuous with or comparable to the vertebral epidural space. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010507)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010507#layer-of-dura-mater",
+  "name": "layer of dura mater",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010507",
+  "synonym": null
+}
+
