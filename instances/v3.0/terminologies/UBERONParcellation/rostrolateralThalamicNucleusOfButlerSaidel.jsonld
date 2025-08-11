@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rostrolateralThalamicNucleusOfButlerSaidel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of ventral thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000276)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000276#rostrolateral-thalamic-nucleus-of-butler-saidel",
+  "name": "rostrolateral thalamic nucleus of Butler & Saidel",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000276",
+  "synonym": null
+}
+
