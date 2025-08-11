@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/interoceptor",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sensory receptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018389)]",
+  "description": "A sensory receptor that detects stimulus within the body. Examples of stimuli that would be detected by interoceptors include blood pressure and blood oxygen level. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018389)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018389#interoceptor",
+  "name": "interoceptor",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018389",
+  "synonym": [
+    "enteroceptor",
+    "visceroceptor"
+  ]
+}
+
