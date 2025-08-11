@@ -4,17 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/mammillaryPeduncle",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Mammillary peduncle' is a peduncle of diencephalon. It is part of the posterior hypothalamic region.",
-  "description": "White matter bundle in the posterior hypothalamus containing ascending afferent fibers to the mammillary bodies from the ventral and dorsal tegmental nuclei (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 671).",
+  "definition": "Is a peduncle of diencephalon. Is part of the posterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002720) ('is_a' and 'relationship')]",
+  "description": "White matter bundle in the posterior hypothalamus containing ascending afferent fibers to the mammillary bodies from the ventral and dorsal tegmental nuclei (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 671). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002720)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106502",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002720#mammillary-peduncle-1",
   "name": "mammillary peduncle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002720",
   "synonym": [
-    "mammillary peduncle (Meynert)",
-    "mpe",
-    "peduncle of mammillary body",
-    "pedunculus corporis mamillaris",
-    "pedunculus corporis mammillaris"
+    "peduncle of mammillary body"
   ]
 }
+
