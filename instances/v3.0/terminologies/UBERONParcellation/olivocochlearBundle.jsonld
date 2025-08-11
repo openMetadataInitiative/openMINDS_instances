@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olivocochlearBundle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002775) ('is_a' and 'relationship')]",
+  "description": "A pathway that terminates on the hair cells of the cochlea or equivalent organ in the inner ear. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002775)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002775#olivocochlear-bundle-1",
+  "name": "olivocochlear bundle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002775",
+  "synonym": [
+    "bundle of Rasmussen",
+    "efferent cochlear bundle",
+    "efferent cochlear pathway",
+    "olivocochlear bundle of rasmussen",
+    "olivocochlear tract",
+    "tractus olivocochlearis"
+  ]
+}
+

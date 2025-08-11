@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/midbrainBasalPlate",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a gray matter. Is part of the midbrain mantle layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010285) ('is_a' and 'relationship')]",
+  "description": "Portion of tissue that is dorsolateral to the floor plate and part of the midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010285)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010285#midbrain-basal-plate",
+  "name": "midbrain basal plate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010285",
+  "synonym": [
+    "basal plate midbrain",
+    "basal plate midbrain region"
+  ]
+}
+
