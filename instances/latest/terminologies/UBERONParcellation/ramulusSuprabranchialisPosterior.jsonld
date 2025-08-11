@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ramulusSuprabranchialisPosterior",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a middle lateral line nerve (MLLN). [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010799)]",
+  "description": "Ramulus innervating the suprabranchial line of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010799)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010799#ramulus-suprabranchialis-posterior",
+  "name": "ramulus suprabranchialis posterior",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010799",
+  "synonym": null
+}
+
