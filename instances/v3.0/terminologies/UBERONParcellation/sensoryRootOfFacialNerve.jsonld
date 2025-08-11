@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sensoryRootOfFacialNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a facial nerve root. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001699) ('is_a' and 'relationship')]",
+  "description": "The nervus intermedius, or intermediate nerve, is the part of the facial nerve (cranial nerve VII) located between the motor component of the facial nerve and the vestibulocochlear nerve (cranial nerve VIII). It contains the sensory and parasympathetic fibers of the facial nerve. Upon reaching the facial canal, it joins with the motor root of the facial nerve at the geniculate ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001699)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001699#sensory-root-of-facial-nerve",
+  "name": "sensory root of facial nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001699",
+  "synonym": [
+    "sensory component of the VIIth (facial) nerve"
+  ]
+}
+
