@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere4LateralWall",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a rhombomere lateral wall. Is part of the rhombomere 4. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005577) ('is_a' and 'relationship')]",
+  "description": "A rhombomere lateral wall that is part of a rhombomere 4. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005577)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005577#rhombomere-4-lateral-wall",
+  "name": "rhombomere 4 lateral wall",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005577",
+  "synonym": [
+    "lateral wall rhombomere 4"
+  ]
+}
+
