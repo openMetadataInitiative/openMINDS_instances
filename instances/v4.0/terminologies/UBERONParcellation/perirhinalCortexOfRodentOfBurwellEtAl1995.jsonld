@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/perirhinalCortexOfRodentOfBurwellEtAl1995",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a perirhinal cortex of Burwell et al 1995. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025584)]",
+  "description": "Cortical region surrounding the posterior rhinal sulcus in the rat, encompassing areas 35 and 36 in the rat. Rostraly, it abuts the posterior insular cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025584)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0025584#perirhinal-cortex-of-rodent-of-burwell-et-al-1995",
+  "name": "perirhinal cortex of rodent of Burwell et al 1995",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0025584",
+  "synonym": [
+    "perirhinal cortex of rodent of burwell et al 1995"
+  ]
+}
+
