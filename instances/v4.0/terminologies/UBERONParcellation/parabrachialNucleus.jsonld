@@ -4,15 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/parabrachialNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Parabrachial nucleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pons.",
-  "description": "A nucleus of the parabrachial area, which in the human brain is a horseshoe-shaped strip of gray matter comprising the K\u00c3\u00b6lliker-Fuse nucleus, the lateral parabrachial nucleus and the medial parabrachial nucleus.",
+  "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007634) ('is_a' and 'relationship')]",
+  "description": "A nucleus of the parabrachial area, which in the human brain is a horseshoe-shaped strip of gray matter comprising the Kölliker-Fuse nucleus, the lateral parabrachial nucleus and the medial parabrachial nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007634)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108416",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007634#parabrachial-nucleus",
   "name": "parabrachial nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007634",
-  "synonym": [
-    "parabrachial nuclei",
-    "parabrachial complex",
-    "parabrachial area"
-  ]
+  "synonym": null
 }
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/medullaryCommandNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002107) ('is_a' and 'relationship')]",
+  "description": "Anatomical structure that consists of two neuron types: pacemaker cells and relay cells. The medullary command nucleus commands the timing of the electric organ discharge. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002107)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2002107#medullary-command-nucleus",
+  "name": "medullary command nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2002107",
+  "synonym": [
+    "MCN",
+    "medullary pacemaker nucleus",
+    "pacemaker nucleus"
+  ]
+}
+
