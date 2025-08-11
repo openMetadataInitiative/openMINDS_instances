@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ampullaryNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the vestibulocochlear nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005144) ('is_a' and 'relationship')]",
+  "description": "A branch of the 8th cranial nerve that innervates the cristae ampullaris. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005144)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2005144#ampullary-nerve",
+  "name": "ampullary nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2005144",
+  "synonym": null
+}
+
