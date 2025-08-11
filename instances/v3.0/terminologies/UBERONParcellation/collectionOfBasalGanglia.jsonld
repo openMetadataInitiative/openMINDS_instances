@@ -4,11 +4,17 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/collectionOfBasalGanglia",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Collection of basal ganglia' is an aggregate regional part of brain. It is part of the cerebral subcortex.",
-  "description": "Subcortical masses of gray matter in the forebrain and midbrain that are richly interconnected and so viewed as a functional system. The nuclei usually included are the caudate nucleus (caudoputamen in rodents), putamen, globus pallidus, substantia nigra (pars compacta and pars reticulata) and the subthalamic nucleus. Some also include the nucleus accumbens and ventral pallidum.",
+  "definition": "Is an aggregate regional part of brain. Is part of the cerebral subcortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010011) ('is_a' and 'relationship')]",
+  "description": "Subcortical masses of gray matter in the forebrain and midbrain that are richly interconnected and so viewed as a functional system. The nuclei usually included are the caudate nucleus (caudoputamen in rodents), putamen, globus pallidus, substantia nigra (pars compacta and pars reticulata) and the subthalamic nucleus. Some also include the nucleus accumbens and ventral pallidum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010011)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101102",
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010011#basal-ganglia",
   "name": "collection of basal ganglia",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010011",
-  "synonym": null
+  "synonym": [
+    "basal ganglia",
+    "basal ganglia set",
+    "basal nuclei (basal ganglia)",
+    "set of basal ganglia"
+  ]
 }
+
