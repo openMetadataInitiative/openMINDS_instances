@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsalVentricularRidgeOfPallium",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014733) ('is_a' and 'relationship')]",
+  "description": "A large expansion of the lateral wall of the telencephalon, located in the pallium. Found in reptiles and birds. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014733)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014733#dorsal-ventricular-ridge-of-pallium",
+  "name": "dorsal ventricular ridge of pallium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014733",
+  "synonym": [
+    "dorsal ventricular ridge"
+  ]
+}
+
