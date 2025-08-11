@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pinealGlandStalk",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the pineal body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011768) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011768#pineal-gland-stalk",
+  "name": "pineal gland stalk",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011768",
+  "synonym": [
+    "epiphyseal stalk",
+    "pineal stalk"
+  ]
+}
+
