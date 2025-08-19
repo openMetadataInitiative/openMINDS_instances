@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_pallium",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "Pal",
+  "alternateName": [
+    null
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_telencephalon"
+    }
+  ],
+  "hasVersion": null,
+  "lookupLabel": "MarmosetNMA_pallium",
+  "name": "Pallium",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
