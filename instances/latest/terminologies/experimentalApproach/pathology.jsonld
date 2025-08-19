@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/experimentalApproach/pathology",
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
-  "definition": "Any experimental approach focused on the causes and effects of disease or injury.",
+  "definition": "Any experimental approach that aims to identify or classify the causes and effects of diseases, disorders, injuries, or other abnormal biology.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
