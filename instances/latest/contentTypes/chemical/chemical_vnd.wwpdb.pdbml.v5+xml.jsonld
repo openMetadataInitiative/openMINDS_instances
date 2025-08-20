@@ -5,7 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/chemical_vnd.wwpdb.pdbml.v5+xml",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
-  "description": "",
+  "description": "A XML serialization of the wwPDB’s PDBx/mmCIF data model, using tags from the PDBx/mmCIF dictionary to represent and distribute macromolecular structure data.",
   "displayLabel": null,
   "fileExtension": [
     ".xml"
