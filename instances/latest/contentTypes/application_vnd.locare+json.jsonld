@@ -13,7 +13,7 @@
   ],
   "name": "application/vnd.locare+json",
   "relatedMediaType": "https://www.iana.org/assignments/media-types/application/json",
-  "specification": null,
+  "specification": "https://github.com/blixilla/LocareJSON",
   "synonym": [
     "LocareJSON",
     "Locare JavaScript Object Notation"
