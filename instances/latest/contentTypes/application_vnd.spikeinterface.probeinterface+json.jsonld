@@ -5,7 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.spikeinterface.probeinterface+json",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
-  "description": "Validatable JSON file describing one or more probes by encoding each probe’s geometry (2D/3D and units), contact positions and shapes (with size params), optional shanks/contour, device-channel mapping, and annotations like manufacturer/model and version."
+  "description": "Validatable JSON file describing one or more probes by encoding each probe’s geometry (2D/3D and units), contact positions and shapes (with size params), optional shanks/contour, device-channel mapping, and annotations like manufacturer/model and version.",
   "displayLabel": "probeinterface JSON",
   "fileExtension": [
     ".json"
