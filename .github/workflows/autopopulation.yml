@@ -97,8 +97,19 @@ jobs:
           
                   # Generate instance only if the target directory exists
                   if [ -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ]; then
-                    echo "Generating instance from $FILE to $TARGET_FILE"
+                    echo "Generating instance from $FILE to $TARGET_FILE."
                     python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
+                  else
+                    # Folder does not exist
+                    if [[ "$FILE_MODULE" == terminologies/* ]]; then
+                      echo "Skipping $FILE_MODULE (the folder does not exist in $VERSION)."
+                      echo "Skipping the generation of $FILE to $TARGET_FILE."
+                    else
+                      echo "Creating missing folder(s) for $FILE_MODULE in $VERSION."
+                      mkdir -p "$MAIN_FOLDER/$VERSION/$FILE_MODULE/"
+                      echo "Generating instance from $FILE to $TARGET_FILE."
+                      python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
+                    fi
                   fi
                 fi
               done
