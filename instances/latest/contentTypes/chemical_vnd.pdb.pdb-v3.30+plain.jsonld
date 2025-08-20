@@ -2,18 +2,23 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contentTypes/text_x-pdb",
+  "@id": "https://openminds.om-i.org/instances/contentTypes/chemical_vnd.pdb.pdb-v3.30+plain",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "description": "A textual file format describing the three-dimensional structures of molecules held in the [Protein Data Bank](https://www.rcsb.org/).",
   "displayLabel": null,
   "fileExtension": [
+    ".brk",
+    ".ent",
     ".pdb"
   ],
-  "name": "text/x-pdb",
+  "name": "chemical/vnd.pdb.pdb-v3.30+plain",
   "relatedMediaType": null,
-  "specification": null,
+  "specification": "https://www.wwpdb.org/documentation/file-format-content/format33/v3.3.html",
   "synonym": [
-    "Protein Data Bank Format"
+    "chemical/pdb",
+    "chemical/x-pdb",
+    "Legacy PDB File Format",
+    "Legacy Protein Data Bank File Format"
   ]
 }
