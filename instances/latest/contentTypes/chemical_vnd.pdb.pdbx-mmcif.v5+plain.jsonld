@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/chemical_vnd.pdb.pdbx-mmcif.v5+plain",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": "A standard text file format for representing macromolecular structure data, developed by the International Union of Crystallography (IUCr) and the Protein Data Bank (PDB). [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Macromolecular_Crystallographic_Information_File)]",
+  "displayLabel": null,
+  "fileExtension": [
+    ".mmcif"
+  ],
+  "name": "chemical/vnd.pdb.pdbx-mmcif.v5+plain",
+  "relatedMediaType": null,
+  "specification": "https://mmcif.wwpdb.org/docs/user-guide/guide.html",
+  "synonym": [
+    "chemical/x-mmcif",
+    "Macromolecular Crystallographic Information File Format",
+    "mmCIF",
+    "PDBx/mmCIF"
+  ]
+}
