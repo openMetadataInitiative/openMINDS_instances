@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/ageCategory/deceased",
+  "@type": "https://openminds.om-i.org/types/AgeCategory",
+  "definition": "Life cycle stage of a subject that starts with death and ends with full decomposition of the subject's body.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0724696",
+  "knowledgeSpaceLink": null,
+  "name": "deceased",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000071",
+  "synonym": [
+    "death",
+    "death stage",
+    "deceased stage",
+    "post-mortem stage"
+  ]
+}
