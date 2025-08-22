@@ -178,7 +178,7 @@
   "shortName": "AAL Atlas 1",
   "supportChannel": null,
   "type": {
-    "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
+    "@id": "https://openminds.om-i.org/instances/atlasType/discreteAtlas"
   },
   "usedSpecimen": null,
   "versionIdentifier": "SPM12, v4",
