@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_pallium",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "Pal",
+  "alternateName": [
+    null
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_telencephalon"
+    }
+  ],
+  "hasVersion": null,
+  "lookupLabel": "MarmosetNMA_pallium",
+  "name": "Pallium",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+
