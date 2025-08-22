@@ -40,7 +40,7 @@
   "shortName": "Schaefer Atlas (400p)",
   "supportChannel": null,
   "type": {
-    "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
+    "@id": "https://openminds.om-i.org/instances/atlasType/discreteAtlas"
   },
   "usedSpecimen": null,
   "versionIdentifier": "2018, FSL-MNI152, yeo17n",
