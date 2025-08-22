@@ -1,12 +1,7 @@
 name: Autopopulation
 
+# Run the job if a PR was merged or a push occurred on main
 on:
-  # Trigger when a pull request is merged into main
-  pull_request:
-    types: [closed]
-    branches:
-      - main
-  # Trigger on direct pushes to main
   push:
     branches:
       - main
@@ -16,10 +11,6 @@ permissions:
 
 jobs:
   sync-instances:
-    # Run the job if a PR was merged or a push occurred on main
-    if: >
-      (github.event_name == 'pull_request' && github.event.pull_request.merged == true)
-      || (github.event_name == 'push' && !startsWith(github.event.head_commit.message, 'Merge pull request'))
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
