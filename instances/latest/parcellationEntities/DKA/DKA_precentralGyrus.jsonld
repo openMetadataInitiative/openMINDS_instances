@@ -5,14 +5,20 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_precentralGyrus",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "precentral"
+  ],
+  "definition": "The rostral and caudal extents of the central sulcus were the rostral and caudal boundaries of the precentral gyrus, respectively. The medial boundary was specific frontal gyri (superior, middle and inferior), and the lateral boundary was the medial bank of the central sulcus. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_frontalLobe"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_precentralGyrus"
+    }
+  ],
   "lookupLabel": "DKA_precentralGyrus",
   "name": "precentral gyrus",
   "ontologyIdentifier": null,
