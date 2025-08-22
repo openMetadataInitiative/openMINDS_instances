@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area8aOfCortexVentralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "A8aV",
+  "alternateName": [
+    "area 8a of cortex, ventral part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_dorsolateralPrefrontalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area8aOfCortexVentralPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area8aOfCortexVentralPart",
+  "name": "area 8a of cortex ventral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
