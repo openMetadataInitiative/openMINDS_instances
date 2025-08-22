@@ -237,7 +237,9 @@
   "repository": null,
   "shortName": "Superficial White Matter Atlas",
   "supportChannel": null,
-  "type": null,
+  "type": {
+    "@id": "https://openminds.om-i.org/instances/atlasType/probabilisticAtlas"
+  },
   "usedSpecimen": null,
   "versionIdentifier": "2018",
   "versionInnovation": "This is the first released version of this brain atlas."
