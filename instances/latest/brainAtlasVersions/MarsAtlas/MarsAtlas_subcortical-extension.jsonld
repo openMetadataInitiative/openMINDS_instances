@@ -201,7 +201,7 @@
     "https://meca-brain.org/contact/"
   ],
   "type": {
-    "@id": "https://openminds.om-i.org/instances/atlasType/parcellationScheme"
+    "@id": "https://openminds.om-i.org/instances/atlasType/parcellationModel"
   },
   "usedSpecimen": null,
   "versionIdentifier": "subcortical extension",
