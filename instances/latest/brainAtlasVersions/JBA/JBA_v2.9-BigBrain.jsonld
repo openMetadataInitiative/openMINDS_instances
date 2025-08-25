@@ -142,7 +142,7 @@
     "julich-brain@fz-juelich.de"
   ],
   "type": {
-    "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
+    "@id": "https://openminds.om-i.org/instances/atlasType/discreteAtlas"
   },
   "usedSpecimen": null,
   "versionIdentifier": "v2.9, BigBrain",

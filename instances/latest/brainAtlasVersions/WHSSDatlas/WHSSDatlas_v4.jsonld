@@ -729,7 +729,7 @@
     "https://www.nitrc.org/forum/forum.php?forum_id=9174"
   ],
   "type": {
-    "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
+    "@id": "https://openminds.om-i.org/instances/atlasType/discreteAtlas"
   },
   "usedSpecimen": null,
   "versionIdentifier": "v4",

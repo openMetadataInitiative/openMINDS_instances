@@ -3902,7 +3902,7 @@
   "shortName": "Allen Mouse Brain Atlas",
   "supportChannel": null,
   "type": {
-    "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
+    "@id": "https://openminds.om-i.org/instances/atlasType/discreteAtlas"
   },
   "usedSpecimen": null,
   "versionIdentifier": "CCFv3, 2015",

@@ -2901,7 +2901,7 @@
   "shortName": "Paxinos and Watson's Stereotaxic Rat Brain Atlas (Coronal)",
   "supportChannel": null,
   "type": {
-    "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
+    "@id": "https://openminds.om-i.org/instances/atlasType/discreteAtlas"
   },
   "usedSpecimen": null,
   "versionIdentifier": "6th ed. (Interaural, LSA)",
