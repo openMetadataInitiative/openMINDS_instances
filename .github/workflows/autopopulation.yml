@@ -88,8 +88,10 @@ jobs:
                 if [ "$VERSION" != "$FILE_VERSION" ]; then
                   TARGET_FILE="$MAIN_FOLDER/$VERSION/$FILE_MODULE/$FILE_NAME"
           
-                  # Generate instance only if the target directory exists
-                  if [ -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ]; then
+                  # Generate instance only if the target directory exists and not in terminologies/
+                  # or if the target file already exists
+                  if { [ -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ] && [[ "$FILE_MODULE" != terminologies/* ]]; } \
+                      || { [ -f "$TARGET_FILE" ]; }; then
                     echo "Generating instance from $FILE to $TARGET_FILE."
                     python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
                   else
@@ -98,7 +100,7 @@ jobs:
                       echo "Skipping $FILE_MODULE (the folder does not exist in $VERSION)."
                       echo "Skipping the generation of $FILE to $TARGET_FILE."
                     else
-                      echo "Creating missing folder(s) for $FILE_MODULE in $VERSION."
+                      echo "Creating missing folder for $FILE_MODULE in $VERSION."
                       mkdir -p "$MAIN_FOLDER/$VERSION/$FILE_MODULE/"
                       echo "Generating instance from $FILE to $TARGET_FILE."
                       python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
