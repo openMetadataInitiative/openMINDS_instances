@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalonDuraMater",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a meninx of telencephalon and forebrain dura mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003563)]",
+  "description": "A dura mater that is part of a telencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003563)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003563#telencephalon-dura-mater",
+  "name": "telencephalon dura mater",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003563",
+  "synonym": [
+    "dura mater of neuraxis of telencephalon",
+    "dura mater of telencephalon",
+    "telencephalon dura mater of neuraxis"
+  ]
+}
+
