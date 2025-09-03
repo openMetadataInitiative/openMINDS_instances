@@ -6,9 +6,6 @@ contact_links:
   - name: openMINDS contributor guidelines
     url: https://openminds.docs.om-i.org/en/latest/shared/contribution_guidelines.html
     about: Please follow these guidelines to contribute to openMINDS.
-  - name: openMINDS support email
-    url: mailto:support@openmetadatainitiative.org
-    about: Please reach out to us for support.
 
 issue_templates:
   - name: New Technique Creation
