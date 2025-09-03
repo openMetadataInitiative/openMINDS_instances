@@ -15,9 +15,9 @@ Links to relevant documentation, design mockups, or any other resources that pro
 
 # Proposed Content Type (optional)
 Please fill out the following properties for the new content type.
--  "dataType": Add all data types that may be represented via this content type.
+- "dataType": Add all data types that may be represented via this content type.
 - "description": Enter a description of the content type specification. Leave blank if an official and public specification is linked under ‘specification’ for this content type.
--  "displayLabel": Enter a display label for this content type.
+- "displayLabel": Enter a display label for this content type.
 - "fileExtension": Enter all file extensions associated with this content type.
 - "name": Enter the name of this content type following a IANA.org inspired convention.
 - "relatedMediaType": Enter the internationalized resource identifier (IRI) to the official registered media type (e.g., provided on IANA.org) matching this content type.
