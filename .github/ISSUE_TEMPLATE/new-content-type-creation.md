@@ -4,6 +4,7 @@ about: Use this template for the creation of a new content type.
 title: Add content type [ContentType]
 labels: ContentType
 assignees: ''
+projects: "openMetadataInitiative/2"
 
 ---
 
