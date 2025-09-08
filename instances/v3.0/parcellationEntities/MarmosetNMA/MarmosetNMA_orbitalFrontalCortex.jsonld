@@ -5,9 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_orbitalFrontalCortex",
   "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
   "abbreviation": "OFC",
-  "alternateName": [
-    null
-  ],
+  "alternateName": null,
   "definition": null,
   "hasParent": [
     {

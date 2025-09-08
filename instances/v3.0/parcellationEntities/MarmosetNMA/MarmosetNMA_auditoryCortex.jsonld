@@ -5,9 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortex",
   "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
   "abbreviation": "AUD",
-  "alternateName": [
-    null
-  ],
+  "alternateName": null,
   "definition": null,
   "hasParent": [
     {

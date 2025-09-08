@@ -5,9 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_dorsolateralPrefrontalCortex",
   "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
   "abbreviation": "DLP",
-  "alternateName": [
-    null
-  ],
+  "alternateName": null,
   "definition": null,
   "hasParent": [
     {
