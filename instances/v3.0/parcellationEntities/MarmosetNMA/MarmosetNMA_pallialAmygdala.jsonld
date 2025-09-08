@@ -5,9 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_pallialAmygdala",
   "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
   "abbreviation": "PalAmyg",
-  "alternateName": [
-    null
-  ],
+  "alternateName": null,
   "definition": null,
   "hasParent": [
     {
