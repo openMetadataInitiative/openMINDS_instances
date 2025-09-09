@@ -72,10 +72,16 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lateralOrbitalFrontalCortex"
       },
       {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lateralTemporalLobe"
+      },
+      {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lingualGyrus"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_medialOrbitalFrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_medialTemporalLobe"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_middleFrontalGyrus"
@@ -142,12 +148,6 @@
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe"
-      },
-      {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_medialAspect"
-      },
-      {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_lateralAspect"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalPole"
