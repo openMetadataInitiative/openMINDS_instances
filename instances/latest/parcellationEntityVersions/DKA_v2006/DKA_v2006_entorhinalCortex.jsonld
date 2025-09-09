@@ -60,7 +60,7 @@
   ],
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_medialAspect"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_medialTemporalLobe"
     }
   ],
   "lookupLabel": "DKA_v2006_entorhinalCortex",
