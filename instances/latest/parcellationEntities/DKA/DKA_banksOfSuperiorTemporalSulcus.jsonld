@@ -13,7 +13,7 @@
   "definition": "Is defined as the posterior aspect of the superior temporal sulcus. The rostral boundary was the superior temporal gyrus and the caudal boundary was the middle temporal gyrus. [paraphrased from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_lateralAspect"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lateralTemporalLobe"
     }
   ],
   "hasVersion": [
