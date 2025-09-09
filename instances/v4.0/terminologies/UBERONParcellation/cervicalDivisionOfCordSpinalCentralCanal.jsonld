@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cervicalDivisionOfCordSpinalCentralCanal",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a subdivision of spinal cord central canal. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014542)]",
+  "description": "Part of central canal contained within the cervical spinal cord. It is continuous caudally with the thoracic spinal cord central canal and rostrally with the fourth ventricle of the brain via the obex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014542)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014542#cervical-spinal-cord-central-canal",
+  "name": "cervical division of cord spinal central canal",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014542",
+  "synonym": [
+    "cervical spinal cord central canal"
+  ]
+}
+
