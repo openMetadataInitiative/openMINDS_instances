@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/futureNeurohypophysis",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the diencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034876)]",
+  "description": "The outgrowth of neuroectoderm located on the floor of the embryonic hypothalamus that gives rise to the neurohypophysis (posterior lobe) of the pituitary gland. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034876)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034876#future-neurohypophysis",
+  "name": "future neurohypophysis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034876",
+  "synonym": null
+}
+
