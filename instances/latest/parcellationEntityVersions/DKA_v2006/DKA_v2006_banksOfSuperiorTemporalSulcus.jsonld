@@ -62,7 +62,7 @@
   ],
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_lateralAspect"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lateralTemporalLobe"
     }
   ],
   "lookupLabel": "DKA_v2006_banksOfSuperiorTemporalSulcus",
