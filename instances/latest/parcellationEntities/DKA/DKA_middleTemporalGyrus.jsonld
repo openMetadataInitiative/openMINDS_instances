@@ -11,7 +11,7 @@
   "definition": "The rostral boundary of the middle temporal gyrus was the rostral extent of the superior temporal sulcus, and the caudal boundary was the temporo-occipital incisure on the cortical surface. The superior temporal sulcus was the medial boundary, and the inferior temporal sulcus was the lateral boundary. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_lateralAspect"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lateralTemporalLobe"
     }
   ],
   "hasVersion": [
