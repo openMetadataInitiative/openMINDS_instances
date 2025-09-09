@@ -11,7 +11,7 @@
   "definition": "The rostral boundary of the fusiform gyrus was the rostral extent of the collateral sulcus. The caudal boundary was defined on the inflated surface as the rostral limit of the lateral occipital cortex. The medial and lateral boundaries were the collateral sulcus and the occipitotemporal sulcus, respectively. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_medialAspect"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_medialTemporalLobe"
     }
   ],
   "hasVersion": [
