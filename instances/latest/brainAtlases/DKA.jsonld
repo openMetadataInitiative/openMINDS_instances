@@ -9,7 +9,7 @@
   "custodian": null,
   "description": "An automated labeling system for subdividing the human cerebral cortex on MRI scans into gyral based regions of interest. [title of [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "digitalIdentifier": null,
-  "fullName": "Desikan-Killiany Atlas",
+  "fullName": "Desikan-Killiany Cortical Atlas",
   "hasTerminology": {
     "@type": "https://openminds.om-i.org/types/ParcellationTerminology",
     "dataLocation": null,
@@ -166,7 +166,7 @@
   "homepage": null,
   "howToCite": null,
   "ontologyIdentifier": null,
-  "shortName": "DK Atlas",
+  "shortName": "Desikan-Killiany Atlas",
   "usedSpecies": {
     "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
   }
