@@ -11,7 +11,7 @@
   "definition": "The rostral boundary was the rostral extent of the transverse temporal sulcus, and the caudal boundary was the caudal portion of the insular cortex. The lateral fissure and the superior temporal gyrus were utilized as the medial and lateral boundaries, respectively. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_lateralAspect"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lateralTemporalLobe"
     }
   ],
   "hasVersion": [
