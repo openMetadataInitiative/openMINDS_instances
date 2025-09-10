@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/cervusElaphus",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "The species *Cervus elaphus* (red deer) belongs to the family of *cervidae* (deers).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Cervus elaphus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9860",
+  "synonym": [
+    "red deer"
+  ]
+}
+

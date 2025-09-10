@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.plasma",
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.plasma",
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'plasma' is a perceptually uniform sequential colormap of the Python plotting library Matplotlib.",
   "description": null,

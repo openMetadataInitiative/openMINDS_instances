@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/alveusOfCA2Field",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a layer of CA2 field. Is part of the hippocampus alveus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035802) ('is_a' and 'relationship')]",
+  "description": "Part of alveus lying within hippocampal sector CA2. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035802)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035802#alveus-of-ca2-field",
+  "name": "alveus of CA2 field",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035802",
+  "synonym": null
+}
+

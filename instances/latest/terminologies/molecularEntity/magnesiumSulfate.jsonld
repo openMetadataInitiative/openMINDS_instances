@@ -5,6 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/molecularEntity/magnesiumSulfate",
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "A magnesium salt with the formula MgSO4, consisting of magnesium cations Mg2+ (20.19% by mass) and sulfate anions (SO4)2-. [adapted from wikipedia (https://en.wikipedia.org/wiki/Magnesium_sulfate)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106452",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:32599#magnesium-sulfate",
   "name": "magnesium sulfate",

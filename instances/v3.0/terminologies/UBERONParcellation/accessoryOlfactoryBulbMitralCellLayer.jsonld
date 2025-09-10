@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryOlfactoryBulbMitralCellLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an olfactory bulb layer. Is part of the accessory olfactory bulb and the olfactory bulb mitral cell layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015432) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015432#accessory-olfactory-bulb-mitral-cell-layer",
+  "name": "accessory olfactory bulb mitral cell layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015432",
+  "synonym": [
+    "accessory olfactory bulb, mitral layer"
+  ]
+}
+

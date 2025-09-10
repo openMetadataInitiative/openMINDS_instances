@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ganglionicLayerOfRetina",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001792) ('is_a' and 'relationship')]",
+  "description": "Cytoarchitectural layer of retina that contains somata of retinal ganglion cells, bounded by the stratum opticum and the inner plexiform layer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001792)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001792#ganglionic-layer-of-retina",
+  "name": "ganglionic layer of retina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001792",
+  "synonym": [
+    "ganglionic cell layer of retina",
+    "GCL layer",
+    "retina ganglion cell layer",
+    "retina ganglion layer",
+    "retinal ganglion cell layer",
+    "retinal ganglion layer",
+    "RGC layer",
+    "stratum ganglionicum (retina)"
+  ]
+}
+

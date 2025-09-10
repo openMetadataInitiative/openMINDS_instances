@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/glymphaticSystem",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity and anatomical system. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036145) ('is_a' and 'relationship')]",
+  "description": "Macroscopic waste clearance system that utilizes a unique system of perivascular tunnels, formed by astroglial cells, to promote efficient elimination of soluble proteins and metabolites from the central nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036145)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036145#glymphatic-system",
+  "name": "glymphatic system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036145",
+  "synonym": null
+}
+

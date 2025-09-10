@@ -1,20 +1,16 @@
 name: Autopopulation
 
+# Run the job if a PR was merged or a push occurred on main
 on:
-  # Trigger when a pull request is merged into main
-  pull_request:
-    types: [closed]
-    branches:
-      - main
-  # Trigger on direct pushes to main
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   sync-instances:
-    # Run the job if a PR was merged or a push occurred on main
-    if: github.event.pull_request.merged == true || github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -94,8 +90,19 @@ jobs:
           
                   # Generate instance only if the target directory exists
                   if [ -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ]; then
-                    echo "Generating instance from $FILE to $TARGET_FILE"
+                    echo "Generating instance from $FILE to $TARGET_FILE."
                     python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
+                  else
+                    # Folder does not exist
+                    if [[ "$FILE_MODULE" == terminologies/* ]]; then
+                      echo "Skipping $FILE_MODULE (the folder does not exist in $VERSION)."
+                      echo "Skipping the generation of $FILE to $TARGET_FILE."
+                    else
+                      echo "Creating missing folder(s) for $FILE_MODULE in $VERSION."
+                      mkdir -p "$MAIN_FOLDER/$VERSION/$FILE_MODULE/"
+                      echo "Generating instance from $FILE to $TARGET_FILE."
+                      python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
+                    fi
                   fi
                 fi
               done
@@ -106,9 +113,6 @@ jobs:
             git config --global user.email "support@openmetadatainitiative.org"
             git add $MAIN_FOLDER/**/*.jsonld
             git commit -m "Autopopulation of instance file."
-            
-            # Fetch latest remote changes and rebase before pushing
-            git fetch origin main
             git pull --rebase origin main
             git push origin HEAD:main
           else

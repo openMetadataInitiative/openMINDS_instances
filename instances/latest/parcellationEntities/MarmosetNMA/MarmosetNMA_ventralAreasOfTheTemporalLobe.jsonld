@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventralAreasOfTheTemporalLobe",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "VTC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_dorsalPallium"
+    }
+  ],
+  "hasVersion": null,
+  "lookupLabel": "MarmosetNMA_ventralAreasOfTheTemporalLobe",
+  "name": "Ventral areas of the temporal lobe",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.RdGy",
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.RdGy",
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'RdGy' is a diverging colormap of the Python plotting library Matplotlib.",
   "description": null,

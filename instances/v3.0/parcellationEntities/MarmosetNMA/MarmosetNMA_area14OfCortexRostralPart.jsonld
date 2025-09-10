@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area14OfCortexRostralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A14R",
+  "alternateName": [
+    "area 14 of cortex, rostral part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_medialPrefrontalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area14OfCortexRostralPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area14OfCortexRostralPart",
+  "name": "area 14 of cortex rostral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

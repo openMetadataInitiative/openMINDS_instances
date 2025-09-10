@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.BuPu",
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.BuPu",
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'BuPu' is a sequential colormap of the Python plotting library Matplotlib.",
   "description": null,

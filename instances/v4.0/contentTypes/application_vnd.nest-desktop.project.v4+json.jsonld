@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nest-desktop.project.v4+json",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": "A JSON file containing a project configuration (version 4) for NEST Desktop",
+  "displayLabel": "NEST Desktop project configuration (v4)",
+  "fileExtension": [
+    ".json"
+  ],
+  "name": "application/vnd.nest-desktop.project.v4+json",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/json",
+  "specification": null,
+  "synonym": [
+    "NEST Desktop project specification version 4"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/visualCortex",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a functional part of brain. Is part of the occipital cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000411) ('is_a' and 'relationship')]",
+  "description": "The part of the cerebral cortex responsible for processing visual information. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000411)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000411#visual-cortex",
+  "name": "visual cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000411",
+  "synonym": null
+}
+

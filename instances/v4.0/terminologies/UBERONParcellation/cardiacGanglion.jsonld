@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cardiacGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014463)]",
+  "description": "Any of the parasympathetic ganglia of the cardiac plexus between the arch of the aorta and the bifurcation of the pulmonary artery. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014463)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014463#cardiac-ganglion",
+  "name": "cardiac ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014463",
+  "synonym": [
+    "cardiac ganglia set",
+    "cardiac ganglion of Wrisberg",
+    "ganglia cardiaca",
+    "ganglion of Wrisberg",
+    "Wrisberg ganglion"
+  ]
+}
+

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_auditoryCortexRostrotemporalLateralArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "AuRTL",
+  "alternateName": [
+    "auditory cortex, rostrotemporal lateral area"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_auditoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostrotemporalLateralArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_auditoryCortexRostrotemporalLateralArea",
+  "name": "auditory cortex rostrotemporal lateral area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+
