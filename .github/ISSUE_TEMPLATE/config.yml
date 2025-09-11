@@ -1,0 +1,18 @@
+blank_issues_enabled: true
+contact_links:
+  - name: openMINDS community forum
+    url: https://neurostars.org/g/openMINDS
+    about: Please ask and answer questions here.
+  - name: openMINDS contributor guidelines
+    url: https://openminds.docs.om-i.org/en/latest/shared/contribution_guidelines.html
+    about: Please follow these guidelines to contribute to openMINDS.
+
+issue_templates:
+  - name: New Technique Creation
+    about: Propose a new technique.
+    filename: technique-new.yml
+    hidden: false
+  - name: New Content Type Creation
+    about: Propose a new content type.
+    filename: content-type-new.yml
+    hidden: false
