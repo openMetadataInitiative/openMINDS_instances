@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/communicatingBranchOfSpinalNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve. Is part of the spinal nerve trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017642) ('is_a' and 'relationship')]",
+  "description": "Rami communicans (plural rami communicantes) is the term used for a nerve which connects two other nerves. When used without further definition, it almost always refers to a communicating branch between a spinal nerve and the sympathetic trunk. More specifically, it usually refers to one of the following: Gray ramus communicans White ramus communicans. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017642)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0017642#communicating-branch-of-spinal-nerve",
+  "name": "communicating branch of spinal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0017642",
+  "synonym": null
+}
+

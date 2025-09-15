@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/forelimbNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a limb nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003441)]",
+  "description": "A nerve that is part of a forelimb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003441)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003441#forelimb-nerve",
+  "name": "forelimb nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003441",
+  "synonym": [
+    "fore limb nerve",
+    "nerve of fore limb",
+    "nerve of forelimb",
+    "nerve of superior member",
+    "nerve of upper extremity"
+  ]
+}
+
