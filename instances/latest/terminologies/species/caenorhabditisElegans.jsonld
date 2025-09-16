@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/caenorhabditisElegans",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "A roundworm of the phylum Nematoda often used as a biological model system for research.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101548",
+  "knowledgeSpaceLink": null,
+  "name": "Caenorhabditis elegans",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_6239",
+  "synonym": null
+}
