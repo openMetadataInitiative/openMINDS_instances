@@ -4,18 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/disease/macularDegeneration",
   "@type": "https://openminds.om-i.org/types/Disease",
-  "definition": "Degenerative changes in the macula lutea of the retina.",
+  "definition": "A retinal degeneration characterized by gradual deterioration of light-sensing cells in the tissues at the back of the eye resulting in vision loss.",
   "description": "Deterioration of the macula lutea in the retina; may be inherited, drug induced, or due to aging; leads to a severe loss of central vision while peripheral vision is retained.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106448",
-  "knowledgeSpaceLink": null,
-  "name": "Macular degeneration",
-  "preferredOntologyIdentifier": "http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000001918",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/BIRNLEX:12811#macular-degeneration-1",
+  "name": "macular degeneration",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_4448",
   "synonym": [
-"Age-Related Macular Degeneration",
-"Age-Related Maculopathies",
-"Age-Related Maculopathy",
-"Macular Dystrophy",
-"Maculopathies, Age-Related",
-"Maculopathy, Age-Related"
+"macular degeneration of retina",
+"macular dystrophy",
+"maculopathy"
   ]
 }
