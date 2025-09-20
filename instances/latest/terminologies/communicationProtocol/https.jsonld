@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/communicationProtocol/https",
+  "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
+  "definition": "A network communication protocol that secures HTTP traffic by encrypting it using SSL/TLS.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "HTTP",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Hypertext Transfer Protocol Secure"
+  ]
+}
