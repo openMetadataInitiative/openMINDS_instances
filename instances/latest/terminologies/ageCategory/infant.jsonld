@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/ageCategory/infant",
   "@type": "https://openminds.om-i.org/types/AgeCategory",
-  "definition": "'Infant' categorizes the life cycle stage of mammals (animal or human) that follows the neonate stage and ends at weaning.",
+  "definition": "Life cycle stage of a mammalian subject that follows the neonate stage and ends at weaning.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0735063",
   "knowledgeSpaceLink": null,
