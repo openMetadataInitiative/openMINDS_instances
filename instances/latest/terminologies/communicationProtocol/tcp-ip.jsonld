@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/communicationProtocol/tcp-ip",
+  "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
+  "definition": "A network communication protocol suite that defines how data is transmitted across interconnected networks.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "TCP/IP",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Transmission Control Protocol / Internet Protocol"
+  ]
+}
