@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/macacaNemestrina",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "The species *Macaca nemestrina* (southern pig-tailed macaque) belongs to the family of *cercopithecidae* (old world monkeys).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Macaca nemestrina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9545",
+  "synonym": [
+    "pig-tailed macaque",
+    "pigtail monkey",
+    "pigtail macaque",
+    "Sundaland pig-tailed macaque",
+    "Sunda pig-tailed macaque",
+    "beruk"
+  ]
+}
+
