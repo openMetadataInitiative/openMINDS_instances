@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deploymentEnvironmentType/integration",
+  "@type": "https://openminds.om-i.org/types/DeploymentEnvironmentType",
+  "definition": "An environment in which multiple components or services are integrated and tested together to ensure interoperability and to detect issues early.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "integration",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
