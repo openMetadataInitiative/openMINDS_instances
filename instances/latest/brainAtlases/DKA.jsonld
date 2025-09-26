@@ -7,9 +7,9 @@
   "abbreviation": "DKA",
   "author": null,
   "custodian": null,
-  "description": null,
+  "description": "An automated labeling system for subdividing the human cerebral cortex on MRI scans into gyral based regions of interest. [title of [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "digitalIdentifier": null,
-  "fullName": "Desikan-Killiany Atlas",
+  "fullName": "Desikan-Killiany Cortical Atlas",
   "hasTerminology": {
     "@type": "https://openminds.om-i.org/types/ParcellationTerminology",
     "dataLocation": null,
@@ -72,10 +72,16 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lateralOrbitalFrontalCortex"
       },
       {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lateralTemporalLobe"
+      },
+      {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lingualGyrus"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_medialOrbitalFrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_medialTemporalLobe"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_middleFrontalGyrus"
@@ -90,10 +96,10 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_orbitofrontalCortex"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_parahippocampalGyrus"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_paracentralLobule"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_paracentralLobule"
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_parahippocampalGyrus"
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_parietalLobe"
@@ -144,12 +150,6 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_medialAspect"
-      },
-      {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_lateralAspect"
-      },
-      {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalPole"
       },
       {
@@ -158,10 +158,15 @@
     ],
     "ontologyIdentifier": null
   },
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/DKA_v2006"
+    }
+  ],
   "homepage": null,
   "howToCite": null,
-  "shortName": "DK Atlas",
+  "ontologyIdentifier": null,
+  "shortName": "Desikan-Killiany Atlas",
   "usedSpecies": {
     "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
   }
