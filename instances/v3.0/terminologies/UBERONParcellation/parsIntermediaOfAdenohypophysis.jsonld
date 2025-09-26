@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parsIntermediaOfAdenohypophysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the adenohypophysis. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002432)]",
+  "description": "The thin boundary between the adenohypophysis and neurohypophysis of the pituitary that produces melanocyte stimulating hormone (MSH); this area is small or absent in mammalian adults. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002432)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002432#pars-intermedia-of-adenohypophysis",
+  "name": "pars intermedia of adenohypophysis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002432",
+  "synonym": [
+    "intermediate lobe of adenohypophysis",
+    "intermediate lobe of pituitary",
+    "pars intermedia",
+    "pars intermedia (glandula pituitaria)",
+    "pars intermedia adenohypophysis",
+    "pars intermedia of anterior lobe of pituitary gland"
+  ]
+}
+
