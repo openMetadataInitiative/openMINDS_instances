@@ -1,0 +1,17 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@id": "https://openminds.om-i.org/instances/deviceType/MRISurfaceCoil",
+    "@type": "https://openminds.om-i.org/types/DeviceType",
+    "definition": "'Surface coils' are radiofrequency coils placed directly over the anatomical region of interest, providing high sensitivity but limited depth of signal penetration.",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "surface coil",
+    "preferredOntologyIdentifier": null,
+    "synonym": [
+        "surface MRI coil",
+        "local coil"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@id": "https://openminds.om-i.org/instances/deviceType/MRIMulticoilArray",
+    "@type": "https://openminds.om-i.org/types/DeviceType",
+    "definition": "'Multi-coil arrays' are assemblies of multiple independent RF coil elements, often used for parallel imaging to increase acquisition speed and signal sensitivity.",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "multi-coil array",
+    "preferredOntologyIdentifier": null,
+    "synonym": [
+        "multi-channel coil",
+        "array coil",
+        "phased-array coil"
+    ]
+}
