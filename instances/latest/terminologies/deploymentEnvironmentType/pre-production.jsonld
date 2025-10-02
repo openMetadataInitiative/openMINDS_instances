@@ -10,5 +10,10 @@
   "knowledgeSpaceLink": null,
   "name": "pre-production",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "pprod",
+    "preprod",
+    "pre-prod",
+    "pre-production environment"
+  ]
 }
