@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/communicationProtocol/ssh",
+  "@id": "https://openminds.om-i.org/instances/communicationProtocol/SSH",
   "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
   "definition": "A network communication protocol that enables secure remote login and command execution over unsecured networks.",
   "description": null,
