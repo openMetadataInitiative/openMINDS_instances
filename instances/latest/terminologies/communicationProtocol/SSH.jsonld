@@ -9,7 +9,7 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "SSH",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q170460",
   "synonym": [
     "Secure Shell"
   ]
