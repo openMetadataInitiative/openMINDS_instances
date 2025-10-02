@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deploymentEnvironmentType/development",
+  "@type": "https://openminds.om-i.org/types/DeploymentEnvironmentType",
+  "definition": "A working environment for developers to build, test, and debug new features or changes; usually more flexible and less restricted than other environments.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "development",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "dev",
+    "development environment"
+  ]
+}
