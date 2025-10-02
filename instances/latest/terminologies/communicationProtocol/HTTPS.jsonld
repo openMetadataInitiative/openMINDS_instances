@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/communicationProtocol/https",
+  "@id": "https://openminds.om-i.org/instances/communicationProtocol/HTTPS",
   "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
   "definition": "A network communication protocol that secures HTTP traffic by encrypting it using SSL/TLS.",
   "description": null,
