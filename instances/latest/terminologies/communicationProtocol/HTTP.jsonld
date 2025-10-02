@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/communicationProtocol/http",
+  "@id": "https://openminds.om-i.org/instances/communicationProtocol/HTTP",
   "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
   "definition": "A network communication protocol used for exchanging hypermedia documents, primarily between web servers and browsers. See https://httpwg.org/specs/.",
   "description": null,
