@@ -10,5 +10,8 @@
   "knowledgeSpaceLink": null,
   "name": "production",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "prod",
+    "production environment"
+  ]
 }
