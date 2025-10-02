@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/communicationProtocol/SSH",
+  "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
+  "definition": "A network communication protocol that enables secure remote login and command execution over unsecured networks.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "SSH",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q170460",
+  "synonym": [
+    "Secure Shell"
+  ]
+}
