@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/communicationProtocol/websocket",
+  "@id": "https://openminds.om-i.org/instances/communicationProtocol/WebSocket",
   "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
   "definition": "A computer communications protocol, providing a bidirectional communication channel over a single Transmission Control Protocol (TCP) connection. Defined in IETF RFC 6455(https://www.rfc-editor.org/rfc/rfc6455)",
   "description": null,
