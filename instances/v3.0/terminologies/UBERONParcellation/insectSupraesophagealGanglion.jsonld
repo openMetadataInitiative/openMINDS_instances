@@ -4,11 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/insectSupraesophagealGanglion",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Insect supraesophageal ganglion' is a ganglion of central nervous system. It is part of the brain.",
-  "description": "The pre-oral neuropils of the brain located above and some of it below the esophagus, comprising three fused ganglia (protocerebrum, deutocerebrum, and tritocerebrum) in the head.",
+  "definition": "Is a ganglion of central nervous system. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003626) ('is_a' and 'relationship')]",
+  "description": "The pre-oral neuropils of the brain located above and some of it below the esophagus, comprising three fused ganglia (protocerebrum, deutocerebrum, and tritocerebrum) in the head. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003626)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0735712",
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6003626#supraesophageal-ganglion",
   "name": "insect supraesophageal ganglion",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6003626",
   "synonym": null
 }
+
