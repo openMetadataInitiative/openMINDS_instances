@@ -1,0 +1,18 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@id": "https://openminds.om-i.org/instances/deviceType/MRIExtremityCoil",
+    "@type": "https://openminds.om-i.org/types/DeviceType",
+    "definition": "'Extremity coils' are dedicated radiofrequency coils designed for imaging smaller body parts such as arms, legs, wrists, ankles, or knees.",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "extremity coil",
+    "preferredOntologyIdentifier": null,
+    "synonym": [
+        "limb coil",
+        "peripheral coil",
+        "knee/ankle/wrist coil"
+    ]
+}
