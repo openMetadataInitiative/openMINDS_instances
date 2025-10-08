@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/zygomaticotemporalNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the maxillary nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036264) ('is_a' and 'relationship')]",
+  "description": "The zygomaticotemporal nerve or zygomaticotemporal branch (temporal branch) is derived from the maxillary branch of the trigeminal nerve (Cranial nerve V). It runs along the lateral wall of the orbit in a groove in the zygomatic bone, receives a branch of communication from the lacrimal, and passes through zygomaticotemporal foramen in the zygomatic bone to enter the temporal fossa. It ascends between the bone, and substance of the Temporalis muscle, pierces the temporal fascia about 2.5 cm. above the zygomatic arch, and is distributed to the skin of the side of the forehead, and communicates with the facial nerve and with the auriculotemporal branch of the mandibular nerve. As it pierces the temporal fascia, it gives off a slender twig, which runs between the two layers of the fascia to the lateral angle of the orbit. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036264)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036264#zygomaticotemporal-nerve",
+  "name": "zygomaticotemporal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036264",
+  "synonym": [
+    "ramus zygomaticotemporalis (Nervus zygomaticus)",
+    "ramus zygomaticotemporalis nervus zygomatici",
+    "zygomaticotemporal branch of zygomatic nerve"
+  ]
+}
+
