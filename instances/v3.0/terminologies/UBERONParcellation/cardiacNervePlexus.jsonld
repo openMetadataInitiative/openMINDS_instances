@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cardiacNervePlexus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an autonomic nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002008)]",
+  "description": "A plexus of nerves situated at the base of the heart that innervate the heart. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002008)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002008#cardiac-nerve-plexus",
+  "name": "cardiac nerve plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002008",
+  "synonym": [
+    "autonomic nerve plexus of heart",
+    "autonomic plexus of heart",
+    "cardiac plexus",
+    "heart autonomic nerve plexus",
+    "heart autonomic plexus",
+    "plexus cardiacus"
+  ]
+}
+

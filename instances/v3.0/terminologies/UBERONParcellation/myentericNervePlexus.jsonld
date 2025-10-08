@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/myentericNervePlexus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an enteric plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002439)]",
+  "description": "One of two ganglionated neural networks which together form the enteric nervous system. The myenteric (Auerbach's) plexus is located between the longitudinal and circular muscle layers of the gut. Its neurons project to the circular muscle, to other myenteric ganglia, to submucosal ganglia, or directly to the epithelium, and play an important role in regulating and patterning gut motility. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002439)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002439#myenteric-nerve-plexus",
+  "name": "myenteric nerve plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002439",
+  "synonym": [
+    "Auberbach plexus",
+    "Auberbach's plexus",
+    "Auberbachs plexus",
+    "Auerbach's plexus",
+    "myenteric plexus",
+    "plexus nervosus submucosus",
+    "plexus submucosus",
+    "Remak's plexus"
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/musculocutaneousNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve. Is part of the brachial nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003724) ('is_a' and 'relationship')]",
+  "description": "A large branch of the brachial plexus supplying various parts of the upper arm (as flexor muscles) and forearm (as the skin). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003724)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003724#musculocutaneous-nerve",
+  "name": "musculocutaneous nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003724",
+  "synonym": [
+    "casserio's nerve"
+  ]
+}
+

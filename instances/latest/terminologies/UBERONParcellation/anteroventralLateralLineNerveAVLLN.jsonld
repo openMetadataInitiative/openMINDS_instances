@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/anteroventralLateralLineNerveAVLLN",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a lateral line nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010109)]",
+  "description": "Sensory nerve of the anterior lateral line component. It develops from preotic anteroventral placode. AVLLN innervates lower jaw lines of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010109)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010109#anteroventral-lateral-line-nerve-avlln",
+  "name": "anteroventral lateral line nerve (AVLLN)",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010109",
+  "synonym": null
+}
+
