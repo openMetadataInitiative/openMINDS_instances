@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Bahrain",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Country in the Persian Gulf.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Bahrain",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q398",
+  "synonyms": [
+    "BAH",
+    "Bahrein Islands",
+    "bh",
+    "BH",
+    "BHR",
+    "Dawlat al-Bahrain",
+    "Kingdom of Bahrain",
+    "Mamlakat al-Baḥrayn"
+  ]
+}

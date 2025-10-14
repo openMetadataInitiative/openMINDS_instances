@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Belize",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Sovereign state in Central America.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Belize",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q242",
+  "synonyms": [
+    "Belize",
+    "BLZ",
+    "bz",
+    "BZ"
+  ]
+}

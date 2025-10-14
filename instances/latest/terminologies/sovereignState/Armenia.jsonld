@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Armenia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Sovereign state in the South Caucasus region of Eurasia.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Armenia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q399",
+  "synonyms": [
+    "AM",
+    "ARM",
+    "Hayastan",
+    "Hayastani Hanrapetut’yun",
+    "Republic of Armenia"
+  ]
+}

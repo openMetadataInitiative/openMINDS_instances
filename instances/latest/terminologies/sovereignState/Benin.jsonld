@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Benin",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Sovereign state in West Africa.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Benin",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q962",
+  "synonyms": [
+    "BEN",
+    "BJ",
+    "Dahomey",
+    "Republic of Benin"
+  ]
+}

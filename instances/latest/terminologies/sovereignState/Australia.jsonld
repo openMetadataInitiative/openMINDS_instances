@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Australia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Country in Oceania.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Australia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q408",
+  "synonyms": [
+    "AU",
+    "AUS",
+    "Aussieland",
+    "Australia",
+    "Commonwealth of Australia",
+    "Down Under",
+    "New Holland",
+    "New Hollandia",
+    "Nova Hollandia",
+    "Oz",
+    "Stralia",
+    "Straya",
+    "Stria",
+    "The Commonwealth of Australia"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Andorra",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Sovereign microstate between France and Spain, in Western Europe.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Andorra",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q228",
+  "synonyms": [
+    "AD",
+    "AND",
+    "Andorra",
+    "Principality of Andorra",
+    "Principality of the Valleys of Andorra"
+  ]
+}

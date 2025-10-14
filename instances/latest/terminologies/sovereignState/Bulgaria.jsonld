@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Bulgaria",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Country in Southeast Europe.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Bulgaria",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q219",
+  "synonyms": [
+    "bg",
+    "BG",
+    "BGR",
+    "BUL",
+    "Republic of Bulgaria"
+  ]
+}

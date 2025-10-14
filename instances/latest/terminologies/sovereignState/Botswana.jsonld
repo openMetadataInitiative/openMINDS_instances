@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Botswana",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Sovereign state in Southern Africa.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Botswana",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q963",
+  "synonyms": [
+    "BOT",
+    "Botswana",
+    "BW",
+    "bw",
+    "BWA",
+    "Lefatshe la Botswana",
+    "Republic of Botswana"
+  ]
+}

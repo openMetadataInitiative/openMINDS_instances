@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Afghanistan",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Country in Central and South Asia.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Afghanistan",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q889",
+  "synonyms": [
+    "AF",
+    "Affghanistan",
+    "Affghanisthan",
+    "Affghaunistan",
+    "AFG",
+    "Afghania",
+    "Afghanisthan",
+    "Afghaunistan",
+    "Afghaunistaun"
+  ]
+}

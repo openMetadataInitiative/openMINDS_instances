@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/BurkinaFaso",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Sovereign state in Africa.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Burkina Faso",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q965",
+  "synonyms": [
+    "BF",
+    "bf",
+    "BFA",
+    "Burkina Faso",
+    "Republic of Burkina Faso"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Bhutan",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Sovereign state in South Asia.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Bhutan",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q917",
+  "synonyms": [
+    "BHU",
+    "BT",
+    "bt",
+    "BTN",
+    "Kingdom of Bhutan"
+  ]
+}
