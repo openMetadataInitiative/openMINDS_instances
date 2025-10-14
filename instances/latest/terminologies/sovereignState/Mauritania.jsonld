@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Mauritania",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in West Africa and North Africa.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Mauritania",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1025",
+  "synonym": [
+    "Agawej",
+    "Gannaar",
+    "Gànnaar",
+    "Islamic Republic of Mauritania",
+    "Mauretania",
+    "Moritani",
+    "Moritani Silaamin Jamaane",
+    "mr",
+    "MR",
+    "MRT",
+    "MTN",
+    "Muritanya",
+    "Murutaane",
+    "Ndenndaandi Lislameeri Muritani",
+    "Réewu lislaam bu Muritani",
+    "République islamique de Mauritanie"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Malta",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Southern Europe situated on an archipelago in the Mediterranean Sea.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Malta",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q233",
+  "synonym": [
+    "Malta",
+    "MLT",
+    "MT",
+    "Republic of Malta"
+  ]
+}
