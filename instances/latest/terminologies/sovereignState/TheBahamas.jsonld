@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/TheBahamas",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island sovereign state in the West Indies.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "The Bahamas",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q778",
+  "synonym": [
+    "BAH",
+    "Bahama Islands",
+    "Bahamas",
+    "BHS",
+    "BS",
+    "bs",
+    "Commonwealth of the Bahamas",
+    "Commonwealth of The Bahamas",
+    "The"
+  ]
+}

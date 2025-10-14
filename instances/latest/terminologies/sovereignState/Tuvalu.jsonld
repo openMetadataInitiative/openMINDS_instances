@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Tuvalu",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Oceania.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Tuvalu",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q672",
+  "synonym": [
+    "Ellice Islands",
+    "TUV",
+    "tv",
+    "TV"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Tonga",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in Oceania, situated on an archipelago.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Tonga",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q678",
+  "synonym": [
+    "Friendly Islands",
+    "Kingdom of Tonga",
+    "TGA",
+    "TO",
+    "to",
+    "TON",
+    "Tonga",
+    "Tonga Islands"
+  ]
+}

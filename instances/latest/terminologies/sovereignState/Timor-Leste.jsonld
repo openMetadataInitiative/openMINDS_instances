@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Timor-Leste",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state situated on several islands in Southeast Asia.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Timor-Leste",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q574",
+  "synonym": [
+    "Democratic Republic of Timor-Leste",
+    "East Timor",
+    "República Democrática de Timor-Leste",
+    "Repúblika Demokrátika Timor-Leste",
+    "Timor Leste",
+    "TL",
+    "TLS"
+  ]
+}

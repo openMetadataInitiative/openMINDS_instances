@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Zambia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country at the crossroads of Central and Southern Africa.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Zambia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q953",
+  "synonym": [
+    "Republic of Zambia",
+    "ZAM",
+    "Zed",
+    "ZED",
+    "ZM",
+    "zm",
+    "ZMB"
+  ]
+}

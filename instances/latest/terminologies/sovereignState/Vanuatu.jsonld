@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Vanuatu",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island country in Oceania.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Vanuatu",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q686",
+  "synonym": [
+    "Republic of Vanuatu",
+    "Ripablik blong Vanuatu",
+    "République du Vanuatu",
+    "VAN",
+    "van",
+    "Vanuatu",
+    "VU",
+    "vu",
+    "vut",
+    "VUT"
+  ]
+}
