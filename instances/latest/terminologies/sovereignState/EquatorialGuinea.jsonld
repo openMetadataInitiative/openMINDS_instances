@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/EquatorialGuinea",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in Africa.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Equatorial Guinea",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q983",
+  "synonym": [
+    "GEQ",
+    "GNQ",
+    "gq",
+    "GQ",
+    "Republic of Equatorial Guinea",
+    "República da Guiné Equatorial",
+    "República de Guinea Ecuatorial",
+    "République de Guinée équatoriale"
+  ]
+}
