@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/PapuaNewGuinea",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Oceania.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Papua New Guinea",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q691",
+  "synonym": [
+    "Independen Stet bilong Papua Niugini",
+    "Independent State of Papua New Guinea",
+    "PG",
+    "pg",
+    "PNG"
+  ]
+}

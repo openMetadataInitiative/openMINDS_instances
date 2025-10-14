@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Mozambique",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Southeastern Africa; the current form of Mozambique since 1975.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Mozambique",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1029",
+  "synonym": [
+    "MOZ",
+    "Moçambique",
+    "mz",
+    "MZ",
+    "Republic of Mozambique",
+    "República de Moçambique"
+  ]
+}
