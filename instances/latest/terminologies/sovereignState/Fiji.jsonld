@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Fiji",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Island sovereign state in Oceania.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Fiji",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q712",
+  "synonyms": [
+    "Fidźi Ganaradźja",
+    "FIJ",
+    "Fijī",
+    "Fijī Gaṇarājya",
+    "fj",
+    "FJ",
+    "FJI",
+    "Matanitu Tugalala o Viti",
+    "Republic of Fiji",
+    "Republic of the Fiji Islands",
+    "Viti"
+  ]
+}

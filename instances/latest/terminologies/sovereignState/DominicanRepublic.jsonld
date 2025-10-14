@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/DominicanRepublic",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Island sovereign state in the Caribbean Sea.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Dominican Republic",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q786",
+  "synonyms": [
+    "DO",
+    "DOM",
+    "Dominicana",
+    "DomRep",
+    "DR",
+    "RD",
+    "Republica Dominicana",
+    "República Dominicana"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Cuba",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Sovereign state situated on an island in the Caribbean Sea.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Cuba",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q241",
+  "synonyms": [
+    "cu",
+    "CU",
+    "CUB",
+    "Republic of Cuba",
+    "República de Cuba"
+  ]
+}

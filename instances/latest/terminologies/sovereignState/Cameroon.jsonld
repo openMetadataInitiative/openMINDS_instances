@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Cameroon",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Sovereign state in West-Central Africa.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Cameroon",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1009",
+  "synonyms": [
+    "CAM",
+    "CM",
+    "CMR",
+    "Republic of Cameroon",
+    "République du Cameroun"
+  ]
+}

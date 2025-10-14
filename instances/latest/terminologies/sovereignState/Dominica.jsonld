@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Dominica",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Island sovereign state in the Caribbean Sea.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Dominica",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q784",
+  "synonyms": [
+    "Commonwealth Dominica",
+    "Commonwealth of Dominica",
+    "DM",
+    "dm",
+    "DMA",
+    "DOM",
+    "Island of Dominica",
+    "The Commonwealth of Dominica",
+    "Wai'tu kubuli"
+  ]
+}

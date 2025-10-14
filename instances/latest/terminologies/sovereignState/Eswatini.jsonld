@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Eswatini",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "description": "Sovereign state in southern Africa.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Eswatini",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1050",
+  "synonyms": [
+    "eSwatini",
+    "Kingdom of Eswatini",
+    "Kingdom of Swaziland",
+    "Swaziland",
+    "SWZ",
+    "SZ",
+    "sz",
+    "Umbuso weSwatini"
+  ]
+}
