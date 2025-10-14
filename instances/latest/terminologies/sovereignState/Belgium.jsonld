@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Belgium",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in western Europe.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Belgium",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q31",
+  "synonym": [
+    "BE",
+    "be",
+    "BEL",
+    "Kingdom of Belgium",
+    "Koninkrijk België",
+    "Königreich Belgien",
+    "Royaume de Belgique"
+  ]
+}

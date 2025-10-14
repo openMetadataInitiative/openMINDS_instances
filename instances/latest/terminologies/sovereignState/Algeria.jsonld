@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Algeria",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in North Africa.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Algeria",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q262",
+  "synonym": [
+    "ALG",
+    "Djazaïr",
+    "dz",
+    "DZ",
+    "DZA",
+    "Dzayer",
+    "People's Democratic Republic of Algeria"
+  ]
+}

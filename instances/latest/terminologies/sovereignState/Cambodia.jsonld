@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Cambodia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Southeast Asia.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Cambodia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q424",
+  "synonym": [
+    "Camboya",
+    "Campuchia",
+    "Kambodzha",
+    "Kamboja",
+    "Kampuchea",
+    "kh",
+    "KH",
+    "KHM",
+    "Kingdom of Cambodia",
+    "KKH"
+  ]
+}

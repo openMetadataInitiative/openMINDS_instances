@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Bangladesh",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in South Asia.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Bangladesh",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q902",
+  "synonym": [
+    "BAN",
+    "Bangla Desh",
+    "bd",
+    "BD",
+    "BGD",
+    "Country of Bengal",
+    "Land of Bengal",
+    "People's Republic of Bangladesh"
+  ]
+}
