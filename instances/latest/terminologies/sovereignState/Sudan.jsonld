@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Sudan",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Northeast Africa.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Sudan",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1049",
+  "synonym": [
+    "al-Sudan",
+    "as-Sudan",
+    "as-Sūdān",
+    "North Sudan",
+    "Republic of Sudan",
+    "Republic of the Sudan",
+    "sd",
+    "SD",
+    "SDN",
+    "Soudan",
+    "SUD",
+    "the Sudan"
+  ]
+}

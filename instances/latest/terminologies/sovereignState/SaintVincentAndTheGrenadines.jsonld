@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/SaintVincentAndTheGrenadines",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island sovereign state in the Caribbean Sea.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Saint Vincent and the Grenadines",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q757",
+  "synonym": [
+    "Saint Vincent",
+    "Saint Vincent and the Grenadines",
+    "St Vincent",
+    "St Vincent and the Grenadines",
+    "St. Vincent",
+    "St. Vincent and the Grenadines",
+    "vc",
+    "VC",
+    "vct",
+    "VCT"
+  ]
+}

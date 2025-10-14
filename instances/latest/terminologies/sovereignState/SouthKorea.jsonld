@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/SouthKorea",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in East Asia.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "South Korea",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q884",
+  "synonym": [
+    "Choson",
+    "Daehan Minguk",
+    "Daehanminguk",
+    "Hanguk",
+    "KOR",
+    "Korea Republic",
+    "kr",
+    "KR",
+    "Rep. Korea",
+    "Republic of Korea",
+    "ROK",
+    "S. Korea",
+    "Silla",
+    "SK"
+  ]
+}

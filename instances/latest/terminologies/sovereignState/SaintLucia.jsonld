@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/SaintLucia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island sovereign state in the Caribbean Sea.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Saint Lucia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q760",
+  "synonym": [
+    "Hewanorra",
+    "Iyonola",
+    "LC",
+    "lc",
+    "lca",
+    "LCA",
+    "Saint Lucia",
+    "St Lucia",
+    "St. Lucia"
+  ]
+}
