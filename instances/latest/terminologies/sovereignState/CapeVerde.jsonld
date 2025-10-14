@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/CapeVerde",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state comprising ten islands off the Western coast of Africa.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Cape Verde",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1011",
+  "synonym": [
+    "Cabo Verde",
+    "Cape Verde Islands",
+    "CPV",
+    "cv",
+    "CV",
+    "Republic of Cabo Verde",
+    "Republic of Cape Verde",
+    "República de Cabo Verde"
+  ]
+}

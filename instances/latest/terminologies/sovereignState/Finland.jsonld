@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Finland",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Northern Europe.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Finland",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q33",
+  "synonym": [
+    "FI",
+    "fi",
+    "FIN",
+    "Finland",
+    "Finnia",
+    "Land of Thousand Lakes",
+    "Republic of Finland",
+    "Republiken Finland",
+    "Suomen tasavalta",
+    "Suomi"
+  ]
+}

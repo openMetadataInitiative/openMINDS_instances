@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Chile",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in South America.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Chile",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q298",
+  "synonym": [
+    "CHI",
+    "Chile",
+    "CHL",
+    "cl",
+    "CL",
+    "Republic of Chile",
+    "República de Chile"
+  ]
+}

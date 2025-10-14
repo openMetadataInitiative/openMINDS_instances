@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Ethiopia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in the Horn of Africa.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Ethiopia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q115",
+  "synonym": [
+    "et",
+    "ET",
+    "ETH",
+    "Federaalawaa Dimokraatawaa Repabliikii Itoophiyaa",
+    "Federal Democratic Republic of Ethiopia",
+    "Toophphiya Federaalle Dimokkiraase Ripaabilike"
+  ]
+}

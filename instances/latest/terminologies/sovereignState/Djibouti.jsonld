@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Djibouti",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in Africa.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Djibouti",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q977",
+  "synonym": [
+    "DJ",
+    "dj",
+    "DJI",
+    "Gabuuti",
+    "Jabuuti",
+    "Jībūtī",
+    "Republic of Djibouti",
+    "République de Djibouti"
+  ]
+}
