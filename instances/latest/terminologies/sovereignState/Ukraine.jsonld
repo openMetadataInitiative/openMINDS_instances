@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Ukraine",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Eastern Europe.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Ukraine",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q212",
+  "synonym": [
+    "UA",
+    "UKR",
+    "Ukr.",
+    "Ukraina",
+    "Ukrainia",
+    "Ukraïna"
+  ]
+}
