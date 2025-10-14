@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/IvoryCoast",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in West Africa.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Ivory Coast",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1008",
+  "synonym": [
+    "CI",
+    "ci",
+    "CIV",
+    "Cote d'Ivoire",
+    "Cote d'lvoire",
+    "Cote Ivoire",
+    "Cote-d'Ivoire",
+    "Côte d'Ivoire",
+    "Côte d’Ivoire",
+    "Côte-d'Ivoire",
+    "Republic of Cote d'Ivoire",
+    "Republic of Côte d'Ivoire",
+    "Republic of Ivory Coast",
+    "Republic of the Ivory Coast",
+    "République de Côte d'Ivoire",
+    "The Ivory Coast"
+  ]
+}

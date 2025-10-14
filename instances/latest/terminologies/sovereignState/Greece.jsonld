@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Greece",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Southeast Europe.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Greece",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q41",
+  "synonym": [
+    "el",
+    "Ellada",
+    "GR",
+    "gr",
+    "GRC",
+    "GRE",
+    "Greece",
+    "Greek Republic",
+    "Hellas",
+    "Hellenic Republic"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Jamaica",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island state in the Caribbean Sea.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Jamaica",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q766",
+  "synonym": [
+    "Commonwealth of Jamaica",
+    "JA",
+    "JAM",
+    "Jamaica",
+    "JM",
+    "Jumieka",
+    "Xaymaca",
+    "Yamaye"
+  ]
+}

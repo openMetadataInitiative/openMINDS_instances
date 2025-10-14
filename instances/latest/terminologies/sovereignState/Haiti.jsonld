@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Haiti",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in the Caribbean Sea.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Haiti",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q790",
+  "synonym": [
+    "Ayiti",
+    "HAI",
+    "Haitian Republic",
+    "Hayti",
+    "ht",
+    "HT",
+    "HTI",
+    "Republic of Haiti"
+  ]
+}
