@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/NewZealand",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island country in the southwest Pacific Ocean.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "New Zealand",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q664",
+  "synonym": [
+    "Aotearoa",
+    "Aotearoa New Zealand",
+    "Dominion of New Zealand",
+    "New Zealand",
+    "New Zeeland",
+    "Niu Tīreni",
+    "Nova Zelandia",
+    "NZ",
+    "nz",
+    "NZL",
+    "Zeelandia Nova",
+    "Zelandia Nova"
+  ]
+}

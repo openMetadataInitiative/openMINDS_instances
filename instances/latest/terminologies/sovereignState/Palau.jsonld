@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Palau",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island sovereign state in Oceania.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Palau",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q695",
+  "synonym": [
+    "Belau",
+    "Peeloo",
+    "Pelew",
+    "Pelew islands",
+    "Pellew",
+    "PLW",
+    "pw",
+    "PW",
+    "Republic of Belau",
+    "Republic of Palau"
+  ]
+}
