@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/KingdomOfTheNetherlands",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Transcontinental sovereign state and constitutional monarchy.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Kingdom of the Netherlands",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q29999",
+  "synonym": [
+    "Koninkrijk der Nederlanden",
+    "NED",
+    "Nederlanden",
+    "Netherlands",
+    "NL",
+    "NLD",
+    "the Netherlands"
+  ]
+}

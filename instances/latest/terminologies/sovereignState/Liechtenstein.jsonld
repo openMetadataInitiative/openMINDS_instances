@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Liechtenstein",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Central Europe.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Liechtenstein",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q347",
+  "synonym": [
+    "FL",
+    "Fürstentum Liechtenstein",
+    "li",
+    "LI",
+    "LIE",
+    "Liechtenstein",
+    "Principality of Liechtenstein"
+  ]
+}
