@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Gabon",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country on the Atlantic coast of Central Africa.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Gabon",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1000",
+  "synonym": [
+    "ga",
+    "GA",
+    "GAB",
+    "Gabonese Republic",
+    "Republique Gabonaise",
+    "République gabonaise",
+    "République Gabonaise"
+  ]
+}

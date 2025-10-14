@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Iran",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Western Asia.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Iran",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q794",
+  "synonym": [
+    "ir",
+    "IR",
+    "IRI",
+    "IRN",
+    "Islamic Rep. Iran",
+    "Islamic Republic of Iran",
+    "Persia"
+  ]
+}

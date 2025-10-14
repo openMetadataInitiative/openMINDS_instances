@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Georgia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in the Caucasus region of Europe and Asia.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Georgia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q230",
+  "synonym": [
+    "GE",
+    "GEO",
+    "Republic of Georgia"
+  ]
+}
