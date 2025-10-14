@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Singapore",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign island country and city-state in maritime Southeast Asia.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Singapore",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q334",
+  "synonym": [
+    "Garden City",
+    "Lion City",
+    "Republic of Singapore",
+    "Republik Singapura",
+    "S'pore",
+    "sg",
+    "SG",
+    "SGP",
+    "SIN",
+    "Singapore City"
+  ]
+}
