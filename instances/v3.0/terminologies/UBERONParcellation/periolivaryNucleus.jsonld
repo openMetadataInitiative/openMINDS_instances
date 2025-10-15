@@ -4,20 +4,16 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/periolivaryNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Periolivary nucleus' is a nucleus of superior olivary complex.",
-  "description": "A nucleus of the superior olivary complex that surrounds the primary superior olivary nuclei",
+  "definition": "Is a nucleus of superior olivary complex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002971)]",
+  "description": "A nucleus of the superior olivary complex that surrounds the primary superior olivary nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002971)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108729",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002971#periolivary-nucleus-1",
   "name": "periolivary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002971",
   "synonym": [
     "nuclei periolivares",
-    "nucleus periolivaris",
     "peri-olivary nuclei",
-    "peri-olivary nucleus",
-    "periolivary nuclei",
-    "periolivary region",
-    "POI",
-    "superior olivary complex periolivary region"
+    "peri-olivary nucleus"
   ]
 }
+
