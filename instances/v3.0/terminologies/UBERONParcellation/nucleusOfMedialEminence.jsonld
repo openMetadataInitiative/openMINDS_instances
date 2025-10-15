@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMedialEminence",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Nucleus of medial eminence' is a nucleus of brain.",
-  "description": "",
+  "definition": "Is a nucleus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002997)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107758",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002997#nucleus-of-medial-eminence-1",
   "name": "nucleus of medial eminence",
@@ -16,3 +16,4 @@
     "nucleus of eminentia teres"
   ]
 }
+
