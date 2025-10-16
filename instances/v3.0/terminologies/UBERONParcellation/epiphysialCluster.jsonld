@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/epiphysialCluster",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the pineal body. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2007004)]",
+  "description": "Early-developing neuronal cluster of the epiphysis. By 24 hpf the pioneer axon of the dorsoventral diencephalic tract (DVDT) has arisen from the ec and grown ventrally. As this axon encounters axons of the TPOC, it makes a near-90 rostral turn and grows rostrally among axons of the TPOC growing in the opposite direction. Ross et al., 1992. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2007004)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2007004#epiphysial-cluster",
+  "name": "epiphysial cluster",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2007004",
+  "synonym": [
+    "ec"
+  ]
+}
+
