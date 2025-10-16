@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/perforantPath",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a tract of brain. Is part of the white matter of telencephalon and the forebrain ipsilateral fiber tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034931) ('is_a' and 'relationship')]",
+  "description": "A pathway of fibers originating in the lateral part of the entorhinal area, perforating the subiculum of the hippocampus, and running into the stratum moleculare of the hippocampus, where these fibers synapse with others that go to the dentate gyrus. (Dorland, 28th ed) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034931)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034931#perforant-path",
+  "name": "perforant path",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034931",
+  "synonym": null
+}
+

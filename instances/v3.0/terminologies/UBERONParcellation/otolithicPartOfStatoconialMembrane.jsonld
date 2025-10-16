@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/otolithicPartOfStatoconialMembrane",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the statoconial membrane. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002519)]",
+  "description": "The layer of the statoconial membrane that is composed of otoliths. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002519)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002519#otolithic-part-of-statoconial-membrane",
+  "name": "otolithic part of statoconial membrane",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002519",
+  "synonym": [
+    "otolith layer of statoconial membrane"
+  ]
+}
+
