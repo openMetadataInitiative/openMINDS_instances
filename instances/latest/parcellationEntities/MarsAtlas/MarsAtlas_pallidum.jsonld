@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_pallidum",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_pallidum"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_subcortical-extension_pallidum"
+    }
+  ],
+  "lookupLabel": "MarsAtlas_pallidum",
+  "name": "pallidum",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": {
+    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pallidum"
+  }
+}
+
