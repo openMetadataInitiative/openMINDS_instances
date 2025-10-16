@@ -4,11 +4,17 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusEpithelium",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Choroid plexus epithelium' is part of the choroid plexus.",
-  "description": "The epithelial component of the choroid plexus. Consists of cuboidal epithelial cells surrounding a core of capillaries and loose connective tissue.",
+  "definition": "Is part of the choroid plexus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003911)]",
+  "description": "The epithelial component of the choroid plexus. Consists of cuboidal epithelial cells surrounding a core of capillaries and loose connective tissue. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003911)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0726675",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003911#choroid-plexus-epithelium",
   "name": "choroid plexus epithelium",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003911",
-  "synonym": null
+  "synonym": [
+    "choroid plexus epithelial tissue",
+    "epithelial tissue of chorioid plexus of cerebral hemisphere",
+    "epithelial tissue of choroid plexus",
+    "epithelium of choroid plexus"
+  ]
 }
+
