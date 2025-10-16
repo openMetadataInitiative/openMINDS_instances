@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ophthalmicPlexus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011194)]",
+  "description": "An autonomic plexus, entering the orbit in company with the ophthalmic artery, derived from the internal carotid plexus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011194)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011194#ophthalmic-plexus",
+  "name": "ophthalmic plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011194",
+  "synonym": [
+    "ophthalmic nerve plexus",
+    "opthalmic plexus",
+    "plexus ophthalmicus"
+  ]
+}
+

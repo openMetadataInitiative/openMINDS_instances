@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/occipitofrontalFasciculus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebral nerve fasciculus. Is part of the white matter of telencephalon and the forebrain ipsilateral fiber tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034754) ('is_a' and 'relationship')]",
+  "description": "The occipitofrontal fasciculus passes backward from the frontal lobe, along the lateral border of the caudate nucleus, and on the medial aspect of the corona radiata; its fibers radiate in a fan-like manner and pass into the occipital and temporal lobes lateral to the posterior and inferior cornua. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034754)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034754#occipitofrontal-fasciculus",
+  "name": "occipitofrontal fasciculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034754",
+  "synonym": null
+}
+

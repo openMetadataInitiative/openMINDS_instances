@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/neuralDecussation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a neuron projection bundle and central nervous system cell part cluster. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007418) ('is_a' and 'relationship')]",
+  "description": "Nerve fibers crossing the midline of the neuraxis relative to their point of origin, on a course to from one level of the nervous system to another. (CUMBO, Heimer, L. The Human Brain, 2nd ed., 1995, pg 6) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007418)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007418#neural-decussation",
+  "name": "neural decussation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007418",
+  "synonym": [
+    "decussation of neuraxis",
+    "neuraxis chiasm",
+    "neuraxis chiasma",
+    "neuraxis decussation"
+  ]
+}
+
