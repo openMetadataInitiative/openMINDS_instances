@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SupranationalUnion/EuropeanEconomicArea",
+  "@type": "https://openminds.om-i.org/types/SupranationalUnion",
+  "definition": "Area of the European Union's internal market and some of EFTA states established in 1994.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "European Economic Area",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q8932",
+  "synonym": [
+    "EEA"
+  ]
+}

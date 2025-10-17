@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SupranationalUnion/Covax",
+  "@type": "https://openminds.om-i.org/types/SupranationalUnion",
+  "definition": "Global vaccine alliance regarding the COVID-19 pandemic.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "COVAX",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q99360983",
+  "synonym": [
+    "COVAX Facility",
+    "COVAX Global Vaccines Facility",
+    "COVAX initiative",
+    "COVAX programma"
+  ]
+}

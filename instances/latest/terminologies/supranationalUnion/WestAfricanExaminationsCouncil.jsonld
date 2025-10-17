@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SupranationalUnion/WestAfricanExaminationsCouncil",
+  "@type": "https://openminds.om-i.org/types/SupranationalUnion",
+  "definition": "Examination board.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "West African Examinations Council",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q2993835",
+  "synonym": [
+    "WAEC",
+    "West African Examination Council",
+    "West African Exams Council"
+  ]
+}
