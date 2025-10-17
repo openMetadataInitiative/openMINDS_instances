@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalDecussation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neural decussation. Is part of the corticospinal tract and the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002755) ('is_a' and 'relationship')]",
+  "description": "Part of medulla comprising a white matter structure containing nerve fibers of the pyramidal tract crossing from one side of the brain to the other (MM) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002755)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002755#pyramidal-decussation-1",
+  "name": "pyramidal decussation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002755",
+  "synonym": [
+    "corticospinal decussation",
+    "decussatio pyramidum",
+    "decussatio pyramidum medullae oblongatae",
+    "decussation of corticospinal tract",
+    "decussation of pyramidal tract fibers",
+    "decussation of pyramids",
+    "decussation of pyramids of medulla",
+    "decussation of the pyramidal tract",
+    "motor decussation",
+    "motor decussation of medulla",
+    "pyramidal decussation (pourfour du petit)",
+    "pyramidal tract decussation"
+  ]
+}
+
