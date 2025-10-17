@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/SupranationalUnion/ArabMaghrebUnion",
-  "@type": "https://openminds.om-i.org/types/SupranationalUnion",
+  "@id": "https://openminds.om-i.org/instances/SupranationalBody/ArabMaghrebUnion",
+  "@type": "https://openminds.om-i.org/types/SupranationalBody",
   "definition": "Trade agreement among Arab countries.",
   "description": null,
   "interlexIdentifier": null,

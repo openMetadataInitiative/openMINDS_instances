@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/SupranationalUnion/EuropeanEconomicArea",
-  "@type": "https://openminds.om-i.org/types/SupranationalUnion",
+  "@id": "https://openminds.om-i.org/instances/SupranationalBody/EuropeanEconomicArea",
+  "@type": "https://openminds.om-i.org/types/SupranationalBody",
   "definition": "Area of the European Union's internal market and some of EFTA states established in 1994.",
   "description": null,
   "interlexIdentifier": null,

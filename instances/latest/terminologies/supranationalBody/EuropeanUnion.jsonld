@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/SupranationalUnion/EuropeanUnion",
-  "@type": "https://openminds.om-i.org/types/SupranationalUnion",
+  "@id": "https://openminds.om-i.org/instances/SupranationalBody/EuropeanUnion",
+  "@type": "https://openminds.om-i.org/types/SupranationalBody",
   "definition": "Political and economic union of 27 European states.",
   "description": null,
   "interlexIdentifier": null,

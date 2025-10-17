@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/SupranationalUnion/TheMahdiServantsUnion",
-  "@type": "https://openminds.om-i.org/types/SupranationalUnion",
+  "@id": "https://openminds.om-i.org/instances/SupranationalBody/TheMahdiServantsUnion",
+  "@type": "https://openminds.om-i.org/types/SupranationalBody",
   "definition": "International non-governmental organization.",
   "description": null,
   "interlexIdentifier": null,
