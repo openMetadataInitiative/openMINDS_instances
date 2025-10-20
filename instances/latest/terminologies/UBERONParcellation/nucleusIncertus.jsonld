@@ -4,22 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusIncertus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Nucleus incertus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.",
-  "description": "Distinct cell group in caudoventral regions of the pontine periventricular gray, adjacent to the ventromedial border of the caudal dorsal tegmental nucleus.",
+  "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035973) ('is_a' and 'relationship')]",
+  "description": "Distinct cell group in caudoventral regions of the pontine periventricular gray, adjacent to the ventromedial border of the caudal dorsal tegmental nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035973)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107746",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035973#nucleus-incertus",
   "name": "nucleus incertus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035973",
-  "synonym": [
-    "Central Gray pars 0",
-    "Central Gray pars beta (The rat brain in stereotaxic coordinates [electronic resource] / George Paxinos",
-    "Central Gray part alpha",
-    "CG0",
-    "CGalpha",
-    "CGbeta",
-    "charles Watson. - 5th ed.)",
-    "Inc",
-    "NI",
-    "nucleus incertus (Streeter)"
-  ]
+  "synonym": null
 }
+
