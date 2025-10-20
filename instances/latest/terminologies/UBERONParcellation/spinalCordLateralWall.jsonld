@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/spinalCordLateralWall",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the spinal cord. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009582)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009582#spinal-cord-lateral-wall",
+  "name": "spinal cord lateral wall",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009582",
+  "synonym": [
+    "lateral wall spinal cord"
+  ]
+}
+
