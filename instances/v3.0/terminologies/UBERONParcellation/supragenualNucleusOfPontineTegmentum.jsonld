@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/supragenualNucleusOfPontineTegmentum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022424) ('is_a' and 'relationship')]",
+  "description": "A group of neurons embedded in the pontine central gray of the pontine tegmentum. Located dorsal to the internal genu of the facial nerve, it is found in the human ( Paxinos-2012 ), the macaque ( Paxinos-2009a ), the rat ( Swanson-2004 ), and the mouse ( Franklin-2008 ). Functionally it is part of the dorsal pontine gray of the subcortical motor system ( Swanson-2004 ) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022424)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022424#supragenual-nucleus-of-pontine-tegmentum",
+  "name": "supragenual nucleus of pontine tegmentum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022424",
+  "synonym": [
+    "supragenual nucleus"
+  ]
+}
+
