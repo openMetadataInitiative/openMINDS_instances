@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/PeoplesRepublicOfChina",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in East Asia.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "People's Republic of China",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q148",
+  "synonym": [
+    "China",
+    "China PR",
+    "CHN",
+    "CN",
+    "cn",
+    "Communist China",
+    "P.R.C.",
+    "PR China",
+    "PRC",
+    "Red China",
+    "RPC",
+    "The PRC",
+    "Zhōngguó"
+  ]
+}
