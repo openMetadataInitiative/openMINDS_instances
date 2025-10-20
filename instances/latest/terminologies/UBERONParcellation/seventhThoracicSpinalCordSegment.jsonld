@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/seventhThoracicSpinalCordSegment",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006455)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006455#seventh-thoracic-spinal-cord-segment-1",
+  "name": "seventh thoracic spinal cord segment",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006455",
+  "synonym": [
+    "t7 segment",
+    "T7 spinal cord segment"
+  ]
+}
+
