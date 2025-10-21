@@ -5,14 +5,20 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_inferiorTemporalGyrus",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "inferior temporal"
+  ],
+  "definition": "The rostral boundary of the inferior temporal gyrus was the rostral extent of the inferior temporal sulcus, and the caudal boundary was designated as the lateral occipital cortex on the cortical surface. The occipitotemporal sulcus was the medial boundary, and the inferior temporal sulcus was the lateral boundary. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_lateralAspect"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lateralTemporalLobe"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_inferiorTemporalGyrus"
+    }
+  ],
   "lookupLabel": "DKA_inferiorTemporalGyrus",
   "name": "inferior temporal gyrus",
   "ontologyIdentifier": null,

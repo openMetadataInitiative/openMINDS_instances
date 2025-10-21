@@ -2,10 +2,12 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_lateralAspect",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lateralTemporalLobe",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
+  "alternateName": [
+    "temporal lobe - lateral aspect"
+  ],
   "definition": null,
   "hasParent": [
     {
@@ -14,7 +16,7 @@
   ],
   "hasVersion": null,
   "lookupLabel": "DKA_temporalLobe_lateralAspect",
-  "name": "temporal lobe - lateral aspect",
+  "name": "lateral temporal lobe",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
