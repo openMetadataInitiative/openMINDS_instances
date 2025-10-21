@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/SupranationalBody/Covax",
+  "@id": "https://openminds.om-i.org/instances/SupranationalBody/COVAX",
   "@type": "https://openminds.om-i.org/types/SupranationalBody",
   "definition": "Global vaccine alliance regarding the COVID-19 pandemic.",
   "description": null,
