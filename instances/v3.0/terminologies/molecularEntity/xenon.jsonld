@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.om-i.org/props/"
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.om-i.org/instances/molecularEntity/xenon",
-  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/xenon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
   "definition": "Xenon (Xe) is a chemical element with atomic number 54 and belongs to the noble gases. [paraphrased from Wikipedia (https://en.wikipedia.org/wiki/Xenon)]",
   "description": "Xenon is a chemical element; it has symbol Xe and atomic number 54. It is a dense, colorless, odorless noble gas found in Earth's atmosphere in trace amounts. Although generally unreactive, it can undergo a few chemical reactions such as the formation of xenon hexafluoroplatinate, the first noble gas compound to be synthesized. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Xenon)]",
   "interlexIdentifier": null,
