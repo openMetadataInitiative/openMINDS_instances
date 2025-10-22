@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Switzerland",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Central Europe.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Switzerland",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q39",
+  "synonym": [
+    "CH",
+    "CHE",
+    "Confederazione Svizzera",
+    "Confederaziun svizra",
+    "Confoederatio Helvetica",
+    "Confédération suisse",
+    "Schweizerische Eidgenossenschaft",
+    "SUI",
+    "Swiss",
+    "Swiss Confederation"
+  ]
+}

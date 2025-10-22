@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/SouthAfrica",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in southern Africa.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "South Africa",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q258",
+  "synonym": [
+    "Aforika Borwa",
+    "Afrika Borwa",
+    "Afrika-Dzonga",
+    "Afurika Tshipembe",
+    "iNingizimu Afrika",
+    "iSewula Afrika",
+    "R.S.A.",
+    "Republic of South Africa",
+    "RSA",
+    "SA",
+    "South Africa",
+    "Suid-Afrika",
+    "uMzantsi Afrika",
+    "za",
+    "ZA",
+    "zaf",
+    "ZAF"
+  ]
+}

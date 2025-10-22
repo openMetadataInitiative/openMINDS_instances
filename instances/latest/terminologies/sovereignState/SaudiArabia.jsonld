@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/SaudiArabia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in West Asia.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Saudi Arabia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q851",
+  "synonym": [
+    "Arab Saudi",
+    "Arabia",
+    "Kerajaan Arab Saudi",
+    "Kingdom of Saudi Arabia",
+    "KSA",
+    "sa",
+    "SA",
+    "SAU",
+    "Saudi",
+    "Saudi Arab Kingdom",
+    "Saudi Arabia",
+    "Saudi Arabian Kingdom",
+    "Saudi Kingdom of Arabia",
+    "Saudia"
+  ]
+}

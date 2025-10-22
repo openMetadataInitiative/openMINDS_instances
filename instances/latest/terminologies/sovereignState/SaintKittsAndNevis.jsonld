@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/SaintKittsAndNevis",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island sovereign state in the Caribbean Sea.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Saint Kitts and Nevis",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q763",
+  "synonym": [
+    "Federation of Saint Christopher and Nevis",
+    "Federation of Saint Kitts and Nevis",
+    "Kitts & Nevis",
+    "Kitts and Nevis",
+    "KN",
+    "KNA",
+    "Saint Christopher and Nevis",
+    "SKN",
+    "St Kitts & Nevis",
+    "St Kitts and Nevis",
+    "St. Kitts & Nevis",
+    "St. Kitts and Nevis"
+  ]
+}
