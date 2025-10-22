@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Grenada",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island sovereign state in the Caribbean Sea.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Grenada",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q769",
+  "synonym": [
+    "gd",
+    "GD",
+    "GRD",
+    "GRN",
+    "State of Grenada"
+  ]
+}
