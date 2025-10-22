@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/telaChoroideaOfMidbrainCerebralAqueduct",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a tela choroidea. Is part of the midbrain cerebral aqueduct. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005286) ('is_a' and 'relationship')]",
+  "description": "Tela choroidea that lines the tectal ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005286)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005286#tela-choroidea-of-midbrain-cerebral-aqueduct",
+  "name": "tela choroidea of midbrain cerebral aqueduct",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005286",
+  "synonym": [
+    "tela chorioidea tectal ventricle",
+    "tela choroidea of cerebral aqueduct",
+    "tela choroidea tectal ventricle"
+  ]
+}
+
