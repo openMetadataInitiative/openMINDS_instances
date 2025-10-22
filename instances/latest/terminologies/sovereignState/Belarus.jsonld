@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Belarus",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Eastern Europe.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Belarus",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q184",
+  "synonym": [
+    "Belorussia",
+    "Bielaruś",
+    "Bielorussia",
+    "BLR",
+    "BY",
+    "by",
+    "Byeloruss",
+    "Byelorussia",
+    "Republic of Belarus",
+    "Respublika Belarus'",
+    "Respublika Bielaruś",
+    "White Russia",
+    "White Ruthenia"
+  ]
+}
