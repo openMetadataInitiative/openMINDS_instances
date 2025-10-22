@@ -11,6 +11,9 @@ permissions:
 
 jobs:
   sync-instances:
+    # Restrict job to only run in the openMINDS_instances repository
+    if: github.repository == 'openMetadataInitiative/openMINDS_instances'
+    
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
