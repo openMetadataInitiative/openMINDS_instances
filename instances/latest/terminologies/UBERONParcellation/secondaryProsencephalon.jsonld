@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/secondaryProsencephalon",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036218) ('is_a' and 'relationship')]",
+  "description": "The most anterior region of the forebrain including both the telencephalon and the hypothalamus in the prosomeric model. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036218)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036218#secondary-prosencephalon",
+  "name": "secondary prosencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036218",
+  "synonym": null
+}
+

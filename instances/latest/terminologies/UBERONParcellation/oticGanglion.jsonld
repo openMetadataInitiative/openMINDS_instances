@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/oticGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a glossopharyngeal ganglion and parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003963)]",
+  "description": "The ganglion that supplies nerve fibers to the parotid gland. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003963)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003963#otic-ganglion",
+  "name": "otic ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003963",
+  "synonym": [
+    "Arnold's ganglion",
+    "otic parasympathetic ganglion"
+  ]
+}
+

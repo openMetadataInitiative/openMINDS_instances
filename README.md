@@ -19,6 +19,8 @@ For browsing through the metadata instances you can also directly jump to the :a
 The openMINDS metadata framework is an open-source project and community contributions are highly appreciated.  
 If you want to contribute please follow our :arrow_right: [**contribution guidelines**][contribution-url].
 
+Explore the coverage statistics for the openMINDS instance library :arrow_right: [**openMINDS instance library coverage**][instance-library-coverage]
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contribution-url]: https://openminds-documentation.readthedocs.io/en/latest/shared/contribution_guidelines.html
@@ -26,3 +28,4 @@ If you want to contribute please follow our :arrow_right: [**contribution guidel
 [docu-url]: https://openminds-documentation.readthedocs.io
 [libraries-url]: https://openminds-documentation.readthedocs.io/en/latest/instance_libraries.html
 [license-url]: https://img.shields.io/github/license/openMetadataInitiative/openMINDS_instances
+[instance-library-coverage]: https://openmetadatainitiative.github.io/openMINDS_instances/

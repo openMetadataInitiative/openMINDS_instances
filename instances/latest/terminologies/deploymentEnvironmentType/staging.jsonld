@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deploymentEnvironmentType/staging",
+  "@type": "https://openminds.om-i.org/types/DeploymentEnvironmentType",
+  "definition": "An isolated environment that replicates the production environment for final integration and validation; often used for release candidate testing.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "staging",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "staging environment"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.espina.segmentation.seg",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "This segmentation file format is a compressed archive providing the configuration information for a performed image segmentation.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".seg"
+  ],
+  "name": "application/vnd.espina.segmentation.seg",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "EspINA Interactive Neuron Analyzer Segmentation file",
+    "EsPINA Segmentation file"
+  ]
+}

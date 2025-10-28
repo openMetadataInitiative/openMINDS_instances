@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryXINerveSpinalComponent",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a spinal nerve. Is part of the accessory XI nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009674) ('is_a' and 'relationship')]",
+  "description": "The spinal root of accessory nerve (or part) is firm in texture, and its fibers arise from the motor cells in the lateral part of the anterior column of the gray substance of the medulla spinalis as low as the fifth cervical nerve. Passing through the lateral funiculus of the medulla spinalis, they emerge on its surface and unite to form a single trunk, which ascends between the ligamentum denticulatum and the posterior roots of the spinal nerves; enters the skull through the foramen magnum, and is then directed to the jugular foramen, through which it passes, lying in the same sheath of dura mater as the vagus, but separated from it by a fold of the arachnoid. In the jugular foramen, it receives one or two filaments from the cranial part of the nerve, or else joins it for a short distance and then separates from it again. As its exit from the jugular foramen, it runs backward in front of the internal jugular vein in 66.6 per cent. of cases, and behind in it 33.3 per cent. The nerve then descends obliquely behind the Digastricus and Stylohyoideus to the upper part of the Sternocleidomastoideus; it pierces this muscle, and courses obliquely across the posterior triangle of the neck, to end in the deep surface of the Trapezius. As it traverses the Sternocleidomastoideus it gives several filaments to the muscle, and joins with branches from the second cervical nerve. In the posterior triangle it unites with the second and third cervical nerves, while beneath the Trapezius it forms a plexus with the third and fourth cervical nerves, and from this plexus fibers are distributed to the muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009674)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009674#accessory-xi-nerve-spinal-component",
+  "name": "accessory XI nerve spinal component",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009674",
+  "synonym": [
+    "spinal part of the accessory nerve"
+  ]
+}
+

@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/highFieldStructuralMagneticResonanceImaging",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A magnetic resonance imaging technique that typically uses a magnetic field strength of 3 Tesla (or higher but below 7 Tesla) to generate images with static information of the scanned body.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "high-field structural magnetic resonance imaging",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "HF sMRI",
+    "HF structural MRI",
+    "HF structural magnetic resonance imaging",
+    "high-field structural MRI",
+    "HF MRI",
+    "high-field MRI",
+    "HF magnetic resonance imaging",
+    "high-field magnetic resonance imaging"
+  ]
+}
+

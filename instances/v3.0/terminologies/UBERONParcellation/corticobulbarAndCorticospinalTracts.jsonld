@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corticobulbarAndCorticospinalTracts",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an axon tract. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036224) ('is_a' and 'relationship')]",
+  "description": "The corticobulbar and corticospinal tracts combined. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036224)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036224#corticobulbar-and-corticospinal-tracts",
+  "name": "corticobulbar and corticospinal tracts",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036224",
+  "synonym": null
+}
+

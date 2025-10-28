@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorLateralOccipitalCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the lateral occipital cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022368) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022368#superior-lateral-occipital-cortex",
+  "name": "superior lateral occipital cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022368",
+  "synonym": [
+    "lateral occipital cortex, superior division"
+  ]
+}
+

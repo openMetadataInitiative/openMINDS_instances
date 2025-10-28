@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rightHemisphereOfCerebellum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellar hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014890)]",
+  "description": "A cerebellar hemisphere that is in the right side of a cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014890)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014890#right-hemisphere-of-cerebellum",
+  "name": "right hemisphere of cerebellum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014890",
+  "synonym": null
+}
+

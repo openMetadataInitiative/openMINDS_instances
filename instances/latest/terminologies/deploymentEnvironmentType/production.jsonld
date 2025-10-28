@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deploymentEnvironmentType/production",
+  "@type": "https://openminds.om-i.org/types/DeploymentEnvironmentType",
+  "definition": "The live environment where an application is fully deployed and accessed by end users; it requires high stability, performance, and monitoring.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "production",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "prod",
+    "production environment"
+  ]
+}

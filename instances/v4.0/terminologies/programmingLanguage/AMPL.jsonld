@@ -2,15 +2,16 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/types/programmingLanguage/AMPL",
+  "@id": "https://openminds.om-i.org/instances/programmingLanguage/AMPL",
   "@type": "https://openminds.om-i.org/types/ProgrammingLanguage",
   "name": "AMPL",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "definition": null,
   "description": null,
-  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q295250",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q295250",
   "synonym": [
     "A Mathematical Programming Language"
   ]
 }
+

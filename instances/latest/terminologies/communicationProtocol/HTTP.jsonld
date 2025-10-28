@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/communicationProtocol/HTTP",
+  "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
+  "definition": "A network communication protocol used for exchanging hypermedia documents, primarily between web servers and browsers.",
+  "description": "For more information please go to the [HTTP Documentation](https://httpwg.org/specs/).",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "HTTP",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q8777",
+  "synonym": [
+    "Hypertext Transfer Protocol"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/epitheliumOfUtricle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a vestibular epithelium. Is part of the macula of utricle of membranous labyrinth. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003241) ('is_a' and 'relationship')]",
+  "description": "An epithelium that is part of a utricle of membranous labyrinth. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003241)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003241#epithelium-of-utricle",
+  "name": "epithelium of utricle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003241",
+  "synonym": [
+    "epithelial tissue of membranous labyrinth utricle",
+    "epithelial tissue of utricle",
+    "epithelial tissue of utricle of membranous labyrinth",
+    "epithelial tissue of utriculus (labyrinthus vestibularis)",
+    "epithelium of membranous labyrinth utricle",
+    "epithelium of utricle of membranous labyrinth",
+    "epithelium of utriculus (labyrinthus vestibularis)",
+    "membranous labyrinth utricle epithelial tissue",
+    "membranous labyrinth utricle epithelium",
+    "utricle epithelial tissue",
+    "utricle epithelium",
+    "utricle of membranous labyrinth epithelial tissue",
+    "utricle of membranous labyrinth epithelium",
+    "utriculus (labyrinthus vestibularis) epithelial tissue",
+    "utriculus (labyrinthus vestibularis) epithelium"
+  ]
+}
+

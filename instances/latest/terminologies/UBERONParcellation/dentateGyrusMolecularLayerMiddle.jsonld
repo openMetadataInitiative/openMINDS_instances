@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusMolecularLayerMiddle",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a layer of dentate gyrus. Is part of the dentate gyrus molecular layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022346) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022346#dentate-gyrus-molecular-layer-middle",
+  "name": "dentate gyrus molecular layer middle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022346",
+  "synonym": null
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/secondarySomatosensoryCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a somatosensory cortex. Is part of the operculum of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008934) ('is_a' and 'relationship')]",
+  "description": "The area of the upper bank of the lateral sulcus that is involved in somatic sensation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008934)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008934#secondary-somatosensory-cortex",
+  "name": "secondary somatosensory cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008934",
+  "synonym": [
+    "somatosensory area 2"
+  ]
+}
+

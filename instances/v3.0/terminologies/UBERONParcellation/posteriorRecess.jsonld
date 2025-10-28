@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorRecess",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005338) ('is_a' and 'relationship')]",
+  "description": "Posterior protrusion of the third ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005338)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2005338#posterior-recess",
+  "name": "posterior recess",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2005338",
+  "synonym": [
+    "posterior recess of diencephalic ventricle"
+  ]
+}
+

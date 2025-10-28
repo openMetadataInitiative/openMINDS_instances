@@ -4,11 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellumHemisphericLobuleX",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": null,
-  "description": "'Cerebellum hemispheric lobule X' is a cerebellum hemisphere lobule and flocculonodular lobe, hemisphere portion.",
+  "definition": "Is a cerebellum hemisphere lobule and flocculonodular lobe, hemisphere portion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024009)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104945",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0024009#cerebellum-hemispheric-lobule-x",
   "name": "cerebellum hemispheric lobule X",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024009",
-  "synonym": null
+  "synonym": [
+    "hemispheric lobule X"
+  ]
 }
+

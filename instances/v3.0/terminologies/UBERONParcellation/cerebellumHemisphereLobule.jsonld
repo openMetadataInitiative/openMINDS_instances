@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphereLobule",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellum lobule. Is part of the cerebellar hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004003) ('is_a' and 'relationship')]",
+  "description": "The region of a cerebellar lobule that resides in either of the lateral sections of the cerebellum outside the vermis; in mammals, the vermis portion of the cerebellum has a foliation pattern along the AP axis that is distinct from the lateral cerebellar hemispheres. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004003)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004003#cerebellum-hemisphere-lobule",
+  "name": "cerebellum hemisphere lobule",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004003",
+  "synonym": [
+    "cerebellar hemisphere lobule",
+    "lobule of cerebellar hemisphere",
+    "lobule of hemisphere of cerebellum"
+  ]
+}
+

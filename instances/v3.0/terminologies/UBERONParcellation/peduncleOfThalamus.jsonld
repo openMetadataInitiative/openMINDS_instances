@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/peduncleOfThalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a peduncle of diencephalon. Is part of the dorsal plus ventral thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022236) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022236#peduncle-of-thalamus",
+  "name": "peduncle of thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022236",
+  "synonym": [
+    "thalamic peduncle"
+  ]
+}
+

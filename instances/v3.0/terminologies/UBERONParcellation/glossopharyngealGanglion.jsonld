@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001701)]",
+  "description": "The group of neuron cell bodies associated with the ninth cranial nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001701)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001701#glossopharyngeal-ganglion",
+  "name": "glossopharyngeal ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001701",
+  "synonym": [
+    "ganglion of glossopharyngeal nerve",
+    "ganglion of glosspharyngeal nerve",
+    "glossopharyngeal IX ganglion"
+  ]
+}
+

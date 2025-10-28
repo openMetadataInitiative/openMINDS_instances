@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/reticularFormation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Reticular formation' is a regional part of brain. It is part of the brainstem.",
-  "description": "A composite substructure of the brainstem that consists of the midbrain reticular formation, the pontine reticular formation and the medullary reticular formation ( Carpenter-1983 ).",
+  "definition": "Is a regional part of brain. Is part of the brainstem. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002275) ('is_a' and 'relationship')]",
+  "description": "A composite substructure of the brainstem that consists of the midbrain reticular formation, the pontine reticular formation and the medullary reticular formation ( Carpenter-1983 ). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002275)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109987",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002275#reticular-formation",
   "name": "reticular formation",
@@ -17,3 +17,4 @@
     "reticular formation of the brainstem"
   ]
 }
+

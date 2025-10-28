@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainArachnoidMater",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an arachnoid mater and meninx of hindbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003559)]",
+  "description": "An arachnoid mater that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003559)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003559#hindbrain-arachnoid-mater",
+  "name": "hindbrain arachnoid mater",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003559",
+  "synonym": [
+    "arachnoid mater of hindbrain",
+    "arachnoid mater of neuraxis of hindbrain",
+    "arachnoid of hindbrain",
+    "hindbrain arachnoid",
+    "hindbrain arachnoid mater of neuraxis"
+  ]
+}
+

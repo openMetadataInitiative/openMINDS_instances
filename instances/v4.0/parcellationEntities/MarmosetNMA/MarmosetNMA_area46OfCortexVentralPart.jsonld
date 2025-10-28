@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area46OfCortexVentralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "A46V",
+  "alternateName": [
+    "area 46 of cortex, ventral part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_dorsolateralPrefrontalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area46OfCortexVentralPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area46OfCortexVentralPart",
+  "name": "area 46 of cortex ventral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

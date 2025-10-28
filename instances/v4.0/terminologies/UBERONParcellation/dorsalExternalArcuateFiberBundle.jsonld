@@ -4,20 +4,17 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsalExternalArcuateFiberBundle",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Dorsal external arcuate fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.",
-  "description": "",
+  "definition": "Is a neuron projection bundle and central nervous system cell part cluster. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006089) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103433",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006089#dorsal-external-arcuate-fiber-bundle-1",
   "name": "dorsal external arcuate fiber bundle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006089",
   "synonym": [
-    "dorsal external arcuate fiber bundle",
     "dorsal external arcuate fibers",
     "dorsal external arcuate tract",
     "dorsal superficial arcuate fibers",
-    "ear",
-    "external arcuate fibers",
-    "fibrae arcuatae externae dorsales",
-    "fibrae arcuatae externae posteriores"
+    "external arcuate fibers"
   ]
 }
+

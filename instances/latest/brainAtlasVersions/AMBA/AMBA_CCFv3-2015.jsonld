@@ -20,7 +20,7 @@
   "fullName": "Allen Mouse Brain Atlas",
   "funding": null,
   "hasTerminology": {
-		"@type": "https://openminds.om-i.org/types/ParcellationTerminology",
+		"@type": "https://openminds.om-i.org/types/ParcellationTerminologyVersion",
 		"dataLocation": null,
 		"hasEntity": [
 			{

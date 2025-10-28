@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/parietalOrgan",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the pineal complex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004869)]",
+  "description": "A part of the epithalamus present in some animal species. The eye may be photoreceptive and is usually associated with the pineal gland, regulating circadian rhythmicity and hormone production for thermoregulation. The parietal eye is a part of the epithalamus, which can be divided into two major parts; the epiphysis (the pineal organ, or pineal gland if mostly endocrine) and the parietal organ (often called the parietal eye, or third eye if it is photoreceptive). It arises as an anterior evagination of the pineal organ or as a separate outgrowth of the roof of the diencephalon. In some species, it protrudes through the skull. The parietal eye uses a different biochemical method of detecting light than rod cells or cone cells in a normal vertebrate eye. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004869)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004869#parietal-organ",
+  "name": "parietal organ",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004869",
+  "synonym": [
+    "parietal eye"
+  ]
+}
+

@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/licenses/youtube",
+  "@type": "https://openminds.ebrains.eu/core/License",
+  "fullName": "Standard YouTube License",
+  "legalCode": "https://www.youtube.com/t/terms",
+  "shortName": "youtube",
+  "webpage": null
+}
+

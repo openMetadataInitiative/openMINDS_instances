@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/basalPlateMedullaOblongata",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neural tube basal plate. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005240)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005240#basal-plate-medulla-oblongata",
+  "name": "basal plate medulla oblongata",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005240",
+  "synonym": [
+    "medulla oblongata basal plate"
+  ]
+}
+

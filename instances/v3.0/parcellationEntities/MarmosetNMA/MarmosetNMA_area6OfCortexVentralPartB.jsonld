@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area6OfCortexVentralPartB",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A6Vb",
+  "alternateName": [
+    "area 6 of cortex, ventral, part b"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_motorAndPremotorCorticalRegions"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexVentralPartB"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area6OfCortexVentralPartB",
+  "name": "area 6 of cortex ventral part b",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

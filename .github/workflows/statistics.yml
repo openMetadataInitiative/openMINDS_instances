@@ -1,0 +1,47 @@
+name: Statistics
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  statistics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.13'
+
+      - name: Generate statistics
+        run: |
+          uv pip install --system -r scripts/coverage/requirements.txt
+          python scripts/coverage/coverage.py
+
+          git fetch origin statistics
+          git checkout -B statistics origin/statistics
+          
+          rm -rf docs/*
+          mkdir -p docs
+          cp -r _coverage/* docs/
+          
+          # Commit changes if any instances were modified
+          git config --global user.name "openMINDS pipeline"
+          git config --global user.email "support@openmetadatainitiative.org"
+          
+          git add docs/
+          git diff --cached --quiet || git commit -m "Dynamic statistics."
+          
+          git push origin statistics
+        shell: bash

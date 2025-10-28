@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralRecessOfThirdVetricle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008902) ('is_a' and 'relationship')]",
+  "description": "Lateral protrusion of the third ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008902)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008902#lateral-recess-of-third-vetricle",
+  "name": "lateral recess of third vetricle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008902",
+  "synonym": [
+    "lateral recess of diencephalic ventricle"
+  ]
+}
+

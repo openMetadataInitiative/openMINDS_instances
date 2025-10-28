@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/brainstemWhiteMatter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a brain white matter. Is part of the brainstem. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014891) ('is_a' and 'relationship')]",
+  "description": "White matter that is part of a brainstem. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014891)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014891#brainstem-white-matter",
+  "name": "brainstem white matter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014891",
+  "synonym": null
+}
+

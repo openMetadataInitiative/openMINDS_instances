@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralVisualAreaLayer6a",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the lateral visual area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035918) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035918#lateral-visual-area-layer-6a",
+  "name": "lateral visual area, layer 6a",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035918",
+  "synonym": null
+}
+

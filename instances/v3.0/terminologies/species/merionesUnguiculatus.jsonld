@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/species/merionesUnguiculatus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "definition": "The Mongolian gerbil, also referred to as the Mongolian jird (Meriones unguiculatus), is a rodent belonging to the subfamily Gerbillinae. [Wikipedia]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Meriones unguiculatus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_10047",
+  "synonym": [
+    "Mongolian gerbil",
+    "Mongolian jird"
+  ]
+}
+

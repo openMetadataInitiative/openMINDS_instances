@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ponsReticulospinalTract",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004172)]",
+  "description": "Axon tract that carries efferent (outgoing) action potentials from the cell body in the pons towards target cells in the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004172)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004172#pons-reticulospinal-tract",
+  "name": "pons reticulospinal tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004172",
+  "synonym": null
+}
+

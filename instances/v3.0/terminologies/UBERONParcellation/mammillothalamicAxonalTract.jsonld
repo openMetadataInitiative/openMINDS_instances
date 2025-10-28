@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/mammillothalamicAxonalTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a tract of diencephalon. Is part of the diencephalic white matter and the mammillary axonal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006696) ('is_a' and 'relationship')]",
+  "description": "A fiber pathway that originates from neurons in the posterior hypothalamic region and projects to various nuclei of the anterior nuclear group of the thalamus. It is a composite structure that consists of the mammillothalamic tract of the hypothalamus and the mammillothalamic tract of the thalamus (Carpenter-1983). (from Brain Info.org) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006696)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006696#mammillothalamic-axonal-tract",
+  "name": "mammillothalamic axonal tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006696",
+  "synonym": [
+    "fasciculus mammillothalamicus",
+    "mammillothalamic fasciculus",
+    "mammillothalamic tract",
+    "vicq d'azyr's bundle"
+  ]
+}
+

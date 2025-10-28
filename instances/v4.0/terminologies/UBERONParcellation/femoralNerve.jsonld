@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/femoralNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a leg nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001267)]",
+  "description": "The femoral nerve, the largest branch of the lumbar plexus, arises from the ventral divisions of the second, third, and fourth lumbar nerves. It descends through the fibers of the Psoas major, emerging from the muscle at the lower part of its lateral border, and passes down between it and the Iliacus, behind the iliac fascia; it then runs beneath the inguinal ligament, into the thigh, and splits into an anterior and a posterior division. Under the inguinal ligament, it is separated from the femoral artery by a portion of the Psoas major. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001267)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001267#femoral-nerve",
+  "name": "femoral nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001267",
+  "synonym": [
+    "anterior crural nerve"
+  ]
+}
+
