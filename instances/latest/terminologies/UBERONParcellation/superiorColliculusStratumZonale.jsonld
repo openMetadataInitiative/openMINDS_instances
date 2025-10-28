@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/superiorColliculusStratumZonale",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022314)]",
+  "description": "Most superficial layer of the superior colliculus consisting primarily of thin fibers derived primarily from the occipital cortex (Brodal, Neurological Anatomy, 2nd 3d, 1981, pg. 544) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022314)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022314#superior-colliculus-stratum-zonale",
+  "name": "superior colliculus stratum zonale",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022314",
+  "synonym": null
+}
+
