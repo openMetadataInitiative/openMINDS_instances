@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_ventromedialPrefrontalCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PFCvm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_orbito-FrontalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_ventromedialPrefrontalCortex"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_ventromedialPrefrontalCortex"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_subcortical-extension_ventromedialPrefrontalCortex"
+    }
+  ],
+  "lookupLabel": "MarsAtlas_ventromedialPrefrontalCortex",
+  "name": "ventromedial prefrontal cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+
