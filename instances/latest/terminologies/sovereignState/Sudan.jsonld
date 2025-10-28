@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Sudan",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in Northeast Africa.",
+  "definition": "Country in Northeast Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1049)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

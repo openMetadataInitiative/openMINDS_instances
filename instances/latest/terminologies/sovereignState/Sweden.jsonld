@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Sweden",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in Northern Europe.",
+  "definition": "Country in Northern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q34)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

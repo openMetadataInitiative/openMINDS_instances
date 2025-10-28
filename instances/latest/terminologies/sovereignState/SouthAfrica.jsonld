@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/SouthAfrica",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in southern Africa.",
+  "definition": "Country in southern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q258)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -26,7 +26,7 @@
     "uMzantsi Afrika",
     "za",
     "ZA",
-    "zaf",
-    "ZAF"
+    "ZAF",
+    "zaf"
   ]
 }

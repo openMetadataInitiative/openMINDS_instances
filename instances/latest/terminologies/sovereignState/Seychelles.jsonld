@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Seychelles",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Island sovereign state off the eastern coast of Africa.",
+  "definition": "Island sovereign state off the eastern coast of Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1042)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -13,8 +13,8 @@
   "synonym": [
     "Republic of Seychelles",
     "République des Seychelles",
-    "SC",
     "sc",
+    "SC",
     "SEY",
     "SYC"
   ]
