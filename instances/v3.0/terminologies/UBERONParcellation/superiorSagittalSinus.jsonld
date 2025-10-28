@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorSagittalSinus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a sagittal sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001642)]",
+  "description": "The superior sagittal sinus (also known as the superior longitudinal sinus), within a human cranium, is an area above/behind the brain, which allows blood veins to span the area, from the top of the head towards the back. It is believed that the cerebrospinal fluid drains through the arachnoid granulations into the dural venous sinuses of the superior sagittal sinus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001642)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001642#superior-sagittal-sinus",
+  "name": "superior sagittal sinus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001642",
+  "synonym": null
+}
+

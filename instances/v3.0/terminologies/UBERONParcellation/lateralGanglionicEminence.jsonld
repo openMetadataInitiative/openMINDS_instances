@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGanglionicEminence",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the ganglionic eminence. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004025) ('is_a' and 'relationship')]",
+  "description": "A distinct elevation of a transient proliferating cell mass of the fetal subventricular zone; this mass contributes most of its cells to the striatum; however, neocortex, thalamus, septum and olfactory bulb neurons are also partly derived from the LGE. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004025)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004025#lateral-ganglionic-eminence",
+  "name": "lateral ganglionic eminence",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004025",
+  "synonym": null
+}
+

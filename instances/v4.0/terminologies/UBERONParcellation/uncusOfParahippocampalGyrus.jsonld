@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/uncusOfParahippocampalGyrus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034773) ('is_a' and 'relationship')]",
+  "description": "The anterior extremity of the Parahippocampal gyrus is recurved in the form of a hook, the uncus, which is separated from the apex of the temporal lobe by a slight fissure, the incisura temporalis. Although superficially continuous with the hippocampal gyrus, the uncus forms morphologically a part of the rhinencephalon. The term uncus was coined by Felix Vicq dbAzyr (1748b1794). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034773)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034773#uncus-of-parahippocampal-gyrus",
+  "name": "uncus of parahippocampal gyrus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034773",
+  "synonym": [
+    "uncus hippocampi"
+  ]
+}
+

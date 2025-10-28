@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorMesentericNervePlexus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a mesenteric plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035770)]",
+  "description": "The inferior mesenteric plexus is derived chiefly from the aortic plexus. It surrounds the inferior mesenteric artery, and divides into a number of secondary plexuses, which are distributed to all the parts supplied by the artery, viz. , the left colic and sigmoid plexuses, which supply the descending and sigmoid parts of the colon; and the superior hemorrhoidal plexus, which supplies the rectum and joins in the pelvis with branches from the pelvic plexuses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035770)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035770#inferior-mesenteric-nerve-plexus",
+  "name": "inferior mesenteric nerve plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035770",
+  "synonym": [
+    "inferior mesenteric plexus",
+    "plexus mesentericus inferior",
+    "plexus nervosus mesentericus inferior"
+  ]
+}
+

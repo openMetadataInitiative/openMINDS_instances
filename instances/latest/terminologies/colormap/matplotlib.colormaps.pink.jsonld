@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.pink",
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.pink",
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'pink' is a sequential (type 2) colormap of the Python plotting library Matplotlib.",
   "description": null,

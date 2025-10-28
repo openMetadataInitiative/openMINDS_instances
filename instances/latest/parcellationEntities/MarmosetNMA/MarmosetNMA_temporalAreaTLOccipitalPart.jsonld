@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_temporalAreaTLOccipitalPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "TLO",
+  "alternateName": [
+    "temporal area TL, occipital part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventralAreasOfTheTemporalLobe"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTLOccipitalPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_temporalAreaTLOccipitalPart",
+  "name": "temporal area TL occipital part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

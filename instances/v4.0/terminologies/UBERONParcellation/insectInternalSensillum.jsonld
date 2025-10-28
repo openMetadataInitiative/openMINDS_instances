@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/insectInternalSensillum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an arthropod sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007233)]",
+  "description": "Sensillum that is internal to the animal - i.e. having no part that is part of the cuticle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007233)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6007233#internal-sensillum",
+  "name": "insect internal sensillum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6007233",
+  "synonym": null
+}
+

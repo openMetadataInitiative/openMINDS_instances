@@ -167,13 +167,13 @@
   "isNewVersionOf": null,
   "keyword": null,
   "license": {
-    "@id": "https://openminds.ebrains.eu/instances/licenses/ccByNcNd4.0"
+    "@id": "https://openminds.ebrains.eu/instances/licenses/CC-BY-NC-ND-4.0"
   },
   "majorVersionIdentifier": null,
   "ontologyIdentifier": null,
   "otherContribution": null,
   "relatedPublication": null,
-  "releaseDate": "",
+  "releaseDate": null,
   "repository": null,
   "shortName": "AAL Atlas 1",
   "supportChannel": null,

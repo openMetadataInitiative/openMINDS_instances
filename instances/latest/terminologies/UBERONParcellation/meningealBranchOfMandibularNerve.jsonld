@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/meningealBranchOfMandibularNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the mandibular nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036143) ('is_a' and 'relationship')]",
+  "description": "The meningeal branch of the mandibular nerve (recurrent branch, nervus spinosus) is a branch of the mandibular nerve that supplies the dura mater. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036143)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036143#meningeal-branch-of-mandibular-nerve",
+  "name": "meningeal branch of mandibular nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036143",
+  "synonym": [
+    "nervus spinosus",
+    "ramus meningeus (Nervus mandibularis)",
+    "ramus meningeus nervus mandibularis"
+  ]
+}
+

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_visualArea4TransitionalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "V4T(MTC)",
+  "alternateName": [
+    "visual area 4, transitional part (middle temporal crescent)"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_visualCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea4TransitionalPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_visualArea4TransitionalPart",
+  "name": "visual area 4 transitional part (middle temporal crescent)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

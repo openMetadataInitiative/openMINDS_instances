@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/superiorCervicalGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cervical ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001989)]",
+  "description": "Trunk ganglion which is bilaterally paired and located at the anterior end of the sympathetic ganglion chain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001989)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001989#superior-cervical-ganglion",
+  "name": "superior cervical ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001989",
+  "synonym": [
+    "superior cervical sympathetic ganglion"
+  ]
+}
+

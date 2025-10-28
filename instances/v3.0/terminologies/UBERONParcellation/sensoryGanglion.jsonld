@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sensoryGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001800)]",
+  "description": "The clusters of neurons in the somatic peripheral nervous system which contain the cell bodies of sensory nerve axons, interneurons and non-neuronal supporting cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001800)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001800#sensory-ganglion",
+  "name": "sensory ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001800",
+  "synonym": [
+    "ganglion sensorium"
+  ]
+}
+

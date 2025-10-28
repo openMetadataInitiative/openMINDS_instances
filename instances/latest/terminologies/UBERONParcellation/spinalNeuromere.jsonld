@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/spinalNeuromere",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a neuromere. Is part of the future spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014777) ('is_a' and 'relationship')]",
+  "description": "A neuromere that is part of the presumptive spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014777)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014777#spinal-neuromere",
+  "name": "spinal neuromere",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014777",
+  "synonym": [
+    "spinal cord metameric segment"
+  ]
+}
+

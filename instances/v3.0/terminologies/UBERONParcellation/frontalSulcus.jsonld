@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/frontalSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a sulcus of brain. Is part of the frontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014639) ('is_a' and 'relationship')]",
+  "description": "A sulcus of brain that is part of a frontal cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014639)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014639#frontal-sulcus",
+  "name": "frontal sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014639",
+  "synonym": [
+    "frontal lobe sulcus"
+  ]
+}
+

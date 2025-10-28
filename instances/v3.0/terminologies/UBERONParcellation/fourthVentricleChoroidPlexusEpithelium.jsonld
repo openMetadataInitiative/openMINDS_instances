@@ -4,11 +4,28 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusEpithelium",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Fourth ventricle choroid plexus epithelium' is a choroid plexus epithelium. It is part of the choroid plexus of fourth ventricle.",
-  "description": null,
+  "definition": "Is a choroid plexus epithelium. Is part of the choroid plexus of fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004276) ('is_a' and 'relationship')]",
+  "description": "A choroid plexus epithelium that is part of a fourth ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004276)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0728876",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004276#fourth-ventricle-choroid-plexus-epithelium",
   "name": "fourth ventricle choroid plexus epithelium",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004276",
-  "synonym": null
+  "synonym": [
+    "chorioid plexus of cerebral hemisphere epithelial tissue of fourth ventricle",
+    "chorioid plexus of cerebral hemisphere epithelium of fourth ventricle",
+    "choroid plexus epithelial tissue of fourth ventricle",
+    "choroid plexus epithelium of fourth ventricle",
+    "epithelial tissue of chorioid plexus of cerebral hemisphere of fourth ventricle",
+    "epithelial tissue of choroid plexus of fourth ventricle",
+    "epithelium of chorioid plexus of cerebral hemisphere of fourth ventricle",
+    "epithelium of choroid plexus of fourth ventricle",
+    "fourth ventricle chorioid plexus of cerebral hemisphere epithelial tissue",
+    "fourth ventricle chorioid plexus of cerebral hemisphere epithelium",
+    "fourth ventricle choroid plexus epithelial tissue",
+    "fourth ventricle epithelial tissue of chorioid plexus of cerebral hemisphere",
+    "fourth ventricle epithelial tissue of choroid plexus",
+    "fourth ventricle epithelium of chorioid plexus of cerebral hemisphere",
+    "fourth ventricle epithelium of choroid plexus"
+  ]
 }
+

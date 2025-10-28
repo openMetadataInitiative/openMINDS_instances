@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryOlfactoryBulb",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the olfactory bulb. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004069) ('is_a' and 'relationship')]",
+  "description": "The forebrain region that coordinates sensory signaling arising from the vomeronasal organ; it is located on the dorsal-posterior portion of the main olfactory bulb, and the axons that leave the accessory olfactory bulb project to targets in the amygdala and hypothalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004069)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004069#accessory-olfactory-bulb",
+  "name": "accessory olfactory bulb",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004069",
+  "synonym": [
+    "accessory (vomeronasal) bulb",
+    "olfactory bulb accessory nucleus"
+  ]
+}
+

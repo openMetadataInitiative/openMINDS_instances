@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/canalOfSchlemm",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the cavernous sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004029)]",
+  "description": "The vascular structure encircling the anterior chamber of the eye, through which the aqueous humor is returned to the blood circulation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004029)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004029#canal-of-schlemm",
+  "name": "canal of Schlemm",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004029",
+  "synonym": [
+    "Schlemm's canal",
+    "scleral sinus",
+    "scleral venous sinus",
+    "sinus venosus of sclera",
+    "sinus venosus sclerae"
+  ]
+}
+

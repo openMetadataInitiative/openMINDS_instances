@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumPosteriorVermis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellar vermis. Is part of the posterior lobe of cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004009) ('is_a' and 'relationship')]",
+  "description": "The posterior portion of the narrow middle zone between the two hemispheres of the cerebellum that is located posterior to the primary fissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004009)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004009#cerebellum-posterior-vermis",
+  "name": "cerebellum posterior vermis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004009",
+  "synonym": [
+    "posterior cerebellum vermis",
+    "vermis lobus posterior",
+    "vermis of posterior lobe",
+    "vermis of posterior lobe of cerebellum",
+    "vermis of the posterior lobe of the cerebellum"
+  ]
+}
+

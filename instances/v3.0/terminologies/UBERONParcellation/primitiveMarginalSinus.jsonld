@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/primitiveMarginalSinus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017638)]",
+  "description": "The primitive marginal sinuses (PMS) are embryonic sinuses forming the later superior sagittal sinus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017638)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0017638#primitive-marginal-sinus",
+  "name": "primitive marginal sinus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0017638",
+  "synonym": null
+}
+

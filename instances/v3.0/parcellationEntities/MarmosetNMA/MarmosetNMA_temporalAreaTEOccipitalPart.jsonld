@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_temporalAreaTEOccipitalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "TEO",
+  "alternateName": [
+    "temporal area TE, occipital part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_lateralAndInferiorTemporalCorticalRegion"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTEOccipitalPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_temporalAreaTEOccipitalPart",
+  "name": "temporal area TE occipital part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

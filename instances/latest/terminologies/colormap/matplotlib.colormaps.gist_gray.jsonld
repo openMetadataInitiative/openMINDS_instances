@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.gist_gray",
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.gist_gray",
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'gist_gray' is a sequential (type 2) colormap of the Python plotting library Matplotlib.",
   "description": null,

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hemispherePartOfCerebellarPosteriorLobe",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of cerebellar cortex. Is part of the cerebellar hemisphere and the posterior lobe of cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014648) ('is_a' and 'relationship')]",
+  "description": "A multi-tissue structure that is part of a cerebellar hemisphere and is part of a posterior lobe of cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014648)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014648#hemispheric-part-of-the-posterior-lobe-of-the-cerebellum",
+  "name": "hemisphere part of cerebellar posterior lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014648",
+  "synonym": [
+    "hemisphere of posterior lobe",
+    "hemisphere of posterior lobe of cerebellum",
+    "hemispherium lobus posterior"
+  ]
+}
+

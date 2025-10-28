@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.tab20",
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.tab20",
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'tab20' is a qualitative colormap of the Python plotting library Matplotlib.",
   "description": null,

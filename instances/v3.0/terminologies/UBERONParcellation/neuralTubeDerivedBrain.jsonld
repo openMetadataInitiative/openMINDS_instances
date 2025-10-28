@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/neuralTubeDerivedBrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008823)]",
+  "description": "A brain that develops from a neural tube. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008823)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008823#neural-tube-derived-brain",
+  "name": "neural tube derived brain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008823",
+  "synonym": null
+}
+

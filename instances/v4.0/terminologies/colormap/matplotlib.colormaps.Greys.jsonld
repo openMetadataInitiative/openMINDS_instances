@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.Greys",
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.Greys",
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'Greys' is a sequential colormap of the Python plotting library Matplotlib.",
   "description": null,
@@ -14,3 +14,4 @@
     "Greys"
   ]
 }
+

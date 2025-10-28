@@ -4,11 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/brainVentricle",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Brain ventricle' is a brain ventricle/choroid plexus and ventricle of nervous system. It is part of the ventricular system of brain.",
-  "description": "One of the system of communicating cavities in the brain that are continuous with the central canal of the spinal cord, that like it are derived from the medullary canal of the embryo, that are lined with an epithelial ependyma, and that contain a serous fluid.",
+  "definition": "Is a brain ventricle/choroid plexus and ventricle of nervous system. Is part of the ventricular system of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004086) ('is_a' and 'relationship')]",
+  "description": "One of the system of communicating cavities in the brain that are continuous with the central canal of the spinal cord, that like it are derived from the medullary canal of the embryo, that are lined with an epithelial ependyma, and that contain a serous fluid. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004086)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0730602",
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004086#cerebral-ventricular-cavity",
   "name": "brain ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004086",
-  "synonym": null
+  "synonym": [
+    "cerebral ventricle",
+    "region of ventricular system of brain"
+  ]
 }
+

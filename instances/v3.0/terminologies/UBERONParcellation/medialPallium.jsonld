@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialPallium",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014738) ('is_a' and 'relationship')]",
+  "description": "Subdivision of pallium that is located is the medial position in vertebrates with an evaginated brain and in the distal position in vertebrates with an everted brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014738)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014738#medial-pallium",
+  "name": "medial pallium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014738",
+  "synonym": [
+    "lateral zone of dorsal telencephalon",
+    "medial zone of dorsal telencephalic area",
+    "medial zone of dorsal telencephalon"
+  ]
+}
+

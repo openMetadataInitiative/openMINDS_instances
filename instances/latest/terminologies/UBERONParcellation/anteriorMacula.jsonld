@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/anteriorMacula",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the otolith organ. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000168)]",
+  "description": "Patches of thickened, pseudostratified epithelium of the inner ear, consisting of regular arrays of sensory hair cells interspersed with supporting cells. Each patch has its own characteristic shape and polarity pattern. (See Anatomical Atlas entry for sensory patches of the ear by T. Whitfield.) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000168)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000168#anterior-macula",
+  "name": "anterior macula",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000168",
+  "synonym": [
+    "am"
+  ]
+}
+

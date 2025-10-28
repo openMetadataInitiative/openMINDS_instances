@@ -4,11 +4,22 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleIX",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Cerebellum vermis lobule IX' is a cerebellum vermis lobule. It is part of the flocculonodular lobe.",
-  "description": "The uvula (uvular lobe) forms a considerable portion of the inferior vermis; it is separated on either side from the tonsil by the sulcus valleculC&, at the bottom of which it is connected to the tonsil by a ridge of gray matter, indented on its surface by shallow furrows, and hence called the furrowed band.",
+  "definition": "Is a cerebellum vermis lobule. Is part of the flocculonodular lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004078) ('is_a' and 'relationship')]",
+  "description": "The uvula (uvular lobe) forms a considerable portion of the inferior vermis; it is separated on either side from the tonsil by the sulcus valleculC&, at the bottom of which it is connected to the tonsil by a ridge of gray matter, indented on its surface by shallow furrows, and hence called the furrowed band. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004078)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112398",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004078#cerebellum-vermis-lobule-ix",
   "name": "cerebellum vermis lobule IX",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004078",
-  "synonym": null
+  "synonym": [
+    "cerebellar posterior vermis lobule IX",
+    "lobule IX of cerebellar posterior vermis",
+    "lobule IX of cerebellum vermis",
+    "neuraxis uvula",
+    "uvula (IX)",
+    "uvula [vermis]",
+    "uvula of cerebellum",
+    "uvula of vermis of cerebellum",
+    "vermic lobule IX"
+  ]
 }
+

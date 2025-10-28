@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphericLobuleIV",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellum hemisphere lobule and hemisphere part of cerebellar anterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024000)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0024000#cerebellum-hemispheric-lobule-iv",
+  "name": "cerebellum hemispheric lobule IV",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024000",
+  "synonym": [
+    "hemispheric lobule IV",
+    "lobule H IV of Larsell",
+    "lobule IV of cerebellar hemisphere"
+  ]
+}
+

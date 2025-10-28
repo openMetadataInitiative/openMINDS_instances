@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/commissureOfInferiorColliculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a brain commissure. Is part of the inferior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003028) ('is_a' and 'relationship')]",
+  "description": "A commissure that is part of a inferior colliculus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003028)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003028#commissure-of-inferior-colliculus-1",
+  "name": "commissure of inferior colliculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003028",
+  "synonym": [
+    "caudal colliculus commissure",
+    "commissure of caudal colliculus",
+    "commissure of inferior colliculi",
+    "commissure of posterior colliculus",
+    "commissure of posterior corpus quadrigeminum",
+    "inferior collicular commissure",
+    "inferior colliculus commissure",
+    "posterior colliculus commissure",
+    "posterior corpus quadrigeminum commissure"
+  ]
+}
+

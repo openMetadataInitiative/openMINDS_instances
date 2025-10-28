@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/oculomotorDivisionOfOculomotorNuclearComplex",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nuclear complex of neuraxis and gray matter of midbrain. Is part of the oculomotor nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014523) ('is_a' and 'relationship')]",
+  "description": "A division of oculomotor nuclear complex that exists in organisms with electric organs which is responsible for eye movements. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014523)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014523#oculomotor-division-of-oculomotor-nuclear-complex",
+  "name": "oculomotor division of oculomotor nuclear complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014523",
+  "synonym": null
+}
+

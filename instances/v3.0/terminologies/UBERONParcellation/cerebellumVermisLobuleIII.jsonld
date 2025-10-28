@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleIII",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellum vermis lobule. Is part of the central lobule. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004076) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004076#cerebellum-vermis-lobule-iii",
+  "name": "cerebellum vermis lobule III",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004076",
+  "synonym": [
+    "lobule III",
+    "lobule III of cerebellum vermis",
+    "vermic lobule III"
+  ]
+}
+

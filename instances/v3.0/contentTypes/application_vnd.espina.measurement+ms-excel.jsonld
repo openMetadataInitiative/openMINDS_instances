@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_vnd.espina.measurement+ms-excel",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "This Excel workbook contains the exported measurements of segmented structures created in EspINA, such as volume, surface area, and other morphological parameters. Each measurement is provided in a separate worksheet.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".xls"
+  ],
+  "name": "application/vnd.espina.measurement+ms-excel",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "EspINA Interactive Neuron Analyzer Measurement file",
+    "EsPINA Analysis file"
+  ]
+}

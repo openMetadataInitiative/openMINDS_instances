@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/commissuraRostralParsDorsalis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebral hemisphere white matter. Is part of the anterior commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000638) ('is_a' and 'relationship')]",
+  "description": "Part of the anterior commissure which is located immediately ventral to the supracommissural nucleus of area ventralis telencephali.. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000638)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000638#commissura-rostral-pars-dorsalis",
+  "name": "commissura rostral, pars dorsalis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000638",
+  "synonym": null
+}
+

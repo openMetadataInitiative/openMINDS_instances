@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/subcupularMeshworkOfStatoconialMembrane",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the statoconial membrane. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016569)]",
+  "description": "An acellular membrane in the inner ear that is part of the statoconial membrane and consists of long branching filaments cross-bridged to one another. The filaments are continuous with those of the otolithic membrane on one side and with the surface of the epithelium on the other. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016569)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016569#subcupular-meshwork-of-statoconial-membrane",
+  "name": "subcupular meshwork of statoconial membrane",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016569",
+  "synonym": null
+}
+

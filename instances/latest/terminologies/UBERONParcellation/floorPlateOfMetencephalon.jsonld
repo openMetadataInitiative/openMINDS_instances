@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/floorPlateOfMetencephalon",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the metencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003310) ('is_a' and 'relationship')]",
+  "description": "A floor plate that is part of a metencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003310)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003310#floor-plate-of-metencephalon",
+  "name": "floor plate of metencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003310",
+  "synonym": [
+    "epencephalon-2 floor plate",
+    "epencephalon-2 floorplate",
+    "floor plate metencephalon",
+    "floor plate of epencephalon-2",
+    "floorplate of epencephalon-2",
+    "floorplate of metencephalon",
+    "metencephalon floor plate",
+    "metencephalon floorplate"
+  ]
+}
+

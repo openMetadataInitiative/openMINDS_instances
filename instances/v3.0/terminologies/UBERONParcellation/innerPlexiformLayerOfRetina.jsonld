@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/innerPlexiformLayerOfRetina",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001795) ('is_a' and 'relationship')]",
+  "description": "Cytoarchitectural layer of the retina that is made up of a dense reticulum of fibrils formed by interlaced dendrites of retinal ganglion cells and cells of the inner nuclear layer (adapted from Wikipedia) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001795)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001795#inner-plexiform-layer-of-retina",
+  "name": "inner plexiform layer of retina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001795",
+  "synonym": [
+    "retina inner plexiform layer",
+    "retinal inner plexiform layer",
+    "stratum plexiforme internum"
+  ]
+}
+
