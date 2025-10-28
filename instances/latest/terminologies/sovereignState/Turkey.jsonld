@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Turkey",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in West Asia and Southeast Europe.",
+  "definition": "Country in West Asia and Southeast Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q43)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

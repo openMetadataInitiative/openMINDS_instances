@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Tonga",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Sovereign state in Oceania, situated on an archipelago.",
+  "definition": "Sovereign state in Oceania, situated on an archipelago. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q678)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

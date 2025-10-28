@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Vanuatu",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Island country in Oceania.",
+  "definition": "Island country in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q686)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -17,8 +17,8 @@
     "VAN",
     "van",
     "Vanuatu",
-    "VU",
     "vu",
+    "VU",
     "vut",
     "VUT"
   ]

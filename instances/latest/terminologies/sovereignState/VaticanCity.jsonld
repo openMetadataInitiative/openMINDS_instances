@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/VaticanCity",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Holy See's independent state, an enclave within Rome, Italy.",
+  "definition": "Holy See's independent state, an enclave within Rome, Italy. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q237)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -19,10 +19,10 @@
     "Stato della Città del Vaticano",
     "Status Civitatis Vaticanae",
     "The Vatican",
-    "VA",
     "va",
-    "vat",
+    "VA",
     "VAT",
+    "vat",
     "Vatican",
     "Vatican City State"
   ]

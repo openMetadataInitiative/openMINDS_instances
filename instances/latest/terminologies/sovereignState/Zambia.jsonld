@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Zambia",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country at the crossroads of Central and Southern Africa.",
+  "definition": "Country at the crossroads of Central and Southern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q953)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -13,8 +13,8 @@
   "synonym": [
     "Republic of Zambia",
     "ZAM",
-    "Zed",
     "ZED",
+    "Zed",
     "ZM",
     "zm",
     "ZMB"
