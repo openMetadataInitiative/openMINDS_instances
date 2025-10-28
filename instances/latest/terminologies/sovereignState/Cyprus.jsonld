@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Cyprus",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Mediterranean island country in West Asia.",
+  "definition": "Mediterranean island country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q229)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
