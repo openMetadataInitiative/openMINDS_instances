@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Oman",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Sovereign state in western Asia.",
+  "definition": "Sovereign state in western Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q842)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -13,8 +13,8 @@
   "synonym": [
     "om",
     "OM",
-    "OMN",
     "omn",
+    "OMN",
     "Sultanate of Oman",
     "Uman"
   ]

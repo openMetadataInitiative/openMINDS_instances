@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Nauru",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in Oceania.",
+  "definition": "Country in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q697)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -12,8 +12,8 @@
   "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q697",
   "synonym": [
     "Naoero",
-    "nr",
     "NR",
+    "nr",
     "NRU",
     "Pleasant Island",
     "Republic of Nauru",

@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/NorthKorea",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Sovereign state in East Asia.",
+  "definition": "Sovereign state in East Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q423)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -14,8 +14,8 @@
     "Democratic People's Republic of Korea",
     "DPR Korea",
     "DPRK",
-    "kp",
     "KP",
+    "kp",
     "N. Korea",
     "NK",
     "PRK"

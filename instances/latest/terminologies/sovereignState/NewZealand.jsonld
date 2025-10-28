@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/NewZealand",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Island country in the southwest Pacific Ocean.",
+  "definition": "Island country in the southwest Pacific Ocean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q664)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
