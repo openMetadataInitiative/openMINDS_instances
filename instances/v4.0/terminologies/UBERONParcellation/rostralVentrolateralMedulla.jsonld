@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rostralVentrolateralMedulla",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005807) ('is_a' and 'relationship')]",
+  "description": "Control of blood pressure is crucially dependent on the integrity of a small region of the brainstem called the ventrolateral medulla. Within this part of the brain are the cells that control the heart, blood vessels, swallowing, breathing and many other functions of the body that are not noticed at a conscious level; such unconscious activities are known as 'Autonomic'. One of these regions is the Rostral Ventrolateral Medulla (RVLM) is also known as the pressor area of the medulla (medulla pressor). It receives inhibitory GABAergic input from the caudal ventrolateral medulla (CVLM). The RVLM is the primary regulator of the sympathetic nervous system, sending excitatory fibers (catecholaminergic) to the sympathetic preganglionic neurons in the spinal cord, via reticulospinal tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005807)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005807#rostral-ventrolateral-medulla",
+  "name": "rostral ventrolateral medulla",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005807",
+  "synonym": [
+    "medulla pressor",
+    "RVLM"
+  ]
+}
+
