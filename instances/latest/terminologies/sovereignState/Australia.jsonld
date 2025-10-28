@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Australia",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in Oceania.",
+  "definition": "Country in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q408)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

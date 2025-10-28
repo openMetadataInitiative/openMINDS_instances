@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Bangladesh",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in South Asia.",
+  "definition": "Country in South Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q902)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -13,8 +13,8 @@
   "synonym": [
     "BAN",
     "Bangla Desh",
-    "bd",
     "BD",
+    "bd",
     "BGD",
     "Country of Bengal",
     "Land of Bengal",

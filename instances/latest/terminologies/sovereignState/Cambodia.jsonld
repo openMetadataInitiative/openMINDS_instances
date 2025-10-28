@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Cambodia",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in Southeast Asia.",
+  "definition": "Country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q424)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -16,8 +16,8 @@
     "Kambodzha",
     "Kamboja",
     "Kampuchea",
-    "kh",
     "KH",
+    "kh",
     "KHM",
     "Kingdom of Cambodia",
     "KKH"
