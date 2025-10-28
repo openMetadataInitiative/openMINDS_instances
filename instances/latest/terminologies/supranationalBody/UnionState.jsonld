@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SupranationalBody/UnionState",
   "@type": "https://openminds.om-i.org/types/SupranationalBody",
-  "definition": "Supranational entity consisting of the Russian Federation and the Republic of Belarus.",
+  "definition": "Supranational entity consisting of the Russian Federation and the Republic of Belarus. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q166110)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

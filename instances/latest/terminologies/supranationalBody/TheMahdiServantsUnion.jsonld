@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SupranationalBody/TheMahdiServantsUnion",
   "@type": "https://openminds.om-i.org/types/SupranationalBody",
-  "definition": "International non-governmental organization.",
+  "definition": "International non-governmental organization. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q96979217)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

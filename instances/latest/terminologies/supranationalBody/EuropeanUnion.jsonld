@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SupranationalBody/EuropeanUnion",
   "@type": "https://openminds.om-i.org/types/SupranationalBody",
-  "definition": "Political and economic union of 27 European states.",
+  "definition": "Political and economic union of 27 European states. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q458)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
