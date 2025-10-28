@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/gustatoryOrgan",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a chemosensory organ. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003212)]",
+  "description": "Any sense organ that functions in (some) detection of chemical stimulus involved in sensory perception of taste (GO:0050912). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003212)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003212#gustatory-organ",
+  "name": "gustatory organ",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003212",
+  "synonym": [
+    "gustatory organ system organ",
+    "gustatory system organ",
+    "organ of gustatory organ system",
+    "organ of gustatory system",
+    "organ of taste system",
+    "taste organ",
+    "taste system organ"
+  ]
+}
+

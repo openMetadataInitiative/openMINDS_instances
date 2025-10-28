@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/meninxOfMidbrain",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a brain meninx. Is part of the midbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003288) ('is_a' and 'relationship')]",
+  "description": "A meninx that is part of a midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003288)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003288#meninx-of-midbrain",
+  "name": "meninx of midbrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003288",
+  "synonym": [
+    "midbrain meninx"
+  ]
+}
+

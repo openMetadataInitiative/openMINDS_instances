@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/insectAdultCerebralGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an insect supraesophageal ganglion. Is part of the insect adult brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6110636) ('is_a' and 'relationship')]",
+  "description": "The pre-oral neuropils of the adult brain located above, around and partially below the esophagus, including the optic lobes. It excludes the gnathal ganglion. Developmentally, it comprises three fused neuromeres: protocerebrum, deutocerebrum, and tritocerebrum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6110636)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6110636#adult-cerebral-ganglion",
+  "name": "insect adult cerebral ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6110636",
+  "synonym": [
+    "CRG"
+  ]
+}
+

@@ -5,6 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/molecularEntity/magnesiumChloride",
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "A magnesium salt comprising of two chlorine atoms bound to a magnesium atom. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:6636)]",
+  "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:6636#magnesium-dichloride",
   "name": "magnesium chloride",

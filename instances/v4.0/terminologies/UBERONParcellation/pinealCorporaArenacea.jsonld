@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pinealCorporaArenacea",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a calcified structure of brain. Is part of the pineal body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017632) ('is_a' and 'relationship')]",
+  "description": "A calcified structure of brain that is part of a pineal body. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017632)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0017632#pineal-corpora-arenacea",
+  "name": "pineal corpora arenacea",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0017632",
+  "synonym": null
+}
+

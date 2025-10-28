@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/maculaOfSacculeOfMembranousLabyrinth",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the saccule of membranous labyrinth. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002212)]",
+  "description": "The oval neuroepithelial sensory receptor in the anterior wall of the saccule; hair cells of the neuroepithelium support the statoconial membrane and have terminal arborizations of vestibular nerve fibers around their bodies. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002212)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002212#macula-of-saccule-of-membranous-labyrinth",
+  "name": "macula of saccule of membranous labyrinth",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002212",
+  "synonym": [
+    "macula of membranous labyrinth saccule",
+    "macula of saccule",
+    "macula of sacculus (labyrinthus vestibularis)",
+    "macula saccule",
+    "macula sacculi",
+    "membranous labyrinth saccule macula",
+    "saccular macula",
+    "saccular macula of membranous labyrinth",
+    "saccule macula",
+    "saccule of membranous labyrinth macula",
+    "sacculus (labyrinthus vestibularis) macula"
+  ]
+}
+

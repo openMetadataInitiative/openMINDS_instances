@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cisternOfLaminaTerminalis",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a subarachnoid cistern. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002897)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002897#cistern-of-lamina-terminalis-1",
+  "name": "cistern of lamina terminalis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002897",
+  "synonym": [
+    "cisterna lamina terminalis",
+    "lamina terminalis cistern"
+  ]
+}
+

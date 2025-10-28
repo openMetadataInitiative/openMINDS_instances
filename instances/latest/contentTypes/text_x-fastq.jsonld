@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/text_x-fastq",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": "A text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".fg",
+    ".fg.gz"
+  ],
+  "name": "text/x-fastq",
+  "relatedMediaType": null,
+  "specification": "https://en.wikipedia.org/wiki/FASTQ_format",
+  "synonym": [
+    "FASTQ Format"
+  ]
+}

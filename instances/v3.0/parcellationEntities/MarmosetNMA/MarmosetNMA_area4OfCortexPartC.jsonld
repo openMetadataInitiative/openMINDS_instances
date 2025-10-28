@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area4OfCortexPartC",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A4c",
+  "alternateName": [
+    "area 4 of cortex, part c (primary motor)"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_motorAndPremotorCorticalRegions"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area4OfCortexPartC"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area4OfCortexPartC",
+  "name": "area 4 of cortex part c (primary motor)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

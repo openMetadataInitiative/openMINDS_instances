@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/digitNerveOfManus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a manus nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003447)]",
+  "description": "A nerve that is part of a finger. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003447)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003447#digit-nerve-of-manus",
+  "name": "digit nerve of manus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003447",
+  "synonym": [
+    "digit of hand nerve",
+    "digit of terminal segment of free upper limb nerve",
+    "digitus manus nerve",
+    "finger nerve",
+    "hand digit nerve",
+    "nerve of digit of hand",
+    "nerve of digit of terminal segment of free upper limb",
+    "nerve of digitus manus",
+    "nerve of finger",
+    "nerve of hand digit",
+    "nerve of terminal segment of free upper limb digit",
+    "terminal segment of free upper limb digit nerve"
+  ]
+}
+

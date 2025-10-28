@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/reticulospinalTract",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an axon tract. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022943) ('is_a' and 'relationship')]",
+  "description": "The reticulospinal tract (or anterior reticulospinal tract) is an extrapyramidal motor tract which travels from the reticular formation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022943)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022943#reticulospinal-tract-1",
+  "name": "reticulospinal tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022943",
+  "synonym": null
+}
+

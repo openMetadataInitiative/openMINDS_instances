@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area6OfCortexDorsorostralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A6DR",
+  "alternateName": [
+    "area 6 of cortex, dorsorostral part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_motorAndPremotorCorticalRegions"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexDorsorostralPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area6OfCortexDorsorostralPart",
+  "name": "area 6 of cortex dorsorostral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

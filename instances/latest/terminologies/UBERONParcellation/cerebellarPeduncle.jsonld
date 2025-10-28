@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellarPeduncle",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a peduncle of neuraxis and brainstem white matter. Is part of the cerebellar peduncular complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007416) ('is_a' and 'relationship')]",
+  "description": "Any of the three large paired bundles of nerve fibers that connect the cerebellum to the brain stem. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007416)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007416#cerebellar-peduncle",
+  "name": "cerebellar peduncle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007416",
+  "synonym": null
+}
+

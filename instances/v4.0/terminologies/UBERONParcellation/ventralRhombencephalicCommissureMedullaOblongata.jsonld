@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralRhombencephalicCommissureMedullaOblongata",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000985)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000985#ventral-rhombencephalic-commissure-medulla-oblongata",
+  "name": "ventral rhombencephalic commissure medulla oblongata",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000985",
+  "synonym": null
+}
+

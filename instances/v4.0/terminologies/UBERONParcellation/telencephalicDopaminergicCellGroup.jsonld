@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/telencephalicDopaminergicCellGroup",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036011)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036011#telencephalic-dopaminergic-cell-group",
+  "name": "telencephalic dopaminergic cell group",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036011",
+  "synonym": null
+}
+

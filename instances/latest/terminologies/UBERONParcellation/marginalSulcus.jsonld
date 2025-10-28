@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/marginalSulcus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a subarachnoid sulcus. Is part of the cingulate sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002912) ('is_a' and 'relationship')]",
+  "description": "The marginal sulcus is the portion of the cingulate sulcus adjacent to the paracentral lobule and the precuneus. It is sometimes known as the 'marginal part of the cingulate sulcus'. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002912)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002912#marginal-sulcus-1",
+  "name": "marginal sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002912",
+  "synonym": [
+    "marginal branch of cingulate sulcus",
+    "marginal ramus of cingulate sulcus",
+    "ramus marginalis sulci cingulati",
+    "ramus marginalis sulci cinguli",
+    "sulcus marginalis"
+  ]
+}
+

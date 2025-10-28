@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/infundibularRecessOf3rdVentricle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the third ventricle and the future neurohypophysis. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006250)]",
+  "description": "A funnel-shaped diverticulum that extends downward from the anterior aspect of the floor of the third ventricle into the infundibulum of the hypophysis; the embryonic structure gives rise the neural component of the pituitary (pas nervosa). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006250)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006250#infundibular-recess-of-3rd-ventricle",
+  "name": "infundibular recess of 3rd ventricle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006250",
+  "synonym": [
+    "infundibular recess",
+    "infundibular recess of third ventricle",
+    "recessus infundibularis",
+    "recessus infundibuli"
+  ]
+}
+

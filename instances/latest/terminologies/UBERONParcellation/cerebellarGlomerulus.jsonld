@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellarGlomerulus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a neural glomerulus. Is part of the granular layer of cerebellar cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011915) ('is_a' and 'relationship')]",
+  "description": "An intertwined cluster of nerve fibers surrounded by glia where mossy fibers from the pontine nuclei in the white matter synapse with granule cell axons, Golgi cell axons and unipolar brush interneuron axons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011915)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011915#cerebellar-glomerulus",
+  "name": "cerebellar glomerulus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011915",
+  "synonym": null
+}
+

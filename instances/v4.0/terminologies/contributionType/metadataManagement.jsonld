@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/metadataManagment",
+  "@id": "https://openminds.om-i.org/instances/contributionType/metadataManagement",
   "@type": "https://openminds.om-i.org/types/ContributionType",
   "definition": null,
   "description": null,
@@ -12,3 +12,4 @@
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
+

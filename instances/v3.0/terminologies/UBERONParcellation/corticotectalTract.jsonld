@@ -4,17 +4,16 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corticotectalTract",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Corticotectal tract' is a tract of brain. It is part of the midbrain tectum.",
-  "description": "",
+  "definition": "Is a tract of brain. Is part of the midbrain tectum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002556) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102591",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002556#corticotectal-tract-1",
   "name": "corticotectal tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002556",
   "synonym": [
-    "cortico-tectal tract",
     "corticotectal fibers",
     "corticotectal fibres",
-    "fibrae corticotectales",
-    "tractus corticotectalis"
+    "fibrae corticotectales"
   ]
 }
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nervousSystemCommissure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001020)]",
+  "description": "Axon tract that crosses the midline of the central nervous system. In the context of Drosophila refers to a broad band of axons connecting equivalent neuropils each side of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001020)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001020#nervous-system-commissure",
+  "name": "nervous system commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001020",
+  "synonym": [
+    "commissure of neuraxis",
+    "neuraxis commissure"
+  ]
+}
+

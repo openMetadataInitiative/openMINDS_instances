@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/MRSpatialEncoding",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "MR spatial encoding type defines the method by which imaging data is collected, determining the spatial encoding strategy and affecting resolution, scan time, and overall image quality.",
+  "description": "MR spatial encoding dictates how spatial and temporal information is encoded during image acquisition. It is classified based on the number of encoded dimensions: 2D acquisition captures individual slices sequentially using frequency * phase encoding, while 3D acquisition collects an entire volume in a single scan with frequency * phase * phase encoding, offering higher resolution and isotropic reconstruction. In rare cases, 1D acquisition is used for specialized applications like MR spectroscopy, encoding data along a single frequency dimension. The choice of acquisition type depends on clinical and research needs, balancing factors such as scan efficiency, spatial resolution, and signal-to-noise ratio.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MR spatial encoding",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "MRI acquisition type"
+  ]
+}

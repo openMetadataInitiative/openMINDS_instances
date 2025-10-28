@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/manusNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a forelimb nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003448)]",
+  "description": "A nerve that is part of a manus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003448)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003448#manus-nerve",
+  "name": "manus nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003448",
+  "synonym": [
+    "hand nerve",
+    "nerve of hand",
+    "nerve of manus"
+  ]
+}
+

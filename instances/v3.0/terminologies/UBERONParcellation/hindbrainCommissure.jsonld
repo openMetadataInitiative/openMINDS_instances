@@ -4,11 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCommissure",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Hindbrain commissure' is a brain commissure. It is part of the hindbrain.",
-  "description": "Any commissure within the hindbrain.",
+  "definition": "Is a brain commissure. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034763) ('is_a' and 'relationship')]",
+  "description": "Any commissure within the hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034763)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0732568",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034763#hindbrain-commissure",
   "name": "hindbrain commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034763",
   "synonym": null
 }
+

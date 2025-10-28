@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/neuropil",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a central nervous system cell part cluster. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002606)]",
+  "description": "A cluster of neurites that is part of a nervous system and forms a network of dendrites and axons where synapses are present and in which neuronal somata do not occur. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002606)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002606#neuropil",
+  "name": "neuropil",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002606",
+  "synonym": null
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cristaAmpullarisNeuroepithelium",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a vestibular epithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006935)]",
+  "description": "An epithelium that is part of a crista ampullaris. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006935)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006935#crista-ampullaris-neuroepithelium",
+  "name": "crista ampullaris neuroepithelium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006935",
+  "synonym": [
+    "epithelium of crista of ampulla of semicircular duct of membranous labyrinth"
+  ]
+}
+

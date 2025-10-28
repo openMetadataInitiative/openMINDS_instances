@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/telaChoroideaOfTelencephalicVentricle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a tela choroidea. Is part of the telencephalic ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005289) ('is_a' and 'relationship')]",
+  "description": "Tela chorioidea that lines the telencephalic ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005289)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005289#tela-choroidea-of-telencephalic-ventricle",
+  "name": "tela choroidea of telencephalic ventricle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005289",
+  "synonym": [
+    "tela chorioidea of lateral ventricle",
+    "tela chorioidea of telencephalic ventricle",
+    "tela chorioidea telencephalic ventricle",
+    "tela choroidea (ventriculi lateralis)",
+    "tela choroidea of lateral ventricle",
+    "tela choroidea telencephalic ventricle"
+  ]
+}
+

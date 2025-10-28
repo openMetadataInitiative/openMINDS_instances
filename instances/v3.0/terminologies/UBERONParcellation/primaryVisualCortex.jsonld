@@ -4,33 +4,20 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualCortex",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Primary visual cortex' is a Brodmann area and functional part of brain. It is part of the visual cortex.",
-  "description": "Region of visual cortex that receives visual input from the eyes through the lateral geniculate nuclei (Sadato et al., 1996, PMID: 8606771).",
+  "definition": "Is a Brodmann area and functional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002436) ('is_a' and 'relationship')]",
+  "description": "A subdivision of the cytoarchitecturally defined occipital region of cerebral cortex in the human. Defined by the band of Gennari, which gives it the name striate (furrowed) area, it occupies the banks of the calcarine sulcus which are located in the cuneus and the lingual gyrus of the occipital lobe. Cytoarchitecturally it is bounded by the area 18 of Brodmann (human) which surrounds it ( Brodmann-1909 ). In the mouse ( Paxinos-2001 ) and the rat ( Swanson-1998 ) it is located on the dorsolateral surface of the cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002436)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112514",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002436#primary-visual-cortex",
   "name": "primary visual cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002436",
   "synonym": [
-    "Area 17 of Brodmann",
     "area 17 of Brodmann-1909",
-    "area striata",
     "b09-17",
-    "B09-17",
     "BA17",
     "Brodmann (1909) area 17",
     "Brodmann area 17",
-    "calcarine cortex",
-    "nerve X",
-    "occipital visual neocortex",
-    "primary visual area",
-    "primary visual cortex",
-    "striate",
-    "striate area",
-    "striate cortex",
-    "V1",
-    "visual area one",
-    "visual area V1",
-    "visual association area",
-    "visual association cortex"
+    "Brodmann area 17, striate",
+    "striate cortex"
   ]
 }
+

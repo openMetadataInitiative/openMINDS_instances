@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/fibularNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035652)]",
+  "description": "Any nerve that innervates the fibularis. Includes the common fibular nerve, and its branches. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035652)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035652#fibular-nerve",
+  "name": "fibular nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035652",
+  "synonym": [
+    "peroneal nerve"
+  ]
+}
+

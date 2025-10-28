@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_occipito-parietalTransitionalAreaOfCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "OPt",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_occipito-parietalTransitionalAreaOfCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_occipito-parietalTransitionalAreaOfCortex",
+  "name": "occipito-parietal transitional area of cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

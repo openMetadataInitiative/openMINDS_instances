@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryEpithelium",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a sensory epithelium. Is part of the somatic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001997) ('is_a' and 'relationship')]",
+  "description": "A sensory epithelium inside the nasal cavity that is responsible for detecting odors. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001997)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001997#olfactory-epithelium-1",
+  "name": "olfactory epithelium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001997",
+  "synonym": [
+    "main olfactory epithelium",
+    "nasal cavity olfactory epithelium",
+    "olfactory membrane",
+    "olfactory sensory epithelium",
+    "sensory olfactory epithelium"
+  ]
+}
+

@@ -4,14 +4,13 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/choroidPlexusOfThirdVentricle",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Choroid plexus of third ventricle' is a choroid plexus. It is part of the third ventricle.",
-  "description": "Part of choroid plexus contained in the third ventricle",
+  "definition": "Is a choroid plexus. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002288) ('is_a' and 'relationship')]",
+  "description": "Part of choroid plexus contained in the third ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002288)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102145",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002288#choroid-plexus-of-third-ventricle",
   "name": "choroid plexus of third ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002288",
   "synonym": [
-    "3rd ventricle choroid plexus",
     "chorioid plexus of cerebral hemisphere of third ventricle",
     "chorioid plexus of third ventricle",
     "choroid plexus third ventricle",
@@ -20,3 +19,4 @@
     "third ventricle choroid plexus"
   ]
 }
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorBranchOfOculomotorNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the oculomotor nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015161) ('is_a' and 'relationship')]",
+  "description": "The inferior branch of the oculomotor nerve or the inferior division, the larger, divides into three branches. One passes beneath the optic nerve to the medial rectus. Another, to the inferior rectus. The third and longest runs forward between the inferior recti and lateralis to the inferior oblique. From the last a short thick branch is given off to the lower part of the ciliary ganglion, and forms its short root. All these branches enter the muscles on their ocular surfaces, with the exception of the nerve to the inferior oblique, which enters the muscle at its posterior border. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015161)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015161#inferior-branch-of-oculomotor-nerve",
+  "name": "inferior branch of oculomotor nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015161",
+  "synonym": [
+    "inferior ramus of oculomotor nerve",
+    "oculomotor nerve inferior division",
+    "ramus inferior (nervus oculomotorius [III])",
+    "ramus inferior nervi oculomotorii",
+    "ramus inferior nervus oculomotorii"
+  ]
+}
+

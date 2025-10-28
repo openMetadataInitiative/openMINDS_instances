@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ectomeninx",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a future meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007647)]",
+  "description": "The outermost layer of the mesenchymal capsule that surrounds the developing brain, of mixed paraxial mesoderm and neural crest origin. The ectomeninx forms the dura mater (both inner layer and outer chondrogenic layer). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007647)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007647#ectomeninx",
+  "name": "ectomeninx",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007647",
+  "synonym": [
+    "future dura mater"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfCerebralLobe",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebral hemisphere white matter. Is part of the lobe of cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016527) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016527#white-matter-of-cerebral-lobe",
+  "name": "white matter of cerebral lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016527",
+  "synonym": null
+}
+

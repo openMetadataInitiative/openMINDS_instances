@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfParietalLobe",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter of cerebral lobe. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016531) ('is_a' and 'relationship')]",
+  "description": "A white matter of cerebral lobe that is part of a parietal lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016531)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016531#white-matter-of-parietal-lobe",
+  "name": "white matter of parietal lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016531",
+  "synonym": null
+}
+

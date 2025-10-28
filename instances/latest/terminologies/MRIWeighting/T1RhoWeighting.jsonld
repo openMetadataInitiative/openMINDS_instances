@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/T1RhoWeighting",
+  "@id": "https://openminds.om-i.org/instances/MRIWeighting/T1RhoWeighting",
   "@type": "https://openminds.om-i.org/types/MRIWeighting",
   "definition": "Image processing technique that specifically enhances the signal-to-noise ratio of the spin-lattice relaxation in the rotation frame at the presence of an external RF pulse in the transverse plane (T1 rho relaxation time).",
   "description": null,

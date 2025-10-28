@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cranialNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve of head region and cranial neuron projection bundle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001785)]",
+  "description": "Cranial nerves are nerves that emerge directly from the brain, in contrast to spinal nerves, which emerge from segments of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001785)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001785#cranial-nerve",
+  "name": "cranial nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001785",
+  "synonym": [
+    "cranial neural tree organ"
+  ]
+}
+

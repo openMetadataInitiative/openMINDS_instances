@@ -4,11 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/habenularCommissure",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Habenular commissure' is a ventral commissure, commissure of diencephalon and thalamic fiber tract. It is part of the habenula and diencephalic white matter.",
-  "description": "A brain commissure that is situated in front of the pineal gland and connects the habenular nucleus on one side of the diencephalon with that on the other side.",
+  "definition": "Is a ventral commissure, commissure of diencephalon and thalamic fiber tract. Is part of the habenula and the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001909) ('is_a' and 'relationship')]",
+  "description": "A brain commissure that is situated in front of the pineal gland and connects the habenular nucleus on one side of the diencephalon with that on the other side. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001909)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104855",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001909#habenular-commissure-1",
   "name": "habenular commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001909",
-  "synonym": null
+  "synonym": [
+    "commissura habenularum",
+    "commissure habenularum"
+  ]
 }
+

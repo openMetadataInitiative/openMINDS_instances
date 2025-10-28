@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deploymentEnvironmentType/pre-production",
+  "@type": "https://openminds.om-i.org/types/DeploymentEnvironmentType",
+  "definition": "A near-final environment used to validate releases before moving to production; typically mirrors the production setup closely and is used for final checks.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pre-production",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "pprod",
+    "preprod",
+    "pre-prod",
+    "pre-production environment"
+  ]
+}
