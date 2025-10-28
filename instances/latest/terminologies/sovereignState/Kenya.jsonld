@@ -4,15 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Kenya",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in Eastern Africa.",
+  "definition": "Country in Eastern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q114)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Kenya",
   "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q114",
   "synonym": [
-    "KE",
     "ke",
+    "KE",
     "KEN",
     "Republic of Kenya"
   ]

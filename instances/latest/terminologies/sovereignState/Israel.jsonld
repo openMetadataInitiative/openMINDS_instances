@@ -4,15 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Israel",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in West Asia.",
+  "definition": "Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q801)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Israel",
   "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q801",
   "synonym": [
-    "IL",
     "il",
+    "IL",
     "ISR",
     "State of Israel",
     "Yisrael"

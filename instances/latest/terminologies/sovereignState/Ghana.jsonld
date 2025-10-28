@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Ghana",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in West Africa.",
+  "definition": "Country in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q117)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
