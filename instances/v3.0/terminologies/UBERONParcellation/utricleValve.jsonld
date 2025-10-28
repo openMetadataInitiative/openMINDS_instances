@@ -5,7 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/utricleValve",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "Is part of the utricle of membranous labyrinth. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003979)]",
-  "description": "The utriculo-endolymphatic (UE) valve which is located in the antero-inferior wall of the utricle at the orifice of the utricular duct and serves to regulate endolymph volume in the endolymphatic sac, the utricle and the canals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003979)]",
+  "description": "The utriculo-endolymphatic valve which is located in the antero-inferior wall of the utricle at the orifice of the utricular duct and serves to regulate endolymph volume in the endolymphatic sac, the utricle and the canals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003979)]",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003979#utricle-valve",
   "name": "utricle valve",
