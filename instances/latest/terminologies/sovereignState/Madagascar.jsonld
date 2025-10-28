@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Madagascar",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Island sovereign state off the coast of Southeast Africa, in the Indian Ocean.",
+  "definition": "Island sovereign state off the coast of Southeast Africa, in the Indian Ocean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1019)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -12,12 +12,11 @@
   "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1019",
   "synonym": [
     "MAD",
-    "Madagascar country",
     "Malagascar",
     "Malagaskar",
     "MDG",
-    "mg",
     "MG",
+    "mg",
     "Repoblikan'i Madagaskar",
     "Republic of Madagascar",
     "République de Madagascar"

@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Monaco",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Microstate in Western Europe.",
+  "definition": "Microstate in Western Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q235)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -12,8 +12,8 @@
   "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q235",
   "synonym": [
     "Fort-Hercule",
-    "MC",
     "mc",
+    "MC",
     "MCO",
     "MON",
     "Monaco",

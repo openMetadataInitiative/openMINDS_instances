@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Lebanon",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in West Asia.",
+  "definition": "Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q822)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

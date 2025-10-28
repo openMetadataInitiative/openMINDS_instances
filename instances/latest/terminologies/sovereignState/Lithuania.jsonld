@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Lithuania",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in northeastern Europe.",
+  "definition": "Country in northeastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q37)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

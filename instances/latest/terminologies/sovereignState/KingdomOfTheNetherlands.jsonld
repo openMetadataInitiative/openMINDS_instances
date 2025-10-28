@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/KingdomOfTheNetherlands",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Transcontinental sovereign state and constitutional monarchy.",
+  "definition": "Transcontinental sovereign state and constitutional monarchy. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q29999)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

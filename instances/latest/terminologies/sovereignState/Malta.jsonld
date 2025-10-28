@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/SovereignState/Malta",
   "@type": "https://openminds.om-i.org/types/SovereignState",
-  "definition": "Country in Southern Europe situated on an archipelago in the Mediterranean Sea.",
+  "definition": "Country in Southern Europe situated on an archipelago in the Mediterranean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q233)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
