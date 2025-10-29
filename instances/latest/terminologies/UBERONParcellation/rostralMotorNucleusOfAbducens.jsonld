@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rostralMotorNucleusOfAbducens",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the abducens nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000654) ('is_a' and 'relationship')]",
+  "description": "Rostral part of the abducens nucleus that mediates motor function. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000654)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000654#rostral-motor-nucleus-of-abducens",
+  "name": "rostral motor nucleus of abducens",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000654",
+  "synonym": null
+}
+

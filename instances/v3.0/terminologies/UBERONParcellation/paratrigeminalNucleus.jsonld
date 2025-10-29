@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paratrigeminalNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016832)]",
+  "description": "The term paratrigeminal nucleus refers to a group of cells located lateral to the spinal trigeminal tract of the medulla and medial to the spinocerebellar tracts at the level of the spinal trigeminal nucleus. The cells, identified by Nissl stain, are partially embedded in the adjacent tracts; their distribution varies by species. The paratrigeminal nucleus may represent an extension of the lateral cervical nucleus into the medulla ( Swanson-2004 ). It is found in the human ( Carpenter-1983 ), the macaque ( Paxinos-2009a ), the rat ( Swanson-2004 ) and the mouse ( Paxinos-2001 ). In the functional model of central nervous system organization it is classified as part of the subcortical somatosensory system ( Swanson-2004 ) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016832)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016832#paratrigeminal-nucleus",
+  "name": "paratrigeminal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016832",
+  "synonym": null
+}
+
