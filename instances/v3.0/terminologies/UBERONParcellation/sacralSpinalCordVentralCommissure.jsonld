@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sacralSpinalCordVentralCommissure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a spinal cord ventral commissure. Is part of the sacral spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007835) ('is_a' and 'relationship')]",
+  "description": "A spinal cord ventral commissure that is part of a sacral spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007835)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007835#sacral-spinal-cord-ventral-commissure-1",
+  "name": "sacral spinal cord ventral commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007835",
+  "synonym": [
+    "sacral spinal cord anterior commissure"
+  ]
+}
+

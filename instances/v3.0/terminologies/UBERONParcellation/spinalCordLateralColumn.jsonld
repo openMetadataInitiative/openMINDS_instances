@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinalCordLateralColumn",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a spinal cord column. Is part of the lateral funiculus of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005374) ('is_a' and 'relationship')]",
+  "description": "The region of white matter of the spinal cord that is located between the dorsal and ventral spinal roots. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005374)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005374#spinal-cord-lateral-column",
+  "name": "spinal cord lateral column",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005374",
+  "synonym": null
+}
+

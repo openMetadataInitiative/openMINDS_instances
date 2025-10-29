@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/tenthThoracicSpinalCordSegment",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006466)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006466#tenth-thoracic-spinal-cord-segment-1",
+  "name": "tenth thoracic spinal cord segment",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006466",
+  "synonym": [
+    "t10 segment",
+    "T10 spinal cord segment"
+  ]
+}
+

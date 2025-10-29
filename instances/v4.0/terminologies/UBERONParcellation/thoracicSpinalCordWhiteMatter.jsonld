@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCordWhiteMatter",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter of spinal cord. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014637) ('is_a' and 'relationship')]",
+  "description": "A white matter of spinal cord that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014637)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014637#thoracic-spinal-cord-white-matter-1",
+  "name": "thoracic spinal cord white matter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014637",
+  "synonym": null
+}
+

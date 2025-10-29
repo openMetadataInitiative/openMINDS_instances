@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/meninxOfSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a meninx. Is part of the spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003292) ('is_a' and 'relationship')]",
+  "description": "A meninx that is part of a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003292)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003292#meninx-of-spinal-cord",
+  "name": "meninx of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003292",
+  "synonym": [
+    "meninges of spinal cord",
+    "spinal cord meninges",
+    "spinal cord meninx",
+    "spinal meninx"
+  ]
+}
+

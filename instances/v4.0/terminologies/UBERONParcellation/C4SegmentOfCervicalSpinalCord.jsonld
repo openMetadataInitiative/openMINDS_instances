@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/C4SegmentOfCervicalSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006490)]",
+  "description": "The segment of the spinal cord that corresponds to the fourth cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006490)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006490#forth-cervical-spinal-cord-segment",
+  "name": "C4 segment of cervical spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006490",
+  "synonym": [
+    "C4 segment",
+    "C4 spinal cord segment",
+    "forth cervical spinal cord segment"
+  ]
+}
+
