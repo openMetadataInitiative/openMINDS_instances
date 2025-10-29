@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfTrapezoidBody",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Medial nucleus of trapezoid body' is a nucleus of trapezoid body. It is part of the primary superior olive.",
-  "description": "Nucleus in the pontine tegmentum of most mammals that receives projections from the ventral cochlear nucleus via the large specialized synapse, the Calyx of Held.  It is not clear whether a well defined nucleus is present in humans, although humans may possess scattered cells with similar input.",
+  "definition": "Is a nucleus of trapezoid body. Is part of the primary superior olive. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002833) ('is_a' and 'relationship')]",
+  "description": "Nucleus in the pontine tegmentum of most mammals that receives projections from the ventral cochlear nucleus via the large specialized synapse, the Calyx of Held. It is not clear whether a well defined nucleus is present in humans, although humans may possess scattered cells with similar input. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002833)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106669",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002833#medial-nucleus-of-trapezoid-body-1",
   "name": "medial nucleus of trapezoid body",
@@ -14,3 +14,4 @@
     "MNTB"
   ]
 }
+

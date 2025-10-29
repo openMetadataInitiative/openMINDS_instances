@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralPartOfMedialMammillaryNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Lateral part of medial mammillary nucleus' is a gray matter of diencephalon. It is part of the medial mammillary nucleus.",
-  "description": "",
+  "definition": "Is a gray matter of diencephalon. Is part of the medial mammillary nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002664) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106090",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002664#lateral-part-of-medial-mammillary-nucleus-1",
   "name": "lateral part of medial mammillary nucleus",
@@ -13,16 +13,9 @@
   "synonym": [
     "intercalated mammillary nucleus",
     "intermediate mammillary nucleus",
-    "lateral mammillary nucleus (Gagel)",
-    "lateral part",
-    "lateral part of the medial mammillary nucleus",
+    "lateral mammillary nucleus (gagel)",
     "lateral subdivision of medial mammillary nucleus",
-    "medial mammillary nucleus",
-    "medial mammillary nucleus lateral part",
-    "MML",
-    "nucleus corporis mamillaris medialis",
-    "nucleus intercalatus corporis mammillaris",
-    "nucleus intermedius corpus mamillaris",
-    "pars lateralis"
+    "medial mammillary nucleus, lateral part"
   ]
 }
+
