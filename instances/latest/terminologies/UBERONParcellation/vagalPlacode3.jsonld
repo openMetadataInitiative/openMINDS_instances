@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/vagalPlacode3",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an epibranchial placode. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001299)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2001299#vagal-placode-3",
+  "name": "vagal placode 3",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2001299",
+  "synonym": null
+}
+
