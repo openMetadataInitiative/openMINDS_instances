@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Hungary",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q28)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Hungary",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q28",
+  "synonym": [
+    "HU",
+    "HUN",
+    "Magyarország"
+  ]
+}
