@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nerveToStylopharyngeusFromGlossopharyngealNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the glossopharyngeal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011317) ('is_a' and 'relationship')]",
+  "description": "The stylopharyngeal branch of glossopharyngeal nerve is distributed to the Stylopharyngeus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011317)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011317#nerve-to-stylopharyngeus-from-glossopharyngeal-nerve",
+  "name": "nerve to stylopharyngeus from glossopharyngeal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011317",
+  "synonym": [
+    "branch of glossopharyngeal nerve to stylopharyngeus",
+    "nerve to stylopharyngeus",
+    "ramus musculi stylopharyngei nervus glossopharyngei",
+    "stylopharyngeal branch of glossopharyngeal nerve"
+  ]
+}
+
