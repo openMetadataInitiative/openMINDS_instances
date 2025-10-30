@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SupranationalBody/WestAfricanExaminationsCouncil",
+  "@type": "https://openminds.om-i.org/types/SupranationalBody",
+  "definition": "Is an examination board established in the public interest to conduct exams and award certificates in English-speaking West African countries. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/West_African_Examinations_Council)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "West African Examinations Council",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q2993835",
+  "synonym": [
+    "WAEC",
+    "West African Examination Council",
+    "West African Exams Council"
+  ]
+}
