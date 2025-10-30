@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nerveEndingOfOfCorpusCavernosumMaxillaris",
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nerveEndingOfCorpusCavernosumMaxillaris",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "Is a nerve ending. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013671)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013671#nerve-ending-of-of-corpus-cavernosum-maxillaris",
-  "name": "nerve ending of of corpus cavernosum maxillaris",
+  "name": "nerve ending of corpus cavernosum maxillaris",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013671",
   "synonym": null
 }
