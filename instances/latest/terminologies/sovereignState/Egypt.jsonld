@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Egypt",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Northeast Africa and Southwest Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q79)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Egypt",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q79",
+  "synonym": [
+    "Arab Rep. Egypt",
+    "Arab Republic of Egypt",
+    "eg",
+    "EG",
+    "EGY",
+    "Egypt",
+    "Mesir",
+    "Misr",
+    "Rep. Egypt",
+    "Republic of Egypt",
+    "Republik Arab Mesir"
+  ]
+}
