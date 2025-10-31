@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/KingdomOfDenmark",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Transcontinental sovereign state and constitutional monarchy. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q756617)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Kingdom of Denmark",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q756617",
+  "synonym": [
+    "Danish Realm",
+    "Danmarkar Ríki",
+    "Danmarkip Naalagaaffik",
+    "Danmarks Rige",
+    "Denmark",
+    "Kongeriget Danmark",
+    "Kongsríki Danmarkar",
+    "Kunngeqarfik Danmarki",
+    "Realm of Denmark"
+  ]
+}
