@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Serbia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Southeast Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q403)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Serbia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q403",
+  "synonym": [
+    "Republic of Serbia",
+    "Republika Srbija",
+    "RS",
+    "SRB",
+    "Srbija"
+  ]
+}
