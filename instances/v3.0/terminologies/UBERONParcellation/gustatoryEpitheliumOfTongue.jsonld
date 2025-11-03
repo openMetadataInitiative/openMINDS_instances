@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/gustatoryEpitheliumOfTongue",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a gustatory epithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014452)]",
+  "description": "A gustatory epithelium that is part of a tongue. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014452)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014452#gustatory-epithelium-of-tongue",
+  "name": "gustatory epithelium of tongue",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014452",
+  "synonym": [
+    "lingual gustatory epithelium"
+  ]
+}
+
