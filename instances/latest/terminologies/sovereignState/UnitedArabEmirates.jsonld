@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/UnitedArabEmirates",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q878)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "United Arab Emirates",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q878",
+  "synonym": [
+    "ae",
+    "AE",
+    "ARE",
+    "Emirates",
+    "the Emirates",
+    "the U.A.E.",
+    "the UAE",
+    "the United Arab Emirates",
+    "U.A.E.",
+    "UAE"
+  ]
+}
