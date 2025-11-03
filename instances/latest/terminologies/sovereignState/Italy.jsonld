@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Italy",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Southern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q38)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Italy",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q38",
+  "synonym": [
+    "IT",
+    "ITA",
+    "Italia",
+    "Italian Republic",
+    "Repubblica Italiana",
+    "Republic of Italy"
+  ]
+}

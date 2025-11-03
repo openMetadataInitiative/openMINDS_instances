@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/India",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in South Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q668)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "India",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q668",
+  "synonym": [
+    "Al Hind",
+    "Bharat",
+    "Bharat Ganarajya",
+    "Bharata",
+    "Bharatvarsh",
+    "Hindoostan",
+    "Hindustan",
+    "in",
+    "IN",
+    "IND",
+    "Indostan",
+    "Republic of India",
+    "Tenjiku",
+    "Tianzhu"
+  ]
+}
