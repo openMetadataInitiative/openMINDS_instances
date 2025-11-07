@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_intraparietalSulcus",
   "name": "intraparietal sulcus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/intraparietalSulcus"
 }
+

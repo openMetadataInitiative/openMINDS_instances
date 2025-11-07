@@ -71,5 +71,6 @@
   "lookupLabel": "JBA_HATA",
   "name": "HATA (Hippocampus)",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/amygdalohippocampalTransitionArea"
 }
+

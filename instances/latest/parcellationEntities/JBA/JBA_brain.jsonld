@@ -12,5 +12,6 @@
   "lookupLabel": "JBA_brain",
   "name": "brain",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/brain"
 }
+

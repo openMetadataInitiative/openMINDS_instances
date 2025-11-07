@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_superiorTemporalSulcus",
   "name": "superior temporal sulcus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/superiorTemporalSulcus"
 }
+

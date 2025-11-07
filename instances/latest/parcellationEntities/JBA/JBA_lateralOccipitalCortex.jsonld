@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_lateralOccipitalCortex",
   "name": "lateral occipital cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/lateralOccipitalCortex"
 }
+

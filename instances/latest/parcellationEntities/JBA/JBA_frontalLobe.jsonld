@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_frontalLobe",
   "name": "frontal lobe",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/frontalLobe"
 }
+

@@ -65,5 +65,6 @@
   "lookupLabel": "JBA_CA3",
   "name": "CA3 (Hippocampus)",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/CA3FieldOfHippocampus"
 }
+

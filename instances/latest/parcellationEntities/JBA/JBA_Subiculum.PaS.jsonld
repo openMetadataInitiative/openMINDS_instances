@@ -50,5 +50,6 @@
   "lookupLabel": "JBA_Subiculum.PaS",
   "name": "Subiculum.PaS (Hippocampus)",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/parasubiculum"
 }
+

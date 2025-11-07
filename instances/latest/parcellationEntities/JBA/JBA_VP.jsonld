@@ -29,5 +29,6 @@
   "lookupLabel": "JBA_VP",
   "name": "VP (Ventral Pallidum)",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/ventralPallidum"
 }
+

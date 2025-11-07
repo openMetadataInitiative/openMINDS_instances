@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_precentralGyrus",
   "name": "precentral gyrus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/precentralGyrus"
 }
+

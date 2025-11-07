@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_middleFrontalGyrus",
   "name": "middle frontal gyrus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/middleFrontalGyrus"
 }
+

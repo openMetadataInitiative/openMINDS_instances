@@ -41,5 +41,6 @@
   "lookupLabel": "JBA_CGL",
   "name": "CGL (Metathalamus)",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/lateralGeniculateBody"
 }
+

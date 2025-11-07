@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_cingulateGyrus",
   "name": "cingulate gyrus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/cingulateGyrus"
 }
+

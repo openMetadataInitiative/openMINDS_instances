@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_basalGanglia",
   "name": "basal ganglia",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/collectionOfBasalGanglia"
 }
+

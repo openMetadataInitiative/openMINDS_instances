@@ -71,5 +71,6 @@
   "lookupLabel": "JBA_Fastigial-Nucleus",
   "name": "Fastigial Nucleus (Cerebellum)",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/fastigialNucleus"
 }
+

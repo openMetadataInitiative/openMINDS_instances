@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_diencephalon",
   "name": "diencephalon",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/diencephalon"
 }
+
