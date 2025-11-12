@@ -173,27 +173,10 @@
     ],
     "ontologyIdentifier": null
   },
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/AAL1_SPM12-v4"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/AAL1_SPM8-v1"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/AAL1_SPM5-vbeta2"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/AAL1_SPM2-vbeta1"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/AAL1_SPM99-vbeta2"
-    }
-  ],
   "homepage": "https://www.gin.cnrs.fr/en/tools/aal/",
   "howToCite": null,
   "shortName": "AAL Atlas 1",
-	"usedSpecies": {
-		"@id": "https://openminds.om-i.org/instances/species/homoSapiens"
-	}
+  "usedSpecies": {
+    "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
+  }
 }
