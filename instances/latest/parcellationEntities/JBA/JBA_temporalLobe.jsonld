@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_temporalLobe",
   "name": "temporal lobe",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/temporalLobe"
 }
+

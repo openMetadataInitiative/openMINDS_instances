@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_frontalPole",
   "name": "frontal pole",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/frontalPole"
 }
+

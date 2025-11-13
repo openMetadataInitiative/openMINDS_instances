@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_parietalOperculum",
   "name": "parietal operculum",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/parietalOperculum"
 }
+

@@ -71,5 +71,6 @@
   "lookupLabel": "JBA_DG",
   "name": "DG (Hippocampus)",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusOfHippocampalFormation"
 }
+

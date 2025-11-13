@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_limbicLobe",
   "name": "limbic lobe",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/limbicLobe"
 }
+

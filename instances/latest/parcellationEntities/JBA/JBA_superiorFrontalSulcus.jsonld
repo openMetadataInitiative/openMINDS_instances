@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_superiorFrontalSulcus",
   "name": "superior frontal sulcus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/superiorFrontalSulcus"
 }
+
