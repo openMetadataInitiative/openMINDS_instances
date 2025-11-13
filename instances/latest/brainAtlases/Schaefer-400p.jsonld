@@ -16,26 +16,6 @@
     "hasEntity": null,
     "ontologyIdentifier": null
   },
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-yeo7n"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-yeo17n"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-kong17n"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-yeo7n"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-yeo17n"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-kong17n"
-    }
-  ],
   "homepage": "https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal",
   "howToCite": null,
   "shortName": "Schaefer Atlas (400p)",

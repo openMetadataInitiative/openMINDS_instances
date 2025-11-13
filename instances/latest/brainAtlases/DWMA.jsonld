@@ -59,11 +59,6 @@
     ],
     "ontologyIdentifier": null
   },
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/DWMA_2018"
-    }
-  ],
   "homepage": null,
   "howToCite": null,
   "shortName": "Deep White Matter Atlas",
