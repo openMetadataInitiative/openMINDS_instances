@@ -10,11 +10,6 @@
   "description": "Stereotactic coordinate space of the coronal plane.",
   "digitalIdentifier": null,
   "fullName": "Paxinos et al. Coronal Template of the Marmoset Brain in Stereotaxic Coordinates",
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/P-MarmosetBSC-corT_v2012-Interaural-LSA"
-    }
-  ],
   "homepage": "http://www.neura.edu.au/research/themes/paxinos-group",
   "howToCite": null,
   "ontologyIdentifier": null,
