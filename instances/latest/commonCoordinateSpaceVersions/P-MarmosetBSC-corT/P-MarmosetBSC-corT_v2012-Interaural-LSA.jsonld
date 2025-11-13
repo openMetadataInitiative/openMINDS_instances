@@ -25,8 +25,9 @@
   "funding": null,
   "homepage": "http://www.neura.edu.au/research/themes/paxinos-group",
   "howToCite": null,
-  "isAlternativeVersionOf": null,
-  "isNewVersionOf": null,
+  "isPrecededBy": null,
+  "isVariantOf": null,
+  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateSpace/P-MarmosetBSC-corT",
   "keyword": null,
   "license": null,
   "nativeUnit": {
@@ -43,4 +44,3 @@
   "versionIdentifier": "v2012 (Interaural, LSA)",
   "versionInnovation": "This is the first version of this stereotaxic coordinate system."
 }
-

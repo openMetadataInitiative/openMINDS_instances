@@ -1,34 +1,20 @@
 {
-	"@context": {
-		"@vocab": "https://openminds.om-i.org/props/"
-	},
-	"@id": "https://openminds.om-i.org/instances/commonCoordinateSpace/AMB-CCF",
-	"@type": "https://openminds.om-i.org/types/CommonCoordinateSpace",
-	"abbreviation": "AMB CCF",
-	"author": null,
-	"custodian": null,
-	"description": "The 'Allen Mouse Brain Common Coordinate Framework' is a 3D reconstruction of an averaged adult mouse brain.",
-	"digitalIdentifier": null,
-	"fullName": "Allen Mouse Brain Common Coordinate Framework",
-	"hasVersion": [
-		{
-			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/AMB-CCF_v3-RAS"
-		},
-		{
-			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/AMB-CCF_v3"
-		},
-		{
-			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/AMB-CCF_v2"
-		},
-		{
-			"@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/AMB-CCF_v1"
-		}
-	],
-	"homepage": "https://portal.brain-map.org/",
-	"howToCite": null,
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateSpace/AMB-CCF",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateSpace",
+  "abbreviation": "AMB CCF",
+  "author": null,
+  "custodian": null,
+  "description": "The 'Allen Mouse Brain Common Coordinate Framework' is a 3D reconstruction of an averaged adult mouse brain.",
+  "digitalIdentifier": null,
+  "fullName": "Allen Mouse Brain Common Coordinate Framework",
+  "homepage": "https://portal.brain-map.org/",
+  "howToCite": null,
   "ontologyIdentifier": null,
-	"shortName": "Allen Mouse Brain CCF",
-	"usedSpecies": {
-		"@id": "https://openminds.om-i.org/instances/species/musMusculus"
-	}
+  "shortName": "Allen Mouse Brain CCF",
+  "usedSpecies": {
+    "@id": "https://openminds.om-i.org/instances/species/musMusculus"
+  }
 }
