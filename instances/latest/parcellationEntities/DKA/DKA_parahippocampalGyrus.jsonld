@@ -5,14 +5,20 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_parahippocampalGyrus",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "parahippocampal"
+  ],
+  "definition": "The rostral and caudal boundaries of the parahippocampal gyrus were the posterior end of the entorhinal cortex and the caudal portion of the hippocampus (where it could be identified inferomedial to the trigone of the lateral ventricle), respectively. The medial boundary was designated as the medial aspect of the temporal lobe and the lateral boundary was the collateral sulcus. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_medialAspect"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_medialTemporalLobe"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_parahippocampalGyrus"
+    }
+  ],
   "lookupLabel": "DKA_parahippocampalGyrus",
   "name": "parahippocampal gyrus",
   "ontologyIdentifier": null,

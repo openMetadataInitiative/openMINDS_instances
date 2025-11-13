@@ -5,14 +5,23 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_medialOrbitalFrontalCortex",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "medial orbital frontal",
+    "medial orbital frontal cortex",
+    "orbitofrontal cortex - medial division",
+    "medial division"
+  ],
+  "definition": "The rostral boundary of the medial division of the orbitofrontal cortex was the rostral extent of the medial orbital gyrus, and the caudal boundary was the caudal portion of the medial orbital gyrus/gyrus rectus. The medial and lateral boundaries were the cingulate cortex on the inflated surface and the medial bank of the superior frontal gyrus (or the cingulate gyrus when visible), respectively. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_orbitofrontalCortex"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_medialOrbitalFrontalCortex"
+    }
+  ],
   "lookupLabel": "DKA_medialOrbitalFrontalCortex",
   "name": "medial orbitofrontal cortex",
   "ontologyIdentifier": null,

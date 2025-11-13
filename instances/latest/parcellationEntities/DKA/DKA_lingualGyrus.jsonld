@@ -5,14 +5,20 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_lingualGyrus",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "lingual"
+  ],
+  "definition": "The rostral boundary of the lingual gyrus was the posterior extent of the parahippocampal gyrus, and the caudal boundary was the most posterior portion of the occipital cortex. The medial and lateral boundaries were the medial portion of the temporal and occipital cortices and the medial bank of the collateral sulcus, respectively. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_occipitalLobe"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_lingualGyrus"
+    }
+  ],
   "lookupLabel": "DKA_lingualGyrus",
   "name": "lingual gyrus",
   "ontologyIdentifier": null,

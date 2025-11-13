@@ -5,14 +5,23 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_caudalAnteriorCingulateCortex",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "CA cingulate", 
+    "cingulate cortex - caudal anterior division",
+    "caudal anterior division",
+    "caudal anterior - cingulate cortex"
+  ],
+  "definition": "The rostral boundary was the genu of the corpus callosum, and the caudal boundary was established as the mammillary bodies. The medial and lateral boundaries were the medial aspect of the cortex and the superior frontal gyrus, respectively. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_anteriorCingulateCortex"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_caudalAnteriorCingulateCortex"
+    }
+  ],
   "lookupLabel": "DKA_caudalAnteriorCingulateCortex",
   "name": "caudal anterior cingulate cortex",
   "ontologyIdentifier": null,

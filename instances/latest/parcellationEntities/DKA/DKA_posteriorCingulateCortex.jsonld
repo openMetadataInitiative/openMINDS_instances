@@ -5,14 +5,23 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_posteriorCingulateCortex",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "posterior cingulate",
+    "cingulate cortex - posterior division",
+    "posterior division",
+    "posterior - cingulate cortex"
+  ],
+  "definition": "The rostral and caudal extent were the caudal anterior and the isthmus divisions of the cingulate cortex, respectively. The medial and lateral boundaries were the corpus callosum and the superior frontal gyrus and/or paracentral lobule, respectively. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_occipitalLobe"
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_cingulateCortex"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_posteriorCingulateCortex"
+    }
+  ],
   "lookupLabel": "DKA_posteriorCingulateCortex",
   "name": "posterior cingulate cortex",
   "ontologyIdentifier": null,

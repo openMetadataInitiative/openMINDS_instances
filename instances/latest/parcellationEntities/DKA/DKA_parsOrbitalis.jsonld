@@ -6,13 +6,17 @@
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
   "alternateName": null,
-  "definition": null,
+  "definition": "Is a subdivision of the inferior frontal gyrus and was defined as the remainder of this region that was not occupied by its other subregions, the pars opercularis and triangularis. Consequently, the caudal boundary was the pars triangularis, and the rostral boundary was the rostral extent of the inferior frontal sulcus. The medial and lateral boundaries were the lateral bank of the inferior frontal sulcus and the medial bank of the lateral orbital sulcus and/or the circular insular sulcus, respectively.  [rephrased from its parent’s and its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_inferiorFrontalGyrus"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_parsOrbitalis"
+    }
+  ],
   "lookupLabel": "DKA_parsOrbitalis",
   "name": "pars orbitalis",
   "ontologyIdentifier": null,

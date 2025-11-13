@@ -5,14 +5,22 @@
   "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_rostralMiddleFrontalGyrus",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": null,
-  "alternateName": null,
-  "definition": null,
+  "alternateName": [
+    "rostral middle frontal",
+    "frontal gyrus - rostral division",
+    "rostral division"
+  ],
+  "definition": "The rostral boundary was the rostral extent of the superior frontal sulcus, and the caudal boundary was the caudal extent of the middle frontal gyrus. The medial and lateral boundaries were the superior frontal sulcus and the inferior frontal sulcus, respectively. [quoted from its respective 'Materials and methods' subsection in [Desikan et al. (2006)](https://doi.org/10.1016/j.neuroimage.2006.01.021)]",
   "hasParent": [
     {
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_middleFrontalGyrus"
     }
   ],
-  "hasVersion": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DKA_v2006_rostralMiddleFrontalGyrus"
+    }
+  ],
   "lookupLabel": "DKA_rostralMiddleFrontalGyrus",
   "name": "rostral middle frontal gyrus",
   "ontologyIdentifier": null,
