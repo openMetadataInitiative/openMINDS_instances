@@ -346,14 +346,15 @@
   },
   "homepage": "https://julich-brain-atlas.de/",
   "howToCite": "Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2019)](https://doi.org/10.25493/8EGG-ZAR).",
-  "isAlternativeVersionOf": [
+  "isPrecededBy": {
+    "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/JBA_v1.13-Colin27"
+  },
+  "isVariantOf": [
     {
       "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/JBA_v1.18-MNI152"
     }
   ],
-  "isNewVersionOf": {
-    "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/JBA_v1.13-Colin27"
-  },
+  "isVersionOf": "https://openminds.om-i.org/instances/brainAtlas/JBA",
   "keyword": null,
   "license": {
     "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-NC-SA-4.0"
@@ -375,4 +376,3 @@
   "versionIdentifier": "v1.18, Colin27",
   "versionInnovation": null
 }
-
