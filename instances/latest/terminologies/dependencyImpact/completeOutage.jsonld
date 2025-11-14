@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/dependencyImpact/completeOutage",
+  "@type": "https://openminds.om-i.org/types/DependencyImpact",
+  "definition": "A dependent becomes entirely nonfunctional if the dependee is unavailable.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "complete outage",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
