@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/dependencyImpact/queueBuild-up",
+  "@type": "https://openminds.om-i.org/types/DependencyImpact",
+  "definition": "Requests or tasks accumulate with a dependent because normal processing cannot proceed if the dependee is unavailable.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "queue build-up",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
