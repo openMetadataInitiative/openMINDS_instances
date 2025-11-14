@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Philippines",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Archipelagic country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q928)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Philippines",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q928",
+  "synonym": [
+    "ph",
+    "PH",
+    "PHI",
+    "Philippine Islands",
+    "PHL",
+    "Pilipinas",
+    "Republic of the Philippines",
+    "RP",
+    "The Philippines"
+  ]
+}
