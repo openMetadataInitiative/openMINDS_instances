@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SupranationalBody/EuropeanUnion",
+  "@type": "https://openminds.om-i.org/types/SupranationalBody",
+  "definition": "Political and economic union of 27 European states. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q458)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "European Union",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q458",
+  "synonym": [
+    "An tAontas Eorpach",
+    "Den Europæiske Union",
+    "E.U.",
+    "Eiropas Savienība",
+    "EU",
+    "eu",
+    "Euroopa Liit",
+    "Euroopan unioni",
+    "Europeiska unionen",
+    "Europese Unie",
+    "Europos Sąjunga",
+    "Europska unija",
+    "Europäische Union",
+    "Európai Unió",
+    "Európska únia",
+    "Evropska unija",
+    "Evropská unie",
+    "Unia Europejska",
+    "Union européenne",
+    "Unione Europea",
+    "Uniunea Europeană",
+    "União Europeia",
+    "Unión Europea",
+    "Unjoni Ewropea"
+  ]
+}
