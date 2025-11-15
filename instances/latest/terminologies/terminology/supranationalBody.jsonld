@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/supranationalBody",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Political and government system, where several sovereign states give up and share part of their sovereignty for their common governance. [Based on the 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1335818)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "supranational body",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q1335818",
+  "synonym": [
+    "supranational entity",
+    "supranational union",
+    "supranationalism"
+  ]
+}
