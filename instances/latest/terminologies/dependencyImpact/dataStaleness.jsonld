@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/dependencyImpact/dataStaleness",
   "@type": "https://openminds.om-i.org/types/DependencyImpact",
-  "definition": "A dependent must rely on cached or outdated data because fresh data cannot be retrieved if the dependee is unavailable.",
+  "definition": "A [system|thing] must rely on cached or outdated data because fresh data cannot be retrieved if the thing it depends on is unavailable.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
