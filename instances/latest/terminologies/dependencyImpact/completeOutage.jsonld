@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/dependencyImpact/completeOutage",
   "@type": "https://openminds.om-i.org/types/DependencyImpact",
-  "definition": "A dependent becomes entirely nonfunctional if the dependee is unavailable.",
+  "definition": "A [system|thing] becomes entirely nonfunctional if the thing it depends on is unavailable.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
