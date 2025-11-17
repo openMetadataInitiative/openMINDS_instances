@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Brunei",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign country and sultanate on the island of Borneo in south-east Asia, member of the Commonwealth of Nations. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q921)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Brunei",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q921",
+  "synonym": [
+    "bn",
+    "BN",
+    "BRN",
+    "BRU",
+    "Brunei Darussalam",
+    "Nation of Brunei, the Abode of Peace",
+    "Negara Brunei Darussalam"
+  ]
+}
