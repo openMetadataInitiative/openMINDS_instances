@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/dependencyImpact/queueBuild-up",
   "@type": "https://openminds.om-i.org/types/DependencyImpact",
-  "definition": "Requests or tasks directed to a [system|thing] accumulate because normal processing cannot proceed if the thing it depends on is unavailable.",
+  "definition": "Requests or tasks directed to a thing accumulate because normal processing cannot proceed if the thing it depends on is unavailable.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
