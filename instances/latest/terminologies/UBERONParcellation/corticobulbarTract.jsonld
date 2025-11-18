@@ -5,7 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/corticobulbarTract",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
   "definition": "Is a tract of brain. Is part of the white matter of telencephalon and the corticobulbar and corticospinal tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022272) ('is_a' and 'relationship')]",
-  "description": "The corticobulbar (or corticonuclear) tract is a white matter pathway connecting the cerebral cortex to the brainstem. The term bulbar refers to the brainstem, as bulb was a historical term meaning the area currently called the brainstem. The 'bulb' is an archaic term for the medulla oblongata. In clinical usage, it includes the pons as well. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022272)]",
+  "description": "The corticobulbar (or corticonuclear) tract is a white matter pathway connecting the cerebral cortex to the brainstem. The term 'bulbar' refers to the brainstem, as bulb was a historical term meaning the area currently called the brainstem. The 'bulb' is an archaic term for the medulla oblongata. In clinical usage, it includes the pons as well. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022272)]",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022272#corticobulbar-tract",
   "name": "corticobulbar tract",
