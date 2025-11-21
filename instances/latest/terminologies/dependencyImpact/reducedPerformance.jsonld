@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/dependencyImpact/reducedPerformance",
+  "@type": "https://openminds.om-i.org/types/DependencyImpact",
+  "definition": "A thing remains functional but responds more slowly or with higher latency if the thing it depends on is unavailable.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "reduced performance",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
