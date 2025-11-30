@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_superiorParietalCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "SPC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_parietalLobe"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_superiorParietalCortex"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_superiorParietalCortex"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_subcortical-extension_superiorParietalCortex"
+    }
+  ],
+  "lookupLabel": "MarsAtlas_superiorParietalCortex",
+  "name": "superior parietal cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": {
+    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/superiorParietalCortex"
+  }
+}
+
