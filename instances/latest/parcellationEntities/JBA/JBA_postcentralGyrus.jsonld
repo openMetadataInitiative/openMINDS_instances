@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_postcentralGyrus",
   "name": "postcentral gyrus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/postcentralGyrus"
 }
+

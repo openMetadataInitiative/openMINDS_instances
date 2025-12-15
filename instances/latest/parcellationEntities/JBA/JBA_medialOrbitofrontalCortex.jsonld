@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_medialOrbitofrontalCortex",
   "name": "medial orbitofrontal cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/medialOrbitalFrontalCortex"
 }
+

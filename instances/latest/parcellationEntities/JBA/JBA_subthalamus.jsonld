@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_subthalamus",
   "name": "subthalamus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/ventralThalamus"
 }
+

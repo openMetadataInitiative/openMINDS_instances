@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_superiorFrontalGyrus",
   "name": "superior frontal gyrus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/superiorFrontalGyrus"
 }
+

@@ -71,5 +71,6 @@
   "lookupLabel": "JBA_Interposed-Nucleus",
   "name": "Interposed Nucleus (Cerebellum)",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellumInterpositusNucleus"
 }
+

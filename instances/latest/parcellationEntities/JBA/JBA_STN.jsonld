@@ -29,5 +29,6 @@
   "lookupLabel": "JBA_STN",
   "name": "STN (Subthalamus)",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/subthalamicNucleus"
 }
+
