@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/interfaceType/webGUI",
-  "@type": "https://openminds.om-i.org/types/InterfaceType",
+  "@id": "https://openminds.om-i.org/instances/communicationInterfaceType/webGUI",
+  "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "A graphical user interface that runs in a web browser, typically implemented in HTML, Javascript and CSS.",
   "description": null,
   "interlexIdentifier": null,

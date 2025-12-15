@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/interfaceType/messageQueue",
-  "@type": "https://openminds.om-i.org/types/InterfaceType",
+  "@id": "https://openminds.om-i.org/instances/communicationInterfaceType/messageQueue",
+  "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "A means of interacting with a software system by sending messages to a buffer from which they may be retrieved at a later time.",
   "description": null,
   "interlexIdentifier": null,

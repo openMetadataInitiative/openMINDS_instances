@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/interfaceType/OSAPI",
-  "@type": "https://openminds.om-i.org/types/InterfaceType",
+  "@id": "https://openminds.om-i.org/instances/communicationInterfaceType/OSAPI",
+  "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "An application programming interface that allows applications to interact with the underlying operating system.",
   "description": null,
   "interlexIdentifier": null,

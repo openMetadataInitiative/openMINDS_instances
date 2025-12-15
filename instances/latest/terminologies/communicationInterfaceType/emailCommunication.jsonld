@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/interfaceType/emailCommunication",
-  "@type": "https://openminds.om-i.org/types/InterfaceType",
+  "@id": "https://openminds.om-i.org/instances/communicationInterfaceType/emailCommunication",
+  "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "A means of interacting with a service through sending and receiving e-mail.",
   "description": null,
   "interlexIdentifier": null,

@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/interfaceType/SOAPAPI",
-  "@type": "https://openminds.om-i.org/types/InterfaceType",
+  "@id": "https://openminds.om-i.org/instances/communicationInterfaceType/SOAPAPI",
+  "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "An application programming interface that uses the Simple Object Access Protocol (SOAP).",
   "description": null,
   "interlexIdentifier": null,

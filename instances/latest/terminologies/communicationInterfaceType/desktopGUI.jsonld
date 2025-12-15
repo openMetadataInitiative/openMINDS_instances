@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/interfaceType/desktopGUI",
-  "@type": "https://openminds.om-i.org/types/InterfaceType",
+  "@id": "https://openminds.om-i.org/instances/communicationInterfaceType/desktopGUI",
+  "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "A graphical user interface that runs as a native application on a desktop computer.",
   "description": null,
   "interlexIdentifier": null,
