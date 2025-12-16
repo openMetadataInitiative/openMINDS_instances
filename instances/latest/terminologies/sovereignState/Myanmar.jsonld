@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Myanmar",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q836)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Myanmar",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q836",
+  "synonym": [
+    "BUR",
+    "Burma",
+    "MM",
+    "MMR",
+    "MYA",
+    "Republic of the Union of Myanmar",
+    "Union of Burma"
+  ]
+}

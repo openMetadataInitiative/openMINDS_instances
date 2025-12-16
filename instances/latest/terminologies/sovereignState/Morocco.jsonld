@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Morocco",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in North Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1028)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Morocco",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1028",
+  "synonym": [
+    "al-Maġrib",
+    "Kingdom of Morocco",
+    "Lmaġrib",
+    "ma",
+    "MA",
+    "MAR",
+    "Maroc",
+    "Marocco"
+  ]
+}
