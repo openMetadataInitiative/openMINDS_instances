@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Latvia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in northeastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q211)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Latvia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q211",
+  "synonym": [
+    "LAT",
+    "Latveja",
+    "Latvejas Republika",
+    "Latvian Republic",
+    "Latvija",
+    "Latvijas Republika",
+    "lv",
+    "LV",
+    "LVA",
+    "Republic of Latvia"
+  ]
+}

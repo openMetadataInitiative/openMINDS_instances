@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Monaco",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Microstate in Western Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q235)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Monaco",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q235",
+  "synonym": [
+    "Fort-Hercule",
+    "mc",
+    "MC",
+    "MCO",
+    "MON",
+    "Mùnegu",
+    "Principality and Diocese of Monaco",
+    "Principality of Monaco",
+    "Principat de Mónegue",
+    "Principato di Monaco",
+    "Principauté de Monaco",
+    "Prinçipato de Mónego",
+    "Prinçipatu de Mùnegu"
+  ]
+}

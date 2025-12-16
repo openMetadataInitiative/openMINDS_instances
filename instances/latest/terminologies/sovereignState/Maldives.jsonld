@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Maldives",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in South Asia, situated on an archipelago in the Arabian Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q826)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Maldives",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q826",
+  "synonym": [
+    "MDV",
+    "MV",
+    "mv",
+    "Republic of Maldives"
+  ]
+}
