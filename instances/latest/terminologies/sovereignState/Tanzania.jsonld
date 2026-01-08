@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Tanzania",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in East Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q924)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Tanzania",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q924",
+  "synonym": [
+    "Jamhuri ya Muungano wa Tanzania",
+    "TZ",
+    "tz",
+    "tza",
+    "TZA",
+    "Tanzania, United Republic of",
+    "United Republic of Tanganyika and Zanzibar",
+    "United Republic of Tanzania"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Vietnam",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q881)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Vietnam",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q881",
+  "synonym": [
+    "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+    "Socialist Republic of Viet Nam",
+    "Socialist Republic of Vietnam",
+    "SRV",
+    "VIE",
+    "Viet Nam",
+    "Việt Nam",
+    "VN",
+    "VNM"
+  ]
+}
