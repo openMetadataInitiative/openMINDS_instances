@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/CentralAfricanRepublic",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Central Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q929)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Central African Republic",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q929",
+  "synonym": [
+    "CAF",
+    "CAR",
+    "Central Africa",
+    "CF",
+    "cf",
+    "Ködörösêse tî Bêafrîka",
+    "Republique Centrafricaine"
+  ]
+}
