@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/AntiguaAndBarbuda",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island sovereign state in the Caribbean Sea. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q781)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Antigua and Barbuda",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q781",
+  "synonym": [
+    "A&B",
+    "Aanteega an' Baabyuuda",
+    "AG",
+    "ag",
+    "ANT",
+    "Antigua and Barbuda",
+    "ATG"
+  ]
+}
