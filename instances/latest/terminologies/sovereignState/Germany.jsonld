@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Germany",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q183)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Germany",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q183",
+  "synonym": [
+    "BR Deutschland",
+    "BRD",
+    "Bundesrepublik Deutschland",
+    "DE",
+    "de",
+    "DEU",
+    "Deutschland",
+    "Federal Republic of Germany",
+    "GER"
+  ]
+}
