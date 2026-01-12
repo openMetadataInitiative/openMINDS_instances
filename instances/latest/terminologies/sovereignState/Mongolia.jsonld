@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Mongolia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in East Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q711)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Mongolia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q711",
+  "synonym": [
+    "MN",
+    "MNG",
+    "Mongol State",
+    "State of Mongolia"
+  ]
+}
