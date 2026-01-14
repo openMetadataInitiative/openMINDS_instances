@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_fronto-marginalSulcus",
   "name": "fronto-marginal sulcus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/frontomarginalSulcus"
 }
+

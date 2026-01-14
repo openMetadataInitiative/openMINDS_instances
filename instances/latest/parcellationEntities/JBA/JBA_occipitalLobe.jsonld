@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_occipitalLobe",
   "name": "occipital lobe",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/occipitalLobe"
 }
+

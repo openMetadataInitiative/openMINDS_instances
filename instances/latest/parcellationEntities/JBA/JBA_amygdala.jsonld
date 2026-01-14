@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_amygdala",
   "name": "amygdala",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/amygdala"
 }
+

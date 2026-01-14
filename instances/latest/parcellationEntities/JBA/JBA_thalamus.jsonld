@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_thalamus",
   "name": "thalamus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/dorsalPlusVentralThalamus"
 }
+

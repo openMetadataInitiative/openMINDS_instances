@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_parieto-occipitalSulcus",
   "name": "parieto-occipital sulcus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/parietoOccipitalSulcus"
 }
+

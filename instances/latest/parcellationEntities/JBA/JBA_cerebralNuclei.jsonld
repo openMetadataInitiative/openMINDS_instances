@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_cerebralNuclei",
   "name": "cerebral nuclei",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/cerebralNuclei"
 }
+
