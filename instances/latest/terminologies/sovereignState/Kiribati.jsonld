@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Kiribati",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island sovereign state in the central Pacific Ocean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q710)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Kiribati",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q710",
+  "synonym": [
+    "ki",
+    "KI",
+    "KIR",
+    "Republic of Kiribati",
+    "Ribaberiki ni Kiribati"
+  ]
+}
