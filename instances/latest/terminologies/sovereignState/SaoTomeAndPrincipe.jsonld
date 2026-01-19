@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/SaoTomeAndPrincipe",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island sovereign state in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1039)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Sao Tome and Principe",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1039",
+  "synonym": [
+    "Democratic Republic of São Tomé and Príncipe",
+    "República Democrática de São Tomé e Príncipe",
+    "Sao Tome & Principe",
+    "ST",
+    "st",
+    "STP",
+    "São Tomé and Príncipe",
+    "São Tomé og Príncipe"
+  ]
+}

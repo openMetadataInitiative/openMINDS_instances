@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Suriname",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q730)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Suriname",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q730",
+  "synonym": [
+    "Dutch Guiana",
+    "Republic of Surinam",
+    "Republic of Suriname",
+    "Republiek Suriname",
+    "Ripoliku Sranan",
+    "sr",
+    "SR",
+    "SUR",
+    "Surinam",
+    "Surrinam"
+  ]
+}
