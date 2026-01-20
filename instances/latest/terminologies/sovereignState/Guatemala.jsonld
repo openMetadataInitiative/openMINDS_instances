@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Guatemala",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in Central America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q774)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Guatemala",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q774",
+  "synonym": [
+    "gt",
+    "GT",
+    "GTM",
+    "Republic of Guatemala",
+    "República de Guatemala"
+  ]
+}

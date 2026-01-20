@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Mali",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q912)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Mali",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q912",
+  "synonym": [
+    "ml",
+    "ML",
+    "MLI",
+    "Republic of Mali"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Sauk-SuiattleIndianTribe",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Federally recognized Native American tribe in Washington state, USA. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1718707)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Sauk-Suiattle Indian Tribe",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1718707",
+  "synonym": [
+    "Sauk-Suiattle",
+    "Sauk-Suiattle Tribe"
+  ]
+}

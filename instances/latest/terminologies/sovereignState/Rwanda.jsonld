@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Rwanda",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in East Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1037)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Rwanda",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1037",
+  "synonym": [
+    "Jamhuri ya Rwanda",
+    "Republic of Rwanda",
+    "Repubulika y'u Rwanda",
+    "rw",
+    "RW",
+    "RWA",
+    "République du Rwanda",
+    "The Land of a Thousand Hills"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Indonesia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island country in Southeast Asia and Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q252)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Indonesia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q252",
+  "synonym": [
+    "id",
+    "ID",
+    "IDN",
+    "INA",
+    "Negara Kesatuan Republik Indonesia",
+    "Republic of Indonesia",
+    "Republik Indonesia",
+    "Unitary State of the Republic of Indonesia"
+  ]
+}

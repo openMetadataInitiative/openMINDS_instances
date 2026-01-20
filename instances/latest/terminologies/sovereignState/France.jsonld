@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/France",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania). [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q142)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "France",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q142",
+  "synonym": [
+    "FR",
+    "FRA",
+    "French Republic",
+    "République française"
+  ]
+}
