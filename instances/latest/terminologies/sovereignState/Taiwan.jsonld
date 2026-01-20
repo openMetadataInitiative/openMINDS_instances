@@ -10,8 +10,9 @@
   "knowledgeSpaceLink": null,
   "name": "Taiwan",
   "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q865",
-  "synonym": [
-    "China",
+[
+    "Blue China",
+    "China, Republic",
     "Chinese Taipei",
     "Chunghwa Minkuo",
     "Chunghwa Minkwo",
@@ -20,17 +21,13 @@
     "Formosa",
     "Free China",
     "Ilaod",
-    "Lawlaw",
     "Nanasian",
     "Nationalist China",
-    "Republic",
     "Republic of China",
+    "Republic of China (Taiwan)",
     "ROC",
-    "Tai-waan",
-    "Taioan",
     "Taivang",
     "Taivangʉ",
-    "Taiwaan",
     "taiwan",
     "Taiwan ROC",
     "Taywan",
@@ -43,7 +40,6 @@
     "TPE",
     "TW",
     "TWN",
-    "Tâi-oân",
-    "Tâi-uân"
+    "Tâi-oân"
   ]
 }
