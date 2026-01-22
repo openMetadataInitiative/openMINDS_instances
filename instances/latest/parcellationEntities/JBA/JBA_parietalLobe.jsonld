@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_parietalLobe",
   "name": "parietal lobe",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/parietalLobe"
 }
+

@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_agranularInsula",
   "name": "agranular insula",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/agranularInsularCortex"
 }
+

@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_lateralOrbitofrontalCortex",
   "name": "lateral orbitofrontal cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/lateralOrbitalFrontalCortex"
 }
+
