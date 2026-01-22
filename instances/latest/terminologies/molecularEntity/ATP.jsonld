@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/A1Receptor",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Adenosine triphosphate (ATP) is a nucleoside triphosphate. (sourced from Wikipedia: https://en.wikipedia.org/wiki/Adenosine_triphosphate)",
+  "description": "ATP provides energy to drive and support many processes in living cells, such as muscle contraction, nerve impulse propagation, and chemical synthesis. When consumed in a metabolic process, ATP converts either to adenosine diphosphate (ADP) or to adenosine monophosphate (AMP). (adapted from Wikipedia: https://en.wikipedia.org/wiki/Adenosine_triphosphate)",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0780796",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:15422#atp",
+  "name": "ATP",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_15422",
+  "synonym": [
+    "adenosine 5'-triphosphate",
+    "adenosine triphosphate",
+    "H4atp"
+  ]
+}
