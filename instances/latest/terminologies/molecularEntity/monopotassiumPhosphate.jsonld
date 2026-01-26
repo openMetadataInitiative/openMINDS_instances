@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/monopotassiumPhosphate",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/monopotassiumPhosphate",
+  "@type": "https://openminds.om-i.org/controlledTerms/MolecularEntity",
   "definition": "Monopotassium phosphate (MKP) is the inorganic compound with the formula KH2PO4 (potassium cation with a dihydrogen phosphate anion). [adapted from Wikipedia (https://en.wikipedia.org/wiki/Monopotassium_phosphate)]",
   "description": "Monopotassium phosphate, is often used as a fertilizer, food additive, and buffering agent. This salt often cocrystallizes with dipotassium salt as well as with phosphoric acid. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Monopotassium_phosphate)]",
   "interlexIdentifier": null,
@@ -11,7 +11,7 @@
   "name": "monopotassium phosphate",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_63036",
   "synonym": [
-    "KDP"
+    "KDP",
     "KH2PO4",
     "MKP",
     "monobasic potassium phosphate",
@@ -19,6 +19,6 @@
     "monopotassium monophosphate",
     "monopotassium phosphate",
     "potassium dihydrogen phosphate",
-    "potassium phosphate monobasic",
+    "potassium phosphate monobasic"
   ]
 }
