@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/RepublicOfTheCongo",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Central Africa, capital Brazzaville. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q971)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Republic of the Congo",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q971",
+  "synonym": [
+    "cg",
+    "CG",
+    "CGO",
+    "COG",
+    "Congo",
+    "Congo Republic",
+    "Congo-Brazzaville",
+    "Rep. Congo",
+    "Repubilika ya Kongo",
+    "Republic of Congo",
+    "Republique du Congo",
+    "Republíki ya Kongó",
+    "République du Congo"
+  ]
+}

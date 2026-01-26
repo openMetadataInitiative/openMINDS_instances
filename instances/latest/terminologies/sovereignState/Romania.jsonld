@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Romania",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Southeast Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q218)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Romania",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q218",
+  "synonym": [
+    "ro",
+    "RO",
+    "România",
+    "ROU",
+    "Roumania",
+    "Rumania"
+  ]
+}
