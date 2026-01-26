@@ -11,10 +11,10 @@
   "name": "GTP",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_15996",
   "synonym": [
-    "guanosine 5'-triphosphate",
-    "guanosine triphosphate",
     "5'-GTP",
-    "H4gtp",
-    "guanosine 5'-triphosphoric acid"
+    "guanosine 5'-triphosphate",
+    "guanosine 5'-triphosphoric acid",
+    "guanosine triphosphate",
+    "H4gtp"
   ]
 }

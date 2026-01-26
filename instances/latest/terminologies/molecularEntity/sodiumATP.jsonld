@@ -11,12 +11,12 @@
   "name": "sodium ATP",
   "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/23675355",
   "synonym": [
+    "ATP Na salt",
+    "ATP xsodium",
     "ATP-Na",
-	"ATP Na salt",
-	"ATP xsodium",
-	"NaATP",
-	"sodium adenosine-5'-triphosphate",
-	"sodium adenosine triphosphate",
-	"sodium ATP"
+    "NaATP",
+    "sodium adenosine triphosphate",
+    "sodium adenosine-5'-triphosphate",
+    "sodium ATP"
   ]
 }
