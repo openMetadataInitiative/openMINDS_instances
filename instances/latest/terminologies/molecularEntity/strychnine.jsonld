@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/strychnine",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Strychnine is a highly toxic, colorless, bitter, crystalline alkaloid.[adapted from Wikipedia (https://en.wikipedia.org/wiki/Strychnine)]",
+  "description": "Strychnine is used as a pesticide, particularly for killing small vertebrates such as birds and rodents. Strychnine, when inhaled, swallowed, or absorbed through the eyes or mouth, causes poisoning which results in muscular convulsions and eventually death through asphyxia. While it is no longer used medicinally, it was used historically in small doses to strengthen muscle contractions. The most common source is from the seeds of the Strychnos nux-vomica tree.  [adapted from Wikipedia (https://en.wikipedia.org/wiki/Strychnine)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "strychnine",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_28973",
+  "synonym": [
+    "Boomer-rid",
+    "Certox",
+    "Gopher bait",
+    "Gopher-gitter",
+    "Hare-Rid",
+    "Kwik-kil",
+    "Mole death",
+    "Mouse-nots",
+    "Mouse-rid",
+    "Mouse-tox",
+    "Ro-Dex",
+    "Sanaseed",
+    "strychnidin-10-one",
+    "Strychninum"
+  ]
+}
