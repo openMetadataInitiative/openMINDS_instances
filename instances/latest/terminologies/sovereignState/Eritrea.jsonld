@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Eritrea",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in the Horn of Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q986)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Eritrea",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q986",
+  "synonym": [
+    "er",
+    "ER",
+    "ERI",
+    "Ertrā",
+    "IRI",
+    "Iritriyā",
+    "State of Eritrea"
+  ]
+}
