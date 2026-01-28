@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_auditoryCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_secondaryAuditoryAreaVentralPart"
+  },
   "lookupLabel": "WHSSDatlas_v3.01_secondaryAuditoryCortexVentralArea",
   "name": "secondary auditory cortex, ventral area",
   "ontologyIdentifier": null,

@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_caudalLinearNucleusOfTheRaphe"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_caudalLinearNucleusOfTheRaphe",
   "name": "caudal linear nucleus of the raphe",
   "ontologyIdentifier": null,

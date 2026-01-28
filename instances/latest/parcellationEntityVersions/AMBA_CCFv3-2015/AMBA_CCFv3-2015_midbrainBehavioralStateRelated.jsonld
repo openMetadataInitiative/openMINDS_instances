@@ -43,6 +43,7 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": null,
   "lookupLabel": "AMBA_CCFv3-2015_midbrainBehavioralStateRelated",
   "name": "midbrain, behavioral state related",
   "ontologyIdentifier": null,

@@ -53,6 +53,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_dysgranularInsula"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.3-fsaverage_Area-Id10_PM-v4.0",
   "name": "Area Id10 (Insula)",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_medialGeniculateComplexOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_medialGeniculateBodyVentralDivision"
+  },
   "lookupLabel": "WHSSDatlas_v4_medialGeniculateBodyVentralDivision",
   "name": "medial geniculate body, ventral division",
   "ontologyIdentifier": null,

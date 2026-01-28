@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_postpiriformTransitionArea"
-    }
-  ],
   "lookupLabel": "SwansonBM_postpiriformTransitionArea",
   "name": "postpiriform transition area",
   "ontologyIdentifier": null,

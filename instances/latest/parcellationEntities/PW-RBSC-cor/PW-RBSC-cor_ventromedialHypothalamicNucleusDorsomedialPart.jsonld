@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleusDorsomedialPart"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_ventromedialHypothalamicNucleusDorsomedialPart",
   "name": "ventromedial hypothalamic nucleus, dorsomedial part",
   "ontologyIdentifier": null,

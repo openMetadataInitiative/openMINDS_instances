@@ -12,20 +12,6 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-25"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-BigBrain_Area-25.25a_PM-v8.2"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-Colin27_Area-25.25a_PM-v20.1"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-MNI152_Area-25.25a_PM-v20.1"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-fsaverage_Area-25.25a_PM-v20.1"
-    }
-  ],
   "lookupLabel": "JBA_Area-25.25a",
   "name": "Area 25.25a (sACC",
   "ontologyIdentifier": null,

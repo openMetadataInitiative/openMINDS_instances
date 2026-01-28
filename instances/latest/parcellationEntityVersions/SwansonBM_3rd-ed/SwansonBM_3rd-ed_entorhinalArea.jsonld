@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_entorhinalArea"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_entorhinalArea",
   "name": "entorhinal area",
   "ontologyIdentifier": null,

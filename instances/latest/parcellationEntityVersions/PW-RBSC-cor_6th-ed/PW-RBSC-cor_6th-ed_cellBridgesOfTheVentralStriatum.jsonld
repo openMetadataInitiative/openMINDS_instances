@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_cellBridgesOfTheVentralStriatum"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_cellBridgesOfTheVentralStriatum",
   "name": "cell bridges of the ventral striatum",
   "ontologyIdentifier": null,

@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_motorTrigeminalNucleusTemporalisPart"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_motorTrigeminalNucleusTemporalisPart",
   "name": "motor trigeminal nucleus, temporalis part",
   "ontologyIdentifier": null,

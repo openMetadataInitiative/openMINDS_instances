@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_lateralOrbitofrontalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-Fo6"
+  },
   "lookupLabel": "JBA_v1.18-MNI152_Area-Fo6_PM-v2.1",
   "name": "Area Fo6 (OFC)",
   "ontologyIdentifier": null,

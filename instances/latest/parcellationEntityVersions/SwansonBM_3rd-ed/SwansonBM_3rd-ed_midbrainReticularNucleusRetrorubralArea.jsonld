@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainReticularNucleusRetrorubralArea"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_midbrainReticularNucleusRetrorubralArea",
   "name": "midbrain reticular nucleus, retrorubral area",
   "ontologyIdentifier": null,

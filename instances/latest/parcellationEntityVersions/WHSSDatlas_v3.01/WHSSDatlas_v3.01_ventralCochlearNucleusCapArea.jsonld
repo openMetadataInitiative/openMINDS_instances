@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cochlearNucleusVentralPart"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralCochlearNucleusCapArea"
+  },
   "lookupLabel": "WHSSDatlas_v3.01_ventralCochlearNucleusCapArea",
   "name": "ventral cochlear nucleus, cap area",
   "ontologyIdentifier": null,

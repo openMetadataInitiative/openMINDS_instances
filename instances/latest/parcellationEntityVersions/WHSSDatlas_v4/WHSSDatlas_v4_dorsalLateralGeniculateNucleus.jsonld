@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_laterodorsalThalamicNucleiOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_dorsalLateralGeniculateNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_dorsalLateralGeniculateNucleus",
   "name": "dorsal lateral geniculate nucleus",
   "ontologyIdentifier": null,

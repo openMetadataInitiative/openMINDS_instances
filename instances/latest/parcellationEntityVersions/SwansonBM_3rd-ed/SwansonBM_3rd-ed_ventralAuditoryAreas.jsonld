@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralAuditoryAreas"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_ventralAuditoryAreas",
   "name": "ventral auditory areas",
   "ontologyIdentifier": null,

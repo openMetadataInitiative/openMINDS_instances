@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_HeschlsGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-TE-1.1"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_Area-TE-1.1_PM-v6.2",
   "name": "Area TE 1.1 (HESCHL)",
   "ontologyIdentifier": null,

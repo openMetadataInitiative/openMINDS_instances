@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_reticluostrialNucleus"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_reticluostrialNucleus",
   "name": "reticluostrial nucleus",
   "ontologyIdentifier": null,

@@ -77,6 +77,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_medialPrefrontalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area32OfCortex"
+  },
   "lookupLabel": "MarmosetNMA_v1_area32OfCortex",
   "name": "area 32 of cortex",
   "ontologyIdentifier": null,
@@ -84,4 +87,3 @@
   "versionIdentifier": "v1",
   "versionInnovation": "This is the first version of this parcellation entity."
 }
-

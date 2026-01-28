@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_intermediateLobeOfPituitary"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_intermediateLobeOfPituitary",
   "name": "intermediate lobe of pituitary",
   "ontologyIdentifier": null,

@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_hippocampalFormation"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Entorhinal-Cortex"
+  },
   "lookupLabel": "JBA_v2.4-Colin27_Entorhinal-Cortex_PM-v11.1",
   "name": "Entorhinal Cortex",
   "ontologyIdentifier": null,

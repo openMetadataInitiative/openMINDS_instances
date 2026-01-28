@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsolateralFascicleLissauer"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_dorsolateralFascicleLissauer",
   "name": "dorsolateral fascicle [Lissauer]",
   "ontologyIdentifier": null,

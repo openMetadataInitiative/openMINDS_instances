@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ansiformLobuleCrus1SublobulesAd"
-    }
-  ],
   "lookupLabel": "SwansonBM_ansiformLobuleCrus1SublobulesAd",
   "name": "ansiform lobule, crus 1, sublobules a-d",
   "ontologyIdentifier": null,

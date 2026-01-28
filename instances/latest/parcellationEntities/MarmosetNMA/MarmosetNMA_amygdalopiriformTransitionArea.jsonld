@@ -12,14 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_lateropallialPart"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_amygdalopiriformTransitionArea"
-    }
-  ],
   "lookupLabel": "MarmosetNMA_amygdalopiriformTransitionArea",
   "name": "amygdalopiriform transition area",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
-

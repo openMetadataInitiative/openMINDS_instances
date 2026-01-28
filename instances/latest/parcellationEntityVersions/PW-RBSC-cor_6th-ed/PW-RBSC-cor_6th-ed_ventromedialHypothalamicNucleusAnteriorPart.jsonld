@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_ventromedialHypothalamicNucleusAnteriorPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleusAnteriorPart",
   "name": "ventromedial hypothalamic nucleus, anterior part",
   "ontologyIdentifier": null,

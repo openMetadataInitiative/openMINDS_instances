@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralLemniscusHorizontalPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusHorizontalPart",
   "name": "nucleus of the lateral lemniscus, horizontal part",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_entorhinalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_medialEntorhinalCortex"
+  },
   "lookupLabel": "WHSSDatlas_v4_medialEntorhinalCortex",
   "name": "medial entorhinal cortex",
   "ontologyIdentifier": null,

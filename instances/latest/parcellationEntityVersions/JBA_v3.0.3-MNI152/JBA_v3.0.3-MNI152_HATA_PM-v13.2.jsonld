@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_hippocampalFormation"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.3-MNI152_HATA_PM-v13.2",
   "name": "HATA (Hippocampus)",
   "ontologyIdentifier": null,

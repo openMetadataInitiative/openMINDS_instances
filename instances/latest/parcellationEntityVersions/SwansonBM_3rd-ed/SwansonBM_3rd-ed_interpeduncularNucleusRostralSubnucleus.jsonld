@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusRostralSubnucleus"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_interpeduncularNucleusRostralSubnucleus",
   "name": "interpeduncular nucleus, rostral subnucleus",
   "ontologyIdentifier": null,

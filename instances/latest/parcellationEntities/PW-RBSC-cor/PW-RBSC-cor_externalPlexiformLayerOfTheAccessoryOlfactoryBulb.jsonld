@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_externalPlexiformLayerOfTheAccessoryOlfactoryBulb"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_externalPlexiformLayerOfTheAccessoryOlfactoryBulb",
   "name": "external plexiform layer of the accessory olfactory bulb",
   "ontologyIdentifier": null,

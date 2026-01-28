@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_cuneiformNucleus"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_cuneiformNucleus",
   "name": "cuneiform nucleus",
   "ontologyIdentifier": null,

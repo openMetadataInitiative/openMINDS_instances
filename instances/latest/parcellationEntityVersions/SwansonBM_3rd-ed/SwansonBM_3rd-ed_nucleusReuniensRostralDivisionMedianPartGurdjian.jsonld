@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionMedianPartGurdjian"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_nucleusReuniensRostralDivisionMedianPartGurdjian",
   "name": "nucleus reuniens, rostral division, median part [Gurdjian]",
   "ontologyIdentifier": null,

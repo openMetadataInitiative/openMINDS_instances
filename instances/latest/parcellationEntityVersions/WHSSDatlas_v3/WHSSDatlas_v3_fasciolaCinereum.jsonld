@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_hippocampalFormation"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_fasciolaCinereum"
+  },
   "lookupLabel": "WHSSDatlas_v3_fasciolaCinereum",
   "name": "fasciola cinereum",
   "ontologyIdentifier": null,

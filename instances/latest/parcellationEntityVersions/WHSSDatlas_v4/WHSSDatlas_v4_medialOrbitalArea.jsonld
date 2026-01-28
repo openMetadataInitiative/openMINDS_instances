@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_orbitofrontalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_medialOrbitalArea"
+  },
   "lookupLabel": "WHSSDatlas_v4_medialOrbitalArea",
   "name": "medial orbital area",
   "ontologyIdentifier": null,

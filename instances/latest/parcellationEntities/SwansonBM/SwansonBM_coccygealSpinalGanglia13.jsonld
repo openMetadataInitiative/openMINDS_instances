@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_coccygealSpinalGanglia13"
-    }
-  ],
   "lookupLabel": "SwansonBM_coccygealSpinalGanglia13",
   "name": "coccygeal spinal ganglia, 1-3",
   "ontologyIdentifier": null,

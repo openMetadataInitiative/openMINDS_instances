@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_2ndAnd3rdCerebellarLobules"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_2ndAnd3rdCerebellarLobules",
   "name": "2nd and 3rd cerebellar lobules",
   "ontologyIdentifier": null,

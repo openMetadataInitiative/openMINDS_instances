@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/WHSSD_v1.01",
-  "@type": "https://openminds.om-i.org/types/CommonCoordinateSpaceVersion",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion",
   "abbreviation": "WHSSD",
   "accessibility": null,
   "anatomicalAxesOrientation": {

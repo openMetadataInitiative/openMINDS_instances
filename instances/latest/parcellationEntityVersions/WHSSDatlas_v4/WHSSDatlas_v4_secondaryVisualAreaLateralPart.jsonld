@@ -45,6 +45,9 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_secondaryVisualAreaLateralPart"
+  },
   "lookupLabel": "WHSSDatlas_v4_secondaryVisualAreaLateralPart",
   "name": "secondary visual area, lateral part",
   "ontologyIdentifier": null,

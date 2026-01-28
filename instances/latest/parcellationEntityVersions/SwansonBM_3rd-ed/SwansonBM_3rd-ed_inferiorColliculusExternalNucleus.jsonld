@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorColliculusExternalNucleus"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_inferiorColliculusExternalNucleus",
   "name": "inferior colliculus, external nucleus",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_laterodorsalThalamicNucleiOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_laterodorsalThalamicNucleusDorsomedialPart"
+  },
   "lookupLabel": "WHSSDatlas_v4_laterodorsalThalamicNucleusDorsomedialPart",
   "name": "laterodorsal thalamic nucleus, dorsomedial part",
   "ontologyIdentifier": null,

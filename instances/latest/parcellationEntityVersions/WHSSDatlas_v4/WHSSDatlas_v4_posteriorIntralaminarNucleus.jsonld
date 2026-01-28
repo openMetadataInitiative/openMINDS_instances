@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_dorsalcaudalMidlineGroupOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_posteriorIntralaminarNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_posteriorIntralaminarNucleus",
   "name": "posterior intralaminar nucleus",
   "ontologyIdentifier": null,

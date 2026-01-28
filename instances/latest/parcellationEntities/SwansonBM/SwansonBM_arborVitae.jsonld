@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_arborVitae"
-    }
-  ],
   "lookupLabel": "SwansonBM_arborVitae",
   "name": "arbor vitae",
   "ontologyIdentifier": null,

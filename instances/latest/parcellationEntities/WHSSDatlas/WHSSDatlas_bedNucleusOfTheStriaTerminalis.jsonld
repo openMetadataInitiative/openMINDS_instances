@@ -10,23 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_bedNucleusOfTheStriaTerminalis"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_bedNucleusOfTheStriaTerminalis"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_bedNucleusOfTheStriaTerminalis"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_bedNucleusOfTheStriaTerminalis"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_bedNucleusOfTheStriaTerminalis"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_bedNucleusOfTheStriaTerminalis",
   "name": "bed nucleus of the stria terminalis",
   "ontologyIdentifier": null,

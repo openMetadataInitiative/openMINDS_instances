@@ -43,6 +43,7 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": null,
   "lookupLabel": "AMBA_CCFv3-2015_thalamusSensorymotorCortexRelated",
   "name": "thalamus, sensory-motor cortex related",
   "ontologyIdentifier": null,

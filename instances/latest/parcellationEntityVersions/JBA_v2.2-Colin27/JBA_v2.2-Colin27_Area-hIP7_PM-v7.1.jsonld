@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_intraparietalSulcus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-hIP7"
+  },
   "lookupLabel": "JBA_v2.2-Colin27_Area-hIP7_PM-v7.1",
   "name": "Area hIP7 (IPS)",
   "ontologyIdentifier": null,

@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_granularInsula"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-Ig1"
+  },
   "lookupLabel": "JBA_v1.13-Colin27_Area-Ig1_PM-v11.0",
   "name": "Area Ig1 (Insula)",
   "ontologyIdentifier": null,

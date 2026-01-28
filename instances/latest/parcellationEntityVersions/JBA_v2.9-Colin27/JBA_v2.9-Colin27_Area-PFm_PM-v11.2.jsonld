@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_inferiorParietalLobule"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-PFm"
+  },
   "lookupLabel": "JBA_v2.9-Colin27_Area-PFm_PM-v11.2",
   "name": "Area PFm (IPL)",
   "ontologyIdentifier": null,

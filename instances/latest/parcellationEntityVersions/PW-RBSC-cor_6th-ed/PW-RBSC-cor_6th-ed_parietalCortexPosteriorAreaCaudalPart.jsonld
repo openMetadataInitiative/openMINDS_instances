@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_parietalCortexPosteriorAreaCaudalPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_parietalCortexPosteriorAreaCaudalPart",
   "name": "parietal cortex, posterior area, caudal part",
   "ontologyIdentifier": null,

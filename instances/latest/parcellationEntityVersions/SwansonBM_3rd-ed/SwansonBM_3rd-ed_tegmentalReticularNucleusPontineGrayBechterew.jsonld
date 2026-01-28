@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tegmentalReticularNucleusPontineGrayBechterew"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_tegmentalReticularNucleusPontineGrayBechterew",
   "name": "tegmental reticular nucleus, pontine gray [Bechterew]",
   "ontologyIdentifier": null,

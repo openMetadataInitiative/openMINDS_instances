@@ -43,6 +43,7 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": null,
   "lookupLabel": "AMBA_CCFv3-2017_lateralSpinothalamicTract",
   "name": "lateral spinothalamic tract",
   "ontologyIdentifier": null,

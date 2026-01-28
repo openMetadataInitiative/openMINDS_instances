@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_piriformCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_piriformCortexLayer2"
+  },
   "lookupLabel": "WHSSDatlas_v4_piriformCortexLayer2",
   "name": "piriform cortex, layer 2",
   "ontologyIdentifier": null,

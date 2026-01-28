@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCajal"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_lateralSeptalNucleusCajal",
   "name": "lateral septal nucleus [Cajal]",
   "ontologyIdentifier": null,

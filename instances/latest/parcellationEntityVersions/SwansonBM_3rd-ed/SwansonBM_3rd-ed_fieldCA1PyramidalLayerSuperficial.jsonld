@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1PyramidalLayerSuperficial"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_fieldCA1PyramidalLayerSuperficial",
   "name": "field CA1, pyramidal layer, superficial",
   "ontologyIdentifier": null,

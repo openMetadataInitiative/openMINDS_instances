@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteromedialVisualArea"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_posteromedialVisualArea",
   "name": "posteromedial visual area",
   "ontologyIdentifier": null,

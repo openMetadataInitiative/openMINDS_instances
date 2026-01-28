@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPretectalArea"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_medialPretectalArea",
   "name": "medial pretectal area",
   "ontologyIdentifier": null,

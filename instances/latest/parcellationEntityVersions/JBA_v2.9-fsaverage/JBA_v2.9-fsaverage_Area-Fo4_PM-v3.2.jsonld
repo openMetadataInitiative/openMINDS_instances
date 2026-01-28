@@ -53,6 +53,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_lateralOrbitofrontalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-Fo4"
+  },
   "lookupLabel": "JBA_v2.9-fsaverage_Area-Fo4_PM-v3.2",
   "name": "Area Fo4 (OFC)",
   "ontologyIdentifier": null,

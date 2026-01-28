@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralTegmentalBundleBechterew"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_centralTegmentalBundleBechterew",
   "name": "central tegmental bundle [Bechterew]",
   "ontologyIdentifier": null,

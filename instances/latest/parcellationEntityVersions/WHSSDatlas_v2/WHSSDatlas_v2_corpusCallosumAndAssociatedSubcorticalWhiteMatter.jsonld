@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_whiteMatter"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_corpusCallosumAndAssociatedSubcorticalWhiteMatter"
+  },
   "lookupLabel": "WHSSDatlas_v2_corpusCallosumAndAssociatedSubcorticalWhiteMatter",
   "name": "corpus callosum and associated subcortical white matter",
   "ontologyIdentifier": null,

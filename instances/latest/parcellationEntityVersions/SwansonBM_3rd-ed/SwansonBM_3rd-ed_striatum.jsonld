@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_striatum"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_striatum",
   "name": "striatum",
   "ontologyIdentifier": null,

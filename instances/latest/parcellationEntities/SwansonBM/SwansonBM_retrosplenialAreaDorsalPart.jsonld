@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retrosplenialAreaDorsalPart"
-    }
-  ],
   "lookupLabel": "SwansonBM_retrosplenialAreaDorsalPart",
   "name": "retrosplenial area, dorsal part",
   "ontologyIdentifier": null,

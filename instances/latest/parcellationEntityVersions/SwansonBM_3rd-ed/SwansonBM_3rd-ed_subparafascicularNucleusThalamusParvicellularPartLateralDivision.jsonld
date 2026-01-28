@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subparafascicularNucleusThalamusParvicellularPartLateralDivision"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_subparafascicularNucleusThalamusParvicellularPartLateralDivision",
   "name": "subparafascicular nucleus thalamus, parvicellular part, lateral division",
   "ontologyIdentifier": null,
