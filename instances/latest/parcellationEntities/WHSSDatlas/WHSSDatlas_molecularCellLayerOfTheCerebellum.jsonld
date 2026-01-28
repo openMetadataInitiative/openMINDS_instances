@@ -10,23 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_molecularCellLayerOfTheCerebellum"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_molecularLayerOfTheCerebellum"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_molecularLayerOfTheCerebellum"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_molecularLayerOfTheCerebellum"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_molecularCellLayerOfTheCerebellum"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_molecularCellLayerOfTheCerebellum",
   "name": "molecular cell layer of the cerebellum",
   "ontologyIdentifier": null,

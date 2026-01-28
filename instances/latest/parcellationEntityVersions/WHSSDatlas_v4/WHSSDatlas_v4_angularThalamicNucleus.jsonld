@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralNucleiOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_angularThalamicNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_angularThalamicNucleus",
   "name": "angular thalamic nucleus",
   "ontologyIdentifier": null,

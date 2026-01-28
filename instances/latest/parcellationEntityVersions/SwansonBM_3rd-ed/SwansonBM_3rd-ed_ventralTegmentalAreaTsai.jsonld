@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralTegmentalAreaTsai"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_ventralTegmentalAreaTsai",
   "name": "ventral tegmental area [Tsai]",
   "ontologyIdentifier": null,

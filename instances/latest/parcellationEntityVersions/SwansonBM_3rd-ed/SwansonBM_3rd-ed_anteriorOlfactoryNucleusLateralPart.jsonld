@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusLateralPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_anteriorOlfactoryNucleusLateralPart",
   "name": "anterior olfactory nucleus, lateral part",
   "ontologyIdentifier": null,

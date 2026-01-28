@@ -12,14 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPF"
-    }
-  ],
   "lookupLabel": "MarmosetNMA_parietalAreaPF",
   "name": "parietal area PF (cortex)",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
-

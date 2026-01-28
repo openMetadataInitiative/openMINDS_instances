@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_lateralOccipitalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-hOc4lp"
+  },
   "lookupLabel": "JBA_v2.2-MNI152_Area-hOc4lp_PM-v3.4",
   "name": "Area hOc4lp (LOC)",
   "ontologyIdentifier": null,

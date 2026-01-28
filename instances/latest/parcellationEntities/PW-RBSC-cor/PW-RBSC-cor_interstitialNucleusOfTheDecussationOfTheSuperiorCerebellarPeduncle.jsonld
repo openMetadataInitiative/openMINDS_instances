@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_interstitialNucleusOfTheDecussationOfTheSuperiorCerebellarPeduncle"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_interstitialNucleusOfTheDecussationOfTheSuperiorCerebellarPeduncle",
   "name": "interstitial nucleus of the decussation of the superior cerebellar peduncle",
   "ontologyIdentifier": null,

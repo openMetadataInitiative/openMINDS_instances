@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_dorsalOccipitalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-hOc3d"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_Area-hOc3d_PM-v4.2",
   "name": "Area hOc3d (Cuneus)",
   "ontologyIdentifier": null,

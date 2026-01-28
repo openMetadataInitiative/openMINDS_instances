@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheTrapezoidBody"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_nucleusOfTheTrapezoidBody",
   "name": "nucleus of the trapezoid body",
   "ontologyIdentifier": null,

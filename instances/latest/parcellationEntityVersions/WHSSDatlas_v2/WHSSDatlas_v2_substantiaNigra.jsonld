@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_grayMatter"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_substantiaNigra"
+  },
   "lookupLabel": "WHSSDatlas_v2_substantiaNigra",
   "name": "substantia nigra",
   "ontologyIdentifier": null,

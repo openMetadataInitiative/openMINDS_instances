@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_pontineReticularNucleusVentralPart"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_pontineReticularNucleusVentralPart",
   "name": "pontine reticular nucleus, ventral part",
   "ontologyIdentifier": null,

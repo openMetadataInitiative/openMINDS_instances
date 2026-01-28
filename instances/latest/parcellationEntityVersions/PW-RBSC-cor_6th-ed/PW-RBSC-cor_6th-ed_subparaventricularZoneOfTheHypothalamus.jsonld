@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_subparaventricularZoneOfTheHypothalamus"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_subparaventricularZoneOfTheHypothalamus",
   "name": "subparaventricular zone of the hypothalamus",
   "ontologyIdentifier": null,

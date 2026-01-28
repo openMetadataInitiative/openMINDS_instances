@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_thalamicTracts"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_striaTerminalis"
+  },
   "lookupLabel": "WHSSDatlas_v2_striaTerminalis",
   "name": "stria terminalis",
   "ontologyIdentifier": null,

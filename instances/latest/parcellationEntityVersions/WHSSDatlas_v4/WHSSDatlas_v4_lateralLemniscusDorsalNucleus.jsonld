@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_nucleiOfTheLateralLemniscus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_lateralLemniscusDorsalNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_lateralLemniscusDorsalNucleus",
   "name": "lateral lemniscus, dorsal nucleus",
   "ontologyIdentifier": null,

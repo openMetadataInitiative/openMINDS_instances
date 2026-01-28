@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_uvularFissure1"
-    }
-  ],
   "lookupLabel": "SwansonBM_uvularFissure1",
   "name": "uvular fissure 1",
   "ontologyIdentifier": null,

@@ -49,6 +49,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_superiorOlivaryComplex"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "WHSSDatlas_v3.01_ventralPeriolivaryNucleus",
   "name": "ventral periolivary nucleus",
   "ontologyIdentifier": null,

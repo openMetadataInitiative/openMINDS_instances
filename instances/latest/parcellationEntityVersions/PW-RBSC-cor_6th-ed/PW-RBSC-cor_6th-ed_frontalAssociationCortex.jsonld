@@ -10,6 +10,9 @@
   "correctedName": "frontal association cortex",
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_frontalAssociationCortex"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_frontalAssociationCortex",
   "name": "frontal assocn cortex",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_superiorOlivaryComplex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_superiorPeriolivaryRegion"
+  },
   "lookupLabel": "WHSSDatlas_v4_superiorPeriolivaryRegion",
   "name": "superior periolivary region",
   "ontologyIdentifier": null,

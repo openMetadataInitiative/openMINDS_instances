@@ -10,20 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_fasciolaCinereum"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_fasciolaCinereum"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_fasciolaCinereum"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_fasciolaCinereum"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_fasciolaCinereum",
   "name": "fasciola cinereum",
   "ontologyIdentifier": null,

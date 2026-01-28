@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_superiorParietalLobule"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.1-MNI152_Area-7PC_PM-v9.2",
   "name": "Area 7PC (SPL)",
   "ontologyIdentifier": null,

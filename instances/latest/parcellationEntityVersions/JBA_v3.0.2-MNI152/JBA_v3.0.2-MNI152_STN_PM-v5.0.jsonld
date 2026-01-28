@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_subthalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_STN"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_STN_PM-v5.0",
   "name": "STN (Subthalamus)",
   "ontologyIdentifier": null,

@@ -53,6 +53,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_superiorFrontalGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-8d2"
+  },
   "lookupLabel": "JBA_v2.9-fsaverage_Area-8d2_PM-v4.2",
   "name": "Area 8d2 (SFG)",
   "ontologyIdentifier": null,

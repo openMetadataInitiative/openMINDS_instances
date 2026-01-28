@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_superiorFrontalGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-8d1"
+  },
   "lookupLabel": "JBA_v2.9-Colin27_Area-8d1_PM-v4.2",
   "name": "Area 8d1 (SFG)",
   "ontologyIdentifier": null,

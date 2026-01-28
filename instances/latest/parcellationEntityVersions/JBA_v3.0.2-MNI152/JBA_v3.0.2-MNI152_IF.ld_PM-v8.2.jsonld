@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_IF"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_IF.ld"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_IF.ld_PM-v8.2",
   "name": "IF.ld (Amygdala)",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventricularSystem"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_centralCanal"
+  },
   "lookupLabel": "WHSSDatlas_v3.01_centralCanal",
   "name": "central canal",
   "ontologyIdentifier": null,

@@ -43,6 +43,7 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": null,
   "lookupLabel": "AMBA_CCFv3-2017_midbrainMotorRelated",
   "name": "midbrain, motor related",
   "ontologyIdentifier": null,

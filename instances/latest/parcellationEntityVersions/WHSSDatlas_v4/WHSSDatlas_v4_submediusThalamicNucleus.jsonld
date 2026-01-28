@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralNucleiOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_submediusThalamicNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_submediusThalamicNucleus",
   "name": "submedius thalamic nucleus",
   "ontologyIdentifier": null,

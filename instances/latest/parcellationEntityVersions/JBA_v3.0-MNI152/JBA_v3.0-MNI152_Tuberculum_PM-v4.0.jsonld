@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_olfactoryCortex"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0-MNI152_Tuberculum_PM-v4.0",
   "name": "Tuberculum (Basal Forebrain)",
   "ontologyIdentifier": null,

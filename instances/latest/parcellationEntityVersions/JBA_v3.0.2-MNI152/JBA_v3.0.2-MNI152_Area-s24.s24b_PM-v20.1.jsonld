@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-s24"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-s24.s24b"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_Area-s24.s24b_PM-v20.1",
   "name": "Area s24.s24b (sACC)",
   "ontologyIdentifier": null,

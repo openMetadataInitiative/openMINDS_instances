@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_frontalOperculum"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-OP9"
+  },
   "lookupLabel": "JBA_v2.5-MNI152_Area-OP9_PM-v6.0",
   "name": "Area Op9 (Frontal Operculum)",
   "ontologyIdentifier": null,

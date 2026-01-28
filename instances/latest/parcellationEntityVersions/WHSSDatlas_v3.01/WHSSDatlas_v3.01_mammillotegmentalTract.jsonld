@@ -49,6 +49,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_thalamicTracts"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "WHSSDatlas_v3.01_mammillotegmentalTract",
   "name": "mammillotegmental tract",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_accumbensNucleusShell"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_accumbensNucleusShell",
   "name": "accumbens nucleus, shell",
   "ontologyIdentifier": null,

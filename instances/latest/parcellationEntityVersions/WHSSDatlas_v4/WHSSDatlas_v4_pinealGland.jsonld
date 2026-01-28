@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_epithalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_pinealGland"
+  },
   "lookupLabel": "WHSSDatlas_v4_pinealGland",
   "name": "pineal gland",
   "ontologyIdentifier": null,

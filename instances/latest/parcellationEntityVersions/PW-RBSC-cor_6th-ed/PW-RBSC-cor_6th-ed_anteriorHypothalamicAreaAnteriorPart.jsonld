@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_anteriorHypothalamicAreaAnteriorPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_anteriorHypothalamicAreaAnteriorPart",
   "name": "anterior hypothalamic area, anterior part",
   "ontologyIdentifier": null,

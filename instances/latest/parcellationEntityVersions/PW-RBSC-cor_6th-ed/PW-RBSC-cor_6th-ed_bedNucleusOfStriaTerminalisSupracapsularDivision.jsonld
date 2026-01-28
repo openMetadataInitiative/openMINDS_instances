@@ -12,6 +12,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivision"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivision",
   "name": "bed nucleus of stria terminalis, supracapsular division",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_medialAmygdaloidNucleusAnteroventralPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusAnteroventralPart",
   "name": "medial amygdaloid nucleus, anteroventral part",
   "ontologyIdentifier": null,

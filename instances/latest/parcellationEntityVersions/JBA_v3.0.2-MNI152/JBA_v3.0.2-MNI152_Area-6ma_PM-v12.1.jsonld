@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_posteriorMedialSuperiorFrontalGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-6ma"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_Area-6ma_PM-v12.1",
   "name": "Area 6ma (preSMA, mesial SFG)",
   "ontologyIdentifier": null,

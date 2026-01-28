@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_lateralOrbitofrontalCortex"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.3-Colin27_Area-Fo5_PM-v3.2",
   "name": "Area Fo5 (OFC)",
   "ontologyIdentifier": null,

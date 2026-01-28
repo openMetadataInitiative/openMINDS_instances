@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_lateralParabrachialNucleusInternalPart"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_lateralParabrachialNucleusInternalPart",
   "name": "lateral parabrachial nucleus, internal part",
   "ontologyIdentifier": null,

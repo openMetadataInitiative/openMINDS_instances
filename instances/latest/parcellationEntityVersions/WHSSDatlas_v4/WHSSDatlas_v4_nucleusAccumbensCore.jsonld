@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_nucleusAccumbens"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_nucleusAccumbensCore"
+  },
   "lookupLabel": "WHSSDatlas_v4_nucleusAccumbensCore",
   "name": "nucleus accumbens, core",
   "ontologyIdentifier": null,

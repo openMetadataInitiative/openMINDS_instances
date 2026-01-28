@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionVentralDomain"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionVentralDomain",
   "name": "lateral septal nucleus, rostral part, dorsolateral zone, lateral region, ventral domain",
   "ontologyIdentifier": null,

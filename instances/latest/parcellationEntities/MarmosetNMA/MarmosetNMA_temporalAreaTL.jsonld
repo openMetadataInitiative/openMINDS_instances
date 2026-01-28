@@ -12,14 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventralAreasOfTheTemporalLobe"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTL"
-    }
-  ],
   "lookupLabel": "MarmosetNMA_temporalAreaTL",
   "name": "temporal area TL",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
-

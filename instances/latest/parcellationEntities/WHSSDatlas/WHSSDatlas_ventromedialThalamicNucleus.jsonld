@@ -10,11 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_ventromedialThalamicNucleus"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_ventromedialThalamicNucleus",
   "name": "ventromedial thalamic nucleus",
   "ontologyIdentifier": null,

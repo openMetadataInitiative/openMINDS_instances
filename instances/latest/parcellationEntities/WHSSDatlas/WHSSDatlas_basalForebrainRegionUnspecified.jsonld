@@ -10,23 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_basalForebrainRegion"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_basalForebrainRegion"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_basalForebrainRegion"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_basalForebrainRegion"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_basalForebrainRegionUnspecified"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_basalForebrainRegionUnspecified",
   "name": "basal forebrain region, unspecified",
   "ontologyIdentifier": null,

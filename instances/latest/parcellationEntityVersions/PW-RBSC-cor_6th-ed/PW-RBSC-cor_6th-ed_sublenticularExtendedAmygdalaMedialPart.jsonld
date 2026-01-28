@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_sublenticularExtendedAmygdalaMedialPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_sublenticularExtendedAmygdalaMedialPart",
   "name": "sublenticular extended amygdala, medial part",
   "ontologyIdentifier": null,

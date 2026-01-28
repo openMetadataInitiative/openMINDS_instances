@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_MF"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_MF.icm"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_MF.icm_PM-v8.2",
   "name": "MF.icm (Amygdala)",
   "ontologyIdentifier": null,

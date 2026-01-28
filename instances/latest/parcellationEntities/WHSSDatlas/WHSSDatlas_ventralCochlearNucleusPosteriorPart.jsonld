@@ -10,17 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_ventralCochlearNucleusPosteriorPart"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_ventralCochlearNucleusPosteriorPart"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_ventralCochlearNucleusPosteriorPart"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_ventralCochlearNucleusPosteriorPart",
   "name": "ventral cochlear nucleus, posterior part",
   "ontologyIdentifier": null,

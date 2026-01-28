@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventricularSystem"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_4thVentricle"
+  },
   "lookupLabel": "WHSSDatlas_v3_4thVentricle",
   "name": "4th ventricle",
   "ontologyIdentifier": null,

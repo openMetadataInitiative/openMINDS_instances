@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_anteriorCommissure"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_anteriorCommissureIntrabulbarPart"
+  },
   "lookupLabel": "WHSSDatlas_v4_anteriorCommissureIntrabulbarPart",
   "name": "anterior commissure, intrabulbar part",
   "ontologyIdentifier": null,

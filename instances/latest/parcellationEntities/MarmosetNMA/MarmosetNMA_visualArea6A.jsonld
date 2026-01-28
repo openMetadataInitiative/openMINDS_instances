@@ -12,14 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_visualCortex"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea6A"
-    }
-  ],
   "lookupLabel": "MarmosetNMA_visualArea6A",
   "name": "visual area 6A (posterior parietal medial area)",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
-

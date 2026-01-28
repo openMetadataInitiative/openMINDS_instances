@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_superiorOlivaryComplex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_superiorParaolivaryNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v3_superiorParaolivaryNucleus",
   "name": "superior paraolivary nucleus",
   "ontologyIdentifier": null,

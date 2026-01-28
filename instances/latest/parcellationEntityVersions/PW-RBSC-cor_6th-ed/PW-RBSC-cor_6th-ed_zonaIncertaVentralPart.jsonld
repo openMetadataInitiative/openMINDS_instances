@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_zonaIncertaVentralPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_zonaIncertaVentralPart",
   "name": "zona incerta, ventral part",
   "ontologyIdentifier": null,

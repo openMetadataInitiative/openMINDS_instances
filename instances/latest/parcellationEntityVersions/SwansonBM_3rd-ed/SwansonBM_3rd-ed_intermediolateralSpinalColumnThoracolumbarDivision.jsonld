@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediolateralSpinalColumnThoracolumbarDivision"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_intermediolateralSpinalColumnThoracolumbarDivision",
   "name": "intermediolateral spinal column, thoracolumbar division",
   "ontologyIdentifier": null,

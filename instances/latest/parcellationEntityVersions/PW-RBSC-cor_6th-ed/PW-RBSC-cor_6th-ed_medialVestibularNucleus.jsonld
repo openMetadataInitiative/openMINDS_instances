@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_medialVestibularNucleus"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_medialVestibularNucleus",
   "name": "medial vestibular nucleus",
   "ontologyIdentifier": null,

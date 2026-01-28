@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rostralLinearNucleusRaphe"
-    }
-  ],
   "lookupLabel": "SwansonBM_rostralLinearNucleusRaphe",
   "name": "rostral linear nucleus raphé",
   "ontologyIdentifier": null,

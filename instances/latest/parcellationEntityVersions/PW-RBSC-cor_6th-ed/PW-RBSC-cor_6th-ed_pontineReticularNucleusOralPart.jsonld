@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_pontineReticularNucleusOralPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_pontineReticularNucleusOralPart",
   "name": "pontine reticular nucleus, oral part",
   "ontologyIdentifier": null,

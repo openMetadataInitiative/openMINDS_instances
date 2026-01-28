@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_ventralTeniaTectaLayer1"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_ventralTeniaTectaLayer1",
   "name": "ventral tenia tecta, layer 1",
   "ontologyIdentifier": null,

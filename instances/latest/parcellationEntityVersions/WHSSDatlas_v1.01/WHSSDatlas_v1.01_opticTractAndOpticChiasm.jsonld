@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_opticFiberSystemAndSupraopticDecussation"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_opticTractAndOpticChiasm"
+  },
   "lookupLabel": "WHSSDatlas_v1.01_opticTractAndOpticChiasm",
   "name": "optic tract and optic chiasm",
   "ontologyIdentifier": null,

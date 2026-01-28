@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_nucleusAccumbens"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_nucleusAccumbensShell"
+  },
   "lookupLabel": "WHSSDatlas_v4_nucleusAccumbensShell",
   "name": "nucleus accumbens, shell",
   "ontologyIdentifier": null,

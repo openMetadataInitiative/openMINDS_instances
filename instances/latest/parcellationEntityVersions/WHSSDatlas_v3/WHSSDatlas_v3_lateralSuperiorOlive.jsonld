@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_superiorOlivaryComplex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_lateralSuperiorOlive"
+  },
   "lookupLabel": "WHSSDatlas_v3_lateralSuperiorOlive",
   "name": "lateral superior olive",
   "ontologyIdentifier": null,

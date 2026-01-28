@@ -12,14 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorCingulateMedialAndRetrosplenialCorticalRegions"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area29a-cOfCortex"
-    }
-  ],
   "lookupLabel": "MarmosetNMA_area29a-cOfCortex",
   "name": "area 29a-c of cortex",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
-

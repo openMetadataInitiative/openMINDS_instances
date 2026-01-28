@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_intralaminarNucleiOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ethmoidLimitansNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_ethmoidLimitansNucleus",
   "name": "ethmoid-Limitans nucleus",
   "ontologyIdentifier": null,

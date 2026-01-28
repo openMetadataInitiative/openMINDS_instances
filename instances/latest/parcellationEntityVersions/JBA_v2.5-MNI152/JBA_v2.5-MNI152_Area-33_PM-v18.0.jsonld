@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_frontalCingulateGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-33"
+  },
   "lookupLabel": "JBA_v2.5-MNI152_Area-33_PM-v18.0",
   "name": "Area 33 (ACC)",
   "ontologyIdentifier": null,

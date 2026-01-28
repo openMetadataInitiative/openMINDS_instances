@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_molecularLayerOfTheCerebellum"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_molecularLayerOfTheCerebellum",
   "name": "molecular layer of the cerebellum",
   "ontologyIdentifier": null,

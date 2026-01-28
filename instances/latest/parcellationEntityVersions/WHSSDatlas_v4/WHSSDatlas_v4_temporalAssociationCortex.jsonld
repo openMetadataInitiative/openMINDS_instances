@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_temporalRegion"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_temporalAssociationCortex"
+  },
   "lookupLabel": "WHSSDatlas_v4_temporalAssociationCortex",
   "name": "temporal association cortex",
   "ontologyIdentifier": null,

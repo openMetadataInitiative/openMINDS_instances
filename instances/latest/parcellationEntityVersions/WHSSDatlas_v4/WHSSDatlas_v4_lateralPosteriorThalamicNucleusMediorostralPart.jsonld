@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_lateralPosteriorPulvinarComplexOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_lateralPosteriorThalamicNucleusMediorostralPart"
+  },
   "lookupLabel": "WHSSDatlas_v4_lateralPosteriorThalamicNucleusMediorostralPart",
   "name": "lateral posterior thalamic nucleus, mediorostral part",
   "ontologyIdentifier": null,

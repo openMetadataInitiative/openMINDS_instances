@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cornuAmmonis"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cornuAmmonis1"
+  },
   "lookupLabel": "WHSSDatlas_v3.01_cornuAmmonis1",
   "name": "cornu ammonis 1",
   "ontologyIdentifier": null,

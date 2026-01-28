@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosterolateralNucleusThalamusPrincipalPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_ventralPosterolateralNucleusThalamusPrincipalPart",
   "name": "ventral posterolateral nucleus thalamus, principal part",
   "ontologyIdentifier": null,

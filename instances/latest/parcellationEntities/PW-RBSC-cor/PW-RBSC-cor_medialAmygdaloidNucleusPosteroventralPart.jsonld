@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusPosteroventralPart"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_medialAmygdaloidNucleusPosteroventralPart",
   "name": "medial amygdaloid nucleus, posteroventral part",
   "ontologyIdentifier": null,

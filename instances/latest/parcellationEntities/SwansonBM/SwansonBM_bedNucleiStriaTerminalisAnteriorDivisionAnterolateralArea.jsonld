@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionAnterolateralArea"
-    }
-  ],
   "lookupLabel": "SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionAnterolateralArea",
   "name": "bed nuclei stria terminalis, anterior division, anterolateral area",
   "ontologyIdentifier": null,

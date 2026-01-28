@@ -12,10 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_brain"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "MarmosetNMA_prosencephalon",
   "name": "Prosencephalon",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
-

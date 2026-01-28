@@ -10,6 +10,9 @@
   "correctedName": "nucleus reuniens, caudal division",
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensCaudalDivision"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_nucleusReuniensCaudalDivision",
   "name": "nucleus reuniens, caudal division, caudal part",
   "ontologyIdentifier": null,

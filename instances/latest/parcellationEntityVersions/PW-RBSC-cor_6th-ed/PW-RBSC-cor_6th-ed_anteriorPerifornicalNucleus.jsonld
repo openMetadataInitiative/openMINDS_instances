@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_anteriorPerifornicalNucleus"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_anteriorPerifornicalNucleus",
   "name": "anterior perifornical nucleus",
   "ontologyIdentifier": null,

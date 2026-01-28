@@ -10,6 +10,9 @@
   "correctedName": "interstitial nucleus of Cajal, shell region",
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_interstitialNucleusOfCajalShellRegion"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_interstitialNucleusOfCajalShellRegion",
   "name": "interstitial nucleus of Cajal. shell region",
   "ontologyIdentifier": null,

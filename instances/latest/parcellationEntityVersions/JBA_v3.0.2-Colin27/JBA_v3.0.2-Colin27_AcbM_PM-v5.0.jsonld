@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_ventralStriatum"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_AcbM"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_AcbM_PM-v5.0",
   "name": "AcbM (Medial Accumbens, Ventral Striatum)",
   "ontologyIdentifier": null,

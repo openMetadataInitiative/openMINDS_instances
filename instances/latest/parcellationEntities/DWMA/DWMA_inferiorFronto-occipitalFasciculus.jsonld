@@ -12,11 +12,6 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_deepWhiteMatter"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_inferiorFronto-occipitalFasciculus"
-    }
-  ],
   "lookupLabel": "DWMA_inferiorFronto-occipitalFasciculus",
   "name": "inferior fronto-occipital fasciculus",
   "ontologyIdentifier": null,

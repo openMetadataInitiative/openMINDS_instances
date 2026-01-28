@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_grayMatter"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_inferiorOlive"
+  },
   "lookupLabel": "WHSSDatlas_v2_inferiorOlive",
   "name": "inferior olive",
   "ontologyIdentifier": null,

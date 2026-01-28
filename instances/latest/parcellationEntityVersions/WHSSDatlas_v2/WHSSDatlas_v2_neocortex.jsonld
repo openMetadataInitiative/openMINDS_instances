@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_neocortexUnspecified"
+  },
   "lookupLabel": "WHSSDatlas_v2_neocortex",
   "name": "neocortex",
   "ontologyIdentifier": null,

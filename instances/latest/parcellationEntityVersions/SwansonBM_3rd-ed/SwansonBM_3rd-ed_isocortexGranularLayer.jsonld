@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexGranularLayer"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_isocortexGranularLayer",
   "name": "isocortex, granular layer",
   "ontologyIdentifier": null,

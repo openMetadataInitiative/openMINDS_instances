@@ -43,6 +43,7 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": null,
   "lookupLabel": "AMBA_CCFv3-2015_pyramid",
   "name": "pyramid",
   "ontologyIdentifier": null,

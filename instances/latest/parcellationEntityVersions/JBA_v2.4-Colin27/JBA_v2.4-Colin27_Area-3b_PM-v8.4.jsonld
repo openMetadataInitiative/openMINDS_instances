@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_postcentralGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-3b"
+  },
   "lookupLabel": "JBA_v2.4-Colin27_Area-3b_PM-v8.4",
   "name": "Area 3b (PostCG)",
   "ontologyIdentifier": null,

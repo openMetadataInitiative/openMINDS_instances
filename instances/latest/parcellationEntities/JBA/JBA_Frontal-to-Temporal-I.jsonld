@@ -12,26 +12,6 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Frontal-to-Temporal"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v2.9-Colin27_Frontal-to-Temporal-I_PM-v11.3"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v2.9-MNI152_Frontal-to-Temporal-I_PM-v11.3"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v2.9-fsaverage_Frontal-to-Temporal-I_PM-v11.3"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-Colin27_Frontal-to-Temporal-I_PM-v11.4"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-MNI152_Frontal-to-Temporal-I_PM-v11.4"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-fsaverage_Frontal-to-Temporal-I_PM-v11.4"
-    }
-  ],
   "lookupLabel": "JBA_Frontal-to-Temporal-I",
   "name": "Frontal-to-Temporal-I (GapMap)",
   "ontologyIdentifier": null,

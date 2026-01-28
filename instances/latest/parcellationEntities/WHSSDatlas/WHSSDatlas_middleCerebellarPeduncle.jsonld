@@ -10,23 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_middleCerebellarPeduncle"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_middleCerebellarPeduncle"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_middleCerebellarPeduncle"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_middleCerebellarPeduncle"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_middleCerebellarPeduncle"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_middleCerebellarPeduncle",
   "name": "middle cerebellar peduncle",
   "ontologyIdentifier": null,

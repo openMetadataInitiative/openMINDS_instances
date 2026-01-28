@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_reticularPrethalamicNucleus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_reticularPrethalamicNucleusUnspecified"
+  },
   "lookupLabel": "WHSSDatlas_v4_reticularPrethalamicNucleusUnspecified",
   "name": "reticular (pre)thalamic nucleus, unspecified",
   "ontologyIdentifier": null,

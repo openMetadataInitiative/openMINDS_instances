@@ -53,6 +53,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_frontalPole"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-Fp1"
+  },
   "lookupLabel": "JBA_v3.0.2-fsaverage_Area-Fp1_PM-v5.1",
   "name": "Area Fp1 (FPole)",
   "ontologyIdentifier": null,

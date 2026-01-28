@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalPropriohypothalamicPathways"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_dorsalPropriohypothalamicPathways",
   "name": "dorsal propriohypothalamic pathways",
   "ontologyIdentifier": null,

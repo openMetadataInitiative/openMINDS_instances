@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_whiteMatterOfTheTectum"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_inferiorColliculusBrachium"
+  },
   "lookupLabel": "WHSSDatlas_v3.01_inferiorColliculusBrachium",
   "name": "inferior colliculus, brachium",
   "ontologyIdentifier": null,

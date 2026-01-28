@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_nucleusY"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_nucleusY",
   "name": "nucleus Y",
   "ontologyIdentifier": null,

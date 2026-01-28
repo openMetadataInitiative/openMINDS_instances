@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_nonlaminatedPallium"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_claustrum"
+  },
   "lookupLabel": "WHSSDatlas_v4_claustrum",
   "name": "claustrum",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusNeuroendocrineComponent"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_paraventricularHypothalamicNucleusNeuroendocrineComponent",
   "name": "paraventricular hypothalamic nucleus, neuroendocrine component",
   "ontologyIdentifier": null,

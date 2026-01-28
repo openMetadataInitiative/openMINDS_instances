@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusExternalLateralPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_parabrachialNucleusExternalLateralPart",
   "name": "parabrachial nucleus, external lateral part",
   "ontologyIdentifier": null,

@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_frontalCingulateGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-p32"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_Area-p32_PM-v20.1",
   "name": "Area p32 (pACC)",
   "ontologyIdentifier": null,

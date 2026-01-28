@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralNucleiOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralAnteriorThalamicNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_ventralAnteriorThalamicNucleus",
   "name": "ventral anterior thalamic nucleus",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsomedialHypothalamicNucleusAnteriorPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_dorsomedialHypothalamicNucleusAnteriorPart",
   "name": "dorsomedial hypothalamic nucleus, anterior part",
   "ontologyIdentifier": null,

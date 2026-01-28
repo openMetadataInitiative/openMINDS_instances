@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_hippocampalFormation"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_subiculum"
+  },
   "lookupLabel": "WHSSDatlas_v3_subiculum",
   "name": "subiculum",
   "ontologyIdentifier": null,

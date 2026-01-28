@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Frontal-to-Temporal"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.1-MNI152_Frontal-to-Temporal-I_PM-v11.4",
   "name": "Frontal-to-Temporal-I (GapMap)",
   "ontologyIdentifier": null,

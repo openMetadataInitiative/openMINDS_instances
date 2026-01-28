@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicNucleusPosteriorPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_anteriorHypothalamicNucleusPosteriorPart",
   "name": "anterior hypothalamic nucleus, posterior part",
   "ontologyIdentifier": null,

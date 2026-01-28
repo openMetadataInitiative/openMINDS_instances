@@ -15,11 +15,6 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_occipitalLobe"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_O1"
-    }
-  ],
   "lookupLabel": "AAL1_O1",
   "name": "superior occipital gyrus",
   "ontologyIdentifier": null,

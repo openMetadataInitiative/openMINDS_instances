@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralMidlineGroupOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_reuniensThalamicNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_reuniensThalamicNucleus",
   "name": "reuniens thalamic nucleus",
   "ontologyIdentifier": null,

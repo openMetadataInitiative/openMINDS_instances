@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_opticFiberSystemAndSupraopticDecussation"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_supraopticDecussation"
+  },
   "lookupLabel": "WHSSDatlas_v2_supraopticDecussation",
   "name": "supraoptic decussation",
   "ontologyIdentifier": null,

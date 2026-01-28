@@ -17,11 +17,6 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_cerebralCortex"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/BA-human_1909_BA1"
-    }
-  ],
   "lookupLabel": "BA-human_BA1",
   "name": "Brodmann area 1",
   "ontologyIdentifier": null,

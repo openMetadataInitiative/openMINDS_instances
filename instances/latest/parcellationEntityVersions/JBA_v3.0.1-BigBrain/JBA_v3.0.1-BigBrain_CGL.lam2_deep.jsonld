@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_CGL"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.1-BigBrain_CGL.lam2_deep",
   "name": "CGL.lam2 (Metathalamus)",
   "ontologyIdentifier": null,

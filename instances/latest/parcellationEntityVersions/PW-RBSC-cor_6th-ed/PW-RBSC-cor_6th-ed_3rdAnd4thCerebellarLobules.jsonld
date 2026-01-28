@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_3rdAnd4thCerebellarLobules"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_3rdAnd4thCerebellarLobules",
   "name": "3rd and 4th cerebellar lobules",
   "ontologyIdentifier": null,

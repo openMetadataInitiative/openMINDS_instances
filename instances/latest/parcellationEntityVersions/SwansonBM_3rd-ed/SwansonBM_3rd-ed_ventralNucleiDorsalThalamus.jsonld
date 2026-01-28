@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralNucleiDorsalThalamus"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_ventralNucleiDorsalThalamus",
   "name": "ventral nuclei, dorsal thalamus",
   "ontologyIdentifier": null,

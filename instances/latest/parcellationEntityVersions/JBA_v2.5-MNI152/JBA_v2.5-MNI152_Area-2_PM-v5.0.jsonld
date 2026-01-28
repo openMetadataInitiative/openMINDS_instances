@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_postcentralGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-2"
+  },
   "lookupLabel": "JBA_v2.5-MNI152_Area-2_PM-v5.0",
   "name": "Area 2 (PostCS)",
   "ontologyIdentifier": null,

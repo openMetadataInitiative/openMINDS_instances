@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusLateralSubnucleus"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleus",
   "name": "interpeduncular nucleus, lateral subnucleus",
   "ontologyIdentifier": null,

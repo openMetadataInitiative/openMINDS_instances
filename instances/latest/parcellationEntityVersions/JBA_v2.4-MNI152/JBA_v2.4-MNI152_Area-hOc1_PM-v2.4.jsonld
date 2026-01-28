@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_occipitalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-hOc1"
+  },
   "lookupLabel": "JBA_v2.4-MNI152_Area-hOc1_PM-v2.4",
   "name": "Area hOc1 (V1, 17, CalcS)",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_parafloccularSulcus"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_parafloccularSulcus",
   "name": "parafloccular sulcus",
   "ontologyIdentifier": null,

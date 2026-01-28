@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_basalGanglia"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_VP"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_VP_PM-v5.0",
   "name": "VP (Ventral Pallidum)",
   "ontologyIdentifier": null,

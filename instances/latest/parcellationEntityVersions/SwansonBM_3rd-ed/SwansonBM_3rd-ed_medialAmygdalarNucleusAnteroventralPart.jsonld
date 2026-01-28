@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAmygdalarNucleusAnteroventralPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_medialAmygdalarNucleusAnteroventralPart",
   "name": "medial amygdalar nucleus, anteroventral part",
   "ontologyIdentifier": null,

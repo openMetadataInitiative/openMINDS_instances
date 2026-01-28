@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_superiorTemporalGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-TE-2.1"
+  },
   "lookupLabel": "JBA_v2.4-Colin27_Area-TE-2.1_PM-v5.1",
   "name": "Area TE 2.1 (STG)",
   "ontologyIdentifier": null,

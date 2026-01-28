@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_posteriorParietalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_parietalAssociationCortexPosteriorArea"
+  },
   "lookupLabel": "WHSSDatlas_v4_parietalAssociationCortexPosteriorArea",
   "name": "parietal association cortex, posterior area",
   "ontologyIdentifier": null,

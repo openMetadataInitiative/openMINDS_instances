@@ -10,17 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_secondaryAuditoryCortexVentralArea"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_secondaryAuditoryCortexVentralArea"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_secondaryAuditoryAreaVentralPart"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_secondaryAuditoryAreaVentralPart",
   "name": "secondary auditory area, ventral part",
   "ontologyIdentifier": null,
