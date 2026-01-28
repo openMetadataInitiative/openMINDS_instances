@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/accessMode",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "The location or medium through which a resource can be accessed.",
+  "description": "Access mode specifies whether a resource is accessible remotely through digital means (virtual), requires physical presence at a specific location (on-site), or is available through both means (hybrid).",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "access mode",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "access location"
+  ]
+}
