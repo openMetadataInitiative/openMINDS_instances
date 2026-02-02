@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/terminology/accessProcessType",
+  "@id": "https://openminds.om-i.org/instances/terminology/accessType",
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "The mechanism through which access to a resource is obtained.",
   "description": null,
