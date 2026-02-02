@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/accessProcessType",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "The mechanism through which access to a resource is obtained.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "action status type",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "access mechanism",
+    "access workflow"
+  ]
+}
