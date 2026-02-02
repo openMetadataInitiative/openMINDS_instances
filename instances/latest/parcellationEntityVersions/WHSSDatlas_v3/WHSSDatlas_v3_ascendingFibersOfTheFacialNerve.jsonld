@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_facialNerve"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ascendingFibersOfTheFacialNerve"
+  },
   "lookupLabel": "WHSSDatlas_v3_ascendingFibersOfTheFacialNerve",
   "name": "ascending fibers of the facial nerve",
   "ontologyIdentifier": null,

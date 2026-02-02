@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_HeschlsGyrus"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.3-BigBrain_Area-TE-1.0_int",
   "name": "Area TE 1.0 (HESCHL)",
   "ontologyIdentifier": null,

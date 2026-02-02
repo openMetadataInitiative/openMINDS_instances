@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_whiteMatterOfTheTectum"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_inferiorColliculusCommissure"
+  },
   "lookupLabel": "WHSSDatlas_v3.01_inferiorColliculusCommissure",
   "name": "inferior colliculus, commissure",
   "ontologyIdentifier": null,

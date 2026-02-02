@@ -43,6 +43,7 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": null,
   "lookupLabel": "AMBA_CCFv3-2015_corticalAmygdalarAreaPosteriorPartLateralZone",
   "name": "cortical amygdalar area, posterior part, lateral zone",
   "ontologyIdentifier": null,

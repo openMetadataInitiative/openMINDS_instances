@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordCervicalLevelSegments18"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_spinalCordCervicalLevelSegments18",
   "name": "spinal cord, cervical level, segments 1-8",
   "ontologyIdentifier": null,

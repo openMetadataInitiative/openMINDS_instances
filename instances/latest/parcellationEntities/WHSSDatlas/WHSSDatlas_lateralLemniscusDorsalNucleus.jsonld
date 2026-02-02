@@ -10,17 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_lateralLemniscusDorsalNucleus"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_lateralLemniscusDorsalNucleus"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_lateralLemniscusDorsalNucleus"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_lateralLemniscusDorsalNucleus",
   "name": "lateral lemniscus, dorsal nucleus",
   "ontologyIdentifier": null,

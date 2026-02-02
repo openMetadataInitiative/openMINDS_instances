@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialHabenulaDorsalPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_medialHabenulaDorsalPart",
   "name": "medial habenula, dorsal part",
   "ontologyIdentifier": null,

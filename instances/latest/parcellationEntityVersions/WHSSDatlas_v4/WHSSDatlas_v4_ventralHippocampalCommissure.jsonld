@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_hippocampalWhiteMatter"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralHippocampalCommissure"
+  },
   "lookupLabel": "WHSSDatlas_v4_ventralHippocampalCommissure",
   "name": "ventral hippocampal commissure",
   "ontologyIdentifier": null,

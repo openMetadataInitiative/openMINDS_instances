@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_temporalInsula"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-TI"
+  },
   "lookupLabel": "JBA_v2.4-MNI152_Area-TI_PM-v5.1",
   "name": "Area TI (STG)",
   "ontologyIdentifier": null,

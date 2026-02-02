@@ -10,6 +10,9 @@
   "correctedName": "temporal association cortex",
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_temporalAssociationCortex"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_temporalAssociationCortex",
   "name": "temporal associatin cortex",
   "ontologyIdentifier": null,

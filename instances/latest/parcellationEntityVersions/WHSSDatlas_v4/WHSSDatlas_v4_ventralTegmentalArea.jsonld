@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_tegmentum"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralTegmentalArea"
+  },
   "lookupLabel": "WHSSDatlas_v4_ventralTegmentalArea",
   "name": "ventral tegmental area",
   "ontologyIdentifier": null,

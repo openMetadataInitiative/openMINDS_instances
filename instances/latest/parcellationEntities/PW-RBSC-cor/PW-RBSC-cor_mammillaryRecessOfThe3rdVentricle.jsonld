@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_mammillaryRecessOfThe3rdVentricle"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_mammillaryRecessOfThe3rdVentricle",
   "name": "mammillary recess of the 3rd ventricle",
   "ontologyIdentifier": null,

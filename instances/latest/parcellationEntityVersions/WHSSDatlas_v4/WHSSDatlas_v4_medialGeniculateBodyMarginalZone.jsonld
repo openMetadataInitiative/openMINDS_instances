@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_medialGeniculateComplexOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_medialGeniculateBodyMarginalZone"
+  },
   "lookupLabel": "WHSSDatlas_v4_medialGeniculateBodyMarginalZone",
   "name": "medial geniculate body, marginal zone",
   "ontologyIdentifier": null,

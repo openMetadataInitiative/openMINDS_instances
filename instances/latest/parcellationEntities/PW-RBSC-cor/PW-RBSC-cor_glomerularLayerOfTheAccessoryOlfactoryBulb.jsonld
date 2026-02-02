@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_glomerularLayerOfTheAccessoryOlfactoryBulb"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_glomerularLayerOfTheAccessoryOlfactoryBulb",
   "name": "glomerular layer of the accessory olfactory bulb",
   "ontologyIdentifier": null,

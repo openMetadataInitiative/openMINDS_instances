@@ -79,6 +79,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_somatosensoryCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_secondarySomatosensoryCortexExternalPart"
+  },
   "lookupLabel": "MarmosetNMA_v1_secondarySomatosensoryCortexExternalPart",
   "name": "secondary somatosensory cortex external part",
   "ontologyIdentifier": null,
@@ -86,4 +89,3 @@
   "versionIdentifier": "v1",
   "versionInnovation": "This is the first version of this parcellation entity."
 }
-

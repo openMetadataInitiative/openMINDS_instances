@@ -51,6 +51,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_whiteMatter"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_externalMedullaryLaminaAuditoryRadiation"
+  },
   "lookupLabel": "WHSSDatlas_v3_auditoryRadiation",
   "name": "auditory radiation",
   "ontologyIdentifier": null,

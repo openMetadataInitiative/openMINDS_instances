@@ -12,11 +12,6 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/SWMA_superficialWhiteMatter"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_2018_Op-Tr_0"
-    }
-  ],
   "lookupLabel": "SWMA_Op-Tr_0",
   "name": "Op-Tr_0",
   "ontologyIdentifier": null,

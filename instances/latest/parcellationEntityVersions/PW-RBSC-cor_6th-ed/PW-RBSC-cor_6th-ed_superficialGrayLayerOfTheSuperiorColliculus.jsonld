@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_superficialGrayLayerOfTheSuperiorColliculus"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_superficialGrayLayerOfTheSuperiorColliculus",
   "name": "superficial gray layer of the superior colliculus",
   "ontologyIdentifier": null,

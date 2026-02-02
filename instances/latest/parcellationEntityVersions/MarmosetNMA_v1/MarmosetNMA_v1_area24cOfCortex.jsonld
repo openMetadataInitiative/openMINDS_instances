@@ -77,6 +77,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_anteriorCingulateCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area24cOfCortex"
+  },
   "lookupLabel": "MarmosetNMA_v1_area24cOfCortex",
   "name": "area 24c of cortex",
   "ontologyIdentifier": null,
@@ -84,4 +87,3 @@
   "versionIdentifier": "v1",
   "versionInnovation": "This is the first version of this parcellation entity."
 }
-

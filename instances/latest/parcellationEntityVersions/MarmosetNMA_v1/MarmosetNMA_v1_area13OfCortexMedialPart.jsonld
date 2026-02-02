@@ -79,6 +79,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_orbitalFrontalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area13OfCortexMedialPart"
+  },
   "lookupLabel": "MarmosetNMA_v1_area13OfCortexMedialPart",
   "name": "area 13 of cortex medial part",
   "ontologyIdentifier": null,
@@ -86,4 +89,3 @@
   "versionIdentifier": "v1",
   "versionInnovation": "This is the first version of this parcellation entity."
 }
-

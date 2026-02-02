@@ -79,6 +79,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventralAreasOfTheTemporalLobe"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_temporalAreaTFOccipitalPart"
+  },
   "lookupLabel": "MarmosetNMA_v1_temporalAreaTFOccipitalPart",
   "name": "temporal area TF occipital part",
   "ontologyIdentifier": null,
@@ -86,4 +89,3 @@
   "versionIdentifier": "v1",
   "versionInnovation": "This is the first version of this parcellation entity."
 }
-

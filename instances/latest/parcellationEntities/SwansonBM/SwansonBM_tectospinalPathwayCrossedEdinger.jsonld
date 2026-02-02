@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tectospinalPathwayCrossedEdinger"
-    }
-  ],
   "lookupLabel": "SwansonBM_tectospinalPathwayCrossedEdinger",
   "name": "tectospinal pathway, crossed [Edinger]",
   "ontologyIdentifier": null,

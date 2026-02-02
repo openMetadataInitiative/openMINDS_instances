@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fasciculusRetroflexusMeynert"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_fasciculusRetroflexusMeynert",
   "name": "fasciculus retroflexus [Meynert]",
   "ontologyIdentifier": null,

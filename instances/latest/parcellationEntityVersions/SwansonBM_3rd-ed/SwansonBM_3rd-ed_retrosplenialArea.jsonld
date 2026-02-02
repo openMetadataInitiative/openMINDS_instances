@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialArea"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_retrosplenialArea",
   "name": "retrosplenial area",
   "ontologyIdentifier": null,

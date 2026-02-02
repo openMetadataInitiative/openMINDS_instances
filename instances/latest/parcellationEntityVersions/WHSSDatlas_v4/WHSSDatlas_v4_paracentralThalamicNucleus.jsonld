@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_intralaminarNucleiOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_paracentralThalamicNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_paracentralThalamicNucleus",
   "name": "paracentral thalamic nucleus",
   "ontologyIdentifier": null,

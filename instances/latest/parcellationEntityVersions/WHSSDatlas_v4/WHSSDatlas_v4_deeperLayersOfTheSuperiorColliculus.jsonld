@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_superiorColliculus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_deeperLayersOfTheSuperiorColliculus"
+  },
   "lookupLabel": "WHSSDatlas_v4_deeperLayersOfTheSuperiorColliculus",
   "name": "deeper layers of the superior colliculus",
   "ontologyIdentifier": null,

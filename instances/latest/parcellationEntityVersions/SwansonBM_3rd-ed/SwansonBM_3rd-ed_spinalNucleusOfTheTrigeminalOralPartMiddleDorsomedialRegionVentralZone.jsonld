@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionVentralZone"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionVentralZone",
   "name": "spinal nucleus of the trigeminal, oral part, middle dorsomedial region, ventral zone",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_pretectum"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_pretectalRegion"
+  },
   "lookupLabel": "WHSSDatlas_v4_pretectalRegion",
   "name": "pretectal region",
   "ontologyIdentifier": null,

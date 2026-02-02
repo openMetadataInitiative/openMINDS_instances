@@ -10,20 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_presubiculum"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_presubiculum"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_presubiculum"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_presubiculum"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_presubiculum",
   "name": "presubiculum",
   "ontologyIdentifier": null,

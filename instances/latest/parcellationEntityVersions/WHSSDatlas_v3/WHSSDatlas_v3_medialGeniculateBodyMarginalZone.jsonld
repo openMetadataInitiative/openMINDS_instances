@@ -45,6 +45,9 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_medialGeniculateBodyMarginalZone"
+  },
   "lookupLabel": "WHSSDatlas_v3_medialGeniculateBodyMarginalZone",
   "name": "medial geniculate body, marginal zone",
   "ontologyIdentifier": null,

@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisFusiformPart"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_bedNucleusOfStriaTerminalisFusiformPart",
   "name": "bed nucleus of stria terminalis, fusiform part",
   "ontologyIdentifier": null,

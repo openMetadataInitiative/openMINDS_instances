@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_superiorFrontalSulcus"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.1-BigBrain_Area-6d3_int",
   "name": "Area 6d3 (SFS)",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_anteriorNucleiOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_anteromedialThalamicNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_anteromedialThalamicNucleus",
   "name": "anteromedial thalamic nucleus",
   "ontologyIdentifier": null,

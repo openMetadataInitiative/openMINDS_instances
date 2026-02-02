@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralAqueductGeneral"
-    }
-  ],
   "lookupLabel": "SwansonBM_cerebralAqueductGeneral",
   "name": "cerebral aqueduct, general",
   "ontologyIdentifier": null,

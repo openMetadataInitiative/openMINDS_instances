@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_hippocampalFormation"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Subiculum"
+  },
   "lookupLabel": "JBA_v2.2-Colin27_Subiculum_PM-v11.1",
   "name": "Subiculum (Hippocampus)",
   "ontologyIdentifier": null,

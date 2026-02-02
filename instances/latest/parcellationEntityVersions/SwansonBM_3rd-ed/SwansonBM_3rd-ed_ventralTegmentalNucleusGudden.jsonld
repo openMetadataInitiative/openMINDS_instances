@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralTegmentalNucleusGudden"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_ventralTegmentalNucleusGudden",
   "name": "ventral tegmental nucleus [Gudden]",
   "ontologyIdentifier": null,

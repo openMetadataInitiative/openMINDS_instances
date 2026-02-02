@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryTuberclePyramidalLayer"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_olfactoryTuberclePyramidalLayer",
   "name": "olfactory tubercle, pyramidal layer",
   "ontologyIdentifier": null,

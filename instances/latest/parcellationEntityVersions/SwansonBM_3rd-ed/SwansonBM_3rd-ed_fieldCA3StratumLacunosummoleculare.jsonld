@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3StratumLacunosummoleculare"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_fieldCA3StratumLacunosummoleculare",
   "name": "field CA3, stratum lacunosum-moleculare",
   "ontologyIdentifier": null,

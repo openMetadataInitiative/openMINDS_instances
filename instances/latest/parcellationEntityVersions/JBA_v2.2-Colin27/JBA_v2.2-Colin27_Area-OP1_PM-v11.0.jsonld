@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_parietalOperculum"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-OP1"
+  },
   "lookupLabel": "JBA_v2.2-Colin27_Area-OP1_PM-v11.0",
   "name": "Area OP1 (POperc)",
   "ontologyIdentifier": null,

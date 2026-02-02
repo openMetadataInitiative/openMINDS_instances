@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subependymalZone"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_subependymalZone",
   "name": "subependymal zone",
   "ontologyIdentifier": null,

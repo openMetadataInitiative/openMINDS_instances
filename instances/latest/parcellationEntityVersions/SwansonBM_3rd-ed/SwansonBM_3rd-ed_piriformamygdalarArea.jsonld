@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_piriformamygdalarArea"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_piriformamygdalarArea",
   "name": "piriform-amygdalar area",
   "ontologyIdentifier": null,

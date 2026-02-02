@@ -43,6 +43,7 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": null,
   "lookupLabel": "AMBA_CCFv3-2017_cerebellarCortexGranularLayer",
   "name": "cerebellar cortex, granular layer",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_isocortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_frontalAssociationCortex"
+  },
   "lookupLabel": "WHSSDatlas_v3_frontalAssociationCortex",
   "name": "frontal association cortex",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_entorhinalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_lateralEntorhinalCortex"
+  },
   "lookupLabel": "WHSSDatlas_v4_lateralEntorhinalCortex",
   "name": "lateral entorhinal cortex",
   "ontologyIdentifier": null,

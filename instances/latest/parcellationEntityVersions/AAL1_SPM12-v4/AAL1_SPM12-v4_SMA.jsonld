@@ -56,6 +56,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_frontalLobe"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_SMA"
+  },
   "lookupLabel": "AAL1_SPM12-v4_SMA",
   "name": "supplementary motor area",
   "ontologyIdentifier": null,

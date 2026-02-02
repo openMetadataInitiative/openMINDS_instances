@@ -79,6 +79,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorCingulateMedialAndRetrosplenialCorticalRegions"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_parietalAreaPGMedialPart"
+  },
   "lookupLabel": "MarmosetNMA_v1_parietalAreaPGMedialPart",
   "name": "parietal area PG medial part (cortex)",
   "ontologyIdentifier": null,
@@ -86,4 +89,3 @@
   "versionIdentifier": "v1",
   "versionInnovation": "This is the first version of this parcellation entity."
 }
-

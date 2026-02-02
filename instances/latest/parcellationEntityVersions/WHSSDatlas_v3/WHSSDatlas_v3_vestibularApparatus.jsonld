@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_innerEar"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_vestibularApparatus"
+  },
   "lookupLabel": "WHSSDatlas_v3_vestibularApparatus",
   "name": "vestibular apparatus",
   "ontologyIdentifier": null,

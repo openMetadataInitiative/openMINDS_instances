@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayVentrolateralDivisionBeitz"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_periaqueductalGrayVentrolateralDivisionBeitz",
   "name": "periaqueductal gray, ventrolateral division [Beitz]",
   "ontologyIdentifier": null,

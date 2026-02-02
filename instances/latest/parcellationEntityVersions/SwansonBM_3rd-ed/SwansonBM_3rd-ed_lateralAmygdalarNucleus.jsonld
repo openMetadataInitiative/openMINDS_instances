@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralAmygdalarNucleus"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_lateralAmygdalarNucleus",
   "name": "lateral amygdalar nucleus",
   "ontologyIdentifier": null,

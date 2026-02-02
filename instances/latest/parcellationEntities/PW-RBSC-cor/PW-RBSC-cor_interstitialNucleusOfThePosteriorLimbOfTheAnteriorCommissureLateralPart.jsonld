@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureLateralPart"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureLateralPart",
   "name": "interstitial nucleus of the posterior limb of the anterior commissure, lateral part",
   "ontologyIdentifier": null,

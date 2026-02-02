@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticularNucleusThalamusArnold"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_reticularNucleusThalamusArnold",
   "name": "reticular nucleus thalamus [Arnold]",
   "ontologyIdentifier": null,

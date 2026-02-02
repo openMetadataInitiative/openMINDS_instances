@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_cerebralCortex"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0-MNI152_Frontal-to-Occipital_PM-v11.4",
   "name": "Frontal-to-Occipital (GapMap",
   "ontologyIdentifier": null,

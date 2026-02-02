@@ -43,6 +43,7 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": null,
   "lookupLabel": "AMBA_CCFv3-2015_temporalAssociationAreasLayer1",
   "name": "temporal association areas, layer 1",
   "ontologyIdentifier": null,

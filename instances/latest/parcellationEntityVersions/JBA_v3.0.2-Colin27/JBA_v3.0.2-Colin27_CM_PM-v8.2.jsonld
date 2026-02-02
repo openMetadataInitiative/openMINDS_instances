@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_amygdaloidGroups"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_CM"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_CM_PM-v8.2",
   "name": "CM (Amygdala)",
   "ontologyIdentifier": null,

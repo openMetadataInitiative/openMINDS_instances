@@ -51,6 +51,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebellum"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebellumUnspecified"
+  },
   "lookupLabel": "WHSSDatlas_v3_granuleCellLevelOfTheCerebellum",
   "name": "granule cell level of the cerebellum",
   "ontologyIdentifier": null,

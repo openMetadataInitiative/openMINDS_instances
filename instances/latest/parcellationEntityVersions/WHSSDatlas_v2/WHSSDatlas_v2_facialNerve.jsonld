@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_facialNerve"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_facialNerveUnspecified"
+  },
   "lookupLabel": "WHSSDatlas_v2_facialNerve",
   "name": "facial nerve",
   "ontologyIdentifier": null,

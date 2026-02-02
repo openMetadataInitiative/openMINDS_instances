@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralTerminalNucleusAccessoryOpticTract"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_lateralTerminalNucleusAccessoryOpticTract",
   "name": "lateral terminal nucleus accessory optic tract",
   "ontologyIdentifier": null,

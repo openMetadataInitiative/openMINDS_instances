@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusIntermediateGrayLayerSublayerA"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_superiorColliculusIntermediateGrayLayerSublayerA",
   "name": "superior colliculus, intermediate gray layer, sublayer a",
   "ontologyIdentifier": null,

@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_superiorFrontalSulcus"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v2.9-BigBrain_Area-SFS2_deep",
   "name": "Area SFS2 (SFS)",
   "ontologyIdentifier": null,

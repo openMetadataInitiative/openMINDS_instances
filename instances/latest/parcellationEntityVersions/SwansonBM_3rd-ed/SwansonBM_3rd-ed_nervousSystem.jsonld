@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nervousSystem"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_nervousSystem",
   "name": "nervous system",
   "ontologyIdentifier": null,

@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-p24ab"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.1-MNI152_Area-p24ab.p24b_PM-v20.1",
   "name": "Area p24ab.p24b (pACC)",
   "ontologyIdentifier": null,

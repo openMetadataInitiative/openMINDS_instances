@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_zonaIncerta"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_fieldsOfForel"
+  },
   "lookupLabel": "WHSSDatlas_v4_fieldsOfForel",
   "name": "fields of Forel",
   "ontologyIdentifier": null,

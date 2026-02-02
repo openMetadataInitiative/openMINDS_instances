@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intermediateGraySpinalCordProper"
-    }
-  ],
   "lookupLabel": "SwansonBM_intermediateGraySpinalCordProper",
   "name": "intermediate gray spinal cord proper",
   "ontologyIdentifier": null,

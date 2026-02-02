@@ -10,6 +10,9 @@
   "correctedName": "medial amygdaloid nucleus, anterodorsal part",
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_medialAmygdaloidNucleusAnterodorsalPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusAnterodorsalPart",
   "name": "medial amygdaloid nucleus, ant dorsal",
   "ontologyIdentifier": null,

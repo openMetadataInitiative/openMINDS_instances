@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_commissuralStriaTerminalis"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_commissuralStriaTerminalis",
   "name": "commissural stria terminalis",
   "ontologyIdentifier": null,

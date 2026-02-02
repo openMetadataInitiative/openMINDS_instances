@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sacralSympatheticGanglia14"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_sacralSympatheticGanglia14",
   "name": "sacral sympathetic ganglia, 1-4",
   "ontologyIdentifier": null,

@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_sublenticularBasalForebrain"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.3-Colin27_Ch-4_PM-v4.3",
   "name": "Ch 4 (Basal Forebrain)",
   "ontologyIdentifier": null,

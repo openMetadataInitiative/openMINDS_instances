@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/AMBA_CCFv3-2015",
-  "@type": "https://openminds.om-i.org/types/BrainAtlasVersion",
+  "@type": "https://openminds.om-i.org/types/AnatomicalAtlasVersion",
   "abbreviation": "AMBA",
   "accessibility": {
     "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"

@@ -10,6 +10,9 @@
   "correctedName": "lateral hypothalamic area, subfornical region, anterior zone",
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaSubfornicalRegionAnteriorZone"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionAnteriorZone",
   "name": "lateral hypothalamic area, subfornical region, rostral zone",
   "ontologyIdentifier": null,

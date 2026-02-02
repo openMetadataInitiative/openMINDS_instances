@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebralNuclei"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_septalRegion"
+  },
   "lookupLabel": "WHSSDatlas_v3.01_septalRegion",
   "name": "septal region",
   "ontologyIdentifier": null,

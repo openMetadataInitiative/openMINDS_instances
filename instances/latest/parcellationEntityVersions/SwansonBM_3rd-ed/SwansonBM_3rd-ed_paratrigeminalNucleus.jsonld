@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paratrigeminalNucleus"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_paratrigeminalNucleus",
   "name": "paratrigeminal nucleus",
   "ontologyIdentifier": null,

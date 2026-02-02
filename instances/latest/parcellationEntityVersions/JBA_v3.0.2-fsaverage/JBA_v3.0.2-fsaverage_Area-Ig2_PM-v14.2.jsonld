@@ -53,6 +53,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_granularInsula"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-Ig2"
+  },
   "lookupLabel": "JBA_v3.0.2-fsaverage_Area-Ig2_PM-v14.2",
   "name": "Area Ig2 (Insula)",
   "ontologyIdentifier": null,

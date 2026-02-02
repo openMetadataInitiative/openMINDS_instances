@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_basalForebrain"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_BST"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_BST_PM-v6.1",
   "name": "BST (Bed Nucleus)",
   "ontologyIdentifier": null,

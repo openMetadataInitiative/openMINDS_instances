@@ -56,6 +56,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_parietalLobe"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_PQ"
+  },
   "lookupLabel": "AAL1_SPM12-v4_PQ",
   "name": "precuneus",
   "ontologyIdentifier": null,

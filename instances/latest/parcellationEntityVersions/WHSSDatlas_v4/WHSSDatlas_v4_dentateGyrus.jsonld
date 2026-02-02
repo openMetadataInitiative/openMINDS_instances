@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_hippocampalFormation"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_dentateGyrus"
+  },
   "lookupLabel": "WHSSDatlas_v4_dentateGyrus",
   "name": "dentate gyrus",
   "ontologyIdentifier": null,

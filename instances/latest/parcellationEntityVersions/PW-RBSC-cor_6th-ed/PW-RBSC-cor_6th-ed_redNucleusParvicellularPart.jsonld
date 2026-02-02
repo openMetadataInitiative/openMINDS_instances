@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_redNucleusParvicellularPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_redNucleusParvicellularPart",
   "name": "red nucleus, parvicellular part",
   "ontologyIdentifier": null,

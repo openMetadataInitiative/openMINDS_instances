@@ -10,11 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_intergeniculateLeaflet"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_intergeniculateLeaflet",
   "name": "intergeniculate leaflet",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebellum"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_molecularCellLayerOfTheCerebellum"
+  },
   "lookupLabel": "WHSSDatlas_v3_molecularLayerOfTheCerebellum",
   "name": "molecular layer of the cerebellum",
   "ontologyIdentifier": null,

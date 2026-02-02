@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_ventromedialNucleusOfTheHypothalamusShell"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_ventromedialNucleusOfTheHypothalamusShell",
   "name": "ventromedial nucleus of the hypothalamus shell",
   "ontologyIdentifier": null,

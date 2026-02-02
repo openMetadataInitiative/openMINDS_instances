@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_agranularInsularCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_agranularInsularCortexDorsalArea"
+  },
   "lookupLabel": "WHSSDatlas_v4_agranularInsularCortexDorsalArea",
   "name": "agranular insular cortex dorsal area",
   "ontologyIdentifier": null,

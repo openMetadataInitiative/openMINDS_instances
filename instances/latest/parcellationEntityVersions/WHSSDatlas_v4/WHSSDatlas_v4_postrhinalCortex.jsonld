@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_parahippocampalRegion"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_postrhinalCortex"
+  },
   "lookupLabel": "WHSSDatlas_v4_postrhinalCortex",
   "name": "postrhinal cortex",
   "ontologyIdentifier": null,

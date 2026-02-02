@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_superiorMedullaryVelum"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_superiorMedullaryVelum",
   "name": "superior medullary velum",
   "ontologyIdentifier": null,

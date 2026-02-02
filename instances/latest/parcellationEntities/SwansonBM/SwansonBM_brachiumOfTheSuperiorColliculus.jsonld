@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_brachiumOfTheSuperiorColliculus"
-    }
-  ],
   "lookupLabel": "SwansonBM_brachiumOfTheSuperiorColliculus",
   "name": "brachium of the superior colliculus",
   "ontologyIdentifier": null,

@@ -53,6 +53,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_fusiformGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-FG1"
+  },
   "lookupLabel": "JBA_v2.9-fsaverage_Area-FG1_PM-v3.2",
   "name": "Area FG1 (FusG)",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_substantiaNigra"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_substantiaNigraLateralPart"
+  },
   "lookupLabel": "WHSSDatlas_v4_substantiaNigraLateralPart",
   "name": "substantia nigra, lateral part",
   "ontologyIdentifier": null,

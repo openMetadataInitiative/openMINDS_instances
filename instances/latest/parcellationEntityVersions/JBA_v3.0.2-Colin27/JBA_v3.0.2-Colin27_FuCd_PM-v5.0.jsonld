@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_ventralStriatum"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_FuCd"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_FuCd_PM-v5.0",
   "name": "FuCd (Fundus of Caudate Nucleus, Ventral Striatum)",
   "ontologyIdentifier": null,

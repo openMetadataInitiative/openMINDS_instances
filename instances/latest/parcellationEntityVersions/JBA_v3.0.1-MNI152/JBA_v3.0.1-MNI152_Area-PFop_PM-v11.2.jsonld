@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_inferiorParietalLobule"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.1-MNI152_Area-PFop_PM-v11.2",
   "name": "Area PFop (IPL)",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_suprachiasmaticNucleusDorsomedialPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_suprachiasmaticNucleusDorsomedialPart",
   "name": "suprachiasmatic nucleus, dorsomedial part",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primaryVisualArea"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_primaryVisualArea",
   "name": "primary visual area",
   "ontologyIdentifier": null,

@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_precentralGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-4a"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_Area-4a_PM-v13.1",
   "name": "Area 4a (PreCG)",
   "ontologyIdentifier": null,

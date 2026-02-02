@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_inferiorOliveSubnucleusCOfMedialNucleus"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_inferiorOliveSubnucleusCOfMedialNucleus",
   "name": "inferior olive, subnucleus C of medial nucleus",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticalAmygdalarNucleusPosteriorPartMedialZone"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_corticalAmygdalarNucleusPosteriorPartMedialZone",
   "name": "cortical amygdalar nucleus, posterior part, medial zone",
   "ontologyIdentifier": null,

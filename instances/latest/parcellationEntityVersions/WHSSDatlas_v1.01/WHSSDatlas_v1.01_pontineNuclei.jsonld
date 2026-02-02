@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_grayMatter"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_pontineNuclei"
+  },
   "lookupLabel": "WHSSDatlas_v1.01_pontineNuclei",
   "name": "pontine nuclei",
   "ontologyIdentifier": null,

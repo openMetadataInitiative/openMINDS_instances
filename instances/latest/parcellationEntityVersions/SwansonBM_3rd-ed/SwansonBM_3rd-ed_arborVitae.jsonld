@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_arborVitae"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_arborVitae",
   "name": "arbor vitae",
   "ontologyIdentifier": null,

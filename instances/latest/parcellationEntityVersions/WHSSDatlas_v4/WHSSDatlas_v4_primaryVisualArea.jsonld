@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_visualCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_primaryVisualArea"
+  },
   "lookupLabel": "WHSSDatlas_v4_primaryVisualArea",
   "name": "primary visual area",
   "ontologyIdentifier": null,

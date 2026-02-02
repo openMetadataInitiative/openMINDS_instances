@@ -50,6 +50,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_externalMedullaryLamina"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_externalMedullaryLaminaAuditoryRadiation"
+  },
   "lookupLabel": "WHSSDatlas_v4_externalMedullaryLaminaAuditoryRadiation",
   "name": "external medullary lamina, auditory radiation",
   "ontologyIdentifier": null,

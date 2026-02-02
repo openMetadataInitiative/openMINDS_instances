@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gracileFascicleGoll"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_gracileFascicleGoll",
   "name": "gracile fascicle [Goll]",
   "ontologyIdentifier": null,

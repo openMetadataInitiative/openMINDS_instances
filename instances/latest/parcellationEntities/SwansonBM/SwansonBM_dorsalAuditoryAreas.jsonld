@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalAuditoryAreas"
-    }
-  ],
   "lookupLabel": "SwansonBM_dorsalAuditoryAreas",
   "name": "dorsal auditory areas",
   "ontologyIdentifier": null,

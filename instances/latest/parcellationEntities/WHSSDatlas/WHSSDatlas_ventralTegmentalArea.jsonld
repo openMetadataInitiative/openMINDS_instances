@@ -10,11 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_ventralTegmentalArea"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_ventralTegmentalArea",
   "name": "ventral tegmental area",
   "ontologyIdentifier": null,

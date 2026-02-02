@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_presubiculumLayers16Cajal"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_presubiculumLayers16Cajal",
   "name": "presubiculum, layers 1-6 [Cajal]",
   "ontologyIdentifier": null,

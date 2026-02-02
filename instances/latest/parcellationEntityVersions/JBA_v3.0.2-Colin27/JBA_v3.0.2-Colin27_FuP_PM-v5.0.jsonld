@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_ventralStriatum"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_FuP"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_FuP_PM-v5.0",
   "name": "FuP (Fundus of Putamen, Ventral Striatum)",
   "ontologyIdentifier": null,

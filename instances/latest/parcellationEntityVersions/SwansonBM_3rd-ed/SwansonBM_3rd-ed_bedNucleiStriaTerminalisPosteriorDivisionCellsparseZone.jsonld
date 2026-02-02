@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionCellsparseZone"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionCellsparseZone",
   "name": "bed nuclei stria terminalis, posterior division, cell-sparse zone",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusExternalPartMolecularLayer"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_anteriorOlfactoryNucleusExternalPartMolecularLayer",
   "name": "anterior olfactory nucleus, external part, molecular layer",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_dorsalMotorNucleusOfVagus"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_dorsalMotorNucleusOfVagus",
   "name": "dorsal motor nucleus of vagus",
   "ontologyIdentifier": null,

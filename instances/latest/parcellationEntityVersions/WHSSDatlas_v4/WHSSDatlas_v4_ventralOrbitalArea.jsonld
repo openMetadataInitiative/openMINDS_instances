@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_orbitofrontalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralOrbitalArea"
+  },
   "lookupLabel": "WHSSDatlas_v4_ventralOrbitalArea",
   "name": "ventral orbital area",
   "ontologyIdentifier": null,

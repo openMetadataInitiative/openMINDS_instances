@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_granuleCellLayerOfTheAccessoryOlfactoryBulb"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_granuleCellLayerOfTheAccessoryOlfactoryBulb",
   "name": "granule cell layer of the accessory olfactory bulb",
   "ontologyIdentifier": null,

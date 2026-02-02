@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intracentralFissure2"
-    }
-  ],
   "lookupLabel": "SwansonBM_intracentralFissure2",
   "name": "intracentral fissure 2",
   "ontologyIdentifier": null,

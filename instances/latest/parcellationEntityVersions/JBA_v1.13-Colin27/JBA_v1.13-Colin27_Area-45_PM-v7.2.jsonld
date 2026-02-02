@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_inferiorFrontalGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-45"
+  },
   "lookupLabel": "JBA_v1.13-Colin27_Area-45_PM-v7.2",
   "name": "Area 45 (IFG)",
   "ontologyIdentifier": null,

@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_layer3OfCortex"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_layer3OfCortex",
   "name": "layer 3 of cortex",
   "ontologyIdentifier": null,

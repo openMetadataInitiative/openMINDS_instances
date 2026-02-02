@@ -10,11 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_parietalAssociationCortexLateralArea"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_parietalAssociationCortexLateralArea",
   "name": "parietal association cortex, lateral area",
   "ontologyIdentifier": null,

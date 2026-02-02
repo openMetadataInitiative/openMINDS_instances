@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_superiorTemporalSulcus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-STS1"
+  },
   "lookupLabel": "JBA_v2.9-MNI152_Area-STS1_PM-v5.3",
   "name": "Area STS1 (STS)",
   "ontologyIdentifier": null,

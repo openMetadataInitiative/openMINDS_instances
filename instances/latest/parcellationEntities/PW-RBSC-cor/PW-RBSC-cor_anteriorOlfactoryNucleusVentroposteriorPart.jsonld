@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusVentroposteriorPart"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_anteriorOlfactoryNucleusVentroposteriorPart",
   "name": "anterior olfactory nucleus, ventroposterior part",
   "ontologyIdentifier": null,

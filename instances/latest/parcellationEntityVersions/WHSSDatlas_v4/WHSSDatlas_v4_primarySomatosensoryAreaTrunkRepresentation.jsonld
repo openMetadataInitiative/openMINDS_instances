@@ -45,6 +45,9 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_primarySomatosensoryAreaTrunkRepresentation"
+  },
   "lookupLabel": "WHSSDatlas_v4_primarySomatosensoryAreaTrunkRepresentation",
   "name": "primary somatosensory area, trunk representation",
   "ontologyIdentifier": null,

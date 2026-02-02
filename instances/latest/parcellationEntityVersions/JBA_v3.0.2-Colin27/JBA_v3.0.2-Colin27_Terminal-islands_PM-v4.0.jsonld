@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_olfactoryCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Terminal-islands"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_Terminal-islands_PM-v4.0",
   "name": "Terminal islands (Basal Forebrain)",
   "ontologyIdentifier": null,

@@ -10,11 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_ventralPosteriorNucleusOfTheThalamusParvicellularPart"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_ventralPosteriorNucleusOfTheThalamusParvicellularPart",
   "name": "ventral posterior nucleus of the thalamus, parvicellular part",
   "ontologyIdentifier": null,

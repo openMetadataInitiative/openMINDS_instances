@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartVentrolateralPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartVentrolateralPart",
   "name": "spinal nucleus of the trigeminal, oral part, ventrolateral part",
   "ontologyIdentifier": null,

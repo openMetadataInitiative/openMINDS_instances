@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_extrapyramidalFiberSystemsCerebralNucleiRelated"
-    }
-  ],
   "lookupLabel": "SwansonBM_extrapyramidalFiberSystemsCerebralNucleiRelated",
   "name": "extrapyramidal fiber systems, cerebral nuclei related",
   "ontologyIdentifier": null,
