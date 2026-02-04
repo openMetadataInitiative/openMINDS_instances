@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/modificationConstraint/noOralModification",
   "@type": "https://openminds.om-i.org/types/ModificationConstraint",
-  "definition": "Modification may be made to any subject matter without contractual limitation.",
+  "definition": "Verbal modifications are invalid and unenforceable.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
