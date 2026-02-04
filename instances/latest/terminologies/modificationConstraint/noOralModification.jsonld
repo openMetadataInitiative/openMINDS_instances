@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConstraint/noOralModification",
+  "@type": "https://openminds.om-i.org/types/ModificationConstraint",
+  "definition": "Modification may be made to any subject matter without contractual limitation.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "no oral modification",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
