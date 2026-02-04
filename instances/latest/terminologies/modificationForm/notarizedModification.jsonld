@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationForm/notarizedModification",
+  "@type": "https://openminds.om-i.org/types/ModificationForm",
+  "definition": "Modification is authenticated by a licensed notary or equivalent public officer.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "notarized modification",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
