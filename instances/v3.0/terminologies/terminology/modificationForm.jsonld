@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/modificationForm",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "Terminology for specifying the formal method by which consent to a modification must be expressed.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "modification form",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
+

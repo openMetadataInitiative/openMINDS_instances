@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/modificationScope",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "Terminology for specifying which parts or aspects of an agreement may be modified.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "modification scope",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
+

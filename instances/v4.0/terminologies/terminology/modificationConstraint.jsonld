@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/modificationConstraint",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology for specifying procedural conditions or prohibitions that limit how modifications may be made.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "modification constraint",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
+
