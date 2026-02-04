@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationScope/scheduleModification",
+  "@type": "https://openminds.om-i.org/types/ModificationScope",
+  "definition": "Modification may be made to any deadlines, milestones, and delivery timelines.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "schedule modification",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
