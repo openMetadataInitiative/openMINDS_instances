@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConstraint/noWaiver",
+  "@type": "https://openminds.om-i.org/types/ModificationConstraint",
+  "definition": "Temporary waivers do not constitute permanent amendments.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "no waiver",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
