@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationForm/directedModification",
+  "@type": "https://openminds.om-i.org/types/ModificationForm",
+  "definition": "Modification is issued through a formal contractual or operational change directive.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "directed modification",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
