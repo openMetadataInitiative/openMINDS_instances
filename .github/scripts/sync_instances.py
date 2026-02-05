@@ -17,43 +17,47 @@ REGEX_PATTERN_INSTANCE = r"^https://openminds\.(om-i\.org|ebrains\.eu)/instances
 def sync_properties(src_data, tgt_data, version):
     """Sync properties from src_data to tgt_data."""
     for key, value in src_data.items():
-        try:
-            if key == "@context":
-                tgt_data["@context"] = { "@vocab": VERSION_FILE[version]["namespaces"]["props"] }
-                continue
+        if key == "@context":
+            tgt_data["@context"] = { "@vocab": VERSION_FILE[version]["namespaces"]["props"] }
+            continue
 
-            # Check if @type exists for a given version and add the appropriate namespaces
-            elif key == "@type":
-                if re.match(REGEX_PATTERN_TYPE, src_data[key]):
-                    schema_type_name = re.sub(REGEX_PATTERN_TYPE, "", src_data[key])
-                    # IndexError if schema_type_name not in vocab for the given version
-                    tgt_data[key] = [_namespace_version for _namespace_version in TYPES_FILE[schema_type_name]["hasNamespace"] if version in _namespace_version["inVersions"]][0]['namespace'] + schema_type_name
+        # Check if @type exists for a given version and add the appropriate namespace
+        elif key == "@type":
+            if re.match(REGEX_PATTERN_TYPE, src_data[key]):
+                schema_type_name = re.sub(REGEX_PATTERN_TYPE, "", src_data[key])
+                if schema_type_name not in TYPES_FILE or version not in TYPES_FILE[schema_type_name]['isPartOfVersion']:
+                    print(f"Type {schema_type_name} not found in version {version}.")
+                    return
+
+                for ns in TYPES_FILE[schema_type_name]["hasNamespace"]:
+                    if version in ns["inVersions"]:
+                        tgt_data[key] = ns["namespace"] + schema_type_name
+                        break
                 else:
-                    tgt_data[key] = src_data[key]
-                continue
-            elif key == "@id":
-                if re.match(REGEX_PATTERN_INSTANCE, src_data[key]):
-                    _id = re.sub(REGEX_PATTERN_INSTANCE, "", src_data[key])
-                    tgt_data[key] = VERSION_FILE[version]["namespaces"]["instances"] + _id
-                else:
-                    tgt_data[key] = src_data[key]
-                continue
-        except IndexError:
-            print(f"Type {schema_type_name} not found in version {version}.")
-            return
+                    print(f"No namespace found for type {schema_type_name} in version {version}.")
+                    return
+            else:
+                tgt_data[key] = src_data[key]
+            continue
+        elif key == "@id":
+            if re.match(REGEX_PATTERN_INSTANCE, src_data[key]):
+                _id = re.sub(REGEX_PATTERN_INSTANCE, "", src_data[key])
+                tgt_data[key] = VERSION_FILE[version]["namespaces"]["instances"] + _id
+            else:
+                tgt_data[key] = src_data[key]
+            continue
 
         if key in ["@context", "@type"]:
             continue
         elif key in PROPERTIES_FILE:
-            try:
-                # IndexError if property not found for the given version
-                [_namespace_version for _namespace_version in PROPERTIES_FILE[key]["hasNamespace"] if version in _namespace_version["inVersions"]][0]
-            except IndexError:
-                del tgt_data[key]
-                print(f"Property skipped: {key} not found in version {version}.")
+            versions_used_in = PROPERTIES_FILE[key]["usedIn"]
+            if version not in versions_used_in:
+                print(f"Property skipped: {key} not used in version {version}.")
+                continue
+            elif tgt_data["@type"] not in versions_used_in[version]:
+                print(f"Property skipped: {key} not used with the @type {tgt_data['@type']} in version {version}.")
                 continue
         else:
-            del tgt_data[key]
             print(f"Property skipped: {key} not found.")
             continue
 
