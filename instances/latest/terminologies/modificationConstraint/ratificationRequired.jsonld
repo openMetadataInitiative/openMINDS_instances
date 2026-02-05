@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConstraint/ratificationRequired",
+  "@type": "https://openminds.om-i.org/types/ModificationConstraint",
+  "definition": "Modifications require later formal confirmation to remain valid.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ratification required",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
