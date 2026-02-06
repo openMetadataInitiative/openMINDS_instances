@@ -2,20 +2,18 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.openephys",
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.numpy.multiarray",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
-  "description": null,
+  "description": "File format by numpy that provides storage of array data using gzip compression.",
   "displayLabel": null,
   "fileExtension": [
-    ".dat",
-    ".npy",
-    ".json"
+    ".npz"
   ],
-  "name": "application/vnd.openephys",
+  "name": "application/vnd.numpy.multiarray",
   "relatedMediaType": null,
   "specification": null,
   "synonym": [
-    "Open Ephys Format"
+    "NumPy multiarray"
   ]
 }
