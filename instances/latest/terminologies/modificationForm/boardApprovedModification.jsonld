@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationForm/boardApprovedModification",
+  "@type": "https://openminds.om-i.org/types/ModificationForm",
+  "definition": "Modification is approved through a formal resolution of the governing body.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "board approved modification",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
