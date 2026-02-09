@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/echoPlanarPulseSequence",
   "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
-  "definition": "In magnetic resonance imaging, an 'echo-planar pulse sequence' is a contrasting technique where each radio frequency field (RF) excitation is followed by a train of gradient echoes with different spatial encoding allowing for very rapid scanning. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Physics_of_magnetic_resonance_imaging#Echo-planar_imaging)]",
+  "definition": "A magnetic resonance image pulse sequence that is composed of multiple echoes at different phase steps (often collected blocks of 64 or 128 phase steps), which are acquired using rephasing gradients where rephasing is achieved by rapidly reversing the readout or frequency-encoding gradient.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

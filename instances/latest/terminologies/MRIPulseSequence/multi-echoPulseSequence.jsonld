@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/multi-echoPulseSequence",
+  "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "multi-echo pulse sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": null    
+}

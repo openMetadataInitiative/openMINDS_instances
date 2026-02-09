@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/fastSpinEchoPulseSequence",
+  "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
+  "definition": "A magnetic resonance image pulse sequence that collects multiple echos instead of a single echo during a spin echo pulse sequence, multiple echos are recorded for each 90-degree pulse by using multiple 180-degree inversion pulses with slightly different phase encoding gradients.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "fast spin echo pulse sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "turbo spin echo",
+    "TSE",
+    "FSE",
+    "fast spin-echo imaging",
+    "FSE pulse sequence",
+    "FSE imaging",
+    "TSE pulse sequence",
+    "TSE imaging",
+    "turbo spin-echo imaging" 
+  ]
+}
