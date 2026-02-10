@@ -2,13 +2,15 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/accessMode/hybrid",
-  "@type": "https://openminds.om-i.org/types/AccessMode",
+  "@id": "https://openminds.om-i.org/instances/accessChannel/hybridAccess",
+  "@type": "https://openminds.om-i.org/types/AccessChannel",
   "definition": "Access is provided both remotely through digital means and at a specific physical location.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "hybrid",
+  "name": "hybrid access",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "hybrid"
+  ]
 }

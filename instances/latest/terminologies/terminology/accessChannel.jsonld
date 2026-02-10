@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/accessChannel",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology defining the location or medium through which a resource can be accessed.",
+  "description": "The terminology defining access channel specifies whether a resource is accessible remotely through digital means (virtual), requires physical presence at a specific location (on-site), or is available through both means (hybrid).",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "access channel",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "access location",
+    "delivery channel"
+  ]
+}
