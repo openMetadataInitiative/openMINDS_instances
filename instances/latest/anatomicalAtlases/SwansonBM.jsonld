@@ -1,0 +1,3504 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/SwansonBM",
+  "@type": "https://openminds.om-i.org/types/AnatomicalAtlas",
+  "abbreviation": "SwansonBM",
+  "author": null,
+  "custodian": null,
+  "description": "Swanson's Brain Maps atlases are open access, stereotaxic rat brain atlases of an adult Sprague Dawley rat. These atlases contain spatially aligned maps for 3D reconstruction, hierarchical nomenclature and flatmaps.",
+  "digitalIdentifier": null,
+  "fullName": "Swanson's Brain Maps: Structure of the Rat Brain",
+  "hasTerminology": {
+    "@type": "https://openminds.om-i.org/types/ParcellationTerminology",
+    "dataLocation": null,
+    "hasEntity": [
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_AmmonsHornNoguez"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_BarringtonsNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_EdingerWestphalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_KollikerFuseSubnucleusOfPB"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_OnufsNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_abducensNerveEustachius"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_abducensNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryAbducensNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryFacialNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOlfactoryBulbBalogh"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOlfactoryBulbGlomerularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOlfactoryBulbGranuleCellLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOlfactoryBulbMitralLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOlfactoryNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOlfactoryTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOpticTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessorySpinalNerveWillis"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessorySupraopticGroup"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_agranularInsularArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_agranularInsularAreaDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_agranularInsularAreaPosteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_agranularInsularAreaVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_alveusBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_amygdalaBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_amygdalarCapsule"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_angularBundle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ansaPeduncularisGratiolet"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ansiformLobule"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ansiformLobuleCrus1SublobulesAd"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ansiformLobuleCrus2SublobulesAb"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ansoparamedianFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorAmygdalarArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorCingulateArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorCingulateAreaDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorCingulateAreaVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorCommissureOlfactoryLimb"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorCommissureRiolan"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorCommissureTemporalLimb"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicNucleusAnteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicNucleusCentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicNucleusDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicNucleusPosteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorLaterolateralVisualArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorLevelHypothalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorLobeCerebellum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorNucleiDorsalThalamusNissl"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusDorsalPartMolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusDorsalPartPyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusExternalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusExternalPartMolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusExternalPartPyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusKolliker"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusLateralPartMolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusLateralPartPyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusMedialPartMolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusMedialPartPyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusPosteroventralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusPosteroventralPartMolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusPosteroventralPartPyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorPretectalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorTegmentalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anterodorsalNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anterodorsalPreopticNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anterolateralVisualArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteromedialNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteromedialNucleusThalamusDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteromedialNucleusThalamusVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteromedialVisualArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteroventralNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteroventralPeriventricularNucleusHypothalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteroventralPreopticNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_arachnoid"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_arborVitae"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_arcuateHypothalamicNucleusClark"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_areaPostrema"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_auditoryAreas"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_autonomicGanglia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_autonomicNervousSystemLangley"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basalNucleusOfTheDorsalHorn"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basalNucleusOfTheDorsalHornGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basolateralAmygdalarNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basolateralAmygdalarNucleusAnteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basolateralAmygdalarNucleusPosteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basomedialAmygdalarNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basomedialAmygdalarNucleusAnteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basomedialAmygdalarNucleusPosteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionAnterolateralArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionAnteromedialArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionDorsomedialNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionFusiformNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionJuxtacapsularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionMagnocellularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionOvalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionRhomboidNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionSubcommissuralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionVentralNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisJohnston"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionCellsparseZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionDorsalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionInterfascicularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionPremedullaryNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionPrincipalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionStrialExtension"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionTransverseNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleusAccessoryOlfactoryTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleusAnteriorCommissureGurdjian"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleusOfTheStriaMedullarisCajal"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_behaviorControlColumn"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_behavioralStateSystem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_brachialPlexus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_brachiumOfTheInferiorColliculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_brachiumOfTheSuperiorColliculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_brain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_brainstem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bulbocerebellarTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_caudalIntracentralFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_caudoputamen"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_celiacGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralAmygdalarNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralAmygdalarNucleusCapsularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralAmygdalarNucleusLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralAmygdalarNucleusMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralCanalSpinalCordmedulla"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralCervicalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralGray"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralGrayBrain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralLateralNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralLinearNucleusRaphe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralLobule"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralLobuleLobuleIIISublobulesAb"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralLobuleLobuleIISublobulesAb"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralMedialNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralNervousSystem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralNervousSystemGrayMatter"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralNervousSystemWhiteMatter"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralTegmentalBundleBechterew"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarCommissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarCortexGranuleCellLayerInner"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarCortexGrooves"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarCortexMolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarCortexPurkinjeLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarNuclei"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarPeduncles"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellumHerophilusErasistratus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellumRelatedFiberTracts"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralAqueductCollicularRecess"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralAqueductGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralAqueductProperSylvius"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortexCorticalPlate"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortexGrooves"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortexPolymodalAssociationCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortexSensorymotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortexSubplateRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralNuclei"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralPeduncle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebrospinalFluid"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebrospinalTrunk"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebrumCerebralHemispheresEndbrainTelencephalon"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cervicalPlexus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cervicalSpinalGanglia18"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cervicothalamicTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidFissureFourthVentricle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidFissureLateralVentricle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidFissureThirdVentricle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidPlexus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidPlexusFourthVentricle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidPlexusLateralVentricle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidPlexusThirdVentricle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidalFissureEye"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ciliaryGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ciliaryNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cingulateRegionBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cingulumBundleReil"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_claustrumBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_coccygealSpinalGanglia13"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_coccygealSympatheticGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cochlearNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cochlearNuclei"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cochlearNucleiGranularLamina"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cochlearNucleiSubpeduncularGranularRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_columnsOfTheFornix"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_commissuralNucleusPeriaqueductalGrayPaxinosWatson"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_copulaPyramidisSublobulesAb"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumAnteriorForcepsArnold"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumBody"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumGalen"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumGenu"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumPosteriorForcepsArnold"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumRostrum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumSpleniumBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticalAmygdalarNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticalAmygdalarNucleusAnteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticalAmygdalarNucleusPosteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticalAmygdalarNucleusPosteriorPartLateralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticalAmygdalarNucleusPosteriorPartMedialZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticobulbarTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticopontineTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticorubralTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticospinalTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticospinalTractUncrossedBurdachTurck"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticotectalTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cranialNerves"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cranialParasympatheticGanglia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cranialPlexuses"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cranialSensoryGanglia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_crus1Fissures13"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_crus2Fissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_culmen"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_culmenLobulesIVV"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cuneateFascicleBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cuneateNucleusBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cuneiformNucleusCastaldi"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cuneocerebellarTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_declivalFissure2"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_decliveVISublobulesAd"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_decussationOfTheTrochlearNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_deepCerebellarNuclei"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusCrest"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusCrestgranuleCellLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusCrestmolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusCrestpolymorphLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusLateralBlade"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusLateralBladegranuleCellLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusLateralBlademolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusLateralBladepolymorphLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusMedialBlade"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusMedialBladegranuleCellLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusMedialBlademolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusMedialBladepolymorphLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusTarin"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateNucleusMagnocellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateNucleusParvicellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateNucleusVicqDAzyr"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_diagonalBandBroca"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_diagonalBandNucleusBroca"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_diencephalon"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_distalGlossopharyngealGanglionAndersch"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_distalGlossopharyngeovagalPlacode"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_distalVagalGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalAcousticStriaMonakow"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalAuditoryAreas"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalCochlearNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalColumnNuclei"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalColumns"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalCommissuralNucleusOfTheSpinalCord"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalCommissureSpinalCord"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalFornix"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalHippocampalCommissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalHornSpinalCord"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalLongitudinalFascicleSchutz"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalMedianSeptum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalMotorNucleusVagusNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalNucleusRaphe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalNucleusSpinalCordCaudalPartStilling"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalNucleusSpinalCordGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalNucleusSpinalCordStillingClarke"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalPremammillaryNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalPropriohypothalamicPathways"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalRootsCoiter"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalSpinocerebellarTractFlechsig"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalTegmentalDecussationMeynert"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalTegmentalNucleusGudden"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalTegmentalTractLindvallBjorklund"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalTerminalNucleusAccessoryOpticTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalThalamusPolymodalAssociationCortexRelate"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalThalamusSensorymotorCortexRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsolateralFascicleLissauer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsomedialHypothalamicNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsomedialHypothalamicNucleusAnteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsomedialHypothalamicNucleusPosteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsomedialHypothalamicNucleusVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dura"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ectorhinalArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_efferentCochlearGroup"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_efferentCochleovestibularBundle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_efferentVestibularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_endopiriformNucleusDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_endopiriformNucleusLoo"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_endopiriformNucleusVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_endorhinalGroove"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_entericNervousSystemLangley"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_entorhinalArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_entorhinalAreaLateralPartLayers16"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_entorhinalAreaMedialPartDorsalZoneLayers16"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_entorhinalAreaMedialPartVentralZoneHaug"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_epithalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_externalCapsuleBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_externalCuneateNucleusMonakowBlumenau"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_externalMedullaryLaminaThalamusBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_extrapyramidalFiberSystems"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_extrapyramidalFiberSystemsCerebralNucleiRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_extremeCapsule"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_facialNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_facialNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fasciculusProprius"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fasciculusRetroflexusMeynert"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fasciolaCinereaReilArnold"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fastigialNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1AmmonsHornLorenteDeNo"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1PyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1PyramidalLayerDeep"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1PyramidalLayerSuperficial"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1StratumLacunosummoleculareMeynert"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1StratumOriensSala"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1StratumRadiatumMeynert"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA2AmmonsHornLorenteDeNo"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA2PyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA2StratumLacunosummoleculare"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA2StratumOriens"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA2StratumRadiatum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3AmmonsHornLorenteDeNo"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3PyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3StratumLacunosummoleculare"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3StratumLucidumHonegger"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3StratumOriens"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3StratumRadiatum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldsOfForel"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_filumTerminale"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fimbriaVieussens"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_flocculonodularLobeCerebellum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_flocculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_foliumtuberVermisVII"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_forebrain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fornixSystemGalen"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fourthVentricleGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fourthVentricleLateralRecess"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fourthVentricleProper"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_frontalPoleCerebralCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_frontalRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ganglia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_geniculateGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_geniculateGroupOfTheDorsalThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_geniculateGroupOfTheVentralThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_genuOfTheFacialNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gigantocellularReticularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_globusPallidusBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_globusPallidusExternalSegment"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_globusPallidusInternalSegment"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_glossopharyngealNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gracileFascicleGoll"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gracileNucleusGeneralGoll"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gracileNucleusMedianPartBischoff"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gracileNucleusPrincipalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_grooves"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gustatoryArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_habenularCommissureHaller"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hemisphericRegionCerebellum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hindbrain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hippocampalCommissuresDavid"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hippocampalFissureGratiolet"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hippocampalFormation"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hippocampalRegionAranzi"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypoglossalNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypoglossalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypothalamicLateralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypothalamicLateralZoneMotorRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypothalamicLateralZoneStateRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypothalamicPeriventricularRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypothalamohypophysialTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypothalamusHis"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_induseumGriseumValentin"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorCerebellarPeduncleRidley"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorColliculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorColliculusCentralNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorColliculusCommissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorColliculusDorsalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorColliculusExternalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorMesentericGanglia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorOlivaryComplexDorsalAccessoryOlive"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorOlivaryComplexMedialAccessoryOlive"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorOlivaryComplexPrincipalOlive"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorOlivaryComplexVieussens"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorSalivatoryNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_infracerebellarNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_infralimbicArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_infundibulumExternalLamina"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_infundibulumGalen"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_infundibulumInternalLamina"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_insularRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interanterodorsalNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interanteromedialNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interbrain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intercalatedAmygdalarNuclei"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intercalatedNucleusOfTheSpinalCord"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intercruralFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interfascicularNucleusRaphe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediateAcousticStriaHeld"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediateGraySpinalCordGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediateGraySpinalCordProper"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediateNerveWrisberg"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediodorsalNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediolateralSpinalColumn"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediolateralSpinalColumnSacralDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediolateralSpinalColumnThoracolumbarDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediolateralVisualArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediomedialSpinalColumn"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_internalArcuateFibers"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_internalCapsuleBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_internalMedullaryLaminaThalamusBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_internuclearAreaHypothalamicPeriventricularRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusApicalSubnucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusCentralSubnucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusDorsomedialSubnucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusGudden"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusIntermediateSubnucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusLateralSubnucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusLateralSubnucleusDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusLateralSubnucleusIntermediatePart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusLateralSubnucleusRostralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusLateralSubnucleusVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusRostralSubnucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interposedNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interposedNucleusMainPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interposedNucleusParvicellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interstitialNucleusAuditoryNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interstitialNucleusOfCajal"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interstitialNucleusVestibularNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interventricularForamenMonro"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intracentralFissure2"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intraculminateFissure1"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intralaminarNucleiDorsalThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intraparafloccularFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_islandsOfCallejaOlfactoryTubercle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexDeepSupragranularPyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexGranularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexInfragranularPyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexMolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexPolymorphLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexSuperficialSupragranularPyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_juxtarestiformBody"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralAmygdalarNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralApertureFourthVentricleLuschka"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralCervicalNucleusRexedBrodal"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralDorsalNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralForebrainBundle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralForebrainBundleSystem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralForebrainBundleSystemThalamusRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralFuniculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexIntergeniculateLeaflet"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexSantorini"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexVentralPartLateralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexVentralPartMedialZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHabenulaNissl"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaAnteriorRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaAnteriorRegionDorsalZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaAnteriorRegionIntermediateZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaAnteriorRegionVentralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaDorsalRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaJuxtadorsomedialRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaJuxtaparaventricularRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegionDorsalZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegionVentralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaMagnocellularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaMotorRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaNissl"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaParvicellularRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaPosteriorRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaSubfornicalRegionAnteriorZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaSubfornicalRegionPosteriorZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaSubfornicalRegionPremammillaryZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaSuprafornicalRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaVentralRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaVentralRegionLateralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaVentralRegionMedialZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralLemniscusReil"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralMammillaryNucleusGudden"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralNucleiDorsalThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralOlfactoryTractBody"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralOlfactoryTractDorsalLimb"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralOlfactoryTractGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralPosteriorNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralPreopticArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralPropriohypothalamicPathways"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralReticularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralReticularNucleusMagnocellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralReticularNucleusParvicellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalComplexRisoldSwanson"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCajal"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalCaudodorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartDorsalZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneDorsalRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneLateralRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneRostralRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneVentralRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneIntermediateRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneLateralRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionDorsalDomain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionVentralDomain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneMedialRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionDorsalDomain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionVentralDomain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionDorsalDomain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionVentralDomain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionDorsalDomain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionVentralDomain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartMedialZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartMedialZoneDorsalRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartMedialZoneVentralRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartMedialZoneVentralRegionCaudalDomain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartMedialZoneVentralRegionRostralDomain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionLateralDomain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionMedialDomain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneVentralRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralRostroventralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusVentralPartRisoldSwanson"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSpinalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSpinothalamicTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralTegmentalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralTerminalNucleusAccessoryOpticTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralVentricle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralVestibularNucleusDeiters"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_laterodorsalTegmentalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_laterolateralVisualArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_linearNucleusMedulla"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lingulaI"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_locusCeruleusVicqDAzyr"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_longitudinalAssociationBundle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lumbarSpinalGanglia16"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lumbarSympatheticGanglia16"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lumbosacralPlexus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_magnocellularNucleusLoo"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_magnocellularReticularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbGlomerularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbGranuleCellLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbInnerPlexiformLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbMitralLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbOuterPlexiformLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbSoemmerring"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_majorIslandOfCallejaOlfactoryTubercle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mammillaryBodyGallSpurzheim"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mammillaryPeduncleMeynert"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mammillotegmentalTractGudden"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mammillothalamicTractVicqDAzyr"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_marginalZoneSpinalCordWaldeyer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAccessoryOculomotorNucleusBechterew"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAmygdalarNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAmygdalarNucleusAnterodorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAmygdalarNucleusAnteroventralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAmygdalarNucleusPosterodorsalPartSublayersAc"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAmygdalarNucleusPosteroventralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialCorticohypothalamicTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleEdinger"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystemCerebrumRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystemEpithalamusRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystemHypothalamusRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystemMammillaryRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystemMidbrainRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystemThalamusRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialGeniculateComplex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialGeniculateComplexDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialGeniculateComplexMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialGeniculateComplexVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialHabenulaDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialHabenulaNissl"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialHabenulaVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialLemniscusReil"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialLongitudinalFascicle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialMammillaryNucleusBody"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialMammillaryNucleusGeneralGudden"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialMammillaryNucleusMedianPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialNucleiDorsalThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPreopticArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPreopticNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPreopticNucleusCentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPreopticNucleusLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPreopticNucleusMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPretectalArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPropriohypothalamicPathways"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialSeptalComplex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialSeptalNucleusCajal"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialTerminalNucleusAccessoryOpticTractEdinger"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialVestibularNucleusSchwalbe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medianApertureFourthVentricleMagendie"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medianEminence"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medianEminenceExternalLamina"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medianEminenceInternalLamina"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medianPreopticNucleusLoo"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mediodorsalNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mediodorsalNucleusThalamusCentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mediodorsalNucleusThalamusLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mediodorsalNucleusThalamusMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mediolateralVisualArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medulla"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medullaryReticularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medullaryReticularNucleusDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medullaryReticularNucleusVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_meninges"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainReticularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainReticularNucleusMagnocellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainReticularNucleusMagnocellularPartGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainReticularNucleusParvicellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainReticularNucleusRetrorubralArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainTractOfTheTrigeminalNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainTrigeminalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_middleCerebellarPeduncle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_middleCervicalGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_middleCommissureOfTheThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midlineGroupDorsalThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midlineNucleiDorsalThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motoneuronGroups"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motorNucleusOfTheTrigeminalMagnocellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motorNucleusOfTheTrigeminalNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motorNucleusOfTheTrigeminalNerveParvicellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motorRootOfTheTrigeminalNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motorSystem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_myentericPlexusAuerbach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nerveFibers"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nervePlexuses"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nerves"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nervousSystem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_neuroendocrineMotorZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_neuroendocrineMotorZoneMagnocellular"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_neuroendocrineMotorZoneParvicellular"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nigrostriatalTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nigrothalamicFibers"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nodularFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nodulusXSublobulesAb"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusAccumbens"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusAmbiguusDorsalDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusAmbiguusVentralDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusBrachiumInferiorColliculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusCircularis"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusIncertusCompactPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusIncertusDiffusePart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusIncertusStreeter"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusIntercalatusStaderini"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfDarkschewitsch"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfRoller"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheBulbocavernosus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralLemniscusBechterew"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralLemniscusDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralLemniscusHorizontalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralLemniscusVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralOlfactoryTractDorsalCap"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralOlfactoryTractGanser"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralOlfactoryTractMolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralOlfactoryTractPyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheOpticTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfThePosteriorCommissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSolitaryTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSolitaryTractCentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSolitaryTractCommissuralPartCajal"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSolitaryTractGelatinousPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSolitaryTractLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSolitaryTractMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSpinalAccessoryNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheTrapezoidBody"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusPrepositusMarburg"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusPropriusOfTheSpinalCord"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusRapheMagnus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusRapheObscurus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusRaphePallidus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusRaphePontis"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensCaudalDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensCaudalDivisionDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensCaudalDivisionMedianPartGurdjian"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensCaudalDivisionPosteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensMalone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionAnteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionMedianPartGurdjian"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusSagulum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusXBrodalPompeiano"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusYBrodalPompeiano"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusZBrodalPompeiano"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_occipitalPoleCerebralCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_occipitalRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_oculomotorNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_oculomotorNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryTubercleGanser"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryTubercleMolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryTuberclePolymorphLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryTuberclePyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olivaryPretectalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olivocerebellarTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_opticChiasm"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_opticNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_opticTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_orbitalArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_orbitalAreaLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_orbitalAreaMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_orbitalAreaVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_orbitalAreaVentrolateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_oticGanglionArnold"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pallidotegmentalFascicle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pallidothalamicPathway"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pallidum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabigeminalNucleusBechterew"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusCentralLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusDorsalLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusExternalLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusExternalMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusExtremeLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusInternalLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusLateralDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusMedialDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusMedialMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusSuperiorLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusVentralLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusVentralMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paracentralNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parafascicularNucleusVogt"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parafloccularSulcus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraflocculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paragigantocellularReticularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paragigantocellularReticularNucleusDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paragigantocellularReticularNucleusLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paramedianLobule"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paramedianReticularNucleusMislawsky"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paramedianSulcus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parapyramidalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parapyramidalNucleusDeepPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parapyramidalNucleusSuperficialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasolitaryNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parastrialNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasubiculumLayers16"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasubthalamicNucleusZhangWang"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasympatheticGanglia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasympatheticPlexuses"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasympatheticSystem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paratenialNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paratrigeminalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusAnteriorMagnocellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusAnteriorParvicellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusDescendingDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusDorsalParvicellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusFornicealPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusLateralParvicellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMagnocellularDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMalone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMedialMagnocellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMedialParvicellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMedialParvicellularPartDorsalZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMedialParvicellularPartVentralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusNeuroendocrineComponent"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusParvicellularDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusPeriventricularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPartLateralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPartMedialZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularThalamicNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paravertebralSympatheticGanglia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parietalRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parietalRegionPosteriorAssociationAreas"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parvicellularReticularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pedunculopontineNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pelvicGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_perforantPath"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGray"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayDorsalDivisionBeitz"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayDorsolateralDivisionBeitz"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayMedialDivisionBeitz"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayRostrolateralDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayRostromedialDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayVentrolateralDivisionBeitz"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_perihypoglossalNuclei"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periolivaryRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_peripeduncularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_peripheralNervousSystem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_perireuniensNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_perirhinalArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularBundleHypothalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularBundleThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularHypothalamicNucleusAnteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularHypothalamicNucleusIntermediatePart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularHypothalamicNucleusPosteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularRegionHypothalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_phrenicNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_phrenicNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pinealGlandGalen"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pinealStalk"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_piriformArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_piriformAreaMolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_piriformAreaPolymorphLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_piriformAreaPyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_piriformamygdalarArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pituitaryGlandAnteriorLobe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pituitaryGlandGalen"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pituitaryGlandIntermediateLobe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pituitaryGlandNeuralLobe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ponsVarolio"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineCentralGray"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineCentralGrayGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineGray"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineGrayGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineReticularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineReticularNucleusCaudalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineReticularNucleusRostralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_postAndPrecerebellarNuclei"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_postcommissuralFornixElliotSmith"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorAmygdalarNucleusCanterasSwanson"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorAuditoryArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorCommissureLieutaud"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorComplexThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorHypothalamicNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorLimitingNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorLobeCerebellum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorPretectalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorSeptalComplex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorSuperiorFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posterodorsalIntraculminateFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posterodorsalPreopticNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posterolateralFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posterolateralVisualArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteromedialVisualArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_postpiriformTransitionArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_postsubiculumLayers16"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precentralFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precentralFissureA"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precentralFissureB"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precommissuralFornixElliotSmith"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precommissuralFornixGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precommissuralNucleusPeriaqueductalGrayPaxinosWatson"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preculminateFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_prefrontalRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preganglionicAutonomicPools"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preganglionicAutonomicPoolsParasympathetic"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preganglionicAutonomicPoolsSympathetic"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_prelimbicArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_premammillaryCommissureRisoldEtAl"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preopticCommissureRisoldEtAl"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preopticLevelHypothalamusEdinger"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preopticPeriventricularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preparasubthalamicNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_prepyramidalFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_presubiculumLayers16Cajal"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pretectalRegionEdinger"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_prevertebralSympatheticGanglia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primaryAuditoryArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primaryFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatomotorArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryAreaBarrelField"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryAreaLowerLimbRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryAreaMouthRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryAreaNoseRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryAreaTrunkRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryAreaUpperLimbRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primaryVisualArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_principalMammillaryTractKolliker"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_principalSensoryNucleusOfTheTrigeminal"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_propriohypothalamicPathways"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_proximalGlossopharyngealGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_proximalGlossopharyngeovagalPlacode"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_proximalVagalGanglionEhrenritter"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pterygopalatineGanglionMeckel"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pudentalPlexus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pyramidWillis"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pyramidalDecussationPourfourDuPetit"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pyramidalFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pyramusVIIISublobulesAb"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rapheNuclei"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_redNucleusBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticularFormationJLenhossek"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticularNucleusSpinalCord"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticularNucleusThalamusArnold"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticulocerebellarTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticulospinalTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticulospinalTractLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticulospinalTractMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retina"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retinaGanglionCellLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retinaInnerNuclearLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retinaInnerPlexiformLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retinaOuterNuclearLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retinaOuterPlexiformLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrochiasmaticAreaLateralHypothalamicArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrohippocampalRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialAreaDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialAreaLateralAgranularPartRisoldSwanson"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialAreaVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialAreaVentralPartZoneA"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialAreaVentralPartZoneBc"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rhinalFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rhinalIncisure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rhinalRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rhinocele"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rhomboidNucleusCajal"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rostralLinearNucleusRaphe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rostralMedullaryVelumVieussens"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rostralNeuropore"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rostrolateralVisualArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rubroreticularTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rubrospinalTractMonakow"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sacralParasympatheticGanglia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sacralSpinalGanglia14"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sacralSympatheticGanglia14"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_secondaryFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_secondarySomatomotorAreas"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensoryGanglia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensoryRootOfTheTrigeminalNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemAuditory"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemGustatory"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemHumorosensory"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemSomatosensory"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemVisceral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemVisual"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_septalRegionMeynert"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_septofimbrialNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_septohippocampalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_simpleFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_simpleLobuleSublobulesAb"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_solitaryTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_somaticNervousSystem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_somatomotorAreas"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_somatomotorMotoneuronPools"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_somatosensoryAreas"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCentralGray"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCord"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordCervicalLevelSegments18"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordCoccygealLevelSegments13"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordGrooves"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordLumbarLevelSegments16"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordSacralLevelSegments14"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordThoracicLevelSegments113"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNerves"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminal"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalCaudalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalInterpolarPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartCaudalDorsomedialRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionDorsalZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionVentralZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartRostralDorsomedialRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartVentrolateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalPlexuses"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalSensoryGanglia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalTractOfTheTrigeminalNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalVestibularNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinocerebellarTracts"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinocervicalTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinohypothalamicPathway"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinoolivaryPathway"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinoreticularPathway"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinotectalPathway"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinotelencephalicPathway"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinothalamicTractThieleHorsley"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinovestibularPathway"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spiralGanglionCorti"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_splanchnicNerves"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_stellateGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_stratumZonaleThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_striaMedullaris"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_striaTerminalisWenzelWenzel"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_striatalFundus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_striatonigralPathway"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_striatum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subceruleusNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subcommissuralOrgan"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subependymalZone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subfornicalOrganPines"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumBurdach"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumDorsalPartMolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumDorsalPartPyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumDorsalPartStratumRadiatum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumVentralPartMolecularLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumVentralPartPyramidalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumVentralPartStratumRadiatum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sublaterodorsalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_submandibularGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_submedialNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_submucosalPlexusMeissner"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subparafascicularNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subparafascicularNucleusThalamusMagnocellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subparafascicularNucleusThalamusParvicellularPartLateralDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subparafascicularNucleusThalamusParvicellularPartMedialDivision"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subparaventricularZoneHypothalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_substantiaGelatinosaSpinalCordRolando"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_substantiaInnominataReilReichert"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_substantiaNigraCompactPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_substantiaNigraReticularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_substantiaNigraSoemmerringVicqDAzyr"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subthalamicFascicle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subthalamicNucleusLuys"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCentralNucleusRapheBechterew"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCentralNucleusRapheLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCentralNucleusRapheMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCerebellarPeduncle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCerebellarPeduncleWernekinck"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCervicalGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusCommissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusDeepGrayLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusDeepWhiteLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusIntermediateGrayLayerSublayerA"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusIntermediateGrayLayerSublayerB"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusIntermediateGrayLayerSublayerC"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusIntermediateWhiteLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusMotorRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusOpticLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusSensoryRelated"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusSuperficialGrayLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusZonalLayer"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorMesentericGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorOlivaryComplexLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorOlivaryComplexMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorOlivaryComplexSchroederVanDerKolk"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorSalivatoryNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorVestibularNucleusBechterew"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supplementalSomatosensoryArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_suprachiasmaticNucleusDorsomedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_suprachiasmaticNucleusSpiegelZwieg"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_suprachiasmaticNucleusVentrolateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_suprachiasmaticPreopticNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_suprageniculateNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supragenualNucleusMeessenOlszewski"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supramammillaryDecussation"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supramammillaryNucleusCajal"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supramammillaryNucleusLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supramammillaryNucleusMedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticCommissures"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticCommissuresAnteriorGanser"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticCommissuresDorsalMeynert"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticCommissuresVentralGudden"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticNucleusGeneralLenhossek"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticNucleusProper"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticNucleusRetrochiasmaticPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supratrigeminalNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sympatheticChain"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sympatheticGanglia"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sympatheticPlexuses"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sympatheticSystem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tectospinalPathway"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tectospinalPathwayCrossedEdinger"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tectospinalPathwayDirect"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tectothalamicPathway"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tectum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tegmentalReticularNucleusPontineGrayBechterew"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tegmentum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_telencephalicRoofPlate"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_telencephalon"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_temporalAssociationAreas"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_temporalPoleCerebralCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_temporalRegion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_teniaTecta"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_teniaTectaDorsalPartLayers14"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_teniaTectaVentralPartLayers13"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_terminalGanglion"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_terminalNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thalamicPeduncles"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentricle"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentricleHypothalamicPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentricleInfundibularRecess"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentricleMammillaryRecess"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentriclePeriventricularRecess"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentriclePinealRecess"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentriclePreopticRecessEdinger"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentricleThalamicPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thoracicSpinalGanglia113"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thoracicSympatheticGanglia313"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trapezoidBodyTreviranus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_triangularNucleusSeptumCajal"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trigeminalGanglionVieussensGasser"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trigeminalNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trigeminocerebellarTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trochlearNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trochlearNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberalNucleusIntermediatePart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberalNucleusLateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberalNucleusMalone"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberalNucleusSubventricularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberalNucleusTereteSubnucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberomammillaryNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberomammillaryNucleusDorsalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberomammillaryNucleusVentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_uncinateFascicleRussell"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_uvulaIXSublobulesAbc"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_uvularFissure1"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vagalCommissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vagusNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vascularOrganOfTheLaminaTerminalis"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralAnteriorlateralComplexThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralAuditoryAreas"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralCochlearNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralCochlearNucleusAnteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralCochlearNucleusPosteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralCommissureOfTheSpinalCord"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralCommissureSpinalCord"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralFuniculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralHippocampalCommissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralHornSpinalCord"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralHornSpinalCordGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralMedialNucleusThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralMedianFissure"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralNucleiDorsalThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosteriorComplexThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosterolateralNucleusThalamusGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosterolateralNucleusThalamusParvicellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosterolateralNucleusThalamusPrincipalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosteromedialNucleusThalamusGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosteromedialNucleusThalamusParvicellularPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosteromedialNucleusThalamusPrincipalPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPremammillaryNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPropriohypothalamicPathways"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralRootsCoiter"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralSpinocerebellarTractGowers"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralSpinothalamicTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralTegmentalAreaTsai"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralTegmentalDecussationForel"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralTegmentalNucleusGudden"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralThalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventricularSystem"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventrolateralHypothalamicTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventrolateralPreopticNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventromedialHypothalamicNucleus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventromedialNucleusHypothalamusAnteriorPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventromedialNucleusHypothalamusCentralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventromedialNucleusHypothalamusDorsomedialPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventromedialNucleusHypothalamusVentrolateralPart"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vermalRegionsCerebellum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibularGanglionScarpa"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibularNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibularNuclei"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibulocochlearNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibulomotorRegions"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibulospinalPathway"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_visceralArea"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_visceralSensorymotorAreas"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_visualAreas"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vomeronasalNerve"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_zonaIncerta"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_zonaIncertaDopaminergicGroup"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_zonaIncertaGeneral"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_zonaLimitans"
+      }
+    ],
+    "ontologyIdentifier": null
+  },
+  "homepage": "https://larrywswanson.com/",
+  "howToCite": null,
+  "ontologyIdentifier": null,
+  "shortName": "Swanson's Brain Maps",
+  "usedSpecies": {
+    "@id": "https://openminds.om-i.org/instances/species/rattusNorvegicus"
+  }
+}

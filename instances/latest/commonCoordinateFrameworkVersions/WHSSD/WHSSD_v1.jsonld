@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/WHSSD_v1",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion",
+  "abbreviation": "WHSSD",
+  "accessibility": null,
+  "anatomicalAxesOrientation": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/ALS"
+  },
+  "author": null,
+  "axesOrigin": null,
+  "copyright": null,
+  "custodian": null,
+  "defaultImage": null,
+  "description": null,
+  "digitalIdentifier": null,
+  "fullDocumentation": null,
+  "fullName": "Waxholm Space of the Sprague Dawley Rat Brain (coordinate space)",
+  "funding": null,
+  "homepage": "https://www.nitrc.org/projects/whs-sd-atlas",
+  "howToCite": null,
+  "isPrecededBy": null,
+  "isVariantOf": null,
+  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateFramework/WHSSD",
+  "keyword": null,
+  "license": null,
+  "nativeUnit": {
+    "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/micrometer"
+  },
+  "ontologyIdentifier": null,
+  "otherContribution": null,
+  "relatedPublication": null,
+  "releaseDate": "2014-07-16",
+  "repository": null,
+  "shortName": "WHS of the SD Rat Brain",
+  "supportChannel": null,
+  "usedSpecimen": null,
+  "versionIdentifier": "v1",
+  "versionInnovation": null
+}

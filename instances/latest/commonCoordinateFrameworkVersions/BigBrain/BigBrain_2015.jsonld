@@ -1,0 +1,64 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/BigBrain_2015",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion",
+  "abbreviation": "BigBrain",
+  "accessibility": {
+    "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
+  },
+  "anatomicalAxesOrientation": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
+  },
+  "author": null,
+  "axesOrigin": [
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "value": 3338.5795590551184
+    },
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "value": 3500.0
+    },
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "value": 2776.899244094488
+    }
+  ],
+  "copyright": null,
+  "custodian": [
+    {
+      "@id": "https://openminds.om-i.org/instances/person/evansAlanC"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/person/amuntsKatrin"
+    }
+  ],
+  "defaultImage": null,
+  "description": null,
+  "digitalIdentifier": null,
+  "fullDocumentation": null,
+  "fullName": "BigBrain Whole-Brain Model",
+  "funding": null,
+  "homepage": "https://bigbrainproject.org/",
+  "howToCite": null,
+  "isPrecededBy": null,
+  "isVariantOf": null,
+  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateFramework/BigBrain",
+  "keyword": null,
+  "license": null,
+  "nativeUnit": {
+    "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/micrometer"
+  },
+  "ontologyIdentifier": null,
+  "otherContribution": null,
+  "relatedPublication": null,
+  "releaseDate": "2013-06-21",
+  "repository": null,
+  "shortName": "BigBrain Model",
+  "supportChannel": null,
+  "usedSpecimen": null,
+  "versionIdentifier": "2015",
+  "versionInnovation": "The 'BigBrain Whole-Brain Model' (2015) is an ultrahigh-resolution three-dimensional (3D) model of a brain from a male human subject, deceased at the age of 65 years, at nearly cellular resolution of 20 micrometers. The model is based on a full 3D reconstruction from digital scans of 7404 histological coronal sections, which were stained for cell bodies."
+}

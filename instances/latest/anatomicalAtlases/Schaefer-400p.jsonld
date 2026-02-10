@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/Schaefer-400p",
+  "@type": "https://openminds.om-i.org/types/AnatomicalAtlas",
+  "abbreviation": "Schaefer-400p",
+  "author": null,
+  "custodian": null,
+  "description": null,
+  "digitalIdentifier": null,
+  "fullName": "Schaefer Atlas with 400 Parcellation",
+  "hasTerminology": {
+    "@type": "https://openminds.om-i.org/types/ParcellationTerminology",
+    "dataLocation": null,
+    "hasEntity": null,
+    "ontologyIdentifier": null
+  },
+  "homepage": "https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal",
+  "howToCite": null,
+  "shortName": "Schaefer Atlas (400p)",
+  "usedSpecies": {
+    "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
+  }
+}
