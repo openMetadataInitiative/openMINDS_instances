@@ -2,15 +2,15 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/accessType/controlled",
-  "@type": "https://openminds.om-i.org/types/AccessType",
+  "@id": "https://openminds.om-i.org/instances/accessEligibilityType/controlledAccess",
+  "@type": "https://openminds.om-i.org/types/AccessEligibilityType",
   "definition": "With 'controlled' selected, data and metadata are both released and available, but only users with proper authorization can access the data.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "controlled",
+  "name": "controlled access",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "controlled access"
+    "controlled"
   ]
 }

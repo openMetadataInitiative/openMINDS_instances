@@ -2,15 +2,15 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/accessType/restricted",
-  "@type": "https://openminds.om-i.org/types/AccessType",
+  "@id": "https://openminds.om-i.org/instances/accessEligibilityType/restrictedAccess",
+  "@type": "https://openminds.om-i.org/types/AccessEligibilityType",
   "definition": "With 'restricted' selected, metadata are released, but data remain on an access restricted server.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "restricted",
+  "name": "restricted access",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "restricted access"
+    "restricted"
   ]
 }

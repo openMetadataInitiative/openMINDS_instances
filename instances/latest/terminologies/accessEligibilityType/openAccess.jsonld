@@ -2,16 +2,16 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/accessType/open",
-  "@type": "https://openminds.om-i.org/types/AccessType",
+  "@id": "https://openminds.om-i.org/instances/accessEligibilityType/openAccess",
+  "@type": "https://openminds.om-i.org/types/AccessEligibilityType",
   "definition": "With 'open' selected, data and metadata are both released and become immediately available without any access restrictions.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "open",
+  "name": "open access",
   "preferredOntologyIdentifier": null,
   "synonym": [
     "free access",
-    "open access"
+    "open"
   ]
 }
