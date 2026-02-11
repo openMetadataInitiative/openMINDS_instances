@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/paymentModelType/fixed-recurringPaymentModel",
+  "@type": "https://openminds.om-i.org/types/PaymentModelType",
+  "definition": "Time-recurring payment grants shared access, independent of billable units (entitlement, consumption, event, monetary value, outcome, or capacity units).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "fixed-recurring payment model",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
