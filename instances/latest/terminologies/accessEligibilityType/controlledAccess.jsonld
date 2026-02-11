@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/accessEligibilityType/controlledAccess",
   "@type": "https://openminds.om-i.org/types/AccessEligibilityType",
-  "definition": "Access limited to registered and/or authenticated Users meeting defined eligibility criteria.",
+  "definition": "Access limited to registered and/or authenticated users meeting defined eligibility criteria.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
