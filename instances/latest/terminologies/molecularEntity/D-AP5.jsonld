@@ -5,7 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/molecularEntity/D-AP5",
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "D-AP5 is the D-isomer of AP5, a chemical compound that is a selective NMDA receptor antagonist that competitively inhibits the ligand (glutamate) binding site of NMDA receptors. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/AP5)]",
-  "description": "The active isomer of AP5 is considered to be the D configuration. AP5 is sometimes used in conjunction with the calcium chelator BAPTA to determine whether NMDARs are required for a particular cellular process. AP5 has also been used to study NMDAR-dependent LTP in the mammalian hippocampus. [adapted from Wikipedia: (https://en.wikipedia.org/wiki/AP5)]",
+  "description": "The active isomer of AP5 is considered to be the D configuration. AP5 is sometimes used in conjunction with the calcium chelator BAPTA to determine whether NMDARs are required for a particular cellular process. AP5 has also been used to study NMDAR-dependent LTP in the mammalian hippocampus. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/AP5)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100867",
   "knowledgeSpaceLink": null,
   "name": "D-AP5",
