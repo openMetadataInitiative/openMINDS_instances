@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SupranationalBody/COVAX",
+  "@type": "https://openminds.om-i.org/types/SupranationalBody",
+  "definition": "Global vaccine alliance regarding the COVID-19 pandemic. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q99360983)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "COVAX",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q99360983",
+  "synonym": [
+    "COVAX Facility",
+    "COVAX Global Vaccines Facility",
+    "COVAX initiative",
+    "COVID-19 Vaccines Global Access",
+    "Covid-19 vaccine allocation plan",
+    "COVAX programma"
+  ]
+}

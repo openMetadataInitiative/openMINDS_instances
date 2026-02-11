@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Ecuador",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q736)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Ecuador",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q736",
+  "synonym": [
+    "EC",
+    "ec",
+    "ecu",
+    "ECU",
+    "Republic of Ecuador",
+    "Republic of Equator",
+    "Republic of the Equator",
+    "República del Ecuador",
+    "The Ecuadorian State"
+  ]
+}

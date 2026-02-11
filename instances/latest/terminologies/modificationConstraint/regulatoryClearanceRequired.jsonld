@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConstraint/regulatoryClearanceRequired",
+  "@type": "https://openminds.om-i.org/types/ModificationConstraint",
+  "definition": "External regulatory approval is required before effectiveness.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "regulatory clearance required",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

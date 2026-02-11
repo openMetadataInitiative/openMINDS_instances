@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/TrinidadAndTobago",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island sovereign state in the Caribbean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q754)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Trinidad and Tobago",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q754",
+  "synonym": [
+    "Republic of Trinidad and Tobago",
+    "TRI",
+    "Trinidad & Tobago",
+    "TT",
+    "tt",
+    "TTO"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConstraint/noModificationByWaiver",
+  "@type": "https://openminds.om-i.org/types/ModificationConstraint",
+  "definition": "A waiver or temporary non-enforcement does not constitute or effect a modification.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "no modification by waiver",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

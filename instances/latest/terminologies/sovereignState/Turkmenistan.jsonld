@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Turkmenistan",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Central Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q874)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Turkmenistan",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q874",
+  "synonym": [
+    "TKM",
+    "tm",
+    "TM",
+    "Turkmenia",
+    "Türkmenistan",
+    "Türkmenistan Respublikasi"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationScope/financialModification",
+  "@type": "https://openminds.om-i.org/types/ModificationScope",
+  "definition": "Modification may be made to any pricing, payment terms, fees, or compensation.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "financial modification",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConsentRequirement/mutualConsent",
+  "@type": "https://openminds.om-i.org/types/ModificationConsentRequirement",
+  "definition": "Modification requires contemporaneous agreement of all primary parties.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "mutual consent",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

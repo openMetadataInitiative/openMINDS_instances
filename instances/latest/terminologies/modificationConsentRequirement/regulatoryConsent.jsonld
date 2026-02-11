@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConsentRequirement/regulatoryConsent",
+  "@type": "https://openminds.om-i.org/types/ModificationConsentRequirement",
+  "definition": "Modification requires approval by an external regulatory authority.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "regulatory consent",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

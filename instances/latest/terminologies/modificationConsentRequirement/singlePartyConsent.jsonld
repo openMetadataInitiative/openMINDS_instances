@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConsentRequirement/singlePartyConsent",
+  "@type": "https://openminds.om-i.org/types/ModificationConsentRequirement",
+  "definition": "Modification may be made by one designated party only.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "single party consent",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

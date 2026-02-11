@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Cyprus",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Mediterranean island country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q229)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Cyprus",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q229",
+  "synonym": [
+    "CY",
+    "CYP",
+    "Greek Administration of Southern Cyprus",
+    "Greek Cypriot State",
+    "Kıbrıs Cumhuriyeti",
+    "Republic of Cyprus"
+  ]
+}
