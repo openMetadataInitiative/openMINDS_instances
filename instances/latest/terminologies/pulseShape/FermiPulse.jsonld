@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/pulseShape/FermiPulse",
+  "@type": "https://openminds.om-i.org/types/PulseShape",
+  "definition": "A Fermi-shaped pulse",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Fermi pulse",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Fermi-shaped pulse"
+  ]
+}

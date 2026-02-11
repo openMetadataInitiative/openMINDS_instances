@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/pulseShape/sincGaussianPulse.jsonld",
+  "@type": "https://openminds.om-i.org/types/PulseShape",
+  "definition": "A sinc pulse with a Gaussian window",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "sinc-Gaussian pulse",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "sincGauss",
+    "sinc-Gauss pulse"
+  ]
+}
