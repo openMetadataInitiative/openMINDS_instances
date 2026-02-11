@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/publicationStatus/retracted",
+  "@type": "https://openminds.om-i.org/types/PublicationStatus",
+  "definition": "A publication status indicating the work was previously published but has been formally withdrawn from the public record by the publisher or issuing authority, typically accompanied by a retraction notice.",
+  "description": "The status of a publication that has been subsequently retracted by the publisher, for example because it was subsequently found to contain erroneous or fraudulent information. [[Publishing Status Ontology (PSO)](http://purl.org/spar/pso): [Peroni, S., Shotton, D., Vitali, F. (2012)](https://doi.org/10.1145/2362499.2362502)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "retracted",
+  "preferredOntologyIdentifier": "http://purl.org/spar/pso/retracted-from-publication",
+  "synonym": [
+    "retracted from publication"
+  ]
+}
