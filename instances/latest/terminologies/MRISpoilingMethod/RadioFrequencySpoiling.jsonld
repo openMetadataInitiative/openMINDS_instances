@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRISpoilingMethod/RadioFrequencySpoiling.jsonld",
+  "@type": "https://openminds.om-i.org/types/MRISpoilingMethod",
+  "definition": "Spoiling performed by changing the phase of the Radio-Frequency carrier according to a predefined formula from view to view.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Radio-Frequency spoiling",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "RF-spoiling"
+  ]
+}
