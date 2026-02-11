@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_inferiorFrontalSulcus",
   "name": "inferior frontal sulcus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorFrontalSulcus"
 }
+

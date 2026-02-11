@@ -50,5 +50,6 @@
   "lookupLabel": "JBA_Subiculum.PreS",
   "name": "Subiculum.PreS (Hippocampus)",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/presubiculum"
 }
+

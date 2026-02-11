@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_cerebellum",
   "name": "cerebellum",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellum"
 }
+

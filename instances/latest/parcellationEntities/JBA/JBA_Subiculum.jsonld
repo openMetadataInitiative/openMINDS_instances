@@ -38,5 +38,6 @@
   "lookupLabel": "JBA_Subiculum",
   "name": "Subiculum (Hippocampus)",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/subiculum"
 }
+

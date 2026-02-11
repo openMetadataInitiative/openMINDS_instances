@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_insula",
   "name": "insula",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/insula"
 }
+

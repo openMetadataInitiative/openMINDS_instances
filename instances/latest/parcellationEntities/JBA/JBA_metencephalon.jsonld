@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_metencephalon",
   "name": "metencephalon",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/metencephalon"
 }
+

@@ -16,5 +16,6 @@
   "lookupLabel": "JBA_metathalamus",
   "name": "metathalamus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/metathalamus"
 }
+
