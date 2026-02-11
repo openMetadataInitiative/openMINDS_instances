@@ -91,6 +91,9 @@ jobs:
           
                   # Generate instance only if the target directory exists
                   if [ -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ]; then
+                    if [[ "$FILE_MODULE" == "terminologies/terminology" ]] && [[ ! -e "$TARGET_FILE" ]]; then
+                      echo "Skipping $TARGET_FILE: terminology file does not exist in $VERSION."
+                    fi
                     echo "Generating instance from $FILE to $TARGET_FILE."
                     python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
                   else
