@@ -4,14 +4,11 @@
   },
   "@id": "https://openminds.om-i.org/instances/accessEligibilityType/openAccess",
   "@type": "https://openminds.om-i.org/types/AccessEligibilityType",
-  "definition": "With 'open' selected, data and metadata are both released and become immediately available without any access restrictions.",
+  "definition": "Access without prior registration, authentication, or authorisation.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "open access",
   "preferredOntologyIdentifier": null,
-  "synonym": [
-    "free access",
-    "open"
-  ]
+  "synonym": null
 }
