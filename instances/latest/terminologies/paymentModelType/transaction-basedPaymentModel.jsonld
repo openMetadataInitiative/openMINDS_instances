@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/paymentModelType/transaction-basedPaymentModel",
+  "@type": "https://openminds.om-i.org/types/PaymentModelType",
+  "definition": "Payment is based on counted event units (e.g., processing operations, message deliveries, document generations).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "transaction-based payment model",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
