@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/accessProcessType/authenticatedAccess",
+  "@type": "https://openminds.om-i.org/types/AccessProcessType",
+  "definition": "Access following authentication through an account.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "authenticated access",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
