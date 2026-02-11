@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/publicationStatus/underReview",
+  "@type": "https://openminds.om-i.org/types/PublicationStatus",
+  "definition": "A publication status indicating the work has been submitted for evaluation and is currently being assessed by an editor, reviewers, or an approval body, with no publication decision or public release yet.",
+  "description": "The status of a document that has been received from the author(s) by an editor or a publisher for potential publication, and then has been sent to independent reviewers for their comments as to its suitability for publication, prior to receipt of such reviews. [[Publishing Status Ontology (PSO)](http://purl.org/spar/pso): [Peroni, S., Shotton, D., Vitali, F. (2012)](https://doi.org/10.1145/2362499.2362502)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "under review",
+  "preferredOntologyIdentifier": "http://purl.org/spar/pso/under-review",
+  "synonym": [
+    "in curation"
+  ]
+}
