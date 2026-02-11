@@ -11,9 +11,8 @@
   "name": "physical access",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "in-person",
-    "on-premises",
-    "on-site",
-    "physical"
+    "in-person access",
+    "on-premises access",
+    "on-site access"
   ]
 }
