@@ -181,7 +181,9 @@
   "howToCite": null,
   "isPrecededBy": null,
   "isVariantOf": null,
-  "isVersionOf": "https://openminds.om-i.org/instances/anatomicalAtlas/BA-human",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/BA-human"
+  },
   "keyword": null,
   "license": null,
   "majorVersionIdentifier": null,

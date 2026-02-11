@@ -411,7 +411,9 @@
       "@id": "https://openminds.om-i.org/instances/anatomicalAtlasVersion/JBA_v2.2-Colin27"
     }
   ],
-  "isVersionOf": "https://openminds.om-i.org/instances/anatomicalAtlas/JBA",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/JBA"
+  },
   "keyword": null,
   "license": {
     "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-NC-SA-4.0"

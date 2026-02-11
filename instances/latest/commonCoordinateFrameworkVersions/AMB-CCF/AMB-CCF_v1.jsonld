@@ -22,10 +22,12 @@
   "fullName": "Allen Mouse Brain Common Coordinate Framework",
   "funding": null,
   "homepage": "https://portal.brain-map.org/",
-  "howToCite": "Lein E, Hawrylycz M, Ao N, et al.; 'Genome-wide atlas of gene expression in the adult mouse brain.'; Nature; Jan 2007; 445(7124):168\u2013176. [doi: 10.1038/nature05453](https://doi.org/10.1038/nature05453)",
+  "howToCite": "Lein E, Hawrylycz M, Ao N, et al.; 'Genome-wide atlas of gene expression in the adult mouse brain.'; Nature; Jan 2007; 445(7124):168–176. [doi: 10.1038/nature05453](https://doi.org/10.1038/nature05453)",
   "isPrecededBy": null,
   "isVariantOf": null,
-  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateFramework/AMB-CCF",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/AMB-CCF"
+  },
   "keyword": null,
   "license": null,
   "nativeUnit": {
@@ -40,5 +42,5 @@
   "supportChannel": null,
   "usedSpecimen": null,
   "versionIdentifier": "v1",
-  "versionInnovation": "The first version of the 'Allen Mouse Brain Common Coordinate Framework' (CCFv1) is a 3D reconstruction of one brain hemisphere at 200\u00b5m resolution."
+  "versionInnovation": "The first version of the 'Allen Mouse Brain Common Coordinate Framework' (CCFv1) is a 3D reconstruction of one brain hemisphere at 200µm resolution."
 }

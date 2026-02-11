@@ -44,7 +44,9 @@
       "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/AMB-CCF_v3"
     }
   ],
-  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateFramework/AMB-CCF",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/AMB-CCF"
+  },
   "keyword": null,
   "license": null,
   "nativeUnit": {
@@ -59,5 +61,5 @@
   "supportChannel": null,
   "usedSpecimen": null,
   "versionIdentifier": "v3-RAS",
-  "versionInnovation": "The third version of the 'Allen Mouse Brain Common Coordinate Framework' (CCFv3-RAS) is a 3D reconstruction of a whole brain at 10\u00b5m resolution. This alternative CCFv3 version was transformed to RAS axes orientation."
+  "versionInnovation": "The third version of the 'Allen Mouse Brain Common Coordinate Framework' (CCFv3-RAS) is a 3D reconstruction of a whole brain at 10µm resolution. This alternative CCFv3 version was transformed to RAS axes orientation."
 }

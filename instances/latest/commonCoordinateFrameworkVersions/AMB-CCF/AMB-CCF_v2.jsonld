@@ -22,12 +22,14 @@
   "fullName": "Allen Mouse Brain Common Coordinate Framework",
   "funding": null,
   "homepage": "https://portal.brain-map.org/",
-  "howToCite": "Oh S, Harris J, Ng L, et al.; 'A mesoscale connectome of the mouse brain.'; Nature; Apr 2014; 508(7495):207\u2013214. [doi: 10.1038/nature13186](https://doi.org/10.1038/nature13186)",
+  "howToCite": "Oh S, Harris J, Ng L, et al.; 'A mesoscale connectome of the mouse brain.'; Nature; Apr 2014; 508(7495):207–214. [doi: 10.1038/nature13186](https://doi.org/10.1038/nature13186)",
   "isPrecededBy": {
     "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/AMB-CCF_v1"
   },
   "isVariantOf": null,
-  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateFramework/AMB-CCF",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/AMB-CCF"
+  },
   "keyword": null,
   "license": null,
   "nativeUnit": {
@@ -42,5 +44,5 @@
   "supportChannel": null,
   "usedSpecimen": null,
   "versionIdentifier": "v2",
-  "versionInnovation": "The second version of the 'Allen Mouse Brain Common Coordinate Framework' (CCFv2) is a 3D reconstruction of a whole brain at 100\u00b5m resolution."
+  "versionInnovation": "The second version of the 'Allen Mouse Brain Common Coordinate Framework' (CCFv2) is a 3D reconstruction of a whole brain at 100µm resolution."
 }

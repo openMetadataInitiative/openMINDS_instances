@@ -274,7 +274,9 @@
     "@id": "https://openminds.om-i.org/instances/anatomicalAtlasVersion/WHSSDatlas_v1.01"
   },
   "isVariantOf": null,
-  "isVersionOf": "https://openminds.om-i.org/instances/anatomicalAtlas/WHSSDatlas",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/WHSSDatlas"
+  },
   "keyword": null,
   "license": {
     "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-4.0"

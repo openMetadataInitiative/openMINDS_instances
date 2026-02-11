@@ -40,7 +40,9 @@
       "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/MNI-Colin27_2008"
     }
   ],
-  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateFramework/MNI-Colin27",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/MNI-Colin27"
+  },
   "keyword": null,
   "license": null,
   "nativeUnit": {

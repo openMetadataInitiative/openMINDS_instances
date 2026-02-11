@@ -4011,7 +4011,9 @@
   "howToCite": null,
   "isPrecededBy": null,
   "isVariantOf": null,
-  "isVersionOf": "https://openminds.om-i.org/instances/anatomicalAtlas/AMBA",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/AMBA"
+  },
   "keyword": null,
   "license": null,
   "majorVersionIdentifier": null,

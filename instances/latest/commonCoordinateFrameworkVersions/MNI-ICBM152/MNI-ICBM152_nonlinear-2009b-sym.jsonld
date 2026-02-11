@@ -21,7 +21,9 @@
   "howToCite": null,
   "isPrecededBy": null,
   "isVariantOf": null,
-  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateFramework/MNI-ICBM152",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/MNI-ICBM152"
+  },
   "keyword": null,
   "license": null,
   "nativeUnit": {

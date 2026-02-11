@@ -15,13 +15,15 @@
   "description": null,
   "digitalIdentifier": null,
   "fullDocumentation": null,
-  "fullName": "Unbiased FsAverage Left\u2013Right Hybrid Surface Space",
+  "fullName": "Unbiased FsAverage Left–Right Hybrid Surface Space",
   "funding": null,
   "homepage": null,
   "howToCite": null,
   "isPrecededBy": null,
   "isVariantOf": null,
-  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateFramework/fsLR",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/fsLR"
+  },
   "keyword": null,
   "license": null,
   "nativeUnit": {

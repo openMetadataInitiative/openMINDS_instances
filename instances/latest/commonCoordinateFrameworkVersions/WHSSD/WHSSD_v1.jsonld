@@ -23,7 +23,9 @@
   "howToCite": null,
   "isPrecededBy": null,
   "isVariantOf": null,
-  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateFramework/WHSSD",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/WHSSD"
+  },
   "keyword": null,
   "license": null,
   "nativeUnit": {

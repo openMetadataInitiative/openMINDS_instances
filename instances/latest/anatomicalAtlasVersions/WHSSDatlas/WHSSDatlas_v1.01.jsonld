@@ -260,7 +260,9 @@
   "howToCite": "Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Papp et al. (2015)](https://doi.org/10.1016/j.neuroimage.2014.10.017).",
   "isPrecededBy": null,
   "isVariantOf": null,
-  "isVersionOf": "https://openminds.om-i.org/instances/anatomicalAtlas/WHSSDatlas",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/WHSSDatlas"
+  },
   "keyword": null,
   "license": {
     "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-4.0"

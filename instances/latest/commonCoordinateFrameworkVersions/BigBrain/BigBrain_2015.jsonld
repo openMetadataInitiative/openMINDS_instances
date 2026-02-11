@@ -45,7 +45,9 @@
   "howToCite": null,
   "isPrecededBy": null,
   "isVariantOf": null,
-  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateFramework/BigBrain",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/BigBrain"
+  },
   "keyword": null,
   "license": null,
   "nativeUnit": {

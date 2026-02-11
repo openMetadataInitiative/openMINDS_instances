@@ -27,7 +27,9 @@
   "howToCite": null,
   "isPrecededBy": null,
   "isVariantOf": null,
-  "isVersionOf": "https://openminds.om-i.org/instances/anatomicalAtlas/Schaefer-400p",
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/Schaefer-400p"
+  },
   "keyword": null,
   "license": {
     "@id": "https://openminds.om-i.org/instances/licenses/MIT"
