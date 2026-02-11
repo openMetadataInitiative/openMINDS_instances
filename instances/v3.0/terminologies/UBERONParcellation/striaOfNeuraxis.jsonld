@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/striaOfNeuraxis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013199)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013199#stria-of-neuraxis",
+  "name": "stria of neuraxis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013199",
+  "synonym": [
+    "neuraxis stria"
+  ]
+}
+

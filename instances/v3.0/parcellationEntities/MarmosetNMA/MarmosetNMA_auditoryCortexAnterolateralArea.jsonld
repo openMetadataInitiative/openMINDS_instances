@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortexAnterolateralArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AuAL",
+  "alternateName": [
+    "auditory cortex, anterolateral area"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexAnterolateralArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_auditoryCortexAnterolateralArea",
+  "name": "auditory cortex anterolateral area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

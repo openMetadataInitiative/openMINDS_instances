@@ -2873,20 +2873,6 @@
     ],
     "ontologyIdentifier": null
   },
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-LIA"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-RIA"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-LSA"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-RSA"
-    }
-  ],
   "homepage": null,
   "howToCite": null,
   "ontologyIdentifier": null,

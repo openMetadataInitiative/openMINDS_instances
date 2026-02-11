@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_proisocorticalMotorRegion",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "ProM(PrCO)",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_ventrolateralPrefrontalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_proisocorticalMotorRegion"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_proisocorticalMotorRegion",
+  "name": "proisocortical motor region (precentral opercular cortex)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

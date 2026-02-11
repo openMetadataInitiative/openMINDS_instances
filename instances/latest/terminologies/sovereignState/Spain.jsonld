@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Spain",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in southwestern Europe with territories in Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q29)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Spain",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q29",
+  "synonym": [
+    "ES",
+    "ESP",
+    "Kingdom of Spain",
+    "Reino de España"
+  ]
+}

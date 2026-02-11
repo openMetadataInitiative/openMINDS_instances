@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/HerbstsCorpuscle",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012448)]",
+  "description": "The Corpuscles of Herbst or Herbst corpuscles are a nerve-ending similar to the Pacinian corpuscle, in the mucous membrane of the tongue, in pits on the beak and in other parts of the bodies of birds. It differs from the Pacinian corpuscle in being smaller, in its capsules being more closely approximated, and in that the axis-cylinder in the central clear space is coated with a continuous row of nuclei. In many wading birds, a large number of Herbst corpuscles are found embedded in pits on the mandibles that are believed to enable birds to sense prey under wet sand or soil. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012448)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0012448#herbst-s-corpuscle",
+  "name": "Herbst's corpuscle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012448",
+  "synonym": null
+}
+

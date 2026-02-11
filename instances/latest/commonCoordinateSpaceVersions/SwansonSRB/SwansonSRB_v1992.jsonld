@@ -53,8 +53,9 @@
   "funding": null,
   "homepage": null,
   "howToCite": "Swanson, L.W. (1992) 'Coordinate Systems' Brain maps: structure of the rat brain, 1st edition.",
-  "isAlternativeVersionOf": null,
-  "isNewVersionOf": null,
+  "isPrecededBy": null,
+  "isVariantOf": null,
+  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateSpace/SwansonSRB",
   "keyword": null,
   "license": {
     "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-NC-4.0"
@@ -73,4 +74,3 @@
   "versionIdentifier": "v1992",
   "versionInnovation": "This is the first version of this common coordinate space."
 }
-

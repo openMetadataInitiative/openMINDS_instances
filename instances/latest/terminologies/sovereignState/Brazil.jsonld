@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Brazil",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q155)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Brazil",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q155",
+  "synonym": [
+    "br",
+    "BR",
+    "BRA",
+    "Brasil",
+    "Federative Republic of Brazil",
+    "República Federativa do Brasil"
+  ]
+}

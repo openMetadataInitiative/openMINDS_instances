@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Moldova",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Eastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q217)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Moldova",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q217",
+  "synonym": [
+    "MD",
+    "MDA",
+    "Moldavia",
+    "Republic of Moldova",
+    "Republica Moldova"
+  ]
+}

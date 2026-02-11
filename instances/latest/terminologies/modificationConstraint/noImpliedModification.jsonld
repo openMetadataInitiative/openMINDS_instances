@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConstraint/noImpliedModification",
+  "@type": "https://openminds.om-i.org/types/ModificationConstraint",
+  "definition": "Modifications arising from conduct or practice are excluded.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "no implied modification",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

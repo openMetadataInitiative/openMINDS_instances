@@ -4,16 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/frontalOperculum",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Frontal operculum' is a regional part of brain. It is part of the operculum of brain.",
-  "description": "Portion of frontal lobe that overlaps the insular cortex (adapted from Wikipedia)",
+  "definition": "Is a regional part of brain. Is part of the operculum of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002947) ('is_a' and 'relationship')]",
+  "description": "Portion of frontal lobe that overlaps the insular cortex (adapted from Wikipedia) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002947)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104454",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002947#frontal-operculum-1",
   "name": "frontal operculum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002947",
-  "synonym": [
-    "inferior frontal gyrus pars opercularis",
-    "nucleus ventralis oralis",
-    "operculum frontale",
-    "pars medialis (Dewulf)"
-  ]
+  "synonym": null
 }
+

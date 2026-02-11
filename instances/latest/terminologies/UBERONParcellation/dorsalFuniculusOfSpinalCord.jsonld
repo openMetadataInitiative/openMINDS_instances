@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsalFuniculusOfSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a funiculus of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002258)]",
+  "description": "The white substance of the spinal cord lying on either side between the posterior median sulcus and the dorsal root. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002258)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002258#dorsal-funiculus-of-spinal-cord",
+  "name": "dorsal funiculus of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002258",
+  "synonym": [
+    "dorsal funiculus",
+    "dorsal white column of spinal cord",
+    "funiculus dorsalis",
+    "funiculus posterior medullae spinalis",
+    "posterior funiculus",
+    "posterior funiculus of spinal cord",
+    "posterior white column of spinal cord"
+  ]
+}
+

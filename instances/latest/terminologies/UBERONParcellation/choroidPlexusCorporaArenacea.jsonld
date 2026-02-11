@@ -4,11 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/choroidPlexusCorporaArenacea",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Choroid plexus corpora arenacea' is a calcified structure of brain. It is part of the choroid plexus.",
-  "description": "A calcified structure of brain that is part of a choroid plexus.",
+  "definition": "Is a calcified structure of brain. Is part of the choroid plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017633) ('is_a' and 'relationship')]",
+  "description": "A calcified structure of brain that is part of a choroid plexus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017633)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0728330",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0017633#choroid-plexus-corpora-arenacea",
   "name": "choroid plexus corpora arenacea",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0017633",
   "synonym": null
 }
+

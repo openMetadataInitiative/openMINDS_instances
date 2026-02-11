@@ -16,7 +16,7 @@
     "hasEntity": [
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_anteriorCingulateCortex"
-      },	
+      },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_banksOfSuperiorTemporalSulcus"
       },
@@ -97,7 +97,7 @@
       },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_parietalLobe"
-      },	
+      },
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_parsOpercularis"
       },
@@ -158,7 +158,6 @@
     ],
     "ontologyIdentifier": null
   },
-  "hasVersion": null,
   "homepage": null,
   "howToCite": null,
   "shortName": "DK Atlas",

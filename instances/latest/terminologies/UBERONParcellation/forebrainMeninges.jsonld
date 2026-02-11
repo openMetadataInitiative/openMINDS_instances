@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/forebrainMeninges",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a brain meninx. Is part of the forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003548) ('is_a' and 'relationship')]",
+  "description": "A meninx that is part of a forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003548)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003548#forebrain-meninges",
+  "name": "forebrain meninges",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003548",
+  "synonym": [
+    "forebrain meninx",
+    "meninges of forebrain",
+    "meninx of forebrain"
+  ]
+}
+

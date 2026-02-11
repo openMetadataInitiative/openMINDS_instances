@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area23cOfCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A23c",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_posteriorCingulateMedialAndRetrosplenialCorticalRegions"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area23cOfCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area23cOfCortex",
+  "name": "area 23c of cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

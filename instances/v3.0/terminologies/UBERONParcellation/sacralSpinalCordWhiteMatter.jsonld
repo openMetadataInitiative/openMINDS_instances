@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sacralSpinalCordWhiteMatter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a white matter of spinal cord. Is part of the sacral spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026246) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026246#sacral-spinal-cord-white-matter-1",
+  "name": "sacral spinal cord white matter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026246",
+  "synonym": null
+}
+

@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area3aOfCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A3a",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_somatosensoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area3aOfCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area3aOfCortex",
+  "name": "area 3a of cortex (somatosensory)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

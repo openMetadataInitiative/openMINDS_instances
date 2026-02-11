@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorVestibularNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a vestibular nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007227)]",
+  "description": "The superior vestibular nucleus is the dorso-lateral part of the vestibular nucleus and receives collaterals and terminals from the ascending branches of the vestibular nerve. Its axons terminate in much the same manner as do those from the lateral nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007227)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007227#superior-vestibular-nucleus",
+  "name": "superior vestibular nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007227",
+  "synonym": [
+    "nucleus of Bechterew"
+  ]
+}
+

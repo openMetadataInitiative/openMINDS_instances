@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sacralSpinalCordDorsalColumn",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a subdivision of spinal cord dorsal column. Is part of the sacral spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005840) ('is_a' and 'relationship')]",
+  "description": "A subdivision of spinal cord dorsal column that is part of a sacral spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005840)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005840#sacral-spinal-cord-dorsal-column-1",
+  "name": "sacral spinal cord dorsal column",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005840",
+  "synonym": [
+    "sacral spinal cord posterior column",
+    "sacral subsegment of dorsal funiculus of spinal cord"
+  ]
+}
+

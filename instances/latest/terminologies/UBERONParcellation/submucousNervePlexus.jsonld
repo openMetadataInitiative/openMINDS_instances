@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/submucousNervePlexus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an enteric plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005304)]",
+  "description": "The gangliated plexus of unmyelinated nerve fibers that ramify the stomach and intestinal submucosa. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005304)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005304#submucous-nerve-plexus",
+  "name": "submucous nerve plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005304",
+  "synonym": [
+    "submucosal nerve plexus"
+  ]
+}
+

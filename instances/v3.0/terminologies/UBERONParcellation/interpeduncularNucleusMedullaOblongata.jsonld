@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/interpeduncularNucleusMedullaOblongata",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000372)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000372#interpeduncular-nucleus-medulla-oblongata",
+  "name": "interpeduncular nucleus medulla oblongata",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000372",
+  "synonym": null
+}
+

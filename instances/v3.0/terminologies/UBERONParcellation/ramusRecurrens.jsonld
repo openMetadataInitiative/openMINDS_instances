@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ramusRecurrens",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the vagus nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010754) ('is_a' and 'relationship')]",
+  "description": "Branch of the vagus nerve that separates from the vagus well postcranially, then continues anteriorly to innervate the larynx. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010754)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010754#ramus-recurrens",
+  "name": "ramus recurrens",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010754",
+  "synonym": null
+}
+

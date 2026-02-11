@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfMedialLemniscus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neural decussation. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002643) ('is_a' and 'relationship')]",
+  "description": "The sensory decussation or decussation of the lemniscus is a decussation or cross over of axons from the gracile nucleus and cuneate nucleus. The fibres of this decussation are called the internal arcuate fibres and are found at the superior aspect of the closed medulla superior to the motor decussation. It is part of the second neuron in the Posterior column-medial lemniscus pathway. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002643)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002643#decussation-of-medial-lemniscus-1",
+  "name": "decussation of medial lemniscus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002643",
+  "synonym": [
+    "decussation of lemnisci",
+    "decussation of lemniscus",
+    "decussation of medial lemnisci",
+    "medial lemniscus decussation",
+    "medullary sensory decussation",
+    "sensory decussation"
+  ]
+}
+

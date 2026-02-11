@@ -4,11 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/subarachnoidSpace",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Subarachnoid space' is an anatomical entity. It is part of the brain.",
-  "description": "The space between the arachnoid and pia mater.",
+  "definition": "Is an anatomical entity. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000315) ('is_a' and 'relationship')]",
+  "description": "The space between the arachnoid and pia mater. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000315)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0736673",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000315#subarachnoid-space",
   "name": "subarachnoid space",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000315",
   "synonym": null
 }
+

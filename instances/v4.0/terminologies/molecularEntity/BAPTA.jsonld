@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/BAPTA",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "BAPTA (1,2-bis(o-aminophenoxy)ethane-N,N,N′,N′-tetraacetic acid) is an aminopolycarboxylic acid with a high affinity for calcium. [sourced from [Wikipedia](https://en.wikipedia.org/wiki/BAPTA)]",
+  "description": "BAPTA is a white solid. It is used in research to chelate Ca2+. It is a component of some fluorescent calcium ion indicators such as Calcium Green and Oregon Green 488 BAPTA-1 and -2 (OGB-1, OGB2). [adapted from Wikipedia (https://en.wikipedia.org/wiki/BAPTA)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "BAPTA",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_60888",
+  "synonym": [
+    "1,2-Bis(2-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid",
+    "1,2-Bis(o-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid",
+    "2,2',2'',2'''-[ethane-1,2-diylbis(oxy-2,1-phenylenenitrilo)]tetraacetic acid",
+    "Bapeta"
+  ]
+}
+

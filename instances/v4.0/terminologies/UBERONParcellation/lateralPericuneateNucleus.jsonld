@@ -4,14 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralPericuneateNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Lateral pericuneate nucleus' is a nucleus of medulla oblongata.",
-  "description": "",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002874)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106093",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002874#lateral-pericuneate-nucleus-1",
   "name": "lateral pericuneate nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002874",
-  "synonym": [
-    "LPCu",
-    "nucleus pericuneatus lateralis"
-  ]
+  "synonym": null
 }
+

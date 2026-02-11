@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConstraint/recordRetentionRequired",
+  "@type": "https://openminds.om-i.org/types/ModificationConstraint",
+  "definition": "Formal documentation and retention of modification records is required.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "record retention required",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

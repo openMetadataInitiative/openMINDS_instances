@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Paraguay",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q733)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Paraguay",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q733",
+  "synonym": [
+    "Heart of South America",
+    "PAR",
+    "Paraguái Tavakuairetã",
+    "pry",
+    "PRY",
+    "PY",
+    "py",
+    "Republic of Paraguay",
+    "República del Paraguay"
+  ]
+}

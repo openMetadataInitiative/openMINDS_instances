@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConstraint/cooling-offPeriodRequired",
+  "@type": "https://openminds.om-i.org/types/ModificationConstraint",
+  "definition": "A mandatory delay applies before a modification becomes effective.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cooling-off period required",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

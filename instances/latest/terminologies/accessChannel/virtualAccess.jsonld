@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/accessChannel/virtualAccess",
+  "@type": "https://openminds.om-i.org/types/AccessChannel",
+  "definition": "Refers to the ability of users to connect to, interact with, and utilize resources, systems, or other individuals remotely via digital interfaces.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "virtual access",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "digital access",
+    "online access"
+  ]
+}

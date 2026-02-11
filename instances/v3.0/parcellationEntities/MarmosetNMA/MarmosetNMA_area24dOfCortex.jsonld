@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area24dOfCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A24d",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_anteriorCingulateCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area24dOfCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area24dOfCortex",
+  "name": "area 24d of cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

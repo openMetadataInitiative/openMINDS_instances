@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPlantarNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a plantar nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035110)]",
+  "description": "A plantar nerve that supplies the lateral side of the plantar part of the foot, including pedal digit 5. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035110)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035110#lateral-plantar-nerve",
+  "name": "lateral plantar nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035110",
+  "synonym": [
+    "external plantar nerve",
+    "nervus plantaris lateralis"
+  ]
+}
+

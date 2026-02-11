@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/statoacousticEpithelium",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a sensory epithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009969)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009969#statoacoustic-epithelium",
+  "name": "statoacoustic epithelium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009969",
+  "synonym": [
+    "stato-acoustic epithelium"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/splanchnicNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a sympathetic nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003715)]",
+  "description": "The major nerves supplying sympathetic innervation to the abdomen, including the greater, lesser, and lowest (or smallest) splanchnic nerves that are formed by preganglionic fibers from the spinal cord which pass through the paravertebral ganglia and then to the celiac ganglia and plexuses and the lumbar splanchnic nerves carry fibers which pass through the lumbar paravertebral ganglia to the mesenteric and hypogastric ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003715)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003715#splanchnic-nerve",
+  "name": "splanchnic nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003715",
+  "synonym": null
+}
+

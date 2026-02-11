@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/modificationScope",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology for specifying which parts or aspects of an agreement may be modified.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "modification scope",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

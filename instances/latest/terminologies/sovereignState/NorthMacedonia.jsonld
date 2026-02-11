@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/NorthMacedonia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in southeastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q221)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "North Macedonia",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q221",
+  "synonym": [
+    "Former Yugoslav Republic of Macedonia",
+    "FYR Macedonia",
+    "FYROM",
+    "Macedonia",
+    "MK",
+    "MKD",
+    "NM",
+    "Republic of Macedonia",
+    "Republic of North Macedonia"
+  ]
+}

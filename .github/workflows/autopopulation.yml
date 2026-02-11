@@ -1,12 +1,7 @@
 name: Autopopulation
 
+# Run the job if a PR was merged or a push occurred on main
 on:
-  # Trigger when a pull request is merged into main
-  pull_request:
-    types: [closed]
-    branches:
-      - main
-  # Trigger on direct pushes to main
   push:
     branches:
       - main
@@ -16,10 +11,7 @@ permissions:
 
 jobs:
   sync-instances:
-    # Run the job if a PR was merged or a push occurred on main
-    if: >
-      (github.event_name == 'pull_request' && github.event.pull_request.merged == true)
-      || (github.event_name == 'push' && !startsWith(github.event.head_commit.message, 'Merge pull request'))
+    if: ${{ !contains(github.event.head_commit.message, '[ci skip-autopopulate]') }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -99,6 +91,10 @@ jobs:
           
                   # Generate instance only if the target directory exists
                   if [ -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ]; then
+                    if [[ "$FILE_MODULE" == "terminologies/terminology" ]] && [[ ! -e "$TARGET_FILE" ]]; then
+                      echo "Skipping $TARGET_FILE: terminology file does not exist in $VERSION."
+                      continue
+                    fi
                     echo "Generating instance from $FILE to $TARGET_FILE."
                     python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
                   else

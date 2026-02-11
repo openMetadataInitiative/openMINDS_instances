@@ -80,11 +80,10 @@
     ],
     "ontologyIdentifier": null
   },
-  "hasVersion": null,
   "homepage": null,
   "howToCite": null,
   "shortName": "Automated Segmentation Atlas",
-	"usedSpecies": {
-		"@id": "https://openminds.om-i.org/instances/species/homoSapiens"
-	}
+  "usedSpecies": {
+    "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
+  }
 }

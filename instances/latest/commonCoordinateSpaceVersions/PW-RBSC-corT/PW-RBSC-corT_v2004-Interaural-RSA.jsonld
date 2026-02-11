@@ -25,8 +25,9 @@
   "funding": null,
   "homepage": null,
   "howToCite": "Paxinos, G. and Watson, C. (2004) The Rat Brain in Stereotaxic Coordinates. 5th Edition, Academic Press, San Diego.",
-  "isAlternativeVersionOf": null,
-  "isNewVersionOf": null,
+  "isPrecededBy": null,
+  "isVariantOf": null,
+  "isVersionOf": "https://openminds.om-i.org/instances/commonCoordinateSpace/PW-RBSC-corT",
   "keyword": null,
   "license": null,
   "nativeUnit": {

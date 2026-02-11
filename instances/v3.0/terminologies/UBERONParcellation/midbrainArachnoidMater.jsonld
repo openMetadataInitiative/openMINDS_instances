@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainArachnoidMater",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an arachnoid mater and meninx of midbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003557)]",
+  "description": "An arachnoid mater that is part of a midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003557)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003557#midbrain-arachnoid-mater",
+  "name": "midbrain arachnoid mater",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003557",
+  "synonym": [
+    "arachnoid mater of midbrain",
+    "arachnoid mater of neuraxis of midbrain",
+    "arachnoid of midbrain",
+    "midbrain arachnoid",
+    "midbrain arachnoid mater of neuraxis"
+  ]
+}
+

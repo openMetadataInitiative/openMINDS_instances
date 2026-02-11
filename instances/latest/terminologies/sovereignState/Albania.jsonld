@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Albania",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in southeastern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q222)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Albania",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q222",
+  "synonym": [
+    "AL",
+    "ALB",
+    "People's Republic of Albania",
+    "People's Socialist Republic of Albania",
+    "Republic of Albania",
+    "Republika e Shqipërisë",
+    "Republika Popullore e Shqiperise",
+    "Republika Popullore Socialiste e Shqiperise",
+    "Shqipërisë"
+  ]
+}

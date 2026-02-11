@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/coccygealNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009629)]",
+  "description": "The coccygeal nerve is the spinal nerve that corresponds to the coccyx bone. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009629)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009629#coccygeal-nerve",
+  "name": "coccygeal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009629",
+  "synonym": [
+    "coccygeal spinal nerve"
+  ]
+}
+

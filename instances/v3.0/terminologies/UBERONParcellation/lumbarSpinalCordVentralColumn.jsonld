@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lumbarSpinalCordVentralColumn",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a subdivision of spinal cord ventral column. Is part of the lumbar spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005855) ('is_a' and 'relationship')]",
+  "description": "A subdivision of spinal cord ventral column that is part of a lumbar spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005855)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005855#lumbar-spinal-cord-ventral-column-1",
+  "name": "lumbar spinal cord ventral column",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005855",
+  "synonym": null
+}
+

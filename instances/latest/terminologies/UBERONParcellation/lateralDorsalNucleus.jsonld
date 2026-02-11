@@ -1,0 +1,30 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralDorsalNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the lateral nuclear group of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002984) ('is_a' and 'relationship')]",
+  "description": "The lateral dorsal nucleus is a nucleus of the thalamus. It acts in concert with the anterior nuclei of thalamus. It receives significant input from several subdivisions of visual cortex, and has a primary output to parietal cortex on the dorsolateral cortical convexity, giving it access to limbic forebrain nuclei important for emotion and behavior functions. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002984)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002984#lateral-dorsal-nucleus-1",
+  "name": "lateral dorsal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002984",
+  "synonym": [
+    "dorsal thalamus, lateral group",
+    "lateral dorsal nucleus of thalamus",
+    "lateral dorsal thalamic nucleus",
+    "laterodorsal nucleus nucleus of thalamus",
+    "laterodorsal nucleus thalamic nucleus",
+    "laterodorsal nucleus, superficial part",
+    "laterodorsal thalamic nucleus",
+    "nucleus dorsalis lateralis thalami",
+    "nucleus dorsalis superficialis (Hassler)",
+    "nucleus dorsolateralis thalami",
+    "nucleus lateralis dorsalis",
+    "nucleus lateralis dorsalis of thalamus",
+    "nucleus lateralis dorsalis thalami",
+    "nucleus lateralis thalami dorsalis"
+  ]
+}
+

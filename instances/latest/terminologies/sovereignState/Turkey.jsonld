@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Turkey",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in West Asia and Southeast Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q43)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Turkey",
+  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q43",
+  "synonym": [
+    "Republic of Turkey",
+    "Republic of Türkiye",
+    "TR",
+    "TUR",
+    "Türkiye",
+    "Türkiye Cumhuriyeti"
+  ]
+}

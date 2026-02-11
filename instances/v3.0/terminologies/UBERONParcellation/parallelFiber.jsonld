@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parallelFiber",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the molecular layer corpus cerebelli and the molecular layer valvula cerebelli. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002218)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2002218#parallel-fiber",
+  "name": "parallel fiber",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2002218",
+  "synonym": null
+}
+

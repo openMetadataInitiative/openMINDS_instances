@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area29a-cOfCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A29a-c",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_posteriorCingulateMedialAndRetrosplenialCorticalRegions"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area29a-cOfCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area29a-cOfCortex",
+  "name": "area 29a-c of cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

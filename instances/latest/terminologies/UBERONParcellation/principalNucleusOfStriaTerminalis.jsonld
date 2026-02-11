@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/principalNucleusOfStriaTerminalis",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a telencephalic nucleus. Is part of the posterior division of bed nuclei of stria terminalis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011178) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011178#principal-nucleus-of-stria-terminalis",
+  "name": "principal nucleus of stria terminalis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011178",
+  "synonym": [
+    "bed nuclei of the stria terminalis, posterior division, principal nucleus"
+  ]
+}
+

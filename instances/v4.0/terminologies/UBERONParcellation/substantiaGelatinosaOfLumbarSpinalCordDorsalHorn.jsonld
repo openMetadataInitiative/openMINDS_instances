@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/substantiaGelatinosaOfLumbarSpinalCordDorsalHorn",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a substantia gelatinosa. Is part of the lumbar spinal cord dorsal horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014633) ('is_a' and 'relationship')]",
+  "description": "A substantia gelatinosa that is part of a lumbar spinal cord dorsal horn. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014633)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014633#substantia-gelatinosa-of-lumbar-spinal-cord-dorsal-horn-1",
+  "name": "substantia gelatinosa of lumbar spinal cord dorsal horn",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014633",
+  "synonym": null
+}
+

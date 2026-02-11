@@ -4,19 +4,17 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSeptalNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Lateral septal nucleus' is a telencephalic nucleus. It is part of the lateral septal complex.",
-  "description": "Regional part of the septal nuclei, lying dorsal and slightly lateral to the medial septal nucleus.  The lateral septum receives the bulk of projections of areas projecting to the septal nuclei (Adapted from Brodal, 1981).",
+  "definition": "Is a telencephalic nucleus. Is part of the lateral septal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002667) ('is_a' and 'relationship')]",
+  "description": "Regional part of the septal nuclei, lying dorsal and slightly lateral to the medial septal nucleus. The lateral septum receives the bulk of projections of areas projecting to the septal nuclei (Adapted from Brodal, 1981). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002667)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106106",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002667#lateral-septal-nucleus-1",
   "name": "lateral septal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002667",
   "synonym": [
     "lateral parolfactory nucleus",
-    "lateral septal nucleus (Cajal)",
+    "lateral septal nucleus (cajal)",
     "lateral septum",
-    "lateral septum nucleus",
-    "nucleus lateralis septi",
-    "nucleus septalis lateralis",
-    "nucleus septi lateralis"
+    "lateral septum nucleus"
   ]
 }
+

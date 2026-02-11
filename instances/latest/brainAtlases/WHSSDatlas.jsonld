@@ -236,9 +236,6 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus"
       },
       {
-        "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebralCortex"
-      },
-      {
         "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_hippocampalRegion"
       },
       {
@@ -1018,23 +1015,6 @@
     ],
     "ontologyIdentifier": null
   },
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v1.01"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v2"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v3"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v3.01"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v4"  
-    }
-  ],
   "homepage": "https://www.nitrc.org/projects/whs-sd-atlas/",
   "howToCite": "Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the first publication [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001) along with the atlas version(s) you have used.",
   "shortName": "Waxholm Space Rat Brain Atlas",

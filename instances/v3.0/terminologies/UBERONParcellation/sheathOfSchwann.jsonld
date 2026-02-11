@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sheathOfSchwann",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001031) ('is_a' and 'relationship')]",
+  "description": "The outermost nucleated cytoplasmic layer of Schwann cells that surrounds the axon of the neuron. It forms the outermost layer of the nerve fiber in the peripheral nervous system. The neurolemma is underlain by the basal lamina (referred to as the medullary sheath in the included illustrations. In CNS, axons are myelinated by oligodendrocytes, thus lack neurolemma. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001031)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001031#sheath-of-schwann",
+  "name": "sheath of Schwann",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001031",
+  "synonym": [
+    "neurilemma",
+    "neurolemma"
+  ]
+}
+

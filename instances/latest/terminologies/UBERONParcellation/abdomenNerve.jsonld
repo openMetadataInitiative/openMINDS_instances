@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/abdomenNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve of abdominal segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003429)]",
+  "description": "A nerve that is part of an abdomen. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003429)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003429#abdomen-nerve",
+  "name": "abdomen nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003429",
+  "synonym": [
+    "nerve of abdomen"
+  ]
+}
+
