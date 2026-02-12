@@ -14,7 +14,7 @@
   "howToCite": "Please refer to the template by its RRID:SCR_018367, and cite the publication of the version of the template you have used.",
   "ontologyIdentifier": null,
   "shortName": "Marmoset Nencki-Monash Template",
-  "usedSpecies": {
+  "usedTaxon": {
     "@id": "https://openminds.om-i.org/instances/species/callithrixJacchus"
   }
 }

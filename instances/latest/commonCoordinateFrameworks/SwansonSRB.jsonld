@@ -14,7 +14,7 @@
   "howToCite": null,
   "ontologyIdentifier": null,
   "shortName": "Swanson's Stereotactic Rat Brain",
-  "usedSpecies": {
+  "usedTaxon": {
     "@id": "https://openminds.om-i.org/instances/species/rattusNorvegicus"
   }
 }

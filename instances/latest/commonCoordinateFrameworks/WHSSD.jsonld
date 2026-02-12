@@ -14,7 +14,7 @@
   "howToCite": null,
   "ontologyIdentifier": null,
   "shortName": "WHS of the SD Rat Brain",
-  "usedSpecies": {
+  "usedTaxon": {
     "@id": "https://openminds.om-i.org/instances/species/rattusNorvegicus"
   }
 }

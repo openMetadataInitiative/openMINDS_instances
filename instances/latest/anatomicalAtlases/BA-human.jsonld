@@ -173,7 +173,7 @@
   "homepage": null,
   "howToCite": null,
   "shortName": "Brodmann Areas (human)",
-  "usedSpecies": {
+  "usedTaxon": {
     "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
   }
 }

@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal",
   "howToCite": null,
   "shortName": "Schaefer Atlas (400p)",
-  "usedSpecies": {
+  "usedTaxon": {
     "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
   }
 }

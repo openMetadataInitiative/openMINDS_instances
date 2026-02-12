@@ -83,7 +83,7 @@
   "homepage": null,
   "howToCite": null,
   "shortName": "Automated Segmentation Atlas",
-  "usedSpecies": {
+  "usedTaxon": {
     "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
   }
 }

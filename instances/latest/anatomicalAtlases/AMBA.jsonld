@@ -14,7 +14,7 @@
   "homepage": "https://portal.brain-map.org/",
   "howToCite": null,
   "shortName": "Allen Mouse Brain Atlas",
-  "usedSpecies": {
+  "usedTaxon": {
     "@id": "https://openminds.om-i.org/instances/species/musMusculus"
   }
 }
