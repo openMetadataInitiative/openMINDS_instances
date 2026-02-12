@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/publicationStatus/published",
+  "@type": "https://openminds.om-i.org/types/PublicationStatus",
+  "definition": "A publication status indicating the work has been formally released to the public by the responsible publisher or issuing entity and is accessible in its official published form.",
+  "description": "The status of material (for example a document or a dataset) that has been published, i.e. made available for people to access, read or use, either freely or for a purchase price or an access fee. [[Publishing Status Ontology (PSO)](http://purl.org/spar/pso): [Peroni, S., Shotton, D., Vitali, F. (2012)](https://doi.org/10.1145/2362499.2362502)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "published",
+  "preferredOntologyIdentifier": "http://purl.org/spar/pso/published",
+  "synonym": [
+    "released"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/publicationStatus/disposed",
+  "@type": "https://openminds.om-i.org/types/PublicationStatus",
+  "definition": "A publication status indicating the work has been removed from active retention or management (e.g., after a retention period, superseded, or otherwise deaccessioned) and is no longer available, without implying wrongdoing or defects in the work.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "disposed",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
