@@ -5,7 +5,6 @@
   "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/PW-RBSC-cor",
   "@type": "https://openminds.om-i.org/types/AnatomicalAtlas",
   "abbreviation": "PW-RBSC-cor",
-  "author": null,
   "custodian": null,
   "description": "Paxinos and Watson's stereotaxic rat brain atlases are based on the study of 130 adult male Wistar rats. The atlases have a stereotactic reference system, in a flat-skull position with bregma and lambda as reference points, photographs of rat brain sections in the coronal plane, and contain diagrams showing delineated brain structures based on the previously mentioned photographs.",
   "digitalIdentifier": null,

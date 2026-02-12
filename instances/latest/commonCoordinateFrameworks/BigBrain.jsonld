@@ -5,7 +5,6 @@
   "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/BigBrain",
   "@type": "https://openminds.om-i.org/types/CommonCoordinateFramework",
   "abbreviation": "BigBrain",
-  "author": null,
   "custodian": null,
   "description": "The 'BigBrain Whole-Brain Model' is a 3D reconstruction of a human brain in extremely high resolution.",
   "digitalIdentifier": null,
