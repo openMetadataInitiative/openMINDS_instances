@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheAnsaLenticularis"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_nucleusOfTheAnsaLenticularis",
   "name": "nucleus of the ansa lenticularis",
   "ontologyIdentifier": null,

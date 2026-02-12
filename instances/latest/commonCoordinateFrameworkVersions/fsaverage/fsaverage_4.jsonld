@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/fsaverage_4",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion",
+  "abbreviation": "fsaverage",
+  "accessibility": null,
+  "anatomicalAxesOrientation": null,
+  "author": null,
+  "axesOrigin": null,
+  "copyright": null,
+  "custodian": null,
+  "defaultImage": null,
+  "description": null,
+  "digitalIdentifier": null,
+  "fullDocumentation": null,
+  "fullName": "FsAverage Surface Space",
+  "funding": null,
+  "homepage": null,
+  "howToCite": null,
+  "isPrecededBy": null,
+  "isVariantOf": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/fsaverage"
+  },
+  "keyword": null,
+  "license": null,
+  "nativeUnit": {
+    "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
+  },
+  "ontologyIdentifier": null,
+  "otherContribution": null,
+  "relatedPublication": null,
+  "releaseDate": null,
+  "repository": null,
+  "shortName": "FsAverage Surface Space",
+  "supportChannel": null,
+  "usedSpecimen": null,
+  "versionIdentifier": "4",
+  "versionInnovation": "This FsAverage Surface Space version has about 3k vertices per hemisphere."
+}

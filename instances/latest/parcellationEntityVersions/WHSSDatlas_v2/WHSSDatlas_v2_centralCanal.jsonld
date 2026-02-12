@@ -45,6 +45,9 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_centralCanal"
+  },
   "lookupLabel": "WHSSDatlas_v2_centralCanal",
   "name": "central canal",
   "ontologyIdentifier": null,

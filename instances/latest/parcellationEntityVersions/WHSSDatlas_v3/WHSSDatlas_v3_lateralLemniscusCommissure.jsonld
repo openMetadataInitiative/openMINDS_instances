@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_lateralLemniscus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_lateralLemniscusCommissure"
+  },
   "lookupLabel": "WHSSDatlas_v3_lateralLemniscusCommissure",
   "name": "lateral lemniscus, commissure",
   "ontologyIdentifier": null,

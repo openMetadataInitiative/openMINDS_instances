@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_forcepsMinorOfTheCorpusCallosum"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_forcepsMinorOfTheCorpusCallosum",
   "name": "forceps minor of the corpus callosum",
   "ontologyIdentifier": null,

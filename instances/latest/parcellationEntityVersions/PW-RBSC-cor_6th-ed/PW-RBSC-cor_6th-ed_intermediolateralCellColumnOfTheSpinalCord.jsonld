@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_intermediolateralCellColumnOfTheSpinalCord"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_intermediolateralCellColumnOfTheSpinalCord",
   "name": "intermediolateral cell column of the spinal cord",
   "ontologyIdentifier": null,

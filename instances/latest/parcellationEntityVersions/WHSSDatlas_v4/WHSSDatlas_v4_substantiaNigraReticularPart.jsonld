@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_substantiaNigra"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_substantiaNigraReticularPart"
+  },
   "lookupLabel": "WHSSDatlas_v4_substantiaNigraReticularPart",
   "name": "substantia nigra, reticular part",
   "ontologyIdentifier": null,

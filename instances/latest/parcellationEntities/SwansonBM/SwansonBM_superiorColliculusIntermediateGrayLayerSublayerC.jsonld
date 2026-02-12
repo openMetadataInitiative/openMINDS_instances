@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusIntermediateGrayLayerSublayerC"
-    }
-  ],
   "lookupLabel": "SwansonBM_superiorColliculusIntermediateGrayLayerSublayerC",
   "name": "superior colliculus, intermediate gray layer, sublayer c",
   "ontologyIdentifier": null,

@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusPosteriorPart"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_paraventricularHypothalamicNucleusPosteriorPart",
   "name": "paraventricular hypothalamic nucleus, posterior part",
   "ontologyIdentifier": null,

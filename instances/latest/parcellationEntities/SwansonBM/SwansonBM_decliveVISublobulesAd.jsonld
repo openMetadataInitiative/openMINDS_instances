@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_decliveVISublobulesAd"
-    }
-  ],
   "lookupLabel": "SwansonBM_decliveVISublobulesAd",
   "name": "declive (VI), sublobules a-d",
   "ontologyIdentifier": null,

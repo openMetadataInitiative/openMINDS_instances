@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_basalForebrainRegion"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_basalForebrainRegionUnspecified"
+  },
   "lookupLabel": "WHSSDatlas_v4_basalForebrainRegionUnspecified",
   "name": "basal forebrain region, unspecified",
   "ontologyIdentifier": null,

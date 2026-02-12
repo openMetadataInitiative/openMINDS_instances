@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalTegmentalTractLindvallBjorklund"
-    }
-  ],
   "lookupLabel": "SwansonBM_dorsalTegmentalTractLindvallBjorklund",
   "name": "dorsal tegmental tract [Lindvall-Björklund]",
   "ontologyIdentifier": null,

@@ -12,20 +12,6 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_MF"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-BigBrain_MF.lm_PM-v8.2"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-Colin27_MF.lm_PM-v8.2"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-MNI152_MF.lm_PM-v8.2"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-fsaverage_MF.lm_PM-v8.2"
-    }
-  ],
   "lookupLabel": "JBA_MF.lm",
   "name": "MF.lm (Amygdala)",
   "ontologyIdentifier": null,

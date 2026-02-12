@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_mesialPrecentralGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-6mp"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_Area-6mp_PM-v12.1",
   "name": "Area 6mp (SMA, mesial SFG)",
   "ontologyIdentifier": null,

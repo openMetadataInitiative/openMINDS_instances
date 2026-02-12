@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_whiteMatter"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_posteriorCommissure"
+  },
   "lookupLabel": "WHSSDatlas_v4_posteriorCommissure",
   "name": "posterior commissure",
   "ontologyIdentifier": null,

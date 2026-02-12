@@ -10,17 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_superiorParaolivaryNucleus"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_superiorParaolivaryNucleus"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_superiorParaolivaryNucleus"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_superiorParaolivaryNucleus",
   "name": "superior paraolivary nucleus",
   "ontologyIdentifier": null,

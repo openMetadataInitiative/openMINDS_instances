@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_premammillaryNucleusDorsalPart"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_premammillaryNucleusDorsalPart",
   "name": "premammillary nucleus, dorsal part",
   "ontologyIdentifier": null,

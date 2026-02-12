@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA2AmmonsHornLorenteDeNo"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_fieldCA2AmmonsHornLorenteDeNo",
   "name": "field CA2, Ammon’s horn [Lorente de Nó]",
   "ontologyIdentifier": null,

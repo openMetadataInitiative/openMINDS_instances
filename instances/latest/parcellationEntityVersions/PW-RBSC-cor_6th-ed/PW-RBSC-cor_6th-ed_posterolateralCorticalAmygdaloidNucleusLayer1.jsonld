@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_posterolateralCorticalAmygdaloidNucleusLayer1"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_posterolateralCorticalAmygdaloidNucleusLayer1",
   "name": "posterolateral cortical amygdaloid nucleus, layer 1",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralMidlineGroupOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_rhomboidThalamicNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_rhomboidThalamicNucleus",
   "name": "rhomboid thalamic nucleus",
   "ontologyIdentifier": null,

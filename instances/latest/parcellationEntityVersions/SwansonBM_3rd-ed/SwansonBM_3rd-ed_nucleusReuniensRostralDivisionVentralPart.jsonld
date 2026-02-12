@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionVentralPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_nucleusReuniensRostralDivisionVentralPart",
   "name": "nucleus reuniens, rostral division, ventral part",
   "ontologyIdentifier": null,

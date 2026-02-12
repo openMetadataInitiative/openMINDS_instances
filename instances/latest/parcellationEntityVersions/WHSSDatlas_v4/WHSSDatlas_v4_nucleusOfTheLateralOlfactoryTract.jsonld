@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_olfactoryBulb"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_nucleusOfTheLateralOlfactoryTract"
+  },
   "lookupLabel": "WHSSDatlas_v4_nucleusOfTheLateralOlfactoryTract",
   "name": "nucleus of the lateral olfactory tract",
   "ontologyIdentifier": null,

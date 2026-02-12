@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cervicalSpinalGanglia18"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_cervicalSpinalGanglia18",
   "name": "cervical spinal ganglia, 1-8",
   "ontologyIdentifier": null,

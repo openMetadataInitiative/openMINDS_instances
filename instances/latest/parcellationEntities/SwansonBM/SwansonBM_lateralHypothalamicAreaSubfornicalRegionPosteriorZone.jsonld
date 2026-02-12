@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionPosteriorZone"
-    }
-  ],
   "lookupLabel": "SwansonBM_lateralHypothalamicAreaSubfornicalRegionPosteriorZone",
   "name": "lateral hypothalamic area, subfornical region, posterior zone",
   "ontologyIdentifier": null,

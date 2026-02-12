@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialAreaVentralPartZoneA"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_retrosplenialAreaVentralPartZoneA",
   "name": "retrosplenial area, ventral part, zone a",
   "ontologyIdentifier": null,

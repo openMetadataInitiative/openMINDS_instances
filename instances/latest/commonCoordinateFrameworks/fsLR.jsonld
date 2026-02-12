@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/fsLR",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateFramework",
+  "abbreviation": "fsLR",
+  "author": null,
+  "custodian": null,
+  "description": "The 'Unbiased FsAverage Left\u2013Right Hybrid Surface Space' (fsLR) brings the left and right fsaverage surfaces into geographic correspondence using Landmark-SBR ([Van Essen et al. 2011](https://doi.org/10.1093/cercor/bhr291)).",
+  "digitalIdentifier": null,
+  "fullName": "Unbiased FsAverage Left\u2013Right Hybrid Surface Space",
+  "homepage": null,
+  "howToCite": null,
+  "ontologyIdentifier": null,
+  "shortName": "fsLR Surface Space",
+  "usedSpecies": {
+    "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
+  }
+}

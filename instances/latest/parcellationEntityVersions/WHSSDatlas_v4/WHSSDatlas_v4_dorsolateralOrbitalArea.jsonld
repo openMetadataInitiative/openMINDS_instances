@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_orbitofrontalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_dorsolateralOrbitalArea"
+  },
   "lookupLabel": "WHSSDatlas_v4_dorsolateralOrbitalArea",
   "name": "dorsolateral orbital area",
   "ontologyIdentifier": null,

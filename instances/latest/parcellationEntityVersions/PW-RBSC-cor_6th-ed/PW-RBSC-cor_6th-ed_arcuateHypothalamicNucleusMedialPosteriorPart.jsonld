@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_arcuateHypothalamicNucleusMedialPosteriorPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleusMedialPosteriorPart",
   "name": "arcuate hypothalamic nucleus, medial posterior part",
   "ontologyIdentifier": null,

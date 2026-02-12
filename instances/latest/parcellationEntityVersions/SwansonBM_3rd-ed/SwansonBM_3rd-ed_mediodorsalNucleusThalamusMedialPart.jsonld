@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mediodorsalNucleusThalamusMedialPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_mediodorsalNucleusThalamusMedialPart",
   "name": "mediodorsal nucleus thalamus, medial part",
   "ontologyIdentifier": null,

@@ -45,6 +45,9 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_primarySomatosensoryAreaHindlimbRepresentation"
+  },
   "lookupLabel": "WHSSDatlas_v4_primarySomatosensoryAreaHindlimbRepresentation",
   "name": "primary somatosensory area, hindlimb representation",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_intralaminarNucleiOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_centralMedialThalamicNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_centralMedialThalamicNucleus",
   "name": "central medial thalamic nucleus",
   "ontologyIdentifier": null,

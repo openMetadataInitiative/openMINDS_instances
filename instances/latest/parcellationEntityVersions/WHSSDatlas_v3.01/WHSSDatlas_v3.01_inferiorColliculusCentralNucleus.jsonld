@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_inferiorColliculus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_inferiorColliculusCentralNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v3.01_inferiorColliculusCentralNucleus",
   "name": "inferior colliculus, central nucleus",
   "ontologyIdentifier": null,

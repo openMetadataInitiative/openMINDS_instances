@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_temporalInsula"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-TeI"
+  },
   "lookupLabel": "JBA_v2.4-Colin27_Area-TeI_PM-v5.1",
   "name": "Area TeI (STG)",
   "ontologyIdentifier": null,

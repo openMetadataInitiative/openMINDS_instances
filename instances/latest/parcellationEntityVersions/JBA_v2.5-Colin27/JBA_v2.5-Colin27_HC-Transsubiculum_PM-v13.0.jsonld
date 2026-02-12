@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_hippocampalFormation"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_HC-Transsubiculum"
+  },
   "lookupLabel": "JBA_v2.5-Colin27_HC-Transsubiculum_PM-v13.0",
   "name": "HC-Transsubiculum (Hippocampus)",
   "ontologyIdentifier": null,

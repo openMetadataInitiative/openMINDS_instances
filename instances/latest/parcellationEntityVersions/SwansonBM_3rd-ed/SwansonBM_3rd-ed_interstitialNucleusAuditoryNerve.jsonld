@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interstitialNucleusAuditoryNerve"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_interstitialNucleusAuditoryNerve",
   "name": "interstitial nucleus auditory nerve",
   "ontologyIdentifier": null,

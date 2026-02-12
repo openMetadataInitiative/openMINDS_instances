@@ -43,6 +43,7 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": null,
   "lookupLabel": "AMBA_CCFv3-2015_cerebralCortex",
   "name": "cerebral cortex",
   "ontologyIdentifier": null,

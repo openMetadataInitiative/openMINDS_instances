@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_amygdalohippocampalArea"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_amygdalohippocampalArea",
   "name": "amygdalohippocampal area",
   "ontologyIdentifier": null,

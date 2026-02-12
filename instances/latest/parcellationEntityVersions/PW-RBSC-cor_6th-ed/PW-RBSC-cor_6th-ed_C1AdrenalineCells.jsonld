@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_C1AdrenalineCells"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_C1AdrenalineCells",
   "name": "C1 adrenaline cells",
   "ontologyIdentifier": null,

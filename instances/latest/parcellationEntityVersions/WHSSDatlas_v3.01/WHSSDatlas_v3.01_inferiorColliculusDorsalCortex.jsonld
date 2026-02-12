@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_inferiorColliculus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_inferiorColliculusDorsalCortex"
+  },
   "lookupLabel": "WHSSDatlas_v3.01_inferiorColliculusDorsalCortex",
   "name": "inferior colliculus, dorsal cortex",
   "ontologyIdentifier": null,

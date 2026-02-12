@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_ventralOccipitalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-hOc3v"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_Area-hOc3v_PM-v5.2",
   "name": "Area hOc3v (LingG)",
   "ontologyIdentifier": null,

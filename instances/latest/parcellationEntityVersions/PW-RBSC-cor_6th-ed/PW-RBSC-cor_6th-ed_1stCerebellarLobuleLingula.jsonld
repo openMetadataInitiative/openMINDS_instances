@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_1stCerebellarLobuleLingula"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_1stCerebellarLobuleLingula",
   "name": "1st cerebellar lobule (lingula)",
   "ontologyIdentifier": null,

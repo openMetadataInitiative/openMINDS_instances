@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_motorCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_frontalAssociationArea3"
+  },
   "lookupLabel": "WHSSDatlas_v4_frontalAssociationArea3",
   "name": "frontal association area 3",
   "ontologyIdentifier": null,

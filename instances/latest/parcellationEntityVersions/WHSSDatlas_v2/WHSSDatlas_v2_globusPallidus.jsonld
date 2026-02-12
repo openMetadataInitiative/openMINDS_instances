@@ -51,6 +51,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_grayMatter"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_globusPallidusExternal"
+  },
   "lookupLabel": "WHSSDatlas_v2_globusPallidus",
   "name": "globus pallidus",
   "ontologyIdentifier": null,

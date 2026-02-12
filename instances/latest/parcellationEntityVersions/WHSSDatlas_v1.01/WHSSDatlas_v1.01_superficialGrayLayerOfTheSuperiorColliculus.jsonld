@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_tectum"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_superficialGrayLayerOfTheSuperiorColliculus"
+  },
   "lookupLabel": "WHSSDatlas_v1.01_superficialGrayLayerOfTheSuperiorColliculus",
   "name": "superficial gray layer of the superior colliculus",
   "ontologyIdentifier": null,

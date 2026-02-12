@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_medialMammillaryNucleusMedialPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_medialMammillaryNucleusMedialPart",
   "name": "medial mammillary nucleus, medial part",
   "ontologyIdentifier": null,

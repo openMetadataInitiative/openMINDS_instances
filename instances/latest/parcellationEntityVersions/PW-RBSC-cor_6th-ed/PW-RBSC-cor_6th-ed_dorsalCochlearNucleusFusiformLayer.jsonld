@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_dorsalCochlearNucleusFusiformLayer"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_dorsalCochlearNucleusFusiformLayer",
   "name": "dorsal cochlear nucleus, fusiform layer",
   "ontologyIdentifier": null,

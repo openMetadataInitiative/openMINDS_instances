@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posterodorsalIntraculminateFissure"
-    }
-  ],
   "lookupLabel": "SwansonBM_posterodorsalIntraculminateFissure",
   "name": "posterodorsal intraculminate fissure",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_parahippocampalRegion"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_presubiculum"
+  },
   "lookupLabel": "WHSSDatlas_v4_presubiculum",
   "name": "presubiculum",
   "ontologyIdentifier": null,

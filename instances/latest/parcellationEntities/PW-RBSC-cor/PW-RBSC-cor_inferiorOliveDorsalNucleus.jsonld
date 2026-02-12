@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_inferiorOliveDorsalNucleus"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_inferiorOliveDorsalNucleus",
   "name": "inferior olive, dorsal nucleus",
   "ontologyIdentifier": null,

@@ -17,11 +17,6 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_cerebralCortex"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/BA-human_1909_BA28"
-    }
-  ],
   "lookupLabel": "BA-human_BA28",
   "name": "Brodmann area 28",
   "ontologyIdentifier": null,

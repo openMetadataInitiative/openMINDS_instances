@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidFissureThirdVentricle"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_choroidFissureThirdVentricle",
   "name": "choroid fissure, third ventricle",
   "ontologyIdentifier": null,

@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_medianAccessoryNucleusOfTheMedulla"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_medianAccessoryNucleusOfTheMedulla",
   "name": "median accessory nucleus of the medulla",
   "ontologyIdentifier": null,

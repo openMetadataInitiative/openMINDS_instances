@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventromedialNucleusHypothalamusVentrolateralPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_ventromedialNucleusHypothalamusVentrolateralPart",
   "name": "ventromedial nucleus hypothalamus, ventrolateral part",
   "ontologyIdentifier": null,

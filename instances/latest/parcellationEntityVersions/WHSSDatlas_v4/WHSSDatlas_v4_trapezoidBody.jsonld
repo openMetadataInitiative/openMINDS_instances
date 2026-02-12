@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_whiteMatterOfTheBrainstem"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_trapezoidBody"
+  },
   "lookupLabel": "WHSSDatlas_v4_trapezoidBody",
   "name": "trapezoid body",
   "ontologyIdentifier": null,

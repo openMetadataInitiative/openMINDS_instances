@@ -10,11 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_retroreuniensThalamicNucleus"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_retroreuniensThalamicNucleus",
   "name": "retroreuniens thalamic nucleus",
   "ontologyIdentifier": null,

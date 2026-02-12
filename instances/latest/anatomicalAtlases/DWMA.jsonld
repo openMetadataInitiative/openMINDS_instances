@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/DWMA",
+  "@type": "https://openminds.om-i.org/types/AnatomicalAtlas",
+  "abbreviation": "DWMA",
+  "author": null,
+  "custodian": null,
+  "description": null,
+  "digitalIdentifier": null,
+  "fullName": "Atlas of Deep White Matter Fibre Bundles",
+  "hasTerminology": {
+    "@type": "https://openminds.om-i.org/types/ParcellationTerminology",
+    "dataLocation": null,
+    "hasEntity": [
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_anteriorSegementOfArcuateFasciculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_arcuateFasciculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_cingulum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_corticospinalTract"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_deepWhiteMatter"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_directSegementOfArcuateFasciculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_fornix"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_inferiorFronto-occipitalFasciculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_inferiorLongitudinalFasciculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_longCingulateFibres"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_posteriorSegementOfArcuateFasciculus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_shortCingulateFibres"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_temporalCingulateFibres"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_uncinateFasciculus"
+      }
+    ],
+    "ontologyIdentifier": null
+  },
+  "homepage": null,
+  "howToCite": null,
+  "shortName": "Deep White Matter Atlas",
+  "usedSpecies": {
+    "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
+  }
+}

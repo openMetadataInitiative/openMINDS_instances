@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryTubercleGanser"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_olfactoryTubercleGanser",
   "name": "olfactory tubercle [Ganser]",
   "ontologyIdentifier": null,

@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralNervousSystemGrayMatter"
-    }
-  ],
   "lookupLabel": "SwansonBM_centralNervousSystemGrayMatter",
   "name": "central nervous system gray matter",
   "ontologyIdentifier": null,

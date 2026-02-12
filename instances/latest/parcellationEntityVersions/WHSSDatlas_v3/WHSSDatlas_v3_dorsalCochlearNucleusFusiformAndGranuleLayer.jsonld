@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cochlearNucleusDorsalPart"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_dorsalCochlearNucleusFusiformAndGranuleLayer"
+  },
   "lookupLabel": "WHSSDatlas_v3_dorsalCochlearNucleusFusiformAndGranuleLayer",
   "name": "dorsal cochlear nucleus, fusiform and granule layer",
   "ontologyIdentifier": null,

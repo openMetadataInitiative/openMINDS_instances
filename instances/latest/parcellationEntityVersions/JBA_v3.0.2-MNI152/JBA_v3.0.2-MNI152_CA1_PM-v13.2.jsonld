@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_hippocampalFormation"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_CA1"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_CA1_PM-v13.2",
   "name": "CA1 (Hippocampus)",
   "ontologyIdentifier": null,

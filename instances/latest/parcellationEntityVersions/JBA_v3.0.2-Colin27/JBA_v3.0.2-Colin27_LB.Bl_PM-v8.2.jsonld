@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_LB"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_LB.Bl"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_LB.Bl_PM-v8.2",
   "name": "LB.Bl (Amygdala)",
   "ontologyIdentifier": null,

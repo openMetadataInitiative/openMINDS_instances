@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_externalMedullaryLamina"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_externalMedullaryLaminaUnspecified"
+  },
   "lookupLabel": "WHSSDatlas_v4_externalMedullaryLaminaUnspecified",
   "name": "external medullary lamina, unspecified",
   "ontologyIdentifier": null,

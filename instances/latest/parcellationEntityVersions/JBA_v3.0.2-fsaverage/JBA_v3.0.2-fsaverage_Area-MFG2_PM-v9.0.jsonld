@@ -53,6 +53,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_fronto-marginalSulcus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-MFG2"
+  },
   "lookupLabel": "JBA_v3.0.2-fsaverage_Area-MFG2_PM-v9.0",
   "name": "Area MFG2 (MFG)",
   "ontologyIdentifier": null,

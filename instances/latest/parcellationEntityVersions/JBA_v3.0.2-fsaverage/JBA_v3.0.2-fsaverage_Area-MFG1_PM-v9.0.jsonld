@@ -53,6 +53,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_middleFrontalGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-MFG1"
+  },
   "lookupLabel": "JBA_v3.0.2-fsaverage_Area-MFG1_PM-v9.0",
   "name": "Area MFG1 (MFG)",
   "ontologyIdentifier": null,

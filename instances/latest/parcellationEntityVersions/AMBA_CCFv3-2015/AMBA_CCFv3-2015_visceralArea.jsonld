@@ -43,6 +43,7 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": null,
   "lookupLabel": "AMBA_CCFv3-2015_visceralArea",
   "name": "visceral area",
   "ontologyIdentifier": null,

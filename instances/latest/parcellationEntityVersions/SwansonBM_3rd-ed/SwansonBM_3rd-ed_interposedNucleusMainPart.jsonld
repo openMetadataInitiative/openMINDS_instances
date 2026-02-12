@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interposedNucleusMainPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_interposedNucleusMainPart",
   "name": "interposed nucleus, main part",
   "ontologyIdentifier": null,

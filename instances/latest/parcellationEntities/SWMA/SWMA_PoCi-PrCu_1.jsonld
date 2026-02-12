@@ -12,11 +12,6 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/SWMA_superficialWhiteMatter"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_2018_PoCi-PrCu_1"
-    }
-  ],
   "lookupLabel": "SWMA_PoCi-PrCu_1",
   "name": "PoCi-PrCu_1",
   "ontologyIdentifier": null,

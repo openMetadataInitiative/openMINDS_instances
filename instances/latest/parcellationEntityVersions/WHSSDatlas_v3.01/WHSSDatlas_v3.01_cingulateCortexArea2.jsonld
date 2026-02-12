@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cingulateCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cingulateArea2"
+  },
   "lookupLabel": "WHSSDatlas_v3.01_cingulateCortexArea2",
   "name": "cingulate cortex, area 2",
   "ontologyIdentifier": null,

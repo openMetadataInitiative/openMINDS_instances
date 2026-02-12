@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_IF"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0-Colin27_IF.ice_PM-v8.2",
   "name": "IF.ice (Amygdala)",
   "ontologyIdentifier": null,

@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_retroparafascicularNucleus"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_retroparafascicularNucleus",
   "name": "retroparafascicular nucleus",
   "ontologyIdentifier": null,

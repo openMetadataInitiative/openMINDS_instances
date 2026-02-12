@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_dorsalOccipitalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-hOc4d"
+  },
   "lookupLabel": "JBA_v2.5-MNI152_Area-hOc4d_PM-v4.0",
   "name": "Area hOc4d (Cuneus)",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusExternalPartPyramidalLayer"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_anteriorOlfactoryNucleusExternalPartPyramidalLayer",
   "name": "anterior olfactory nucleus, external part, pyramidal layer",
   "ontologyIdentifier": null,
