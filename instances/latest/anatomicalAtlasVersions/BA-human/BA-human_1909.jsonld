@@ -194,6 +194,7 @@
   "type": {
     "@id": "https://openminds.om-i.org/instances/atlasType/parcellationScheme"
   },
+  "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "1909",
   "versionInnovation": "This is the second released version of the human Brodmann cortical parcellation scheme."

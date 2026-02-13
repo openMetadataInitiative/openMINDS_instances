@@ -39,6 +39,7 @@
   "repository": null,
   "shortName": "Paxinos and Watson's Stereotaxic Coronal Template (Rat Brain)",
   "supportChannel": null,
+  "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "v2004 (Interaural, RSA)",
   "versionInnovation": "This is the second version of the common coordinate space for the coronal plane atlas. From the 4th to the 5th edition of the Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates, the reference data (template) was changed (new adult male Wistar rat with a more complete coronal series) which resulted in a new common coordinate space version."

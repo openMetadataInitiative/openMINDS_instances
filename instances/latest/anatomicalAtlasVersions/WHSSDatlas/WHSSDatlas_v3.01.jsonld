@@ -414,6 +414,11 @@
   "type": {
     "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
   },
+  "usageCondition": [
+    {
+      "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-4.0"
+    }
+  ],
   "usedSpecimen": null,
   "versionIdentifier": "v3.01",
   "versionInnovation": null

@@ -56,6 +56,7 @@
   "repository": null,
   "shortName": "Allen Mouse Brain CCF",
   "supportChannel": null,
+  "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "v3-RAS",
   "versionInnovation": "The third version of the 'Allen Mouse Brain Common Coordinate Framework' (CCFv3-RAS) is a 3D reconstruction of a whole brain at 10µm resolution. This alternative CCFv3 version was transformed to RAS axes orientation."

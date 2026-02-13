@@ -729,6 +729,11 @@
   "type": {
     "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
   },
+  "usageCondition": [
+    {
+      "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-4.0"
+    }
+  ],
   "usedSpecimen": null,
   "versionIdentifier": "v4",
   "versionInnovation": "Anatomical delineations of 222 brain regions and white matter tracts in the Sprague Dawley rat brain, based on a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). Version 4 of the Waxholm Space atlas of the Sprague Dawley rat brain contains 112 new and 56 updated delineations related or adjacent to the basal ganglia, thalamus and cortical structures. 54 delineations have remained unchanged and 9 have been completely replaced relative to v3. This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v4.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v4.label: text file naming anatomical structures; MBAT_WHS_SD_rat_atlas_v4.zip: file describing a suggested hierarchy of the anatomical structures"

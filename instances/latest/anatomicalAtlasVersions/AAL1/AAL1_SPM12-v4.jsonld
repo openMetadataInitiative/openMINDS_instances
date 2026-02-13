@@ -178,6 +178,11 @@
   "type": {
     "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
   },
+  "usageCondition": [
+    {
+      "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-NC-ND-4.0"
+    }
+  ],
   "usedSpecimen": null,
   "versionIdentifier": "SPM12, v4",
   "versionInnovation": "This is the 2018 release of the SPM12 version of the AAL Atlas 1 containing 3D definitions of 45 anatomical volumes of interest in each hemisphere."

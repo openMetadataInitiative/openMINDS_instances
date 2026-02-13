@@ -367,6 +367,11 @@
   "type": {
     "@id": "https://openminds.om-i.org/instances/atlasType/probabilisticAtlas"
   },
+  "usageCondition": [
+    {
+      "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-NC-SA-4.0"
+    }
+  ],
   "usedSpecimen": null,
   "versionIdentifier": "v1.18, MNI152",
   "versionInnovation": "This is the first release of the Julich-Brain Atlas using the common coordinate space MNI ICBM152 (2009c Nonlinear Asymmetric)."

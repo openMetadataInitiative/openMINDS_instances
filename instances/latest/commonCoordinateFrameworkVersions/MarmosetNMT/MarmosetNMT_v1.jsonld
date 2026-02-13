@@ -42,6 +42,11 @@
   "repository": null,
   "shortName": "Marmoset Nencki-Monash Template",
   "supportChannel": null,
+  "usageCondition": [
+    {
+      "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-4.0"
+    }
+  ],
   "usedSpecimen": null,
   "versionIdentifier": "v1",
   "versionInnovation": "This is the first version of average histology."

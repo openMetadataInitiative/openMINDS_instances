@@ -2903,6 +2903,7 @@
   "type": {
     "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
   },
+  "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "6th ed. (Interaural, LSA)",
   "versionInnovation": "The 6th edition introduces color photographs of the coronal brain section. All diagrams from the previous editions have been completely revised [paraphrased from the ‘Preface’ of the book ISBN: 0-12-547612-4]."

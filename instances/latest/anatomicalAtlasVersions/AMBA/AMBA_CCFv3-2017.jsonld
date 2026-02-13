@@ -4024,6 +4024,7 @@
   "type": {
     "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
   },
+  "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "CCFv3, 2017",
   "versionInnovation": null

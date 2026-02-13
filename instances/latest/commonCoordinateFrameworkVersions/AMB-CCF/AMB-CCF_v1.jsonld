@@ -37,6 +37,7 @@
   "repository": null,
   "shortName": "Allen Mouse Brain CCF",
   "supportChannel": null,
+  "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "v1",
   "versionInnovation": "The first version of the 'Allen Mouse Brain Common Coordinate Framework' (CCFv1) is a 3D reconstruction of one brain hemisphere at 200µm resolution."
