@@ -8,7 +8,7 @@
   "accessibility": {
     "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
   },
-  "coordinateSpace": {
+  "coordinateFramework": {
     "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/MNI-Colin27_1998"
   },
   "copyright": null,
