@@ -8,12 +8,10 @@
   "accessibility": {
     "@id": "https://openminds.om-i.org/instances/productAccessibility/paidAccess"
   },
-  "author": null,
   "coordinateSpace": {
     "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/PW-RBSC-corT_v2004-Bregma-LIA"
   },
   "copyright": null,
-  "custodian": null,
   "description": null,
   "digitalIdentifier": {
     "@id": "https://openminds.om-i.org/instances/ISBN/0-12-547612-4"
@@ -2894,7 +2892,6 @@
     "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/PW-RBSC-cor"
   },
   "keyword": null,
-  "license": null,
   "majorVersionIdentifier": null,
   "ontologyIdentifier": null,
   "otherContribution": null,

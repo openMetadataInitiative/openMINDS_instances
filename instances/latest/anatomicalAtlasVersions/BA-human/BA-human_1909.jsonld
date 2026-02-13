@@ -8,10 +8,8 @@
   "accessibility": {
     "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
   },
-  "author": null,
   "coordinateSpace": null,
   "copyright": null,
-  "custodian": null,
   "description": null,
   "digitalIdentifier": null,
   "fullDocumentation": null,
@@ -185,7 +183,6 @@
     "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/BA-human"
   },
   "keyword": null,
-  "license": null,
   "majorVersionIdentifier": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0101468",
   "otherContribution": null,

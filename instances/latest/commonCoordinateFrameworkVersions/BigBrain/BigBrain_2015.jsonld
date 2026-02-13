@@ -11,7 +11,6 @@
   "anatomicalAxesOrientation": {
     "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
   },
-  "author": null,
   "axesOrigin": [
     {
       "@type": "https://openminds.om-i.org/types/QuantitativeValue",
@@ -27,14 +26,6 @@
     }
   ],
   "copyright": null,
-  "custodian": [
-    {
-      "@id": "https://openminds.om-i.org/instances/person/evansAlanC"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/person/amuntsKatrin"
-    }
-  ],
   "defaultImage": null,
   "description": null,
   "digitalIdentifier": null,
@@ -49,7 +40,6 @@
     "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/BigBrain"
   },
   "keyword": null,
-  "license": null,
   "nativeUnit": {
     "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/micrometer"
   },
