@@ -5,8 +5,6 @@
   "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/SwansonBM",
   "@type": "https://openminds.om-i.org/types/AnatomicalAtlas",
   "abbreviation": "SwansonBM",
-  "author": null,
-  "custodian": null,
   "description": "Swanson's Brain Maps atlases are open access, stereotaxic rat brain atlases of an adult Sprague Dawley rat. These atlases contain spatially aligned maps for 3D reconstruction, hierarchical nomenclature and flatmaps.",
   "digitalIdentifier": null,
   "fullName": "Swanson's Brain Maps: Structure of the Rat Brain",
@@ -3498,7 +3496,7 @@
   "howToCite": null,
   "ontologyIdentifier": null,
   "shortName": "Swanson's Brain Maps",
-  "usedSpecies": {
+  "usedTaxon": {
     "@id": "https://openminds.om-i.org/instances/species/rattusNorvegicus"
   }
 }

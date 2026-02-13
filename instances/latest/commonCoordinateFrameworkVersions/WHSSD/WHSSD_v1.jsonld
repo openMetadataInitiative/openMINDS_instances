@@ -9,10 +9,8 @@
   "anatomicalAxesOrientation": {
     "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/ALS"
   },
-  "author": null,
   "axesOrigin": null,
   "copyright": null,
-  "custodian": null,
   "defaultImage": null,
   "description": null,
   "digitalIdentifier": null,
@@ -27,7 +25,6 @@
     "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/WHSSD"
   },
   "keyword": null,
-  "license": null,
   "nativeUnit": {
     "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/micrometer"
   },
@@ -38,6 +35,7 @@
   "repository": null,
   "shortName": "WHS of the SD Rat Brain",
   "supportChannel": null,
+  "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "v1",
   "versionInnovation": null

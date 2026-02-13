@@ -7,10 +7,8 @@
   "abbreviation": "ICBM152",
   "accessibility": null,
   "anatomicalAxesOrientation": null,
-  "author": null,
   "axesOrigin": null,
   "copyright": null,
-  "custodian": null,
   "defaultImage": null,
   "description": null,
   "digitalIdentifier": null,
@@ -25,7 +23,6 @@
     "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/MNI-ICBM152"
   },
   "keyword": null,
-  "license": null,
   "nativeUnit": {
     "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
   },
@@ -36,6 +33,7 @@
   "repository": null,
   "shortName": "MNI ICBM152",
   "supportChannel": null,
+  "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "2009a nonlinear asymmetric",
   "versionInnovation": null

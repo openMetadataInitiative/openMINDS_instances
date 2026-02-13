@@ -5,8 +5,6 @@
   "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/WHSSD",
   "@type": "https://openminds.om-i.org/types/CommonCoordinateFramework",
   "abbreviation": "WHSSD",
-  "author": null,
-  "custodian": null,
   "description": "The 'Waxholm Space of the Sprague Dawley Rat Brain (coordinate space)' employs a continuous three- dimensional Cartesian coordinate system, with its origin set at the decussation of the anterior commissure.",
   "digitalIdentifier": null,
   "fullName": "Waxholm Space of the Sprague Dawley Rat Brain (coordinate space)",
@@ -14,7 +12,7 @@
   "howToCite": null,
   "ontologyIdentifier": null,
   "shortName": "WHS of the SD Rat Brain",
-  "usedSpecies": {
+  "usedTaxon": {
     "@id": "https://openminds.om-i.org/instances/species/rattusNorvegicus"
   }
 }

@@ -8,10 +8,8 @@
   "accessibility": {
     "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
   },
-  "author": null,
-  "coordinateSpace": null,
+  "coordinateFramework": null,
   "copyright": null,
-  "custodian": null,
   "description": null,
   "digitalIdentifier": null,
   "fullDocumentation": null,
@@ -31,9 +29,6 @@
     "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/Schaefer-400p"
   },
   "keyword": null,
-  "license": {
-    "@id": "https://openminds.om-i.org/instances/licenses/MIT"
-  },
   "majorVersionIdentifier": "2018",
   "ontologyIdentifier": null,
   "otherContribution": null,
@@ -45,6 +40,11 @@
   "type": {
     "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
   },
+  "usageCondition": [
+    {
+      "@id": "https://openminds.om-i.org/instances/licenses/MIT"
+    }
+  ],
   "usedSpecimen": null,
   "versionIdentifier": "2018, FSL-MNI152, kong17n",
   "versionInnovation": null
