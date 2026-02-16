@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/atlasType/probabilisticAtlas",
   "@type": "https://openminds.om-i.org/types/AtlasType",
-  "definition": "A 'probabilistic atlas' is an anatomical or anatomopathological atlases based on statistically-weighted composites of many specimens.",
+  "definition": "Any anatomical atlas whose annotation set contains regions defined by statistically-weighted composites.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
