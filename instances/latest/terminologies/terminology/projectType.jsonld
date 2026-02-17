@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/projectType",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology defining a project based on its primary purpose or nature.",
+  "description": "The terminology defining project type specifies whether a project is primarily focused on research, funded through a grant, aimed at infrastructure development, or engineering.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "project type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
