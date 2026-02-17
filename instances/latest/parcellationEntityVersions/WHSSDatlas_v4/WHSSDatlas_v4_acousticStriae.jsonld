@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_whiteMatterOfTheBrainstem"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_acousticStriae"
+  },
   "lookupLabel": "WHSSDatlas_v4_acousticStriae",
   "name": "acoustic striae",
   "ontologyIdentifier": null,

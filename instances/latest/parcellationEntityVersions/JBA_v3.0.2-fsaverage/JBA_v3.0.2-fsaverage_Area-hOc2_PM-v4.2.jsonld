@@ -53,6 +53,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_occipitalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-hOc2"
+  },
   "lookupLabel": "JBA_v3.0.2-fsaverage_Area-hOc2_PM-v4.2",
   "name": "Area hOc2 (V2, 18)",
   "ontologyIdentifier": null,

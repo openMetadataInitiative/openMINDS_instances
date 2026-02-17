@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_extremeCapsule"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_extremeCapsule",
   "name": "extreme capsule",
   "ontologyIdentifier": null,

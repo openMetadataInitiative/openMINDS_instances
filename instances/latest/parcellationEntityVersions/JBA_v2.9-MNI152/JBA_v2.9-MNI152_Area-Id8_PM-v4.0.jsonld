@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_dysgranularInsula"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-Id8"
+  },
   "lookupLabel": "JBA_v2.9-MNI152_Area-Id8_PM-v4.0",
   "name": "Area Id8 (Insula)",
   "ontologyIdentifier": null,

@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_isocortexDeepSupragranularPyramidalLayer"
-    }
-  ],
   "lookupLabel": "SwansonBM_isocortexDeepSupragranularPyramidalLayer",
   "name": "isocortex, deep supragranular pyramidal layer",
   "ontologyIdentifier": null,

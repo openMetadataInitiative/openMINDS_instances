@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_hippocampalFormationUnspecified"
+  },
   "lookupLabel": "WHSSDatlas_v1.01_hippocampalFormation",
   "name": "hippocampal formation",
   "ontologyIdentifier": null,

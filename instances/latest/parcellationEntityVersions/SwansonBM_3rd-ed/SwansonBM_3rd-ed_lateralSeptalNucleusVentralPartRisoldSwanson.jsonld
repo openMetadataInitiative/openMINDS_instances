@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusVentralPartRisoldSwanson"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_lateralSeptalNucleusVentralPartRisoldSwanson",
   "name": "lateral septal nucleus, ventral part [Risold-Swanson]",
   "ontologyIdentifier": null,

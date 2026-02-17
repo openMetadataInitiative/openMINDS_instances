@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusLateralBlademolecularLayer"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_dentateGyrusLateralBlademolecularLayer",
   "name": "dentate gyrus, lateral blade-molecular layer",
   "ontologyIdentifier": null,

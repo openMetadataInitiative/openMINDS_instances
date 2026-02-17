@@ -10,11 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_zonaIncertaA11DopamineCells"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_zonaIncertaA11DopamineCells",
   "name": "zona incerta, A11 dopamine cells",
   "ontologyIdentifier": null,

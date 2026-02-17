@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_dentateNucleus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Dorsal-Dentate-Nucleus"
+  },
   "lookupLabel": "JBA_v2.2-MNI152_Dorsal-Dentate-Nucleus_PM-v6.2",
   "name": "Dorsal Dentate Nucleus (Cerebellum)",
   "ontologyIdentifier": null,

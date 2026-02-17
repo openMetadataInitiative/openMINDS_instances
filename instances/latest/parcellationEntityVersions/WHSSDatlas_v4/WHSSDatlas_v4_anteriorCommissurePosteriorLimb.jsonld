@@ -50,6 +50,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_anteriorCommissure"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_anteriorCommissurePosteriorLimb"
+  },
   "lookupLabel": "WHSSDatlas_v4_anteriorCommissurePosteriorLimb",
   "name": "anterior commissure, posterior limb",
   "ontologyIdentifier": null,

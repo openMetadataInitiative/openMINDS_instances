@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_infundibulumGalen"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_infundibulumGalen",
   "name": "infundibulum [Galen]",
   "ontologyIdentifier": null,

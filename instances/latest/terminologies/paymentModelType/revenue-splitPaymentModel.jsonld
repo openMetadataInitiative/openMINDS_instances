@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/paymentModelType/revenue-splitPaymentModel",
+  "@type": "https://openminds.om-i.org/types/PaymentModelType",
+  "definition": "Payment is determined by dividing aggregated monetary value among participating parties according to predefined shares.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "revenue-split payment model",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

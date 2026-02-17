@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralAnteriorlateralComplexThalamus"
-    }
-  ],
   "lookupLabel": "SwansonBM_ventralAnteriorlateralComplexThalamus",
   "name": "ventral anterior-lateral complex thalamus",
   "ontologyIdentifier": null,

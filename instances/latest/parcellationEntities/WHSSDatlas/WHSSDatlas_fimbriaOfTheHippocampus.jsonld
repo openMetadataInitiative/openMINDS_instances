@@ -10,23 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_fimbriaOfTheHippocampus"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_fimbriaOfTheHippocampus"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_fimbriaOfTheHippocampus"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_fimbriaOfTheHippocampus"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_fimbriaOfTheHippocampus"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_fimbriaOfTheHippocampus",
   "name": "fimbria of the hippocampus",
   "ontologyIdentifier": null,

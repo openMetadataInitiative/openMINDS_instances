@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_fieldCA2OfTheHippocampus"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_fieldCA2OfTheHippocampus",
   "name": "field CA2 of the hippocampus",
   "ontologyIdentifier": null,

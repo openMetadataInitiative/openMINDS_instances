@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paragigantocellularReticularNucleusLateralPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_paragigantocellularReticularNucleusLateralPart",
   "name": "paragigantocellular reticular nucleus, lateral part",
   "ontologyIdentifier": null,

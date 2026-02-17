@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_mediodorsalNucleusOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_mediodorsalThalamicNucleusLateralPart"
+  },
   "lookupLabel": "WHSSDatlas_v4_mediodorsalThalamicNucleusLateralPart",
   "name": "mediodorsal thalamic nucleus, lateral part",
   "ontologyIdentifier": null,

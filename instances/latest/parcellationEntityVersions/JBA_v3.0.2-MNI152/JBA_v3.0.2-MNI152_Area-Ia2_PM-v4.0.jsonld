@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_agranularInsula"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-Ia2"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_Area-Ia2_PM-v4.0",
   "name": "Area Ia2 (Insula)",
   "ontologyIdentifier": null,

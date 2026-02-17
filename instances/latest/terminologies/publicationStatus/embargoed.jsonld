@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/publicationStatus/embargoed",
+  "@type": "https://openminds.om-i.org/types/PublicationStatus",
+  "definition": "A publication status indicating the work exists but cannot be publicly published, reported on, or made openly available until a specified embargo end date set by the embargoing party.",
+  "description": "The status of a work that is subjected to an embargo, which means that the work cannot be published, or in the case of a press release that it cannot be reported on, until a particular date known as the embargo date. For open-access journal articles, an embargoed article is one in which availability of the open-access version of the article is delayed by the publisher for a substantial embargo period, typically of six or twelve months, after subscription-access availability of the published work. [[Publishing Status Ontology (PSO)](http://purl.org/spar/pso): [Peroni, S., Shotton, D., Vitali, F. (2012)](https://doi.org/10.1145/2362499.2362502)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "embargoed",
+  "preferredOntologyIdentifier": "http://purl.org/spar/pso/embargoed",
+  "synonym": null
+}

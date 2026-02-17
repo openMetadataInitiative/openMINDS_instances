@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_hippocampalWhiteMatter"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_fornix"
+  },
   "lookupLabel": "WHSSDatlas_v3_fornix",
   "name": "fornix",
   "ontologyIdentifier": null,

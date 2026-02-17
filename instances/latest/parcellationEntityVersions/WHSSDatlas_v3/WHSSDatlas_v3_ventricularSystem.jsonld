@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventricularSystem"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventricularSystemUnspecified"
+  },
   "lookupLabel": "WHSSDatlas_v3_ventricularSystem",
   "name": "ventricular system",
   "ontologyIdentifier": null,

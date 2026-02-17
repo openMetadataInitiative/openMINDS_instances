@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_innerEar"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cochlearNerve"
+  },
   "lookupLabel": "WHSSDatlas_v3_cochlearNerve",
   "name": "cochlear nerve",
   "ontologyIdentifier": null,

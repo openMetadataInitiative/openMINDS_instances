@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheVerticalLimbOfTheDiagonalBand"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_nucleusOfTheVerticalLimbOfTheDiagonalBand",
   "name": "nucleus of the vertical limb of the diagonal band",
   "ontologyIdentifier": null,

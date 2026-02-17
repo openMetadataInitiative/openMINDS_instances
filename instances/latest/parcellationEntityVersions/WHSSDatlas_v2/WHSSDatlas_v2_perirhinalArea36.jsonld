@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_perirhinalArea36"
+  },
   "lookupLabel": "WHSSDatlas_v2_perirhinalArea36",
   "name": "perirhinal area 36",
   "ontologyIdentifier": null,

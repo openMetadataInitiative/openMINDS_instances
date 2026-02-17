@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/paymentModelType",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology defining the pricing structure or financial model associated with accessing a resource.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "payment model type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

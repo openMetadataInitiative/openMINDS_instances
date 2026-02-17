@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_dorsalCorticospinalTract"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_dorsalCorticospinalTract",
   "name": "dorsal corticospinal tract",
   "ontologyIdentifier": null,

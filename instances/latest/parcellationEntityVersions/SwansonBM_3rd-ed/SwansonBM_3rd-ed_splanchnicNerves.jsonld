@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_splanchnicNerves"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_splanchnicNerves",
   "name": "splanchnic nerves",
   "ontologyIdentifier": null,

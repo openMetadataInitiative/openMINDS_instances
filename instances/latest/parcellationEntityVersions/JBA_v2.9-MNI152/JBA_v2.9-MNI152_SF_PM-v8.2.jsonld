@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_amygdaloidGroups"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_SF"
+  },
   "lookupLabel": "JBA_v2.9-MNI152_SF_PM-v8.2",
   "name": "SF (Amygdala)",
   "ontologyIdentifier": null,

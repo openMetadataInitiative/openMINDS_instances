@@ -42,6 +42,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_cerebralCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_BA22"
+  },
   "lookupLabel": "BA-human_1909_BA22",
   "name": "Brodmann area 22",
   "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013553",

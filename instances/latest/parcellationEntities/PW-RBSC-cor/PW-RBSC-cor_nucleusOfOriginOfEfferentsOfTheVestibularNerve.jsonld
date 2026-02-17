@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_nucleusOfOriginOfEfferentsOfTheVestibularNerve"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_nucleusOfOriginOfEfferentsOfTheVestibularNerve",
   "name": "nucleus of origin of efferents of the vestibular nerve",
   "ontologyIdentifier": null,

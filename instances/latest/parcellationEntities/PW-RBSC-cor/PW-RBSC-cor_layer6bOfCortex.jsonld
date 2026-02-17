@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_layer6bOfCortex"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_layer6bOfCortex",
   "name": "layer 6b of cortex",
   "ontologyIdentifier": null,

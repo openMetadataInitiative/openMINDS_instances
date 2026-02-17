@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_lateralLemniscus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_lateralLemniscusUnspecified"
+  },
   "lookupLabel": "WHSSDatlas_v4_lateralLemniscusUnspecified",
   "name": "lateral lemniscus, unspecified",
   "ontologyIdentifier": null,

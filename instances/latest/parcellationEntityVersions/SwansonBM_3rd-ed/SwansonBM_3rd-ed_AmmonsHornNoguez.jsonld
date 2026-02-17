@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_AmmonsHornNoguez"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_AmmonsHornNoguez",
   "name": "Ammon’s horn [Noguez]",
   "ontologyIdentifier": null,

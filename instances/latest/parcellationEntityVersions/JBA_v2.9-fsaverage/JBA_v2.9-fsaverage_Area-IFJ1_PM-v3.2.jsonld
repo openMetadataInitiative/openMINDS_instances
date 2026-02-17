@@ -53,6 +53,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_inferiorFrontalSulcus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-IFJ1"
+  },
   "lookupLabel": "JBA_v2.9-fsaverage_Area-IFJ1_PM-v3.2",
   "name": "Area IFJ1 (IFS,PreCS)",
   "ontologyIdentifier": null,

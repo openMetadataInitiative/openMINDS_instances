@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractPyramidalLayer"
-    }
-  ],
   "lookupLabel": "SwansonBM_nucleusOfTheLateralOlfactoryTractPyramidalLayer",
   "name": "nucleus of the lateral olfactory tract, pyramidal layer",
   "ontologyIdentifier": null,

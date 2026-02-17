@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheCentralAcousticTract"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_nucleusOfTheCentralAcousticTract",
   "name": "nucleus of the central acoustic tract",
   "ontologyIdentifier": null,

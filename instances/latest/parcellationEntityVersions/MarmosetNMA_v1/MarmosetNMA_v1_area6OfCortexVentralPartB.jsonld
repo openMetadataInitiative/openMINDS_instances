@@ -79,6 +79,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_motorAndPremotorCorticalRegions"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area6OfCortexVentralPartB"
+  },
   "lookupLabel": "MarmosetNMA_v1_area6OfCortexVentralPartB",
   "name": "area 6 of cortex ventral part b",
   "ontologyIdentifier": null,
@@ -86,4 +89,3 @@
   "versionIdentifier": "v1",
   "versionInnovation": "This is the first version of this parcellation entity."
 }
-

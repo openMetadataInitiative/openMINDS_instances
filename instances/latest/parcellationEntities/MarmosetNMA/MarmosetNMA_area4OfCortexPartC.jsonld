@@ -14,14 +14,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_motorAndPremotorCorticalRegions"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area4OfCortexPartC"
-    }
-  ],
   "lookupLabel": "MarmosetNMA_area4OfCortexPartC",
   "name": "area 4 of cortex part c (primary motor)",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
-

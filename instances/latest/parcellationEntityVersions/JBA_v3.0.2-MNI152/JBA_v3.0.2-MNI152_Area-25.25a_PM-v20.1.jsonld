@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-25"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-25.25a"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_Area-25.25a_PM-v20.1",
   "name": "Area 25.25a (sACC",
   "ontologyIdentifier": null,

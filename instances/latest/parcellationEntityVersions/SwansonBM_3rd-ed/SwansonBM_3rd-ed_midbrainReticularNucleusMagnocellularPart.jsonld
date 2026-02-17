@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainReticularNucleusMagnocellularPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_midbrainReticularNucleusMagnocellularPart",
   "name": "midbrain reticular nucleus, magnocellular part",
   "ontologyIdentifier": null,

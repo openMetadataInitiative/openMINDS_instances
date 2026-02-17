@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_vestibularRootOfTheVestibulocochlearNerve"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_vestibularRootOfTheVestibulocochlearNerve",
   "name": "vestibular root of the vestibulocochlear nerve",
   "ontologyIdentifier": null,

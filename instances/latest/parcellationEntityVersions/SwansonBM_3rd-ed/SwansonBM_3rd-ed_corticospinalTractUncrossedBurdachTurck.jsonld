@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticospinalTractUncrossedBurdachTurck"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_corticospinalTractUncrossedBurdachTurck",
   "name": "corticospinal tract, uncrossed [Burdach, Türck]",
   "ontologyIdentifier": null,

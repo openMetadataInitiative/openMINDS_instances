@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumGenu"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_corpusCallosumGenu",
   "name": "corpus callosum, genu",
   "ontologyIdentifier": null,

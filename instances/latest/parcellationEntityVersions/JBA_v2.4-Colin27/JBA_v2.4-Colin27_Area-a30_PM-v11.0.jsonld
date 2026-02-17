@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_retrosplenialPart"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-a30"
+  },
   "lookupLabel": "JBA_v2.4-Colin27_Area-a30_PM-v11.0",
   "name": "Area a30 (retrosplenial)",
   "ontologyIdentifier": null,

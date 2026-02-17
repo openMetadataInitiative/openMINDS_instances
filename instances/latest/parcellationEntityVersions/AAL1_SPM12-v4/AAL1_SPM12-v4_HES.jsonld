@@ -56,6 +56,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_temporalLobe"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_HES"
+  },
   "lookupLabel": "AAL1_SPM12-v4_HES",
   "name": "Heschl gyrus",
   "ontologyIdentifier": null,

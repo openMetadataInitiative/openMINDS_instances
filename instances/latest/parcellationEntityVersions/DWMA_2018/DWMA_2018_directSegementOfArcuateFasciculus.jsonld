@@ -61,6 +61,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_arcuateFasciculus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_directSegementOfArcuateFasciculus"
+  },
   "lookupLabel": "DWMA_2018_directSegementOfArcuateFasciculus",
   "name": "direct segment of arcuate fasciculus",
   "ontologyIdentifier": null,

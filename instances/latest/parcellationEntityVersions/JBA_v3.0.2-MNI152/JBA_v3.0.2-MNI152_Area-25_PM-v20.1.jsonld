@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_frontalCingulateGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-25"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_Area-25_PM-v20.1",
   "name": "Area 25 (sACC)",
   "ontologyIdentifier": null,

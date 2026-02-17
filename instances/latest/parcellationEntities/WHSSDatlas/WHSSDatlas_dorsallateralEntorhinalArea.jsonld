@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_dorsallateralEntorhinalArea"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_dorsallateralEntorhinalArea",
   "name": "dorsal-lateral entorhinal area",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_solitaryNucleusVentralPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_solitaryNucleusVentralPart",
   "name": "solitary nucleus, ventral part",
   "ontologyIdentifier": null,

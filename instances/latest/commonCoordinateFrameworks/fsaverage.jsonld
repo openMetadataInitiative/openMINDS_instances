@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/fsaverage",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateFramework",
+  "abbreviation": "fsaverage",
+  "description": null,
+  "digitalIdentifier": null,
+  "fullName": "FsAverage Surface Space",
+  "homepage": null,
+  "howToCite": null,
+  "ontologyIdentifier": null,
+  "shortName": "FsAverage Surface Space",
+  "usedTaxon": {
+    "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
+  }
+}

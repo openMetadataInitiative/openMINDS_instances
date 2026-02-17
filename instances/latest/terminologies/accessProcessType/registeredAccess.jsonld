@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/accessProcessType/registeredAccess",
+  "@type": "https://openminds.om-i.org/types/AccessProcessType",
+  "definition": "Access requires registration but no authentication.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "registered access",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

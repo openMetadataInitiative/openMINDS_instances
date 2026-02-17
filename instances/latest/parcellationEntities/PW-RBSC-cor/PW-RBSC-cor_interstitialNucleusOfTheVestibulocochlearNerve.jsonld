@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_interstitialNucleusOfTheVestibulocochlearNerve"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_interstitialNucleusOfTheVestibulocochlearNerve",
   "name": "interstitial nucleus of the vestibulocochlear nerve",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordLumbarLevelSegments16"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_spinalCordLumbarLevelSegments16",
   "name": "spinal cord, lumbar level, segments 1-6",
   "ontologyIdentifier": null,

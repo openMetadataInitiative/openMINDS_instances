@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_dorsalPrecentralGyrus"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.1-Colin27_Area-6d2_PM-v7.1",
   "name": "Area 6d2 (PreCG)",
   "ontologyIdentifier": null,

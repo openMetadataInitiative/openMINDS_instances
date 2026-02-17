@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/MNI-ICBM152_linear-2001-sym",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion",
+  "abbreviation": "ICBM152",
+  "accessibility": null,
+  "anatomicalAxesOrientation": null,
+  "axesOrigin": null,
+  "copyright": null,
+  "defaultImage": null,
+  "description": null,
+  "digitalIdentifier": null,
+  "fullDocumentation": null,
+  "fullName": "MNI ICBM152 Average Brain Stereotaxic Registration Model",
+  "funding": null,
+  "homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152lin",
+  "howToCite": null,
+  "isPrecededBy": null,
+  "isVariantOf": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/MNI-ICBM152"
+  },
+  "keyword": null,
+  "nativeUnit": {
+    "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
+  },
+  "ontologyIdentifier": null,
+  "otherContribution": null,
+  "relatedPublication": null,
+  "releaseDate": "2009-07-01",
+  "repository": null,
+  "shortName": "MNI ICBM152",
+  "supportChannel": null,
+  "usageCondition": null,
+  "usedSpecimen": null,
+  "versionIdentifier": "2001 linear symmetric",
+  "versionInnovation": null
+}

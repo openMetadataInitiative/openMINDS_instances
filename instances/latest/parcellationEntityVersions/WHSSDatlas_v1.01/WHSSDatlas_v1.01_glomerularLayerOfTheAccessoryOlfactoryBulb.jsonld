@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_olfactoryBulb"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_glomerularLayerOfTheAccessoryOlfactoryBulb"
+  },
   "lookupLabel": "WHSSDatlas_v1.01_glomerularLayerOfTheAccessoryOlfactoryBulb",
   "name": "glomerular layer of the accessory olfactory bulb",
   "ontologyIdentifier": null,

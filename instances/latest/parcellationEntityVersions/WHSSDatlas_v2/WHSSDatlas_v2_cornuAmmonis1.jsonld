@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cornuAmmonis1"
+  },
   "lookupLabel": "WHSSDatlas_v2_cornuAmmonis1",
   "name": "cornu ammonis 1",
   "ontologyIdentifier": null,

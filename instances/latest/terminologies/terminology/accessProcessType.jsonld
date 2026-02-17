@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/accessProcessType",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology defining the workflow or mechanism through which access to a resource is granted.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "access process type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

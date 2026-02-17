@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_motorNucleusOfTheTrigeminalNerve"
-    }
-  ],
   "lookupLabel": "SwansonBM_motorNucleusOfTheTrigeminalNerve",
   "name": "motor nucleus of the trigeminal nerve",
   "ontologyIdentifier": null,

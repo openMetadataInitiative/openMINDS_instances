@@ -15,11 +15,6 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_temporalLobe"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_T3"
-    }
-  ],
   "lookupLabel": "AAL1_T3",
   "name": "inferior temporal gyrus",
   "ontologyIdentifier": null,

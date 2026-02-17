@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motorNucleusOfTheTrigeminalNerveParvicellularPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_motorNucleusOfTheTrigeminalNerveParvicellularPart",
   "name": "motor nucleus of the trigeminal nerve, parvicellular part",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_ventralCochlearNucleusCapsularPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_ventralCochlearNucleusCapsularPart",
   "name": "ventral cochlear nucleus, capsular part",
   "ontologyIdentifier": null,

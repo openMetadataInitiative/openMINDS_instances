@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralOlfactoryTractGanser"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractGanser",
   "name": "nucleus of the lateral olfactory tract [Ganser]",
   "ontologyIdentifier": null,

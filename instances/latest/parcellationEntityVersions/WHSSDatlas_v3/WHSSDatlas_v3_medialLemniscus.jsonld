@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_medialLemniscus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_medialLemniscusUnspecified"
+  },
   "lookupLabel": "WHSSDatlas_v3_medialLemniscus",
   "name": "medial lemniscus",
   "ontologyIdentifier": null,

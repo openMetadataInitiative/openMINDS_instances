@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_parieto-occipitalSulcus"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.3-Colin27_Area-hPO1_PM-v7.3",
   "name": "Area hPO1 (POS)",
   "ontologyIdentifier": null,
