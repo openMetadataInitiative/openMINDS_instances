@@ -5,7 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/terminology/projectType",
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "Terminology defining a project based on its primary purpose or nature.",
-  "description": "The terminology defining project type specifies whether a project is primarily focused on research, funded through a grant, aimed at infrastructure development, or engineering.",
+  "description": "The terminology defining project type specifies whether a project is primarily focused on research or funded through a grant.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "project type",
