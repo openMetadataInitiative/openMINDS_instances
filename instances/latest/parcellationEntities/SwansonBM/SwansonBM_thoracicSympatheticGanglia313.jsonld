@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thoracicSympatheticGanglia313"
-    }
-  ],
   "lookupLabel": "SwansonBM_thoracicSympatheticGanglia313",
   "name": "thoracic sympathetic ganglia, 3-13",
   "ontologyIdentifier": null,

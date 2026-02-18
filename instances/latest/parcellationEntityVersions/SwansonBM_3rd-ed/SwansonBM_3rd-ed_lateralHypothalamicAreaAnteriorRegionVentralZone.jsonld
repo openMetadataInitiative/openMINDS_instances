@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaAnteriorRegionVentralZone"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegionVentralZone",
   "name": "lateral hypothalamic area, anterior region, ventral zone",
   "ontologyIdentifier": null,

@@ -56,6 +56,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_temporalLobe"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_T1"
+  },
   "lookupLabel": "AAL1_SPM12-v4_T1",
   "name": "superior temporal gyrus",
   "ontologyIdentifier": null,

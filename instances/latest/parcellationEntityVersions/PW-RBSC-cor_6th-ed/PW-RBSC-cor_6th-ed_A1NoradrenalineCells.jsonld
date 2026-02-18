@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_A1NoradrenalineCells"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_A1NoradrenalineCells",
   "name": "A1 noradrenaline cells",
   "ontologyIdentifier": null,

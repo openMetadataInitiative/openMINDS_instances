@@ -45,6 +45,9 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_innerEar"
+  },
   "lookupLabel": "WHSSDatlas_v2_innerEar",
   "name": "inner ear",
   "ontologyIdentifier": null,

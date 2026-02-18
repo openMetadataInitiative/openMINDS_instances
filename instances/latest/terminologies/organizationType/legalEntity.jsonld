@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/organizationType/legalEntity",
+  "@type": "https://openminds.om-i.org/types/OrganizationType",
+  "definition": "An organization classified as a type of legal entity recognized within a specific legal system.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "legal entity",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q10541491",
+  "synonym": null
+}

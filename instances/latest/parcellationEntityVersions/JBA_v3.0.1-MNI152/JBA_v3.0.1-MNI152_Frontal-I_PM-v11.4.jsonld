@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_frontalLobe"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0.1-MNI152_Frontal-I_PM-v11.4",
   "name": "Frontal-I (GapMap)",
   "ontologyIdentifier": null,

@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cochlearNucleusDorsalPart"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_dorsalCochlearNucleusMolecularLayer"
+  },
   "lookupLabel": "WHSSDatlas_v4_dorsalCochlearNucleusMolecularLayer",
   "name": "dorsal cochlear nucleus, molecular layer",
   "ontologyIdentifier": null,

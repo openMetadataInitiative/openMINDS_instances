@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_deepWhiteLayerOfTheSuperiorColliculus"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_deepWhiteLayerOfTheSuperiorColliculus",
   "name": "deep white layer of the superior colliculus",
   "ontologyIdentifier": null,

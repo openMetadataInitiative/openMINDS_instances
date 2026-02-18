@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_lateralEntorhinalCortex"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_lateralEntorhinalCortex",
   "name": "lateral entorhinal cortex",
   "ontologyIdentifier": null,

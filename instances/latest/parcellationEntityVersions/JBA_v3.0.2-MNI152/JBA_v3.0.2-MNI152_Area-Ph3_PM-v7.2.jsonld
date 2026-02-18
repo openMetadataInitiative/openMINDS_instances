@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_parahippocampalGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-Ph3"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_Area-Ph3_PM-v7.2",
   "name": "Area Ph3 (PhG)",
   "ontologyIdentifier": null,

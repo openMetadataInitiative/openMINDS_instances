@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_nucleusOfTheHorizontalLimbOfTheDiagonalBand"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_nucleusOfTheHorizontalLimbOfTheDiagonalBand",
   "name": "nucleus of the horizontal limb of the diagonal band",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_posteriorPretectalNucleus"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_posteriorPretectalNucleus",
   "name": "posterior pretectal nucleus",
   "ontologyIdentifier": null,

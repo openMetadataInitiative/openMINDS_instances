@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculus"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_superiorColliculus",
   "name": "superior colliculus",
   "ontologyIdentifier": null,

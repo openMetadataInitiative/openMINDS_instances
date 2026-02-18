@@ -1,0 +1,46 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/PW-RBSC-corT_v2004-Interaural-RSA",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion",
+  "abbreviation": "PW-RBSC-corT",
+  "accessibility": {
+    "@id": "https://openminds.om-i.org/instances/productAccessibility/paidAccess"
+  },
+  "anatomicalAxesOrientation": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RSA"
+  },
+  "axesOrigin": null,
+  "copyright": null,
+  "defaultImage": null,
+  "description": "This coordinate space of the coronal plates from Paxinos and Watson's 'Rat Brain in Stereotaxic Coordinates' uses the midpoint of the interaural line as its origin. The coordinates of the origin in the physical coordinate system of the rat brain could not be determined from the information provided in the atlas publication. Since the mediolateral axis of the coordinate system has positive values in either directions, two different coordinate systems were used - one left oriented and one right oriented. The X, Y and Z axes of this coordinate system are oriented towards the right, superior, anterior (positive mediolateral values describe the rat's right hemisphere), respectively.",
+  "digitalIdentifier": null,
+  "fullDocumentation": {
+    "@id": "https://openminds.om-i.org/instances/ISBN/0-12-547612-4"
+  },
+  "fullName": "Paxinos and Watson's Coronal Template of the Rat Brain in Stereotaxic Coordinates",
+  "funding": null,
+  "homepage": null,
+  "howToCite": "Paxinos, G. and Watson, C. (2004) The Rat Brain in Stereotaxic Coordinates. 5th Edition, Academic Press, San Diego.",
+  "isPrecededBy": null,
+  "isVariantOf": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/PW-RBSC-corT"
+  },
+  "keyword": null,
+  "nativeUnit": {
+    "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
+  },
+  "ontologyIdentifier": null,
+  "otherContribution": null,
+  "relatedPublication": null,
+  "releaseDate": "2004-11-10",
+  "repository": null,
+  "shortName": "Paxinos and Watson's Stereotaxic Coronal Template (Rat Brain)",
+  "supportChannel": null,
+  "usageCondition": null,
+  "usedSpecimen": null,
+  "versionIdentifier": "v2004 (Interaural, RSA)",
+  "versionInnovation": "This is the second version of the common coordinate space for the coronal plane atlas. From the 4th to the 5th edition of the Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates, the reference data (template) was changed (new adult male Wistar rat with a more complete coronal series) which resulted in a new common coordinate space version."
+}

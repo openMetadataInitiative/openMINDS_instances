@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rubroreticularTract"
-    }
-  ],
   "lookupLabel": "SwansonBM_rubroreticularTract",
   "name": "rubroreticular tract",
   "ontologyIdentifier": null,

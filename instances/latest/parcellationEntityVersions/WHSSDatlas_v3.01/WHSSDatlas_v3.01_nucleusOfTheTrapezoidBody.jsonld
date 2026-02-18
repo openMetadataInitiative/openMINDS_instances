@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_superiorOlivaryComplex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_nucleusOfTheTrapezoidBody"
+  },
   "lookupLabel": "WHSSDatlas_v3.01_nucleusOfTheTrapezoidBody",
   "name": "nucleus of the trapezoid body",
   "ontologyIdentifier": null,

@@ -56,6 +56,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_occipitalLobe"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_Q"
+  },
   "lookupLabel": "AAL1_SPM12-v4_Q",
   "name": "cuneus",
   "ontologyIdentifier": null,

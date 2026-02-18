@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_grayMatter"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_bedNucleusOfTheStriaTerminalis"
+  },
   "lookupLabel": "WHSSDatlas_v1.01_bedNucleusOfTheStriaTerminalis",
   "name": "bed nucleus of the stria terminalis",
   "ontologyIdentifier": null,

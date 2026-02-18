@@ -10,20 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_cornuAmmonis3"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_cornuAmmonis3"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_cornuAmmonis3"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_cornuAmmonis3"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_cornuAmmonis3",
   "name": "cornu ammonis 3",
   "ontologyIdentifier": null,

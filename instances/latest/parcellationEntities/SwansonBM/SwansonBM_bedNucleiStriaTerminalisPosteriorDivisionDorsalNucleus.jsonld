@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionDorsalNucleus"
-    }
-  ],
   "lookupLabel": "SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionDorsalNucleus",
   "name": "bed nuclei stria terminalis, posterior division, dorsal nucleus",
   "ontologyIdentifier": null,

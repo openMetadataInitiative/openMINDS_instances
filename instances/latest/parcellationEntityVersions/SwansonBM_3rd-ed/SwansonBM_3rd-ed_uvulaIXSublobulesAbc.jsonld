@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_uvulaIXSublobulesAbc"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_uvulaIXSublobulesAbc",
   "name": "uvula (IX), sublobules ab,c",
   "ontologyIdentifier": null,

@@ -56,6 +56,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_limbicLobe"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_PCIN"
+  },
   "lookupLabel": "AAL1_SPM12-v4_PCIN",
   "name": "posterior cingulate gyrus",
   "ontologyIdentifier": null,

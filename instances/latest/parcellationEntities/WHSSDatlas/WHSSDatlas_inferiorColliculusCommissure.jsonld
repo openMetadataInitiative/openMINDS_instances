@@ -11,23 +11,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_commissureOfTheInferiorColliculus"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_commissureOfTheInferiorColliculus"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_inferiorColliculusCommissure"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_inferiorColliculusCommissure"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_inferiorColliculusCommissure"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_inferiorColliculusCommissure",
   "name": "inferior colliculus, commissure",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_behavioralStateSystem"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_behavioralStateSystem",
   "name": "behavioral state system",
   "ontologyIdentifier": null,

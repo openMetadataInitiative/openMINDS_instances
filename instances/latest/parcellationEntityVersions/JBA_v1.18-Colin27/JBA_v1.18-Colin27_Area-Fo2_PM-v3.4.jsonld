@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_medialOrbitofrontalCortex"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-Fo2"
+  },
   "lookupLabel": "JBA_v1.18-Colin27_Area-Fo2_PM-v3.4",
   "name": "Area Fo2 (OFC)",
   "ontologyIdentifier": null,

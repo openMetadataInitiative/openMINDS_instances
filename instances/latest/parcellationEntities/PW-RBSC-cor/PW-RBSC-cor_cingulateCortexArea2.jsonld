@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_cingulateCortexArea2"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_cingulateCortexArea2",
   "name": "cingulate cortex, area 2",
   "ontologyIdentifier": null,

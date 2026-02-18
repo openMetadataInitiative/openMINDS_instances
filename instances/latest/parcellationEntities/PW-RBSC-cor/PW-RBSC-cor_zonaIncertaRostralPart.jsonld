@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_zonaIncertaRostralPart"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_zonaIncertaRostralPart",
   "name": "zona incerta, rostral part",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusKolliker"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_anteriorOlfactoryNucleusKolliker",
   "name": "anterior olfactory nucleus [Kölliker]",
   "ontologyIdentifier": null,

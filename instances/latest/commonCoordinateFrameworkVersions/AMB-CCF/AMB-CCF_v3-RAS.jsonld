@@ -1,0 +1,63 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/AMB-CCF_v3-RAS",
+  "@type": "https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion",
+  "abbreviation": "AMB CCF",
+  "accessibility": {
+    "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
+  },
+  "anatomicalAxesOrientation": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
+  },
+  "axesOrigin": [
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "value": 0.0
+    },
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "value": 0.0
+    },
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "value": 0.0
+    }
+  ],
+  "copyright": null,
+  "defaultImage": null,
+  "description": null,
+  "digitalIdentifier": null,
+  "fullDocumentation": null,
+  "fullName": "Allen Mouse Brain Common Coordinate Framework",
+  "funding": null,
+  "homepage": "https://portal.brain-map.org/",
+  "howToCite": "Wang Q, Ding S-L, Li Y, et al.; 'The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.'; Cell; May 2020; 181(4):936-953.e20. [doi: 10.1016/j.cell.2020.04.007](https://doi.org/10.1016/j.cell.2020.04.007)",
+  "isPrecededBy": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/AMB-CCF_v2"
+  },
+  "isVariantOf": [
+    {
+      "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/AMB-CCF_v3"
+    }
+  ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateFramework/AMB-CCF"
+  },
+  "keyword": null,
+  "nativeUnit": {
+    "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/micrometer"
+  },
+  "ontologyIdentifier": null,
+  "otherContribution": null,
+  "relatedPublication": null,
+  "releaseDate": "2015-05-01",
+  "repository": null,
+  "shortName": "Allen Mouse Brain CCF",
+  "supportChannel": null,
+  "usageCondition": null,
+  "usedSpecimen": null,
+  "versionIdentifier": "v3-RAS",
+  "versionInnovation": "The third version of the 'Allen Mouse Brain Common Coordinate Framework' (CCFv3-RAS) is a 3D reconstruction of a whole brain at 10µm resolution. This alternative CCFv3 version was transformed to RAS axes orientation."
+}

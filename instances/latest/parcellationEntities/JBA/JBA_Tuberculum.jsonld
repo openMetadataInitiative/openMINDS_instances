@@ -12,17 +12,6 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_olfactoryCortex"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-Colin27_Tuberculum_PM-v4.0"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-MNI152_Tuberculum_PM-v4.0"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.2-fsaverage_Tuberculum_PM-v4.0"
-    }
-  ],
   "lookupLabel": "JBA_Tuberculum",
   "name": "Tuberculum (Basal Forebrain)",
   "ontologyIdentifier": null,

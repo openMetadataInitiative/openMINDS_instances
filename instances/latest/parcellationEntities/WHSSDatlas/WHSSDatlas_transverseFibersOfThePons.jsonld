@@ -10,23 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v1.01_transverseFibersOfThePons"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_transverseFibersOfThePons"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_transverseFibersOfThePons"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_transverseFibersOfThePons"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_transverseFibersOfThePons"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_transverseFibersOfThePons",
   "name": "transverse fibers of the pons",
   "ontologyIdentifier": null,

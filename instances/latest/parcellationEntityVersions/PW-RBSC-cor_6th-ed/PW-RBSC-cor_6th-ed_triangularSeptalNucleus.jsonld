@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_triangularSeptalNucleus"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_triangularSeptalNucleus",
   "name": "triangular septal nucleus",
   "ontologyIdentifier": null,

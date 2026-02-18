@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_substantiaNigra"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_substantiaNigraCompactPart"
+  },
   "lookupLabel": "WHSSDatlas_v4_substantiaNigraCompactPart",
   "name": "substantia nigra, compact part",
   "ontologyIdentifier": null,

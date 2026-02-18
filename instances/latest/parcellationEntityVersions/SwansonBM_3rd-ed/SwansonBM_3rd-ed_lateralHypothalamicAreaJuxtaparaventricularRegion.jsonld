@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaJuxtaparaventricularRegion"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaparaventricularRegion",
   "name": "lateral hypothalamic area, juxtaparaventricular region",
   "ontologyIdentifier": null,

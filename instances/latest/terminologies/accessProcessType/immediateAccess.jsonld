@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/accessProcessType/immediateAccess",
+  "@type": "https://openminds.om-i.org/types/AccessProcessType",
+  "definition": "Automatic access upon acceptance of the applicable terms.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "immediate access",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

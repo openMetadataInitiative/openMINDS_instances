@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/accessEligibilityType",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "The terminology defining access eligibility type specifies whether a resource is openly available to anyone, requires authentication, or authorization.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "access eligibility type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

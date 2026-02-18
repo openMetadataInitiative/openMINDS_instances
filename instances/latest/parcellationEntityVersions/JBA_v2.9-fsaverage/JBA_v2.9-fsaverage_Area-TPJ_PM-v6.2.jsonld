@@ -53,6 +53,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_temporo-parietalJunction"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-TPJ"
+  },
   "lookupLabel": "JBA_v2.9-fsaverage_Area-TPJ_PM-v6.2",
   "name": "Area TPJ (STG/SMG)",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_primaryVisualCortex"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_primaryVisualCortex",
   "name": "primary visual cortex",
   "ontologyIdentifier": null,

@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexDorsalPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_lateralGeniculateComplexDorsalPart",
   "name": "lateral geniculate complex, dorsal part",
   "ontologyIdentifier": null,

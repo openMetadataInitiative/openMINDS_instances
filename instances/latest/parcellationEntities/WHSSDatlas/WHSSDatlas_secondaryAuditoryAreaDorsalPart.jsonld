@@ -10,17 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_secondaryAuditoryCortexDorsalArea"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_secondaryAuditoryCortexDorsalArea"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_secondaryAuditoryAreaDorsalPart"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_secondaryAuditoryAreaDorsalPart",
   "name": "secondary auditory area, dorsal part",
   "ontologyIdentifier": null,

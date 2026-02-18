@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/publicationStatus",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology defining the status of a resource in the publication lifecycle.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "publication status",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

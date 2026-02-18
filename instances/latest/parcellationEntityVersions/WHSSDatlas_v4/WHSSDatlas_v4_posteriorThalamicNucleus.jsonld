@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_posteriorComplexOfTheDorsalThalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_posteriorThalamicNucleus"
+  },
   "lookupLabel": "WHSSDatlas_v4_posteriorThalamicNucleus",
   "name": "posterior thalamic nucleus",
   "ontologyIdentifier": null,

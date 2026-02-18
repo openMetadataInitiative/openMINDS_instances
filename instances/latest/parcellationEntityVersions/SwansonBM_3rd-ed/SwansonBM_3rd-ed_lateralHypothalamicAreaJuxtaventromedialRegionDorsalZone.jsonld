@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegionDorsalZone"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaventromedialRegionDorsalZone",
   "name": "lateral hypothalamic area, juxtaventromedial region, dorsal zone",
   "ontologyIdentifier": null,

@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_metathalamus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_CGL"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_CGL_PM-v10.0",
   "name": "CGL (Metathalamus)",
   "ontologyIdentifier": null,

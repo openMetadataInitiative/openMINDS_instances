@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidFissure"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_choroidFissure",
   "name": "choroid fissure",
   "ontologyIdentifier": null,

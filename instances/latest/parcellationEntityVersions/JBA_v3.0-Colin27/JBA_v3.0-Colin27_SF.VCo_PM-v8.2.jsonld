@@ -57,6 +57,7 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_SF"
     }
   ],
+  "isVersionOf": null,
   "lookupLabel": "JBA_v3.0-Colin27_SF.VCo_PM-v8.2",
   "name": "SF.VCo (Amygdala)",
   "ontologyIdentifier": null,

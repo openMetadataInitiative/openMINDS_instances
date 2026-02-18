@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gracileNucleusMedianPartBischoff"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_gracileNucleusMedianPartBischoff",
   "name": "gracile nucleus, median part [Bischoff]",
   "ontologyIdentifier": null,

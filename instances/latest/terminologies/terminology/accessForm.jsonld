@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/accessForm",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology defining the manner in which access to a resource is facilitated.",
+  "description": "The terminology defining access form specifies whether users obtain access directly without intermediaries or through mediation by a third party.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "access form",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

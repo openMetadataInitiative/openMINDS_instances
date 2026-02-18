@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cerebralNuclei"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_nucleusOfTheStriaMedullaris"
+  },
   "lookupLabel": "WHSSDatlas_v3.01_nucleusOfTheStriaMedullaris",
   "name": "nucleus of the stria medullaris",
   "ontologyIdentifier": null,

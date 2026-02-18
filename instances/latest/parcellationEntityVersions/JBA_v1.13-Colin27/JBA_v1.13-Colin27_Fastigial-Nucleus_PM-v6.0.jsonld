@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_cerebellarNuclei"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Fastigial-Nucleus"
+  },
   "lookupLabel": "JBA_v1.13-Colin27_Fastigial-Nucleus_PM-v6.0",
   "name": "Fastigial Nucleus (Cerebellum)",
   "ontologyIdentifier": null,

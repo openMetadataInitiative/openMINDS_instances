@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_dorsalRapheNucleusCaudalPart"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_dorsalRapheNucleusCaudalPart",
   "name": "dorsal raphe nucleus, caudal part",
   "ontologyIdentifier": null,

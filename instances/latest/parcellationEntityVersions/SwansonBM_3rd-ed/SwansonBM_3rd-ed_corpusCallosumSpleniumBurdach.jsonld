@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumSpleniumBurdach"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_corpusCallosumSpleniumBurdach",
   "name": "corpus callosum, splenium [Burdach]",
   "ontologyIdentifier": null,

@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_hippocampalFormation"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_DG"
+  },
   "lookupLabel": "JBA_v2.4-MNI152_DG_PM-v11.1",
   "name": "DG (Hippocampus)",
   "ontologyIdentifier": null,

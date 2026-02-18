@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/anatomicalAtlasVersion/Schaefer-400p_2018-FSL-MNI152-kong17n",
+  "@type": "https://openminds.om-i.org/types/AnatomicalAtlasVersion",
+  "abbreviation": "Schaefer-400p",
+  "accessibility": {
+    "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
+  },
+  "coordinateFramework": null,
+  "copyright": null,
+  "description": null,
+  "digitalIdentifier": null,
+  "fullDocumentation": null,
+  "fullName": "Schaefer Atlas with 400 Parcellation",
+  "funding": null,
+  "hasTerminology": {
+    "@type": "https://openminds.om-i.org/types/ParcellationTerminologyVersion",
+    "dataLocation": null,
+    "hasEntity": null,
+    "ontologyIdentifier": null
+  },
+  "homepage": null,
+  "howToCite": null,
+  "isPrecededBy": null,
+  "isVariantOf": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAtlas/Schaefer-400p"
+  },
+  "keyword": null,
+  "majorVersionIdentifier": "2018",
+  "ontologyIdentifier": null,
+  "otherContribution": null,
+  "relatedPublication": null,
+  "releaseDate": null,
+  "repository": null,
+  "shortName": "Schaefer Atlas (400p)",
+  "supportChannel": null,
+  "type": {
+    "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
+  },
+  "usageCondition": [
+    {
+      "@id": "https://openminds.om-i.org/instances/licenses/MIT"
+    }
+  ],
+  "usedSpecimen": null,
+  "versionIdentifier": "2018, FSL-MNI152, kong17n",
+  "versionInnovation": null
+}

@@ -43,6 +43,7 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": null,
   "lookupLabel": "AMBA_CCFv3-2017_thalamusPolymodalAssociationCortexRelated",
   "name": "thalamus, polymodal association cortex related",
   "ontologyIdentifier": null,

@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_frontalCingulateGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-s32"
+  },
   "lookupLabel": "JBA_v3.0.2-Colin27_Area-s32_PM-v20.1",
   "name": "Area s32 (sACC)",
   "ontologyIdentifier": null,

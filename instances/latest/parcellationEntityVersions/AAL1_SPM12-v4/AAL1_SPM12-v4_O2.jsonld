@@ -56,6 +56,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_occipitalLobe"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_O2"
+  },
   "lookupLabel": "AAL1_SPM12-v4_O2",
   "name": "middle occipital gyrus",
   "ontologyIdentifier": null,

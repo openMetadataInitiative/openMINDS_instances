@@ -57,6 +57,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_granularInsula"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-Ig3"
+  },
   "lookupLabel": "JBA_v3.0.2-MNI152_Area-Ig3_PM-v5.1",
   "name": "Area Ig3 (Insula)",
   "ontologyIdentifier": null,

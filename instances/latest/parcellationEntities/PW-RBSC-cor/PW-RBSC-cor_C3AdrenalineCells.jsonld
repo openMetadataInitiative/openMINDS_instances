@@ -8,11 +8,6 @@
   "alternateName": null,
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/PW-RBSC-cor_6th-ed_C3AdrenalineCells"
-    }
-  ],
   "lookupLabel": "PW-RBSC-cor_C3AdrenalineCells",
   "name": "C3 adrenaline cells",
   "ontologyIdentifier": null,

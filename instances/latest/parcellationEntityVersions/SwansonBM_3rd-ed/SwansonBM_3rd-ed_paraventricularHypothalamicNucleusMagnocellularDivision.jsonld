@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMagnocellularDivision"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMagnocellularDivision",
   "name": "paraventricular hypothalamic nucleus, magnocellular division",
   "ontologyIdentifier": null,

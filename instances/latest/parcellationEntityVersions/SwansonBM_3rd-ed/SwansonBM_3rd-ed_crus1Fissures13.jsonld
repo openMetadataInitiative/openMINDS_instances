@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_crus1Fissures13"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_crus1Fissures13",
   "name": "crus 1, fissures 1-3",
   "ontologyIdentifier": null,

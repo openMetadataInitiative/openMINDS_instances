@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_innerEar"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_vestibularNerve"
+  },
   "lookupLabel": "WHSSDatlas_v3_vestibularNerve",
   "name": "vestibular nerve",
   "ontologyIdentifier": null,

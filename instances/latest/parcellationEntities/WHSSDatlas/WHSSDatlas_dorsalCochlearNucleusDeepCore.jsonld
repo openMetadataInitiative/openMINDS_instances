@@ -10,17 +10,6 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_dorsalCochlearNucleusDeepCore"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_dorsalCochlearNucleusDeepCore"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_dorsalCochlearNucleusDeepCore"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_dorsalCochlearNucleusDeepCore",
   "name": "dorsal cochlear nucleus, deep core",
   "ontologyIdentifier": null,

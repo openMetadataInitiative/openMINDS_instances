@@ -43,6 +43,7 @@
     }
   ],
   "hasParent": null,
+  "isVersionOf": null,
   "lookupLabel": "AMBA_CCFv3-2015_crus1GranularLayer",
   "name": "crus 1, granular layer",
   "ontologyIdentifier": null,

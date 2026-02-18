@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_laterodorsalTegmentalNucleus"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_laterodorsalTegmentalNucleus",
   "name": "laterodorsal tegmental nucleus",
   "ontologyIdentifier": null,

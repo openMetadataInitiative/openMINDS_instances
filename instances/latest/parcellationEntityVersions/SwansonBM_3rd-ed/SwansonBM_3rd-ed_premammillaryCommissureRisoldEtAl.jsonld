@@ -10,6 +10,9 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_premammillaryCommissureRisoldEtAl"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_premammillaryCommissureRisoldEtAl",
   "name": "premammillary commissure [Risold et al.]",
   "ontologyIdentifier": null,

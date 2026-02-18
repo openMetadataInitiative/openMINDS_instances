@@ -14,14 +14,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_medialPrefrontalCortex"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area14OfCortexRostralPart"
-    }
-  ],
   "lookupLabel": "MarmosetNMA_area14OfCortexRostralPart",
   "name": "area 14 of cortex rostral part",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
-

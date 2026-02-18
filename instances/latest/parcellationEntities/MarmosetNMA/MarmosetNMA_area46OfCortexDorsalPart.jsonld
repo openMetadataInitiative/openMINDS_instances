@@ -14,14 +14,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_dorsolateralPrefrontalCortex"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area46OfCortexDorsalPart"
-    }
-  ],
   "lookupLabel": "MarmosetNMA_area46OfCortexDorsalPart",
   "name": "area 46 of cortex dorsal part",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": null
 }
-

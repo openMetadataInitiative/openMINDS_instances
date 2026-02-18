@@ -15,11 +15,6 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_occipitalLobe"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_V1"
-    }
-  ],
   "lookupLabel": "AAL1_V1",
   "name": "calcarine fissure and surrounding cortex",
   "ontologyIdentifier": null,

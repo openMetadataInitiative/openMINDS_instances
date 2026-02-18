@@ -49,6 +49,9 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_globusPallidusExternal"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_globusPallidusExternalMedialPart"
+  },
   "lookupLabel": "WHSSDatlas_v4_globusPallidusExternalMedialPart",
   "name": "globus pallidus external, medial part",
   "ontologyIdentifier": null,
