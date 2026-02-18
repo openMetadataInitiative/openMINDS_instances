@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SignalDirectionality/transception.jsonld",
+  "@type": "https://openminds.om-i.org/types/SignalDirectionality",
+  "definition": "Transception refers to the process of sending and receiving a signal.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "transception",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "transmitter",
+    "transmit"
+  ]
+}

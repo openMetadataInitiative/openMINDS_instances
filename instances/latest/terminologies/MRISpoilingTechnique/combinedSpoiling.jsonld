@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/MRISpoilingMethod/CombinedSpoiling.jsonld",
-  "@type": "https://openminds.om-i.org/types/MRISpoilingMethod",
+  "@id": "https://openminds.om-i.org/instances/MRISpoilingTechnique/CombinedSpoiling.jsonld",
+  "@type": "https://openminds.om-i.org/types/MRISpoilingTechnique",
   "definition": "Spoiling performed by using ba combination the radio-frequency spoiling method and the gradient spoiling method.",
   "description": null,
   "interlexIdentifier": null,

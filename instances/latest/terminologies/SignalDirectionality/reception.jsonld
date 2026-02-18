@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SignalDirectionality/reception.jsonld",
+  "@type": "https://openminds.om-i.org/types/SignalDirectionality",
+  "definition": "Reception refers to the process of receiving and interpreting a signal.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "reception",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "receiver",
+    "receive"
+  ]
+}

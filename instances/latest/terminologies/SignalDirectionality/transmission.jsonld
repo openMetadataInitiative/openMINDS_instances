@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SignalDirectionality/transmission.jsonld",
+  "@type": "https://openminds.om-i.org/types/SignalDirectionality",
+  "definition": "Transmission refers to the process of sending and propagating a signal.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "transmission",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "transmitter",
+    "transmit"
+  ]
+}
