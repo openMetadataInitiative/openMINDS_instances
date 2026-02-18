@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationClause/waiver",
+  "@type": "https://openminds.om-i.org/types/ModificationClause",
+  "definition": "A voluntary relinquishment of a contractual right by a party, effectively modifying how the affected term applies.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "waiver",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

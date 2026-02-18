@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationClause/bilateralAmendment",
+  "@type": "https://openminds.om-i.org/types/ModificationClause",
+  "definition": "A formal change to the agreement that requires the explicit written consent of all parties.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "bilateral amendment",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

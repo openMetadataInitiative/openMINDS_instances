@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationClause/noticeRequirement",
+  "@type": "https://openminds.om-i.org/types/ModificationClause",
+  "definition": "A clause obligating a party to provide advance notice before a modification or amendment becomes effective.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "notice requirement",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

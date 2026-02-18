@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationClause/modifiableTerms",
+  "@type": "https://openminds.om-i.org/types/ModificationClause",
+  "definition": "Contract sections that the parties are allowed to change in accordance with the modification rules.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "modifiable terms",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

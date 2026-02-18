@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationClause/non-negotiableTerms",
+  "@type": "https://openminds.om-i.org/types/ModificationClause",
+  "definition": "Contract sections that cannot be altered or negotiated by either party under any circumstances.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "non-negotiable terms",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

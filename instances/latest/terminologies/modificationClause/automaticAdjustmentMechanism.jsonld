@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationClause/automaticAdjustmentMechanism",
+  "@type": "https://openminds.om-i.org/types/ModificationClause",
+  "definition": "A provision that causes certain terms to change automatically when predefined conditions or triggers occur.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "automatic adjustment mechanism",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

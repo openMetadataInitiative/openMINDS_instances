@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationClause/writtenModificationRequirement",
+  "@type": "https://openminds.om-i.org/types/ModificationClause",
+  "definition": "A rule stating that any modification to the agreement is only valid if documented in writing.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "written modification requirement",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

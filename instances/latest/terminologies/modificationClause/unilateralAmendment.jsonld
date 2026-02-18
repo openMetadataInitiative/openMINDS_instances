@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationClause/unilateralAmendment",
+  "@type": "https://openminds.om-i.org/types/ModificationClause",
+  "definition": "A formally permitted change to certain terms that one party may implement without the other party's approval.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "unilateral amendment",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
