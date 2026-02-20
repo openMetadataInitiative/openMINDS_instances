@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deviceMountingType/builtIn?jsonld",
+  "@type": "https://openminds.om-i.org/types/DeviceMountingType",
+  "definition": "A device is considered 'built-in' when is integrated into a larger structure or another device.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "built-in",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

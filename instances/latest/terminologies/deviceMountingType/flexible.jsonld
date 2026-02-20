@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deviceMountingType/flexible.jsonld",
+  "@type": "https://openminds.om-i.org/types/DeviceMountingType",
+  "definition": "A flexible mounted device changes its shape to cover the surface of whatever entity it is mounted on.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "flexible",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
