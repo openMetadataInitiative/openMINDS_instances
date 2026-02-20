@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/externalBodyRegion/neck.jsonld",
+  "@type": "https://openminds.om-i.org/types/ExternalBodyRegion",
+  "definition": "An organism subdivision that extends from the head to the pectoral girdle, encompassing the cervical vertebral column. [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000974)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "neck",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000974",
+  "synonym": null
+}

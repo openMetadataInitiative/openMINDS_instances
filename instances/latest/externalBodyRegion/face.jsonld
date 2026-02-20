@@ -1,0 +1,15 @@
+{
+    "@context": {
+      "@vocab": "https://openminds.om-i.org/props/"
+    },
+    "@id": "https://openminds.om-i.org/instances/externalBodyRegion/face.jsonld",
+    "@type": "https://openminds.om-i.org/types/ExternalBodyRegion",
+    "definition": "A subdivision of the head that has as parts the layers deep to the surface of the anterior surface, including the mouth, eyes, and nose (when present). In vertebrates, this includes the facial skeleton and structures superficial to the facial skeleton (cheeks, mouth, eyeballs, skin of face, etc). [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001456)]",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "face",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001456",
+    "synonym": null
+  }
+  
