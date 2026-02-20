@@ -2,16 +2,17 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/SignalDirectionality/transmission.jsonld",
+  "@id": "https://openminds.om-i.org/instances/signalDirectionality/receiveOnly.jsonld",
   "@type": "https://openminds.om-i.org/types/SignalDirectionality",
-  "definition": "Transmission refers to the process of sending and propagating a signal.",
+  "definition": "Receive-only devices (or receivers) are used to receive a signal without transmitting.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "transmission",
+  "name": "receiveOnly",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "transmitter",
-    "transmit"
+    "receive-only",
+    "receive",
+    "receiver"
   ]
 }

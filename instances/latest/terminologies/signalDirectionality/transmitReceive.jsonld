@@ -2,16 +2,17 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/SignalDirectionality/reception.jsonld",
+  "@id": "https://openminds.om-i.org/instances/signalDirectionality/transmitReceive.jsonld",
   "@type": "https://openminds.om-i.org/types/SignalDirectionality",
-  "definition": "Reception refers to the process of receiving and interpreting a signal.",
+  "definition": "Transmit-receive devices are used to transmit and receive a signal.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "reception",
+  "name": "transmitReceive",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "receiver",
-    "receive"
+    "transceiver",
+    "transmit-receive",
+    "transmitter-receiver"
   ]
 }

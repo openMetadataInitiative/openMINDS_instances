@@ -2,16 +2,17 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/SignalDirectionality/transception.jsonld",
+  "@id": "https://openminds.om-i.org/instances/signalDirectionality/transmitOnly.jsonld",
   "@type": "https://openminds.om-i.org/types/SignalDirectionality",
-  "definition": "Transception refers to the process of sending and receiving a signal.",
+  "definition": "Transmit-only devicees are used to send a signal without receiving one.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "transception",
+  "name": "transmitOnly",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "transmitter",
-    "transmit"
+    "transmit-only",
+    "transmit",
+    "transmitter"
   ]
 }
