@@ -1,17 +1,17 @@
 {
-    "@context": {
-      "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@id": "https://openminds.om-i.org/instances/MRIFatSuppressionTechnique/Dixon.jsonld",
-    "@type": "https://openminds.om-i.org/types/MRIFatSuppressionTechnique",
-    "definition": "The Dixon technique uses the difference in phase resonances between fat and water by acquiring multiple echoes and using mathematical algorithms.",
-    "description": null,
-    "interlexIdentifier": null,
-    "knowledgeSpaceLink": null,
-    "name": "Dixon",
-    "preferredOntologyIdentifier": null,
-    "synonym": [
-      "Dixon technique",
-      "IDEAL"
-    ]
-  }
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIFatSuppressionTechnique/Dixon.jsonld",
+  "@type": "https://openminds.om-i.org/types/MRIFatSuppressionTechnique",
+  "definition": "The Dixon technique uses the difference in phase resonances between fat and water by acquiring multiple echoes and using mathematical algorithms.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Dixon",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Dixon technique",
+    "IDEAL"
+  ]
+}

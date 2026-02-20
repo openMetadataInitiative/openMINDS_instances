@@ -1,17 +1,17 @@
 {
-    "@context": {
-      "@vocab": "https://openminds.om-i.org/props/"
-    },
-    "@id": "https://openminds.om-i.org/instances/MRIFatSuppressionTechnique/CHESS.jsonld",
-    "@type": "https://openminds.om-i.org/types/MRIFatSuppressionTechnique",
-    "definition": "The CHESS (Fat-Sat) technique uses the difference in resonance frequency between fat and water by means of frequency selective pulses.",
-    "description": null,
-    "interlexIdentifier": null,
-    "knowledgeSpaceLink": null,
-    "name": "CHESS",
-    "preferredOntologyIdentifier": null,
-    "synonym": [
-      "Fat-Sat",
-      "FS"
-    ]
-  }
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIFatSuppressionTechnique/CHESS.jsonld",
+  "@type": "https://openminds.om-i.org/types/MRIFatSuppressionTechnique",
+  "definition": "The CHESS (Fat-Sat) technique uses the difference in resonance frequency between fat and water by means of frequency selective pulses.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "CHESS",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Fat-Sat",
+    "FS"
+  ]
+}
