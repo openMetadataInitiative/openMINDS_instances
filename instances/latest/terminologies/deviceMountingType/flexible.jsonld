@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/deviceMountingType/flexible.jsonld",
+  "@id": "https://openminds.om-i.org/instances/deviceMountingType/flexible",
   "@type": "https://openminds.om-i.org/types/DeviceMountingType",
   "definition": "A flexible mounted device changes its shape to cover the surface of whatever entity it is mounted on.",
   "description": null,
