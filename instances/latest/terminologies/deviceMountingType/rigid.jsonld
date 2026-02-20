@@ -1,6 +1,6 @@
 {
   "@context": {
-      "@vocab": "https://openminds.om-i.org/props/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.om-i.org/instances/deviceMountingType/rigid.jsonld",
   "@type": "https://openminds.om-i.org/types/DeviceMountingType",
