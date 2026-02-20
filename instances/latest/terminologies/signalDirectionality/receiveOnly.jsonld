@@ -8,11 +8,11 @@
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "receiveOnly",
+  "name": "receive-only",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "receive-only",
     "receive",
+    "receive only",
     "receiver"
   ]
 }

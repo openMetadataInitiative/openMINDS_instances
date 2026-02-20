@@ -8,11 +8,11 @@
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "transmitOnly",
+  "name": "transmit-only",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "transmit-only",
     "transmit",
+    "transmit only",
     "transmitter"
   ]
 }

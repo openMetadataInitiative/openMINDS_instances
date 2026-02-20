@@ -8,11 +8,11 @@
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "transmitReceive",
+  "name": "transmit-receive",
   "preferredOntologyIdentifier": null,
   "synonym": [
     "transceiver",
-    "transmit-receive",
+    "transmit receive",
     "transmitter-receiver"
   ]
 }
