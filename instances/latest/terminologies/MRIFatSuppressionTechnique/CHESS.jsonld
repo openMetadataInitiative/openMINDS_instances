@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/MRIFatSuppressionTechnique/CHESS.jsonld",
+  "@id": "https://openminds.om-i.org/instances/MRIFatSuppressionTechnique/CHESS",
   "@type": "https://openminds.om-i.org/types/MRIFatSuppressionTechnique",
   "definition": "The CHESS (Fat-Sat) technique uses the difference in resonance frequency between fat and water by means of frequency selective pulses.",
   "description": null,

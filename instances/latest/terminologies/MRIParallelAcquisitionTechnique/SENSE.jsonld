@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/MRIParallelAcquisitionTechnique/SENSE.jsonld",
+  "@id": "https://openminds.om-i.org/instances/MRIParallelAcquisitionTechnique/SENSE",
   "@type": "https://openminds.om-i.org/types/MRIParallelAcquisitionTechnique",
   "definition": "SENSE (SENSitivity Encoding) is a parallel imaging technique that uses coil sensitivity profiles to reconstruct images from undersampled data.",
   "description": null,

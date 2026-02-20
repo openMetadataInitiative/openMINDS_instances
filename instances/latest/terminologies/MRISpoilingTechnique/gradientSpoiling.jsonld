@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/MRISpoilingTechnique/GradientSpoiling.jsonld",
+  "@id": "https://openminds.om-i.org/instances/MRISpoilingTechnique/gradientSpoiling",
   "@type": "https://openminds.om-i.org/types/MRISpoilingTechnique",
   "definition": "Spoiling performed by applying the slice-select gradients with variable amplitudes at the end of each cycle.",
   "description": null,

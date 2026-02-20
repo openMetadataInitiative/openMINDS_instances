@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/pulseShape/sincPulse.jsonld",
+  "@id": "https://openminds.om-i.org/instances/pulseShape/sincPulse",
   "@type": "https://openminds.om-i.org/types/PulseShape",
   "definition": "A pulse shaped by a sinc function.",
   "description": null,

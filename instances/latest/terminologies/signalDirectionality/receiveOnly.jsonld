@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/signalDirectionality/receiveOnly.jsonld",
+  "@id": "https://openminds.om-i.org/instances/signalDirectionality/receiveOnly",
   "@type": "https://openminds.om-i.org/types/SignalDirectionality",
   "definition": "Receive-only devices (or receivers) are used to receive a signal without transmitting.",
   "description": null,

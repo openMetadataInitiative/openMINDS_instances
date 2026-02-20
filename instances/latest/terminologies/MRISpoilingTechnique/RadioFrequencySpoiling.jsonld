@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/MRISpoilingTechnique/RadioFrequencySpoiling.jsonld",
+  "@id": "https://openminds.om-i.org/instances/MRISpoilingTechnique/RadioFrequencySpoiling",
   "@type": "https://openminds.om-i.org/types/MRISpoilingTechnique",
   "definition": "Spoiling performed by changing the phase of the Radio-Frequency carrier according to a predefined formula from view to view.",
   "description": null,
