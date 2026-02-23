@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/signalDirectionality/signal-transmitting",
   "@type": "https://openminds.om-i.org/types/SignalDirectionality",
-  "definition": "Transmit-only devicees are used to send a signal without receiving one.",
+  "definition": "A signal directionality mode in which a device generates and emits signals toward an external system, medium, or target.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
