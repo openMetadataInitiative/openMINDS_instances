@@ -14,5 +14,10 @@
     "brain coil",
     "cranial coil",
     "head MRI coil"
-  ]
+  "synonym": [
+    "magnetic resonance imaging auxiliary gradient coil",
+    "magnetic resonance imaging insert gradient coil",
+    "magnetic resonance imaging local gradient coil",
+    "MRI auxiliary gradient coil",
+    "MRI local gradient coil"
 }
