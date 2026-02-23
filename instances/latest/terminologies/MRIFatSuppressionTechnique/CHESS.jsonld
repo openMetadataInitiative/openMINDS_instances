@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/MRIFatSuppressionTechnique/chemicalShiftSelectiveSuppression",
   "@type": "https://openminds.om-i.org/types/MRIFatSuppressionTechnique",
-  "definition": "The CHESS (Fat-Sat) technique uses the difference in resonance frequency between fat and water by means of frequency selective pulses.",
+  "definition": "A classical frequency-selective fat saturation technique that suppresses fat signal by applying a narrowband radiofrequency pulse tuned to the fat resonance frequency prior to image acquisition.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
