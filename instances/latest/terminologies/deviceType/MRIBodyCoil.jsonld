@@ -14,5 +14,11 @@
     "body coil",
     "body MRI coil",
     "whole-body coil"
-  ]
+  "synonym": [
+    "magnetic resonance imaging active shim coil",
+    "magnetic resonance imaging field-shimming coil",
+    "magnetic resonance imaging magnetic shim coil",
+    "MRI active shim coil",
+    "MRI field-shimming coil",
+    "MRI magnetic shim coil"
 }
