@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/pulseShape/rectangularPulse",
   "@type": "https://openminds.om-i.org/types/PulseShape",
-  "definition": "Unshaped waveform. A very brief, strong, rectangular pulse",
+  "definition": "A pulse with constant amplitude over its duration and abrupt onset and offset transitions.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
