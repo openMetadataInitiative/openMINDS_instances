@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/projectType/grantProject",
+  "@type": "https://openminds.om-i.org/types/ProjectType",
+  "definition": "A time-limited, externally funded project defined primarily by the formal objectives, conditions, and reporting requirements of a sponsoring organization.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "grant project",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
