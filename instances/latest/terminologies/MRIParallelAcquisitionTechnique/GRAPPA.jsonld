@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/MRIParallelAcquisitionTechnique/GRAPPA",
+  "@id": "https://openminds.om-i.org/instances/MRIParallelAcquisitionTechnique/generalizedAutocalibratingPartiallyParallelAcquisition",
   "@type": "https://openminds.om-i.org/types/MRIParallelAcquisitionTechnique",
   "definition": "GRAPPA (GeneRalized Autocalibrating Partial Parallel Acquisitions) is a parallel imaging technique that reconstructs full images from undersampled k-space data.",
   "description": null,
