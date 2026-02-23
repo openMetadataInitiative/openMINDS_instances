@@ -5,7 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/spatialEncoding/one-dimensionalPhaseEncoding",
   "@type": "https://openminds.om-i.org/types/SpatialEncoding",
   "definition": "A spatial encoding method in which position along a single dimension is represented by controlled phase shifts of the signal.",
-  "description": null,
+  "description": "In one-dimensional phase encoding, spatial position is encoded through accumulated phase differences. A preparatory gradient or modulation step introduces position-dependent phase offsets. These phase shifts are sampled over repeated measurements. Spatial information is recovered through Fourier or phase-sensitive reconstruction. This method is commonly used when frequency-based encoding is impractical or insufficient.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Phase encoding",
