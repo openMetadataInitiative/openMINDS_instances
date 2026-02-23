@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/pulseShape/Gaussian-HanningPulse",
   "@type": "https://openminds.om-i.org/types/PulseShape",
-  "definition": "A Gaussian pulse with a Hanning window",
+  "definition": "A composite pulse formed by applying a Hanning window to a Gaussian pulse envelope.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
