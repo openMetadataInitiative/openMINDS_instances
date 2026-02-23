@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/deviceMountingType/form-stableMounting",
   "@type": "https://openminds.om-i.org/types/DeviceMountingType",
-  "definition": "A rigid mounted device does not adapt its shape to the body part or other entity it is mounted on.",
+  "definition": "A mounting configuration in which the device retains a fixed geometry and does not conform to the surface shape of the host structure.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
