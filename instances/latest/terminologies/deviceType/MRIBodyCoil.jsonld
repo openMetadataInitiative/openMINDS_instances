@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/deviceType/MRIShimCoil",
   "@type": "https://openminds.om-i.org/types/DeviceType",
-  "definition": "Type of volume coil optimized for uniform radiofrequency transmission and/or reception across large anatomical regions, typically encompassing the torso or entire body.",
+  "definition": "An electromagnetic coil system used to generate corrective magnetic fields that improve static magnetic field (B₀) homogeneity in magnetic resonance imaging (MRI).",
   "description": "Body coils are integrated volume coils typically built into the bore of an MRI scanner to provide homogeneous B1 field distribution across extensive anatomical areas. They are often used as transmit or transmit/receive coils for imaging the torso and whole body, and frequently serve as the system's default transmit coil when combined with local receive arrays. Their large geometry ensures consistent excitation and reception, enabling high-quality imaging across diverse body regions and supporting calibration or reference functions in multi-coil setups.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
