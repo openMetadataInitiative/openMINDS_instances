@@ -11,8 +11,6 @@
   "name": "Gaussian-Hanning pulse",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "Gaussian Hanning pulse",
-    "GaussHann",
-    "GAUSSHANN"
+    "Hanning-windowed Gaussian pulse"
   ]
 }
