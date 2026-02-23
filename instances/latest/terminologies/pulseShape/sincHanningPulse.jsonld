@@ -5,7 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/pulseShape/sinc-HanningPulse",
   "@type": "https://openminds.om-i.org/types/PulseShape",
   "definition": "A composite pulse formed by modulating a sinc pulse with a Hanning window.",
-  "description": null,
+  "description": "A sinc-Hanning pulse applies a Hanning window to a sinc waveform. The window smooths the pulse edges and suppresses spectral sidelobes. This reduces ringing artifacts compared to a simple truncated sinc. The central excitation profile remains governed by the sinc component. The pulse is used in applications requiring improved spectral control.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "sinc-Hanning pulse",
