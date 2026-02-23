@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.bids.connectivity",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": [
+    {
+      "@id": "https://openminds.om-i.org/instances/dataType/matrix"
+    }
+  ],
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".tsv",
+    ".json",
+    ".h5",
+    ".zarr"
+  ],
+  "name": "application/vnd.bids.connectivity",
+  "relatedMediaType": null,
+  "specification": "https://docs.google.com/document/d/1ugBdUF6dhElXdj3u9vw0iWjE6f_Bibsro3ah7sRV0GA/edit?tab=t.0#heading=h.mqkmyp254xh6",
+  "synonym": [
+    "BIDS relationship matrix data"
+  ]
+}
