@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/laboratoryAssistance",
+  "@id": "https://openminds.om-i.org/instances/contributionType/scientificWriting",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Supporting laboratory operations including preparation, equipment handling, sample processing, and day-to-day experimental tasks.",
+  "definition": "Drafting and editing scholarly content such as manuscripts, reports, or scientific articles intended for academic dissemination.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "laboratory assistance",
+  "name": "scientific writing",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

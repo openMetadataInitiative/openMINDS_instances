@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/laboratoryAssistance",
+  "@id": "https://openminds.om-i.org/instances/contributionType/studyDesign",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Supporting laboratory operations including preparation, equipment handling, sample processing, and day-to-day experimental tasks.",
+  "definition": "Conceptualizing and planning the structure, methodology, and approach of a study or experiment.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "laboratory assistance",
+  "name": "study design",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

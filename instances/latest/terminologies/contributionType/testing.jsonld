@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/laboratoryAssistance",
+  "@id": "https://openminds.om-i.org/instances/contributionType/testing",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Supporting laboratory operations including preparation, equipment handling, sample processing, and day-to-day experimental tasks.",
+  "definition": "Systematically evaluating the functionality, accuracy, and reliability of a digital product to identify defects, inconsistencies, and bugs.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "laboratory assistance",
+  "name": "testing",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

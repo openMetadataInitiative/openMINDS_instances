@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/laboratoryAssistance",
+  "@id": "https://openminds.om-i.org/instances/contributionType/veterinaryMedicine",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Supporting laboratory operations including preparation, equipment handling, sample processing, and day-to-day experimental tasks.",
+  "definition": "Applying veterinary medical expertise to support the health, treatment, and ethical use of animals.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "laboratory assistance",
+  "name": "veterinary medicine",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
