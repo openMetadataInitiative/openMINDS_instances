@@ -8,7 +8,7 @@
   "description": "An MRI system gradient coil is permanently integrated into the scanner structure and forms the main source of spatially varying magnetic fields for imaging. It generates rapidly switching magnetic field gradients along three orthogonal axes to enable spatial localization of the MRI signal. The design prioritizes whole-volume coverage, thermal stability, and mechanical robustness. In most systems, it operates continuously during image acquisition in coordination with the main magnet and radiofrequency (RF) subsystems. MRI system gradient coils are typically integrated and mounted in a form-stable, non-conformable configuration to maintain geometric and electromagnetic stability.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "MRI extremity coil",
+  "name": "MRI system gradient coil",
   "preferredOntologyIdentifier": null,
   "synonym": [
     "knee/ankle/wrist coil",
