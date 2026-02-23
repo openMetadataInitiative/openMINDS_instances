@@ -8,7 +8,7 @@
   "description": "An MRI shim coil produces small, adjustable magnetic field components within the imaging volume to compensate for spatial inhomogeneities of the main magnetic field. These corrective fields improve spectral resolution, signal stability, and overall image quality. In modern systems, shim coils are actively controlled and adjusted during system calibration and examination setup. Shimming parameters may be optimized globally or locally depending on the imaging protocol. Such coils are typically integrated into the scanner structure and operate continuously or intermittently as required by system design.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "MRI body coil",
+  "name": "MRI shim coil",
   "preferredOntologyIdentifier": null,
   "synonym": [
     "body coil",
