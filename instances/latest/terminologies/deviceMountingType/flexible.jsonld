@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/deviceMountingType/conformableMounting",
   "@type": "https://openminds.om-i.org/types/DeviceMountingType",
-  "definition": "A flexible mounted device changes its shape to cover the surface of whatever entity it is mounted on.",
+  "definition": "A mounting configuration in which the device or its mounting interface deforms to conform to the surface geometry of the host structure.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
