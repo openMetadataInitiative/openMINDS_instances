@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/signalDirectionality/transmitReceive",
+  "@id": "https://openminds.om-i.org/instances/signalDirectionality/signal-transceiving",
   "@type": "https://openminds.om-i.org/types/SignalDirectionality",
   "definition": "Transmit-receive devices are used to transmit and receive a signal.",
   "description": null,
