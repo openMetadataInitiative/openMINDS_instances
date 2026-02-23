@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/spatialEncoding/phaseEncoding",
+  "@id": "https://openminds.om-i.org/instances/spatialEncoding/one-dimensionalPhaseEncoding",
   "@type": "https://openminds.om-i.org/types/SpatialEncoding",
   "definition": "Gradients establish a direct relationship between phase and spatial position, a process referred to as phase encoding.",
   "description": null,
