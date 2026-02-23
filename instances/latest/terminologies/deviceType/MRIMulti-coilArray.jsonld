@@ -11,9 +11,14 @@
   "name": "MRI RF multi-array coil",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "MRI array coil",
-    "MRI multicoil array",
-    "multi-channel coil",
-    "phased-array coil"
+    "magnetic resonance imaging array radiofrequency coil",
+    "magnetic resonance imaging multi-array radiofrequency coil",
+    "magnetic resonance imaging multi-channel radiofrequency coil",
+    "magnetic resonance imaging radiofrequency multi-coil array",
+    "MRI array RF coil",
+    "MRI multi-array RF coil",
+    "MRI multi-channel RF coil",
+    "MRI RF array coil",
+    "MRI RF multi-coil array"
   ]
 }
