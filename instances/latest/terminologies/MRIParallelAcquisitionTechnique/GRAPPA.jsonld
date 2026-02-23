@@ -11,9 +11,6 @@
   "name": "generalized autocalibrating partially parallel acquisition",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "ARC",
-    "Autocalibrating Reconstruction for Cartesian imaging",
-    "EXSPER",
-    "GeneRalized Autocalibrating Partial Parallel Acquisitions"
+    "GRAPPA"
   ]
 }
