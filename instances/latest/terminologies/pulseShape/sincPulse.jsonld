@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "sinc pulse",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "sinc-shaped pulse"
+  ]
 }
