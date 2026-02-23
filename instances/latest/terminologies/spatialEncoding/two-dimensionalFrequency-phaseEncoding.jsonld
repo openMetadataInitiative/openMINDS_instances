@@ -2,16 +2,16 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/spatialEncoding/two-dimensionalFrequency–phaseEncoding",
+  "@id": "https://openminds.om-i.org/instances/spatialEncoding/two-dimensionalFrequency-phaseEncoding",
   "@type": "https://openminds.om-i.org/types/SpatialEncoding",
   "definition": "A spatial encoding method in which position in two dimensions is represented using frequency encoding along one axis and phase encoding along a second axis.",
-  "description": "In two-dimensional frequency–phase encoding, one spatial direction is mapped to signal frequency and the other to signal phase. A readout gradient establishes frequency encoding, while stepped gradients impose phase encoding. Multiple acquisitions are combined to sample the two-dimensional encoding space. Reconstruction converts frequency and phase information into planar spatial coordinates. This approach is widely used in two-dimensional imaging and mapping applications.",
+  "description": "In two-dimensional frequency-phase encoding, one spatial direction is mapped to signal frequency and the other to signal phase. A readout gradient establishes frequency encoding, while stepped gradients impose phase encoding. Multiple acquisitions are combined to sample the two-dimensional encoding space. Reconstruction converts frequency and phase information into planar spatial coordinates. This approach is widely used in two-dimensional imaging and mapping applications.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "two-dimensional frequency–phase encoding",
+  "name": "two-dimensional frequency-phase encoding",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "2D frequency–phase encoding",
+    "2D frequency-phase encoding",
     "two-dimensional frequency and phase encoding"
   ]
 }
