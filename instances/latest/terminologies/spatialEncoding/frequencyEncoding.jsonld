@@ -5,7 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/spatialEncoding/one-dimensionalFrequencyEncoding",
   "@type": "https://openminds.om-i.org/types/SpatialEncoding",
   "definition": "A spatial encoding method in which position along a single dimension is represented by differences in signal frequency.",
-  "description": "In MRI, gradients generate a controlled variation in the magnetic field strength across the imaging volume. Each location along the gradient direction corresponds to a unique frequency in the received MR signal. This process, known as frequency encoding, allows spatial information to be extracted from the signal during image reconstruction. Primarily used in specialized applications like spectroscopy.",
+  "description": "In one-dimensional frequency encoding, spatial location is mapped directly to frequency components of the detected signal. A spatially varying field or gradient establishes a linear relationship between position and frequency. Signals from different locations are separated through spectral analysis. Reconstruction is performed by converting frequency information into spatial coordinates. This method is widely used in line-scan imaging, spectroscopy, and single-axis readout systems.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "one-dimensional frequency encoding",
