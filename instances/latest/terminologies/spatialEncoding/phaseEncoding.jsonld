@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/spatialEncoding/one-dimensionalPhaseEncoding",
   "@type": "https://openminds.om-i.org/types/SpatialEncoding",
-  "definition": "Gradients establish a direct relationship between phase and spatial position, a process referred to as phase encoding.",
+  "definition": "A spatial encoding method in which position along a single dimension is represented by controlled phase shifts of the signal.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
