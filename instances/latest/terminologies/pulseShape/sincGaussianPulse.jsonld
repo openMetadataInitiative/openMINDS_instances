@@ -11,7 +11,6 @@
   "name": "sinc-Gaussian pulse",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "sincGauss",
-    "sinc-Gauss pulse"
+    "Gaussian-windowed sinc pulse"
   ]
 }
