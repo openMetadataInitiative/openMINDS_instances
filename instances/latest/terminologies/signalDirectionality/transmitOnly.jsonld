@@ -8,7 +8,7 @@
   "description": "In signal-transmitting mode, the device functions as an active source of signal energy or information. It produces controlled waveforms or data streams for delivery to another system or environment. The emitted signal may be electromagnetic, electrical, acoustic, or optical in nature. Transmission parameters such as power, timing, and modulation are typically configurable. This mode is used in applications including stimulation, communication, and active sensing.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "transmit-only",
+  "name": "signal-transmitting",
   "preferredOntologyIdentifier": null,
   "synonym": [
     "transmit",
