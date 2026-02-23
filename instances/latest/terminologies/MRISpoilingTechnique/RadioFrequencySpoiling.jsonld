@@ -8,7 +8,7 @@
   "description": "Radiofrequency (RF) spoiling introduces systematic phase increments between consecutive RF pulses to disrupt coherent transverse magnetization. This phase cycling prevents the formation of stable transverse steady states. The method enforces incoherence of residual magnetization across repetitions. Reconstruction relies on predictable phase behavior imposed by the RF scheme. RF spoiling is commonly used in spoiled gradient-echo sequences for T1-weighted imaging.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "Radio-Frequency spoiling",
+  "name": "radiofrequency spoiling",
   "preferredOntologyIdentifier": null,
   "synonym": [
     "RF-spoiling"
