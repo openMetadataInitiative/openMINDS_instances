@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/pulseShape/sinc-HanningPulse",
   "@type": "https://openminds.om-i.org/types/PulseShape",
-  "definition": "A sinc pulse with a Hanning window",
+  "definition": "A composite pulse formed by modulating a sinc pulse with a Hanning window.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
