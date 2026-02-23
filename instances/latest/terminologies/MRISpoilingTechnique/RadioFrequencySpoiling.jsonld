@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/MRISpoilingTechnique/radiofrequencySpoiling",
   "@type": "https://openminds.om-i.org/types/MRISpoilingTechnique",
-  "definition": "Spoiling performed by changing the phase of the Radio-Frequency carrier according to a predefined formula from view to view.",
+  "definition": "A spoiling technique that suppresses residual transverse magnetization by applying controlled phase cycling to successive radiofrequency excitation pulses.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
