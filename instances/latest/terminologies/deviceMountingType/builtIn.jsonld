@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/deviceMountingType/builtIn",
+  "@id": "https://openminds.om-i.org/instances/deviceMountingType/integratedMounting",
   "@type": "https://openminds.om-i.org/types/DeviceMountingType",
   "definition": "A device is considered 'built-in' when is integrated into a larger structure or another device.",
   "description": null,
