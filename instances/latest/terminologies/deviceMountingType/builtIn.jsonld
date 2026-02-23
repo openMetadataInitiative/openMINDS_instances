@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/deviceMountingType/integratedMounting",
   "@type": "https://openminds.om-i.org/types/DeviceMountingType",
-  "definition": "A device is considered 'built-in' when is integrated into a larger structure or another device.",
+  "definition": "A mounting configuration in which the device is structurally incorporated into a larger system or enclosure and not intended for routine removal.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
