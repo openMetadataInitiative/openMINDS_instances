@@ -8,7 +8,7 @@
   "description": "In three-dimensional frequency–phase–phase encoding, spatial information is distributed across one frequency-encoded and two phase-encoded dimensions. A readout gradient provides frequency discrimination along one axis. Two independent phase-encoding steps encode the remaining spatial directions. Repeated acquisitions sample the three-dimensional encoding space. Reconstruction produces volumetric spatial representations from the combined frequency and phase data.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "Frequency x phase x phase encoding",
+  "name": "three-dimensional frequency–phase–phase encoding",
   "preferredOntologyIdentifier": null,
   "synonym": [
     "3D MRI acquisition",
