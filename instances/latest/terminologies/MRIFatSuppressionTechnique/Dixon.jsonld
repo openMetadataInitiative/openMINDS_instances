@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/MRIFatSuppressionTechnique/DixonWater–fatSeparationTechnique",
   "@type": "https://openminds.om-i.org/types/MRIFatSuppressionTechnique",
-  "definition": "The Dixon technique uses the difference in phase resonances between fat and water by acquiring multiple echoes and using mathematical algorithms.",
+  "definition": "A water–fat separation technique that acquires images at different echo times to mathematically decompose water and fat signals based on their phase differences.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
