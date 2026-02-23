@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/MRIParallelAcquisitionTechnique/sensitivityEncoding",
   "@type": "https://openminds.om-i.org/types/MRIParallelAcquisitionTechnique",
-  "definition": "SENSE (SENSitivity Encoding) is a parallel imaging technique that uses coil sensitivity profiles to reconstruct images from undersampled data.",
+  "definition": "A parallel MRI reconstruction technique that accelerates imaging by undersampling k-space and using coil sensitivity profiles to reconstruct full-resolution images in the image domain.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
