@@ -5,7 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/pulseShape/GaussianPulse",
   "@type": "https://openminds.om-i.org/types/PulseShape",
   "definition": "A pulse whose amplitude envelope follows a Gaussian function over time.",
-  "description": null,
+  "description": "A Gaussian pulse exhibits a smooth, symmetric amplitude profile. Its spectral distribution is also Gaussian. The smooth temporal transitions reduce spectral sidelobes. It is commonly used in RF excitation and optical systems. The pulse shape is fully defined by its standard deviation or width parameter.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Gaussian pulse",
