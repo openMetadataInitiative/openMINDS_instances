@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/MRISpoilingTechnique",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "A terminology defining methods for suppressing residual transverse magnetization in MRI through radiofrequency, gradient, or combined spoiling mechanisms.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MRI spoiling technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/pulseShape",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "A terminology defining the temporal amplitude profiles of excitation, stimulation, or modulation pulses based on their mathematical or functional form.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pulse shape",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
