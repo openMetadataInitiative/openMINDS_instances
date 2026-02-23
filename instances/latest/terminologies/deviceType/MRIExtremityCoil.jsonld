@@ -14,5 +14,12 @@
     "knee/ankle/wrist coil",
     "limb coil",
     "peripheral coil"
-  ]
+  "synonym": [
+    "magnetic resonance imaging integrated gradient coil",
+    "magnetic resonance imaging main gradient coil",
+    "magnetic resonance imaging primary gradient coil",
+    "magnetic resonance imaging system gradient coil",
+    "MRI integrated gradient coil",
+    "MRI main gradient coil",
+    "MRI primary gradient coil"
 }
