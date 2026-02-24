@@ -16,7 +16,9 @@
   "process": {
     "@id": "https://openminds.om-i.org/instances/accessProcessType/immediateAccess"
   },
-  "paymentModel": {
-    "@id": "https://openminds.om-i.org/instances/paymentModelType/zero-costPaymentModel"
-  }
+  "paymentModel": [
+      {
+        "@id": "https://openminds.om-i.org/instances/paymentModelType/zero-costPaymentModel"
+      }
+  ]
 }
