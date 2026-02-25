@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/publishing",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": "Managing and overseeing the formal release and dissemination of a product to its intended audience.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "publishing",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
