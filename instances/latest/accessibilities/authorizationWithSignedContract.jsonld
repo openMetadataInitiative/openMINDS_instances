@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/accessibilities/authorizationWithSignedContract",
+  "@id": "https://openminds.om-i.org/instances/accessibilities/directVirtualAuthorizedRestrictedAccess",
   "@type": "https://openminds.om-i.org/types/Accessibility",
   "channel": {
     "@id": "https://openminds.om-i.org/instances/accessChannel/virtualAccess"
