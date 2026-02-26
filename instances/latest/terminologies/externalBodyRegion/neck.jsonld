@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/externalBodyRegion/neck",
+  "@type": "https://openminds.om-i.org/types/ExternalBodyRegion",
+  "definition": "Is a subdivision of organism connecting the head to the trunk. Is part of the anterior region of the body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000974) ('is_a' and 'relationship')]",
+  "description": "An organism subdivision that extends from the head to the pectoral girdle, encompassing the cervical vertebral column. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000974)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "neck",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000974",
+  "synonym": null
+}

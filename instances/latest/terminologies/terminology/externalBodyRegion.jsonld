@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/externalBodyRegion",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "A terminology defining anatomically delineated regions of the external surface of a biological organism.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "external body region",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

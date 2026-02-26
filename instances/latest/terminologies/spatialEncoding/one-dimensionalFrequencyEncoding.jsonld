@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/spatialEncoding/one-dimensionalFrequencyEncoding",
+  "@type": "https://openminds.om-i.org/types/SpatialEncoding",
+  "definition": "A spatial encoding method in which position along a single dimension is represented by differences in signal frequency.",
+  "description": "In one-dimensional frequency encoding, spatial location is mapped directly to frequency components of the detected signal. A spatially varying field or gradient establishes a linear relationship between position and frequency. Signals from different locations are separated through spectral analysis. Reconstruction is performed by converting frequency information into spatial coordinates. This method is widely used in line-scan imaging, spectroscopy, and single-axis readout systems.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "one-dimensional frequency encoding",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "1D frequency encoding",
+    "single-dimensional frequency encoding"
+  ]
+}

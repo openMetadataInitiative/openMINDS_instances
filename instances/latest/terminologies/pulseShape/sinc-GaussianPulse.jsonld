@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/pulseShape/sinc-GaussianPulse",
+  "@type": "https://openminds.om-i.org/types/PulseShape",
+  "definition": "A composite pulse formed by modulating a sinc pulse with a Gaussian envelope.",
+  "description": "A sinc-Gaussian pulse multiplies a sinc waveform by a Gaussian window. The Gaussian envelope reduces sidelobes in the frequency domain. This modification improves spectral selectivity compared to a truncated sinc pulse. The resulting waveform retains the central lobe characteristics of the sinc function. It is commonly used where reduced spectral leakage is required.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "sinc-Gaussian pulse",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Gaussian-windowed sinc pulse"
+  ]
+}

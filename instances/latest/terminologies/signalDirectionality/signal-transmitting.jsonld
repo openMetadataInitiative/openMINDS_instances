@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/signalDirectionality/signal-transmitting",
+  "@type": "https://openminds.om-i.org/types/SignalDirectionality",
+  "definition": "A signal directionality mode in which a device generates and emits signals toward an external system, medium, or target.",
+  "description": "In signal-transmitting mode, the device functions as an active source of signal energy or information. It produces controlled waveforms or data streams for delivery to another system or environment. The emitted signal may be electromagnetic, electrical, acoustic, or optical in nature. Transmission parameters such as power, timing, and modulation are typically configurable. This mode is used in applications including stimulation, communication, and active sensing.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "signal-transmitting",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "transmitting",
+    "transmit-only"
+  ]
+}

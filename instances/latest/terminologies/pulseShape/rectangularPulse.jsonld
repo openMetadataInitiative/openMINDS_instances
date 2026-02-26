@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/pulseShape/rectangularPulse",
+  "@type": "https://openminds.om-i.org/types/PulseShape",
+  "definition": "A pulse with constant amplitude over its duration and abrupt onset and offset transitions.",
+  "description": "A rectangular pulse maintains a uniform amplitude for a defined time interval. The rise and fall times are ideally instantaneous. Its frequency spectrum follows a sinc distribution. This shape is widely used in stimulation and RF excitation as a hard pulse. It represents the simplest temporal pulse form.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "rectangular pulse",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

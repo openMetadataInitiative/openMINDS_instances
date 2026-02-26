@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/pulseShape/FermiPulse",
+  "@type": "https://openminds.om-i.org/types/PulseShape",
+  "definition": "A pulse whose amplitude envelope follows a Fermi (logistic) function.",
+  "description": "A Fermi pulse exhibits a smooth transition between low and high amplitude regions. Its shape is defined by a logistic function with adjustable slope parameters. The envelope allows controlled edge steepness. The pulse provides reduced spectral ringing compared to abrupt transitions. It is used in applications requiring smooth but bounded excitation profiles.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Fermi pulse",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Fermi-shaped pulse"
+  ]
+}

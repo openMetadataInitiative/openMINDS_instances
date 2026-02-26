@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIFatSuppressionTechnique/chemicalShiftSelectiveSuppression",
+  "@type": "https://openminds.om-i.org/types/MRIFatSuppressionTechnique",
+  "definition": "A classical frequency-selective fat saturation technique that suppresses fat signal by applying a narrowband radiofrequency pulse tuned to the fat resonance frequency prior to image acquisition.",
+  "description": "Chemical shift selective suppression, short CHESS, exploits the chemical shift difference between water and fat to selectively target fat protons. A spectrally selective RF pulse is applied at the fat resonance frequency, followed by a spoiler gradient to eliminate transverse magnetization. This preparation reduces fat signal intensity during subsequent imaging readout. The method is fast and straightforward to implement within most pulse sequences. However, it is sensitive to B₀ and B₁ field inhomogeneities, which can lead to incomplete or uneven fat suppression.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "chemical shift selective suppression",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "chemical shift selective saturation",
+    "CHESS"
+  ]
+}

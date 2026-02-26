@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIParallelAcquisitionTechnique/sensitivityEncoding",
+  "@type": "https://openminds.om-i.org/types/MRIParallelAcquisitionTechnique",
+  "definition": "A parallel MRI reconstruction technique that accelerates imaging by undersampling k-space and using coil sensitivity profiles to reconstruct full-resolution images in the image domain.",
+  "description": "Sensitivity encoding, short SENSE, reduces acquisition time by undersampling phase-encoding steps during data acquisition. The method relies on prior estimation of spatial sensitivity maps for each coil element in a multi-array coil system. Aliased images resulting from undersampling are mathematically unfolded using these sensitivity profiles. Reconstruction is performed in the image domain after Fourier transformation. The technique directly links achievable acceleration to coil geometry and signal-to-noise characteristics.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "sensitivity encoding",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "SENSE"
+  ]
+}

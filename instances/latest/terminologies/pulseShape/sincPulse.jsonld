@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/pulseShape/sincPulse",
+  "@type": "https://openminds.om-i.org/types/PulseShape",
+  "definition": "A pulse whose amplitude envelope follows a sinc function in time.",
+  "description": "A sinc pulse is defined by the mathematical sinc function. It produces a rectangular frequency-domain profile under ideal conditions. The pulse typically includes truncation in practical implementations. It is widely used in selective excitation applications. Its bandwidth is determined by the temporal scaling of the function.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "sinc pulse",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "sinc-shaped pulse"
+  ]
+}

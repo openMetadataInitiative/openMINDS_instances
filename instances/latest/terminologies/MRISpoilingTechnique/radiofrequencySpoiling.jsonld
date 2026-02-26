@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRISpoilingTechnique/radiofrequencySpoiling",
+  "@type": "https://openminds.om-i.org/types/MRISpoilingTechnique",
+  "definition": "A spoiling technique that suppresses residual transverse magnetization by applying controlled phase cycling to successive radiofrequency excitation pulses.",
+  "description": "Radiofrequency (RF) spoiling introduces systematic phase increments between consecutive RF pulses to disrupt coherent transverse magnetization. This phase cycling prevents the formation of stable transverse steady states. The method enforces incoherence of residual magnetization across repetitions. Reconstruction relies on predictable phase behavior imposed by the RF scheme. RF spoiling is commonly used in spoiled gradient-echo sequences for T1-weighted imaging.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "radiofrequency spoiling",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "RF phase spoiling",
+    "RF spoiling"
+  ]
+}
