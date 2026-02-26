@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/ageCategory/birth",
-  "@type": "https://openminds.om-i.org/types/AgeCategory",
+  "@id": "https://openminds.om-i.org/instances/ageReference/birth",
+  "@type": "https://openminds.om-i.org/types/AgeReference",
   "definition": "Age reference point characterized by the complete expulsion or extraction of a fetus from the maternal organism, marking the beginning of postnatal life.",
   "description": null,
   "interlexIdentifier": null,
