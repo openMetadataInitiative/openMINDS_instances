@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/ageCategory/fertilization",
+  "@type": "https://openminds.om-i.org/types/AgeCategory",
+  "definition": "Age reference point characterized by the fusion of male and female gametes resulting in the formation of a zygote.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "fertilization",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "start of zygotic stage",
+    "end of gamete stage"
+  ]
+}
