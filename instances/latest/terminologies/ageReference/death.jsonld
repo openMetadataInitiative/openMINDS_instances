@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/ageReference/death",
+  "@type": "https://openminds.om-i.org/types/AgeReference",
+  "definition": "Age reference point characterized by the irreversible cessation of all vital biological functions sustaining an organism.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "death",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "end of life stage",
+    "start of postmortem stage"
+  ]
+}
