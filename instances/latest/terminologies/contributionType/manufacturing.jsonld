@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/manufacturing",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": "Designing, producing, and assembling material components or equipment.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "manufacturing",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
