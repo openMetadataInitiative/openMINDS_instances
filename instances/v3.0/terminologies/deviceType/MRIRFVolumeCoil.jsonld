@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/deviceType/MRIRFVolumeCoil",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
+  "definition": "An radiofrequency (RF) coil that surrounds the imaging region to provide relatively uniform RF excitation and/or signal reception over a large volume in magnetic resonance imaging (MRI).",
+  "description": "An MRI RF volume coil encloses the region of interest within its conductive structure to generate spatially homogeneous RF fields. Its primary design goal is uniform excitation and consistent signal sensitivity across the imaging volume. In most clinical systems, it is used primarily for transmission and operates in combination with surface coils or multi-array coils for reception. In some configurations, it may also function in transmit–receive mode, particularly in specialized or legacy systems. MRI RF volume coils are typically integrated into the scanner or mounted in a form-stable, non-conformable configuration to maintain geometric and electromagnetic stability.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MRI RF volume coil",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "magnetic resonance imaging radiofrequency volume coil",
+    "magnetic resonance imaging volume radiofrequency coil",
+    "MRI RF body coil",
+    "MRI volume RF coil"
+  ]
+}
+

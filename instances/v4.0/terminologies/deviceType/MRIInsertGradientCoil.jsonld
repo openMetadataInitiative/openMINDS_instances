@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deviceType/MRIInsertGradientCoil",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
+  "definition": "A secondary gradient coil assembly placed inside the main magnetic resonance imaging (MRI) bore to generate high-performance spatially varying magnetic fields over a restricted imaging region.",
+  "description": "An MRI insert gradient coil is installed within the bore of an existing MRI system as an auxiliary gradient subsystem. It operates in conjunction with the MRI system gradient coil to provide enhanced gradient strength and slew rates within a limited field of view. This localized performance supports high-resolution and rapid imaging applications. Insert gradient coils are commonly used in head, extremity, and research-oriented configurations. Such coils are typically non-integrated and mounted in a form-stable, non-conformable manner to ensure mechanical and electromagnetic stability.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MRI insert gradient coil",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "magnetic resonance imaging auxiliary gradient coil",
+    "magnetic resonance imaging insert gradient coil",
+    "magnetic resonance imaging local gradient coil",
+    "MRI auxiliary gradient coil",
+    "MRI local gradient coil"
+  ]
+}
+

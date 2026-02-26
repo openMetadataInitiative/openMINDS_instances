@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deviceType/MRIRFMulti-arrayCoil",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
+  "definition": "A multi-element radiofrequency (RF) coil system in which independent channels are used for parallel signal transmission and/or reception and enhanced spatial encoding in magnetic resonance imaging (MRI).",
+  "description": "An MRI RF multi-array coil consists of multiple RF coil elements arranged around the region of interest to acquire localized signals in parallel. Each element operates independently, enabling spatially distributed signal detection and improved signal-to-noise ratio. Multi-coil arrays enhance coverage and allow control of the B₁ field through techniques such as RF shimming, parallel transmission, and parallel imaging. Depending on their configuration, they may operate in transmit, receive, or transmit-receive modes, although most clinical systems use them primarily for reception in combination with an MRI RF volume coil for transmission. These coils may be implemented in volume-type geometries that enclose the anatomy or in surface-type arrangements that are form-stable or conformable.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MRI RF multi-array coil",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "magnetic resonance imaging array radiofrequency coil",
+    "magnetic resonance imaging multi-array radiofrequency coil",
+    "magnetic resonance imaging multi-channel radiofrequency coil",
+    "magnetic resonance imaging radiofrequency multi-coil array",
+    "MRI array RF coil",
+    "MRI multi-array RF coil",
+    "MRI multi-channel RF coil",
+    "MRI RF array coil",
+    "MRI RF multi-coil array"
+  ]
+}
+
