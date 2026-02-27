@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/metadataManagement",
+  "@id": "https://openminds.om-i.org/instances/contributionType/animalTraining",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": null,
+  "definition": "A contribution type of a role-bearing entity realized by conditioning research animals.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "metadata management",
+  "name": "animal training",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

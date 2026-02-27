@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/maintenance",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by performing corrective, adaptive, or preventive upkeep of an artifact, dataset, model, infrastructure component, or other research entity.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "maintenance",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

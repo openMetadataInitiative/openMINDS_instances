@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/dataManagement",
+  "@id": "https://openminds.om-i.org/instances/contributionType/authorship",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": null,
+  "definition": "A contribution type of a role-bearing entity realized by creating, developing, or taking intellectual responsibility for a work and its content.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "data management",
+  "name": "authorship",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/coordination",
+  "@id": "https://openminds.om-i.org/instances/contributionType/editorialReview",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by aligning and synchronizing activities.",
+  "definition": "A contribution type of a role-bearing entity realized by critically evaluating and refining written or technical materials.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "coordination",
+  "name": "editorial review",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/coordination",
+  "@id": "https://openminds.om-i.org/instances/contributionType/testing",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by aligning and synchronizing activities.",
+  "definition": "A contribution type of a role-bearing entity realized by systematically examining functionality or performance.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "coordination",
+  "name": "testing",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
