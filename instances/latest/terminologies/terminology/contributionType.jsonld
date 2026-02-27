@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/terminology/contributionType",
   "@type": "https://openminds.om-i.org/types/Terminology",
-  "definition": "Terminology describing the nature of the intellectual, technical, or practical input made by a contributor to a product or initiative.",
+  "definition": "A functional role characterized by a specific activity or responsibility realized by a role-bearing entity in relation to a target entity and its life cycle.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

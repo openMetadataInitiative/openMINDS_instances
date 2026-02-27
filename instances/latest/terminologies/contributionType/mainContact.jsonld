@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/presentation",
+  "@id": "https://openminds.om-i.org/instances/contributionType/mainContact",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Communicating findings or initiatives to an audience through oral or poster presentations at conferences or public events.",
+  "definition": "A contribution type of a role-bearing entity realized by serving as the primary communication liaison.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "presentation",
+  "name": "main contact",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

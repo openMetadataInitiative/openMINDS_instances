@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/maintenance",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Ensuring the ongoing functionality, reliability, and currency of a product through updates, bug fixes, and technical upkeep.",
+  "definition": "A contribution type of a role-bearing entity realized by performing corrective, adaptive, or preventive upkeep of an artifact, dataset, model, infrastructure component, or other research entity.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

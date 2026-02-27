@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/metadataManagement",
+  "@id": "https://openminds.om-i.org/instances/contributionType/researchOutreach",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Creation and maintenance of metadata to ensure resource discoverability and usability.",
+  "definition": "A contribution type of a role-bearing entity realized by communicating research activities or outputs to broader audiences.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "metadata management",
+  "name": "research outreach",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

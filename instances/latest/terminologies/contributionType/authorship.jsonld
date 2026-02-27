@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/authorship",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Creating and taking intellectual responsibility for the content of a product, including writing, reviewing, and approving the final version.",
+  "definition": "A contribution type of a role-bearing entity realized by creating, developing, or taking intellectual responsibility for a work and its content.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

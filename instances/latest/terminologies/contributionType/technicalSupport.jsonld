@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/veterinaryMedicine",
+  "@id": "https://openminds.om-i.org/instances/contributionType/technicalSupport",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Applying veterinary medical expertise to support the health, treatment, and ethical use of animals.",
+  "definition": "A contribution type of a role-bearing entity realized by providing technical assistance.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "veterinary medicine",
+  "name": "technical support",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/animalTraining",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Behavioral training and conditioning of subjects to meet the requirements of experimental protocols.",
+  "definition": "A contribution type of a role-bearing entity realized by conditioning research animals.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

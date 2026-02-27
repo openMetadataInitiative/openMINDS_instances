@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/marketing",
+  "@id": "https://openminds.om-i.org/instances/contributionType/technicalDocumentation",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Promoting and communicating initiatives and outcomes to relevant audiences through dissemination and outreach activities.",
+  "definition": "A contribution type of a role-bearing entity realized by producing structured technical documentation.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "marketing",
+  "name": "technical documentation",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

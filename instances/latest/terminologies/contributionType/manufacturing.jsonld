@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/manufacturing",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Designing, producing, and assembling material components or equipment.",
+  "definition": "A contribution type of a role-bearing entity realized by producing, assembling, or fabricating a product, material, or component.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/laboratoryAssistance",
+  "@id": "https://openminds.om-i.org/instances/contributionType/veterinaryCare",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Supporting laboratory operations including preparation, equipment handling, sample processing, and day-to-day experimental tasks.",
+  "definition": "A contribution type of a role-bearing entity realized by providing clinical oversight and medical treatment for animals.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "laboratory assistance",
+  "name": "veterinary care",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

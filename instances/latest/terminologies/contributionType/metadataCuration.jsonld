@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/technicalWriting",
+  "@id": "https://openminds.om-i.org/instances/contributionType/implementation",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Producing technical documentation, manuals, and guides associated with a product.",
+  "definition": "A contribution type of a role-bearing entity realized by realizing a software artifact, model, or computational method in operational form.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "technical writing",
+  "name": "implementation",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

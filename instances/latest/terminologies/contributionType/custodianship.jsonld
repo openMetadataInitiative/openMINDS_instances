@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/custodianship",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Acting as the main accountability point for a product, maintaining its content and quality, managing contributor permissions.",
+  "definition": "A contribution type of a role-bearing entity realized by assuming formal accountability for safeguarding and overseeing an entity.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/surgicalIntervention",
+  "@id": "https://openminds.om-i.org/instances/contributionType/metadataCreation",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Performing surgical procedures on subjects as part of experimental or clinical protocols.",
+  "definition": "A contribution type of a role-bearing entity realized by producing descriptive or structural metadata.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "surgical intervention",
+  "name": "metadata creation",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

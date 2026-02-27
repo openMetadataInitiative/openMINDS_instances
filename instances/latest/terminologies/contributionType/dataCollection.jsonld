@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/dataCollection",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Gathering, recording, and assembling raw data from experiments, observations, surveys, or other sources.",
+  "definition": "A contribution type of a role-bearing entity realized by acquiring or generating data.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

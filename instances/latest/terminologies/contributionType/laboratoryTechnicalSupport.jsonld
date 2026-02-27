@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/publishing",
+  "@id": "https://openminds.om-i.org/instances/contributionType/laboratoryTechnicalSupport",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Managing and overseeing the formal release and dissemination of a product to its intended audience.",
+  "definition": "A contribution type of a role-bearing entity realized by providing operational laboratory assistance.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "publishing",
+  "name": "laboratory technical support",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

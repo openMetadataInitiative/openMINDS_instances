@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/scientificWriting",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "Drafting and editing scholarly content such as manuscripts, reports, or scientific articles intended for academic dissemination.",
+  "definition": "A contribution type of a role-bearing entity realized by preparing scholarly texts.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
