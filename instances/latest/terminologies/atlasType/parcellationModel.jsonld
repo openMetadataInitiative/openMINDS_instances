@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/atlasType/parcellationModel",
+  "@type": "https://openminds.om-i.org/types/AtlasType",
+  "definition": "Any processive annotation criteria that parcellates single specimen anatomy and maps it to a defined terminology, essentially creating specimen-specific atlases.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "parcellation model",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
