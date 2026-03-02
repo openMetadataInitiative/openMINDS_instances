@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/workflowDevelopment",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": " contribution type of a role-bearing entity realized by designing procedural or computational pipelines.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "workflow development",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
