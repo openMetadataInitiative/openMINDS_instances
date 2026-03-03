@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/technicalDocumentation",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by producing structured technical documentation.",
+  "definition": "A contribution type of a role-bearing entity realized by producing structured documentation describing the design, functionality, operation, or use of a target entity.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
