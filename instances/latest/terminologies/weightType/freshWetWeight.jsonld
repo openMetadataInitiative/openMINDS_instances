@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/weightType/freshWetWeight",
+  "@type": "https://openminds.om-i.org/types/WeightType",
+  "definition": "The mass of an organism or biological tissue measured in its natural hydrated state immediately after excision and prior to processing.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "fresh wet weight",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
