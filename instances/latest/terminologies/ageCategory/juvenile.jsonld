@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/ageCategory/juvenile",
   "@type": "https://openminds.om-i.org/types/AgeCategory",
-  "definition": "'Juvenile' categorizes the life cycle stage of an animal or human that starts with the independence of the nest and/or caregivers and ends with sexual maturity.",
+  "definition": "'Life cycle stage of a subject that starts with the independence of the nest and/or caregiver and ends with sexual maturity.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0730395",
   "knowledgeSpaceLink": null,
