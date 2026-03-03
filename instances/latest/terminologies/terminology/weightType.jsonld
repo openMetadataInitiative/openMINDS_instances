@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/weightType",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "A terminology that specifies the biological or processing state of a specimen at the time its mass was measured.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "weight type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
