@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/researchOutreach",
+  "@id": "https://openminds.om-i.org/instances/contributionType/surgicalPerformance",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by communicating research activities or outputs to broader audiences.",
+  "definition": "A contribution type of a role-bearing entity realized by performing operative procedures for clinical or research purposes.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "research outreach",
+  "name": "surgical performance",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
