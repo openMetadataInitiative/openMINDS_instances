@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/dataProcessing",
+  "@id": "https://openminds.om-i.org/instances/contributionType/implementation",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by transforming, cleaning, structuring, or otherwise operationally modifying existing data.",
+  "definition": "A contribution type of a role-bearing entity realized by putting a design, specification, method, or plan into operational or practical form.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "data processing",
+  "name": "implementation",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
