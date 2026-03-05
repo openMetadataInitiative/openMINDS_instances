@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cerebellumVermisLobuleI",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a cerebellum vermis lobule. Is part of the cerebellum anterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004074) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112394",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004074#vermic-lobule-i",
+  "name": "cerebellum vermis lobule I",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004074",
+  "synonym": [
+    "lingula (I)",
+    "lingula of anterior cerebellum vermis",
+    "lingula of cerebellum",
+    "lobule I of cerebellum vermis",
+    "neuraxis lingula",
+    "vermic lobule I"
+  ]
+}
+

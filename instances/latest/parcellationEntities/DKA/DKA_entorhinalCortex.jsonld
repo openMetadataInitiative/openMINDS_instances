@@ -16,6 +16,6 @@
   "name": "entorhinal cortex",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/entorhinalCortex"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/entorhinalCortex"
   }
 }

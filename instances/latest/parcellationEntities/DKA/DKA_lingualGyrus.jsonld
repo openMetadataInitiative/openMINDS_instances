@@ -16,6 +16,6 @@
   "name": "lingual gyrus",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lingualGyrus"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/lingualGyrus"
   }
 }

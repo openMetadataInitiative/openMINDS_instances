@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/ansaLenticularis",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a diencephalic white matter. Is part of the ventral thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009641) ('is_a' and 'relationship')]",
+  "description": "The ansa lenticularis (ansa lentiformis in older texts) is a part of the brain, making up the superior layer of the substantia innominata of Meynert. Its fibers, derived from the medullary lamina of the lentiform nucleus, pass medially to end in the thalamus and subthalamic region, while others are said to end in the tegmentum and red nucleus. It is classified by NeuroNames as part of the subthalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009641)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100654",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009641#ansa-lenticularis-1",
+  "name": "ansa lenticularis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009641",
+  "synonym": [
+    "ansa lenticularis in thalamo",
+    "ansa lenticularis in thalamus",
+    "ventral peduncle of lateral forebrain bundle"
+  ]
+}
+

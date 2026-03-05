@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/anteriorQuadrangularLobule",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003015)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100743",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003015#anterior-quadrangular-lobule-1",
+  "name": "anterior quadrangular lobule",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003015",
+  "synonym": [
+    "anterior crescentic lobule of cerebellum",
+    "anterior quadrangular lobule of cerebellum",
+    "anterior quadrangular lobule of cerebellum [H IV et V]",
+    "anterior semilunar lobule",
+    "lobulus quadrangularis (pars rostralis)",
+    "lobulus quadrangularis anterior cerebelli [h iv et v]",
+    "semilunar lobule-1 (anterior)"
+  ]
+}
+

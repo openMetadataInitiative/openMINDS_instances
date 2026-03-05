@@ -16,6 +16,6 @@
   "name": "fusiform gyrus",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/fusiformGyrus"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/fusiformGyrus"
   }
 }

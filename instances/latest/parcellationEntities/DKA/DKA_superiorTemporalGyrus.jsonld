@@ -16,6 +16,6 @@
   "name": "superior temporal gyrus",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/superiorTemporalGyrus"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/superiorTemporalGyrus"
   }
 }

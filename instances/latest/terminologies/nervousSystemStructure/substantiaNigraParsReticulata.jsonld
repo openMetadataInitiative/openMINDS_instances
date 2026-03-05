@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/substantiaNigraParsReticulata",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is part of the substantia nigra. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001966)]",
+  "description": "Regional part of substantia nigra consisting of loosely packed cells, generally located ventral and lateral to the pars compacta. Many cells in this region use GABA as a neurotransmitter (MM). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001966)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111222",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001966#substantia-nigra-pars-reticulata-1",
+  "name": "substantia nigra pars reticulata",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001966",
+  "synonym": [
+    "nucleus substantiae nigrae, pars reticularis",
+    "pars reticularis",
+    "pars reticularis substantiae nigrae",
+    "pars reticulata",
+    "reticular part of substantia nigra",
+    "substantia nigra, pars diffusa",
+    "substantia nigra, reticular part"
+  ]
+}
+

@@ -16,6 +16,6 @@
   "name": "inferior temporal gyrus",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorTemporalGyrus"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/inferiorTemporalGyrus"
   }
 }

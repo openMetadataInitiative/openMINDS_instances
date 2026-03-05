@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/dorsalLongitudinalFasciculus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a fasciculus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003045)]",
+  "description": "A fiber bundle containing fibers from nuclei of the hypothalamus that project to the dorsal tegmental nucleus and other regions of the midbrain and the pons, as well as fibers originating in the pontine reticular formation and the medullary reticular formation that project to the thalamus and other regions of the forebrain (Carpenter-83). In NeuroNames it is a composite structure consisting of the dorsal longitudinal fasciculus of hypothalamus, the dorsal longitudinal fasciculus of midbrain, the dorsal longitudinal fasciculus of pons and the dorsal longitudinal fasciculus of medulla. (NeuroNames) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003045)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103442",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003045#dorsal-longitudinal-fasciculus-1",
+  "name": "dorsal longitudinal fasciculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003045",
+  "synonym": [
+    "bundle of Schutz",
+    "fasciculus longitudinalis posterior",
+    "fasciculus of Schutz",
+    "posterior longitudinal fasciculus"
+  ]
+}
+

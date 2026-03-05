@@ -12,6 +12,6 @@
   "name": "cerebrospinal fluid",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebrospinalFluid"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cerebrospinalFluid"
   }
 }

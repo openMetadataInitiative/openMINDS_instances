@@ -16,6 +16,6 @@
   "name": "inferior longitudinal fasciculus",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorLongitudinalFasciculus"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/inferiorLongitudinalFasciculus"
   }
 }

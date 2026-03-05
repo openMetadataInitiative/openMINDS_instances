@@ -16,6 +16,6 @@
   "name": "anterior cingulate cortex",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/anteriorCingulateCortex"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/anteriorCingulateCortex"
   }
 }

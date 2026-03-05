@@ -16,6 +16,6 @@
   "name": "temporal cingulate fibres",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/temporalCortexCingulum"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/temporalCortexCingulum"
   }
 }

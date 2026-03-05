@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/lateralAmygdaloidNucleusDorsolateralPart",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023415)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106044",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023415#lateral-amygdaloid-nucleus-dorsolateral-part-1",
+  "name": "lateral amygdaloid nucleus, dorsolateral part",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023415",
+  "synonym": null
+}
+

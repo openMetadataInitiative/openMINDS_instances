@@ -16,6 +16,6 @@
   "name": "arcuate fasciculus",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/arcuateFasciculus"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/arcuateFasciculus"
   }
 }

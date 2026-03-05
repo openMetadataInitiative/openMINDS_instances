@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/ventralAcousticStria",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a stria of neuraxis and white matter of pontine tegmentum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003046)]",
+  "description": "White matter structure containing fibers arising from neurons in the cochlear nuclear complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003046)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112282",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003046#ventral-acoustic-stria-1",
+  "name": "ventral acoustic stria",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003046",
+  "synonym": [
+    "anterior acoustic stria",
+    "stria cochlearis anterior"
+  ]
+}
+

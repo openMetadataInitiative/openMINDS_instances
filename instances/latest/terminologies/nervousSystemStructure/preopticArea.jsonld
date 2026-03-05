@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/preopticArea",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001928) ('is_a' and 'relationship')]",
+  "description": "Area of the forebrain between the anterior commissure and optic chiasm. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001928)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109225",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001928#preoptic-area-1",
+  "name": "preoptic area",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001928",
+  "synonym": [
+    "preoptic nuclei",
+    "preoptic region of hypothalamus"
+  ]
+}
+

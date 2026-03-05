@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/ventralExternalArcuateFiberBundle",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a neuron projection bundle and central nervous system cell part cluster. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006097) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112301",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006097#ventral-external-arcuate-fiber-bundle-1",
+  "name": "ventral external arcuate fiber bundle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006097",
+  "synonym": [
+    "ventral external arcuate fibers",
+    "ventral external arcuate tract"
+  ]
+}
+

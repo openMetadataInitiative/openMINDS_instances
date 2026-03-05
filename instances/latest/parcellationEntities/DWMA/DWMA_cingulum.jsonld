@@ -16,6 +16,6 @@
   "name": "cingulum",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cingulumOfBrain"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cingulumOfBrain"
   }
 }

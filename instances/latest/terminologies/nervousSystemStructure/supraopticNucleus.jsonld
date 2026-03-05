@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/supraopticNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a hypothalamic nucleus. Is part of the periventricular zone of hypothalamus and the anterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001929) ('is_a' and 'relationship')]",
+  "description": "The supraoptic nucleus (SON) is a nucleus of magnocellular neurosecretory cells in the hypothalamus of the mammalian brain. The nucleus is situated at the base of the brain, adjacent to the optic chiasm. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001929)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111356",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001929#supraoptic-nucleus-1",
+  "name": "supraoptic nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001929",
+  "synonym": [
+    "nucleus supraopticus",
+    "supra-optic nucleus",
+    "supraoptic nucleus of hypothalamus"
+  ]
+}
+

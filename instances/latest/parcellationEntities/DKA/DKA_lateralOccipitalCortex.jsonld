@@ -16,6 +16,6 @@
   "name": "lateral occipital cortex",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralOccipitalCortex"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/lateralOccipitalCortex"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/arcuateNucleusOfHypothalamus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a hypothalamic nucleus. Is part of the periventricular zone of hypothalamus and the intermediate hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001932) ('is_a' and 'relationship')]",
+  "description": "The arcuate nucleus (or infundibular nucleus) is an aggregation of neurons in the mediobasal hypothalamus, adjacent to the third ventricle and the median eminence. The arcuate nucleus includes several important populations of neurons, including: Neuroendocrine neurons, Centrally-projecting neurons and Others. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001932)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100881",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001932#arcuate-nucleus-of-hypothalamus-1",
+  "name": "arcuate nucleus of hypothalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001932",
+  "synonym": [
+    "arcuate hypothalamic nucleus",
+    "arcuate nucleus",
+    "arcuate nucleus-2",
+    "arcuate periventricular nucleus",
+    "infundibular hypothalamic nucleus",
+    "infundibular nucleus",
+    "infundibular periventricular nucleus",
+    "nucleus arcuatus"
+  ]
+}
+

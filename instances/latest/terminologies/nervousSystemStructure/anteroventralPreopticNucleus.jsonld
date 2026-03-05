@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/anteroventralPreopticNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a preoptic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035974)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100783",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035974#anteroventral-preoptic-nucleus",
+  "name": "anteroventral preoptic nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035974",
+  "synonym": null
+}
+

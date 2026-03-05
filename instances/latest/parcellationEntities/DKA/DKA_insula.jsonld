@@ -16,6 +16,6 @@
   "name": "insula",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/insula"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/insula"
   }
 }

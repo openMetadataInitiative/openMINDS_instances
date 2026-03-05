@@ -17,6 +17,6 @@
   "name": "Brodmann cerebral cortex",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebralCortex"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cerebralCortex"
   }
 }

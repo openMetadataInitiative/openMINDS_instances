@@ -12,6 +12,6 @@
   "name": "putamen",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/putamen"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/putamen"
   }
 }

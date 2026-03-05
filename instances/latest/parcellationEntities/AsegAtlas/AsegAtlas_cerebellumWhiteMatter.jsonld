@@ -12,6 +12,6 @@
   "name": "cerebellum white matter",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfCerebellum"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/whiteMatterOfCerebellum"
   }
 }

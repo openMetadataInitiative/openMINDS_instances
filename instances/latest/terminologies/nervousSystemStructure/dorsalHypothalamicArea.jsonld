@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/dorsalHypothalamicArea",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002954) ('is_a' and 'relationship')]",
+  "description": "A relatively small region of the hypothalamus located inferior to the hypothalamic sulcus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002954)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103438",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002954#dorsal-hypothalamic-area-1",
+  "name": "dorsal hypothalamic area",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002954",
+  "synonym": [
+    "dorsal hypothalamic zone"
+  ]
+}
+

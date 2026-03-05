@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/corticalLayerIV",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005393)]",
+  "description": "Layer of neocortex lying deep to the external pyramidal cell layer defined cytoarchitecturally by the presence of numerous small cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005393)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107370",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005393#cortical-layer-iv",
+  "name": "cortical layer IV",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005393",
+  "synonym": [
+    "cerebral cortex, layer 4",
+    "internal granular layer of isocortex [layer iv]",
+    "internal granular layer of neocortex",
+    "internal granule cell layer of neocortex",
+    "lamina granularis interna isocorticis [lamina iv]",
+    "layer 4 of neocortex",
+    "layer IV of neocortex",
+    "neocortex internal granule cell layer",
+    "neocortex layer 4",
+    "neocortex layer IV",
+    "neocortical internal granule cell layer",
+    "neocortical layer IV"
+  ]
+}
+

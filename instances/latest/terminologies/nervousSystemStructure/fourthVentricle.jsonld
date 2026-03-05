@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/fourthVentricle",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a brain ventricle. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002422) ('is_a' and 'relationship')]",
+  "description": "Part of the ventricular system of the brain, forming a single large irregularly shaped cavity located on the midline of the rhombencephalon, between the medulla, pons and the isthmus ventrally and the cerebellum dorsally. It is continuous with the cerebral aqueduct anteriorally and the central canal of the spinal cord posteriorly. It communicates with the subarachnoid space through its lateral and median apertures. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002422)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104381",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002422#fourth-ventricle",
+  "name": "fourth ventricle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002422",
+  "synonym": [
+    "ventricle IV"
+  ]
+}
+

@@ -12,6 +12,6 @@
   "name": "brain stem",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/brainstem"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/brainstem"
   }
 }

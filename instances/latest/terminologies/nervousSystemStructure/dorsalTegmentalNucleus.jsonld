@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/dorsalTegmentalNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a brainstem nucleus and midbrain nucleus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002143) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103485",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002143#dorsal-tegmental-nucleus-1",
+  "name": "dorsal tegmental nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002143",
+  "synonym": [
+    "dorsal tegmental nucleus (Gudden)",
+    "dorsal tegmental nucleus of Gudden",
+    "gudden nucleus",
+    "nucleus tegmentalis dorsalis",
+    "nucleus tegmentalis posterior",
+    "posterior tegmental nucleus",
+    "von Gudden's nucleus"
+  ]
+}
+

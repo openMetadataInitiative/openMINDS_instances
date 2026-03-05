@@ -16,6 +16,6 @@
   "name": "precentral gyrus",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/precentralGyrus"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/precentralGyrus"
   }
 }

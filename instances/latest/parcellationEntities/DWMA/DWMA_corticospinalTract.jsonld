@@ -16,6 +16,6 @@
   "name": "corticospinal tract",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/corticospinalTract"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/corticospinalTract"
   }
 }

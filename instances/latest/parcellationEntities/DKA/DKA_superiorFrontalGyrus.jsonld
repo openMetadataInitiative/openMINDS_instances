@@ -16,6 +16,6 @@
   "name": "superior frontal gyrus",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/superiorFrontalGyrus"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/superiorFrontalGyrus"
   }
 }

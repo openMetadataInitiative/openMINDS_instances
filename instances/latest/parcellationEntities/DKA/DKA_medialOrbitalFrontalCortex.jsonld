@@ -16,6 +16,6 @@
   "name": "medial orbitofrontal cortex",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/medialOrbitalFrontalCortex"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/medialOrbitalFrontalCortex"
   }
 }

@@ -16,6 +16,6 @@
   "name": "cingulate cortex",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cingulateCortex"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cingulateCortex"
   }
 }

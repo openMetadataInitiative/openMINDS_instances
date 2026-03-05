@@ -12,6 +12,6 @@
   "name": "third ventricle",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/thirdVentricle"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/thirdVentricle"
   }
 }

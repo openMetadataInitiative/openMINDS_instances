@@ -16,6 +16,6 @@
   "name": "corpus callosum",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/corpusCallosum"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/corpusCallosum"
   }
 }

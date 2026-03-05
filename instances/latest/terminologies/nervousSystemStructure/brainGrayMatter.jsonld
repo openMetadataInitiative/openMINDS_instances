@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/brainGrayMatter",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gray matter. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003528) ('is_a' and 'relationship')]",
+  "description": "A gray matter that is part of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003528)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0725337",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003528#brain-gray-matter",
+  "name": "brain gray matter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003528",
+  "synonym": [
+    "brain grey matter",
+    "brain grey substance",
+    "gray matter of brain",
+    "grey matter of brain",
+    "grey substance of brain"
+  ]
+}
+

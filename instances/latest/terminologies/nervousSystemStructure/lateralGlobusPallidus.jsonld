@@ -1,0 +1,30 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/lateralGlobusPallidus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a cerebral hemisphere gray matter. Is part of the globus pallidus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002476) ('is_a' and 'relationship')]",
+  "description": "The more lateral of the two segments of the globus pallidus, abutting the putamen. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002476)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104658",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002476#globus-pallidus-external-segment",
+  "name": "lateral globus pallidus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002476",
+  "synonym": [
+    "external globus pallidus",
+    "external pallidum",
+    "external part of globus pallidus",
+    "globus pallidus extermal segment",
+    "globus pallidus external segment",
+    "globus pallidus externus",
+    "globus pallidus lateralis",
+    "globus pallidus, lateral segment",
+    "lateral pallidal segment",
+    "lateral pallidum",
+    "lateral part of globus pallidus",
+    "lateral segment of globus pallidus",
+    "pallidus II",
+    "pars lateralis globi pallidi medialis"
+  ]
+}
+

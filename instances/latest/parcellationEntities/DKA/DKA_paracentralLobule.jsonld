@@ -16,6 +16,6 @@
   "name": "paracentral lobule",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/paracentralLobule"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/paracentralLobule"
   }
 }

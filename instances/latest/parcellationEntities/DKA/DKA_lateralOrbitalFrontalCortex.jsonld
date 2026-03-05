@@ -16,6 +16,6 @@
   "name": "lateral orbitofrontal cortex",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralOrbitalFrontalCortex"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/lateralOrbitalFrontalCortex"
   }
 }

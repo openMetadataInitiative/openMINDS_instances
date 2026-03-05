@@ -16,6 +16,6 @@
   "name": "inferior parietal cortex",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorParietalCortex"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/inferiorParietalCortex"
   }
 }

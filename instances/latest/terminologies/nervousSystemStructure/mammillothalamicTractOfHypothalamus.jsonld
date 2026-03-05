@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/mammillothalamicTractOfHypothalamus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a tract of diencephalon. Is part of the mammillary axonal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002990) ('is_a' and 'relationship')]",
+  "description": "Part of mammillothalamic tract contained within the hypothalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002990)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106507",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002990#mammillothalamic-tract-of-hypothalamus-1",
+  "name": "mammillothalamic tract of hypothalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002990",
+  "synonym": null
+}
+

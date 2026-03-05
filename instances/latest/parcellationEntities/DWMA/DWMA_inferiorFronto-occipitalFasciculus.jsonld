@@ -16,6 +16,6 @@
   "name": "inferior fronto-occipital fasciculus",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorOccipitofrontalFasciculus"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/inferiorOccipitofrontalFasciculus"
   }
 }

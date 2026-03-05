@@ -16,6 +16,6 @@
   "name": "parietal lobe",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/parietalLobe"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/parietalLobe"
   }
 }

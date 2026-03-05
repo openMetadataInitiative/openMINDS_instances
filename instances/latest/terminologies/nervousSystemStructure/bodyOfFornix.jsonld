@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/bodyOfFornix",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a central nervous system cell part cluster. Is part of the fornix of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004680) ('is_a' and 'relationship')]",
+  "description": "Part of fornix adjacent to the crura where they join together at the midline underneath the corpus callosum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004680)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101373",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004680#body-of-fornix-1",
+  "name": "body of fornix",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004680",
+  "synonym": [
+    "body of fornix of forebrain",
+    "column of fornix",
+    "columna fornicis",
+    "columns of fornix",
+    "fornix body"
+  ]
+}
+

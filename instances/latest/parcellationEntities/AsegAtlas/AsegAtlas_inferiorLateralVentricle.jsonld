@@ -12,6 +12,6 @@
   "name": "inferior lateral ventricle",
   "ontologyIdentifier": null,
   "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorHornOfTheLateralVentricle"
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/inferiorHornOfTheLateralVentricle"
   }
 }
