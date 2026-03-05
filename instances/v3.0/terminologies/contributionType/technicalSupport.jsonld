@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/contributionType/dataProcessing",
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/technicalSupport",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by transforming, cleaning, structuring, or otherwise operationally modifying existing data.",
+  "definition": "A contribution type of a role-bearing entity realized by providing technical assistance for the operation, use, or maintenance of a target entity.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "data processing",
+  "name": "technical support",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
