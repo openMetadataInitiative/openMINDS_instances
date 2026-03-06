@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/muscularStructure",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology defining anatomical structures composed primarily of muscle tissue that contribute to body movement or internal mechanical function.",
+  "description": "This terminology includes skeletal muscles and other anatomical structures formed predominantly from muscle tissue. These structures generate force and enable movement of the body or movement within organs. The terminology focuses on structural muscle entities rather than cellular muscle tissue components. Examples include limb muscles and muscles associated with specific anatomical regions. It supports standardized anatomical referencing of muscular components.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "muscular structure",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

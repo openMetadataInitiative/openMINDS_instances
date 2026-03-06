@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/organSystemStructure",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology defining anatomical components and structural parts that belong to or form part of an organ system.",
+  "description": "This terminology includes anatomical structures that are components or subdivisions of organs or other structures within an organ system. These entities are typically smaller structural units that contribute to the organization or function of the system but do not constitute whole organs themselves. Examples may include ducts, chambers, segments, and other system-associated structural components. The terminology focuses on parts that structurally belong to a broader system context. It supports detailed representation of anatomical organization within biological systems.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "organ system structure",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
