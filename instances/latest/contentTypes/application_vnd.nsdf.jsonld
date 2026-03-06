@@ -11,9 +11,6 @@
   "fileExtension": [
     ".nsdf"
   ],
-  "http://schema.org/identifier": [
-    "https://openminds.om-i.org/instances/contentTypes/application.vnd.nsdf"
-  ],
   "isBasedOn": null,
   "name": "application/vnd.nsdf",
   "specification": null,

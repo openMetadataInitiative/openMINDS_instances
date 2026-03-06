@@ -14,5 +14,7 @@
   "isBasedOn": null,
   "name": "application/vnd.ge-healthcare-life-sciences.amersham-biosciences-gel",
   "specification": null,
-  "synonym": "GEL"
+  "synonym": [
+    "GEL"
+  ]
 }

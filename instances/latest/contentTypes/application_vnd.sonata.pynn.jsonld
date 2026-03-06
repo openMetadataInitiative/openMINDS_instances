@@ -9,6 +9,7 @@
   "description": null,
   "displayLabel": null,
   "fileExtension": null,
+  "isBasedOn": null,
   "name": "application/vnd.sonata.pynn",
   "specification": null,
   "synonym": [

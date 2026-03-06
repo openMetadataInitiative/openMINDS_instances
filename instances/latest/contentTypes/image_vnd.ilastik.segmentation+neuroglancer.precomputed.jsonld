@@ -9,6 +9,7 @@
   "description": null,
   "displayLabel": null,
   "fileExtension": null,
+  "isBasedOn": null,
   "name": "image/vnd.ilastik.segmentation+neuroglancer.precomputed",
   "specification": null,
   "synonym": [

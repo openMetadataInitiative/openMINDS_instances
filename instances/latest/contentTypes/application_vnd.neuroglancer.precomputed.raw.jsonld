@@ -9,6 +9,7 @@
   "description": null,
   "displayLabel": null,
   "fileExtension": null,
+  "isBasedOn": null,
   "name": "application/vnd.neuroglancer.precomputed.raw",
   "specification": "https://github.com/google/neuroglancer/blob/33d5206cf16c60530e9d0d517dc8bb9b968e2e18/src/neuroglancer/datasource/precomputed/README.md",
   "synonym": [

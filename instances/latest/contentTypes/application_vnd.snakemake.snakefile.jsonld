@@ -9,6 +9,7 @@
   "description": null,
   "displayLabel": null,
   "fileExtension": [],
+  "isBasedOn": null,
   "name": "application/vnd.snakemake.snakefile",
   "specification": null,
   "synonym": [

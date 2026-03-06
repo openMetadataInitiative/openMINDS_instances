@@ -9,6 +9,7 @@
   "description": null,
   "displayLabel": null,
   "fileExtension": null,
+  "isBasedOn": null,
   "name": "application/vnd.spikeglx.system",
   "specification": null,
   "synonym": [
