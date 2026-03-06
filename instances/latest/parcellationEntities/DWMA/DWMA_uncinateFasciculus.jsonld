@@ -15,7 +15,7 @@
   "lookupLabel": "DWMA_uncinateFasciculus",
   "name": "uncinate fasciculus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/uncinateFasciculus"
   }
 }

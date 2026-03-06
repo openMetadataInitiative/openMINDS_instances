@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_rostralMiddleFrontalGyrus",
   "name": "rostral middle frontal gyrus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/rostralMiddleFrontalGyrus"
   }
 }

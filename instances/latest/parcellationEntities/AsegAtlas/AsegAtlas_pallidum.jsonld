@@ -11,7 +11,7 @@
   "lookupLabel": "AsegAtlas_pallidum",
   "name": "pallidum",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/pallidum"
   }
 }

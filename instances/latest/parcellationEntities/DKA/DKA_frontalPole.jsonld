@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_frontalPole",
   "name": "frontal pole",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/frontalPole"
   }
 }

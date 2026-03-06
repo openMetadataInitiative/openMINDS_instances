@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_lateralOccipitalCortex",
   "name": "lateral occipital cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/lateralOccipitalCortex"
   }
 }

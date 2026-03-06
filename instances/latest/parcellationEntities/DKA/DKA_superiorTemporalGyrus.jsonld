@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_superiorTemporalGyrus",
   "name": "superior temporal gyrus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/superiorTemporalGyrus"
   }
 }

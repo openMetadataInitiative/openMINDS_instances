@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_anteriorCingulateCortex",
   "name": "anterior cingulate cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/anteriorCingulateCortex"
   }
 }

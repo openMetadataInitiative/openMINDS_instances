@@ -11,7 +11,7 @@
   "lookupLabel": "AsegAtlas_cerebellumWhiteMatter",
   "name": "cerebellum white matter",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/whiteMatterOfCerebellum"
   }
 }

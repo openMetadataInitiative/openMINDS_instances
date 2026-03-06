@@ -11,7 +11,7 @@
   "lookupLabel": "AsegAtlas_cerebralCortex",
   "name": "cerebral cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cerebralCortex"
   }
 }

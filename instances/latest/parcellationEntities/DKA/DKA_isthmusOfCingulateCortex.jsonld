@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_isthmusOfCingulateCortex",
   "name": "isthmus of cingulate cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/isthmusOfCingulateGyrus"
   }
 }

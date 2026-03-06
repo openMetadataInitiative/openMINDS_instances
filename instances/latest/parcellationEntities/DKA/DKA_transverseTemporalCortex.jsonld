@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_transverseTemporalCortex",
   "name": "transverse temporal cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/transverseGyrusOfHeschl"
   }
 }

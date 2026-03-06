@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_insula",
   "name": "insula",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/insula"
   }
 }

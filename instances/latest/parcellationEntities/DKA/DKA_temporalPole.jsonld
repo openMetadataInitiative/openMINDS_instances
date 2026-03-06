@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_temporalPole",
   "name": "temporal pole",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/temporalPole"
   }
 }

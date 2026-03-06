@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_parsOpercularis",
   "name": "pars opercularis",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/opercularPartOfInferiorFrontalGyrus"
   }
 }

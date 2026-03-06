@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_parsOrbitalis",
   "name": "pars orbitalis",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/orbitalPartOfInferiorFrontalGyrus"
   }
 }

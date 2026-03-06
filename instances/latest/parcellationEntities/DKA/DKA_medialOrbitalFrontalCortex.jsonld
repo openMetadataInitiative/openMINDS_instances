@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_medialOrbitalFrontalCortex",
   "name": "medial orbitofrontal cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
+  "relatedInterspeciesAnatomy": {
     "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/medialOrbitalFrontalCortex"
   }
 }
