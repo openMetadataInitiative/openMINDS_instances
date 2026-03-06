@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/caudalPartOfSpinalTrigeminalNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gray matter of hindbrain. Is part of the spinal nucleus of trigeminal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002866) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101721",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002866#caudal-part-of-spinal-trigeminal-nucleus-1",
+  "name": "caudal part of spinal trigeminal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002866",
+  "synonym": [
+    "caudal nucleus",
+    "caudal nucleus (kandell)",
+    "spinal trigeminal nucleus, caudal part"
+  ]
+}
+

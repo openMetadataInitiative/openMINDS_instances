@@ -11,7 +11,7 @@
   "lookupLabel": "AsegAtlas_amygdala",
   "name": "amygdala",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/amygdala"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/amygdala"
   }
 }

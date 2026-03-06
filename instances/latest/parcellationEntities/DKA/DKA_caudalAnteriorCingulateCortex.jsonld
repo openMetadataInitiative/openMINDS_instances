@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_caudalAnteriorCingulateCortex",
   "name": "caudal anterior cingulate cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/caudalAnteriorCingulateCortex"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/caudalAnteriorCingulateCortex"
   }
 }

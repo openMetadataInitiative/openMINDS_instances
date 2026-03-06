@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_rostralAnteriorCingulateCortex",
   "name": "rostral anterior cingulate cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rostralAnteriorCingulateCortex"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/rostralAnteriorCingulateCortex"
   }
 }

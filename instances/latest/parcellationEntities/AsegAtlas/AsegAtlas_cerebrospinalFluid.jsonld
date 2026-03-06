@@ -11,7 +11,7 @@
   "lookupLabel": "AsegAtlas_cerebrospinalFluid",
   "name": "cerebrospinal fluid",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebrospinalFluid"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cerebrospinalFluid"
   }
 }

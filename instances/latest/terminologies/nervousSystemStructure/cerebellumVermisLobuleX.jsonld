@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cerebellumVermisLobuleX",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a cerebellum vermis lobule. Is part of the flocculonodular lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004083) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112405",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004083#vermic-lobule-x",
+  "name": "cerebellum vermis lobule X",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004083",
+  "synonym": [
+    "lobule X of cerebellum vermis",
+    "neuraxis nodule",
+    "neuraxis nodulus",
+    "nodulus (X)",
+    "nodulus of cerebellum",
+    "nodulus of vermis of cerebellum",
+    "vermic lobule X"
+  ]
+}
+

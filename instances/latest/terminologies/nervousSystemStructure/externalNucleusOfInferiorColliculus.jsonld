@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/externalNucleusOfInferiorColliculus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of midbrain tectum. Is part of the inferior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002571) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104042",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002571#external-nucleus-of-inferior-colliculus-1",
+  "name": "external nucleus of inferior colliculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002571",
+  "synonym": [
+    "nucleus externus colliculi inferioris",
+    "nucleus lateralis colliculi inferioris"
+  ]
+}
+

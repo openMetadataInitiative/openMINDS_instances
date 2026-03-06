@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/paralaminarPartOfMedialDorsalNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gray matter of diencephalon. Is part of the medial dorsal nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002650) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108443",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002650#paralaminar-part-of-medial-dorsal-nucleus-1",
+  "name": "paralaminar part of medial dorsal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002650",
+  "synonym": [
+    "dorsomedial thalamic nucleus, paralaminar part",
+    "mediodorsal thalamic nucleus, paralaminar part",
+    "nucleus medialis dorsalis caudalis (hassler)",
+    "nucleus medialis dorsalis thalami, pars multiformis",
+    "nucleus medialis dorsalis, pars multiformis",
+    "nucleus medialis dorsalis, pars paralaminaris",
+    "paralaminar part of dorsomedial nucleus",
+    "paralaminar part of medial dorsal nucleus of thalamus",
+    "pars paralaminaris nuclei mediodorsalis thalami",
+    "pars paralaminaris of medial dorsal nucleus of thalamus",
+    "ventral mediodorsal nucleus"
+  ]
+}
+

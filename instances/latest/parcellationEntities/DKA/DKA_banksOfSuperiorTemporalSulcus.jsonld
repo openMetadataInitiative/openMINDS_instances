@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_banksOfSuperiorTemporalSulcus",
   "name": "banks of superior temporal sulcus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/banksOfSuperiorTemporalSulcus"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/banksOfSuperiorTemporalSulcus"
   }
 }

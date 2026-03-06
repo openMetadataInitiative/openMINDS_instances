@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_cuneusCortex",
   "name": "cuneus cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cuneusCortex"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cuneusCortex"
   }
 }

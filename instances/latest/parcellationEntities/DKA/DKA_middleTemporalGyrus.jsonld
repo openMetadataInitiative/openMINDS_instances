@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_middleTemporalGyrus",
   "name": "middle temporal gyrus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/middleTemporalGyrus"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/middleTemporalGyrus"
   }
 }

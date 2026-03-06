@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/posteriorNucleusOfThalamus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the posterior nuclear complex of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003030) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109111",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003030#posterior-nucleus-of-thalamus-1",
+  "name": "posterior nucleus of thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003030",
+  "synonym": [
+    "nucleus posterior thalami",
+    "nucleus thalami posterior"
+  ]
+}
+

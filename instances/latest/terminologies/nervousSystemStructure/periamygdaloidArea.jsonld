@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/periamygdaloidArea",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a cerebral hemisphere gray matter. Is part of the parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002656) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108715",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002656#periamygdaloid-area-1",
+  "name": "periamygdaloid area",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002656",
+  "synonym": [
+    "periamygdaloid region",
+    "semilunar gyrus",
+    "ventral cortical nucleus of amygdala"
+  ]
+}
+

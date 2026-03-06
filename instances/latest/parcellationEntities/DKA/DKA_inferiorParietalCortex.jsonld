@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_inferiorParietalCortex",
   "name": "inferior parietal cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorParietalCortex"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/inferiorParietalCortex"
   }
 }

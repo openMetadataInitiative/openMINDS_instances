@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/medialPreopticNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a hypothalamic nucleus and preoptic nucleus. Is part of the medial preoptic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002035) ('is_a' and 'relationship')]",
+  "description": "The medial preoptic nucleus is bounded laterally by the lateral preoptic nucleus, and medially by the preoptic periventricular nucleus. It releases gonadotropin-releasing hormone, controls copulation in males, and is larger in males than in females. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002035)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106687",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002035#medial-preoptic-nucleus-1",
+  "name": "medial preoptic nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002035",
+  "synonym": [
+    "medial preoptic hypothalamic nucleus"
+  ]
+}
+

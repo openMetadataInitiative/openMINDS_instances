@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_precuneusCortex",
   "name": "precuneus cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/precuneusCortex"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/precuneusCortex"
   }
 }

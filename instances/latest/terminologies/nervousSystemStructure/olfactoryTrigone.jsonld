@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/olfactoryTrigone",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the olfactory lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002922) ('is_a' and 'relationship')]",
+  "description": "A small triangular area in front of the anterior perforated substance. Its apex, directed forward, occupies the posterior part of the olfactory sulcus, and is brought into view by throwing back the olfactory tract (adapted from Wikipedia) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002922)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107973",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002922#olfactory-trigone-1",
+  "name": "olfactory trigone",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002922",
+  "synonym": [
+    "trigonum olfactorium"
+  ]
+}
+

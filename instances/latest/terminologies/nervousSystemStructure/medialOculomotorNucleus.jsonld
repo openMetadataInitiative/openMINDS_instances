@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/medialOculomotorNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a brainstem nucleus and midbrain nucleus. Is part of the oculomotor nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002975) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106670",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002975#medial-oculomotor-nucleus-1",
+  "name": "medial oculomotor nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002975",
+  "synonym": [
+    "medial nucleus of oculomotor nuclear complex",
+    "medial oculomotor cell column"
+  ]
+}
+

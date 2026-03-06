@@ -15,7 +15,7 @@
   "lookupLabel": "DWMA_inferiorFronto-occipitalFasciculus",
   "name": "inferior fronto-occipital fasciculus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorOccipitofrontalFasciculus"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/inferiorOccipitofrontalFasciculus"
   }
 }

@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_cingulateCortex",
   "name": "cingulate cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cingulateCortex"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cingulateCortex"
   }
 }

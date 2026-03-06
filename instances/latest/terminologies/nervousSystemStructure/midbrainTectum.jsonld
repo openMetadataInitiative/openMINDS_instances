@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/midbrainTectum",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the midbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002314) ('is_a' and 'relationship')]",
+  "description": "Dorsal part of the midbrain, consisting of the superior and inferior colliculi and the pretectal nuclei (MM). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002314)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106950",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002314#midbrain-tectum",
+  "name": "midbrain tectum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002314",
+  "synonym": [
+    "mesencephalic tectum",
+    "neuraxis tectum",
+    "tectum",
+    "tectum mesencephali"
+  ]
+}
+

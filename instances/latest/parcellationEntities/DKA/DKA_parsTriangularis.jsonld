@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_parsTriangularis",
   "name": "pars triangularis",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/triangularPartOfInferiorFrontalGyrus"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/triangularPartOfInferiorFrontalGyrus"
   }
 }

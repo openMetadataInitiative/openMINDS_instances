@@ -15,7 +15,7 @@
   "lookupLabel": "DKA_postcentralGyrus",
   "name": "postcentral gyrus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/postcentralGyrus"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/postcentralGyrus"
   }
 }

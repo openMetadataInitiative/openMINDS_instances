@@ -15,7 +15,7 @@
   "lookupLabel": "DWMA_inferiorLongitudinalFasciculus",
   "name": "inferior longitudinal fasciculus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorLongitudinalFasciculus"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/inferiorLongitudinalFasciculus"
   }
 }

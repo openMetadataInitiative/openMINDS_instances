@@ -11,7 +11,7 @@
   "lookupLabel": "AsegAtlas_hippocampus",
   "name": "hippocampus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hippocampalFormation"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/hippocampalFormation"
   }
 }

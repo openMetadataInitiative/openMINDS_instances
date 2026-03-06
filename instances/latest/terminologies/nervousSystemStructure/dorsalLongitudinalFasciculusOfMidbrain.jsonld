@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/dorsalLongitudinalFasciculusOfMidbrain",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a fasciculus of brain. Is part of the midbrain tegmentum and the dorsal longitudinal fasciculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003005) ('is_a' and 'relationship')]",
+  "description": "Part of dorsal longitudinal fasciculus located in the midbrain tegmentum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003005)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103445",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003005#dorsal-longitudinal-fasciculus-of-midbrain-1",
+  "name": "dorsal longitudinal fasciculus of midbrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003005",
+  "synonym": [
+    "bundle of Schutz of midbrain",
+    "fasciculus of Schutz of midbrain",
+    "midbrain bundle of Schutz",
+    "midbrain dorsal longitudinal fasciculus",
+    "midbrain fasciculus of Schutz",
+    "midbrain posterior longitudinal fasciculus",
+    "posterior longitudinal fasciculus of midbrain"
+  ]
+}
+

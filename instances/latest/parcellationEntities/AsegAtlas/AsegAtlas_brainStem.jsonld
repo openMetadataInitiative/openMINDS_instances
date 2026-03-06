@@ -11,7 +11,7 @@
   "lookupLabel": "AsegAtlas_brainStem",
   "name": "brain stem",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/brainstem"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/brainstem"
   }
 }

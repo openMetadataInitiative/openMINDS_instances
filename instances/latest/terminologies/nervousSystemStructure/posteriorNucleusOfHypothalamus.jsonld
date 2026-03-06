@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/posteriorNucleusOfHypothalamus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a hypothalamic nucleus. Is part of the posterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002706) ('is_a' and 'relationship')]",
+  "description": "The posterior nucleus of the hypothalamus is one of the many nuclei that make up the hypothalamic region of the brain. Its function is thermoregulation (heating) of the body. Damage or destruction of this nucleus causes hypothermia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002706)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109110",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002706#posterior-nucleus-of-hypothalamus-1",
+  "name": "posterior nucleus of hypothalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002706",
+  "synonym": [
+    "area hypothalamica posterior",
+    "posterior hypothalamic area",
+    "posterior hypothalamic nucleus"
+  ]
+}
+

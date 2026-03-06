@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/orbitalPartOfInferiorFrontalGyrus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a frontal gyrus. Is part of the inferior frontal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002624) ('is_a' and 'relationship')]",
+  "description": "Component of. The inferior frontal gyrus.defined as. The first gyrus from. The precentral gyrus. The remainder of. The inferior frontal gyrus once. The pars opercularis and triangularis have been defined (Christine Fennema-Notestine)., NeuroNames. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002624)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108113",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002624#orbital-part-of-inferior-frontal-gyrus-1",
+  "name": "orbital part of inferior frontal gyrus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002624",
+  "synonym": [
+    "gyrus frontalis inferior, pars orbitalis",
+    "inferior frontal gyrus, orbital part",
+    "pars orbitalis gyri frontalis inferioris"
+  ]
+}
+

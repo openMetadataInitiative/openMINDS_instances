@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/diagonalBandOfBroca",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a neuron projection bundle and central nervous system cell part cluster. Is part of the cerebral hemisphere white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002741) ('is_a' and 'relationship')]",
+  "description": "A white fibre bundle descending in the precommissural septum toward the base of the forebrain, immediately rostral to the lamina terminalis; at the base, the bundle turns in the caudolateral direction; traveling through the ventral substantia innominata alongside the optic tract, it fades before reaching the amygdala. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002741)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103188",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002741#diagonal-band",
+  "name": "diagonal band of Broca",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002741",
+  "synonym": [
+    "broca's diagonal band",
+    "broca's diagonal gyrus",
+    "diagonal band",
+    "diagonal gyrus",
+    "olfactory fasciculus",
+    "olfactory radiations of Zuckerkandl"
+  ]
+}
+

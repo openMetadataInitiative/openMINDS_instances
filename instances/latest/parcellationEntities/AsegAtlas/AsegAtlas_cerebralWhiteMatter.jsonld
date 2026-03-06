@@ -11,7 +11,7 @@
   "lookupLabel": "AsegAtlas_cerebralWhiteMatter",
   "name": "cerebral white matter",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebralHemisphereWhiteMatter"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cerebralHemisphereWhiteMatter"
   }
 }
