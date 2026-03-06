@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/vascularStructure",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology defining anatomical structures that form the circulatory vessel networks responsible for transporting blood or lymph within an organism.",
+  "description": "This terminology includes blood vessels such as arteries, veins, and capillaries as well as lymphatic vessels and related conduits of the lymphatic circulation. These structures form interconnected networks that distribute fluids throughout the body. They contribute to physiological processes including nutrient delivery, waste removal, fluid balance, and immune transport. The terminology may include specialized vascular or lymphatic subdivisions associated with particular organs or regions. It provides a cross-species anatomical reference for vessel-based components of the circulatory system.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "vascular structure",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

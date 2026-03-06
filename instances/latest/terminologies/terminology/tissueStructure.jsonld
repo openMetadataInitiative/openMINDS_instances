@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/tissueStructure",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology defining anatomical structures composed of integumentary or connective tissues that form protective coverings, structural support, or separating boundaries within an organism.",
+  "description": "This terminology includes structures formed by integumentary and connective tissues such as membranes, coverings, barriers, and supporting connective components. These structures contribute to protection, mechanical support, compartmentalization, and attachment within the body. Examples may include meninges, connective sheaths, and structural tissue layers. The terminology excludes organs, organ parts, and specialized system-specific structures. It provides a cross-species reference for anatomical structures primarily defined by integumentary or connective tissue composition.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "tissue structure",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

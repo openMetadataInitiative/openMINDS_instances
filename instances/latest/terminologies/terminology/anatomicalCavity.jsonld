@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/anatomicalCavity",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology defining anatomical cavities and internal spaces within an organism that contain organs, tissues, or fluids, excluding blood and lymph vessels.",
+  "description": "This terminology includes naturally occurring enclosed or semi-enclosed spaces within the body that serve as compartments for anatomical structures or fluids. These spaces may support organ placement, permit movement of structures, or allow circulation of non-vascular fluids such as cerebrospinal fluid. Examples include body cavities, ventricular spaces, and other internal anatomical compartments. The terminology focuses on spatial anatomical entities rather than the tissues forming their boundaries. Vascular conduits responsible for blood or lymph transport are represented separately under vascular structures.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "anatomical cavity",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
