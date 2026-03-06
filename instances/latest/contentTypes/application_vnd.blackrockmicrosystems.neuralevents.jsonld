@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralevents",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".nev"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.blackrockmicrosystems.neuralevents",
-  "relatedMediaType": null,
   "specification": "https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf",
   "synonym": [
     "Blackrock Neural Events"

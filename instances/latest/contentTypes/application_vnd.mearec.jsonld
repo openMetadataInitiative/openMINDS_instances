@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.mearec",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".h5"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.mearec",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Multi-Electrode-Arrays",

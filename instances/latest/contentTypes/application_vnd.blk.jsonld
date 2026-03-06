@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.blk",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".blk"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.blk",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "BLK File"

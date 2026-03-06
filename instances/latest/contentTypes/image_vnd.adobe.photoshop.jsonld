@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/image_vnd.adobe.photoshop",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".psd"
   ],
+  "isBasedOn": null,
   "name": "image/vnd.adobe.photoshop",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

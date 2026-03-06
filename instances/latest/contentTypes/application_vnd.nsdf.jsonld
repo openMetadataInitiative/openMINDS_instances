@@ -5,16 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nsdf",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".nsdf"
   ],
-  "http://schema.org/identifier": [
-    "https://openminds.om-i.org/instances/contentTypes/application.vnd.nsdf"
-  ],
+  "isBasedOn": null,
   "name": "application/vnd.nsdf",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "NSDF files"

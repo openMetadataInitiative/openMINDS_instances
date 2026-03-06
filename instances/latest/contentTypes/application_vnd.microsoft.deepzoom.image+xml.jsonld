@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.microsoft.deepzoom.image+xml",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".dzi",
     ".xml"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.microsoft.deepzoom.image+xml",
-  "relatedMediaType": null,
   "specification": "https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645077(v=vs.95)",
   "synonym": [
     "Deep Zoom Image",

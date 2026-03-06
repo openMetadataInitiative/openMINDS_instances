@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.olympus.fluoview.fv1000",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".oif",
     ".oib"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.olympus.fluoview.fv1000",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Olympus FluoView FV1000"

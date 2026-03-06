@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/text_x-matlab",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".m"
   ],
+  "isBasedOn": null,
   "name": "text/x-matlab",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "MATLAB Plain",

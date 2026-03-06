@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.ansysfluent",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".dat",
     ".cas"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.ansysfluent",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "ANSYS Fluent"

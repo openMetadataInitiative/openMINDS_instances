@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.perkinelmer.operetta",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".xml",
     ".tiff"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.perkinelmer.operetta",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "PerkinElmer Operetta"

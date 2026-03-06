@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.wavemetrics.igorpro",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".igor"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.wavemetrics.igorpro",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

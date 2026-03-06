@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.improvision.openlab",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".raw",
     ".liff"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.improvision.openlab",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Improvision Openlab"

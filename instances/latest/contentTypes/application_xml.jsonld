@@ -5,13 +5,16 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_xml",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/application/xml"
+  ],
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".xml"
   ],
+  "isBasedOn": null,
   "name": "application/xml",
-  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/xml",
   "specification": null,
   "synonym": [
     "Extensible Markup Language",

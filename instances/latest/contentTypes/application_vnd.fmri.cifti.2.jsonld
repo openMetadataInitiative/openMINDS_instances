@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.fmri.cifti.2",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".nii.gz",
     ".dtseries.nii"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.fmri.cifti.2",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

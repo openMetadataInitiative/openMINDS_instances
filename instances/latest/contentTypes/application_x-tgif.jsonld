@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_x-tgif",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".obj"
   ],
+  "isBasedOn": null,
   "name": "application/x-tgif",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Tgif file format"

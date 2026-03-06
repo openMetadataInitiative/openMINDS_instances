@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.g-node.nix+hdf5",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".hdf5"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.g-node.nix+hdf5",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Neuroscience information exchange format"

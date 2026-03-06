@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.imagepro.workspace",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".ipw"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.imagepro.workspace",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "ImagePro Workspace"

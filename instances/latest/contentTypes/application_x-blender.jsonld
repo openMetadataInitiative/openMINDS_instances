@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_x-blender",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".blend"
   ],
+  "isBasedOn": null,
   "name": "application/x-blender",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Blender scene description format"

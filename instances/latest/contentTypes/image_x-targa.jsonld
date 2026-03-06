@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/image_x-targa",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".tga"
   ],
+  "isBasedOn": null,
   "name": "image/x-targa",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

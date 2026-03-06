@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.unicore.workflow+json",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".json"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.unicore.workflow+json",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "UNICORE workflow description language"
