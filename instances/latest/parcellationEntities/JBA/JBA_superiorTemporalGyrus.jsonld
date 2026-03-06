@@ -15,5 +15,6 @@
   "lookupLabel": "JBA_superiorTemporalGyrus",
   "name": "superior temporal gyrus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/superiorTemporalGyrus"
 }
+

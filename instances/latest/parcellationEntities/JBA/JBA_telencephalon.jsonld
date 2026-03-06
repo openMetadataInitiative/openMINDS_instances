@@ -15,5 +15,6 @@
   "lookupLabel": "JBA_telencephalon",
   "name": "telencephalon",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedUBERONTerm": "https://openminds.om-i.org/instances/UBERONParcellation/telencephalon"
 }
+
