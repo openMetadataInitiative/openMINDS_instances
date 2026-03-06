@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.x-matlab-data",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".mat"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.x-matlab-data",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

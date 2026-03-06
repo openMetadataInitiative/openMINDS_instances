@@ -5,13 +5,16 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/text_csv",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/text/csv"
+  ],
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".csv"
   ],
+  "isBasedOn": null,
   "name": "text/csv",
-  "relatedMediaType": "https://www.iana.org/assignments/media-types/text/csv",
   "specification": null,
   "synonym": [
     "Comma-Separated Value",

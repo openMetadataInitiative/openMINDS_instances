@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/image_tiff.multipage",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".tiff",
     ".tif"
   ],
+  "isBasedOn": null,
   "name": "image/tiff.multipage",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Tagged Image File (Multi-page)"

@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.unisoku",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".dat",
     ".hdr"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.unisoku",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Unisoku"

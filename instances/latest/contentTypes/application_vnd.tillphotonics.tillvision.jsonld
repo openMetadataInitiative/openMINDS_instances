@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.tillphotonics.tillvision",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".vws"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.tillphotonics.tillvision",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

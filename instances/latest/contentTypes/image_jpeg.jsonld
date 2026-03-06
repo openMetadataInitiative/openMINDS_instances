@@ -5,6 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/image_jpeg",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
@@ -15,8 +16,8 @@
     ".pjp",
     ".pjpeg"
   ],
+  "isBasedOn": null,
   "name": "image/jpeg",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Joint Photographic Expert Group",

@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nutil.parameters",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".nut"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.nutil.parameters",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Nutil Analysis Parameters"

@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.kodak.bip",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".bip"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.kodak.bip",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Kodak BIP"

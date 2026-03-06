@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_x-ipynb+json",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".ipynb"
   ],
+  "isBasedOn": null,
   "name": "application/x-ipynb+json",
-  "relatedMediaType": null,
   "specification": "https://nbformat.readthedocs.io/en/latest/format_description.html",
   "synonym": [
     "Jupyter Notebook",

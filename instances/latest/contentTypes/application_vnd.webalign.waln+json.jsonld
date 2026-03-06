@@ -10,8 +10,8 @@
   "fileExtension": [
     ".waln"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.webalign.waln+json",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "WebAlign waln format"

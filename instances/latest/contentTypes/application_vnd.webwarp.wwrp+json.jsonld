@@ -10,8 +10,8 @@
   "fileExtension": [
     ".wwrp"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.webwarp.wwrp+json",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "WebWarp wwrp format"

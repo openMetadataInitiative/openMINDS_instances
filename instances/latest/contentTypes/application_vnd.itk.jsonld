@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.itk",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".mhd",
     ".mha"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.itk",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

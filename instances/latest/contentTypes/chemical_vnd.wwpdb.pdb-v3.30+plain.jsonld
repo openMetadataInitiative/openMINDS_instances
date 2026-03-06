@@ -12,8 +12,8 @@
     ".ent",
     ".pdb"
   ],
+  "isBasedOn": null,
   "name": "chemical/vnd.wwpdb.pdb-v3.30+plain",
-  "relatedMediaType": null,
   "specification": "https://www.wwpdb.org/documentation/file-format-content/format33/v3.3.html",
   "synonym": [
     "chemical/pdb",

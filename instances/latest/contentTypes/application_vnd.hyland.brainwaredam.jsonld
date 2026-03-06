@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.hyland.brainwaredam",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".dam"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.hyland.brainwaredam",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Brainware DAM files"

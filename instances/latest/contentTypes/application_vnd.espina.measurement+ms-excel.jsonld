@@ -10,8 +10,8 @@
   "fileExtension": [
     ".xls"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.espina.measurement+ms-excel",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "EspINA Interactive Neuron Analyzer Measurement file",

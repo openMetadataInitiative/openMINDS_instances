@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.leica-biosystems.aperio",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".svs",
     ".afi"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.leica-biosystems.aperio",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

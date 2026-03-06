@@ -10,8 +10,8 @@
   "fileExtension": [
     ".cff"
   ],
+  "isBasedOn": null,
   "name": "text/vnd.citation-file-format",
-  "relatedMediaType": null,
   "specification": "https://github.com/citation-file-format/citation-file-format/blob/main/README.md",
   "synonym": [
     "CITATION.cff"

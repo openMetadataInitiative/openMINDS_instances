@@ -5,11 +5,11 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.neuroshareapi",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": null,
   "name": "application/vnd.neuroshareapi",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Neuroshare compatible files"

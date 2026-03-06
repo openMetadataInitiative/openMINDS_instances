@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nexstim.nbs-system.data",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".nxe"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.nexstim.nbs-system.data",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

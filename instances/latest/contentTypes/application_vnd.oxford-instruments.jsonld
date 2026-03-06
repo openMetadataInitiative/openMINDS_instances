@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.oxford-instruments",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".top"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.oxford-instruments",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Oxford Instruments"

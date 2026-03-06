@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nestml",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".nestml"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.nestml",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "NESTML"

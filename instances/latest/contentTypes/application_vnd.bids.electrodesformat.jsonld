@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.bids.electrodesformat",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".tsv"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.bids.electrodesformat",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "BIDS electrodes format"

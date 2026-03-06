@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/text_x-cml+xml",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".cml"
   ],
+  "isBasedOn": null,
   "name": "text/x-cml+xml",
-  "relatedMediaType": null,
   "specification": "http://www.xml-cml.org/schema/schema3/schema.xsd",
   "synonym": null
 }

@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.plot3d",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".xyz",
     ".q"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.plot3d",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "PLOT3D"

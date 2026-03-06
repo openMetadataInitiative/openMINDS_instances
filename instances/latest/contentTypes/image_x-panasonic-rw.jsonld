@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/image_x-panasonic-rw",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".raw"
   ],
+  "isBasedOn": null,
   "name": "image/x-panasonic-rw",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Panasonic RAW file format"

@@ -10,8 +10,8 @@
   "fileExtension": [
     ".mmcif"
   ],
+  "isBasedOn": null,
   "name": "chemical/vnd.wwpdb.pdbx-mmcif.v5+plain",
-  "relatedMediaType": null,
   "specification": "https://mmcif.wwpdb.org/docs/user-guide/guide.html",
   "synonym": [
     "chemical/x-mmcif",

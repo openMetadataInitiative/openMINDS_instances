@@ -5,14 +5,17 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/text_markdown",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/text/markdown"
+  ],
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".md",
     ".markdown"
   ],
+  "isBasedOn": null,
   "name": "text/markdown",
-  "relatedMediaType": "https://www.iana.org/assignments/media-types/text/markdown",
   "specification": null,
   "synonym": [
     "Markdown"

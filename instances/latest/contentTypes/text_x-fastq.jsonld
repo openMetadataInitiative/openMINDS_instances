@@ -11,8 +11,8 @@
     ".fg",
     ".fg.gz"
   ],
+  "isBasedOn": null,
   "name": "text/x-fastq",
-  "relatedMediaType": null,
   "specification": "https://en.wikipedia.org/wiki/FASTQ_format",
   "synonym": [
     "FASTQ Format"

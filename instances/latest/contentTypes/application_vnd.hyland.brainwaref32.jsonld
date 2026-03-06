@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.hyland.brainwaref32",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".f32"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.hyland.brainwaref32",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Brainware F32 files"

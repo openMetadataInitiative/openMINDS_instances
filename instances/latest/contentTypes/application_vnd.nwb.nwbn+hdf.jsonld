@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nwb.nwbn+hdf",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".nwb",
     ".h5"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.nwb.nwbn+hdf",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "NWB:N"

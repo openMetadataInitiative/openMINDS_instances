@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/text_plain",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".txt"
   ],
+  "isBasedOn": null,
   "name": "text/plain",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "plain text file format"

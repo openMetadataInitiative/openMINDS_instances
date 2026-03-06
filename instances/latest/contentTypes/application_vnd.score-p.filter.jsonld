@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.score-p.filter",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".txt"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.score-p.filter",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

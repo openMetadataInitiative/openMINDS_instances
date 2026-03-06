@@ -10,8 +10,8 @@
   "fileExtension": [
     ".schema.tpl.json"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.openmetadatainitiative.openminds.schema-tpl+json",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "openMINDS schema template"

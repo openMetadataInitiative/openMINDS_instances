@@ -10,8 +10,8 @@
   "fileExtension": [
     ".bval"
   ],
+  "isBasedOn": null,
   "name": "text/vnd.fsl.bval",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "FSL bval format",

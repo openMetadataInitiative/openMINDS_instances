@@ -5,13 +5,16 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_sbml+xml",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/application/sbml+xml"
+  ],
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".sbml"
   ],
+  "isBasedOn": null,
   "name": "application/sbml+xml",
-  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/sbml+xml",
   "specification": null,
   "synonym": [
     "System Biology Markup Language"

@@ -10,8 +10,8 @@
   "fileExtension": [
     ".schema.omi.json"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.openmetadatainitiative.openminds.schema+json",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "openMINDS schema"

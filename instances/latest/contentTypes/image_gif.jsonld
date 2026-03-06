@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/image_gif",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".gif"
   ],
+  "isBasedOn": null,
   "name": "image/gif",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Graphics Interchange Format",

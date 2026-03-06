@@ -10,8 +10,8 @@
   "fileExtension": [
     ".seg"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.espina.segmentation.seg",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "EspINA Interactive Neuron Analyzer Segmentation file",

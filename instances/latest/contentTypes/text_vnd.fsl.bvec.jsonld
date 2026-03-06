@@ -10,8 +10,8 @@
   "fileExtension": [
     ".bvec"
   ],
+  "isBasedOn": null,
   "name": "text/vnd.fsl.bvec",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "FSL bvec format",

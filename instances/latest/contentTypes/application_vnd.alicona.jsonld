@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.alicona",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".al3d"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.alicona",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/text_semicolon-separated-values",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".csv"
   ],
+  "isBasedOn": null,
   "name": "text/semicolon-separated-values",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "semi-colon separated value"

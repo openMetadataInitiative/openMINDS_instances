@@ -5,11 +5,11 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.neuroscope",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": null,
   "name": "application/vnd.neuroscope",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "NeuroScope format files"

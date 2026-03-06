@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.zarr",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".zarray",
     ".zarr"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.zarr",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Zarr format array "

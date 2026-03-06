@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/image_x-hdf",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".hdf5",
     ".h5"
   ],
+  "isBasedOn": null,
   "name": "image/x-hdf",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "HDF5 image"

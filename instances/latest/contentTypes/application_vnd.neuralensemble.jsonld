@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.neuralensemble",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".neo"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.neuralensemble",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }
