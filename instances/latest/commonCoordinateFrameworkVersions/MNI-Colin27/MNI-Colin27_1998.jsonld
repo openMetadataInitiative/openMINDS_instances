@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/MNI-Colin27_1998",
   "@type": "https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion",
   "abbreviation": "MNI-Colin27",
-  "accessibility": null,
+  "accessibility": {
+    "@id": "https://openminds.om-i.org/instances/accessibilities/directVirtualOpenAccess"
+  },
   "anatomicalAxesOrientation": {
     "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
   },

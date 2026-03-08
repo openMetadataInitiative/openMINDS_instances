@@ -5,7 +5,9 @@
   "@id": "https://openminds.om-i.org/instances/commonCoordinateFrameworkVersion/MNI-ICBM152_nonlinear-2009a-sym",
   "@type": "https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion",
   "abbreviation": "ICBM152",
-  "accessibility": null,
+  "accessibility": {
+    "@id": "https://openminds.om-i.org/instances/accessibilities/directVirtualOpenAccess"
+  },
   "anatomicalAxesOrientation": null,
   "axesOrigin": null,
   "copyright": null,

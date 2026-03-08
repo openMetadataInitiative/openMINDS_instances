@@ -6,7 +6,7 @@
   "@type": "https://openminds.om-i.org/types/CommonCoordinateFrameworkVersion",
   "abbreviation": "MEBRAINStemplate",
   "accessibility": {
-    "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
+    "@id": "https://openminds.om-i.org/instances/accessibilities/directVirtualOpenAccess"
   },
   "anatomicalAxesOrientation": {
     "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
