@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/proprioceptiveSystem",
-  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "@id": "https://openminds.om-i.org/instances/organismSystem/proprioceptiveSystem",
+  "@type": "https://openminds.om-i.org/types/OrganismSystem",
   "definition": "Is a neural system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025533)]",
   "description": "The sensory system for the sense of proprioception. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025533)]",
   "interlexIdentifier": null,

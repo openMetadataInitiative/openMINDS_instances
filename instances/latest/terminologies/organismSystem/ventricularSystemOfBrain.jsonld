@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/ventricularSystemOfBrain",
-  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "@id": "https://openminds.om-i.org/instances/organismSystem/ventricularSystemOfBrain",
+  "@type": "https://openminds.om-i.org/types/OrganismSystem",
   "definition": "Is an anatomical system. Is part of the brain and the ventricular system of central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005282) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0731568",
