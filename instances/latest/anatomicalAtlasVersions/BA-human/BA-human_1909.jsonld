@@ -6,7 +6,7 @@
   "@type": "https://openminds.om-i.org/types/AnatomicalAtlasVersion",
   "abbreviation": "BA-human",
   "accessibility": {
-    "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
+    "@id": "https://openminds.om-i.org/instances/accessibilities/directVirtualOpenAccess"
   },
   "coordinateFramework": null,
   "copyright": null,
