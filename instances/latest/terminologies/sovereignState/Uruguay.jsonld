@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Uruguay",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q77",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q77",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Eastern Republic of Uruguay",
     "Oriental Republic of Uruguay",

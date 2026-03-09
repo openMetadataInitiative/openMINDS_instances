@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of cerebellar nuclear complex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002153)]",
   "description": "The most medial of the cerebellar nuclei; it receives its afferent input from Purkinje cells of the flocculonodular lobe and the vermis, and most of its efferent connections travel via the inferior cerebellar peduncle to the vestibular nuclei and to the medullary reticular formation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002153)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104122",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002153#fastigial-nucleus-1",
   "name": "fastigial nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002153#fastigial-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002153",
   "synonym": [
     "medial (fastigial) nucleus",
@@ -17,4 +18,3 @@
     "roof nucleus-1"
   ]
 }
-

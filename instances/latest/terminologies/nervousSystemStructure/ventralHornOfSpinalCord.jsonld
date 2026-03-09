@@ -7,8 +7,10 @@
   "definition": "Is a spinal cord column. Is part of the gray matter of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002257) ('is_a' and 'relationship')]",
   "description": "The ventral grey column of the spinal cord. The neurons of the ventral region of the mature spinal cord participate in motor output. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002257)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002257#spinal-cord-ventral-horn",
   "name": "ventral horn of spinal cord",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002257#spinal-cord-ventral-horn",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002257",
   "synonym": [
     "anterior gray column of spinal cord",
@@ -27,4 +29,3 @@
     "ventral spinal cord"
   ]
 }
-

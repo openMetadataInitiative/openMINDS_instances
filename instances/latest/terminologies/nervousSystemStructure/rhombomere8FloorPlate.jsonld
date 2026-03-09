@@ -7,8 +7,10 @@
   "definition": "Is a rhombomere floor plate. Is part of the rhombomere 8. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005588) ('is_a' and 'relationship')]",
   "description": "A rhombomere floor plate that is part of a rhombomere 8. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005588)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005588#rhombomere-8-floor-plate",
   "name": "rhombomere 8 floor plate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005588#rhombomere-8-floor-plate",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005588",
   "synonym": [
     "floor plate r8",
@@ -16,4 +18,3 @@
     "floorplate r8"
   ]
 }
-

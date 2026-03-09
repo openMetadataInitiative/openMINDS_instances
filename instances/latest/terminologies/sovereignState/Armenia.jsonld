@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Armenia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q399",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q399",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "AM",
     "ARM",

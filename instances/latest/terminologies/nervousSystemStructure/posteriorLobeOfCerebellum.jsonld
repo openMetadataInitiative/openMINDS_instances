@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004002)]",
   "description": "The region of the cerebellum that is posterior to the primary fissure and anterior to the posteriolateral fissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004002)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109103",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004002#posterior-lobe-of-the-cerebellum",
   "name": "posterior lobe of cerebellum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004002#posterior-lobe-of-the-cerebellum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004002",
   "synonym": [
     "cerebellar posterior lobe",
@@ -19,4 +20,3 @@
     "posterior lobe-1 of cerebellum"
   ]
 }
-

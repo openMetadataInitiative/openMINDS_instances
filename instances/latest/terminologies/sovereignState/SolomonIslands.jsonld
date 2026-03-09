@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Solomon Islands",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q685",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q685",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "sb",
     "SB",

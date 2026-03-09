@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Sierra Leone",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1044",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1044",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Republic of Sierra Leone",
     "SL",

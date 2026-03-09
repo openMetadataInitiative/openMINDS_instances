@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "European Union",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q458",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q458",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "An tAontas Eorpach",
     "Den Europæiske Union",

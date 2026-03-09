@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Slovenia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q215",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q215",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Republic of Slovenia",
     "Republika Slovenija",

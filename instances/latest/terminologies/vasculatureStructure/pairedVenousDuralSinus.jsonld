@@ -7,8 +7,10 @@
   "definition": "Is a venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017635)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0017635#paired-venous-dural-sinus",
   "name": "paired venous dural sinus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0017635#paired-venous-dural-sinus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0017635",
   "synonym": [
     "paired dural venous sinus"

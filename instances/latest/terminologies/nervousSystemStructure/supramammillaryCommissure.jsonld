@@ -7,8 +7,10 @@
   "definition": "Is a commissure of diencephalon. Is part of the posterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002991) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002991#supramammillary-commissure-1",
   "name": "supramammillary commissure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002991#supramammillary-commissure-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002991",
   "synonym": [
     "commissure of forel",
@@ -18,4 +20,3 @@
     "supramammillary decussation"
   ]
 }
-

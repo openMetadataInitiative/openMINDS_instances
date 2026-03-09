@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Cambodia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q424",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q424",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Camboya",
     "Campuchia",

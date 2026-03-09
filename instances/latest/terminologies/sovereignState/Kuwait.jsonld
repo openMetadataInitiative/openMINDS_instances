@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Kuwait",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q817",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q817",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "KUW",
     "KW",

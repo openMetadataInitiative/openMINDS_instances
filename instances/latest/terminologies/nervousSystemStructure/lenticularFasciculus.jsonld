@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a ventral thalamic fasciculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014529)]",
   "description": "The lenticular fasciculus is a tract connecting the globus pallidus to the Thalamic fasciculus. The thalamic fasciculus (composed of the lenticular fasciculus and ansa lenticularis) runs into the Thalamus. It connects the globus pallidus to the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014529)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106170",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014529#lenticular-fasciculus-1",
   "name": "lenticular fasciculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014529#lenticular-fasciculus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014529",
   "synonym": [
     "dorsal division of ansa lenticularis",
@@ -21,4 +22,3 @@
     "tegmental area h2"
   ]
 }
-

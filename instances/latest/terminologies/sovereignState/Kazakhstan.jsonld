@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Kazakhstan",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q232",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q232",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "KAZ",
     "KZ",

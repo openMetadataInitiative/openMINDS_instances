@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Sudan",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1049",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1049",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "al-Sudan",
     "as-Sudan",

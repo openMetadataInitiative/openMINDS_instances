@@ -7,9 +7,10 @@
   "definition": "Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the caudal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034805) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034805#stratum-pyramidale-of-caudal-ca2",
   "name": "stratum pyramidale of caudal CA2",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034805#stratum-pyramidale-of-caudal-ca2",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034805",
   "synonym": null
 }
-

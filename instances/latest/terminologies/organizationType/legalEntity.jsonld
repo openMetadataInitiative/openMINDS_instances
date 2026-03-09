@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "legal entity",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q10541491",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q10541491",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

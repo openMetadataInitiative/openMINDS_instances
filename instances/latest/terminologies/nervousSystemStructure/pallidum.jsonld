@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brain gray matter. Is part of the basal ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006514) ('is_a' and 'relationship')]",
   "description": "Part of what are called the basal ganglia of the brain which consist of the globus pallidus and the ventral pallidum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006514)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0381379",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006514#pallidum",
   "name": "pallidum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006514#pallidum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006514",
   "synonym": [
     "neuraxis pallidum",
     "pallidum of neuraxis"
   ]
 }
-

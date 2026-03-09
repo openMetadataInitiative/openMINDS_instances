@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of neocortex. Is part of the barrel cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035877) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109288",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035877#primary-somatosensory-area-barrel-field-layer-4",
   "name": "primary somatosensory area barrel field layer 4",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035877#primary-somatosensory-area-barrel-field-layer-4",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035877",
   "synonym": null
 }
-

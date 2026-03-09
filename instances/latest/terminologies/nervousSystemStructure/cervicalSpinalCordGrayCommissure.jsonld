@@ -7,9 +7,10 @@
   "definition": "Is a cervical spinal cord gray matter and dorsal gray commissure of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0029626)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0029626#cervical-spinal-cord-gray-commissure-1",
   "name": "cervical spinal cord gray commissure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0029626#cervical-spinal-cord-gray-commissure-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0029626",
   "synonym": null
 }
-

@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an orbital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002575)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109112",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002575#posterior-orbital-gyrus-1",
   "name": "posterior orbital gyrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002575#posterior-orbital-gyrus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002575",
   "synonym": null
 }
-

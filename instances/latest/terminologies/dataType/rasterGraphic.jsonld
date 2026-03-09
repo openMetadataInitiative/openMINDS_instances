@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "raster graphic",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q182270",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q182270",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "pixel data",
     "raster image"

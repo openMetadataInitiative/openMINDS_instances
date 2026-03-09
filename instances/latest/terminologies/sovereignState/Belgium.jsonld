@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Belgium",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q31",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q31",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "be",
     "BE",

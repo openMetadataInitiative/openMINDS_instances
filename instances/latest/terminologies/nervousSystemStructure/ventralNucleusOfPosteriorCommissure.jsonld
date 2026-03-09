@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brainstem nucleus and midbrain nucleus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002044) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107753",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002044#nucleus-of-darkschewitsch",
   "name": "ventral nucleus of posterior commissure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002044#nucleus-of-darkschewitsch",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002044",
   "synonym": [
     "Darkshevich nucleus",
@@ -16,4 +17,3 @@
     "nucleus of Darkschewitsch"
   ]
 }
-

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Nepal",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q837",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q837",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Bal-bo",
     "Bal-po'i yul",

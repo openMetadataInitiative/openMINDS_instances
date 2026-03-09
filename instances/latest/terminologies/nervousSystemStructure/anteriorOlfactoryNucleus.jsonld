@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002266) ('is_a' and 'relationship')]",
   "description": "Laminated structure lying caudal to the olfactory bulb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002266)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100724",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002266#anterior-olfactory-nucleus-1",
   "name": "anterior olfactory nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002266#anterior-olfactory-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002266",
   "synonym": [
     "nucleus retrobulbaris [a8]",
     "retrobulbar nucleus [a8]"
   ]
 }
-

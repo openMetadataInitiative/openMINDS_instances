@@ -7,8 +7,10 @@
   "definition": "Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007711)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007711#sixth-cervical-dorsal-root-ganglion-1",
   "name": "sixth cervical dorsal root ganglion",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0007711#sixth-cervical-dorsal-root-ganglion-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007711",
   "synonym": [
     "C6 dorsal root ganglion",
@@ -16,4 +18,3 @@
     "sixth cervical spinal ganglion"
   ]
 }
-

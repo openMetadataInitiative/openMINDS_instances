@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Palau",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q695",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q695",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Belau",
     "Peeloo",

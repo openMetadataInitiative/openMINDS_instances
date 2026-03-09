@@ -7,8 +7,10 @@
   "definition": "Is a nerve of head region. Is part of the oculomotor nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015162) ('is_a' and 'relationship')]",
   "description": "The superior branch of the oculomotor nerve or the superior division, the smaller, passes medialward over the optic nerve. It supplies the Superior rectus and Levator palpebrae superioris. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015162)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015162#superior-branch-of-oculomotor-nerve",
   "name": "superior branch of oculomotor nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0015162#superior-branch-of-oculomotor-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015162",
   "synonym": [
     "oculomotor nerve superior division",
@@ -18,4 +20,3 @@
     "superior ramus of oculomotor nerve"
   ]
 }
-

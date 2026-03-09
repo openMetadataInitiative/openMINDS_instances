@@ -9,9 +9,11 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "barium",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_37133",
   "synonym": [
     "Ba"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the lateral geniculate body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002480) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112321",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002480#ventral-nucleus-of-lateral-geniculate-body",
   "name": "ventral lateral geniculate nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002480#ventral-nucleus-of-lateral-geniculate-body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002480",
   "synonym": [
     "corpus geniculatum externum, nucleus accessorius",
@@ -28,4 +29,3 @@
     "ventral part of the lateral geniculate complex"
   ]
 }
-

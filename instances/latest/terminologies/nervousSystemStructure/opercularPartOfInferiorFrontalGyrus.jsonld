@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the inferior frontal gyrus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002980)]",
   "description": "Component of the inferior frontal gyrus. Defined as the first gyrus from the precentral gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002980)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108057",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002980#opercular-part-of-inferior-frontal-gyrus-1",
   "name": "opercular part of inferior frontal gyrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002980#opercular-part-of-inferior-frontal-gyrus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002980",
   "synonym": [
     "gyrus frontalis inferior, pars opercularis",
@@ -19,4 +20,3 @@
     "posterior part of inferior frontal gyrus"
   ]
 }
-

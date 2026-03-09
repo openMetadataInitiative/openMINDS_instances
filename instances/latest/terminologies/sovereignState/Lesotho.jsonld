@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Lesotho",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1013",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1013",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Kingdom of Lesotho",
     "LES",

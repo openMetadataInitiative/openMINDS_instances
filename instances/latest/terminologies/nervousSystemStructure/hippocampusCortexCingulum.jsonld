@@ -7,8 +7,10 @@
   "definition": "Is a cingulum of brain. Is part of the Ammon's horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022430) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022430#hippocampus-cortex-cingulum",
   "name": "hippocampus cortex cingulum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0022430#hippocampus-cortex-cingulum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022430",
   "synonym": [
     "cingulum (Ammon's horn)",
@@ -16,4 +18,3 @@
     "cingulum bundle in hippocampus"
   ]
 }
-

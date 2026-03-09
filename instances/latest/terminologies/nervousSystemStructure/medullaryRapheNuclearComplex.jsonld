@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medulla oblongata and the raphe nuclei. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002692) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106743",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002692#medullary-raphe-nuclear-complex-1",
   "name": "medullary raphe nuclear complex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002692#medullary-raphe-nuclear-complex-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002692",
   "synonym": [
     "raphe medullae oblongatae",
@@ -16,4 +17,3 @@
     "raphe of medulla oblongata"
   ]
 }
-

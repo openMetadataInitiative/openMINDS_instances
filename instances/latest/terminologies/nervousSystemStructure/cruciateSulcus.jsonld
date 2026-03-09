@@ -7,9 +7,10 @@
   "definition": "Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013590)]",
   "description": "A deep groove which runs transversely across the rostro-dorsal surface of the cerebrum and which is one of the landmarks on the cerebral cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013590)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013590#cruciate-sulcus",
   "name": "cruciate sulcus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0013590#cruciate-sulcus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013590",
   "synonym": null
 }
-

@@ -6,9 +6,11 @@
   "@type": "https://openminds.om-i.org/types/Organ",
   "definition": "'Muscle' is part of the musculoskeletal system.",
   "description": "Organ consisting of a tissue made up of various elongated cells that are specialized to contract and thus to produce movement and mechanical work.",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107218",
   "knowledgeSpaceLink": null,
   "name": "muscle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001630",
   "synonym": null
 }

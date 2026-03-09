@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Ireland",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q27",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q27",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Hibernia",
     "IE",

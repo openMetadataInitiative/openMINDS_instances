@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "COVAX",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q99360983",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q99360983",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "COVAX Facility",
     "COVAX Global Vaccines Facility",

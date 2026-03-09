@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the cerebral cortex and the olfactory lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002894) ('is_a' and 'relationship')]",
   "description": "Aggregate brain region defined as those areas of cerebral cortex receiving direct synaptic input from the olfactory bulb (Price, 1973). It usually includes the piriform cortex and sometimes other areas. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002894)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107946",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002894#olfactory-cortex-1",
   "name": "olfactory cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002894#olfactory-cortex-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002894",
   "synonym": null
 }
-

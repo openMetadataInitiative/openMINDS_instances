@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Bhutan",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q917",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q917",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "BHU",
     "bt",

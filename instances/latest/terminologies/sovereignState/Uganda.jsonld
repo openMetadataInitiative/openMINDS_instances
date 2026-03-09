@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Uganda",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1036",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1036",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Jamhuri ya Uganda",
     "Ouganda",

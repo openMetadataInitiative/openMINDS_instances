@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the ventral posterior nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002939) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112335",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002939#ventral-posteroinferior-nucleus-1",
   "name": "ventral posteroinferior nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002939#ventral-posteroinferior-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002939",
   "synonym": [
     "nucleus ventralis posterior inferior thalami",
@@ -17,4 +18,3 @@
     "ventral posterior inferior thalamic nucleus"
   ]
 }
-

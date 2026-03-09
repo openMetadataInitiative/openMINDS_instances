@@ -6,10 +6,14 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "A 'DNA methylation analysis' studies chromosomal patterns of DNA or histone modification by methyl groups ([modified from Nature.com](https://www.nature.com/subjects/methylation-analysis)).",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0779582",
   "knowledgeSpaceLink": null,
   "name": "DNA methylation analysis",
-  "preferredOntologyIdentifier": null,
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0779582"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0779582",
   "synonym": [
     "methylation analysis"
   ]

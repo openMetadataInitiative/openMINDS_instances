@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "C",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q15777",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q15777",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

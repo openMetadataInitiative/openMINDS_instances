@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Cyprus",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q229",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q229",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "CY",
     "CYP",

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Vatican City",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q237",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q237",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Città del Vaticano",
     "Civitas Vaticana",

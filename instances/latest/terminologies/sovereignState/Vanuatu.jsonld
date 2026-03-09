@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Vanuatu",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q686",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q686",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Republic of Vanuatu",
     "Ripablik blong Vanuatu",

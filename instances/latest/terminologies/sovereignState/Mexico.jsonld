@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Mexico",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q96",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q96",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "MEX",
     "Mexican Republic",

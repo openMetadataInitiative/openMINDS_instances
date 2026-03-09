@@ -6,9 +6,11 @@
   "@type": "https://openminds.om-i.org/types/AgeCategory",
   "definition": "'Neonate' categorizes the life cycle stage of an animal or human that immediately follows birth.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0732178",
   "knowledgeSpaceLink": null,
   "name": "neonate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007221",
   "synonym": [
     "neonatal stage",

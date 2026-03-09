@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002298)]",
   "description": "Stalk-like part of the brain that includes amongst its parts the medulla oblongata of the hindbrain and the tegmentum of the midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002298)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101444",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002298#brainstem-1",
   "name": "brainstem",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002298#brainstem-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002298",
   "synonym": [
     "brain stem",
     "truncus encephali"
   ]
 }
-

@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Shell",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q14663",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q14663",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

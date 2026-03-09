@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002770) ('is_a' and 'relationship')]",
   "description": "The part of the hypothalamus posterior to the middle region consisting of several nuclei including the medial mamillary nucleus, lateral mamillary nucleus, and posterior hypothalamic nucleus (posterior hypothalamic area). The posterior hypothalamic area is concerned with control of sympathetic responses and is sensitive to conditions of decreasing temperature and controls the mechanisms for the conservation and increased production of heat. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002770)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109099",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002770#posterior-hypothalamic-region-1",
   "name": "posterior hypothalamic region",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002770#posterior-hypothalamic-region-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002770",
   "synonym": [
     "mammillary level of hypothalamus",
@@ -16,4 +17,3 @@
     "posterior hypothalamus"
   ]
 }
-

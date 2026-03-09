@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a preoptic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002634)]",
   "description": "A loose heterogeneous collection of cells in the anterior hypothalamus, continuous rostrally with the medial and lateral preoptic areas and caudally with the tuber cinereum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002634)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100719",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002634#anterior-nucleus-of-hypothalamus-1",
   "name": "anterior nucleus of hypothalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002634#anterior-nucleus-of-hypothalamus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002634",
   "synonym": [
     "anterior hypothalamic nucleus",
@@ -17,4 +18,3 @@
     "parvocellular nucleus of hypothalamus"
   ]
 }
-

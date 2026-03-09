@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Kenya",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q114",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q114",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ke",
     "KE",

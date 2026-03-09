@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the substantia nigra. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001965)]",
   "description": "Regional part of substantia nigra consisting of a densely packed region of cells, more or less dorsal to the pars reticulata, but extending into the pars reticulata in some species. The dominant neurotransmitter used by pars compacta neurons is dopamine. Pars compacta neurons are pigmented in many species (MM). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001965)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111219",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001965#substantia-nigra-pars-compacta-1",
   "name": "substantia nigra pars compacta",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001965#substantia-nigra-pars-compacta-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001965",
   "synonym": [
     "compact part of substantia nigra",
@@ -20,4 +21,3 @@
     "substantia nigra, compact part"
   ]
 }
-

@@ -6,9 +6,11 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "A flat anatomical 2D surface that bisects an anatomical structure or an anatomical space.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0725051",
   "knowledgeSpaceLink": null,
   "name": "anatomical plane",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035085",
   "synonym": [
     "fiat anatomical surface"

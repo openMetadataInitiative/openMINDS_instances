@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005393)]",
   "description": "Layer of neocortex lying deep to the external pyramidal cell layer defined cytoarchitecturally by the presence of numerous small cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005393)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107370",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005393#cortical-layer-iv",
   "name": "cortical layer IV",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005393#cortical-layer-iv",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005393",
   "synonym": [
     "cerebral cortex, layer 4",
@@ -25,4 +26,3 @@
     "neocortical layer IV"
   ]
 }
-

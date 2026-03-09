@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Slovakia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q214",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q214",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "SK",
     "SKV",

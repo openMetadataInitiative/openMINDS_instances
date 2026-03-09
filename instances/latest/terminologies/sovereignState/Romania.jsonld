@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Romania",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q218",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q218",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ro",
     "RO",

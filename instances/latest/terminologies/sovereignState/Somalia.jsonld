@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Somalia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1045",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1045",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Federal Republic of Somalia",
     "Jamhuuriyadda Federaalka Soomaaliya",

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the medial septal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001879) ('is_a' and 'relationship')]",
   "description": "A brain structure that is part of the septal nuclear complex. It is connected with the hippocampus, hypothalamus and amygdala. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001879)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107755",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001879#nucleus-of-diagonal-band-1",
   "name": "nucleus of diagonal band",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001879#nucleus-of-diagonal-band-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001879",
   "synonym": [
     "diagonal band nucleus",
@@ -17,4 +18,3 @@
     "olfactory area (roberts)"
   ]
 }
-

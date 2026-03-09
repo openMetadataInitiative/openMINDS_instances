@@ -7,12 +7,13 @@
   "definition": "Is part of the hypothalamus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002272)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002272#medial-zone-of-hypothalamus",
   "name": "medial zone of hypothalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002272#medial-zone-of-hypothalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002272",
   "synonym": [
     "hypothalamus medial zone",
     "zona medialis hypothalamicae"
   ]
 }
-

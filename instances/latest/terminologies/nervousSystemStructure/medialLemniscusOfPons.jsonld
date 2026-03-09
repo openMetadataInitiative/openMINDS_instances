@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nervous system lemniscus. Is part of the medial lemniscus and the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002958) ('is_a' and 'relationship')]",
   "description": "Part of medial lemniscus located within the pons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002958)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106654",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002958#medial-lemniscus-of-pons-1",
   "name": "medial lemniscus of pons",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002958#medial-lemniscus-of-pons-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002958",
   "synonym": [
     "medial lemniscus of pons of varolius",
@@ -16,4 +17,3 @@
     "pons of varolius medial lemniscus"
   ]
 }
-

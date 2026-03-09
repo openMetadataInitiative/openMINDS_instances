@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Chile",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q298",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q298",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "CHI",
     "Chile",

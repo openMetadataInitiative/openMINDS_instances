@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "organization type",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q17197366",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q17197366",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

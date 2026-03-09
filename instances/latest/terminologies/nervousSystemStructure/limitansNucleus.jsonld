@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003026)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106267",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003026#limitans-nucleus-1",
   "name": "limitans nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003026#limitans-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003026",
   "synonym": [
     "limitans thalamic nucleus",
@@ -17,4 +18,3 @@
     "nucleus limitans thalami"
   ]
 }
-

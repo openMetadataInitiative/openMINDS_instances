@@ -7,11 +7,12 @@
   "definition": "Is a nucleus of lateral lemniscus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007710)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007710#intermediate-nucleus-of-lateral-lemniscus",
   "name": "intermediate nucleus of lateral lemniscus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0007710#intermediate-nucleus-of-lateral-lemniscus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007710",
   "synonym": [
     "nucleus of the lateral lemniscus, horizontal part"
   ]
 }
-

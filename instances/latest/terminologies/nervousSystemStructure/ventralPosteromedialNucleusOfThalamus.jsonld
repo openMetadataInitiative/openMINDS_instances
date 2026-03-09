@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the ventral posterior nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002945) ('is_a' and 'relationship')]",
   "description": "The ventral posteromedial nucleus is a nucleus of the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002945)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112339",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002945#ventral-posteromedial-nucleus",
   "name": "ventral posteromedial nucleus of thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002945#ventral-posteromedial-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002945",
   "synonym": [
     "arcuate nucleus of thalamus",
@@ -32,4 +33,3 @@
     "ventroposteromedial nucleus of the thalamus"
   ]
 }
-

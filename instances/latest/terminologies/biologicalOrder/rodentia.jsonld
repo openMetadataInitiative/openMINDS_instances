@@ -6,9 +6,11 @@
   "@type": "https://openminds.om-i.org/types/BiologicalOrder",
   "definition": "The biological order *Rodentia* (rodents) belongs to the class *Mammalia* (mammals).",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110175",
   "knowledgeSpaceLink": null,
   "name": "Rodentia",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9989",
   "synonym": [
     "rodents"

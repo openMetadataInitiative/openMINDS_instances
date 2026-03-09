@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Moldova",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q217",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q217",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "MD",
     "MDA",

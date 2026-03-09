@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Egypt",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q79",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q79",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Arab Rep. Egypt",
     "Arab Republic of Egypt",

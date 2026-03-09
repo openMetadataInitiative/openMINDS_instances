@@ -6,9 +6,11 @@
   "@type": "https://openminds.om-i.org/types/BiologicalOrder",
   "definition": "The biological order *Cypriniformes* belongs to the class *Actinopterygii* (ray-finned fishes).",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0737279",
   "knowledgeSpaceLink": null,
   "name": "Cypriniformes",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0005508",
   "synonym": null
 }

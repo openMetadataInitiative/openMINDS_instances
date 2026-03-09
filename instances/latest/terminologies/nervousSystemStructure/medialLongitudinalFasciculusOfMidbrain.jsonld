@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a medial longitudinal fasciculus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002660) ('is_a' and 'relationship')]",
   "description": "A medial longitudinal fasciculus that is part of a midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002660)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106657",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002660#medial-longitudinal-fasciculus-of-midbrain-1",
   "name": "medial longitudinal fasciculus of midbrain",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002660#medial-longitudinal-fasciculus-of-midbrain-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002660",
   "synonym": [
     "midbrain medial longitudinal fasciculus"
   ]
 }
-

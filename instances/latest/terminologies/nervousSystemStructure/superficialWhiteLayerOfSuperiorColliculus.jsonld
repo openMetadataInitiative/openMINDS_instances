@@ -7,8 +7,10 @@
   "definition": "Is a white matter of superior colliculus and superficial layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006779)]",
   "description": "Superficial white matter layer of superior collilculus that consists mainly of axions from the optic nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006779)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006779#superficial-white-layer-of-superior-colliculus",
   "name": "superficial white layer of superior colliculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006779#superficial-white-layer-of-superior-colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006779",
   "synonym": [
     "lamina colliculi superioris iii",
@@ -19,4 +21,3 @@
     "stratum opticum colliculi superioris"
   ]
 }
-

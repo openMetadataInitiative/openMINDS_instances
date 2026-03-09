@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Choline is a cation with the chemical formula [(CH3)3NCH2CH2OH]+. Choline forms various salts, for example choline chloride and choline bitartrate. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Choline)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102128",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:15354#choline",
   "name": "choline",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/CHEBI:15354#choline",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_15354",
   "synonym": [
     "(2-hydroxyethyl)trimethylammonium",

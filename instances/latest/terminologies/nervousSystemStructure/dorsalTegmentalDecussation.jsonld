@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neural decussation. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003009) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103484",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003009#dorsal-tegmental-decussation-1",
   "name": "dorsal tegmental decussation",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003009#dorsal-tegmental-decussation-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003009",
   "synonym": [
     "decussatio tegmentalis posterior",
@@ -18,4 +19,3 @@
     "posterior tegmental decussation"
   ]
 }
-

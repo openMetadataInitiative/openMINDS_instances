@@ -7,9 +7,10 @@
   "definition": "Is a layer of neocortex. Is part of the barrel cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035874) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035874#primary-somatosensory-area-barrel-field-layer-2-3",
   "name": "primary somatosensory area barrel field layer 2/3",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035874#primary-somatosensory-area-barrel-field-layer-2-3",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035874",
   "synonym": null
 }
-

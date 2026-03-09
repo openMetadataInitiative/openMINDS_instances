@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the lateral septal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002667) ('is_a' and 'relationship')]",
   "description": "Regional part of the septal nuclei, lying dorsal and slightly lateral to the medial septal nucleus. The lateral septum receives the bulk of projections of areas projecting to the septal nuclei (Adapted from Brodal, 1981). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002667)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106106",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002667#lateral-septal-nucleus-1",
   "name": "lateral septal nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002667#lateral-septal-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002667",
   "synonym": [
     "lateral parolfactory nucleus",
@@ -17,4 +18,3 @@
     "lateral septum nucleus"
   ]
 }
-

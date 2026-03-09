@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of midbrain tectum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002140)]",
   "description": "Cholinergic cell group that is located ventral to the brachium of the inferior colliculus (in rat) and has reciprocal connectivity with the superior colliculus (Adapted from Paxinos, The rat central nervous system, 2nd ed, 1995, pg 865. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002140)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108414",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002140#parabigeminal-nucleus-1",
   "name": "parabigeminal nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002140#parabigeminal-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002140",
   "synonym": [
     "nucleus parabigeminalis"
   ]
 }
-

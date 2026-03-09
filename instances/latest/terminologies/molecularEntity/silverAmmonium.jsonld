@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Silver ammonium",
-  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/57440423",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://pubchem.ncbi.nlm.nih.gov/compound/57440423",
+  "preferredOntologyIdentifier": null,
   "synonym": []
 }

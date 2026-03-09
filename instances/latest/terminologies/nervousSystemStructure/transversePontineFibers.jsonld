@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a tract of brain. Is part of the basal part of pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002735) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111909",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002735#transverse-pontine-fibers-1",
   "name": "transverse pontine fibers",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002735#transverse-pontine-fibers-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002735",
   "synonym": [
     "fibrae pontis transversae",
@@ -18,4 +19,3 @@
     "transverse pontine tract"
   ]
 }
-

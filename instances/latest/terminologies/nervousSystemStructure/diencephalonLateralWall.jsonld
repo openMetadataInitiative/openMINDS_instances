@@ -7,12 +7,13 @@
   "definition": "Is part of the diencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005591)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005591#diencephalon-lateral-wall",
   "name": "diencephalon lateral wall",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005591#diencephalon-lateral-wall",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005591",
   "synonym": [
     "lateral wall diencephalic region",
     "lateral wall diencephalon"
   ]
 }
-

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Bosnia and Herzegovina",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q225",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q225",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "B&H",
     "BA",

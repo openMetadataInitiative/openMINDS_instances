@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Eritrea",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q986",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q986",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "er",
     "ER",

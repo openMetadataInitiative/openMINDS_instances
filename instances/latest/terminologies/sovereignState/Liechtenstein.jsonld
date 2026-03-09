@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Liechtenstein",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q347",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q347",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "FL",
     "Fürstentum Liechtenstein",

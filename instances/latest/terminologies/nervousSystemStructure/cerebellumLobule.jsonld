@@ -7,11 +7,12 @@
   "definition": "Is a regional part of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004004)]",
   "description": "One of the the ten gyri of the cerebellar cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004004)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004004#lobular-parts-of-the-cerebellar-cortex",
   "name": "cerebellum lobule",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004004#lobular-parts-of-the-cerebellar-cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004004",
   "synonym": [
     "lobular parts of the cerebellar cortex"
   ]
 }
-

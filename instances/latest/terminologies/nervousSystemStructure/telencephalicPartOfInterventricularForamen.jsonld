@@ -7,9 +7,10 @@
   "definition": "Is part of the telencephalic ventricle and the interventricular foramen of CNS. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006301)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006301#telencephalic-part-of-interventricular-foramen",
   "name": "telencephalic part of interventricular foramen",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006301#telencephalic-part-of-interventricular-foramen",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006301",
   "synonym": null
 }
-

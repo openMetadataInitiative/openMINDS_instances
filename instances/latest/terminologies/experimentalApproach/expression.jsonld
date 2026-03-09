@@ -6,10 +6,14 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on driving or detecting expression of genes in cells or tissues.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739397",
   "knowledgeSpaceLink": null,
   "name": "expression",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Expression",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/tgbugs/uris/readable/modality/Expression"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739397",
   "synonym": [
     "molecular expression approach"
   ]

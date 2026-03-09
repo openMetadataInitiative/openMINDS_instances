@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gray matter of telencephalon. Is part of the ventral part of telencephalon, the corpus striatum and the basal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002435) ('is_a' and 'relationship')]",
   "description": "A region of the forebrain consisting of the caudate nucleus, putamen and fundus striati. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002435)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111098",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002435#striatum",
   "name": "striatum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002435#striatum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002435",
   "synonym": [
     "neostriatum",
@@ -17,4 +18,3 @@
     "striatum of neuraxis"
   ]
 }
-

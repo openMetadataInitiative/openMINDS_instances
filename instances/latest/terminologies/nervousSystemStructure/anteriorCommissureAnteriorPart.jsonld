@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a commissure of telencephalon. Is part of the anterior commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003039) ('is_a' and 'relationship')]",
   "description": "The horseshoe-shaped tract that connects the two olfactory bulbs. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003039)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100693",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003039#anterior-commissure-anterior-part-1",
   "name": "anterior commissure anterior part",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003039#anterior-commissure-anterior-part-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003039",
   "synonym": [
     "anterior commissure pars anterior",
@@ -24,4 +25,3 @@
     "pars olfactoria commissurae anterioris"
   ]
 }
-

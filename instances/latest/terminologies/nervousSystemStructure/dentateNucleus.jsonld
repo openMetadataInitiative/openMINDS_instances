@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of cerebellar nuclear complex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002132)]",
   "description": "The largest and most lateral of the deep cerebellum nuclei; it receives axons of Purkinje cells in the lateral cerebellar hemisphere (neocerebellum) and receives its afferents from the premotor cortex and the supplementary motor cortex through the pontocerebellar system, and its efferents project through the superior cerebellar peduncle and is a major source of its fibers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002132)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103084",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002132#dentate-nucleus-1",
   "name": "dentate nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002132#dentate-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002132",
   "synonym": [
     "dentate cerebellar nucleus",
@@ -16,4 +17,3 @@
     "lateral nucleus of cerebellum"
   ]
 }
-

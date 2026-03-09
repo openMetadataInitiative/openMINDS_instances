@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Austria",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q40",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q40",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "AT",
     "AUT",

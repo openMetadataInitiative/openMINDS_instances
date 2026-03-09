@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Singapore",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q334",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q334",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Garden City",
     "Lion City",

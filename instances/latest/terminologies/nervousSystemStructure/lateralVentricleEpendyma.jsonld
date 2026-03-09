@@ -7,11 +7,12 @@
   "definition": "Is a brain ependyma. Is part of the telencephalic ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004643) ('is_a' and 'relationship')]",
   "description": "An ependyma that is part of a lateral ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004643)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004643#lateral-ventricle-ependyma",
   "name": "lateral ventricle ependyma",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004643#lateral-ventricle-ependyma",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004643",
   "synonym": [
     "ependyma of lateral ventricle"
   ]
 }
-

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "halothane",
-  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/3562",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://pubchem.ncbi.nlm.nih.gov/compound/3562",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "1,1,1-trifluoro-2-bromo-2-chloroethane",
     "1,1,1-trifluoro-2-chloro-2-bromoethane",

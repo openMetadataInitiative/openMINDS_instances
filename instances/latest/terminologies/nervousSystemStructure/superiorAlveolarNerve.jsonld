@@ -7,11 +7,12 @@
   "definition": "Is a nerve of head region. Is part of the maxillary nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018398) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018398#superior-alveolar-nerve",
   "name": "superior alveolar nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0018398#superior-alveolar-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018398",
   "synonym": [
     "superior dental nerve"
   ]
 }
-

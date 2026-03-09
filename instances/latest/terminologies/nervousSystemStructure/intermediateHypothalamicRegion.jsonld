@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002555) ('is_a' and 'relationship')]",
   "description": "The portion of the hypothalamus located generally internal to the region of the infundibulum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002555)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105570",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002555#intermediate-hypothalamic-region-1",
   "name": "intermediate hypothalamic region",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002555#intermediate-hypothalamic-region-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002555",
   "synonym": [
     "area hypothalamica intermedia",
     "intermediate hypothalamic area"
   ]
 }
-

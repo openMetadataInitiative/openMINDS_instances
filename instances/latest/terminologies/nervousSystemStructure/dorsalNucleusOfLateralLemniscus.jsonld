@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of lateral lemniscus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003006)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103457",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003006#dorsal-nucleus-of-lateral-lemniscus-1",
   "name": "dorsal nucleus of lateral lemniscus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003006#dorsal-nucleus-of-lateral-lemniscus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003006",
   "synonym": [
     "dorsal nucleus of the lateral lemniscus",
@@ -17,4 +18,3 @@
     "posterior nucleus of lateral lemniscus"
   ]
 }
-

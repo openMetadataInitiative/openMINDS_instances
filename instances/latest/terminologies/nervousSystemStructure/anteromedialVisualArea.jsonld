@@ -7,9 +7,10 @@
   "definition": "Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035893) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035893#anteromedial-visual-area",
   "name": "anteromedial visual area",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035893#anteromedial-visual-area",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035893",
   "synonym": null
 }
-

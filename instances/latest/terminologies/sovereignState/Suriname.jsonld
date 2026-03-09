@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Suriname",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q730",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q730",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Dutch Guiana",
     "Republic of Surinam",

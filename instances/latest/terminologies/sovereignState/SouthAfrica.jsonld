@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "South Africa",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q258",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q258",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Aforika Borwa",
     "Afrika Borwa",

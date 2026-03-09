@@ -6,9 +6,11 @@
   "@type": "https://openminds.om-i.org/types/AgeCategory",
   "definition": "'Late adult' categorizes the life cycle stage of an animal or human that follows the prime adult stage.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0725713",
   "knowledgeSpaceLink": null,
   "name": "late adult",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007222",
   "synonym": [
     "elderly",

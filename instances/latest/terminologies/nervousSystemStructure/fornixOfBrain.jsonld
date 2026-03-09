@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a tract of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000052) ('is_a' and 'relationship')]",
   "description": "A C-shaped bundle of fibres (axons) in the brain, and carries signals from the hippocampus to the mammillary bodies and septal nuclei. It is typically divided into the columns (crus), body, commissure and the pre-commissural and post-commissural fornix (MM). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000052)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104362",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000052#fornix",
   "name": "fornix of brain",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0000052#fornix",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000052",
   "synonym": [
     "brain fornix",
@@ -18,4 +19,3 @@
     "neuraxis fornix"
   ]
 }
-

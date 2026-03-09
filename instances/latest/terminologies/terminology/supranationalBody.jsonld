@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "supranational body",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q1335818",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q1335818",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "supranational entity",
     "supranational union",

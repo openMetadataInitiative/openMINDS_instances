@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a choroid plexus epithelium. Is part of the choroid plexus of fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004276) ('is_a' and 'relationship')]",
   "description": "A choroid plexus epithelium that is part of a fourth ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004276)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0728876",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004276#fourth-ventricle-choroid-plexus-epithelium",
   "name": "fourth ventricle choroid plexus epithelium",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004276#fourth-ventricle-choroid-plexus-epithelium",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004276",
   "synonym": [
     "chorioid plexus of cerebral hemisphere epithelial tissue of fourth ventricle",
@@ -28,4 +29,3 @@
     "fourth ventricle epithelium of choroid plexus"
   ]
 }
-

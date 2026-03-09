@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Guinea-Bissau",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1007",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1007",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "GBS",
     "GNB",

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Bangladesh",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q902",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q902",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "BAN",
     "Bangla Desh",

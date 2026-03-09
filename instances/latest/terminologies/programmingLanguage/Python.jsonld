@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Python",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q28865",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q28865",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

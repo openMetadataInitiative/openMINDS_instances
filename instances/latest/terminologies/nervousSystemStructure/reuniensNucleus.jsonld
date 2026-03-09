@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the midline nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001921) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110085",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001921#reuniens-nucleus-1",
   "name": "reuniens nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001921#reuniens-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001921",
   "synonym": [
     "medioventral nucleus",
@@ -16,4 +17,3 @@
     "reuniens thalamic nucleus"
   ]
 }
-

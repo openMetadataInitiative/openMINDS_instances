@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "MacOS",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q43627",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q43627",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

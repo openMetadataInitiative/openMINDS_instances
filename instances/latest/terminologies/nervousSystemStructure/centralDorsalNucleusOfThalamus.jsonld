@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the rostral intralaminar nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003034) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101891",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003034#central-dorsal-nucleus",
   "name": "central dorsal nucleus of thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003034#central-dorsal-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003034",
   "synonym": [
     "central dorsal nucleus",
@@ -17,4 +18,3 @@
     "nucleus centralis superior lateralis thalami"
   ]
 }
-

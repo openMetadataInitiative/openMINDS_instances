@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Nicaragua",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q811",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q811",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "NCA",
     "NI",

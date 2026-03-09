@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the pulvinar nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002638) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106695",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002638#medial-pulvinar-nucleus-1",
   "name": "medial pulvinar nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002638#medial-pulvinar-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002638",
   "synonym": [
     "nucleus pulvinaris medialis",
@@ -16,4 +17,3 @@
     "nucleus pulvinaris thalami, pars medialis"
   ]
 }
-

@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Scala",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q460584",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q460584",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

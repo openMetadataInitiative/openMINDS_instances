@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "modelling",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q1116876",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q1116876",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

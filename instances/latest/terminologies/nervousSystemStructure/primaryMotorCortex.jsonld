@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the frontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001384) ('is_a' and 'relationship')]",
   "description": "The part of the cerebral cortex that receives projections from the motor thalamus and which projects to motor neurons in the brainstem and spinal cord. The motor cortex corresponds to Brodmann's area 4 (MM). The primary motor cortex, or M1, is located on the precentral gyrus and on the anterior paracentral lobule on the medial surface of the brain. Of the three motor cortex areas, stimulation of the primary motor cortex requires the least amount of electrical current to elicit a movement. http://neuroscience.uth.tmc.edu/s3/chapter03.html. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001384)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109278",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001384#primary-motor-cortex-1",
   "name": "primary motor cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001384#primary-motor-cortex-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001384",
   "synonym": [
     "motor cortex"
   ]
 }
-

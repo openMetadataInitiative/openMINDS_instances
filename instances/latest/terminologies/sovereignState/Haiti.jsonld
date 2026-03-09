@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Haiti",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q790",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q790",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Ayiti",
     "HAI",

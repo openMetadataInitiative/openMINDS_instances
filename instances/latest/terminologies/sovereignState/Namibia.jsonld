@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Namibia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1030",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1030",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "NA",
     "na",

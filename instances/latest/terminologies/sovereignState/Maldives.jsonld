@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Maldives",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q826",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q826",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "MDV",
     "MV",

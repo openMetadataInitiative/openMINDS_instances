@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Argentina",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q414",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q414",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "AR",
     "ARG",

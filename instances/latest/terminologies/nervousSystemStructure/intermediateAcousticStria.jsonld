@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a stria of neuraxis and white matter of pontine tegmentum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002952)]",
   "description": "White matter structure containing axons arising from cochlear nuclear complex (Brodal, Neurological Anatomy, 3rd ed, 1985, pg 609) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002952)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105568",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002952#intermediate-acoustic-stria-1",
   "name": "intermediate acoustic stria",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002952#intermediate-acoustic-stria-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002952",
   "synonym": [
     "commissure of held",
@@ -16,4 +17,3 @@
     "intermediate acoustic stria of held"
   ]
 }
-

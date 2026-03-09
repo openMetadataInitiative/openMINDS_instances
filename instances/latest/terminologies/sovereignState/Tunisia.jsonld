@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Tunisia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q948",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q948",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Republic of Tunisia",
     "Republik Tunisia",

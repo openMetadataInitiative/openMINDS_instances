@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "notebook",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q28405706",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q28405706",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

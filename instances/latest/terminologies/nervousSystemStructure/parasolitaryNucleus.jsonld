@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002877)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108472",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002877#parasolitary-nucleus-1",
   "name": "parasolitary nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002877#parasolitary-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002877",
   "synonym": [
     "nucleus fasciculus solitarius",
     "nucleus juxtasolitarius"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Isoflurane is a stable, non-explosive inhalation anesthetic, relatively free from significant side effects.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0105740",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:6015#isoflurane",
   "name": "isoflurane",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/CHEBI:6015#isoflurane",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_6015",
   "synonym": [
     "Aerrane",

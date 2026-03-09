@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Czech Republic",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q213",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q213",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "CZ",
     "CZE",

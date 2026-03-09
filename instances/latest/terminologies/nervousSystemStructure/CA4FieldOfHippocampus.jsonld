@@ -7,8 +7,10 @@
   "definition": "Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003884)]",
   "description": "The last of four regions in the cornu ammonis of the hippocampus and is also part of the hilus of the dentate gyrus. This area contains mostly mossy cells that receive inputs from the dentate gyrus and pyramidal cells in the CA3 region and also projects back to the dentate gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003884)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003884#ca4-field-of-hippocampus",
   "name": "CA4 field of hippocampus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003884#ca4-field-of-hippocampus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003884",
   "synonym": [
     "CA4",
@@ -23,4 +25,3 @@
     "region IV of hippocampus proper"
   ]
 }
-

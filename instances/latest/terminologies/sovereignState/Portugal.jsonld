@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Portugal",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q45",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q45",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "POR",
     "Portuguese Republic",

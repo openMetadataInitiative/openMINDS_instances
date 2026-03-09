@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "The Gambia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1005",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1005",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "GAM",
     "Gambia",

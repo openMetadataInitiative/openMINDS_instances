@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "magnesium ATP",
-  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/15126",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://pubchem.ncbi.nlm.nih.gov/compound/15126",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "MgATP"
   ]

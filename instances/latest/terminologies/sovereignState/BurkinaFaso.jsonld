@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Burkina Faso",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q965",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q965",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "BF",
     "bf",

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Hungary",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q28",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q28",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "HU",
     "HUN",

@@ -7,8 +7,10 @@
   "definition": "Is a cerebellar vermis. Is part of the anterior lobe of cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003941) ('is_a' and 'relationship')]",
   "description": "The anterior portion of the narrow middle zone between the two hemispheres of the cerebellum that is located anterior to the primary fissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003941)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003941#vermis-of-the-anterior-lobe-of-the-cerebellum",
   "name": "cerebellum anterior vermis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003941#vermis-of-the-anterior-lobe-of-the-cerebellum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003941",
   "synonym": [
     "anterior cerebellum vermis",
@@ -20,4 +22,3 @@
     "vermis of the anterior lobe of the cerebellum"
   ]
 }
-

@@ -6,10 +6,14 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on the shape and structure of living organisms or their parts.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739403",
   "knowledgeSpaceLink": null,
   "name": "morphology",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Morphology",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/tgbugs/uris/readable/modality/Morphology"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739403",
   "synonym": [
     "morphological approach"
   ]

@@ -7,12 +7,13 @@
   "definition": "Is an anatomical entity. Is part of the fovea centralis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002823) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002823#clivus-of-fovea-centralis-1",
   "name": "clivus of fovea centralis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002823#clivus-of-fovea-centralis-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002823",
   "synonym": [
     "clivus of macula lutea",
     "fovea centralis clivus"
   ]
 }
-

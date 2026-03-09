@@ -7,8 +7,10 @@
   "definition": "Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002726)]",
   "description": "A spinal cord segment that adjacent to a cervical region. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002726)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002726#cervical-spinal-cord-1",
   "name": "cervical spinal cord",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002726#cervical-spinal-cord-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002726",
   "synonym": [
     "cervical segment of spinal cord",
@@ -17,4 +19,3 @@
     "segmenta cervicalia medullae spinalis [1-8"
   ]
 }
-

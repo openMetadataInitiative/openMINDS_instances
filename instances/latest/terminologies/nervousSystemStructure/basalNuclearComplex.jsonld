@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nuclear complex of neuraxis and gray matter of forebrain. Is part of the basal forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006098) ('is_a' and 'relationship')]",
   "description": "The deep nuclei of telencephalic origin found in the basal region of the forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006098)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101108",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006098#basal-nuclear-complex-1",
   "name": "basal nuclear complex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006098#basal-nuclear-complex-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006098",
   "synonym": [
     "basal nuclei",
     "basal nuclei of the forebrain"
   ]
 }
-

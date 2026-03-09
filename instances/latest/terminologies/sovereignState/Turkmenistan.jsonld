@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Turkmenistan",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q874",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q874",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "TKM",
     "tm",

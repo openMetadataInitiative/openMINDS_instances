@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brainstem white matter and white matter of midbrain. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002662) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106682",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002662#medial-pes-lemniscus-1",
   "name": "medial pes lemniscus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002662#medial-pes-lemniscus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002662",
   "synonym": [
     "superficial pes lemniscus"
   ]
 }
-

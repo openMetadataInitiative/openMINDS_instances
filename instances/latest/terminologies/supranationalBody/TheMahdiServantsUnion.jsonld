@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "The Mahdi Servants Union",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q96979217",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q96979217",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Khoddam Al-Mahdi",
     "MSU"

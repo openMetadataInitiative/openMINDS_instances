@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the ventral posterior nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002942) ('is_a' and 'relationship')]",
   "description": "The ventral posterolateral nucleus (VPL) is a nucleus of the thalamus. Together with the ventral posteromedial nucleus (VPM) it constitutes the ventral posterior nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002942)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112336",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002942#ventral-posterolateral-nucleus-1",
   "name": "ventral posterolateral nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002942#ventral-posterolateral-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002942",
   "synonym": [
     "nucleus ventralis posterior lateralis thalami",
@@ -22,4 +23,3 @@
     "ventral posterolateral thalamic nucleus"
   ]
 }
-

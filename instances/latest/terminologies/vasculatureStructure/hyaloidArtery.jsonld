@@ -7,8 +7,10 @@
   "definition": "Is a brain blood vessel. Is part of the optic stalk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002270) ('is_a' and 'relationship')]",
   "description": "An artery that is part of the optic stalk of the eye and extends from the optic disc through the vitreous humor to the lens. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002270)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002270#hyaloid-artery",
   "name": "hyaloid artery",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002270#hyaloid-artery",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002270",
   "synonym": [
     "arteria hyaloidea"

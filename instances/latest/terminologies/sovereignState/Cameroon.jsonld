@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Cameroon",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1009",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1009",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "CAM",
     "CM",

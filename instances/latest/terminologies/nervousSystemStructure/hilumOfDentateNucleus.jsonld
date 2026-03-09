@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a hilum of neuraxis. Is part of the dentate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002744) ('is_a' and 'relationship')]",
   "description": "The mouth of the flasklike dentate nucleus of the cerebellum, directed inward (rostromedial), and giving exit to many of the fibers that compose the superior cerebellar peduncle or brachium conjunctivum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002744)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105003",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002744#hilum-of-dentate-nucleus-1",
   "name": "hilum of dentate nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002744#hilum-of-dentate-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002744",
   "synonym": [
     "dentate nuclear hilum"
   ]
 }
-

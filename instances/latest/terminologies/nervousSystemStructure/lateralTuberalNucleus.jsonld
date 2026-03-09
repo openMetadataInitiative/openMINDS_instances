@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a hypothalamic nucleus. Is part of the lateral hypothalamic area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000435) ('is_a' and 'relationship')]",
   "description": "Nerve cell nuclei situated ventrally in the intermediate hypothalamic region, mainly in the lateral hypothalamic area. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000435)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106124",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000435#lateral-tuberal-nuclear-complex",
   "name": "lateral tuberal nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0000435#lateral-tuberal-nuclear-complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000435",
   "synonym": [
     "lateral tuberal hypothalamic nuclei",
@@ -16,4 +17,3 @@
     "lateral tuberal nuclei"
   ]
 }
-

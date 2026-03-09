@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "mobile device",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q5082128",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q5082128",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

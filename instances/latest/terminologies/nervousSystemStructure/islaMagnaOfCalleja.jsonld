@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the island of Calleja. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023868) ('is_a' and 'relationship')]",
   "description": "Regional part of telencephalon; the most prominent of the islands of Calleja located medially in the nucleus accumbens (adapted from Braininfo.org). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023868)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105729",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023868#isla-magna-of-calleja-1",
   "name": "isla magna of Calleja",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0023868#isla-magna-of-calleja-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023868",
   "synonym": [
     "isla magna of calleja",
     "major island of Calleja"
   ]
 }
-

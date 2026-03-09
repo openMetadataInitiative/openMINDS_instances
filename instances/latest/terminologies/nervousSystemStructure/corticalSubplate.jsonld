@@ -7,8 +7,10 @@
   "definition": "Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004035)]",
   "description": "The transient outer neural tube region that contains the first generated post-mitotic neurons that receive synaptic input from thalamic axons and in turn project axons to the developing cortical plate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004035)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004035#cortical-subplate",
   "name": "cortical subplate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004035#cortical-subplate",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004035",
   "synonym": [
     "cerebral cortex subplate",
@@ -16,4 +18,3 @@
     "subplate zone"
   ]
 }
-

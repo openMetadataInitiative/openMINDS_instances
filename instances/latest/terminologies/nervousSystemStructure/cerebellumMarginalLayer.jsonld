@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a hindbrain marginal layer. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034708) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0734731",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034708#cerebellum-marginal-layer",
   "name": "cerebellum marginal layer",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034708#cerebellum-marginal-layer",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034708",
   "synonym": [
     "marginal zone of cerebellum"
   ]
 }
-

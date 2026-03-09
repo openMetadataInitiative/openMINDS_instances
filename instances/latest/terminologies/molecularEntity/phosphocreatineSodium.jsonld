@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "phosphocreatine sodium",
-  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/9571077",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://pubchem.ncbi.nlm.nih.gov/compound/9571077",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "creatine phosphate disodium salt",
     "disodium phosphocreatine",

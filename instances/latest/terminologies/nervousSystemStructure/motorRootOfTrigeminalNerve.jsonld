@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a trigeminal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002796)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107128",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002796#motor-root-of-trigeminal-nerve-1",
   "name": "motor root of trigeminal nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002796#motor-root-of-trigeminal-nerve-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002796",
   "synonym": [
     "motor branch of trigeminal nerve",
@@ -17,4 +18,3 @@
     "radix motoria nervus trigemini"
   ]
 }
-

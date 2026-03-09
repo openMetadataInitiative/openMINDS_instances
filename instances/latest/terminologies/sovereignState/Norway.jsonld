@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Norway",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q20",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q20",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Kingdom of Norway",
     "Kongeriket Noreg",

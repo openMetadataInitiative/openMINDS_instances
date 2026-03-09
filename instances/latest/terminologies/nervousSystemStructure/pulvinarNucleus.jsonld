@@ -7,8 +7,10 @@
   "definition": "Is a nucleus of dorsal thalamus. Is part of the lateral nuclear group of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002981) ('is_a' and 'relationship')]",
   "description": "One of a set of nuclei located in the posterior thalamus, that projects to all or nearly all extra-striate visual areas. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002981)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002981#pulvinar",
   "name": "pulvinar nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002981#pulvinar",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002981",
   "synonym": [
     "nuclei pulvinares",
@@ -17,4 +19,3 @@
     "pulvinar thalami"
   ]
 }
-

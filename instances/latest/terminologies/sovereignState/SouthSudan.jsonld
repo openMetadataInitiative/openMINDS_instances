@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "South Sudan",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q958",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q958",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Republic of South Sudan",
     "Southern Sudan",

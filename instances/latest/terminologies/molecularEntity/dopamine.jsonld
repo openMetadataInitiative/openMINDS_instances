@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Dopamine is one of the catecholamine neurotransmitters in the brain. It is derived from tyrosine and is the precursor to norepinephrine and epinephrine.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103384",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:18243#dopamine",
   "name": "dopamine",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/CHEBI:18243#dopamine",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_18243",
   "synonym": [
     "DA",

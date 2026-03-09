@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the inferior frontal gyrus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002629)]",
   "description": "Component of the inferior frontal gyrus. Defined as the second gyrus from the precentral gyrus (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002629)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111954",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002629#triangular-part-of-inferior-frontal-gyrus-1",
   "name": "triangular part of inferior frontal gyrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002629#triangular-part-of-inferior-frontal-gyrus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002629",
   "synonym": [
     "gyrus frontalis inferior, pars triangularis",
@@ -17,4 +18,3 @@
     "pars triangularis of frontal operculum (Ono)"
   ]
 }
-

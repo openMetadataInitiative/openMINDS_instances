@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gray matter of telencephalon. Is part of the caudate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002626) ('is_a' and 'relationship')]",
   "description": "Largest part of the caudate nucleus lying lateral to and protruding into the anterior of the lateral ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002626)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104911",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002626#head-of-caudate-nucleus-1",
   "name": "head of caudate nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002626#head-of-caudate-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002626",
   "synonym": [
     "caput (caudatus)",
     "caudate nuclear head"
   ]
 }
-

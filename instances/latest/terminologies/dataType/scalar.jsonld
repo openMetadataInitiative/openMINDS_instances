@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "scalar",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q1289248",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q1289248",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

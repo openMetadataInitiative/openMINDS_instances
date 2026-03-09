@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "WebSocket",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q859938",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q859938",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "WebSocket protocol"
   ]

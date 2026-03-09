@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the claustrum of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014284) ('is_a' and 'relationship')]",
   "description": "An elongated nucleus consisting largely of multipolar spiny cells lying deep to the piriform cortex. \\nAccording to Price (1990; pp. 979-998 in The Human Nervous System, G. Paxinos, (Ed.), Academic Press, San Diego), it is part of the claustrum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014284)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103787",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014284#endopiriform-nucleus-1",
   "name": "endopiriform nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014284#endopiriform-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014284",
   "synonym": [
     "layer 4 of piriform cortex",
     "layer IV of piriform cortex"
   ]
 }
-

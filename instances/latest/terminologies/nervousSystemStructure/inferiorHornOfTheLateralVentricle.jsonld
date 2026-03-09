@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the telencephalic ventricle. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006091)]",
   "description": "The part of the lateral ventricle extending downward and anteriorly in the temporal lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006091)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105444",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006091#inferior-horn-of-the-lateral-ventricle-1",
   "name": "inferior horn of the lateral ventricle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006091#inferior-horn-of-the-lateral-ventricle-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006091",
   "synonym": [
     "cornu inferius (ventriculi lateralis)",
@@ -21,4 +22,3 @@
     "ventriculus lateralis, cornu temporale"
   ]
 }
-

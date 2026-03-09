@@ -7,8 +7,10 @@
   "definition": "Is a nerve of head region. Is part of the trigeminal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000377) ('is_a' and 'relationship')]",
   "description": "The sensory nerve subdivision of the trigeminal nerve that transmits sensory information from the palate, upper teeth and gingiva, the skin between the palpebral fissure and the mouth, and from the nasal cavity and maxillary sinuses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000377)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000377#maxillary-nerve",
   "name": "maxillary nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0000377#maxillary-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000377",
   "synonym": [
     "maxillary division [V2]",
@@ -26,4 +28,3 @@
     "trigeminal V nerve maxillary division"
   ]
 }
-

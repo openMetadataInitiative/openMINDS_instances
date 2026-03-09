@@ -7,11 +7,12 @@
   "definition": "Is a gray matter of diencephalon. Is part of the medial dorsal nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035114) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035114#lateral-part-of-mediodorsal-nucleus-of-the-thalamus",
   "name": "lateral part of mediodorsal nucleus of the thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035114#lateral-part-of-mediodorsal-nucleus-of-the-thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035114",
   "synonym": [
     "mediodorsal nucleus of the thalamus, lateral part"
   ]
 }
-

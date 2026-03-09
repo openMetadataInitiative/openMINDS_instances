@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Djibouti",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q977",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q977",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "dj",
     "DJ",

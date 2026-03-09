@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Thailand",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q869",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q869",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Kingdom of Siam",
     "Kingdom of Thailand",

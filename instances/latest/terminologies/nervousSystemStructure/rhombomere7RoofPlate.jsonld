@@ -7,11 +7,12 @@
   "definition": "Is a rhombomere roof plate. Is part of the rhombomere 7. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005587) ('is_a' and 'relationship')]",
   "description": "A rhombomere roof plate that is part of a rhombomere 7. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005587)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005587#rhombomere-7-roof-plate",
   "name": "rhombomere 7 roof plate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005587#rhombomere-7-roof-plate",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005587",
   "synonym": [
     "roof plate rhombomere 7"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the metathalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001926) ('is_a' and 'relationship')]",
   "description": "The group of neurons that serve as the primary processor of visual information received from the retina via the optic tract and send processed information to the visual cortex of the occipital lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001926)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106064",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001926#lateral-geniculate-body-1",
   "name": "lateral geniculate body",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001926#lateral-geniculate-body-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001926",
   "synonym": [
     "corpus geniculatum laterales",
@@ -17,4 +18,3 @@
     "nucleus geniculatus lateralis"
   ]
 }
-

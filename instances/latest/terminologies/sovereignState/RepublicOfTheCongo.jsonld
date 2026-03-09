@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Republic of the Congo",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q971",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q971",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "cg",
     "CG",

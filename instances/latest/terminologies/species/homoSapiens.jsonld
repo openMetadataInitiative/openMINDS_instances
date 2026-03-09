@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Species",
   "definition": "The species *Homo sapiens* (humans) belongs to the family of *hominidae* (great apes).",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105114",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NCBITaxon:9606#human",
   "name": "Homo sapiens",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NCBITaxon:9606#human",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9606",
   "synonym": [
     "homo sapien",

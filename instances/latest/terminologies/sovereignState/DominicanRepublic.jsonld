@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Dominican Republic",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q786",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q786",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "DO",
     "DOM",

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "South Korea",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q884",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q884",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Choson",
     "Daehan Minguk",

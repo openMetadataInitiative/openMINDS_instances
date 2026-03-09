@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Rwanda",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1037",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1037",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Jamhuri ya Rwanda",
     "Republic of Rwanda",

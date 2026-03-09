@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "desktop",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q56155",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q56155",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

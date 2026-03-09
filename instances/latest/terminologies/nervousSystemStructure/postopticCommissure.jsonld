@@ -7,8 +7,10 @@
   "definition": "Is a commissure of diencephalon. Is part of the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003936) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003936#postoptic-commissure",
   "name": "postoptic commissure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003936#postoptic-commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003936",
   "synonym": [
     "POC",
@@ -16,4 +18,3 @@
     "post-optic commissure"
   ]
 }
-

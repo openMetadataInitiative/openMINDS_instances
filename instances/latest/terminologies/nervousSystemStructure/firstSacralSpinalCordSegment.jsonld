@@ -7,12 +7,13 @@
   "definition": "Is a sacral subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006460)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006460#first-sacral-spinal-cord-segment-1",
   "name": "first sacral spinal cord segment",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006460#first-sacral-spinal-cord-segment-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006460",
   "synonym": [
     "S1 segment",
     "S1 spinal cord segment"
   ]
 }
-

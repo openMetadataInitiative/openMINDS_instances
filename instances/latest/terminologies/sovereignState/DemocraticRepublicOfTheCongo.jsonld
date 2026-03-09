@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Democratic Republic of the Congo",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q974",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q974",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "cd",
     "CD",

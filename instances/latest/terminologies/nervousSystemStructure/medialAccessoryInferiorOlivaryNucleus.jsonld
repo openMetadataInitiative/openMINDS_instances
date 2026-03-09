@@ -7,8 +7,10 @@
   "definition": "Is an inferior olivary nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002159)]",
   "description": "The inferior olivary nucleus that lies between the primary olivary nucleus and the pyramid, and forms a curved lamina, the concavity of which is directed laterally. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002159)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002159#medial-accessory-inferior-olivary-nucleus",
   "name": "medial accessory inferior olivary nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002159#medial-accessory-inferior-olivary-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002159",
   "synonym": [
     "inferior olivary complex, medial accessory olive",
@@ -18,4 +20,3 @@
     "nucleus olivaris accessorius medialis"
   ]
 }
-

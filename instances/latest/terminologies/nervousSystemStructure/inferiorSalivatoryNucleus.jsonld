@@ -7,12 +7,13 @@
   "definition": "Is a cranial nerve nucleus, salivatory nucleus and nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002872)]",
   "description": "In the brain, the inferior salivatory nucleus is a cluster of neurons controlling the parasympathetic input to the parotid gland. It is one of the components of the glossopharyngeal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002872)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002872#inferior-salivatory-nucleus-1",
   "name": "inferior salivatory nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002872#inferior-salivatory-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002872",
   "synonym": [
     "inferior salivary nucleus",
     "inferior salivatary nucleus"
   ]
 }
-

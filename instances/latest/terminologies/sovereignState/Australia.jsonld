@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Australia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q408",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q408",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "AU",
     "AUS",

@@ -7,8 +7,10 @@
   "definition": "Is a meninx of midbrain and brain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003551)]",
   "description": "A pia mater that is part of a midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003551)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003551#midbrain-pia-mater",
   "name": "midbrain pia mater",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003551#midbrain-pia-mater",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003551",
   "synonym": [
     "midbrain pia mater of neuraxis",
@@ -16,4 +18,3 @@
     "pia mater of neuraxis of midbrain"
   ]
 }
-

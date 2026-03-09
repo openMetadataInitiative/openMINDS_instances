@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002717) ('is_a' and 'relationship')]",
   "description": "The rostral interstitial nucleus of medial longitudinal fasciculus (riMLF) is a portion of the medial longitudinal fasciculus which controls vertical gaze. They project to the vestibular nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002717)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110210",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002717#rostral-interstitial-nucleus-of-medial-longitudinal-fasciculus-1",
   "name": "rostral interstitial nucleus of medial longitudinal fasciculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002717#rostral-interstitial-nucleus-of-medial-longitudinal-fasciculus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002717",
   "synonym": [
     "riMLF",
     "rostral interstitial nucleus of MLF"
   ]
 }
-

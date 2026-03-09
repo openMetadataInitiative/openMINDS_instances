@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the neurohypophysis and the neurohypophysis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002434) ('is_a' and 'relationship')]",
   "description": "The apical portion of the tubular structure extending from the hypothalamus to the posterior lobe of the pituitary gland. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002434)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105483",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002434#infundibular-stem",
   "name": "pituitary stalk",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002434#infundibular-stem",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002434",
   "synonym": [
     "hypophyseal stalk",
@@ -26,4 +27,3 @@
     "tuberal part of hypophysis"
   ]
 }
-

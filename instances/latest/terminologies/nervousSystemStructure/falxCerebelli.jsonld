@@ -7,11 +7,12 @@
   "definition": "Is part of the meningeal dura mater. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035425)]",
   "description": "A small triangular process of dura matter beginning at the internal occipital crest just beneath the tentorium and projecting forward. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035425)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035425#falx-cerebelli",
   "name": "falx cerebelli",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035425#falx-cerebelli",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035425",
   "synonym": [
     "cerebellar falx"
   ]
 }
-

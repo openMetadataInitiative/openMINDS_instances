@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Ecuador",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q736",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q736",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "EC",
     "ec",

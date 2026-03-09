@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebral hemisphere gray matter. Is part of the amygdala and the basal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002729) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102229",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002729#claustral-amygdaloid-area-1",
   "name": "claustral amygdaloid area",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002729#claustral-amygdaloid-area-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002729",
   "synonym": [
     "claustrum diffusa",
@@ -17,4 +18,3 @@
     "ventral portion of claustrum"
   ]
 }
-

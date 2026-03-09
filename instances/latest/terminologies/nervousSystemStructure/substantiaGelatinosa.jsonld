@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a lamina of gray matter of spinal cord. Is part of the dorsal horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002181) ('is_a' and 'relationship')]",
   "description": "Gelatinous-appearing material in the dorsal horn of the spinal cord, consisting chiefly of Golgi type II neurons and some larger nerve cells, corresponding to Rexed lamina II. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002181)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111207",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002181#substantia-gelatinosa-of-spinal-cord-dorsal-horn",
   "name": "substantia gelatinosa",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002181#substantia-gelatinosa-of-spinal-cord-dorsal-horn",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002181",
   "synonym": [
     "central gelatinous substance of spinal cord",
@@ -23,4 +24,3 @@
     "substantia gelatinosa of spinal cord dorsal horn"
   ]
 }
-

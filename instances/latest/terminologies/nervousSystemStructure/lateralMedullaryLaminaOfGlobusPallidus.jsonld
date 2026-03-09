@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a white matter lamina of cerebral hemisphere. Is part of the globus pallidus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002765) ('is_a' and 'relationship')]",
   "description": "The lateral medullary lamina is a thin white structure located in the basal ganglia of the primate brain. Bounded laterally by the putamen and medially by the globus pallidus, it is defined on the basis of Nissl or myelin stain ( Carpenter-1983 ). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002765)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106077",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002765#lateral-medullary-lamina",
   "name": "lateral medullary lamina of globus pallidus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002765#lateral-medullary-lamina",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002765",
   "synonym": [
     "external medulary lamina of globus pallidus",
@@ -29,4 +30,3 @@
     "outer medullary lamina"
   ]
 }
-

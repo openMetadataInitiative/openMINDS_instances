@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Poland",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q36",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q36",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "PL",
     "POL",

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brainstem nucleus and midbrain nucleus. Is part of the oculomotor nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002960) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101912",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002960#central-oculomotor-nucleus-1",
   "name": "central oculomotor nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002960#central-oculomotor-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002960",
   "synonym": [
     "central nucleus of perlia",
@@ -16,4 +17,3 @@
     "spitzka's nucleus"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gyrus. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002766) ('is_a' and 'relationship')]",
   "description": "The fusiform gyrus is part of the temporal lobe. It is also known as the (discontinuous) occipitotemporal gyrus. Other sources have the fusiform gyrus above the occipitotemporal gyrus and underneath the parahippocampal gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002766)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104491",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002766#fusiform-gyrus-1",
   "name": "fusiform gyrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002766#fusiform-gyrus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002766",
   "synonym": [
     "gyrus occipitotemporalis lateralis",
@@ -17,4 +18,3 @@
     "occipitotemporal gyrus"
   ]
 }
-

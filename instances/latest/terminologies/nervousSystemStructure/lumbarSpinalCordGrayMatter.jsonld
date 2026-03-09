@@ -7,9 +7,10 @@
   "definition": "Is a gray matter of spinal cord. Is part of the lumbar spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0029636) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0029636#lumbar-spinal-cord-gray-matter-1",
   "name": "lumbar spinal cord gray matter",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0029636#lumbar-spinal-cord-gray-matter-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0029636",
   "synonym": null
 }
-

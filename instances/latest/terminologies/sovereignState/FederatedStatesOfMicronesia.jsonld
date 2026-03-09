@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Federated States of Micronesia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q702",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q702",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Fed. Sts. Micronesia",
     "Fed. Sts. of Micronesia",

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Botswana",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q963",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q963",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "BOT",
     "Botswana",

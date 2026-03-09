@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the substantia innominata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010010) ('is_a' and 'relationship')]",
   "description": "A group of neurons in the basal forebrain that has wide projections to the neocortex and is rich in acetylcholine and choline acetyltransferase. It undergoes degeneration in paralysis agitans and Alzheimer's disease. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010010)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101109",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010010#basal-nucleus",
   "name": "basal nucleus of telencephalon",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0010010#basal-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010010",
   "synonym": [
     "basal magnocellular nucleus (substantia innominata)",
@@ -23,4 +24,3 @@
     "substantia basalis telencephali"
   ]
 }
-

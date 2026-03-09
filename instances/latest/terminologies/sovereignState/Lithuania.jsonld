@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Lithuania",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q37",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q37",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Lietuva",
     "Lietuvos Respublika",

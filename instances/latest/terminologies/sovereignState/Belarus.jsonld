@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Belarus",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q184",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q184",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Belorussia",
     "Bielaruś",

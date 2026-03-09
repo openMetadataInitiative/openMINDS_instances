@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "C#",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q2370",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q2370",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

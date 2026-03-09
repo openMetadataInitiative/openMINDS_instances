@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the corticomedial nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002891) ('is_a' and 'relationship')]",
   "description": "Three layered structure that is located in the caudal aspect of the amygdala bordering the periamygdaloid cortex laterally. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002891)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102583",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002891#cortical-amygdaloid-nucleus-1",
   "name": "cortical amygdaloid nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002891#cortical-amygdaloid-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002891",
   "synonym": [
     "posterior cortical amygdaloid nucleus",
     "posterior cortical nucleus of amygdala"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cortex of cerebral lobe. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001870) ('is_a' and 'relationship')]",
   "description": "Anterior portion of the neocortex, lying anterior to the central sulcus in humans. It is bounded by the parietal cortex posteriorly and the temporal cortex laterally. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001870)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104449",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001870#frontal-cortex-1",
   "name": "frontal cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001870#frontal-cortex-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001870",
   "synonym": [
     "cortex of frontal lobe",
@@ -17,4 +18,3 @@
     "grey matter of frontal lobe"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a frontal gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002702)]",
   "description": "Component of the frontal lobe, lateral aspect (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002702)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106961",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002702#middle-frontal-gyrus-1",
   "name": "middle frontal gyrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002702#middle-frontal-gyrus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002702",
   "synonym": [
     "gyrus frontalis medialis",
@@ -16,4 +17,3 @@
     "medial frontal gyrus"
   ]
 }
-

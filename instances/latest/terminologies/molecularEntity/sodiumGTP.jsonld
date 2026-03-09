@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "sodium GTP",
-  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/136636089",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://pubchem.ncbi.nlm.nih.gov/compound/136636089",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "5'-GTP sodium salt",
     "guanosine 5'-(tetrahydrogen triphosphate) sodium salt",

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Togo",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q945",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q945",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "TG",
     "tg",

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Organ",
   "definition": "'Skin' is the organ covering the body that consists of the dermis and epidermis.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0727256",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002097#skin-of-body",
   "name": "skin",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002097#skin-of-body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002097",
   "synonym": [
     "entire skin",

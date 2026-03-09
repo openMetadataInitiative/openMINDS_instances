@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Ghana",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q117",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q117",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Gaana",
     "Gana",

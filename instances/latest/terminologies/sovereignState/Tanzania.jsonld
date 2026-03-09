@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Tanzania",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q924",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q924",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Jamhuri ya Muungano wa Tanzania",
     "TZ",

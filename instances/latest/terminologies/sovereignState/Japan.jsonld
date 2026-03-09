@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Japan",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q17",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q17",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Iapan",
     "Iapon",

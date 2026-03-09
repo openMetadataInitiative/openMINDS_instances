@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Iceland",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q189",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q189",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Icelandic republic",
     "IS",

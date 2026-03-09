@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the limbic cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003027) ('is_a' and 'relationship')]",
   "description": "The cingulate cortex is a part of the brain situated in the medial aspect of the cortex. It is extended from the corpus callosum below to the cingulate sulcus above, at least anteriorly. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003027)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102179",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003027#cingulate-cortex-1",
   "name": "cingulate cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003027#cingulate-cortex-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003027",
   "synonym": [
     "cingulate neocortex"
   ]
 }
-

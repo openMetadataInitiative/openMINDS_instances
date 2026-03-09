@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gyrus. Is part of the occipital lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014640) ('is_a' and 'relationship')]",
   "description": "A gyrus that is part of a occipital lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014640)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107882",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014640#occipital-gyrus-1",
   "name": "occipital gyrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014640#occipital-gyrus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014640",
   "synonym": null
 }
-

@@ -7,8 +7,10 @@
   "definition": "Is a tela choroidea. Is part of the telencephalic ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005289) ('is_a' and 'relationship')]",
   "description": "Tela chorioidea that lines the telencephalic ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005289)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005289#tela-choroidea-of-telencephalic-ventricle",
   "name": "tela choroidea of telencephalic ventricle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005289#tela-choroidea-of-telencephalic-ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005289",
   "synonym": [
     "tela chorioidea of lateral ventricle",
@@ -19,4 +21,3 @@
     "tela choroidea telencephalic ventricle"
   ]
 }
-

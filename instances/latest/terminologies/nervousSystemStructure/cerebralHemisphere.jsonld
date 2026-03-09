@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the telencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001869)]",
   "description": "One of two bilateral, largely symmetrical organ subdivisions within the telencephalon which contain the cerebral cortex and cerebral white matter. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001869)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102003",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001869#cerebrum",
   "name": "cerebral hemisphere",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001869#cerebrum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001869",
   "synonym": null
 }
-

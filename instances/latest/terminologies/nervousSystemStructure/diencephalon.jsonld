@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001894) ('is_a' and 'relationship')]",
   "description": "The division of the forebrain that develops from the foremost primary cerebral vesicle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001894)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103217",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001894#diencephalon-1",
   "name": "diencephalon",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001894#diencephalon-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001894",
   "synonym": [
     "between brain",
@@ -17,4 +18,3 @@
     "thalamencephalon"
   ]
 }
-

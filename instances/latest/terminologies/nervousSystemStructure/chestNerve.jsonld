@@ -7,8 +7,10 @@
   "definition": "Is a nerve of thoracic segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003432)]",
   "description": "A nerve that is part of a chest. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003432)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003432#chest-nerve",
   "name": "chest nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003432#chest-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003432",
   "synonym": [
     "anterior thoracic region nerve",
@@ -20,4 +22,3 @@
     "nerve of front of thorax"
   ]
 }
-

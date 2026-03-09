@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Guatemala",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q774",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q774",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "gt",
     "GT",

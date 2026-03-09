@@ -7,8 +7,10 @@
   "definition": "Is a layer of CA3 field. Is part of the hippocampus pyramidal layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014550) ('is_a' and 'relationship')]",
   "description": "A layer of hippocampal field that is part of a hippocampus pyramidal layer and is part of a CA3 field of hippocampus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014550)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014550#ca3-stratum-pyramidale-hippocampi",
   "name": "pyramidal layer of CA3",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014550#ca3-stratum-pyramidale-hippocampi",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014550",
   "synonym": [
     "CA3 part of stratum pyramidale hippocampi",
@@ -18,4 +20,3 @@
     "stratum pyramidale of the CA3 field"
   ]
 }
-

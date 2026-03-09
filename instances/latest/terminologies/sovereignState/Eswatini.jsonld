@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Eswatini",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1050",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1050",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "eSwatini",
     "Kingdom of Eswatini",

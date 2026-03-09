@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the medial geniculate body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002758) ('is_a' and 'relationship')]",
   "description": "Dorsal division of the medial geniculate nucleus, as first defined by Morest (1964) in the cat, but also described in the rat. It fills all but the medial edge of the posterior tip in cat, and joins the lateral thalamic nucleus anteriorly (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1261345/?page=3) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002758)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103458",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002758#dorsal-nucleus-of-medial-geniculate-body-1",
   "name": "dorsal nucleus of medial geniculate body",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002758#dorsal-nucleus-of-medial-geniculate-body-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002758",
   "synonym": [
     "dorsal nucleus of medial geniculate complex",
@@ -20,4 +21,3 @@
     "nucleus geniculatus medialis pars dorsalis"
   ]
 }
-

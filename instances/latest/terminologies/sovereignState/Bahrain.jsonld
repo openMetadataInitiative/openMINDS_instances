@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Bahrain",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q398",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q398",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "BAH",
     "Bahrein Islands",

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Mozambique",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1029",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1029",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "MOZ",
     "Moçambique",

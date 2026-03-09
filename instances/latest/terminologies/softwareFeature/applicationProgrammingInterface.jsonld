@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "application programming interface",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q165194",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q165194",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "API"
   ]

@@ -6,9 +6,11 @@
   "@type": "https://openminds.om-i.org/types/DeviceType",
   "definition": "A 'microtome' is a mechanical instrument with a steel, glass or diamond blade used to cut (typically) biological specimens into very thin segments for further treatment and ultimately microscopic or histologic examination.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106925",
   "knowledgeSpaceLink": null,
   "name": "microtome",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_0400168",
   "synonym": null
 }

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Mongolia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q711",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q711",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "MN",
     "MNG",

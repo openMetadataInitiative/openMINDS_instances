@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Saudi Arabia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q851",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q851",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Arab Saudi",
     "Arabia",

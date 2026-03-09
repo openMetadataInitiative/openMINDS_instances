@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a root of cranial nerve. Is part of the metencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004673) ('is_a' and 'relationship')]",
   "description": "A nerve root that extends fibers into a trigeminal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004673)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111966",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004673#trigeminal-nerve-root-1",
   "name": "trigeminal nerve root",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004673#trigeminal-nerve-root-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004673",
   "synonym": [
     "radix descendens nervi trigemini",
@@ -17,4 +18,3 @@
     "trigeminal neural root"
   ]
 }
-

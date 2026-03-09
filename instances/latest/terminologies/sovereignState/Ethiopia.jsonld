@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Ethiopia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q115",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q115",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ET",
     "et",

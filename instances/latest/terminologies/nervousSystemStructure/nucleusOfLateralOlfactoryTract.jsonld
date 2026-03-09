@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002893) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107757",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002893#nucleus-of-lateral-olfactory-tract-1",
   "name": "nucleus of lateral olfactory tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002893#nucleus-of-lateral-olfactory-tract-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002893",
   "synonym": [
     "lateral olfactory tract nucleus",
@@ -16,4 +17,3 @@
     "nucleus of the lateral olfactory tract (ganser)"
   ]
 }
-

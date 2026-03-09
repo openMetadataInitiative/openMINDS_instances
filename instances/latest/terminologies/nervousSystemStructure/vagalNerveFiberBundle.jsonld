@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neuron projection bundle and central nervous system cell part cluster. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006116) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112236",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006116#vagal-nerve-fiber-bundle-1",
   "name": "vagal nerve fiber bundle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006116#vagal-nerve-fiber-bundle-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006116",
   "synonym": [
     "central part of vagus nerve",
@@ -17,4 +18,3 @@
     "vagal nerve tract"
   ]
 }
-

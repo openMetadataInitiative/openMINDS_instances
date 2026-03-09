@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nuclear complex of neuraxis and gray matter of diencephalon. Is part of the dorsal thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002709) ('is_a' and 'relationship')]",
   "description": "Part of thalamus comprising ill defined cellular groups in the caudal thalamus at the meso-diencephalic junction. It is not a homogeneous structure but consists of several distinct cellular groups, including the suprageniculate and limitans nuclei, the magnocellular division of the medial geniculate body, portions of the pulvinar nucleus and an area of mixed cell types intercalated between the ventroposterior nucleus and the nucleus lateral posterior (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 97) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002709)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109109",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002709#posterior-nuclear-complex",
   "name": "posterior nuclear complex of thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002709#posterior-nuclear-complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002709",
   "synonym": [
     "caudal thalamic nucleus",
@@ -22,4 +23,3 @@
     "posterior thalamic nucleus"
   ]
 }
-

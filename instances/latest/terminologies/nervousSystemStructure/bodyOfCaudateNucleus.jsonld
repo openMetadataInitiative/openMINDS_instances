@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gray matter of telencephalon. Is part of the caudate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002630) ('is_a' and 'relationship')]",
   "description": "Part of caudate nucleus lying just dorsal to the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002630)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101372",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002630#body-of-caudate-nucleus-1",
   "name": "body of caudate nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002630#body-of-caudate-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002630",
   "synonym": [
     "caudate nuclear body",
     "corpus (caudatus)"
   ]
 }
-

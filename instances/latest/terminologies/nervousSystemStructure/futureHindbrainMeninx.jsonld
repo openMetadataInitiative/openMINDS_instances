@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a future meninx. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010091) ('is_a' and 'relationship')]",
   "description": "A multi-tissue structure that has the potential to develop into a meninx of hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010091)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0736728",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010091#future-hindbrain-meninx",
   "name": "future hindbrain meninx",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0010091#future-hindbrain-meninx",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010091",
   "synonym": [
     "future hindbrain meninges"
   ]
 }
-

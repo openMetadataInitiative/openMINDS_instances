@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neural decussation. Is part of the ventral tegmental area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002615) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112354",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002615#ventral-tegmental-decussation-1",
   "name": "ventral tegmental decussation",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002615#ventral-tegmental-decussation-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002615",
   "synonym": [
     "anterior tegmental decussation",
@@ -17,4 +18,3 @@
     "ventral tegmental decussation of forel"
   ]
 }
-

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Estonia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q191",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q191",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "EE",
     "ee",

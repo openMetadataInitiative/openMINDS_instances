@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "application",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q166142",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q166142",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

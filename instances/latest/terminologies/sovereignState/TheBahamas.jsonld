@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "The Bahamas",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q778",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q778",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "BAH",
     "Bahama Islands",

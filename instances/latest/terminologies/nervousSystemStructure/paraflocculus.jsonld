@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum hemisphere lobule and flocculonodular lobe, hemisphere portion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005351)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104937",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005351#paraflocculus",
   "name": "paraflocculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005351#paraflocculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005351",
   "synonym": [
     "cerebellar tonsil",
@@ -19,4 +20,3 @@
     "tonsilla"
   ]
 }
-

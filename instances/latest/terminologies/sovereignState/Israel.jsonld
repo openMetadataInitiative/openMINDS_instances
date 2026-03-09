@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Israel",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q801",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q801",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "il",
     "IL",

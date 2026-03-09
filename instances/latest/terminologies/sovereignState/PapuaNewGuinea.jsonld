@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Papua New Guinea",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q691",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q691",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Independen Stet bilong Papua Niugini",
     "Independent State of Papua New Guinea",

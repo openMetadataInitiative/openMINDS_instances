@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Saint Kitts and Nevis",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q763",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q763",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Federation of Saint Christopher and Nevis",
     "Federation of Saint Kitts and Nevis",

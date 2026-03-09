@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the septal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001880) ('is_a' and 'relationship')]",
   "description": "A brain structure in the forebrain wrapped around the stria terminalis. It's largest extent can be found around the crossing of the anterior commissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001880)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101180",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001880#bed-nucleus-of-stria-terminalis-1",
   "name": "bed nucleus of stria terminalis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001880#bed-nucleus-of-stria-terminalis-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001880",
   "synonym": [
     "bed nucleus of the stria terminalis",
@@ -22,4 +23,3 @@
     "stria terminalis nucleus"
   ]
 }
-

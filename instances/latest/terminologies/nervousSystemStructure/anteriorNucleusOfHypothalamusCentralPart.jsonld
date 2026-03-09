@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the anterior nucleus of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014590) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100720",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014590#anterior-nucleus-of-hypothalamus-central-part-1",
   "name": "anterior nucleus of hypothalamus central part",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014590#anterior-nucleus-of-hypothalamus-central-part-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014590",
   "synonym": null
 }
-

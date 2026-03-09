@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Montenegro",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q236",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q236",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Crna Gora",
     "ME",

@@ -7,8 +7,10 @@
   "definition": "Is a manus nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003434)]",
   "description": "A nerve that is part of a wrist. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003434)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003434#wrist-nerve",
   "name": "wrist nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003434#wrist-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003434",
   "synonym": [
     "carpal region nerve",
@@ -16,4 +18,3 @@
     "nerve of wrist"
   ]
 }
-

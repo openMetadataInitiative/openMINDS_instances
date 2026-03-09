@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Iran",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q794",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q794",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ir",
     "IR",

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebral hemisphere white matter. Is part of the fornix of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002940) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100691",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002940#anterior-column-of-fornix-1",
   "name": "anterior column of fornix",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002940#anterior-column-of-fornix-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002940",
   "synonym": [
     "anterior crus of fornix",
@@ -17,4 +18,3 @@
     "fornix, crus anterius"
   ]
 }
-

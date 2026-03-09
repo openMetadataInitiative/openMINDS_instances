@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Chad",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q657",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q657",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "CHA",
     "GUM",

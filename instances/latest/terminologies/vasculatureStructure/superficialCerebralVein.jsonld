@@ -7,8 +7,10 @@
   "definition": "Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016559)]",
   "description": "The superficial cerebral veins are a group of veins in the head. This group includes the superior cerebral veins. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016559)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016559#superficial-cerebral-vein",
   "name": "superficial cerebral vein",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0016559#superficial-cerebral-vein",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016559",
   "synonym": [
     "cortical cerebral vein"

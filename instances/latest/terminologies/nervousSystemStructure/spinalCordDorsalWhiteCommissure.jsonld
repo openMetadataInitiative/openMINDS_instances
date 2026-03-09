@@ -7,8 +7,10 @@
   "definition": "Is a spinal cord white commissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007840)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007840#spinal-cord-dorsal-white-commissure",
   "name": "spinal cord dorsal white commissure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0007840#spinal-cord-dorsal-white-commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007840",
   "synonym": [
     "commissura alba posterior medullae spinalis",
@@ -16,4 +18,3 @@
     "posterior white commissure of spinal cord"
   ]
 }
-

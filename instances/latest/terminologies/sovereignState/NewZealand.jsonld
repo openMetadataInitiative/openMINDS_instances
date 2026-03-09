@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "New Zealand",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q664",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q664",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Aotearoa",
     "Aotearoa New Zealand",

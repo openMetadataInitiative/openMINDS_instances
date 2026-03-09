@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Grenada",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q769",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q769",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "gd",
     "GD",

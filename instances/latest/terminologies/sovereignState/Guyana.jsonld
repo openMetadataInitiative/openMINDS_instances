@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Guyana",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q734",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q734",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Co-operative Republic of Guyana",
     "GUY",

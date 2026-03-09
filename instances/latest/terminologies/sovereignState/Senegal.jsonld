@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Senegal",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1041",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1041",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Republic of Senegal",
     "SEN",

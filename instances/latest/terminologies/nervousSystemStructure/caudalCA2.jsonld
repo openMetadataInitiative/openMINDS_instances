@@ -7,9 +7,10 @@
   "definition": "Is a regional part of brain. Is part of the CA2 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034781) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034781#caudal-ca2",
   "name": "caudal CA2",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034781#caudal-ca2",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034781",
   "synonym": null
 }
-

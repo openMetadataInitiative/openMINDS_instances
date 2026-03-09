@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "North Macedonia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q221",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q221",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Former Yugoslav Republic of Macedonia",
     "FYR Macedonia",

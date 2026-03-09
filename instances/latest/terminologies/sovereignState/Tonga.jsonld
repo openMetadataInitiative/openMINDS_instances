@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Tonga",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q678",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q678",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Friendly Islands",
     "Kingdom of Tonga",

@@ -7,11 +7,12 @@
   "definition": "Is a subdivision of spinal cord central canal. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014541)]",
   "description": "Part of spinal cord central canal contained in the thoracic spinal cord. It is continuous rostrally with the cervical spinal cord central canal and caudally with the lumbar spinal cord central canal. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014541)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014541#thoracic-spinal-cord-central-canal",
   "name": "thoracic division of spinal cord central canal",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014541#thoracic-spinal-cord-central-canal",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014541",
   "synonym": [
     "thoracic spinal cord central canal"
   ]
 }
-

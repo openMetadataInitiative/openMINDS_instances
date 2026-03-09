@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brainstem nucleus and midbrain nucleus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002438) ('is_a' and 'relationship')]",
   "description": "A nucleus of brain that is part of a ventral tegmental area. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002438)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112355",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002438#ventral-tegmental-nucleus",
   "name": "ventral tegmental nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002438#ventral-tegmental-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002438",
   "synonym": [
     "deep tegmental nucleus of Gudden",
@@ -18,4 +19,3 @@
     "ventral tegmental nucleus of Gudden"
   ]
 }
-

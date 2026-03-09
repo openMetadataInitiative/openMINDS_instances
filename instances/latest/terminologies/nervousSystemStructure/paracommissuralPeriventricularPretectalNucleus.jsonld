@@ -7,11 +7,12 @@
   "definition": "Is a periventricular pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035577)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035577#paracommissural-periventricular-pretectal-nucleus",
   "name": "paracommissural periventricular pretectal nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035577#paracommissural-periventricular-pretectal-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035577",
   "synonym": [
     "paracommissural nucleus"
   ]
 }
-

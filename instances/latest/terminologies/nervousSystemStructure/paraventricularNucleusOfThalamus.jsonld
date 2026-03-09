@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the midline nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001920) ('is_a' and 'relationship')]",
   "description": "The nucleus paraventricularis anterior thalami and nuclues paraventricularis posterior thalami, two of the nuclei mediani thalami; they are situated on the dorsomedial wall of the thalamus, juxtaposed to the third ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001920)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108502",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001920#paraventricular-nucleus-of-thalamus-1",
   "name": "paraventricular nucleus of thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001920#paraventricular-nucleus-of-thalamus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001920",
   "synonym": [
     "nuclei paraventriculares thalami",
@@ -16,4 +17,3 @@
     "paraventricular thalamic nucleus"
   ]
 }
-

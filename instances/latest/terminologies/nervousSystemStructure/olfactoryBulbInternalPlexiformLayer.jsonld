@@ -7,11 +7,12 @@
   "definition": "Is an olfactory bulb plexiform layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005379)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005379#olfactory-bulb-internal-plexiform-layer",
   "name": "olfactory bulb internal plexiform layer",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005379#olfactory-bulb-internal-plexiform-layer",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005379",
   "synonym": [
     "internal plexiform layer"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "The excitatory amino acid transporter 2 belongs to the EAAT family. It clears the excitatory neurotransmitter glutamate from the extracellular space at synapses in the central nervous system and is responsible for over 90% of glutamate reuptake within the brain.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103640",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000014973#excitatory-amino-acid-transporter-2",
   "name": "excitatory amino acid transporter 2",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/PR:000014973#excitatory-amino-acid-transporter-2",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000014973",
   "synonym": [
     "EAAT2",

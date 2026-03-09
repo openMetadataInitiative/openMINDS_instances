@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "HTTPS",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q44484",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q44484",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Hypertext Transfer Protocol Secure"
   ]

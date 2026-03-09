@@ -7,9 +7,10 @@
   "definition": "Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036063)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036063#quadrangular-lobule",
   "name": "quadrangular lobule",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0036063#quadrangular-lobule",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036063",
   "synonym": null
 }
-
