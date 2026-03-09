@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Trinidad and Tobago",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q754",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q754",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Republic of Trinidad and Tobago",
     "TRI",

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Brunei",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q921",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q921",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "bn",
     "BN",

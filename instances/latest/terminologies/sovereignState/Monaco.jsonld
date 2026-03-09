@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Monaco",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q235",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q235",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Fort-Hercule",
     "mc",

@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the brain and the ventricular system of central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003053) ('is_a' and 'relationship')]",
   "description": "Proliferative region that is part of the ventricular system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003053)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0729517",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003053#ventricular-zone",
   "name": "ventricular zone",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0729517"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003053#ventricular-zone",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003053",
   "synonym": [
     "brain ventricular zone",
@@ -16,4 +19,3 @@
     "VZ"
   ]
 }
-

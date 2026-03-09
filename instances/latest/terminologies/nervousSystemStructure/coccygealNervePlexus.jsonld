@@ -7,8 +7,10 @@
   "definition": "Is a spinal nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035768)]",
   "description": "The coccygeal plexus is a plexus of nerves near the coccyx bone. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035768)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035768#coccygeal-nerve-plexus",
   "name": "coccygeal nerve plexus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035768#coccygeal-nerve-plexus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035768",
   "synonym": [
     "coccygeal plexus",
@@ -16,4 +18,3 @@
     "plexus coccygien@fr"
   ]
 }
-

@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003883)]",
   "description": "Part of hippocampus proper bounded by the hilus of the dentate gyrus and area CA2, characterized by large pyramidal cells and a dense projection from dentate gyrus granule cell mossy fibers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003883)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101534",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003883#ca3",
   "name": "CA3 field of hippocampus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101534"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003883#ca3",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003883",
   "synonym": [
     "CA3",
@@ -24,4 +27,3 @@
     "region III of hippocampus proper"
   ]
 }
-

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Barbados",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q244",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q244",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "BAR",
     "Barbadoes",

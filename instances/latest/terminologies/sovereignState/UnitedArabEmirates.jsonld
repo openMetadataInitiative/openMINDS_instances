@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "United Arab Emirates",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q878",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q878",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ae",
     "AE",

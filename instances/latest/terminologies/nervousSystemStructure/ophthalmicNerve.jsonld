@@ -7,8 +7,10 @@
   "definition": "Is a nerve of head region. Is part of the trigeminal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000348) ('is_a' and 'relationship')]",
   "description": "The sensory nerve subdivision of the trigeminal nerve that transmits sensory information from the orbit and its contents, the nasal cavity and the skin of the nose and forehead. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000348)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000348#ophthalmic-nerve",
   "name": "ophthalmic nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0000348#ophthalmic-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000348",
   "synonym": [
     "cranial nerve V, branch V1",
@@ -31,4 +33,3 @@
     "trigeminal V nerve ophthalmic division"
   ]
 }
-

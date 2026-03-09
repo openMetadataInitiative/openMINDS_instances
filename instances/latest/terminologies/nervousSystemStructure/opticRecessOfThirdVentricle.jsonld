@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002287) ('is_a' and 'relationship')]",
   "description": "Recess in third ventricle lying in front of the optic chiasm at the base of the lamina terminalis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002287)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108073",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002287#optic-recess-of-third-ventricle-1",
   "name": "optic recess of third ventricle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108073"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002287#optic-recess-of-third-ventricle-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002287",
   "synonym": [
     "optic recess",
@@ -17,4 +20,3 @@
     "supraoptic recess"
   ]
 }
-

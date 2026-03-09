@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Bolivia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q750",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q750",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "BO",
     "bo",

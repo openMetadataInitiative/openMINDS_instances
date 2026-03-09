@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "European Economic Area",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q8932",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q8932",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "EEA"
   ]

@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022695) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108111",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022695#orbital-gyri-complex-1",
   "name": "orbital gyri complex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108111"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0022695#orbital-gyri-complex-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022695",
   "synonym": null
 }
-

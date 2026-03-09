@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gray matter of hindbrain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002610) ('is_a' and 'relationship')]",
   "description": "The cochlear nuclei consist of: (a) the dorsal cochlear nucleus, corresponding to the tuberculum acusticum on the dorso-lateral surface of the inferior peduncle; and (b) the ventral or accessory cochlear nucleus, placed between the two divisions of the nerve, on the ventral aspect of the inferior peduncle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002610)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102309",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002610#cochlear-nuclear-complex-1",
   "name": "cochlear nuclear complex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0102309"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002610#cochlear-nuclear-complex-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002610",
   "synonym": [
     "cochlear nuclei"
   ]
 }
-

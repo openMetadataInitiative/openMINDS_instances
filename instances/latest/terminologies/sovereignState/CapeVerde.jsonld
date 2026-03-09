@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Cape Verde",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1011",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1011",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Cabo Verde",
     "Cape Verde Islands",

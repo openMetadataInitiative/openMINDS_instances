@@ -7,11 +7,12 @@
   "definition": "Is a nerve fiber. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006136)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006136#unmyelinated-nerve-fiber",
   "name": "unmyelinated nerve fiber",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006136#unmyelinated-nerve-fiber",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006136",
   "synonym": [
     "non-myelinated nerve fiber"
   ]
 }
-

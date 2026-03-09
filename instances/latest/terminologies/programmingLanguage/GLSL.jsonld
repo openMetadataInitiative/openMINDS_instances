@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "GLSL",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q779819",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q779819",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

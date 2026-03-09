@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "State of Palestine",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q219060",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q219060",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Palestine",
     "Palestinian Authority",

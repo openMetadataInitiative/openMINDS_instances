@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "France",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q142",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q142",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "FR",
     "FRA",

@@ -7,8 +7,10 @@
   "definition": "Is part of the adenohypophysis. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002433)]",
   "description": "The pars tuberalis is part of the anterior lobe of the pituitary gland, and wraps the pituitary stalk in a highly vascularized sheath. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002433)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002433#pars-tuberalis-of-adenohypophysis",
   "name": "pars tuberalis of adenohypophysis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002433#pars-tuberalis-of-adenohypophysis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002433",
   "synonym": [
     "pars infundibularis of adenohypophysis",
@@ -18,4 +20,3 @@
     "pars tuberalis of anterior lobe of pituitary gland"
   ]
 }
-

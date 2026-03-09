@@ -7,8 +7,10 @@
   "definition": "Is an aortic plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035774)]",
   "description": "The thoracic aortic plexus is a sympathetic plexus in the region of the thoracic aorta. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035774)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035774#thoracic-aortic-plexus",
   "name": "thoracic aortic plexus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035774#thoracic-aortic-plexus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035774",
   "synonym": [
     "plexus aorticus thoracicus",
@@ -17,4 +19,3 @@
     "thoracic aortic nerve plexus"
   ]
 }
-

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "North Korea",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q423",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q423",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Democratic People's Republic of Korea",
     "DPR Korea",

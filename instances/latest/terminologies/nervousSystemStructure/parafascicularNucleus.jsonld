@@ -7,8 +7,10 @@
   "definition": "Is a nucleus of dorsal thalamus. Is part of the intralaminar nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001922) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001922#parafascicular-nucleus-1",
   "name": "parafascicular nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001922#parafascicular-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001922",
   "synonym": [
     "nuclei parafasciculares thalami",
@@ -21,4 +23,3 @@
     "parafascicular thalamic nucleus"
   ]
 }
-

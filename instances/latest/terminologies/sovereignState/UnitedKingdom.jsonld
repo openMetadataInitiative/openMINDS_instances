@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "United Kingdom",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q145",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q145",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Britain",
     "England",

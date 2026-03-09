@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brainstem nucleus and midbrain nucleus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002551) ('is_a' and 'relationship')]",
   "description": "The largest and most prominent of the cell groups of the medial longitudinal fasciculus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002551)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105625",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002551#interstitial-nucleus-of-cajal-1",
   "name": "interstitial nucleus of Cajal",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0105625"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002551#interstitial-nucleus-of-cajal-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002551",
   "synonym": [
     "interstitial nucleus of medial longitudinal fasciculus",
@@ -17,4 +20,3 @@
     "nucleus interstitialis"
   ]
 }
-

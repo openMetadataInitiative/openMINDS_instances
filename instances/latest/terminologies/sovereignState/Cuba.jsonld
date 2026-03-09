@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Cuba",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q241",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q241",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "CU",
     "cu",

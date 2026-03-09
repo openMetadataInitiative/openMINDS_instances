@@ -7,8 +7,10 @@
   "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003714) ('is_a' and 'relationship')]",
   "description": "Portion of tissue in the nervous system which consists of neurons and glial cells, and may also contain parts of the vasculature. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003714)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003714#neural-tissue",
   "name": "neural tissue",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003714#neural-tissue",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003714",
   "synonym": [
     "nerve tissue",
@@ -16,4 +18,3 @@
     "portion of neural tissue"
   ]
 }
-

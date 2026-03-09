@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Nauru",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q697",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q697",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Naoero",
     "NR",

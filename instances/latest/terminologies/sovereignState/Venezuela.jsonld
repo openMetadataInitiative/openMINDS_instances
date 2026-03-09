@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Venezuela",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q717",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q717",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Bolivarian Republic of Venezuela",
     "BR Venezuela",

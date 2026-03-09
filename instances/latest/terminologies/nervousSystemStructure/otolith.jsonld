@@ -7,12 +7,13 @@
   "definition": "Is part of the otolithic part of statoconial membrane. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002280)]",
   "description": "Acellular structure composed of calcium carbonate located in the otolith organ. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002280)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002280#otolith",
   "name": "otolith",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002280#otolith",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002280",
   "synonym": [
     "otoconium",
     "statoconium"
   ]
 }
-

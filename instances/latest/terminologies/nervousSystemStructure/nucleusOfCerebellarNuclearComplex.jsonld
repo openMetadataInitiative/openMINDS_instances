@@ -6,13 +6,15 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a hindbrain nucleus. Is part of the cerebellar nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008995) ('is_a' and 'relationship')]",
   "description": "Four accumulations of gray substance embedded in the white substance of the cerebellum, comprising the nucleus dentatus, nucleus emboliformis, nucleus globosus, and nucleus fastigii. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008995)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0727858",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008995#nucleus-of-cerebellar-nuclear-complex",
   "name": "nucleus of cerebellar nuclear complex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0727858"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0008995#nucleus-of-cerebellar-nuclear-complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008995",
   "synonym": [
     "cerebellar nucleus",
     "deep cerebellar nucleus"
   ]
 }
-

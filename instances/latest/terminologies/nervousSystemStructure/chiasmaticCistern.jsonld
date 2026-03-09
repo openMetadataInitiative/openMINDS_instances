@@ -7,12 +7,13 @@
   "definition": "Is a subarachnoid cistern. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002898)]",
   "description": "The region of the subarachnoid space that is located below and anterior to the optic chiasm. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002898)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002898#chiasmatic-cistern-1",
   "name": "chiasmatic cistern",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002898#chiasmatic-cistern-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002898",
   "synonym": [
     "cisterna chiasmatica",
     "cisterna chiasmatis"
   ]
 }
-

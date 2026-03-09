@@ -7,8 +7,10 @@
   "definition": "Is a tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002775) ('is_a' and 'relationship')]",
   "description": "A pathway that terminates on the hair cells of the cochlea or equivalent organ in the inner ear. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002775)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002775#olivocochlear-bundle-1",
   "name": "olivocochlear bundle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002775#olivocochlear-bundle-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002775",
   "synonym": [
     "bundle of Rasmussen",
@@ -19,4 +21,3 @@
     "tractus olivocochlearis"
   ]
 }
-

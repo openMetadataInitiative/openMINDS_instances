@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Seychelles",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1042",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1042",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Republic of Seychelles",
     "République des Seychelles",

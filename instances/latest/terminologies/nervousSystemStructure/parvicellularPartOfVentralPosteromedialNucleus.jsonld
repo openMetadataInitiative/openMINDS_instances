@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gray matter of diencephalon. Is part of the ventral posteromedial nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003018) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108561",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003018#parvicellular-part-of-ventral-posteromedial-nucleus-1",
   "name": "parvicellular part of ventral posteromedial nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108561"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003018#parvicellular-part-of-ventral-posteromedial-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003018",
   "synonym": [
     "gustatory nucleus (thalamus)",
@@ -22,4 +25,3 @@
     "ventroposteromedial nucleus of the thalamus, parvicellular part"
   ]
 }
-

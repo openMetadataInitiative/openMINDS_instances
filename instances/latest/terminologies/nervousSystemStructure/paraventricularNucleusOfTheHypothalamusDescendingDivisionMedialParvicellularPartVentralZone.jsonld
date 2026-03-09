@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the paraventricular nucleus of the hypothalamus descending division. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014595) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108506",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014595#paraventricular-nucleus-of-the-hypothalamus-descending-division-medial-parvicellular-part-ventral-zone-1",
   "name": "paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108506"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014595#paraventricular-nucleus-of-the-hypothalamus-descending-division-medial-parvicellular-part-ventral-zone-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014595",
   "synonym": null
 }
-

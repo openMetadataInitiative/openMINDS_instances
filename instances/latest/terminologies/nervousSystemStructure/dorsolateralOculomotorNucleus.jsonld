@@ -7,8 +7,10 @@
   "definition": "Is a brainstem nucleus and midbrain nucleus. Is part of the oculomotor nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014522) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014522#dorsolateral-oculomotor-nucleus",
   "name": "dorsolateral oculomotor nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014522#dorsolateral-oculomotor-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014522",
   "synonym": [
     "dorsolateral nucleus of oculomotor nuclear complex",
@@ -16,4 +18,3 @@
     "oculomotor nerve dorsolateral nucleus"
   ]
 }
-

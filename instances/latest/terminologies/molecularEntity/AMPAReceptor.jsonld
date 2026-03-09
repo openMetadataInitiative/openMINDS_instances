@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "The AMPA receptors belong to the class of ionotropic glutamate receptors and mediate fast synaptic transmission in the central nervous system (CNS).",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0100559",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:5251#ampa-type-glutamate-gated-cationic-channel",
   "name": "AMPA receptor",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5251",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/nifext_5251"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NIFEXT:5251#ampa-type-glutamate-gated-cationic-channel",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0100559",
   "synonym": [
     "AMPA-type glutamate-gated cationic channel",
     "AMPAR",

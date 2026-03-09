@@ -6,9 +6,13 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Lucifer yellow is a fluorescent dye used that it can be readily visualized in both living and fixed cells using a fluorescence microscope.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0439021",
   "knowledgeSpaceLink": null,
   "name": "lucifer yellow",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0439021"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0068243",
   "synonym": [
     "LY"

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Jamaica",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q766",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q766",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Commonwealth of Jamaica",
     "JA",

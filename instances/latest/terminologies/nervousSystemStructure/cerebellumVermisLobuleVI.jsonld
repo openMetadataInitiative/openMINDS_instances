@@ -7,8 +7,10 @@
   "definition": "Is a cerebellum vermis lobule. Is part of the cerebellum posterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004080) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004080#cerebellum-vermis-lobule-vi",
   "name": "cerebellum vermis lobule VI",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004080#cerebellum-vermis-lobule-vi",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004080",
   "synonym": [
     "declive (VI)",
@@ -20,4 +22,3 @@
     "vermic lobule vi"
   ]
 }
-

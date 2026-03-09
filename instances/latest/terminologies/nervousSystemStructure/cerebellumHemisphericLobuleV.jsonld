@@ -7,8 +7,10 @@
   "definition": "Is a cerebellum hemisphere lobule and hemisphere part of cerebellar anterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024001)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0024001#cerebellum-hemispheric-lobule-v",
   "name": "cerebellum hemispheric lobule V",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0024001#cerebellum-hemispheric-lobule-v",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024001",
   "synonym": [
     "hemispheric lobule V",
@@ -16,4 +18,3 @@
     "lobule V of cerebellar hemisphere"
   ]
 }
-

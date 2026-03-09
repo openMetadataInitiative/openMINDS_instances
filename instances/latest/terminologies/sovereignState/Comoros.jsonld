@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Comoros",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q970",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q970",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "al-Ittiḥād al-Qumurī",
     "COM",

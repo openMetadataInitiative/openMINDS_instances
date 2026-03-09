@@ -7,8 +7,10 @@
   "definition": "Is a cerebral hemisphere white matter. Is part of the splenium of the corpus callosum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034676) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034676#forceps-major-of-corpus-callosum",
   "name": "forceps major of corpus callosum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034676#forceps-major-of-corpus-callosum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034676",
   "synonym": [
     "forceps major",
@@ -19,4 +21,3 @@
     "posterior forceps of corpus callosum"
   ]
 }
-

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Angola",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q916",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q916",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "AGO",
     "ANG",

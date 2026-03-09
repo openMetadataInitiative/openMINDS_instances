@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Andorra",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q228",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q228",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "AD",
     "AND",

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Iraq",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q796",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q796",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "IQ",
     "iq",

@@ -7,8 +7,10 @@
   "definition": "Is a spinal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002261)]",
   "description": "The dorsal roots contain afferent sensory axons. The dorsal roots of each side continue outwards, along the way forming a dorsal root ganglion (also called a spinal ganglion). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002261)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002261#dorsal-root-of-spinal-cord",
   "name": "dorsal root of spinal cord",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002261#dorsal-root-of-spinal-cord",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002261",
   "synonym": [
     "dorsal root",
@@ -22,4 +24,3 @@
     "sensory root of spinal nerve"
   ]
 }
-

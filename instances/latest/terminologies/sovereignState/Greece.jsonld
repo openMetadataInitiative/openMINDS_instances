@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Greece",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q41",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q41",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "el",
     "Ellada",

@@ -7,8 +7,10 @@
   "definition": "Is a subarachnoid sulcus and occipital sulcus. Is part of the intralingual sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035925) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035925#central-sulcus-of-insula",
   "name": "central sulcus of insula",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035925#central-sulcus-of-insula",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035925",
   "synonym": [
     "central fissure of insula",
@@ -19,4 +21,3 @@
     "sulcus centralis insulae"
   ]
 }
-

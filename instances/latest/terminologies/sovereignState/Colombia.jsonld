@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Colombia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q739",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q739",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "CO",
     "COL",

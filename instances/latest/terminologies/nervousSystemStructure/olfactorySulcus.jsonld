@@ -7,12 +7,13 @@
   "definition": "Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002772)]",
   "description": "The medial orbital gyrus presents a well-marked antero-posterior sulcus, the olfactory sulcus, for the olfactory tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002772)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002772#olfactory-sulcus-1",
   "name": "olfactory sulcus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002772#olfactory-sulcus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002772",
   "synonym": [
     "olfactory groove",
     "sulcus olfactorius"
   ]
 }
-

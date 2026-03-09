@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Henle's fiber layer",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_8000005",
   "synonym": [
     "Henle fiber layer",
@@ -16,4 +19,3 @@
     "nerve fiber layer of Henle"
   ]
 }
-

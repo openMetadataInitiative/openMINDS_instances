@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Germany",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q183",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q183",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "BR Deutschland",
     "BRD",

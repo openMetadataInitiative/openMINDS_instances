@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Lebanon",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q822",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q822",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "LB",
     "lb",

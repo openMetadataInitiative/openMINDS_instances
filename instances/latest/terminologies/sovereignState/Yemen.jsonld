@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Yemen",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q805",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q805",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Rep. Yemen",
     "Republic of Yemen",

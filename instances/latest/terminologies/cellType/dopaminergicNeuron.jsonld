@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "Any neuron that releases some dopamine as a neurotransmitter",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0103395",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXNEURNT:090806#dopaminergic-neuron",
   "name": "dopaminergic neuron",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_147835",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/nlx_147835"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NLXNEURNT:090806#dopaminergic-neuron",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0103395",
   "synonym": [
     "DA neuron"
   ]

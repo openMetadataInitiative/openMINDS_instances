@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "(N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole",
-  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/2826731",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://pubchem.ncbi.nlm.nih.gov/compound/2826731",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Pittsburgh Compound B",
     "Pittsburgh B",

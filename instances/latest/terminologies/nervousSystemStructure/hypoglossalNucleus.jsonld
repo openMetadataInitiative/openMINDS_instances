@@ -7,8 +7,10 @@
   "definition": "Is a cranial nerve nucleus and nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002871)]",
   "description": "Nucleus forming a longitudinal cell column in the medulla, close beneath the floor of the 4th ventricle, containing motor neurons that innervate the muscles of the tongue (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 453) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002871)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002871#hypoglossal-nucleus-1",
   "name": "hypoglossal nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002871#hypoglossal-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002871",
   "synonym": [
     "hypoglossal nerve nucleus",
@@ -18,4 +20,3 @@
     "twelfth cranial nerve nucleus"
   ]
 }
-

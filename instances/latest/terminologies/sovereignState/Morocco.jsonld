@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Morocco",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1028",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1028",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "al-Maġrib",
     "Kingdom of Morocco",

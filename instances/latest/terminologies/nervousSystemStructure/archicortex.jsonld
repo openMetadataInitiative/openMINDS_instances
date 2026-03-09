@@ -9,9 +9,11 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "archicortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002961",
   "synonym": [
     "archipallium"
   ]
 }
-

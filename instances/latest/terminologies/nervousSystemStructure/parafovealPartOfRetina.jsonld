@@ -7,9 +7,10 @@
   "definition": "Is part of the macula lutea. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018104)]",
   "description": "The intermediate belt surrounding the fovea centralis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018104)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018104#parafoveal-part-of-retina",
   "name": "parafoveal part of retina",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0018104#parafoveal-part-of-retina",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018104",
   "synonym": null
 }
-

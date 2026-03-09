@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Paraguay",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q733",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q733",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Heart of South America",
     "PAR",

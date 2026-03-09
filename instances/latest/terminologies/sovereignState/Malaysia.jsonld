@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Malaysia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q833",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q833",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Federation of Malaysia",
     "Malaysia",

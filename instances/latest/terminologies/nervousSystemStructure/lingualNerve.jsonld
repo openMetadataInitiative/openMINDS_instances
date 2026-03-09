@@ -7,8 +7,10 @@
   "definition": "Is a nerve of head region. Is part of the mandibular nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003721) ('is_a' and 'relationship')]",
   "description": "The lingual nerve is a branch of the mandibular nerve (CN V3), itself a branch of the trigeminal nerve, which supplies sensory innervation to the tongue. It also carries fibers from the facial nerve, which return taste information from the anterior two thirds of the tongue. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003721)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003721#lingual-nerve",
   "name": "lingual nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003721#lingual-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003721",
   "synonym": [
     "lingual branch of trigeminal nerve",
@@ -16,4 +18,3 @@
     "trigeminal V nerve lingual branch"
   ]
 }
-

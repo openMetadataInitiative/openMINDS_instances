@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Saint Vincent and the Grenadines",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q757",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q757",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Saint Vincent",
     "St Vincent",

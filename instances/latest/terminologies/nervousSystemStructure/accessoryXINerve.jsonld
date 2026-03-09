@@ -7,8 +7,10 @@
   "definition": "Is a laryngeal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002019)]",
   "description": "A cranial nerve that originates from neurons in the medulla and in the cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002019)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002019#accessory-nerve",
   "name": "accessory XI nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002019#accessory-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002019",
   "synonym": [
     "accessory nerve",
@@ -26,4 +28,3 @@
     "Willis' nerve"
   ]
 }
-

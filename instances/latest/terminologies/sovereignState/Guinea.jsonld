@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Guinea",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1006",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1006",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "GIN",
     "gn",

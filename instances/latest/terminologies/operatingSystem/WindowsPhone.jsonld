@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Windows Phone",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q4885200",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q4885200",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

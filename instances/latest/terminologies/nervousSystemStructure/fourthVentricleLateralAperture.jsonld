@@ -7,8 +7,10 @@
   "definition": "Is a fourth ventricle aperture. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003992)]",
   "description": "One of the two lateral openings of the fourth ventricle into the subarachnoid space at the cerebellopontine angle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003992)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003992#fourth-ventricle-lateral-aperture",
   "name": "fourth ventricle lateral aperture",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003992#fourth-ventricle-lateral-aperture",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003992",
   "synonym": [
     "apertura lateralis",
@@ -19,4 +21,3 @@
     "lateral aperture of fourth ventricle"
   ]
 }
-

@@ -6,9 +6,13 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Nickel is a chemical element; it has symbol Ni and atomic number 28.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107575",
   "knowledgeSpaceLink": null,
   "name": "nickel",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0107575"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_28112",
   "synonym": [
     "Ni",

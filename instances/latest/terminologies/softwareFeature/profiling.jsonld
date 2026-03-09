@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "profiling",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q1138496",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q1138496",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

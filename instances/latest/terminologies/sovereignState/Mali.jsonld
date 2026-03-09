@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Mali",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q912",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q912",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ml",
     "ML",

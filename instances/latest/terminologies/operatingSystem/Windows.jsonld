@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Windows",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q1406",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q1406",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

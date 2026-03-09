@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "time series",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q186588",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q186588",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "time-series"
   ]

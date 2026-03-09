@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "United States",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q30",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q30",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "America",
     "Estados Unidos de América",

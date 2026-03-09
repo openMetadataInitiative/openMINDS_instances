@@ -7,8 +7,10 @@
   "definition": "Is a nerve of head region. Is part of the buccal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013647) ('is_a' and 'relationship')]",
   "description": "A nerve that innervates the lateral pterygoid muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013647)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013647#lateral-pterygoid-nerve",
   "name": "lateral pterygoid nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0013647#lateral-pterygoid-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013647",
   "synonym": [
     "branch of buccal nerve to lateral pterygoid",
@@ -16,4 +18,3 @@
     "nervus pterygoideus lateralis"
   ]
 }
-

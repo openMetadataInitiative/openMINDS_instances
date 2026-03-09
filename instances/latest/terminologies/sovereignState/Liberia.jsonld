@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Liberia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1014",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1014",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "LBR",
     "Liber",

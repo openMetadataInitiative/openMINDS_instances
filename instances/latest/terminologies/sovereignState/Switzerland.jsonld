@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Switzerland",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q39",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q39",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "CH",
     "CHE",

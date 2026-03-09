@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Ivory Coast",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1008",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1008",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ci",
     "CI",

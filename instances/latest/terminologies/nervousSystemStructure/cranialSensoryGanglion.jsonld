@@ -7,8 +7,10 @@
   "definition": "Is a cranial ganglion and sensory ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009992)]",
   "description": "The ganglion found on the root of each cranial nerve, containing the cell bodies of afferent (sensory) neurons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009992)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009992#cranial-sensory-ganglion",
   "name": "cranial sensory ganglion",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0009992#cranial-sensory-ganglion",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009992",
   "synonym": [
     "cranial nerve sensory ganglion",
@@ -17,4 +19,3 @@
     "sensory ganglion of cranial nerve"
   ]
 }
-

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Belize",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q242",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q242",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Belize",
     "BLZ",

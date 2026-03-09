@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Kingdom of Denmark",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q756617",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q756617",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Danish Realm",
     "Danmarkar Ríki",

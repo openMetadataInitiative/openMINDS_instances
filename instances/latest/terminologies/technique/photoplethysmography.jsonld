@@ -6,9 +6,13 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Photoplethysmography is a non-invasive technique to optically detect blood volume changes in the micro-vascular bed of tissue by measuring the transmissive absorption and/or the reflection of light by the skin.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0487650",
   "knowledgeSpaceLink": null,
   "name": "photoplethysmography",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0487650"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0026056",
   "synonym": [
     "PPG"

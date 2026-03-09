@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Timor-Leste",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q574",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q574",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Democratic Republic of Timor-Leste",
     "East Timor",

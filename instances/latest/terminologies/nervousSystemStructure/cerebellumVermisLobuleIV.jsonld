@@ -7,12 +7,13 @@
   "definition": "Is a cerebellum vermis lobule. Is part of the cerebellum vermis culmen. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004077) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004077#cerebellum-vermis-lobule-iv",
   "name": "cerebellum vermis lobule IV",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004077#cerebellum-vermis-lobule-iv",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004077",
   "synonym": [
     "lobule IV of cerebellum vermis",
     "vermic lobule IV"
   ]
 }
-

@@ -6,9 +6,13 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Muscimol is a potent and selective orthosteric agonist for the GABAA receptors and displays sedative-hypnotic, depressant and hallucinogenic psychoactivity",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0485557",
   "knowledgeSpaceLink": null,
   "name": "muscimol",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0485557"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0014231",
   "synonym": [
     "agarin",

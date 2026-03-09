@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Brazil",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q155",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q155",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "br",
     "BR",

@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "platform independent",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q174666",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q174666",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

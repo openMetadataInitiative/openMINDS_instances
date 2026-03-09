@@ -7,8 +7,10 @@
   "definition": "Is a choroid plexus epithelium. Is part of the choroid plexus of third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004275) ('is_a' and 'relationship')]",
   "description": "A choroid plexus epithelium that is part of a third ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004275)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004275#third-ventricle-choroid-plexus-epithelium",
   "name": "third ventricle choroid plexus epithelium",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004275#third-ventricle-choroid-plexus-epithelium",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004275",
   "synonym": [
     "chorioid plexus of cerebral hemisphere epithelial tissue of third ventricle",
@@ -28,4 +30,3 @@
     "third ventricle epithelium of choroid plexus"
   ]
 }
-

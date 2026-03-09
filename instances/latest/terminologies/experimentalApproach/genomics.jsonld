@@ -6,9 +6,13 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on structure, function, evolution, and mapping of genomes, the entiretiy of the genetic material of a single organism.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0741204",
   "knowledgeSpaceLink": null,
   "name": "genomics",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Genomics",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/tgbugs/uris/readable/modality/Genomics"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0741204",
   "synonym": null
 }

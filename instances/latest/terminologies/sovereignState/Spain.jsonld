@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Spain",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q29",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q29",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ES",
     "ESP",

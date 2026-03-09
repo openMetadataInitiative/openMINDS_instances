@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Antigua and Barbuda",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q781",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q781",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "A&B",
     "Aanteega an' Baabyuuda",

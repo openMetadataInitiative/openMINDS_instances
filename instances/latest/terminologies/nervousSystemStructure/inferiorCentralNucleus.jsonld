@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of pontine reticular formation. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002993)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105434",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002993#inferior-central-nucleus-1",
   "name": "inferior central nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0105434"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002993#inferior-central-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002993",
   "synonym": [
     "inferior central nucleus (of roller)",
@@ -18,4 +21,3 @@
     "nucleus tegmentalis centralis inferior"
   ]
 }
-

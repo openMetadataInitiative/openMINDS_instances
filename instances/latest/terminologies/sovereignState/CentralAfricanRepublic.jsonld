@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Central African Republic",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q929",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q929",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "CAF",
     "CAR",

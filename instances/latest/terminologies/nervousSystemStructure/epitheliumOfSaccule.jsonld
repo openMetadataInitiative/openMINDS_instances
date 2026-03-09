@@ -7,8 +7,10 @@
   "definition": "Is a vestibular epithelium. Is part of the saccule of membranous labyrinth. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003242) ('is_a' and 'relationship')]",
   "description": "An epithelium that is part of a saccule of membranous labyrinth. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003242)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003242#epithelium-of-saccule",
   "name": "epithelium of saccule",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003242#epithelium-of-saccule",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003242",
   "synonym": [
     "epithelial tissue of membranous labyrinth saccule",
@@ -28,4 +30,3 @@
     "sacculus (labyrinthus vestibularis) epithelium"
   ]
 }
-

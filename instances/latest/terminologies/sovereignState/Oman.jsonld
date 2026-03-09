@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Oman",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q842",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q842",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "om",
     "OM",

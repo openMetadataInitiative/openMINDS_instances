@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "HTTP",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q8777",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q8777",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Hypertext Transfer Protocol"
   ]

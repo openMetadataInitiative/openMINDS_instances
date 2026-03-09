@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Syria",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q858",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q858",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Komara Erebî ya Sûriyê",
     "Surya",

@@ -7,8 +7,10 @@
   "definition": "Is a nerve of head region. Is part of the glossopharyngeal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009009) ('is_a' and 'relationship')]",
   "description": "A sensory branch of the glossopharyngeal nerve (CN IX) carrying signals from the baroceptors (blood pressure receptors) in the bifurcation of the carotid artery to the nucleus of the solitary tract (nucleus solitarius). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009009)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009009#carotid-sinus-nerve",
   "name": "carotid sinus nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0009009#carotid-sinus-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009009",
   "synonym": [
     "carotid branch of glossopharyngeal nerve",
@@ -19,4 +21,3 @@
     "sinus nerve of Hering"
   ]
 }
-

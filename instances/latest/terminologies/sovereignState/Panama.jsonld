@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Panama",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q804",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q804",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "PA",
     "pa",

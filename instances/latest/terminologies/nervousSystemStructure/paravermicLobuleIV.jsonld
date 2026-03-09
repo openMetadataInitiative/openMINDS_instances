@@ -7,11 +7,12 @@
   "definition": "Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028920)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0028920#paravermic-lobule-iv",
   "name": "paravermic lobule IV",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0028920#paravermic-lobule-iv",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0028920",
   "synonym": [
     "paravermic lobule iv"
   ]
 }
-

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "TCP/IP",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q81414",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q81414",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Internet Protocol suite",
     "IP suite",

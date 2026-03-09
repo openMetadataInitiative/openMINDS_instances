@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "El Salvador",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q792",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q792",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ESA",
     "Republic of El Salvador",

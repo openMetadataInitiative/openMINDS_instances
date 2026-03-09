@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebral hemisphere gray matter. Is part of the globus pallidus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002477) ('is_a' and 'relationship')]",
   "description": "The more medial segment of the globus pallidus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002477)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104660",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002477#globus-pallidus-internal-segment",
   "name": "medial globus pallidus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104660"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002477#globus-pallidus-internal-segment",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002477",
   "synonym": [
     "entopeduncular nucleus (monakow)",
@@ -29,4 +32,3 @@
     "pars medialis globi pallidi"
   ]
 }
-

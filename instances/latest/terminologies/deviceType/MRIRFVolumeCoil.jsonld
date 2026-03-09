@@ -9,11 +9,14 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "MRI RF volume coil",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "magnetic resonance imaging radiofrequency volume coil", 
-    "magnetic resonance imaging volume radiofrequency coil", 
-    "MRI RF body coil", 
+    "magnetic resonance imaging radiofrequency volume coil",
+    "magnetic resonance imaging volume radiofrequency coil",
+    "MRI RF body coil",
     "MRI volume RF coil"
   ]
 }

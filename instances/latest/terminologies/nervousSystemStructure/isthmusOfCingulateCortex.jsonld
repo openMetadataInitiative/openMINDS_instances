@@ -7,9 +7,10 @@
   "definition": "Is a regional part of brain. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027061) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0027061#isthmus-of-cingulate-cortex-1",
   "name": "isthmus of cingulate cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0027061#isthmus-of-cingulate-cortex-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0027061",
   "synonym": null
 }
-

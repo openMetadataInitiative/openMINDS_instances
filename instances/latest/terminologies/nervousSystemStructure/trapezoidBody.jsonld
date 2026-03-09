@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a white matter of pontine tegmentum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002932)]",
   "description": "Bundles of axons traversing the pontine tegmentum oriented in the mediolateral direction. These fibers are related to the auditory pathway. Nuclei are embedded within these fibers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002932)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111914",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002932#trapezoid-body-1",
   "name": "trapezoid body",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111914"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002932#trapezoid-body-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002932",
   "synonym": null
 }
-

@@ -7,8 +7,10 @@
   "definition": "Is a meninx of hindbrain and brain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003554)]",
   "description": "A pia mater that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003554)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003554#hindbrain-pia-mater",
   "name": "hindbrain pia mater",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003554#hindbrain-pia-mater",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003554",
   "synonym": [
     "hindbrain pia mater of neuraxis",
@@ -16,4 +18,3 @@
     "pia mater of neuraxis of hindbrain"
   ]
 }
-

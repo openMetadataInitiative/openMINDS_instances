@@ -7,12 +7,13 @@
   "definition": "Is a spinal nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003725)]",
   "description": "An arrangement of nerve fibers, running from the spine that travels to the head and neck where it innervates skin and muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003725)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003725#cervical-nerve-plexus",
   "name": "cervical nerve plexus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003725#cervical-nerve-plexus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003725",
   "synonym": [
     "cervical plexus",
     "plexus cervicalis"
   ]
 }
-

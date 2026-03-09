@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Peru",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q419",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q419",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "PE",
     "pe",

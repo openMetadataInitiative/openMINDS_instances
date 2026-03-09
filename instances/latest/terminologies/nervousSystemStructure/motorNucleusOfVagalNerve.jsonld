@@ -7,8 +7,10 @@
   "definition": "Is a vagus nerve nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011778)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011778#motor-nucleus-of-vagal-nerve",
   "name": "motor nucleus of vagal nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0011778#motor-nucleus-of-vagal-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011778",
   "synonym": [
     "motor nucleus of X",
@@ -16,4 +18,3 @@
     "nucleus motorius of nervi vagi"
   ]
 }
-

@@ -7,8 +7,10 @@
   "definition": "Is a spinal cord column. Is part of the ventral funiculus of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005375) ('is_a' and 'relationship')]",
   "description": "The area of white matter of the spinal cord located on either side of the ventral (anterior) medial fissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005375)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005375#spinal-cord-ventral-column",
   "name": "spinal cord ventral column",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005375#spinal-cord-ventral-column",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005375",
   "synonym": [
     "anterior column",
@@ -16,4 +18,3 @@
     "ventral column"
   ]
 }
-

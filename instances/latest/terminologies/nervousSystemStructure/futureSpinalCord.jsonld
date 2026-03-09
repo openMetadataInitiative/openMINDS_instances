@@ -7,8 +7,10 @@
   "definition": "Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006241)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006241#future-spinal-cord",
   "name": "future spinal cord",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006241#future-spinal-cord",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006241",
   "synonym": [
     "presumptive spinal cord",
@@ -17,4 +19,3 @@
     "presumptive spinal cord neural rod"
   ]
 }
-

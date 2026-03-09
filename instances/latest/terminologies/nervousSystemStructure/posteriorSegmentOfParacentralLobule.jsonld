@@ -7,11 +7,12 @@
   "definition": "Is a regional part of brain. Is part of the parietal lobe and the paracentral lobule. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035934) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035934#posterior-segment-of-paracentral-lobule",
   "name": "posterior segment of paracentral lobule",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035934#posterior-segment-of-paracentral-lobule",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035934",
   "synonym": [
     "posterior part of paracentral lobule"
   ]
 }
-

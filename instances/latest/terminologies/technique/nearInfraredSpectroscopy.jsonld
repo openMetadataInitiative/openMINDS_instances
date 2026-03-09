@@ -6,9 +6,13 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "A noninvasive technique that uses the differential absorption properties of hemoglobin and myoglobin to evaluate tissue oxygenation and indirectly can measure regional hemodynamics and blood flow [taken from [Interlex](http://uri.interlex.org/base/ilx_0488397)].",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0488397",
   "knowledgeSpaceLink": null,
   "name": "near infrared spectroscopy",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0488397"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0028692",
   "synonym": null
 }

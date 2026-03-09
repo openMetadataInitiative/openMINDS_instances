@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an axon tract. Is part of the brain and the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007702) ('is_a' and 'relationship')]",
   "description": "An axon tract that is part of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007702)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0736079",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007702#tract-of-brain",
   "name": "tract of brain",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0736079"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0007702#tract-of-brain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007702",
   "synonym": [
     "brain tract"
   ]
 }
-

@@ -7,11 +7,12 @@
   "definition": "Is a regional part of brain. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002106) ('is_a' and 'relationship')]",
   "description": "Anatomical structure that is a subdivision of the cerebellum; it is the location of some lateral line nerve synapses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002106)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2002106#eminentia-granularis",
   "name": "eminentia granularis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2002106#eminentia-granularis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2002106",
   "synonym": [
     "EG"
   ]
 }
-

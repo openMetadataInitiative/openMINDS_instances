@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Niger",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1032",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1032",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Jamhuriyar Nijar",
     "NE",

@@ -7,9 +7,10 @@
   "definition": "Is an orbital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022244)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022244#anterior-orbital-gyrus",
   "name": "anterior orbital gyrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0022244#anterior-orbital-gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022244",
   "synonym": null
 }
-

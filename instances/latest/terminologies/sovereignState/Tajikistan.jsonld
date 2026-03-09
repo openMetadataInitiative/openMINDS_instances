@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Tajikistan",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q863",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q863",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Republic of Tajikistan",
     "tj",

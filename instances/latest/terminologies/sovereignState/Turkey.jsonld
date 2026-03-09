@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Turkey",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q43",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q43",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Republic of Turkey",
     "Republic of Türkiye",

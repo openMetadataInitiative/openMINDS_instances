@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Georgia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q230",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q230",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "GE",
     "GEO",

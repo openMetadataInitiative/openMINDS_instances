@@ -7,9 +7,10 @@
   "definition": "Is a diencephalic nucleus and superficial pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035564)]",
   "description": "A nucleus that is part of the superficial pretectum and is characterized by small cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035564)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035564#parvocellular-superficial-pretectal-nucleus",
   "name": "parvocellular superficial pretectal nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035564#parvocellular-superficial-pretectal-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035564",
   "synonym": null
 }
-

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Bulgaria",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q219",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q219",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "BG",
     "bg",

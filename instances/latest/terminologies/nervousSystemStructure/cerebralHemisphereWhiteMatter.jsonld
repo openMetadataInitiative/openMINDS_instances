@@ -6,13 +6,15 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a white matter of telencephalon. Is part of the cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002437) ('is_a' and 'relationship')]",
   "description": "White matter that is part of a cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002437)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101998",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002437#cerebral-white-matter",
   "name": "cerebral hemisphere white matter",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101998"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002437#cerebral-white-matter",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002437",
   "synonym": [
     "cerebral white matter",
     "white matter structure of cerebral hemisphere"
   ]
 }
-

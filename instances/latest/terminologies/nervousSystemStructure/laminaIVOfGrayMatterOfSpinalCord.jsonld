@@ -7,8 +7,10 @@
   "definition": "Is a lamina of gray matter of spinal cord. Is part of the nucleus proprius of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016575) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016575#lamina-iv-of-gray-matter-of-spinal-cord",
   "name": "lamina IV of gray matter of spinal cord",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0016575#lamina-iv-of-gray-matter-of-spinal-cord",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016575",
   "synonym": [
     "lamina spinale IV",
@@ -16,4 +18,3 @@
     "spinal lamina IV"
   ]
 }
-

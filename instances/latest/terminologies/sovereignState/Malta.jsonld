@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Malta",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q233",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q233",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Malta",
     "MLT",

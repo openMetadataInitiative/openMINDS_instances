@@ -7,8 +7,10 @@
   "definition": "Is a cingulum of brain. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022428) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022428#cingulate-cortex-cingulum",
   "name": "cingulate cortex cingulum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0022428#cingulate-cortex-cingulum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022428",
   "synonym": [
     "cingulum (cingulate gyrus)",
@@ -16,4 +18,3 @@
     "cingulum bundle in cingulate gyrus"
   ]
 }
-

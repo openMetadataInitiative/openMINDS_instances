@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Russia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q159",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q159",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Federation of Russia",
     "RF",

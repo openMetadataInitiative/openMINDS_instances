@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Algeria",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q262",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q262",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ALG",
     "Djazaïr",

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Fiji",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q712",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q712",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Fidźi Ganaradźja",
     "Fijī",

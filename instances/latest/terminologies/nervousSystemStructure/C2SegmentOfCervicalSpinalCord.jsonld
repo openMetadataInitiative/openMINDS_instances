@@ -7,8 +7,10 @@
   "definition": "Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006489)]",
   "description": "The segment of the spinal cord that corresponds to the second cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006489)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006489#second-cervical-spinal-cord-segment",
   "name": "C2 segment of cervical spinal cord",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006489#second-cervical-spinal-cord-segment",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006489",
   "synonym": [
     "C2 segment",
@@ -16,4 +18,3 @@
     "second cervical spinal cord segment"
   ]
 }
-

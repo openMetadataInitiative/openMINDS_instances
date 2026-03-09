@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Sao Tome and Principe",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1039",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1039",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Democratic Republic of São Tomé and Príncipe",
     "República Democrática de São Tomé e Príncipe",

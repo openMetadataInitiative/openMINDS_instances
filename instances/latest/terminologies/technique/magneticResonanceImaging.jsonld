@@ -6,10 +6,14 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Any medical imaging technique that uses strong magnetic fields, magnetic field gradients, and radio waves to generate images of a specimen based on the principle of nuclear magnetic resonance.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0741208",
   "knowledgeSpaceLink": null,
   "name": "magnetic resonance imaging",
-  "preferredOntologyIdentifier": null,
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0741208"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0741208",
   "synonym": [
     "MRI",
     "unspecified magnetic resonance imaging"

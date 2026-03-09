@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Azerbaijan",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q227",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q227",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "AZ",
     "az",

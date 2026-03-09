@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Honduras",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q783",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q783",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "HN",
     "hn",

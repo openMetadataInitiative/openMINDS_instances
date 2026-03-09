@@ -7,8 +7,10 @@
   "definition": "Is a cranial nerve nucleus and hindbrain nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011775)]",
   "description": "A cranial nerve nucleus that is associated with a vagus nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011775)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011775#vagus-nerve-nucleus",
   "name": "vagus nerve nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0011775#vagus-nerve-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011775",
   "synonym": [
     "nucleus of vagal nerve",
@@ -21,4 +23,3 @@
     "vagus nucleus"
   ]
 }
-

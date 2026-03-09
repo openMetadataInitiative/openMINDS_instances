@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Union State",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q166110",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q166110",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Union State of Russia and Belarus"
   ]

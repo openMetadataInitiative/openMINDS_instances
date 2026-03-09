@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of midbrain reticular formation. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002700)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111160",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002700#subcuneiform-nucleus-1",
   "name": "subcuneiform nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111160"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002700#subcuneiform-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002700",
   "synonym": [
     "subcuneiform area of midbrain"
   ]
 }
-

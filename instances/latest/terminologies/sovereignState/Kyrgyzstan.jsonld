@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Kyrgyzstan",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q813",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q813",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "KG",
     "kg",

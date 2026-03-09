@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "India",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q668",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q668",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Al Hind",
     "Bharat",

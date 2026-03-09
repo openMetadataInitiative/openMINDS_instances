@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Costa Rica",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q800",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q800",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "CR",
     "cr",

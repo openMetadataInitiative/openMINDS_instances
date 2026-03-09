@@ -7,9 +7,10 @@
   "definition": "Is part of the valvula cerebelli. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000766)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000766#granular-layer-valvula-cerebelli",
   "name": "granular layer valvula cerebelli",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2000766#granular-layer-valvula-cerebelli",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000766",
   "synonym": null
 }
-

@@ -7,11 +7,12 @@
   "definition": "Is a commissure of telencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005340)]",
   "description": "A fiber tracts that connect the dorsal region of the two cerebral hemispheres and span the longitudinal fissure, including the corpus callosum and hippocampal commissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005340)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005340#dorsal-telencephalic-commissure",
   "name": "dorsal telencephalic commissure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005340#dorsal-telencephalic-commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005340",
   "synonym": [
     "dorsal commissure"
   ]
 }
-

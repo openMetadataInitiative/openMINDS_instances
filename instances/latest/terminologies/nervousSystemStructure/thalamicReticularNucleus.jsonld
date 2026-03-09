@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of ventral thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001903)]",
   "description": "The thalamic reticular nucleus is part of the ventral thalamus that forms a capsule around the thalamus laterally. It is separated from the thalamus by the external medullary lamina. Reticular cells are GABAergic, and have discoid dendritic arbors in the plane of the nucleus. Thalamic Reticular Nucleus is variously abbreviated TRN, RTN, NRT, and RT. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001903)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111656",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001903#thalamic-reticular-nucleus-1",
   "name": "thalamic reticular nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111656"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001903#thalamic-reticular-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001903",
   "synonym": [
     "nucleus reticularis thalami",
@@ -19,4 +22,3 @@
     "reticular thalamic nucleus"
   ]
 }
-

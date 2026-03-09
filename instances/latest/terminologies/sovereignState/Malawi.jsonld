@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Malawi",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1020",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1020",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Charu cha Malaŵi",
     "MAW",

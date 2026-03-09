@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Italy",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q38",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q38",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "IT",
     "ITA",

@@ -7,8 +7,10 @@
   "definition": "Is a regional part of brain. Is part of the white matter of cerebellum and the brainstem white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002474) ('is_a' and 'relationship')]",
   "description": "A composite structure of the brain stem, which is subdivided into the superior cerebellar peduncle of pons, the decussation of superior cerebellar peduncle and the superior cerebellar peduncle of midbrain (MM). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002474)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002474#cerebellar-penducular-complex",
   "name": "cerebellar peduncular complex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002474#cerebellar-penducular-complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002474",
   "synonym": [
     "cerebellar peduncles",
@@ -18,4 +20,3 @@
     "pedunculi cerebellares"
   ]
 }
-

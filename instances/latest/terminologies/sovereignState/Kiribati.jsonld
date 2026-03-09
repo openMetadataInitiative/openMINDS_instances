@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Kiribati",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q710",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q710",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ki",
     "KI",

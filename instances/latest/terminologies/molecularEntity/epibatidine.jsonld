@@ -6,9 +6,11 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Epibatidine is a chlorinated alkaloid that binds to nicotinic and muscarinic acetylcholine receptors with high affinity.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0103884",
   "knowledgeSpaceLink": null,
   "name": "epibatidine",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_chem_20090204",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://uri.neuinfo.org/nif/nifstd/nlx_chem_20090204",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0103884",
   "synonym": null
 }

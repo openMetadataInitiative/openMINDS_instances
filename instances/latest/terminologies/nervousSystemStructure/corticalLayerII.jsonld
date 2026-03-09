@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005391)]",
   "description": "Layer of neocortex lying just deep to molecular layer characterized by numerous small cell bodies. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005391)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107368",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005391#cortical-layer-ii",
   "name": "cortical layer II",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0107368"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005391#cortical-layer-ii",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005391",
   "synonym": [
     "cerebral cortex, layer 2",
@@ -21,4 +24,3 @@
     "neocortex layer II"
   ]
 }
-

@@ -9,10 +9,13 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "sodium MRI",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
-  "synonym": [ 
-  "Na MRI",
+  "synonym": [
+    "Na MRI",
     "Na-MRI",
     "Sodium-MRI"
-    ]
+  ]
 }

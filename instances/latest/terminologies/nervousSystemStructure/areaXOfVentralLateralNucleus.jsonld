@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gray matter of diencephalon. Is part of the ventral lateral nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002687) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100891",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002687#area-x",
   "name": "area X of ventral lateral nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100891"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002687#area-x",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002687",
   "synonym": [
     "anteromedial part of ventral lateral posterior nucleus (jones)",
@@ -20,4 +23,3 @@
     "nucleus ventrooralis internus, superior part"
   ]
 }
-

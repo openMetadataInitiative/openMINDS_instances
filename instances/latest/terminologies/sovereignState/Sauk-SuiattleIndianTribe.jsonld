@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Sauk-Suiattle Indian Tribe",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1718707",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1718707",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Sauk-Suiattle",
     "Sauk-Suiattle Tribe"

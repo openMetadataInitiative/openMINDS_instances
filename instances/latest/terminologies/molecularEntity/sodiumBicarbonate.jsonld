@@ -7,8 +7,10 @@
   "definition": "A white, crystalline powder that is commonly used as a pH buffering agent, an electrolyte replenisher, systemic alkalizer and in topical cleansing solutions.",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:32139#sodium-hydrogencarbonate",
   "name": "sodium bicarbonate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/CHEBI:32139#sodium-hydrogencarbonate",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_32139",
   "synonym": [
     "bicarbonate, sodium",

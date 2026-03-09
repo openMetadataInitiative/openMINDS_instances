@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the anterior nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002679) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100755",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002679#anterodorsal-nucleus",
   "name": "anterodorsal nucleus of thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100755"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002679#anterodorsal-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002679",
   "synonym": [
     "anterior dorsal thalamic nucleus",
@@ -25,4 +28,3 @@
     "nucleus thalamicus anterodorsalis"
   ]
 }
-

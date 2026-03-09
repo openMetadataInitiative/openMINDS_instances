@@ -7,11 +7,12 @@
   "definition": "Is a subarachnoid space. Is part of the midbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005217) ('is_a' and 'relationship')]",
   "description": "A subarachnoid space that is part of a midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005217)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005217#midbrain-subarachnoid-space",
   "name": "midbrain subarachnoid space",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005217#midbrain-subarachnoid-space",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005217",
   "synonym": [
     "subarachnoid space midbrain"
   ]
 }
-

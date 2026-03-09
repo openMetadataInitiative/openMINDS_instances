@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Vietnam",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q881",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q881",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Cộng hòa Xã hội chủ nghĩa Việt Nam",
     "Socialist Republic of Viet Nam",

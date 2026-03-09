@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a preoptic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000248)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106476",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000248#magnocellular-preoptic-nucleus",
   "name": "magnocellular preoptic nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106476"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2000248#magnocellular-preoptic-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000248",
   "synonym": null
 }
-

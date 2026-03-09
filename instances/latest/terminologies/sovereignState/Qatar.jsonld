@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Qatar",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q846",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q846",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "QA",
     "qa",

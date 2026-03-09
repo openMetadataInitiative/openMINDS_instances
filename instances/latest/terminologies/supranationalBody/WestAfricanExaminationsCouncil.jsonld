@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "West African Examinations Council",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q2993835",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q2993835",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "WAEC",
     "West African Examination Council",

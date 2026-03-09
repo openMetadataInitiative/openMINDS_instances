@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "San Marino",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q238",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q238",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Most Serene Republic of San Marino",
     "Repubblica di San Marino",

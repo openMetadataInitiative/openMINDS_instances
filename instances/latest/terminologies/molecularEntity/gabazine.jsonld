@@ -6,9 +6,13 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Gabazine is a competitive and selective GABAA antagonist.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0572043",
   "knowledgeSpaceLink": null,
   "name": "gabazine",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0572043"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0142643",
   "synonym": [
     "SR 95531",

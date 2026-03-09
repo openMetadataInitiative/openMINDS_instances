@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Libya",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1016",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1016",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "LBA",
     "LBY",

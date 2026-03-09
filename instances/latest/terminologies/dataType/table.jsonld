@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "table",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q496946",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q496946",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "tabular data"
   ]

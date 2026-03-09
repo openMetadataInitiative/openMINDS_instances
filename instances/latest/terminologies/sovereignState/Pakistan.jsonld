@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Pakistan",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q843",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q843",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Islamic Republic of Pakistan",
     "PAK",

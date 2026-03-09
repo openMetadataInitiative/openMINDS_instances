@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Linux",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q388",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q388",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

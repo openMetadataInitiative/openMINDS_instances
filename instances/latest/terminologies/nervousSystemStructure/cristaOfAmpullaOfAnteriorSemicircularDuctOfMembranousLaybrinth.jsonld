@@ -7,8 +7,10 @@
   "definition": "Is a crista ampullaris neuroepithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007274)]",
   "description": "A crista ampullaris neuroepithelium that is part of a anterior semicircular duct. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007274)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007274#crista-of-ampulla-of-anterior-semicircular-duct-of-membranous-laybrinth",
   "name": "crista of ampulla of anterior semicircular duct of membranous laybrinth",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0007274#crista-of-ampulla-of-anterior-semicircular-duct-of-membranous-laybrinth",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007274",
   "synonym": [
     "anterior crista ampullaris",
@@ -16,4 +18,3 @@
     "rostral crista"
   ]
 }
-

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Saint Lucia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q760",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q760",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Hewanorra",
     "Iyonola",

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "sodium ATP",
-  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/23675355",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://pubchem.ncbi.nlm.nih.gov/compound/23675355",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ATP Na salt",
     "ATP xsodium",

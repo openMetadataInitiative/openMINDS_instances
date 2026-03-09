@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Fortran",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q83303",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q83303",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

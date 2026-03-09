@@ -7,8 +7,10 @@
   "definition": "Potassium gluconate is the potassium salt of the conjugate base of gluconic acid.",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:32032#potassium-gluconate",
   "name": "potassium gluconate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/CHEBI:32032#potassium-gluconate",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_32032",
   "synonym": [
     "E577",

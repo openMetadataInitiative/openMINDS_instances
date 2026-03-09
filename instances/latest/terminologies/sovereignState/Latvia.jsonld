@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Latvia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q211",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q211",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "LAT",
     "Latveja",

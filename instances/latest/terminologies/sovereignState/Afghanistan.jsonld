@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Afghanistan",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q889",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q889",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "AF",
     "Affghanistan",

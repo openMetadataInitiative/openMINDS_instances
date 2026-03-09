@@ -6,13 +6,15 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the anterior division of bed nuclei of stria terminalis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011176) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101173",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011176#bed-nuclei-of-the-stria-terminalis-oval-nucleus-1",
   "name": "oval nucleus of stria terminalis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101173"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0011176#bed-nuclei-of-the-stria-terminalis-oval-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011176",
   "synonym": [
     "bed nuclei of the stria terminalis, anterior division, oval nucleus",
     "oval nucleus"
   ]
 }
-

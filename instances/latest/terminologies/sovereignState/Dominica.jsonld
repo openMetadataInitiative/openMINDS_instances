@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Dominica",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q784",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q784",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Commonwealth Dominica",
     "Commonwealth of Dominica",

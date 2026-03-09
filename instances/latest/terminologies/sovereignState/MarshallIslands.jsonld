@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Marshall Islands",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q709",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q709",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Aolepān Aorōkin Ṃajeḷ",
     "mh",

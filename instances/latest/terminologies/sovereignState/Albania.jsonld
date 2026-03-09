@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Albania",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q222",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q222",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "AL",
     "ALB",

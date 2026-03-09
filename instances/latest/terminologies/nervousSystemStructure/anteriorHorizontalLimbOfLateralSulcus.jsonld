@@ -7,8 +7,10 @@
   "definition": "Is a subarachnoid sulcus and frontal sulcus. Is part of the lateral sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002669) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002669#anterior-horizontal-limb-of-lateral-sulcus-1",
   "name": "anterior horizontal limb of lateral sulcus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002669#anterior-horizontal-limb-of-lateral-sulcus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002669",
   "synonym": [
     "anterior branch of lateral sulcus",
@@ -20,4 +22,3 @@
     "ramus anterior sulci lateralis cerebri"
   ]
 }
-

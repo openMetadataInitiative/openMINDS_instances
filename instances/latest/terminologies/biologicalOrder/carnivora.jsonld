@@ -6,9 +6,13 @@
   "@type": "https://openminds.om-i.org/types/BiologicalOrder",
   "definition": "The biological order *Carnivora* (carnivore) belongs to the class *Mammalia* (mammals).",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101675",
   "knowledgeSpaceLink": null,
   "name": "Carnivora",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101675"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_33554",
   "synonym": [
     "carnivore"

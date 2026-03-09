@@ -7,11 +7,12 @@
   "definition": "Is a brain gray matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014933)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014933#periventricular-gray-matter",
   "name": "periventricular gray matter",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014933#periventricular-gray-matter",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014933",
   "synonym": [
     "periventricular grey matter"
   ]
 }
-

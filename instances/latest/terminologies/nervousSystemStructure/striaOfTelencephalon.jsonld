@@ -7,11 +7,12 @@
   "definition": "Is a white matter of telencephalon and stria of neuraxis. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016555)]",
   "description": "A stria of neuraxis that is part of a telencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016555)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016555#stria-of-telencephalon",
   "name": "stria of telencephalon",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0016555#stria-of-telencephalon",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016555",
   "synonym": [
     "telencephalon stria"
   ]
 }
-

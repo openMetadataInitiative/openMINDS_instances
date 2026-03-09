@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "TypeScript",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q978185",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q978185",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

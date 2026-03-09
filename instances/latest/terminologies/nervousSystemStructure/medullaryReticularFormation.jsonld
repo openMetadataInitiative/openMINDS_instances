@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medulla oblongata and the reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002559) ('is_a' and 'relationship')]",
   "description": "The reticular formation is a series of brain nuclei located in the medulla oblongata. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002559)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106744",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002559#medullary-reticular-formation-1",
   "name": "medullary reticular formation",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106744"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002559#medullary-reticular-formation-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002559",
   "synonym": [
     "bulb reticular formation",
@@ -25,4 +28,3 @@
     "rhombencephalic reticular formation"
   ]
 }
-

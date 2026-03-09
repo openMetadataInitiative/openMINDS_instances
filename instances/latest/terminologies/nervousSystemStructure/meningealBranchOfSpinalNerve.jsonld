@@ -7,8 +7,10 @@
   "definition": "Is a nerve. Is part of the spinal nerve trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017641) ('is_a' and 'relationship')]",
   "description": "Branch of spinal nerve that innervates the structures of the vertebral column. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017641)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0017641#meningeal-branch-of-spinal-nerve",
   "name": "meningeal branch of spinal nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0017641#meningeal-branch-of-spinal-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0017641",
   "synonym": [
     "ramus meningeus nervorum spinales",
@@ -16,4 +18,3 @@
     "sinuvertebral branch of spinal nerve"
   ]
 }
-

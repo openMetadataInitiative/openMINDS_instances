@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Sweden",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q34",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q34",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Kingdom of Sweden",
     "SE",

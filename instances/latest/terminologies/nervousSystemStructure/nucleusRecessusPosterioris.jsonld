@@ -7,9 +7,10 @@
   "definition": "Is a nucleus recessus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014664)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014664#nucleus-recessus-posterioris",
   "name": "nucleus recessus posterioris",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014664#nucleus-recessus-posterioris",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014664",
   "synonym": null
 }
-

@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "middleware",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q146768",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q146768",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

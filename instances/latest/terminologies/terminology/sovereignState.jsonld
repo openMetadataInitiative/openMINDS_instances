@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "sovereign state",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q3624078",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q3624078",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "country",
     "nation",

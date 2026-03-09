@@ -6,10 +6,14 @@
   "@type": "https://openminds.om-i.org/types/PreparationType",
   "definition": "Something happening or being examined in the original place instead of being moved to another place",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0739593",
   "knowledgeSpaceLink": null,
   "name": "in situ",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/technique/inSitu",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/tgbugs/uris/readable/technique/inSitu"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0739593",
   "synonym": [
     "in situ technique"
   ]

@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "data processing",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q6661985",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q6661985",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

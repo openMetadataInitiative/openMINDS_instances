@@ -6,9 +6,11 @@
   "@type": "https://openminds.om-i.org/types/MeasuredQuantity",
   "definition": "A quality inhering in a cell's plasma membrane by virtue of the electric potential difference across it.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106774",
   "knowledgeSpaceLink": null,
   "name": "membrane potential",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0106774",
   "synonym": null
 }

@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the amygdala. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002884) ('is_a' and 'relationship')]",
   "description": "Discrete clusters of cells intercalated among the major amygdaloid nuclei. They stain darkly in Nissl stains and have been identified in all mammals. The main groups lie between the lateral-basolateral nuclear coplex and the central and medial nuclei. Additional cell groups have been described by some in other locations (Millhouse, O. E. The intercalated cells of the amygdala. J Comp Neurol 247: 246-271, 1986)., Groups of cells located between the lateral basolateral amygaloid nuclear complex and the central nucleus of the amygdala. They stain darkly in Nissl stains and have been identified in all mammals. (Millhouse, O. E. The intercalated cells of the amygdala. J Comp Neurol 247: 246-271, 1986) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002884)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105544",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002884#intercalated-amygdaloid-nuclei-1",
   "name": "intercalated amygdaloid nuclei",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0105544"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002884#intercalated-amygdaloid-nuclei-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002884",
   "synonym": [
     "intercalated amygdaloid nucleus",
@@ -19,4 +22,3 @@
     "massa intercalata of amygdala"
   ]
 }
-

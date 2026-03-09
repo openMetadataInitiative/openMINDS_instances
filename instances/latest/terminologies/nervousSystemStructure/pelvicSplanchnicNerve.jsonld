@@ -7,11 +7,12 @@
   "definition": "Is a splanchnic nerve and parasympathetic nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018675)]",
   "description": "A splanchnic nerves that arises from sacral spinal nerves S2, S3, S4 to provide parasympathetic innervation to the hindgut. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018675)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018675#pelvic-splanchnic-nerve",
   "name": "pelvic splanchnic nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0018675#pelvic-splanchnic-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018675",
   "synonym": [
     "pelvic splanchnic parasympathetic nerve"
   ]
 }
-

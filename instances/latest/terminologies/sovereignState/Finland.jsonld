@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Finland",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q33",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q33",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "fi",
     "FI",

@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Mauritius",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1027",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1027",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Maurice",
     "Moris",

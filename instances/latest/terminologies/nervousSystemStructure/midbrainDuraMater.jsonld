@@ -7,8 +7,10 @@
   "definition": "Is a brain dura mater and meninx of midbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003562)]",
   "description": "A dura mater that is part of a midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003562)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003562#midbrain-dura-mater",
   "name": "midbrain dura mater",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003562#midbrain-dura-mater",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003562",
   "synonym": [
     "dura mater of midbrain",
@@ -16,4 +18,3 @@
     "midbrain dura mater of neuraxis"
   ]
 }
-

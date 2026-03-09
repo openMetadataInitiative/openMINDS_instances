@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the ventral nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002596) ('is_a' and 'relationship')]",
   "description": "Part of thalamus receiving primary somatic sensory information via the medial lemniscal pathway that projects to the primary somatosensory cortex (adapted from Paxinos, The Rat Nervous System, 2nd Ed, Academic Press, 1995). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002596)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112334",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002596#ventral-posterior-nucleus",
   "name": "ventral posterior nucleus of thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112334"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002596#ventral-posterior-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002596",
   "synonym": [
     "nucleus ventrales posteriores",
@@ -19,4 +22,3 @@
     "ventrobasal nucleus"
   ]
 }
-

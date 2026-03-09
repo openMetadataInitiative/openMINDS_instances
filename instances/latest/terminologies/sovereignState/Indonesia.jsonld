@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Indonesia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q252",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q252",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "id",
     "ID",

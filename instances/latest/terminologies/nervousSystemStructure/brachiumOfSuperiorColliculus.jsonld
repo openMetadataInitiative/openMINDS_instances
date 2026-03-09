@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neuron projection bundle and central nervous system cell part cluster. Is part of the white matter of superior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002580) ('is_a' and 'relationship')]",
   "description": "Bundle of fibers that passes over the medial geniculate nucleus (in humans) to reach the superior colliculus. Contains afferents from the retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002580)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101410",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002580#brachium-of-superior-colliculus-1",
   "name": "brachium of superior colliculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101410"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002580#brachium-of-superior-colliculus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002580",
   "synonym": [
     "superior brachium",
@@ -17,4 +20,3 @@
     "superior quadrigeminal brachium"
   ]
 }
-

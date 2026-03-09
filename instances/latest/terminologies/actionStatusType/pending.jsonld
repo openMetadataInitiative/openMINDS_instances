@@ -1,4 +1,3 @@
-
 {
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
@@ -10,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "pending",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "queued",

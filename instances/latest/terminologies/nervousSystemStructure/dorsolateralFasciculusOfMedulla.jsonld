@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a tract of brain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002649) ('is_a' and 'relationship')]",
   "description": "Part of Lissauer's tract located in the medulla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002649)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106302",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002649#dorsolateral-fasciculus",
   "name": "dorsolateral fasciculus of medulla",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106302"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002649#dorsolateral-fasciculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002649",
   "synonym": [
     "dorsolateral fasciculus",
@@ -21,4 +24,3 @@
     "zone of Lissauer"
   ]
 }
-

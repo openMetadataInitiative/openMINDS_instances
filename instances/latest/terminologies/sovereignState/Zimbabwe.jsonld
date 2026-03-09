@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Zimbabwe",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q954",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q954",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Republic of Zimbabwe",
     "Rhodesia",

@@ -7,8 +7,10 @@
   "definition": "Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003443)]",
   "description": "A nerve that is located in a thoracic cavity. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003443)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003443#thoracic-cavity-nerve",
   "name": "thoracic cavity nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003443#thoracic-cavity-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003443",
   "synonym": [
     "cavity of chest nerve",
@@ -22,4 +24,3 @@
     "pectoral cavity nerve"
   ]
 }
-

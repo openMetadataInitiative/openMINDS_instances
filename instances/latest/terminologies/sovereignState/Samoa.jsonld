@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Samoa",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q683",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q683",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Independent State of Samoa",
     "Malo Sa’oloto Tuto’atasi o Samoa",

@@ -7,8 +7,10 @@
   "definition": "Is a gray matter layer of superior colliculus and deep layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006789)]",
   "description": null,
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006789#deep-gray-layer-of-superior-colliculus",
   "name": "deep gray layer of superior colliculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006789#deep-gray-layer-of-superior-colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006789",
   "synonym": [
     "deep grey layer of superior colliculus",
@@ -20,4 +22,3 @@
     "stratum griseum profundum of superior colliculus"
   ]
 }
-

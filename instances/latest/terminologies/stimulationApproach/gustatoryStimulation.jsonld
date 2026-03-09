@@ -6,9 +6,13 @@
   "@type": "https://openminds.om-i.org/types/StimulationApproach",
   "definition": "A stimulation of the gustatory (taste and flavor perception) system.",
   "description": "The sensory modality that pertains to the sense of taste or flavor. It usually but not always arises through stimulation of the gustatory system (e.g., tastebuds, nasal receptors).",
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0104834",
   "knowledgeSpaceLink": null,
   "name": "gustatory stimulation",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/ilx_0104834"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00123",
   "synonym": [
     "gustatory modality",

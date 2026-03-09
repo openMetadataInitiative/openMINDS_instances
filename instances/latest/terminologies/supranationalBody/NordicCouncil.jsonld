@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Nordic Council",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q146165",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q146165",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Nordic cooperation",
     "The Nordic Council"

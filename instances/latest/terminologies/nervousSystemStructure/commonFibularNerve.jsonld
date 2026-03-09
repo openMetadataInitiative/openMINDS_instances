@@ -7,8 +7,10 @@
   "definition": "Is a leg nerve and fibular nerve. Is part of the sciatic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001324) ('is_a' and 'relationship')]",
   "description": "A nerve arising at the terminal division of the sciatic nerve at the popliteal fossa and extending to the neck of the fibula, ultimately innervating the Peroneus muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001324)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001324#common-fibular-nerve",
   "name": "common fibular nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001324#common-fibular-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001324",
   "synonym": [
     "common peroneal nerve",
@@ -17,4 +19,3 @@
     "nervus peroneus communis"
   ]
 }
-

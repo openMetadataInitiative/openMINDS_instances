@@ -7,8 +7,10 @@
   "definition": "Is an anatomical entity. Is part of the central canal of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009572) ('is_a' and 'relationship')]",
   "description": "A cerebrospinal fluid-filled space that runs longitudinally through the length of the entire spinal cord. The central canal is contiguous with the ventricular system of the brain. The central canal represents the adult remainder of the neural tube. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009572)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009572#lumen-of-central-canal-of-spinal-cord",
   "name": "lumen of central canal of spinal cord",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0009572#lumen-of-central-canal-of-spinal-cord",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009572",
   "synonym": [
     "cavity of central canal of spinal cord",
@@ -16,4 +18,3 @@
     "spinal cord lumen"
   ]
 }
-

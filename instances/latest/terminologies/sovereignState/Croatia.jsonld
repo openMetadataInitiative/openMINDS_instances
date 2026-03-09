@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Croatia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q224",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q224",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "CRO",
     "HR",

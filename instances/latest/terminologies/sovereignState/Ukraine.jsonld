@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Ukraine",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q212",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q212",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "UA",
     "UKR",

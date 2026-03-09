@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Kingdom of the Netherlands",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q29999",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q29999",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Koninkrijk der Nederlanden",
     "NED",

@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001890)]",
   "description": "The most anterior region the brain including both the telencephalon and diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001890)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104355",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001890#forebrain-1",
   "name": "forebrain",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104355"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001890#forebrain-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001890",
   "synonym": null
 }
-

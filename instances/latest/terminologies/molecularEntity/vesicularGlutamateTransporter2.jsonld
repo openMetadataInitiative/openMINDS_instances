@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "The vesicular glutamate transporter 2 belongs to the VGLUT family. It mediates the uptake of glutamate into synaptic vesicles at presynaptic nerve terminals of excitatory neural cells.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112443",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXMOL:1006009#vesicular-glutamate-transporter-2",
   "name": "vesicular glutamate transporter 2",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112443"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NLXMOL:1006009#vesicular-glutamate-transporter-2",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000014962",
   "synonym": [
     "VGLUT2"

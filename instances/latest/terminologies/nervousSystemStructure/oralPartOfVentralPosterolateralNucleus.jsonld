@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gray matter of diencephalon. Is part of the ventral posterolateral nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003019) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108082",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003019#oral-part-of-ventral-posterolateral-nucleus-1",
   "name": "oral part of ventral posterolateral nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108082"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003019#oral-part-of-ventral-posterolateral-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003019",
   "synonym": [
     "nucleus lateralis intermedius lateralis",
@@ -23,4 +26,3 @@
     "ventral posterolateral thalamic nucleus, oral part"
   ]
 }
-

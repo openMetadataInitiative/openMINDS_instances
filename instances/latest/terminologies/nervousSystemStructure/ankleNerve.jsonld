@@ -7,12 +7,13 @@
   "definition": "Is a pes nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003446)]",
   "description": "A nerve that is part of an ankle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003446)]",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003446#ankle-nerve",
   "name": "ankle nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003446#ankle-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003446",
   "synonym": [
     "nerve of ankle",
     "tarsal region nerve"
   ]
 }
-

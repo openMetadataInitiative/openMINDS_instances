@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Philippines",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q928",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q928",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "ph",
     "PH",

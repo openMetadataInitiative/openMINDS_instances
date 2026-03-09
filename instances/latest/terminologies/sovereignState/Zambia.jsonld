@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Zambia",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q953",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q953",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Republic of Zambia",
     "ZAM",

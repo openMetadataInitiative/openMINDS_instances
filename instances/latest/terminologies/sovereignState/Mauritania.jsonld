@@ -9,7 +9,10 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "Mauritania",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q1025",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1025",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Agawej",
     "Gannaar",

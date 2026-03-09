@@ -9,6 +9,9 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "simulation",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q925667",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q925667",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }
