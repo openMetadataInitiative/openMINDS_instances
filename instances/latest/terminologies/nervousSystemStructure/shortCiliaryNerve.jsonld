@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an iris nerve, parasympathetic nerve and nerve of head region. Is part of the main ciliary ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022302) ('is_a' and 'relationship')]",
   "description": "A branch of the ciliary ganglion that innervates the ciliary muscles, the iris, and the tunics of the eyeball. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022302)]",
-  "interlexIdentifier": null,
   "name": "short ciliary nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

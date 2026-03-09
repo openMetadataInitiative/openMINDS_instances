@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve. Is part of the lumbosacral nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005465) ('is_a' and 'relationship')]",
   "description": "The obturator nerve arises from the ventral divisions of the second, third, and fourth lumbar nerves; the branch from the third is the largest, while that from the second is often very small. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005465)]",
-  "interlexIdentifier": null,
   "name": "obturator nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

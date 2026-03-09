@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an autonomic ganglion. Is part of the sympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001806) ('is_a' and 'relationship')]",
   "description": "A ganglion of the sympathetic nervous system. Examples: paravertebral and the prevertebral ganglia, which include the sympathetic chain ganglia, the superior, middle, and inferior cervical ganglia, and the aorticorenal, celiac, and stellate ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001806)]",
-  "interlexIdentifier": null,
   "name": "sympathetic ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

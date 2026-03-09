@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnnotationType",
   "definition": "An 'annotation surface' is a three-dimensional boundary of a volume of interest.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "annotation surface",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an auditory cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009898)]",
   "description": "An auditory cortex that is in the right side of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009898)]",
-  "interlexIdentifier": null,
   "name": "left auditory cortex",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

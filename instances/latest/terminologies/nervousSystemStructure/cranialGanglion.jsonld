@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001714)]",
   "description": "The groups of nerve cell bodies associated with the twelve cranial nerves. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001714)]",
-  "interlexIdentifier": null,
   "name": "cranial ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

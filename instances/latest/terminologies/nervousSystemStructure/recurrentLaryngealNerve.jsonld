@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve of head region and laryngeal nerve. Is part of the vagus nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003716) ('is_a' and 'relationship')]",
   "description": "A branch of the vagus nerve that supplies motor function and sensation to the larynx (voice box). It travels within the endoneurium. It is the nerve of the 6th Branchial Arch. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003716)]",
-  "interlexIdentifier": null,
   "name": "recurrent laryngeal nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

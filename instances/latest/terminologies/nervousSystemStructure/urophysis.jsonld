@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neuroendocrine gland. Is part of the spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011359) ('is_a' and 'relationship')]",
   "description": "This is a neurosecretory organ rostral to the ampulla caudalis on the ventral surface of the distal end of the spinal cord. Receives axons from caudal neurosecretory nucleus, which contains Dahlgren cells that secrete urotensin I and II, implicated in osmotic regulation, cardiovascular function and reproduction. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011359)]",
-  "interlexIdentifier": null,
   "name": "urophysis",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002816)]",
   "description": "Fissure between cerebellar lobules VIIBii and VIII. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002816)]",
-  "interlexIdentifier": null,
   "name": "prepyramidal fissure of cerebellum",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

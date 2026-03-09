@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "Any neuron characterized by a high density of dendritic spines on the dendrites.",
   "description": null,
-  "interlexIdentifier": null,
   "name": "spiny neuron",
   "otherCrossReference": [
     "http://uri.neuinfo.org/nif/nifstd/nlx_100601"

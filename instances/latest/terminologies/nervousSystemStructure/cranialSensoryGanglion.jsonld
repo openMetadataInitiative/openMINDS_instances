@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial ganglion and sensory ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009992)]",
   "description": "The ganglion found on the root of each cranial nerve, containing the cell bodies of afferent (sensory) neurons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009992)]",
-  "interlexIdentifier": null,
   "name": "cranial sensory ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

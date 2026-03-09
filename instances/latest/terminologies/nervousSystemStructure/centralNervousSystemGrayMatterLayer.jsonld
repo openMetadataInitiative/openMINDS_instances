@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nervous system cell part layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016548)]",
   "description": "A layer of of the central nervous system that is part of gray matter. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016548)]",
-  "interlexIdentifier": null,
   "name": "central nervous system gray matter layer",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

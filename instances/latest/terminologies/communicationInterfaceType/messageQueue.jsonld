@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "A means of interacting with a software system by sending messages to a buffer from which they may be retrieved at a later time.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "message queue",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

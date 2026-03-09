@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a circuit part of central nervous system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026546)]",
   "description": "A neuronal circuit bearing a principal projection neuron whose axon extends beyond the region where its soma is located to synapse on the dendrites of cells in other regions of the nervous system (BB). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026546)]",
-  "interlexIdentifier": null,
   "name": "principal neuronal circuit",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

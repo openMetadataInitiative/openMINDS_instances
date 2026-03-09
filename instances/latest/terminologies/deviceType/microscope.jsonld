@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DeviceType",
   "definition": "A 'microscope' is an instrument used to obtain a magnified image of small objects and reveal details of structures not otherwise distinguishable.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "microscope",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

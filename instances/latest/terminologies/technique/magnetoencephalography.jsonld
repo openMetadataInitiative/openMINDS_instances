@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "'Magnetoencephalography' is a noninvasive neuroimaging technique for studying brain activity by recording magnetic fields produced by electrical currents occurring naturally in the brain, using very sensitive magnetometers. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Magnetoencephalography)]",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "magnetoencephalography",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nervous system commissure. Is part of the white matter of cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006847) ('is_a' and 'relationship')]",
   "description": "A nervous system commissure that connects a left hemisphere of cerebellum and connects a right hemisphere of cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006847)]",
-  "interlexIdentifier": null,
   "name": "cerebellar commissure",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

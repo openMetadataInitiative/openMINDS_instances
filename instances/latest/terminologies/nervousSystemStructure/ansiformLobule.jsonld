@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005348)]",
   "description": "A lobule comprising the greater part of the hemisphere of the cerebellum; its superior and inferior surfaces are separated by the horizontal fissure into major parts known as crus I (superior semilunar lobule) and crus II (inferior semilunar lobule). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005348)]",
-  "interlexIdentifier": null,
   "name": "ansiform lobule",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

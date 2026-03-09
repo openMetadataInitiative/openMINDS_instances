@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nuclear complex of neuraxis and gray matter of midbrain. Is part of the oculomotor nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014523) ('is_a' and 'relationship')]",
   "description": "A division of oculomotor nuclear complex that exists in organisms with electric organs which is responsible for eye movements. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014523)]",
-  "interlexIdentifier": null,
   "name": "oculomotor division of oculomotor nuclear complex",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

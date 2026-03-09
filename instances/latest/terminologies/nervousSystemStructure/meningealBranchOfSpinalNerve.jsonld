@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve. Is part of the spinal nerve trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017641) ('is_a' and 'relationship')]",
   "description": "Branch of spinal nerve that innervates the structures of the vertebral column. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017641)]",
-  "interlexIdentifier": null,
   "name": "meningeal branch of spinal nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

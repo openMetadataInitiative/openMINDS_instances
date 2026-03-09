@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/StimulationTechnique",
   "definition": "A technique used to elicit a reaction by an electrical stimulus.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "electrical stimulation",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

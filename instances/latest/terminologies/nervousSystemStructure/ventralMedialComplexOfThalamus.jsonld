@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an aggregate regional part of brain. Is part of the ventral nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000431) ('is_a' and 'relationship')]",
   "description": "A group of nuclei located in the medial portion of the ventral thalamic nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000431)]",
-  "interlexIdentifier": null,
   "name": "ventral medial complex of thalamus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

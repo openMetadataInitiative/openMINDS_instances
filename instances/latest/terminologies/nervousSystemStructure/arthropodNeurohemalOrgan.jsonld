@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neuroendocrine gland. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001053)]",
   "description": "A system of neurons that has the specialized function to produce and secrete hormones, and that constitutes, in whole or in part, an endocrine organ or system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001053)]",
-  "interlexIdentifier": null,
   "name": "arthropod neurohemal organ",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

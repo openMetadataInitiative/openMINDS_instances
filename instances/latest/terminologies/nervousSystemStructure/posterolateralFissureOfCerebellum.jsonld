@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002818)]",
   "description": "Fissure between cerebellar lobules IX and X. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002818)]",
-  "interlexIdentifier": null,
   "name": "posterolateral fissure of cerebellum",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

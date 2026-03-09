@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036218) ('is_a' and 'relationship')]",
   "description": "The most anterior region of the forebrain including both the telencephalon and the hypothalamus in the prosomeric model. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036218)]",
-  "interlexIdentifier": null,
   "name": "secondary prosencephalon",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the superior olivary complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007247) ('is_a' and 'relationship')]",
   "description": "Any of the nuclei that comprise the superior olivary complex (superior olive). This includes both the primary nuclei such as the lateral and medial nuclei, as well as periolivary nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007247)]",
-  "interlexIdentifier": null,
   "name": "nucleus of superior olivary complex",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

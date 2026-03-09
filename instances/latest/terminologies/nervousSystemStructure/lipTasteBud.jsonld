@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an integumental taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034719)]",
   "description": "A taste bud that is located on a lip. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034719)]",
-  "interlexIdentifier": null,
   "name": "lip taste bud",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

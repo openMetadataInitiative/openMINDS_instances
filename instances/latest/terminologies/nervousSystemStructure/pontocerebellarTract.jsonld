@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a tract of brain. Is part of the middle cerebellar peduncle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022421) ('is_a' and 'relationship')]",
   "description": "The second order neuron fibers of the corticopontocerebellar tracts that cross to the other side of the pons and run within the middle cerebellar peduncles, from the pons to the contralateral cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022421)]",
-  "interlexIdentifier": null,
   "name": "pontocerebellar tract",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

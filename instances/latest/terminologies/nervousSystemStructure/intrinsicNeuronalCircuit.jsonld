@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a circuit part of central nervous system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026547)]",
   "description": "A neuronal circuit where all the participating neurons are bounded within a defined and limited region of the nervous system.(BB). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026547)]",
-  "interlexIdentifier": null,
   "name": "intrinsic neuronal circuit",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

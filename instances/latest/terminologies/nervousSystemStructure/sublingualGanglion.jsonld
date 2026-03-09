@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005407)]",
   "description": "The small parasympathetic ganglion found anterior to the submandibular gland that provides postsynaptic fibers to the sublingual gland. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005407)]",
-  "interlexIdentifier": null,
   "name": "sublingual ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

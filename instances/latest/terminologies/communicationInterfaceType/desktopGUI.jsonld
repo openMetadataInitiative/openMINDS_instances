@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "A graphical user interface that runs as a native application on a desktop computer.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "desktop GUI",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

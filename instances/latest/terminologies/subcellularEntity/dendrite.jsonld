@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/SubcellularEntity",
   "definition": "A 'dendrite' is a branching protoplasmic process of a neuron that receives and integrates signals coming from axons of other neurons, and conveys the resulting signal to the body of the cell (Gene Ontology).",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "dendrite",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

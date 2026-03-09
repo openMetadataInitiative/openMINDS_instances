@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/MRISpoilingTechnique",
   "definition": "A spoiling technique that suppresses residual transverse magnetization by applying additional gradient moments to induce spatial dephasing.",
   "description": "Gradient spoiling applies crusher or spoiler gradients after signal acquisition. These gradients introduce position-dependent phase shifts in transverse magnetization. The resulting spatial dephasing reduces coherent signal contributions in subsequent repetitions. The effectiveness depends on gradient strength and duration. Gradient spoiling is widely used in gradient-echo and spin-echo sequences to control unwanted coherence pathways.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "gradient spoiling",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a subarachnoid cistern. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011155)]",
   "description": "The subarachnoid space associated with the lateral cerebral sulcus (Sylvian fissure); contains the M1 segment of the middle cerebral artery and the origin of lenticulostriate arteries, and proximal parts of the middle cerebral artery. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011155)]",
-  "interlexIdentifier": null,
   "name": "Sylvian cistern",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

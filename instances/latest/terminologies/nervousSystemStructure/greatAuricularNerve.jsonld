@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve innervating pinna. Is part of the cervical nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008833) ('is_a' and 'relationship')]",
   "description": "A nerve arising from the second and third cervical nerves from the cervical plexus and innervating the skin over the parotid gland, the skin of part of the ear, the adjacent portion of the scalp, cheek, and angle of the jaw. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008833)]",
-  "interlexIdentifier": null,
   "name": "great auricular nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

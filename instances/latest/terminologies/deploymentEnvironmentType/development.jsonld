@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DeploymentEnvironmentType",
   "definition": "A working environment for developers to build, test, and debug new features or changes; usually more flexible and less restricted than other environments.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "development",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

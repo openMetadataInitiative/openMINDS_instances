@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "'Diffeomorphic registration' refers to a suite of algorithms that register or build correspondences between dense coordinate systems in medical imaging by ensuring the solutions are diffeomorphic.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "diffeomorphic registration",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

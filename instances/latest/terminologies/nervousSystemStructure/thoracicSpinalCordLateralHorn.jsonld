@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a spinal cord lateral horn. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014607) ('is_a' and 'relationship')]",
   "description": "A spinal cord lateral horn that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014607)]",
-  "interlexIdentifier": null,
   "name": "thoracic spinal cord lateral horn",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an arm nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004216)]",
   "description": "A nerve that is part of a lower arm. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004216)]",
-  "interlexIdentifier": null,
   "name": "lower arm nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

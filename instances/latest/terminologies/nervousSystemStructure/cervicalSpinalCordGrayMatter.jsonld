@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gray matter of spinal cord. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014613) ('is_a' and 'relationship')]",
   "description": "A gray matter of spinal cord that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014613)]",
-  "interlexIdentifier": null,
   "name": "cervical spinal cord gray matter",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

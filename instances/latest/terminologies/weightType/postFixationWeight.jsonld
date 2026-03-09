@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/WeightType",
   "definition": "The mass of an organism or biological tissue measured after it has undergone a fixation process intended to preserve its structural or molecular integrity.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "post fixation weight",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

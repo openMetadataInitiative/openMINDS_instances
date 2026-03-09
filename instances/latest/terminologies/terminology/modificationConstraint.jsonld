@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "Terminology for specifying procedural conditions or prohibitions that limit how modifications may be made.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "modification constraint",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

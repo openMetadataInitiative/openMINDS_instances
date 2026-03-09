@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a vestibular epithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003363)]",
   "description": "An epithelium that is part of a ductus reuniens. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003363)]",
-  "interlexIdentifier": null,
   "name": "epithelium of ductus reuniens",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

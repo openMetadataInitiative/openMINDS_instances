@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anterodorsal lateral line nerve (ADLLN). [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010759)]",
   "description": "Ventral ramus of the ADLLN that innervates the infraorbital line of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010759)]",
-  "interlexIdentifier": null,
   "name": "ramus buccal",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'RdGy' is a diverging colormap of the Python plotting library Matplotlib.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "matplotlib.colormaps.RdGy",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

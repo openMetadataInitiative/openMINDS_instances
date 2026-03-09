@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a plantar nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035111)]",
   "description": "A plantar nerve that supplies the medial side of the plantar part of the foot, including pedal digit 1. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035111)]",
-  "interlexIdentifier": null,
   "name": "medial plantar nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011322)]",
   "description": "A nerve that innervates the mylohyoid muscle and the anterior belly of the digastric muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011322)]",
-  "interlexIdentifier": null,
   "name": "mylohyoid nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a sulcus of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026721) ('is_a' and 'relationship')]",
   "description": "A superficial feature of the frontal lobe that extends from the dorsal surface onto the medial surface of the superior frontal gyrus (Ono-90). (NN) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026721)]",
-  "interlexIdentifier": null,
   "name": "medial precentral sulcus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

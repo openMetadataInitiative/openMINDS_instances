@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014908)]",
   "description": "Junction between the cerebellum and the pons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014908)]",
-  "interlexIdentifier": null,
   "name": "cerebellopontine angle",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

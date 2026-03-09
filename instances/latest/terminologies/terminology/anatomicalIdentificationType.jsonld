@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "The type of identiciation that was used to determine an anatomical location.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "anatomical identification type",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

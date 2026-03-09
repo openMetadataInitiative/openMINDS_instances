@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CriteriaQualityType",
   "definition": "If a criteria is 'asserted' it is based on an opinion or claim, usually made by an expert.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "asserted",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

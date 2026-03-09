@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002827)]",
   "description": "The group of neuron cell bodies associated with the eighth cranial nerve during embryogenesis; splits in later development to form the cochlear and vestibular ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002827)]",
-  "interlexIdentifier": null,
   "name": "vestibulocochlear ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

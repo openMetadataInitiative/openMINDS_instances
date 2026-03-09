@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a meninx of diencephalon and forebrain dura mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003564)]",
   "description": "A dura mater that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003564)]",
-  "interlexIdentifier": null,
   "name": "diencephalon dura mater",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/PaymentModelType",
   "definition": "Payment includes an allowance of billable units (entitlement, consumption, event, monetary value, outcome, or capacity units), with charges for excess units.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "allowance-overage payment model",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

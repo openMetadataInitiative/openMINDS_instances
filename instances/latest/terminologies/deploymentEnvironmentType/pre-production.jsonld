@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DeploymentEnvironmentType",
   "definition": "A near-final environment used to validate releases before moving to production; typically mirrors the production setup closely and is used for final checks.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "pre-production",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

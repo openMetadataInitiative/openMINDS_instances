@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/MeasuredQuantity",
   "definition": "Current injected into a cell to maintain the membrane potential at a target value.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "compensation current",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

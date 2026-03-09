@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a meninx of midbrain and brain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003551)]",
   "description": "A pia mater that is part of a midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003551)]",
-  "interlexIdentifier": null,
   "name": "midbrain pia mater",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003038)]",
   "description": "The thoracic nerves are the spinal nerves emerging from the thoracic vertebrae. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003038)]",
-  "interlexIdentifier": null,
   "name": "thoracic spinal cord",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

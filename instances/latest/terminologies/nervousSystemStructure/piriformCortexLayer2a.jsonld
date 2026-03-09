@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the piriform cortex layer 2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022340) ('is_a' and 'relationship')]",
   "description": "Superficial region of layer 2 of the piriform cortex characterized by a less dense packing of cells and a concentration of semilunar cell bodies. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022340)]",
-  "interlexIdentifier": null,
   "name": "piriform cortex layer 2a",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

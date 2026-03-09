@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an insect eo-type sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005177)]",
   "description": "A sensillum with a long, unicellular, setiform outgrowth that is strongly chitinized. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005177)]",
-  "interlexIdentifier": null,
   "name": "insect chaeta",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

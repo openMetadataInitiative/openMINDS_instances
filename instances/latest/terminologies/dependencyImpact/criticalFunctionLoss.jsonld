@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DependencyImpact",
   "definition": "Essential or mission-critical features of a thing stop working if the thing it depends on is unavailable.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "critical function loss",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

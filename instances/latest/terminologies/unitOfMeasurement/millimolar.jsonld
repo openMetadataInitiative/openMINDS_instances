@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "Millimolar is a decimal fraction of molar concentration that describes a solution as millimole per one liter of a solution.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "millimolar",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

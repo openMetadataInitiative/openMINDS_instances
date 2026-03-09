@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a ramus mandibularis externus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010795)]",
   "description": "Ventral branch of the ramus mandibularis externus. This ramule have a superior and an inferior division, both innervating the preopercular line of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010795)]",
-  "interlexIdentifier": null,
   "name": "preopercular ramule",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

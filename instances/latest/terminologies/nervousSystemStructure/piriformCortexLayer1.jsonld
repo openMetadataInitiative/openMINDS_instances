@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the piriform cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014277) ('is_a' and 'relationship')]",
   "description": "Most superficial of 3 cytoarchitecturally defined layers of the piriform cortex, characterized by few neuronal cell bodies. It has been divided into a superficial part and a deep part. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014277)]",
-  "interlexIdentifier": null,
   "name": "piriform cortex layer 1",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

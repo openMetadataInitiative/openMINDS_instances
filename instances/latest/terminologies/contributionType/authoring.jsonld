@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ContributionType",
   "definition": "A contribution type of a role-bearing entity realized by creating or substantially shaping the intellectual content of a work.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "authoring",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

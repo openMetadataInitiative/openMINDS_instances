@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a trigeminal sensory nucleus and nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001717)]",
   "description": "Nucleus extending from the upper spinal cord through the pontine tegmentum that receives sensory inputs from the trigeminal nerve. It is continuous caudally with the dorsal gray matter of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001717)]",
-  "interlexIdentifier": null,
   "name": "spinal nucleus of trigeminal nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a vestibular epithelium. Is part of the saccule of membranous labyrinth. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003242) ('is_a' and 'relationship')]",
   "description": "An epithelium that is part of a saccule of membranous labyrinth. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003242)]",
-  "interlexIdentifier": null,
   "name": "epithelium of saccule",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

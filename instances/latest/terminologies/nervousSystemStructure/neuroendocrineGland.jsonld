@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010133) ('is_a' and 'relationship')]",
   "description": "Any of the organized aggregations of cells that function as secretory or excretory organs and that release hormones in response to neural stimuli. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010133)]",
-  "interlexIdentifier": null,
   "name": "neuroendocrine gland",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

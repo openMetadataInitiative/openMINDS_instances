@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007134)]",
   "description": "Ganglion which is located in the trunk. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007134)]",
-  "interlexIdentifier": null,
   "name": "trunk ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

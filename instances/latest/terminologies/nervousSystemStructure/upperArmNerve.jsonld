@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an arm nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004217)]",
   "description": "A nerve that is part of a forelimb stylopod. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004217)]",
-  "interlexIdentifier": null,
   "name": "upper arm nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "An electric potential difference unit which is equal to one thousandth of a volt or 10^[-3] V.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "millivolt",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

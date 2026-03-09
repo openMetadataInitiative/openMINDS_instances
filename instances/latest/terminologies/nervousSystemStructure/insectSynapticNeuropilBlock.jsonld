@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the insect synaptic neuropil. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6041000)]",
   "description": "A closely associated group of synaptic neuropil domains. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6041000)]",
-  "interlexIdentifier": null,
   "name": "insect synaptic neuropil block",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve of head region. Is part of the trigeminal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000375) ('is_a' and 'relationship')]",
   "description": "The motor and sensory nerve subdivision of the trigeminal nerve that transmits sensory information from the auricle, the external acoustic meatus, tympanic membrane, temporal region, the cheek, the skin overlying the mandible, the anterior portion of the tongue, the floor of the mouth, lower teeth and gingiva and transmits motor information from the muscles of mastication, the mylohyoid muscle and digastric muscle and the muscles tensor tympani and tensor veli palatini. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000375)]",
-  "interlexIdentifier": null,
   "name": "mandibular nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

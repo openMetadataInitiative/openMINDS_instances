@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000955)]",
   "description": "The brain is the center of the nervous system in all vertebrate, and most invertebrate, animals. Some primitive animals such as jellyfish and starfish have a decentralized nervous system without a brain, while sponges lack any nervous system at all. In vertebrates, the brain is located in the head, protected by the skull and close to the primary sensory apparatus of vision, hearing, balance, taste, and smell. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000955)]",
-  "interlexIdentifier": null,
   "name": "brain",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

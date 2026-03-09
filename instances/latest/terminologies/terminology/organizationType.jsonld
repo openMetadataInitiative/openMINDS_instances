@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "Terminology for classifying an organization based on its legal status or position within a larger entity.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "organization type",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

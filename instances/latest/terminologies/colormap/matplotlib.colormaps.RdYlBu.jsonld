@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'RdYlBu' is a diverging colormap of the Python plotting library Matplotlib.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "matplotlib.colormaps.RdYlBu",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

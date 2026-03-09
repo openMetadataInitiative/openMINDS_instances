@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the ventricle of nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004670)]",
   "description": "The thin epithelium-like membrane composed of ependymal cells that lines the ventricular system of the brain and the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004670)]",
-  "interlexIdentifier": null,
   "name": "ependyma",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

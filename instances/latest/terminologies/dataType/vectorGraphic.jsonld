@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DataType",
   "definition": "A 'vector graphic' is an associative array defining points, lines and curves which can be rendered to a raster graphic.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "vector graphic",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

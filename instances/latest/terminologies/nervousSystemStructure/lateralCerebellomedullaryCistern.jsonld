@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellomedullary cistern. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004051)]",
   "description": "The space between the cerebellum and the lateral aspect of the medulla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004051)]",
-  "interlexIdentifier": null,
   "name": "lateral cerebellomedullary cistern",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

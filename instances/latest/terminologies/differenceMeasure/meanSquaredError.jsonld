@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DifferenceMeasure",
   "definition": "The mean squared difference between two series of values.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "mean squared error",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

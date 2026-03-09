@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/StimulationApproach",
   "definition": "A stimulation of the auditory (hearing) system.",
   "description": "The sensory modality that pertains to the sense of hearing. It usually arises from an audible stimulation of the auditory (hearing) system, such as from a sound.",
-  "knowledgeSpaceLink": null,
   "name": "auditory stimulation",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

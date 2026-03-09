@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a diencephalic nucleus. Is part of the preoptic area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007251) ('is_a' and 'relationship')]",
   "description": "A nucleus of brain that is part of a preoptic area. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007251)]",
-  "interlexIdentifier": null,
   "name": "preoptic nucleus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

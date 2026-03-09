@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/TissueSampleAttribute",
   "definition": "A specimen that was not artificially modified in colorization using chemical or biochemical substances.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "unstained",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

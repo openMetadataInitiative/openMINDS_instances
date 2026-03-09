@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AccessChannel",
   "definition": "Refers to the ability of users to connect to, interact with, and utilize resources, systems, or other individuals remotely via digital interfaces.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "virtual access",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DependencyImpact",
   "definition": "A thing becomes entirely nonfunctional if the thing it depends on is unavailable.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "complete outage",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

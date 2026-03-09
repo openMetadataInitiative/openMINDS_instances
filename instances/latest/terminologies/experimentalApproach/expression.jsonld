@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on driving or detecting expression of genes in cells or tissues.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "expression",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

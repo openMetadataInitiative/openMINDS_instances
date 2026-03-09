@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnnotationCriteriaType",
   "definition": "A 'probabalistic annotation' provides the probability or probabilities to which an entity or a list of entities belong(s) to a defined annotation.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "probabilistic annotation",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

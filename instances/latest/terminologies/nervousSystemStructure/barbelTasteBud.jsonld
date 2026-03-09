@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an integumental taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034718)]",
   "description": "A taste bud that is located on a barbel. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034718)]",
-  "interlexIdentifier": null,
   "name": "barbel taste bud",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

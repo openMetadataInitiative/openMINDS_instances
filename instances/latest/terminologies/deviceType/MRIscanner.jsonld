@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DeviceType",
   "definition": "An 'MRI scanner' is a machine that uses strong magnetic fields, magnetic field gradients, and radio waves to generate static or time-resolved three-dimensional images of the anatomy and physiological processes of the body.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "MRI scanner",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

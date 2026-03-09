@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001579)]",
   "description": "Nerve that carries information from the olfactory epithelium to the olfactory bulb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001579)]",
-  "interlexIdentifier": null,
   "name": "olfactory nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

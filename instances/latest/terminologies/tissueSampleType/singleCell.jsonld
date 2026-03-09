@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/TissueSampleType",
   "definition": "A single cell sample from a living or deceased multicellular organism body.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "single cell",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

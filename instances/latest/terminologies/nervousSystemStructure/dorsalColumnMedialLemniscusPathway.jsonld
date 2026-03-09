@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neuron projection bundle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018237)]",
   "description": "A sensory tract originating in the spinal cord responsible for transmitting fine touch, vibration and conscious proprioceptive information from the body to the cerebral cortex. The components include the fasciculus gracilis and fasciculus cuneatus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018237)]",
-  "interlexIdentifier": null,
   "name": "dorsal column-medial lemniscus pathway",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neuromere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001892)]",
   "description": "A segment of the developing hindbrain. In the vertebrate embryo, a rhombomere is a transiently divided segment of the developing neural tube, within the hindbrain region (a neuromere) in the area that will eventually become the rhombencephalon. The rhombomeres appear as a series of slightly constricted swellings in the neural tube, caudal to the cephalic flexure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001892)]",
-  "interlexIdentifier": null,
   "name": "rhombomere",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a choroid plexus epithelium. Is part of the choroid plexus of third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004275) ('is_a' and 'relationship')]",
   "description": "A choroid plexus epithelium that is part of a third ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004275)]",
-  "interlexIdentifier": null,
   "name": "third ventricle choroid plexus epithelium",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

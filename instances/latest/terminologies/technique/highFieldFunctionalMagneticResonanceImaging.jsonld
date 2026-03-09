@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "A magnetic resonance imaging technique that generates multiple images over time of some physiological processes of a specimen typically employing a magnetic field strength of 3 Tesla (or higher but below 7 Tesla).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "high-field functional magnetic resonance imaging",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

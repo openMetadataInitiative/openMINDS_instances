@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a meninx. Is part of the spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003292) ('is_a' and 'relationship')]",
   "description": "A meninx that is part of a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003292)]",
-  "interlexIdentifier": null,
   "name": "meninx of spinal cord",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

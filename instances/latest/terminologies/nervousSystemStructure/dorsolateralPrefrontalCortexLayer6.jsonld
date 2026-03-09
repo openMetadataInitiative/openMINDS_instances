@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cortical layer VI. Is part of the dorsolateral prefrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035158) ('is_a' and 'relationship')]",
   "description": "Innermost layer of dorsolateral prefrontal cortex lying deep to the internal pyramidal cell layer 5. It is cytoarchitectonically defined in the DLPFC by cells of varying sizes. DLPFC layer 6a is characterized by more neurons and layer 6b has comparatively more glia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035158)]",
-  "interlexIdentifier": null,
   "name": "dorsolateral prefrontal cortex layer 6",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

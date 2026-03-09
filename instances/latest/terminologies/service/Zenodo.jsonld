@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Service",
   "definition": "Zenodo is a general-purpose open repository developed under the European OpenAIRE program and operated by CERN.",
   "description": "Zenodo allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Zenodo",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

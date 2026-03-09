@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a sensory receptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012449)]",
   "description": "A sensory receptor that responds to mechanical pressure or distortion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012449)]",
-  "interlexIdentifier": null,
   "name": "mechanoreceptor",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

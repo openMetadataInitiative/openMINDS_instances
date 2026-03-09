@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a tract of brain. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002719) ('is_a' and 'relationship')]",
   "description": "The spino-olivary tract is located in the ventral funiculus of the spinal cord. This tract carries proprioception information from muscles and tendons as well as cutaneous impulses to the olivary nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002719)]",
-  "interlexIdentifier": null,
   "name": "spino-olivary tract",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

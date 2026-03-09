@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnatomicalAxesOrientation",
   "definition": "X, Y, Z axes are oriented towards superior, left and posterior, respectively.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "SLP",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003438)]",
   "description": "Any nerve that innervates the iris. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003438)]",
-  "interlexIdentifier": null,
   "name": "iris nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

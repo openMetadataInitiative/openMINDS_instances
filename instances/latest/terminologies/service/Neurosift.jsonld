@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Service",
   "definition": "Neurosift is a browser-based tool designed for the visualization of neuroscience data with a focus on NWB (Neurodata Without Borders) files.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Neurosift",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005371)]",
   "description": "Layer that is part of the CA fields of the hippocampus consisting of a narrow relatively cell free layer located deep to the pyramidal cell layer extending through areas CA1, CA2 and CA3. (adapted from Paxinos The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005371)]",
-  "interlexIdentifier": null,
   "name": "hippocampus stratum oriens",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

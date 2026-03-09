@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellar layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002974)]",
   "description": "The molecular layer is the outermost layer of the cerebellar cortex. It contains the parallel fibers of the granule cells, interneurons such as stellate and basket cells, and the dendrites of the underlying Purkinje cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002974)]",
-  "interlexIdentifier": null,
   "name": "molecular layer of cerebellar cortex",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

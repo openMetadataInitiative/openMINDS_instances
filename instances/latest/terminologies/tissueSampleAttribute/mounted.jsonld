@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/TissueSampleAttribute",
   "definition": "A specimen that has been put ('mounted') on e.g., a glass slide with mounting medium in order to be supported for further handling and/or long term preservation.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "mounted",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002726)]",
   "description": "A spinal cord segment that adjacent to a cervical region. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002726)]",
-  "interlexIdentifier": null,
   "name": "cervical spinal cord",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

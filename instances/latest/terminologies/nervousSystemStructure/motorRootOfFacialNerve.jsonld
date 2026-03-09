@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a facial nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010287)]",
   "description": null,
-  "interlexIdentifier": null,
   "name": "motor root of facial nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

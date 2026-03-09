@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a sympathetic ganglion and trunk ganglion. Is part of the sympathetic trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001807) ('is_a' and 'relationship')]",
   "description": "Trunk ganglion which is part of a bilaterally paired set of sympathetic ganglia located anterior and lateral to the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001807)]",
-  "interlexIdentifier": null,
   "name": "paravertebral ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

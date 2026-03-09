@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004004)]",
   "description": "One of the the ten gyri of the cerebellar cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004004)]",
-  "interlexIdentifier": null,
   "name": "cerebellum lobule",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

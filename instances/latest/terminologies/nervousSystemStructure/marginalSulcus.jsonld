@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a subarachnoid sulcus. Is part of the cingulate sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002912) ('is_a' and 'relationship')]",
   "description": "The marginal sulcus is the portion of the cingulate sulcus adjacent to the paracentral lobule and the precuneus. It is sometimes known as the 'marginal part of the cingulate sulcus'. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002912)]",
-  "interlexIdentifier": null,
   "name": "marginal sulcus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

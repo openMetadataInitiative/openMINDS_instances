@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "An 'intrabody' is an antibody that works within the cell to bind an intracellular protein.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "intrabody",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

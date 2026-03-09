@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "'Single nucleotide polymorphism detection' refers to a group of techniques that are used to scan for new polymorphisms and to determine the allele(s) of a known polymorphism in target sequences (adapted from [Kwok and Chen, 2003](https://doi.org/10.21775/cimb.005.043)).",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "single nucleotide polymorphism detection",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

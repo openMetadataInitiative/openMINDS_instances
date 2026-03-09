@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach that employs multiple omics approaches in significant ways.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "multiomics",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an inferior olivary nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002158)]",
   "description": "The inferior olivary nucleus that consists of the major laminar structure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002158)]",
-  "interlexIdentifier": null,
   "name": "principal inferior olivary nucleus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

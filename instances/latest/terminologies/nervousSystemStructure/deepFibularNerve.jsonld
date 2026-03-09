@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a leg nerve and fibular nerve. Is part of the common fibular nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035207) ('is_a' and 'relationship')]",
   "description": "A branch of the common peroneal nerve. It innervates the ankle and toes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035207)]",
-  "interlexIdentifier": null,
   "name": "deep fibular nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

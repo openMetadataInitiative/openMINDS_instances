@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "An electrical conduction unit which is equal to A/V.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "siemens",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

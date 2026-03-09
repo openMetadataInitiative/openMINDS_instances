@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ExternalBodyRegion",
   "definition": "Is a subdivision of organism along the main body axis. Is part of the anterior region of the body and the craniocervical region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000033) ('is_a' and 'relationship')]",
   "description": "The head is the anterior-most division of the body. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000033)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "head",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

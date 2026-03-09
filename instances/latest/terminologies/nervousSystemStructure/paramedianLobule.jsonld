@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum vermis lobule. Is part of the cerebellum posterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005349) ('is_a' and 'relationship')]",
   "description": "The anterior portion of the posteroinferior lobule of the cerebellum, the posterior portion being the semilunar lobule inferior; the two are continuous with the tuber of the vermis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005349)]",
-  "interlexIdentifier": null,
   "name": "paramedian lobule",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

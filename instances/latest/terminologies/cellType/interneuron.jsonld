@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "An 'interneuron' is neuron that cannot be classified as sensory receptor or motor neuron.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "interneuron",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

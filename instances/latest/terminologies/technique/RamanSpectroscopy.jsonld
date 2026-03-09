@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "A spectroscopic technique where scattered light is used to measure the vibrational energy modes of a sample. It relies upon inelastic scattering of photons (Raman scattering) and can provide both chemical and structural information.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Raman spectroscopy",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach that is traditionally used in physics, but applied and modified to study biological phenomena. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Biophysics)]",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "biophysics",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

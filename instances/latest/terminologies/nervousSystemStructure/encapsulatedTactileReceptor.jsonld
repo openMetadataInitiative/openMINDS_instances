@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a tactile mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035969)]",
   "description": "A tacile mechanoreceptor that lacks a capsule. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035969)]",
-  "interlexIdentifier": null,
   "name": "encapsulated tactile receptor",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/TissueSampleType",
   "definition": "One of the symmetric halves excised from a bilateral organ tissue sample (e.g., a brain) from a living or deceased multicellular organism body.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "hemisphere",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

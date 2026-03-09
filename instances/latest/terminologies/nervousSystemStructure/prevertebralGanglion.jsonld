@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a sympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003964)]",
   "description": "The sympathetic ganglia located in front of the vertebral column and are associated with the major branches of the abdominal aorta; these include the celiac, aorticorenal, superior and inferior mesenteric ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003964)]",
-  "interlexIdentifier": null,
   "name": "prevertebral ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

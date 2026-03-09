@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "A technique where the appearance of biological subcellular targets (e.g. proteins, RNA or DNA) is selectively alter by use of silver.",
   "description": "Silver can be used to stain subcellular targets such as proteins, peptide, carbohydrates, RNA or DNA. This techniques is typically used on histological sections prior to light microscopy, for the detection of proteins and peptides in polyacrylamide gels or gel electrophoresis.",
-  "knowledgeSpaceLink": null,
   "name": "silver staining",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

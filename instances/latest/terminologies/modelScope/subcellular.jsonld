@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ModelScope",
   "definition": "A model of an entity or process contained within a cell",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "subcellular",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

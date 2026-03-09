@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "An application programming interface implemented as a library for a specific programming language.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "library API",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

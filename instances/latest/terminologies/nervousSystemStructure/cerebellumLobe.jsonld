@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005293)]",
   "description": "A major subdivision of the cerebellum: anterior, posterior and flocculonodular. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005293)]",
-  "interlexIdentifier": null,
   "name": "cerebellum lobe",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an enteric plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012374)]",
   "description": "The subserous part of the enteric plexus of autonomic nerves. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012374)]",
-  "interlexIdentifier": null,
   "name": "subserosal plexus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

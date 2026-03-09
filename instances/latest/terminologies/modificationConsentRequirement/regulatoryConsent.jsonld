@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ModificationConsentRequirement",
   "definition": "Modification requires approval by an external regulatory authority.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "regulatory consent",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

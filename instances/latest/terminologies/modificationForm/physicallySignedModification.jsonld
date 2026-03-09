@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ModificationForm",
   "definition": "Modification is executed by physical signatures of the required parties.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "physically signed modification",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

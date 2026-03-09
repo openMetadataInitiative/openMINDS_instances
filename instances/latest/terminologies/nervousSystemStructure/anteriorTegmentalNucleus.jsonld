@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brainstem nucleus and midbrain nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010036)]",
   "description": "A group of cells located ventral to the decussation of the superior cerebellar peduncle in the mouse ( Paxinos-2001 ) and rat ( Swanson-1998 ) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010036)]",
-  "interlexIdentifier": null,
   "name": "anterior tegmental nucleus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

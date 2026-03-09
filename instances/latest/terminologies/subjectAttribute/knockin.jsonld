@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/SubjectAttribute",
   "definition": "An organism that underwent a targeted insertation of foreign genetic material in the existing genetic material (i.e. a gene).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "knockin",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

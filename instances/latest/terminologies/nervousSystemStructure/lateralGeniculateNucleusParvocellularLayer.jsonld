@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of lateral geniculate body. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022319)]",
   "description": "Layer of the lateral geniculate nucleus characterized by small cells (adapted from Wikipedia: https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022319)]",
-  "interlexIdentifier": null,
   "name": "lateral geniculate nucleus parvocellular layer",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

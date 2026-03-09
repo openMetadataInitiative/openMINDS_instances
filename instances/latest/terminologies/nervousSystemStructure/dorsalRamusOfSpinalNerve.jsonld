@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve. Is part of the spinal nerve trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006839) ('is_a' and 'relationship')]",
   "description": "Branch of spinal nerve that innervates the epaxial muscles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006839)]",
-  "interlexIdentifier": null,
   "name": "dorsal ramus of spinal nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

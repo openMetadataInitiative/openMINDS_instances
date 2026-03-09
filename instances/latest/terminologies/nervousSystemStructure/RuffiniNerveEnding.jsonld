@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012457)]",
   "description": "An encapsulated nerve receptor present in subpapillary dermis and deep dermis of hairy and glabrous skin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012457)]",
-  "interlexIdentifier": null,
   "name": "Ruffini nerve ending",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the macula lutea. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002822)]",
   "description": "The part of the macula lutea that excludes the fovea. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002822)]",
-  "interlexIdentifier": null,
   "name": "macula lutea proper",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

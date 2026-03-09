@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "An application programming interface based on exchanging messages between a client application and a server using web sockets.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "web socket API",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

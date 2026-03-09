@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AtlasType",
   "definition": "A 'deterministic atlas' is an anatomical or anatomopathological atlases based on a definite composite of a single specimen.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "deterministic atlas",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

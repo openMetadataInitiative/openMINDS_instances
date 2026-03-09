@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an olfactory bulb plexiform layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005376)]",
   "description": "Cytoarchitectural part of the olfactory bulb, lying superior to the mitral cell layer and inferior to the glomerular layer. The EPL is mostly neuropil composed almost entirely of mitral and tulfted cell dendrites and granule cell dendrites and their synaptic inputs. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005376)]",
-  "interlexIdentifier": null,
   "name": "olfactory bulb external plexiform layer",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an autonomic nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002008)]",
   "description": "A plexus of nerves situated at the base of the heart that innervate the heart. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002008)]",
-  "interlexIdentifier": null,
   "name": "cardiac nerve plexus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

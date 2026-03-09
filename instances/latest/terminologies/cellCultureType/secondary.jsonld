@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CellCultureType",
   "definition": "A cultured cell population that is derived through one or more passages in culture.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "secondary cell culture",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

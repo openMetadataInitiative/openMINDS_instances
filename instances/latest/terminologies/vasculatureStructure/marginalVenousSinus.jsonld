@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/VasculatureStructure",
   "definition": "Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017637)]",
   "description": "A paired dural venous sinus at the rim of the foramen magnum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017637)]",
-  "interlexIdentifier": null,
   "name": "marginal venous sinus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

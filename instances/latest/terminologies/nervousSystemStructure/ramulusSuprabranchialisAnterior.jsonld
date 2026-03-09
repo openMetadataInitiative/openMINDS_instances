@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a middle lateral line nerve (MLLN). [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010798)]",
   "description": "Ramulus that innervates the suprabranchial line of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010798)]",
-  "interlexIdentifier": null,
   "name": "ramulus suprabranchialis anterior",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

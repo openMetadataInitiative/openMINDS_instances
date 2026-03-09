@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/MeasuredSignalType",
   "definition": "A neural oscillation in the mid frequency range (typically between 12-30 Hz) arising from synchronous and coherent electrical activity in the brain. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Beta_wave)]",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "beta activity",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

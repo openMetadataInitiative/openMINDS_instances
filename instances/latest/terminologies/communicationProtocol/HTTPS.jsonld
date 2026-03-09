@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
   "definition": "A network communication protocol that secures HTTP traffic by encrypting it using SSL/TLS.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "HTTPS",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

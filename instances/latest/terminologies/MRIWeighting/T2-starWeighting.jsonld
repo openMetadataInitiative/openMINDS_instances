@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/MRIWeighting",
   "definition": "Image processing technique that specifically enhances the signal-to-noise ratio of the observed spin-spin relaxation (T2-star relaxation time) which includes field inhomogeneities.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "T2-star weighting",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

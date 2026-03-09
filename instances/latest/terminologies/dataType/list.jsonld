@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DataType",
   "definition": "A 'list' is a series of ordered scalars and/or lists.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "list",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002590) ('is_a' and 'relationship')]",
   "description": "Prepyriform area (or prepiriform cortex) is a portion of the rhinencephalon consisting of paleocortex. Some sources state that it is part of the primary olfactory cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002590)]",
-  "interlexIdentifier": null,
   "name": "prepyriform area",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

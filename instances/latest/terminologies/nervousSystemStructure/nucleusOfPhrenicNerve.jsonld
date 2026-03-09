@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016850)]",
   "description": "Neuron cell bodies located in the more medial portions of the anterior horn at cervical levels C3-C7 that innervate the diaphragm via the phrenic nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016850)]",
-  "interlexIdentifier": null,
   "name": "nucleus of phrenic nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

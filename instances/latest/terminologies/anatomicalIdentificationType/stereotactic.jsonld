@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnatomicalIdentificationType",
   "definition": "'Stereotactic' identification makes use of three-dimensional coordinate system to locate specific targets inside the body. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Stereotactic_surgery)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "stereotactic",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

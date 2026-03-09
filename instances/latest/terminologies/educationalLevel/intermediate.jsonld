@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/EducationalLevel",
   "definition": "The learner has knowledge of the given topic, but is not an expert.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "intermediate",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002313)]",
   "description": "A cytoarchitectural term denoting the layer of the hippocampus in which pyramidal cells are predominant. Its location is superficial to the Stratum oriens; it is deep to the Stratum radiatum in area CA1 and area CA2 and deep to the Stratum lucidum in area CA3 (Stephan-75) (NeuroNames). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002313)]",
-  "interlexIdentifier": null,
   "name": "hippocampus pyramidal layer",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001789) ('is_a' and 'relationship')]",
   "description": "The layer within the retina where the photoreceptor cell bodies reside. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001789)]",
-  "interlexIdentifier": null,
   "name": "outer nuclear layer of retina",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

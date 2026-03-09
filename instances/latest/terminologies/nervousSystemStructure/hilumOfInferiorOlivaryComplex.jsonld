@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a hilum of neuraxis. Is part of the inferior olivary nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008333) ('is_a' and 'relationship')]",
   "description": "The white core of the inferior olivary nucleus of the medulla oblongata, most prominent medially. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008333)]",
-  "interlexIdentifier": null,
   "name": "hilum of inferior olivary complex",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

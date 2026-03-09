@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "hierarchical divisive clustering",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

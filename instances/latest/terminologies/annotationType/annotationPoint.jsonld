@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnnotationType",
   "definition": "'Annotation point(s)' are individual point(s) that are annotated with the same label.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "annotation point",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

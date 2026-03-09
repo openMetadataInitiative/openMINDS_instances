@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "An optical microscopy technique, used to enhance the contrast in unstained, transparent samples [taken from [Wikipedia](https://en.wikipedia.org/wiki/Differential_interference_contrast_microscopy)].",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "differential interference contrast microscopy",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

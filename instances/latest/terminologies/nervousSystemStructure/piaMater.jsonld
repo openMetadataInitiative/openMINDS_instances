@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a leptomeninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002361)]",
   "description": "The innermost layer of the leptomeninges, consisting of a delicate membrane closely covering the surface of the brain and spinal cord,and lying under the arachnoid membrane. The pia, unlike the arachnoid, extends into the sulci in gyrencephalic animals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002361)]",
-  "interlexIdentifier": null,
   "name": "pia mater",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

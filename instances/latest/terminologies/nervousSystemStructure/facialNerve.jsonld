@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001647)]",
   "description": "Cranial nerve that branches into the supraorbital (supplying the skin of the eye region and the lateral line organs here), the palatine (to the roof of the buccal cavity), and the hyomandibular (dividing into the jugular and mental branches). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001647)]",
-  "interlexIdentifier": null,
   "name": "facial nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ActionStatusType",
   "definition": "An in-progress action.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "active",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

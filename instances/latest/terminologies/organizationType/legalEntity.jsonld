@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/OrganizationType",
   "definition": "An organization classified as a type of legal entity recognized within a specific legal system.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "legal entity",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

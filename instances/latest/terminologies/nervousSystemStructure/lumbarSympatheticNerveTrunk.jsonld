@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a sympathetic nerve trunk. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009646)]",
   "description": "A sympathetic nerve trunk that is part of a lower back. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009646)]",
-  "interlexIdentifier": null,
   "name": "lumbar sympathetic nerve trunk",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

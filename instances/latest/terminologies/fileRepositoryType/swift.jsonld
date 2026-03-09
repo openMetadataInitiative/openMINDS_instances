@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/FileRepositoryType",
   "definition": "A Swift repository uses the long-term cloud storage of the OpenStack Object Store project which is particularly designed for retrieving and updating large amounts of static data without the need of a central point of control.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Swift repository",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

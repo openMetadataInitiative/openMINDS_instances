@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "A technique used to cut specimen in thin slices using a microtome.",
   "description": "The microtome cutting thickness can range between 50 nanometer and 100 micrometer.",
-  "knowledgeSpaceLink": null,
   "name": "microtome sectioning",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

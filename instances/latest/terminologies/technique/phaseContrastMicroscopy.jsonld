@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Optical microscopy technique that converts phase shifts in light passing through a transparent specimen to brightness changes in the image [taken from [Wikipedia](https://en.wikipedia.org/wiki/Phase-contrast_microscopy)].",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "phase contrast microscopy",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a subarachnoid sulcus and occipital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002903)]",
   "description": "The lunate sulcus is a structure in the occipital lobe. It is not present in all individuals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002903)]",
-  "interlexIdentifier": null,
   "name": "lunate sulcus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

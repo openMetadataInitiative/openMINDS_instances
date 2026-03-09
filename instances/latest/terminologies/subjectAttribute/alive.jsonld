@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/SubjectAttribute",
   "definition": "An organism that is not dead.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "alive",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

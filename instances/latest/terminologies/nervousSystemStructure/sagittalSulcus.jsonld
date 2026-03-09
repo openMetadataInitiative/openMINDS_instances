@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a sulcus of brain. Is part of the longitudinal fissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034968) ('is_a' and 'relationship')]",
   "description": "A sulcus that lies within the longitudinal fissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034968)]",
-  "interlexIdentifier": null,
   "name": "sagittal sulcus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

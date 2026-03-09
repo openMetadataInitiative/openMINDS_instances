@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010743) ('is_a' and 'relationship')]",
   "description": "The collection of all meningeal layers that line a central nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010743)]",
-  "interlexIdentifier": null,
   "name": "meningeal cluster",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

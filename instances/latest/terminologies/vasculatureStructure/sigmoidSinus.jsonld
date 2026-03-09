@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/VasculatureStructure",
   "definition": "Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005475)]",
   "description": "A portion of the lateral venous sinus, bulging prominently into the mastoid cavity, that serves as a principal conduit by which blood leaves the cranium. The sigmoid is drained by the internal jugular vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005475)]",
-  "interlexIdentifier": null,
   "name": "sigmoid sinus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

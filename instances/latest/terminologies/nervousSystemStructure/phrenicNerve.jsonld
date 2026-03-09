@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a thoracic cavity nerve. Is part of the nerve of cervical vertebra. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001884) ('is_a' and 'relationship')]",
   "description": "A nerve that arises from the caudal cervical nerves and is primarily the motor nerve of the diaphragm but also sends sensory fibers to the pericardium. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001884)]",
-  "interlexIdentifier": null,
   "name": "phrenic nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

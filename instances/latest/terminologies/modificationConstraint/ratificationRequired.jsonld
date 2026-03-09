@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ModificationConstraint",
   "definition": "Modifications require later formal confirmation to remain valid.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "ratification required",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

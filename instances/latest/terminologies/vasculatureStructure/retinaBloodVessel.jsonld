@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/VasculatureStructure",
   "definition": "Is part of the vasculature of retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003501)]",
   "description": "A blood vessel that is part of a retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003501)]",
-  "interlexIdentifier": null,
   "name": "retina blood vessel",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

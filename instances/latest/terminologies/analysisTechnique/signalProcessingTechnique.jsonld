@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "'Signal processing' refers to a class of analysis techniques used to improve transmission, storage efficiency and subjective quality as well as to emphasize or detect components of interest in a measured signal. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Signal_processing)]",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "signal processing technique",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an interoceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004019)]",
   "description": "The sensory nerve endings in the wall of the atria of the heart, vena cava, aortic arch and carotid sinus that are sensitive to changes in blood pressure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004019)]",
-  "interlexIdentifier": null,
   "name": "baroreceptor",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006469)]",
   "description": "The segment of the spinal cord that corresponds to the first cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006469)]",
-  "interlexIdentifier": null,
   "name": "C1 segment of cervical spinal cord",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

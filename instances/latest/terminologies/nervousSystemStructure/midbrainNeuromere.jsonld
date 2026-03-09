@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neuromere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014776)]",
   "description": "A neuromere that is part of the presumptive midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014776)]",
-  "interlexIdentifier": null,
   "name": "midbrain neuromere",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

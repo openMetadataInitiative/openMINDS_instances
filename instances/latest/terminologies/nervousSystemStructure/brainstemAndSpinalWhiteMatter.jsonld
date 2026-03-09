@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000318)]",
   "description": "CNS white matter that is part of the brain stem or spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000318)]",
-  "interlexIdentifier": null,
   "name": "brainstem and spinal white matter",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

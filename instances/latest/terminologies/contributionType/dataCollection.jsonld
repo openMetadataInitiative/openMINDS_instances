@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ContributionType",
   "definition": "A contribution type of a role-bearing entity realized by systematically acquiring or generating data.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "data collection",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

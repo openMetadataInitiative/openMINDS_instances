@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "A 'transformation' is a mathematical function to map coordinates between two different coordinate systems.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "transformation",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

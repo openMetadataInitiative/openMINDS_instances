@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the auditory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034751) ('is_a' and 'relationship')]",
   "description": "The part of the auditory cortex that is located on the superior temporal gyrus in the temporal lobe and receives point-to-point input from the ventral division of the medial geniculate complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034751)]",
-  "interlexIdentifier": null,
   "name": "primary auditory cortex",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

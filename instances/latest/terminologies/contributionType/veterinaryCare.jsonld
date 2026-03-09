@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ContributionType",
   "definition": "A contribution type of a role-bearing entity realized by providing clinical oversight, diagnosis, and medical treatment for animals.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "veterinary care",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

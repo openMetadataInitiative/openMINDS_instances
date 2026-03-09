@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach in which the composition, properties, functions, sources, synthesis and design of drugs (any artificial, natural, or endogenous molecule) and their biochemical or physiological effect (normal or abnormal) on a cell, tissue, organ, or organism are studied. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Pharmacology)]",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "pharmacology",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

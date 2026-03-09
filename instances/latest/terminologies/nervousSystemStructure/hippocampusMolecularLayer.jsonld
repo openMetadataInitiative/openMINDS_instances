@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of hippocampus. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005368) ('is_a' and 'relationship')]",
   "description": "The most superficial stratum in the hippocampus. Here the perforant path fibers form synapses onto the distal, apical dendrites of pyramidal cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005368)]",
-  "interlexIdentifier": null,
   "name": "hippocampus molecular layer",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

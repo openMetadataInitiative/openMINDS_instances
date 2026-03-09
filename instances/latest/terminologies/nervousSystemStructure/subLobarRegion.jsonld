@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023255)]",
   "description": null,
-  "interlexIdentifier": null,
   "name": "sub-lobar region",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

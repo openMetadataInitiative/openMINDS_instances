@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnnotationType",
   "definition": "An 'annotation mask' is a filled object masking an area or volume of interest.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "annotation mask",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/TissueSampleType",
   "definition": "Typically very small sample of tissue that was excised from a living or deceased multicellular organism body.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "biopsy sample",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

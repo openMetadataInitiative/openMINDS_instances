@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a subarachnoid cistern. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004049)]",
   "description": "The largest of the subarachnoid cisterns between the cerebellum and the medulla oblongata; it is divided into a posterior cerebellomedullary cistern located between the cerebellum and the posterior surface of the medulla (also called cisterna magna), and a lateral cerebellomedullary cistern located between the cerebellum and the lateral aspect of the medulla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004049)]",
-  "interlexIdentifier": null,
   "name": "cerebellomedullary cistern",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

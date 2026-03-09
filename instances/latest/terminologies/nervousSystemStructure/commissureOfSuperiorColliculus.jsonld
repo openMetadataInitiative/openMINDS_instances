@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brain commissure. Is part of the white matter of superior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002583) ('is_a' and 'relationship')]",
   "description": "A commissure that is part of a superior colliculus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002583)]",
-  "interlexIdentifier": null,
   "name": "commissure of superior colliculus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

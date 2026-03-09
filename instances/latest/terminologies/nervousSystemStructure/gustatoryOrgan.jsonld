@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a chemosensory organ. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003212)]",
   "description": "Any sense organ that functions in (some) detection of chemical stimulus involved in sensory perception of taste (GO:0050912). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003212)]",
-  "interlexIdentifier": null,
   "name": "gustatory organ",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

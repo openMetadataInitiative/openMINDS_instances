@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/MeasuredQuantity",
   "definition": "The reversal potential for chloride ions.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "chloride reversal potential",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

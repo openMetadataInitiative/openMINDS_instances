@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the peripheral nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003078)]",
   "description": "Focal thickenings of the embryonic ectoderm that form immediately dorsal and caudal of the clefts between the pharyngeal arches and that produce the neuroblasts that migrate and condense to form the distal cranial ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003078)]",
-  "interlexIdentifier": null,
   "name": "epibranchial placode",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

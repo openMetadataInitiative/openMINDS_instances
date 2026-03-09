@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the somatic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006585) ('is_a' and 'relationship')]",
   "description": "An organ that is part of a vestibular system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006585)]",
-  "interlexIdentifier": null,
   "name": "vestibular organ",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

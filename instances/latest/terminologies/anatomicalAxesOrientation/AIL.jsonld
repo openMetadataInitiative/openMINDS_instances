@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnatomicalAxesOrientation",
   "definition": "X, Y, Z axes are oriented towards anterior, inferior and left, respectively.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "AIL",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

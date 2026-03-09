@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ModificationConstraint",
   "definition": "Advance notice must be given before a modification takes effect.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "notice required",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

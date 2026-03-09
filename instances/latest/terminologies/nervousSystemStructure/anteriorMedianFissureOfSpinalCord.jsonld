@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a subarachnoid fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035319)]",
   "description": "A fissure in the midline of the anterior surface of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035319)]",
-  "interlexIdentifier": null,
   "name": "anterior median fissure of spinal cord",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

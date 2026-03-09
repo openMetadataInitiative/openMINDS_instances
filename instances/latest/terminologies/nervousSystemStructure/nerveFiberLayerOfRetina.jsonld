@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001793) ('is_a' and 'relationship')]",
   "description": "Layer of the retina formed by expansion of the fibers of the optic nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001793)]",
-  "interlexIdentifier": null,
   "name": "nerve fiber layer of retina",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

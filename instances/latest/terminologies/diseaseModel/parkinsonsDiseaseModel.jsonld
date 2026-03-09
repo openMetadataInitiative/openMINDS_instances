@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DiseaseModel",
   "definition": "An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Parkinson's disease.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Parkinson's disease model",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

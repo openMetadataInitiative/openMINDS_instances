@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "A means of interacting with a service through sending and receiving e-mail.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "email communication",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

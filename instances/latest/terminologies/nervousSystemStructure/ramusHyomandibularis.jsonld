@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the facial nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010720) ('is_a' and 'relationship')]",
   "description": "The posttrematic branch of the facial nerve, both motor and sensory in function. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010720)]",
-  "interlexIdentifier": null,
   "name": "ramus hyomandibularis",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

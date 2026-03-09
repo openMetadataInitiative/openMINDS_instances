@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/PaymentModelType",
   "definition": "Payment is calculated as a fixed percentage of the monetary value of each user transaction, so the user pays more when transaction amounts increase and less when they decrease.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "take-rate payment model",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

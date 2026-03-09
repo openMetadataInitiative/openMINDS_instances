@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ModelScope",
   "definition": "A model of a dendritic spine, or of a dendritic region containing several spines",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "subcellular: spine",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

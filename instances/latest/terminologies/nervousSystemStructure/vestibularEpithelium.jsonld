@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a sensory epithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006932)]",
   "description": "An epithelium that is part of a vestibular labyrinth. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006932)]",
-  "interlexIdentifier": null,
   "name": "vestibular epithelium",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

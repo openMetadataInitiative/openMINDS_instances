@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "An electrical conduction unit which is equal to one thousandth of a siemen or 10^[-3] siemens.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "millisiemens",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

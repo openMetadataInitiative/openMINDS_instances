@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ContributionType",
   "definition": "A contribution type of a role-bearing entity realized by maintaining and improving metadata associated with a target entity throughout its life cycle.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "metadata curation",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

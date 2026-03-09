@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of thalamus. Is part of the habenula. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008993) ('is_a' and 'relationship')]",
   "description": "Either of the two neural nuclei within the habenula. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008993)]",
-  "interlexIdentifier": null,
   "name": "habenular nucleus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

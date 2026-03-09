@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "c-FOS is a proto-oncogene that is the human homolog of the retroviral oncogene v-fos.",
   "description": null,
-  "interlexIdentifier": null,
   "name": "c-FOS",
   "otherCrossReference": [
     "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0314702"

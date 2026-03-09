@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "A 'nonlinear transformation' is a mathematical function to map coordinates between two different coordinate systems, not preserving straight lines.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "nonlinear transformation",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

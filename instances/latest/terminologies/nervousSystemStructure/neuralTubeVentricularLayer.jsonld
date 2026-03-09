@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a proliferating neuroepithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004060)]",
   "description": "The layer of undifferentiated, proliferating cells that line the neural tube lumen that is the immediate transformation of the germinal neuroepithelium. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004060)]",
-  "interlexIdentifier": null,
   "name": "neural tube ventricular layer",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

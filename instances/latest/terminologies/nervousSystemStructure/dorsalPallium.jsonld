@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014740) ('is_a' and 'relationship')]",
   "description": "Subdivision of pallium that is located dorsally. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014740)]",
-  "interlexIdentifier": null,
   "name": "dorsal pallium",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

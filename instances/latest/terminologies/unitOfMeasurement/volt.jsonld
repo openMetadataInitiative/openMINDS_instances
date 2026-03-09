@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "An electric potential difference unit which is equal to the work per unit charge. One volt is the potential difference required to move one coulomb of charge between two points in a circuit while using one joule of energy.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "volt",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

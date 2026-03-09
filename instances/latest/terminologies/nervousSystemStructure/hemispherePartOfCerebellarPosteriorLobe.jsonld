@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of cerebellar cortex. Is part of the cerebellar hemisphere and the posterior lobe of cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014648) ('is_a' and 'relationship')]",
   "description": "A multi-tissue structure that is part of a cerebellar hemisphere and is part of a posterior lobe of cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014648)]",
-  "interlexIdentifier": null,
   "name": "hemisphere part of cerebellar posterior lobe",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

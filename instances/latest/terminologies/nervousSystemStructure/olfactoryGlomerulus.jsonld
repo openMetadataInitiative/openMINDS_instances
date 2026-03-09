@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neural glomerulus. Is part of the olfactory bulb glomerular layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005387) ('is_a' and 'relationship')]",
   "description": "One of the small globular masses of dense neuropil in the olfactory bulb, containing the first synapse in the olfactory pathway. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005387)]",
-  "interlexIdentifier": null,
   "name": "olfactory glomerulus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

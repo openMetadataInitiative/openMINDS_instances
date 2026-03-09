@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ModificationConstraint",
   "definition": "Formal documentation and retention of modification records is required.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "record retention required",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

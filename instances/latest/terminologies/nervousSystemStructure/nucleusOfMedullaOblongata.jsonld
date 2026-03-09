@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007635) ('is_a' and 'relationship')]",
   "description": "A neural nucleus that is part of a medulla oblongata. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007635)]",
-  "interlexIdentifier": null,
   "name": "nucleus of medulla oblongata",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

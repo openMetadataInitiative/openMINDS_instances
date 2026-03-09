@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a dorsal column nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002161)]",
   "description": "Nucleus in the caudal medulla that receive projections primarily from ipsilateral dorsal root ganglion cells via the posterior column of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002161)]",
-  "interlexIdentifier": null,
   "name": "gracile nucleus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

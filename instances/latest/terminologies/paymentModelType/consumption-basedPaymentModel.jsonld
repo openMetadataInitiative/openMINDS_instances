@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/PaymentModelType",
   "definition": "Payment is based on measured consumption units (e.g., data volume, compute time, storage space, network bandwidth).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "consumption-based payment model",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001027)]",
   "description": "A nerve that transmits from sensory receptors on the surface of the body to the central nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001027)]",
-  "interlexIdentifier": null,
   "name": "sensory nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

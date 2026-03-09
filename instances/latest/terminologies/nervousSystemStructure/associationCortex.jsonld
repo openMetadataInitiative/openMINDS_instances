@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a functional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035015)]",
   "description": "Region of the cerebral cortex that integrates diverse sensory or motor information for purposeful action. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035015)]",
-  "interlexIdentifier": null,
   "name": "association cortex",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

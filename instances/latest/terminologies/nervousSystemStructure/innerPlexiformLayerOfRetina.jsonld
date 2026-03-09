@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001795) ('is_a' and 'relationship')]",
   "description": "Cytoarchitectural layer of the retina that is made up of a dense reticulum of fibrils formed by interlaced dendrites of retinal ganglion cells and cells of the inner nuclear layer (adapted from Wikipedia) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001795)]",
-  "interlexIdentifier": null,
   "name": "inner plexiform layer of retina",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

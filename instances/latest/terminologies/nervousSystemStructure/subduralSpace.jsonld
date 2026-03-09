@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the meningeal cluster. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000416) ('is_a' and 'relationship')]",
   "description": "A narrow fluid-containing space, often only a potential space, between the dura mater and the arachnoid. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000416)]",
-  "interlexIdentifier": null,
   "name": "subdural space",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

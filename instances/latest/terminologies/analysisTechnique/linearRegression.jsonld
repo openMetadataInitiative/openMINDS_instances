@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "A 'linear regression' is an analysis approach for modelling the linear relationship between a scalar response and one or more explanatory variables.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "linear regression",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

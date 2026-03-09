@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the fusiform gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022395) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
   "name": "temporal fusiform gyrus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

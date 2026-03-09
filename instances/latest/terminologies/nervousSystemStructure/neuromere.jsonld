@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a segmental subdivision of nervous system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004731)]",
   "description": "A transverse unitary subdivision of the neural tube that shares a common dorsoventral structure (floor, basal, alar, and roof plates), but each having differential molecular identities and fates; they comprise the secondary prosencephalon, diencephalon (prosomeres), the midbrain (mesomeres), and the hindbrain (rhombomeres). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004731)]",
-  "interlexIdentifier": null,
   "name": "neuromere",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

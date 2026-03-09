@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AccessForm",
   "definition": "Users interact directly with the product or service through integrated interfaces, or authorised environments.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "direct access",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

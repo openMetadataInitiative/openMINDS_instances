@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a lamina of gray matter of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004677)]",
   "description": "The band of grey substance spanning the midline of the spinal cord that surrounds the central canal. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004677)]",
-  "interlexIdentifier": null,
   "name": "spinal cord gray commissure",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

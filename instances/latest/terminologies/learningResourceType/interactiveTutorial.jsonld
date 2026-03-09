@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/LearningResourceType",
   "definition": "A tutorial presented in an interactive format, for example a Jupyter notebook.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "interactive tutorial",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

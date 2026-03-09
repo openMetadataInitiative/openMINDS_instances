@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ModelAbstractionLevel",
   "definition": "Modelling neural networks in which individual neurons are represented by point neuron models",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "spiking neurons: point neuron",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

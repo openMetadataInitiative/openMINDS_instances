@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a pes nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003435)]",
   "description": "A nerve that is part of a toe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003435)]",
-  "interlexIdentifier": null,
   "name": "pedal digit nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

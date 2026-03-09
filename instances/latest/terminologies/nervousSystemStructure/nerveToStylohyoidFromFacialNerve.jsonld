@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve of head region. Is part of the facial nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011316) ('is_a' and 'relationship')]",
   "description": "The stylohyoid branch of facial nerve frequently arises in conjunction with the digastric branch; it is long and slender, and enters the Stylohyoideus about its middle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011316)]",
-  "interlexIdentifier": null,
   "name": "nerve to stylohyoid from facial nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

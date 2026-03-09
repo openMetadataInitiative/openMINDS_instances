@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/MeasuredQuantity",
   "definition": "A potential difference that develops when two solutions of electrolytes of different concentrations are in contact with each other.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "liquid junction potential",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

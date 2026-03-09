@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "An electric current unit current which is equal to one thousand millionth of an ampere or 10^[-9] A.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "nanoampere",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

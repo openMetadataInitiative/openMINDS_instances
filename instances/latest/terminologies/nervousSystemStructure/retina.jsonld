@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a photoreceptor array. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000966)]",
   "description": "The retina is the innermost layer or coating at the back of the eyeball, which is sensitive to light and in which the optic nerve terminates. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000966)]",
-  "interlexIdentifier": null,
   "name": "retina",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

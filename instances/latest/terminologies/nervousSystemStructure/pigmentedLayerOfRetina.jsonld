@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of retina. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001782)]",
   "description": "A monolayer of pigmented epithelium covering the neural retina; develops from the outer of the two layers of the optic cup. the pigmented cell layer just outside the neurosensory retina that nourishes retinal visual cells, and is firmly attached to the underlying choroid and overlying retinal visual cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001782)]",
-  "interlexIdentifier": null,
   "name": "pigmented layer of retina",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

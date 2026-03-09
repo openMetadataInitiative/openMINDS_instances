@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a lateral line nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010126)]",
   "description": "Sensory nerve of the posterior lateral line component. It develops from the postotic middle placode. MLLN innervates neuromasts located over the otic capsule and the suprabranchial line of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010126)]",
-  "interlexIdentifier": null,
   "name": "middle lateral line nerve (MLLN)",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

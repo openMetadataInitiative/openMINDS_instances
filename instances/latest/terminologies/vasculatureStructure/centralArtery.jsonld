@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/VasculatureStructure",
   "definition": "Is a brain blood vessel. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005020)]",
   "description": "Arteries that irrigate the forebrain and midbrain Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005020)]",
-  "interlexIdentifier": null,
   "name": "central artery",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

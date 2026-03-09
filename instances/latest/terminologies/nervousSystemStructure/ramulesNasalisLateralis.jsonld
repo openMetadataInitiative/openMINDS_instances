@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve of head region. Is part of the ophthalmic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010652) ('is_a' and 'relationship')]",
   "description": "First branch gives rise to two ramules that border the naris and innervate the surrounding tissue. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010652)]",
-  "interlexIdentifier": null,
   "name": "ramules nasalis lateralis",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

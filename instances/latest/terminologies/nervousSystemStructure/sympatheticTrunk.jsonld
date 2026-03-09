@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the sympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000407) ('is_a' and 'relationship')]",
   "description": "One of a a paired bundle of nerve fibers plus ganglia that run from the base of the skull to the coccyx. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000407)]",
-  "interlexIdentifier": null,
   "name": "sympathetic trunk",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

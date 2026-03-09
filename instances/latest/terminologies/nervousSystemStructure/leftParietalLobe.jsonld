@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a parietal lobe. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002802) ('is_a' and 'relationship')]",
   "description": "Parietal lobe of the left hemisphere of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002802)]",
-  "interlexIdentifier": null,
   "name": "left parietal lobe",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

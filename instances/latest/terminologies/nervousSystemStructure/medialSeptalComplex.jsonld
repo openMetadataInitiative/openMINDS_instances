@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a septal nuclear complex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007629)]",
   "description": "A septal nuclear complex that consists of the nucleus of the diagonal bands and the septal medial nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007629)]",
-  "interlexIdentifier": null,
   "name": "medial septal complex",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

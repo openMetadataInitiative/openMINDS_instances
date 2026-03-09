@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on using non-invasive techniques that use intrinsic or induced contrast to form images. Also covers purely clinical domains such as nuclear medicine.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "radiology",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

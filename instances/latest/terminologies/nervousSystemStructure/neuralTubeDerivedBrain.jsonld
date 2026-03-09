@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008823)]",
   "description": "A brain that develops from a neural tube. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008823)]",
-  "interlexIdentifier": null,
   "name": "neural tube derived brain",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "'Spike sorting' is a class of techniques used in the analysis of extracellular electrophysiological data to extract the activity of one or more neurons from the background electrical noise by making use of the typical waveforms action potentials (spikes) create in the recorded neuronal signal.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "spike sorting",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

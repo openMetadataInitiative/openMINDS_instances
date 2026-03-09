@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Electron tomography is a microscopy technique that takes a series of images of a thick sample at different angles (tilts) so that tomography can be applied to increase the resolution of the ticker sample.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "electron tomography",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004172)]",
   "description": "Axon tract that carries efferent (outgoing) action potentials from the cell body in the pons towards target cells in the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004172)]",
-  "interlexIdentifier": null,
   "name": "pons reticulospinal tract",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

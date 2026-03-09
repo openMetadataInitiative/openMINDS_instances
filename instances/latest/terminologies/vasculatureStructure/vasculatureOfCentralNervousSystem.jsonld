@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/VasculatureStructure",
   "definition": "Is an anatomical entity. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036303) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
   "name": "vasculature of central nervous system",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

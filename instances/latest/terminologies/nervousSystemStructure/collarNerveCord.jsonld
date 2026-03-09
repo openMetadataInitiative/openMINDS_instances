@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a primary nerve cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035602)]",
   "description": "A nerve tract found in marine worms that is located in the collar body region (three body regions in marine worms: proboscis, collar (extending into tentacle-fringed arms) and trunk) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035602)]",
-  "interlexIdentifier": null,
   "name": "collar nerve cord",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

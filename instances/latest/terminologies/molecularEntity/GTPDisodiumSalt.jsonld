@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "A GTP (guanosine 5'-triphosphate) molecule bonded with two sodium ions (Na+), forming a salt hydrate.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "GTP, disodium salt",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

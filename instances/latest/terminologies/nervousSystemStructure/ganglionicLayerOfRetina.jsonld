@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001792) ('is_a' and 'relationship')]",
   "description": "Cytoarchitectural layer of retina that contains somata of retinal ganglion cells, bounded by the stratum opticum and the inner plexiform layer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001792)]",
-  "interlexIdentifier": null,
   "name": "ganglionic layer of retina",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

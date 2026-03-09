@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a vagus X ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005363)]",
   "description": "The large group of sensory neuron cell bodies, anterior to the jugular vein, associated with the vagus nerve (tenth cranial nerve) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005363)]",
-  "interlexIdentifier": null,
   "name": "inferior vagus X ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
   "definition": "A network communication protocol suite that defines how data is transmitted across interconnected networks.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "TCP/IP",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

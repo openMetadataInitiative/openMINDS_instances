@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a lateral line nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000425)]",
   "description": "Cranial nerve which enters the brain between cranial nerves VI and VII; contains afferents and sensory efferents to the anterior lateral line ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000425)]",
-  "interlexIdentifier": null,
   "name": "anterior lateral line nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

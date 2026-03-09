@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ActionStatusType",
   "definition": "A description of an action that is supported.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "potential",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ContributionType",
   "definition": "A contribution type of a role-bearing entity realized by aligning and synchronizing the activities of multiple entities within a defined operational context.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "coordination",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

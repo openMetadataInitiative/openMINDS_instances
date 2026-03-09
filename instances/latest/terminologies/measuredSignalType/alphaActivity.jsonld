@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/MeasuredSignalType",
   "definition": "A neural oscillation in the low frequency range (typically between 8-12 Hz) arising from synchronous and coherent electrical activity in the brain. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Alpha_wave)]",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "alpha activity",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

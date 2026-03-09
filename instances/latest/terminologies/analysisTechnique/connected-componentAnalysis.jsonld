@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "'connected-component analysis' is an algorithmic application of graph theory, where subsets of connected components are uniquely labeled based on a given heuristic. [adapted from: [wikipedia](https://en.wikipedia.org/wiki/Connected-component_labeling)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "connected-component analysis",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

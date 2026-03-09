@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of solitary tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014760)]",
   "description": "The gustatory nucleus is the enlarged rostral portion of the solitary nucleus, which receives taste afferents from the glossopharyngeal nerve and the intermediate nerve ( Carpenter-1983 ). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014760)]",
-  "interlexIdentifier": null,
   "name": "gustatory nucleus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

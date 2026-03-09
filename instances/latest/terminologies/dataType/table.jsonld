@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DataType",
   "definition": "A 'table' is an arrangement of elements (scalars, lists and/or matrices) in specified/named rows and columns.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "table",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

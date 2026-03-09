@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a spinal cord column. Is part of the gray matter of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004676) ('is_a' and 'relationship')]",
   "description": "A triangular field that is a lateralward projection of the postero-lateral part of the anterior column. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004676)]",
-  "interlexIdentifier": null,
   "name": "spinal cord lateral horn",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

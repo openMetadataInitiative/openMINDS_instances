@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "An 'ICA based denoising technique' removes independent components from input data to reduce noise while preserving the features of interest in the data.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "ICA based denoising technique",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

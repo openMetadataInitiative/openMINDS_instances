@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a sensory receptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034942)]",
   "description": "A sensory receptor of the mammalian integument system that consist of a blood sinus plus follicle, and sometimes concentric rings of epidermal tissue. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034942)]",
-  "interlexIdentifier": null,
   "name": "vibrissal follicle-sinus complex",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neuropil. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013693) ('is_a' and 'relationship')]",
   "description": "A neuropil that is part of a cerebral cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013693)]",
-  "interlexIdentifier": null,
   "name": "cerebral cortex neuropil",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "The SI derived unit of electrical resistance, named after German physicist Georg Ohm, equal to 1 V/A",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "ohm",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

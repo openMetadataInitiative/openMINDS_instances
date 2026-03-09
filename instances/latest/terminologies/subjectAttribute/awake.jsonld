@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/SubjectAttribute",
   "definition": "A temporary state of an organism in which it is fully alert and aware.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "awake",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

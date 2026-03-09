@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "A 'Support-Vector Regression Algorithm' is a supervised machine learning technique used to estimate the relationship between a dependent and a number of independent variables.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "support-vector regression algorithm",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

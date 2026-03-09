@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on chemical processes involving metabolites, the small molecule substrates, intermediates and products of cell metabolism.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "metabolomics",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

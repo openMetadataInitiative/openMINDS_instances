@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnatomicalIdentificationType",
   "definition": "'Landmark based' identification makes use of distinct anatomical structures as a point of orientation in locating other structures in the body.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "landmark based",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

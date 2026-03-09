@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "Terminology defining biological substances produced by or contained within an organism.",
   "description": "This terminology includes naturally occurring materials or substances that exist within anatomical contexts of an organism. These may include fluids, secreted substances, or other biological materials associated with tissues or organs. The terms represent substances rather than structural anatomical entities. Examples may include biological fluids or mineralized materials produced by tissues. The terminology enables representation of organism-derived substances in anatomical datasets.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "organism substance",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

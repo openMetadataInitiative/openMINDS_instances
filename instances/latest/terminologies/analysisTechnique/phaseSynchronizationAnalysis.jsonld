@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "A 'phase synchronization analysis' detects and quantifies synchronization between two time series.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "phase synchronization analysis",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

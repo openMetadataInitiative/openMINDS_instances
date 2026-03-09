@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005845)]",
   "description": "A spinal cord segment that adjacent to a caudal region. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005845)]",
-  "interlexIdentifier": null,
   "name": "caudal segment of spinal cord",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

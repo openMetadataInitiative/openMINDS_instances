@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ContributionType",
   "definition": "A contribution type of a role-bearing entity realized by systematically examining a target entity to assess its functionality, performance, reliability, or conformance to defined criteria.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "testing",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

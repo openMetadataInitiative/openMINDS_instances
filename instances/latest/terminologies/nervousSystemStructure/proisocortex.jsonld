@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the neocortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014951) ('is_a' and 'relationship')]",
   "description": "The part of the neocortex hich mainly consists of parts of cingulate, parahippocampal and temporopolar cortice. As distinct from isocortex (typical neocortex) which contains other regions. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014951)]",
-  "interlexIdentifier": null,
   "name": "proisocortex",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

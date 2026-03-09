@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006792)]",
   "description": "A layer of superior colliculus that lies between the superficial layer and the deep layer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006792)]",
-  "interlexIdentifier": null,
   "name": "intermediate layer of superior colliculus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

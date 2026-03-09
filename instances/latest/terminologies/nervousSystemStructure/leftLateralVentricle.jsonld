@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic ventricle. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013161) ('is_a' and 'relationship')]",
   "description": "A telencephalic ventricle that is in the left side of a telencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013161)]",
-  "interlexIdentifier": null,
   "name": "left lateral ventricle",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

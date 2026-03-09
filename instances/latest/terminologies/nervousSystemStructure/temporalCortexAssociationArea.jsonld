@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an association cortex. Is part of the temporal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035013) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
   "name": "temporal cortex association area",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

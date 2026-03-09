@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/StimulationApproach",
   "definition": "A stimulation of the visual (sight) system.",
   "description": "The sensory modality that pertains to the sense of sight. It usually but not always arises from the stimulation of the visual system with a light source of sufficient brightness to be visible.",
-  "knowledgeSpaceLink": null,
   "name": "visual stimulation",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

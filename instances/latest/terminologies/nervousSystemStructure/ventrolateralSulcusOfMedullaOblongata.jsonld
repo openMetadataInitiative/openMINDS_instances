@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a subarachnoid sulcus. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008335) ('is_a' and 'relationship')]",
   "description": "A longitudinal sulcus on the anterior surface of the medulla oblongata, lateral to the pyramid, from which emerge the fibers of the hypoglossal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008335)]",
-  "interlexIdentifier": null,
   "name": "ventrolateral sulcus of medulla oblongata",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

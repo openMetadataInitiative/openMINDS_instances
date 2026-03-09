@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a future brain vesicle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006284)]",
   "description": "Future brain vesicle that gives rise to telencephalic ventricle/lateral ventricles and 3rd ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006284)]",
-  "interlexIdentifier": null,
   "name": "early prosencephalic vesicle",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

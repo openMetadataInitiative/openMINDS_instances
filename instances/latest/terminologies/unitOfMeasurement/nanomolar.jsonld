@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "Nanomolar is a decimal fraction of molar concentration describing the amount of substance (measured in nanomole) in one liter solution.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "nanomolar",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

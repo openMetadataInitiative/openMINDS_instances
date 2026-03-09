@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a dorsal horn of spinal cord. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014620) ('is_a' and 'relationship')]",
   "description": "A dorsal horn of spinal cord that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014620)]",
-  "interlexIdentifier": null,
   "name": "cervical spinal cord dorsal horn",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

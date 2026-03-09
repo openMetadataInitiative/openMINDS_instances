@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the spinal cord. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005443)]",
   "description": "A strand of fibrous tissue in the spinal cord consisting of the filum terminale internum and the filum terminale externum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005443)]",
-  "interlexIdentifier": null,
   "name": "filum terminale",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

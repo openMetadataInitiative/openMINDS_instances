@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an iris nerve and nerve of head region. Is part of the nasociliary nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022301) ('is_a' and 'relationship')]",
   "description": "A branch of the nasociliary nerve that innervates the ciliary muscles, the iris, and the cornea. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022301)]",
-  "interlexIdentifier": null,
   "name": "long ciliary nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

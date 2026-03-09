@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a ganglion of peripheral nervous system. Is part of the autonomic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001805) ('is_a' and 'relationship')]",
   "description": "Ganglion that has dendrites that form a junction between autonomic nerves originating from the central nervous system and autonomic nerves innervating their target organs in the periphery. There are two subtypes, sympathetic ganglion and parasympathetic ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001805)]",
-  "interlexIdentifier": null,
   "name": "autonomic ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

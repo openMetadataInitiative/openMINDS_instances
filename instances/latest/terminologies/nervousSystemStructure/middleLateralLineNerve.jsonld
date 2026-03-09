@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a lateral line nerve. Is part of the posterior lateral line nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001482) ('is_a' and 'relationship')]",
   "description": "Nerve fibers originating from the middle lateral line ganglion. These fibers innervate the middle lateral line. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001482)]",
-  "interlexIdentifier": null,
   "name": "middle lateral line nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

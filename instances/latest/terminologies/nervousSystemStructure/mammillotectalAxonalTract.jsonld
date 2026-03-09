@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a tract of diencephalon. Is part of the mammillary axonal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006697) ('is_a' and 'relationship')]",
   "description": "The mammillotectal tract is the collection of axons that connects the ventral diencephalon to the superior colliculus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006697)]",
-  "interlexIdentifier": null,
   "name": "mammillotectal axonal tract",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a sympathetic nerve trunk. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004863)]",
   "description": "A sympathetic nerve trunk that is part of a thorax. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004863)]",
-  "interlexIdentifier": null,
   "name": "thoracic sympathetic nerve trunk",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

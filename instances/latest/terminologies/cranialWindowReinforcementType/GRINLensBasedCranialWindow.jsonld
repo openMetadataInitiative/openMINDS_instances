@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CranialWindowReinforcementType",
   "definition": "A cranial window reinforced by an implanted GRIN lens.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "GRIN lens-based cranial window",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

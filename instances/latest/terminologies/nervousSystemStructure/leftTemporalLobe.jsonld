@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a temporal lobe. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002808) ('is_a' and 'relationship')]",
   "description": "A temporal lobe that is part of a left cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002808)]",
-  "interlexIdentifier": null,
   "name": "left temporal lobe",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

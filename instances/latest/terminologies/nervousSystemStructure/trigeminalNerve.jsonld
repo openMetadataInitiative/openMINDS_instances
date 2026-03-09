@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001645)]",
   "description": "Cranial nerve that has three branches - the ophthalmic (supplying the skin of the nose and upper jaw), the maxillary and the mandibular (supplying the lower jaw). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001645)]",
-  "interlexIdentifier": null,
   "name": "trigeminal nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

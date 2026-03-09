@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an integumental taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034720)]",
   "description": "A taste bud that is located on the skin of the head. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034720)]",
-  "interlexIdentifier": null,
   "name": "head taste bud",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

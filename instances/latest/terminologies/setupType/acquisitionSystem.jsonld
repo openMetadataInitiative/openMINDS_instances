@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/SetupType",
   "definition": "An 'acquisition system' is a setup type with the purpose of collecting data.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "acquisition system",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

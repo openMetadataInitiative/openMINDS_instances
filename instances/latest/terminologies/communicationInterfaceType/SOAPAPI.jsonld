@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "An application programming interface that uses the Simple Object Access Protocol (SOAP).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "SOAP API",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a hindlimb nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003431)]",
   "description": "A nerve that is part of a leg. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003431)]",
-  "interlexIdentifier": null,
   "name": "leg nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

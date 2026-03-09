@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "A terminology defining methods for representing spatial position in signals through frequency-, phase-, or combined encoding mechanisms across one or more dimensions.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "spatial encoding",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

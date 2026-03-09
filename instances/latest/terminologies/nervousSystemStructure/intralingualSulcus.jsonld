@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a subarachnoid sulcus and occipital sulcus. Is part of the lingual gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002905) ('is_a' and 'relationship')]",
   "description": "A groove located within the boundaries of the lingual gyrus in the human. Identified by dissection, it is oriented parallel to the inferior margin of the occipital lobe ( Ono-1990; Duvernoy-1992 ). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002905)]",
-  "interlexIdentifier": null,
   "name": "intralingual sulcus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

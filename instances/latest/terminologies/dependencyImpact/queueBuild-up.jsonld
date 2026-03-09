@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DependencyImpact",
   "definition": "Requests or tasks directed to a thing accumulate because normal processing cannot proceed if the thing it depends on is unavailable.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "queue build-up",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

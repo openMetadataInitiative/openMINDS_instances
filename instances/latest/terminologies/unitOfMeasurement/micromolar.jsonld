@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "Micromolar is a decimal fraction of molar concentration describing the amount of substance (measured in micromole) in one liter solution.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "micromolar",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

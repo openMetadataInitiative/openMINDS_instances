@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "A superclass of distance-preserving transformations between metric spaces, often used to reduce dimensionality of data by embedding one space into another. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Isometry)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "isometric mapping",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

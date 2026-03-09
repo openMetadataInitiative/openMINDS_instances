@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebral hemisphere white matter and white matter radiation. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022260)]",
   "description": null,
-  "interlexIdentifier": null,
   "name": "radiation of cerebral hemisphere",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

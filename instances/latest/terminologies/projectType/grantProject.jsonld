@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ProjectType",
   "definition": "A time-limited, externally funded project defined primarily by the formal objectives, conditions, and reporting requirements of a sponsoring organization.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "grant project",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

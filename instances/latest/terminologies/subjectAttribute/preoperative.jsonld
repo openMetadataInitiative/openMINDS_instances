@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/SubjectAttribute",
   "definition": "A temporary state of an organism in the time period between the decision to have surgery and the beginning of the surgical procedure.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "preoperative",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

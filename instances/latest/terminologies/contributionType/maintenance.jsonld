@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ContributionType",
   "definition": "A contribution type of a role-bearing entity realized by performing corrective, adaptive, or preventive upkeep of a target entity.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "maintenance",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum hemisphere lobule and hemisphere part of cerebellar posterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005350)]",
   "description": null,
-  "interlexIdentifier": null,
   "name": "lobule simplex",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

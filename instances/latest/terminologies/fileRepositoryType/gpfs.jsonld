@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/FileRepositoryType",
   "definition": "GPFS, short for General Parallel File System is a high-performance clustered file system developed by IBM",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "GPFS repository",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

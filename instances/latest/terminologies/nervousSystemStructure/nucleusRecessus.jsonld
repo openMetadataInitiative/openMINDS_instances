@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a hypothalamic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036177)]",
   "description": "The fish catecholamines originate in two large aggregations of neurons: the nucleus recessus lateralis (NRL) and the nucleus recessus posterioris (NRP). The nuclei were found in the hypothalamus of numerous species, e.g., the gold fish, eel, and roach. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036177)]",
-  "interlexIdentifier": null,
   "name": "nucleus recessus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

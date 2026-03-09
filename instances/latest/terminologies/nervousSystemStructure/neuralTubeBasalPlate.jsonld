@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the neural tube mantle layer. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004064)]",
   "description": "The region of the mantle layer of the neural tube that lies ventral to the sulcus limitans and contains primarily motor neurons and interneurons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004064)]",
-  "interlexIdentifier": null,
   "name": "neural tube basal plate",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

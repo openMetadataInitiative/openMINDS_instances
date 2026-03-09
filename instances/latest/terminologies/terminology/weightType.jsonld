@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "A terminology that specifies the biological or processing state of a specimen at the time its mass was measured.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "weight type",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

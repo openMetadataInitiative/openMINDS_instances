@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nervous system cell part layer. Is part of the retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008921) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
   "name": "substratum of layer of retina",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

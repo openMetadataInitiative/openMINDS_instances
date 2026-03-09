@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ContributionType",
   "definition": "A contribution type of a role-bearing entity realized by putting a design, specification, method, or plan into operational or practical form.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "implementation",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

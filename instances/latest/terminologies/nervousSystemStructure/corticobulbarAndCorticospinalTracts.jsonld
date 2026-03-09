@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an axon tract. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036224) ('is_a' and 'relationship')]",
   "description": "The corticobulbar and corticospinal tracts combined. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036224)]",
-  "interlexIdentifier": null,
   "name": "corticobulbar and corticospinal tracts",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

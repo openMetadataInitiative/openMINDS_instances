@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "A 'neuron' is a basic cellular unit of nervous tissue which can receive, conduct, and transmit electrical impulses.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "neuron",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

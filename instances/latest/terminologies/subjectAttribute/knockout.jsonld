@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/SubjectAttribute",
   "definition": "An organism that underwent a targeted excision or silencing/inactivation of existing genetic material (i.e. a gene).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "knockout",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/StimulationApproach",
   "definition": "A stimulation of the tactile (touch) system.",
   "description": "The sensory modality that pertains to the sense of touch or contact via the skin. It usually but not always arises from a tactile stimulation via contact of the skin to other external objects.",
-  "knowledgeSpaceLink": null,
   "name": "tactile stimulation",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an arthropod sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007231)]",
   "description": "Sensillum which is embedded in the body wall and has a specific cuticular structure involved in the transduction of some sensory signal as a part. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007231)]",
-  "interlexIdentifier": null,
   "name": "insect external sensillum",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

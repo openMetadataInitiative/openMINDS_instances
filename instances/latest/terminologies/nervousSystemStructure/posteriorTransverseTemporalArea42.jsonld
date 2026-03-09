@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006096)]",
   "description": "A subdivision of the cytoarchitecturally defined temporal region of cerebral cortex. It is located in the bank of the lateral sulcus on the dorsal surface of the temporal lobe. Cytoarchitecturally it is bounded medially by the anterior transverse temporal area 41(H) and laterally by the superior temporal area 22 (Brodmann-1909). Adapted from Brain Info. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006096)]",
-  "interlexIdentifier": null,
   "name": "posterior transverse temporal area 42",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

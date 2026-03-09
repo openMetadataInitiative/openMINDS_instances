@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an arachnoid mater and brain meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005397)]",
   "description": "An arachnoid mater that surrounds a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005397)]",
-  "interlexIdentifier": null,
   "name": "brain arachnoid mater",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ModelScope",
   "definition": "A model of a neuronal microcircuit",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "network: microcircuit",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

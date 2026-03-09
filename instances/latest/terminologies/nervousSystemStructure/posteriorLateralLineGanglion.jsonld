@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a lateral line ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001314)]",
   "description": "The posterior lateral line ganglion develops from a cranial ectodermal placode and contains sensory neurons that innervate the posterior lateral line system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001314)]",
-  "interlexIdentifier": null,
   "name": "posterior lateral line ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

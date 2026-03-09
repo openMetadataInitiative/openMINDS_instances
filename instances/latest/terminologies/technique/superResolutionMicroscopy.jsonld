@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Techniques in optical microscopy that allow images to have resolutions higher than those imposed by the diffraction limit, due to the diffraction of light [taken from [Wikipedia](https://en.wikipedia.org/wiki/Super-resolution_microscopy)].",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "super resolution microscopy",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a dura mater and brain meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002092)]",
   "description": "The fibrous membrane forming the outer of the three coverings that surrounds the brain within the cranial cavity; consists of two layers including the periosteal layer and the meningeal layer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002092)]",
-  "interlexIdentifier": null,
   "name": "brain dura mater",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gray matter of forebrain. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011300) ('is_a' and 'relationship')]",
   "description": "A portion of gray matter that is part of a telencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011300)]",
-  "interlexIdentifier": null,
   "name": "gray matter of telencephalon",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

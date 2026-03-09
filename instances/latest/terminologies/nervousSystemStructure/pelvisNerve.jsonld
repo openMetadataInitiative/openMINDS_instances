@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve of abdominal segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003444)]",
   "description": "A nerve that is part of a pelvis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003444)]",
-  "interlexIdentifier": null,
   "name": "pelvis nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AccessEligibilityType",
   "definition": "Access limited to registered and/or authenticated users meeting defined eligibility criteria.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "controlled access",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

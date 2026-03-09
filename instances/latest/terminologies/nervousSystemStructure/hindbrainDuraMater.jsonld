@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brain dura mater and meninx of hindbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003565)]",
   "description": "A dura mater that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003565)]",
-  "interlexIdentifier": null,
   "name": "hindbrain dura mater",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

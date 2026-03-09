@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/QualitativeOverlap",
   "definition": "A set/object (A) is a subset of another set/object (B) if (A) and (B) are not equal, but all elements/incidents of (A) are also elements/incidents of (B).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "is subset of",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

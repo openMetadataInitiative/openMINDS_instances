@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "Terminology defining the workflow or mechanism through which access to a resource is granted.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "access process type",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

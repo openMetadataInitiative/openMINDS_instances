@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "Usage of a computer processor core for one hour",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "core-hour",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

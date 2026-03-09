@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a trunk ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009758)]",
   "description": "A ganglion that is part of a abdominal segment of trunk. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009758)]",
-  "interlexIdentifier": null,
   "name": "abdominal ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

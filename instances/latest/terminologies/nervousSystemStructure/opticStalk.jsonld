@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a developing neuroepithelium. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003098) ('is_a' and 'relationship')]",
   "description": "The narrow, proximal portion of the optic vesicle which connects the embryonic eye and forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003098)]",
-  "interlexIdentifier": null,
   "name": "optic stalk",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

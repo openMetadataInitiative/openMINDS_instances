@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/PaymentModelType",
   "definition": "Time-recurring payment grants shared access, independent of billable units (entitlement, consumption, event, monetary value, outcome, or capacity units).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "fixed-recurring payment model",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

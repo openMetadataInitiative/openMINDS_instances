@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DependencyImpact",
   "definition": "A thing cannot retrieve any required data, causing operations to halt or fail, if the thing it depends on is unavailable.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "data unavailability",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

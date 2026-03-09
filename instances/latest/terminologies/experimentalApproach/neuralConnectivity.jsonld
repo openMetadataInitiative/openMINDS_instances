@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on functional or anatomical connections between single neurons or populations of neurons in defined anatomical regions.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "neural connectivity",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "A substance used as an indicator of a biological state, most commonly disease.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "biomarker",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ModelAbstractionLevel",
   "definition": "Modelling neural networks in which individual neurons are represented by their firing rate",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "rate neurons",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

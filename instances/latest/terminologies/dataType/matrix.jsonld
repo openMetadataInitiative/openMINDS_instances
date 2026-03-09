@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/DataType",
   "definition": "A 'matrix' is a list of lists.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "matrix",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

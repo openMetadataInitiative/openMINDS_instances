@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "A means of interacting with software through text-based commands entered in a terminal or shell.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "command line interface",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

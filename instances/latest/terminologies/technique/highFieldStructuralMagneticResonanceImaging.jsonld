@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "A magnetic resonance imaging technique that typically uses a magnetic field strength of 3 Tesla (or higher but below 7 Tesla) to generate images with static information of the scanned body.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "high-field structural magnetic resonance imaging",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/QualitativeOverlap",
   "definition": "A set/object (A) is identical to another set/object (B) if they look exactly the same.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "is identical to",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

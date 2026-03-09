@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a subdivision of spinal cord central canal. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014541)]",
   "description": "Part of spinal cord central canal contained in the thoracic spinal cord. It is continuous rostrally with the cervical spinal cord central canal and caudally with the lumbar spinal cord central canal. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014541)]",
-  "interlexIdentifier": null,
   "name": "thoracic division of spinal cord central canal",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

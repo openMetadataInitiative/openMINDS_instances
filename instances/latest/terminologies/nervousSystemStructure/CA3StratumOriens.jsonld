@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of CA3 field. Is part of the hippocampus stratum oriens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014553) ('is_a' and 'relationship')]",
   "description": "Part of stratum oriens lying in area CA3 deep to the CA3 pyramidal cell layer and continuous with stratum oriens of area CA2 and bounded by the dentate gyrus hilus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014553)]",
-  "interlexIdentifier": null,
   "name": "CA3 stratum oriens",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

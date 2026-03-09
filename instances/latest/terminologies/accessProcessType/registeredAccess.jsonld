@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AccessProcessType",
   "definition": "Access requires registration but no authentication.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "registered access",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/FileRepositoryType",
   "definition": "A Git repository offers version control and source code management functionalities.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Git repository",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

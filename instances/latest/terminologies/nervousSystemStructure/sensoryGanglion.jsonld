@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001800)]",
   "description": "The clusters of neurons in the somatic peripheral nervous system which contain the cell bodies of sensory nerve axons, interneurons and non-neuronal supporting cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001800)]",
-  "interlexIdentifier": null,
   "name": "sensory ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

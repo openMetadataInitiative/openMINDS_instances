@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/BiologicalSex",
   "definition": "Can be stated if the biological sex in visually not detectable at a specific point in time.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "not detectable",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

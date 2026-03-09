@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022383) ('is_a' and 'relationship')]",
   "description": "The part of the parahippocampal gyrus that includes the perirhinal and entorhinal cortices. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022383)]",
-  "interlexIdentifier": null,
   "name": "anterior parahippocampal gyrus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

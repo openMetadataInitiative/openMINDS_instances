@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a subarachnoid sulcus. Is part of the lateral sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002910) ('is_a' and 'relationship')]",
   "description": "One of two branches of the lateral fissure at its posterior terminus identified by dissection in the human. The other is the terminal descending limb of the lateral fissure ( Ono-1990 ). It is not found in the macaque ( Martin-2000 ), the rat ( Swanson-2004 ) or the mouse ( Hof-2000 ). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002910)]",
-  "interlexIdentifier": null,
   "name": "posterior ascending limb of lateral sulcus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

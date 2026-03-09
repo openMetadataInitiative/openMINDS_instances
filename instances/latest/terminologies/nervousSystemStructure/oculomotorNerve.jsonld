@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001643)]",
   "description": "Cranial nerve which connects the midbrain to the extra-ocular and intra-ocular muscles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001643)]",
-  "interlexIdentifier": null,
   "name": "oculomotor nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

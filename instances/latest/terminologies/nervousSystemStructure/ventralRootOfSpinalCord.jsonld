@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a spinal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002260)]",
   "description": "The ventral roots contain efferent motor axons. Similar to the dorsal roots, the ventral roots continue out from the spinal column, and meet and mix with their corresponding dorsal nerve root at a point after the ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002260)]",
-  "interlexIdentifier": null,
   "name": "ventral root of spinal cord",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

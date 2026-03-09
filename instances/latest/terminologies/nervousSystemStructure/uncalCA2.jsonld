@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the CA2 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034775) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
   "name": "uncal CA2",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of thalamus. Is part of the dorsal thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015233) ('is_a' and 'relationship')]",
   "description": "A nucleus of brain that is part of a dorsal thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015233)]",
-  "interlexIdentifier": null,
   "name": "nucleus of dorsal thalamus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

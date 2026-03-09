@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/LearningResourceType",
   "definition": "Documentation for the users of a resource.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "user documentation",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

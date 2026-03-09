@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005076)]",
   "description": "An anatomical boundary that adjacent to a hindbrain and adjacent to a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005076)]",
-  "interlexIdentifier": null,
   "name": "hindbrain-spinal cord boundary",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

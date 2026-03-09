@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/PaymentModelType",
   "definition": "Payment is determined by predefined thresholds of billable units (entitlement, consumption, event, monetary value, outcome, or capacity units).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "step-pricing payment model",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "'Signal filtering' is a signal processing technique used to remove or suppress unwanted components or features (e.g., certain frequencies) from a measured signal. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Filter_(signal_processing))]",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "signal filtering technique",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the ramus recurrens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010751) ('is_a' and 'relationship')]",
   "description": "Motor nervous branch of the vagus innervating m. subarcualis rectus I. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010751)]",
-  "interlexIdentifier": null,
   "name": "ramus muscularis of vagus nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

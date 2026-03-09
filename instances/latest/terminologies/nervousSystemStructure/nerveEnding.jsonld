@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the sensory nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012453) ('is_a' and 'relationship')]",
   "description": "Specialized terminations of peripheral neurons. Nerve endings include NEUROEFFECTOR JUNCTION(s) by which neurons activate target organs and sensory receptors (see RECEPTORS, SENSORY) which transduce information from the various sensory modalities and send it centrally in the nervous system. Presynaptic nerve endings are PRESYNAPTIC TERMINALS. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012453)]",
-  "interlexIdentifier": null,
   "name": "nerve ending",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

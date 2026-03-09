@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001644)]",
   "description": "A cranial nerve that runs to the eye muscles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001644)]",
-  "interlexIdentifier": null,
   "name": "trochlear nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

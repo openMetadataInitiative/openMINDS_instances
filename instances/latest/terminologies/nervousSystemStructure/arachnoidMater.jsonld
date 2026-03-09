@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a leptomeninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002362)]",
   "description": "A think avascular meningeal layer, between the pia mater and the dural mater. It is separated from the pia mater by the subarachnoid space. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002362)]",
-  "interlexIdentifier": null,
   "name": "arachnoid mater",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

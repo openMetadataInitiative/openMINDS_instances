@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/VasculatureStructure",
   "definition": "Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016559)]",
   "description": "The superficial cerebral veins are a group of veins in the head. This group includes the superior cerebral veins. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016559)]",
-  "interlexIdentifier": null,
   "name": "superficial cerebral vein",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

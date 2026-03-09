@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the dorsal pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014742) ('is_a' and 'relationship')]",
   "description": "A nucleus located in the dorsal pallium that is present in sharks, skates and rays and extends at some levels to the midline. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014742)]",
-  "interlexIdentifier": null,
   "name": "central nucleus of pallium",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a vagus nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010740)]",
   "description": "An afferent branch of the vagus nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010740)]",
-  "interlexIdentifier": null,
   "name": "ramus auricularis of the vagus nerve",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

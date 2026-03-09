@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005358) ('is_a' and 'relationship')]",
   "description": "A layer in the central nervous system that lines system of communicating cavities in the brain and spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005358)]",
-  "interlexIdentifier": null,
   "name": "ventricle of nervous system",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

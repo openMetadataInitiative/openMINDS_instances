@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a fasciculus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002138)]",
   "description": "White matter tract containing fibers projecting from the habenular nuclei to the interpeduncular nucleus (Maryann Martone) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002138)]",
-  "interlexIdentifier": null,
   "name": "habenulo-interpeduncular tract",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

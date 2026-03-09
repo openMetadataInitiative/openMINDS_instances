@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006095)]",
   "description": "A subdivision of the cytoarchitecturally defined temporal region of cerebral cortex. It occupies the anterior transverse temporal gyrus (H) in the bank of the lateral sulcus on the dorsal surface of the temporal lobe. Cytoarchitecturally it is bounded medially by the parainsular area 52 (H) and laterally by the posterior transverse temporal area 42 (H) (Brodmann-1909). Adapted from Brain Info. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006095)]",
-  "interlexIdentifier": null,
   "name": "anterior transverse temporal area 41",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial nerve nucleus and nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002174)]",
   "description": "Hindbrain nucleus which consists of cell bodies whose axons exit the hindbrain via cranial nerve VIII and innervate hair cells of the lateral line and inner ear. The neurons of these nuclei are unusual in that they extend both contra- and ipsilateral dendrites. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002174)]",
-  "interlexIdentifier": null,
   "name": "octaval nerve motor nucleus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

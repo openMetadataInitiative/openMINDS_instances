@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gustatory epithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014452)]",
   "description": "A gustatory epithelium that is part of a tongue. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014452)]",
-  "interlexIdentifier": null,
   "name": "gustatory epithelium of tongue",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

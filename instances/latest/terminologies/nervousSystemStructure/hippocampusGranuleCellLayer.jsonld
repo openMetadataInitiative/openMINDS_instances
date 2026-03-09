@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005367)]",
   "description": null,
-  "interlexIdentifier": null,
   "name": "hippocampus granule cell layer",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

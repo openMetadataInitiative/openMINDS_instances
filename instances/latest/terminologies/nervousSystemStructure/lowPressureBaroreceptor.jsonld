@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a baroreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018393)]",
   "description": "Found in large systemic veins, in pulmonary vessels, and in the walls of the right atrium and ventricles of the heart (the atrial volume receptors). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018393)]",
-  "interlexIdentifier": null,
   "name": "low-pressure baroreceptor",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

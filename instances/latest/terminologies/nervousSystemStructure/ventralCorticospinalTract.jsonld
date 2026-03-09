@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an axon tract. Is part of the corticospinal tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002760) ('is_a' and 'relationship')]",
   "description": "Part of pyramidal tract (corticospinal tract) containing uncrossed fibers and traveling in the ventral funiculus of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002760)]",
-  "interlexIdentifier": null,
   "name": "ventral corticospinal tract",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

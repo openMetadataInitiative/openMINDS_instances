@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'gnuplot2' is a miscellaneous colormap of the Python plotting library Matplotlib.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "matplotlib.colormaps.gnuplot2",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

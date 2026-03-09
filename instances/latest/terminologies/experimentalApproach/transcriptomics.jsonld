@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on the transcriptome (all RNA transcripts) of one or more cells, tissues, or organisms.",
   "description": null,
-  "knowledgeSpaceLink": null,
   "name": "transcriptomics",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [

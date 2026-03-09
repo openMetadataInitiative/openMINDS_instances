@@ -6,8 +6,6 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "Quantitative analysis technique utilizing the ratio of two signals or responses obtained from a sample.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "ratiometry",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

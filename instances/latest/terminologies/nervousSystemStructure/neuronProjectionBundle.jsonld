@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000122) ('is_a' and 'relationship')]",
   "description": "A fasciculated bundle of neuron projections (GO:0043005), largely or completely lacking synapses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000122)]",
-  "interlexIdentifier": null,
   "name": "neuron projection bundle",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

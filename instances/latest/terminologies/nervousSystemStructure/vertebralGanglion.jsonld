@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a paravertebral ganglion. Is part of the cervical ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000408) ('is_a' and 'relationship')]",
   "description": "Any of a group of sympathetic ganglia which form two chains extending from the base of the skull to the coccyx along the sides of the spinal column. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000408)]",
-  "interlexIdentifier": null,
   "name": "vertebral ganglion",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,

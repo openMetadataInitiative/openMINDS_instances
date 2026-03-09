@@ -6,7 +6,6 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007334) ('is_a' and 'relationship')]",
   "description": "The nidopallium, meaning nested pallium, is the region of the avian brain that is used mostly for some types of executive functions but also other higher cognitive tasks. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007334)]",
-  "interlexIdentifier": null,
   "name": "nidopallium",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,
