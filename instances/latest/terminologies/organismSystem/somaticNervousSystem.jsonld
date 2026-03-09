@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/somaticNervousSystem",
-  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "@id": "https://openminds.om-i.org/instances/organismSystem/somaticNervousSystem",
+  "@type": "https://openminds.om-i.org/types/OrganismSystem",
   "definition": "Is an anatomical entity. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000012) ('is_a' and 'relationship')]",
   "description": "Part of peripheral nervous system that includes the somatic parts of the cranial and spinal nerves and their ganglia and the peripheral sensory receptors. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000012)]",
   "interlexIdentifier": null,
