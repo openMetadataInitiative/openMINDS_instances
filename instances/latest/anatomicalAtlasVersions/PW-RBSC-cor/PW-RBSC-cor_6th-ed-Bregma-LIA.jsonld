@@ -16,7 +16,7 @@
   "digitalIdentifier": {
     "@id": "https://openminds.om-i.org/instances/ISBN/0-12-547612-4"
   },
-  "fullDocumentation": {
+  "documentation": {
     "@id": "https://openminds.om-i.org/instances/ISBN/0-12-547612-4"
   },
   "fullName": "Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates",

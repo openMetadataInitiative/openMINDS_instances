@@ -16,7 +16,7 @@
   "defaultImage": null,
   "description": "This coordinate space of the coronal plates from Paxinos and Watson's 'Rat Brain in Stereotaxic Coordinates' uses Bregma as its origin. The coordinates of the origin in the physical coordinate system of the rat brain could not be determined from the information provided in the atlas publication. Since the mediolateral axis of the coordinate system has positive values in either directions, two different coordinate systems were used - one left oriented and one right oriented. The X, Y and Z axes of this coordinate system are oriented towards the right, anterior, inferior (positive mediolateral values describe the rat's right hemisphere), respectively.",
   "digitalIdentifier": null,
-  "fullDocumentation": {
+  "documentation": {
     "@id": "https://openminds.om-i.org/instances/ISBN/0-12-547612-4"
   },
   "fullName": "Paxinos and Watson's Coronal Template of the Rat Brain in Stereotaxic Coordinates",
