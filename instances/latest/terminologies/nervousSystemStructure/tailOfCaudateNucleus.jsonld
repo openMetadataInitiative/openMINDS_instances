@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gray matter of telencephalon. Is part of the caudate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002628) ('is_a' and 'relationship')]",
   "description": "Narrowest part of the caudate nucleus, roughly defined as that portion that curves ventrally from the body of the caudate nucleus, following the temporal horn of the lateral ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002628)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111511",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002628#tail-of-caudate-nucleus-1",
   "name": "tail of caudate nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111511"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002628#tail-of-caudate-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002628",
   "synonym": [
     "caudate nuclear tail"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AccessProcessType",
   "definition": "Automatic access upon acceptance of the applicable terms.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "immediate access",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

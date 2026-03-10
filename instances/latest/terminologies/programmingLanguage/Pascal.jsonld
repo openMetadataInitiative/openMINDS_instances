@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ProgrammingLanguage",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Pascal",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q81571",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q81571",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

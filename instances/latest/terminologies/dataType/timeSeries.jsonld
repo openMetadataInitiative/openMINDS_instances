@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/DataType",
   "definition": "A 'time series' is a list or matrix, where elements are ordered in equally spaced points in time.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "time series",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q186588",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q186588",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "time-series"
   ]

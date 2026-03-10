@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000297)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000297#vagal-lobe",
   "name": "vagal lobe",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2000297#vagal-lobe",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000297",
   "synonym": null
 }
-

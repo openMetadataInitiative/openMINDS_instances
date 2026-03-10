@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gyrus. Is part of the frontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015593) ('is_a' and 'relationship')]",
   "description": "A gyrus that is part of a frontal cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015593)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015593#frontal-gyrus",
   "name": "frontal gyrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0015593#frontal-gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015593",
   "synonym": null
 }
-

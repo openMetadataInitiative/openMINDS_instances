@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/MeasuredQuantity",
   "definition": "Measured membrane potential during a voltage-clamp protocol.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "holding potential",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "measured holding potential"

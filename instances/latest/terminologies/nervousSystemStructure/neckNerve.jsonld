@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003430)]",
   "description": "A nerve that is part of a neck. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003430)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003430#neck-nerve",
   "name": "neck nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003430#neck-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003430",
   "synonym": [
     "neck (volume) nerve",
@@ -16,4 +17,3 @@
     "nerve of neck (volume)"
   ]
 }
-

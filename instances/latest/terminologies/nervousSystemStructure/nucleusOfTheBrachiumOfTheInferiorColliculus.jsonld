@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the midbrain tectum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036012) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107764",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036012#nucleus-of-the-brachium-of-the-inferior-colliculus",
   "name": "nucleus of the brachium of the inferior colliculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0107764"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0036012#nucleus-of-the-brachium-of-the-inferior-colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036012",
   "synonym": null
 }
-

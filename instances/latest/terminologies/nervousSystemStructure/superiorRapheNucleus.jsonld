@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the raphe nuclei. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000440) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000440#superior-raphe-nucleus",
   "name": "superior raphe nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2000440#superior-raphe-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000440",
   "synonym": [
     "anterior raphe nucleus"
   ]
 }
-

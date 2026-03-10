@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001891)]",
   "description": "The midbrain is the middle division of the three primary divisions of the developing chordate brain or the corresponding part of the adult brain (in vertebrates, includes a ventral part containing the cerebral peduncles and a dorsal tectum containing the corpora quadrigemina and that surrounds the aqueduct of Sylvius connecting the third and fourth ventricles). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001891)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106935",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001891#midbrain-1",
   "name": "midbrain",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106935"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001891#midbrain-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001891",
   "synonym": null
 }
-

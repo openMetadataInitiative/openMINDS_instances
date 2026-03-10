@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a choroid plexus epithelium. Is part of the choroid plexus of lateral ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004274) ('is_a' and 'relationship')]",
   "description": "A choroid plexus epithelium that is part of a lateral ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004274)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004274#lateral-ventricle-choroid-plexus-epithelium",
   "name": "lateral ventricle choroid plexus epithelium",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004274#lateral-ventricle-choroid-plexus-epithelium",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004274",
   "synonym": [
     "chorioid plexus of cerebral hemisphere epithelial tissue of lateral ventricle",
@@ -28,4 +29,3 @@
     "lateral ventricle epithelium of choroid plexus"
   ]
 }
-

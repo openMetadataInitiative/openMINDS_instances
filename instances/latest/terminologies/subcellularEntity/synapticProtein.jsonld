@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/SubcellularEntity",
   "definition": "A 'synaptic protein' belongs to a family of neuron-specific phosphoric proteins associated with synaptic vesicles. Synaptic proteins are present on the surface of almost all synaptic particles and bind to the cytoskeleton.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111412",
-  "knowledgeSpaceLink": null,
   "name": "synaptic protein",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao936599761",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://uri.neuinfo.org/nif/nifstd/sao936599761",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0111412",
   "synonym": [
     "synaptic vesicle associated protein"
   ]

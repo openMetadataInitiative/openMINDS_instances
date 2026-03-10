@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the amygdala. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002883) ('is_a' and 'relationship')]",
   "description": "The output region of the amygdala responsible for controlling responses (Phelps & LeDoux, 2005, http://www.ncbi.nlm.nih.gov/pubmed/ 16242399). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002883)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101887",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002883#central-amygdaloid-nucleus-1",
   "name": "central amygdaloid nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101887"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002883#central-amygdaloid-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002883",
   "synonym": [
     "central amygdala",
@@ -16,4 +19,3 @@
     "central nucleus of amygdala"
   ]
 }
-

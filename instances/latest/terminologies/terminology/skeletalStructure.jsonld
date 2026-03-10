@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "Terminology defining anatomical structures that form part of the skeletal system.",
   "description": "This terminology includes bones, cartilaginous elements, and other structural components that contribute to the mechanical framework of the body. These structures provide support, protection, and attachment points for muscles and other tissues. The terminology may include both individual skeletal elements and structural subdivisions of those elements. Examples include bones of the skull, vertebrae, and limb skeleton. It enables consistent representation of the skeletal framework across species.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "skeletal structure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

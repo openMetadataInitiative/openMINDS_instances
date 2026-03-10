@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/DataType",
   "definition": "A 'list' is a series of ordered scalars and/or lists.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "list",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q12139612",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q12139612",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

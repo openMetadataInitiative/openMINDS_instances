@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a root of cranial nerve. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002668) ('is_a' and 'relationship')]",
   "description": "Initial segment of the occulomotor nerve as it leaves the midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002668)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107898",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002668#oculomotor-nerve-fibers",
   "name": "oculomotor nerve root",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0107898"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002668#oculomotor-nerve-fibers",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002668",
   "synonym": [
     "central part of oculomotor nerve",
@@ -16,4 +19,3 @@
     "root of oculomotor nerve"
   ]
 }
-

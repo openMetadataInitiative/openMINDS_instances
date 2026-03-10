@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a diencephalic white matter and peduncle of neuraxis. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022235)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022235#peduncle-of-diencephalon",
   "name": "peduncle of diencephalon",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0022235#peduncle-of-diencephalon",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022235",
   "synonym": [
     "diencephalon peduncle"
   ]
 }
-

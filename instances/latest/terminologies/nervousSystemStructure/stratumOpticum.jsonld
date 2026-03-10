@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the superior colliculus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001349)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2001349#stratum-opticum",
   "name": "stratum opticum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2001349#stratum-opticum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2001349",
   "synonym": null
 }
-

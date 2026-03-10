@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001780)]",
   "description": "The any of the paired peripheral nerves formed by the union of the dorsal and ventral spinal roots from each spinal cord segment. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001780)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001780#spinal-nerve",
   "name": "spinal nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001780#spinal-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001780",
   "synonym": [
     "backbone nerve",
@@ -22,4 +23,3 @@
     "vertebral column nerve"
   ]
 }
-

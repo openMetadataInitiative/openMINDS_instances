@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a rhombomere roof plate. Is part of the rhombomere 8. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005590) ('is_a' and 'relationship')]",
   "description": "A rhombomere roof plate that is part of a rhombomere 8. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005590)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005590#rhombomere-8-roof-plate",
   "name": "rhombomere 8 roof plate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005590#rhombomere-8-roof-plate",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005590",
   "synonym": [
     "roof plate rhombomere 8"
   ]
 }
-

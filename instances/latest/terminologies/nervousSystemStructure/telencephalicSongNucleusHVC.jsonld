@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the nidopallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035785) ('is_a' and 'relationship')]",
   "description": "A nucleus in the brain of songbirds located in the caudal nidopallium, projecting to the song motor pathway via the robust nucleus of the arcopallium and to the Anterior Forebrain Pathway via the basal ganglia nucleus Area X. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035785)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035785#telencephalic-song-nucleus-hvc",
   "name": "telencephalic song nucleus HVC",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035785#telencephalic-song-nucleus-hvc",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035785",
   "synonym": [
     "HVC (avian brain region)"
   ]
 }
-

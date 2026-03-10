@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nervous system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001911)]",
   "description": "Nervous system of the embryo/larva. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001911)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6001911#insect-embryonic-larval-nervous-system",
   "name": "insect embryonic/larval nervous system",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:6001911#insect-embryonic-larval-nervous-system",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6001911",
   "synonym": [
     "larval nervous system"
   ]
 }
-

@@ -6,13 +6,14 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "A magnetic resonance imaging technique that generates multiple images over time of some physiological processes of a specimen typically employing a magnetic field strength of 7 Tesla (or higher).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "ultra high-field functional magnetic resonance imaging",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "UHF fMRI",
-    "UHF functional magnetic resonance imaging",    
+    "UHF functional magnetic resonance imaging",
     "UHF functional MRI",
     "ultra high-field fMRI",
     "ultra high-field functional MRI"

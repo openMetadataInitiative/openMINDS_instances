@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004173)]",
   "description": "Axon tract that carries efferent (outgoing) action potentials from the cell body in the medulla towards target cells in the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004173)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004173#medulla-reticulospinal-tract",
   "name": "medulla reticulospinal tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004173#medulla-reticulospinal-tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004173",
   "synonym": [
     "medullary reticulospinal tract"
   ]
 }
-

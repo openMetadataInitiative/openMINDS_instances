@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002567) ('is_a' and 'relationship')]",
   "description": "Ventral subdivision of the pons which consists of the massive pontine pertuberance on pontine ventral surface. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002567)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101110",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002567#basal-part-of-pons-1",
   "name": "basal part of pons",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101110"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002567#basal-part-of-pons-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002567",
   "synonym": [
     "basal portion of pons",
@@ -20,4 +23,3 @@
     "ventral portion of pons"
   ]
 }
-

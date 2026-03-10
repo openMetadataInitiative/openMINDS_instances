@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a marginal sulcus. Is part of the insula. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002713) ('is_a' and 'relationship')]",
   "description": "A marginal sulcus that is part of a insula. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002713)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102193",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002713#circular-sulcus-of-insula-1",
   "name": "circular sulcus of insula",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0102193"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002713#circular-sulcus-of-insula-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002713",
   "synonym": [
     "central lobe marginal branch of cingulate sulcus",
@@ -69,4 +72,3 @@
     "sulcus marginalis insulae"
   ]
 }
-

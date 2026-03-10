@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002131)]",
   "description": "The region of the cerebellum that is anterior to the primary fissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002131)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100713",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002131#anterior-lobe-of-cerebellum",
   "name": "anterior lobe of cerebellum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100713"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002131#anterior-lobe-of-cerebellum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002131",
   "synonym": [
     "anterior cerebellar lobe",
@@ -17,4 +20,3 @@
     "cerebellum anterior lobe"
   ]
 }
-

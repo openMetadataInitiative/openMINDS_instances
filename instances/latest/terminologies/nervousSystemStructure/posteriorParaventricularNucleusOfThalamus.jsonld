@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a paraventricular nucleus of thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000433)]",
   "description": "The posterior of the two nuclei paraventriculares thalami. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000433)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000433#posterior-paraventricular-nucleus-of-thalamus",
   "name": "posterior paraventricular nucleus of thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0000433#posterior-paraventricular-nucleus-of-thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000433",
   "synonym": [
     "dorsal paraventricular nucleus of thalamus"
   ]
 }
-

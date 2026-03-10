@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003882)]",
   "description": "Part of hippocampus proper bounded by areas CA3 and CA1, characterized by a narrow layer of large pyramidal cells, similar in size to CA3 pyramidal cells, but which lack the mossy fiber input from the dentate gyrus (adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 460) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003882)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101527",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003882#ca2",
   "name": "CA2 field of hippocampus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101527"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003882#ca2",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003882",
   "synonym": [
     "CA2",
@@ -23,4 +26,3 @@
     "region II of hippocampus proper"
   ]
 }
-

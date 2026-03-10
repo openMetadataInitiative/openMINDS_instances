@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a meninx of diencephalon and forebrain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003553)]",
   "description": "A pia mater that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003553)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003553#diencephalon-pia-mater",
   "name": "diencephalon pia mater",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003553#diencephalon-pia-mater",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003553",
   "synonym": [
     "between brain pia mater",
@@ -28,4 +29,3 @@
     "pia mater of neuraxis of mature diencephalon"
   ]
 }
-

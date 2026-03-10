@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModificationConsentRequirement",
   "definition": "Modification requires contemporaneous agreement of all primary parties.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "mutual consent",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

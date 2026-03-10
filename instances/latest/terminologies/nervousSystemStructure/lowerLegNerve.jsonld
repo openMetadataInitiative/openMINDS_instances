@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a leg nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004218)]",
   "description": "A nerve that is part of a lower leg. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004218)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004218#lower-leg-nerve",
   "name": "lower leg nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004218#lower-leg-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004218",
   "synonym": null
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "A manifold learning algorithm used for computing a quasi-isometric, low-dimensional embedding of a set of high-dimensional data points to perform a nonlinear dimensionality reduction. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Isomap)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Isomap",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "isomap"

@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the substantia nigra. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002995) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111221",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002995#substantia-nigra-pars-lateralis-1",
   "name": "substantia nigra pars lateralis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111221"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002995#substantia-nigra-pars-lateralis-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002995",
   "synonym": [
     "lateral part of substantia nigra",
@@ -17,4 +20,3 @@
     "substantia nigra, lateral part"
   ]
 }
-

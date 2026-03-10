@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "'Macroglial cells' are large glial cells in the central nervous system.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106438",
-  "knowledgeSpaceLink": null,
   "name": "macroglial cell",
-  "preferredOntologyIdentifier": null,
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106438"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0106438",
   "synonym": null
 }

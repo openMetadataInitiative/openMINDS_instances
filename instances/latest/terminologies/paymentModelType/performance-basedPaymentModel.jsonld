@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/PaymentModelType",
   "definition": "Payment is triggered by achievement of defined outcome units (e.g., qualified leads, completed projects, conversions, performance targets).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "performance-based payment model",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

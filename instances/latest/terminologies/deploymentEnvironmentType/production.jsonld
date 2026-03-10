@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/DeploymentEnvironmentType",
   "definition": "The live environment where an application is fully deployed and accessed by end users; it requires high stability, performance, and monitoring.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "production",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "prod",

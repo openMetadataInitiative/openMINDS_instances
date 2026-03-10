@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cochlear nucleus. Is part of the ventral cochlear nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002830) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100778",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002830#anteroventral-cochlear-nucleus-1",
   "name": "anteroventral cochlear nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100778"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002830#anteroventral-cochlear-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002830",
   "synonym": [
     "anterior part of anterior cochlear nucleus",
@@ -16,4 +19,3 @@
     "nucleus magnocellularis"
   ]
 }
-

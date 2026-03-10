@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebral hemisphere gray matter and nuclear complex of neuraxis. Is part of the septum of telencephalon and the basal forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002663) ('is_a' and 'relationship')]",
   "description": "Collection of nerve cells in the medial forebrain lying generally in front of the anterior commissure (Maryann Martone). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002663)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110508",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002663#septal-nuclear-complex-1",
   "name": "septal nuclear complex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0110508"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002663#septal-nuclear-complex-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002663",
   "synonym": [
     "parolfactory nuclei",
@@ -16,4 +19,3 @@
     "septal nucleus"
   ]
 }
-

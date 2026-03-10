@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medullary reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009775) ('is_a' and 'relationship')]",
   "description": "A nuclear complex of the medullary reticular formation that can be divided into three subnuclei: the parvocellular, magnocellular and the subtrigeminal. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009775)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009775#lateral-medullary-reticular-complex",
   "name": "lateral medullary reticular complex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0009775#lateral-medullary-reticular-complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009775",
   "synonym": [
     "lateral group of medullary reticular formation",
@@ -17,4 +18,3 @@
     "nuclei laterales myelencephali"
   ]
 }
-

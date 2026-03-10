@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a sensory ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000044)]",
   "description": "Sensory ganglia located on the dorsal spinal roots within the vertebral column. The spinal ganglion cells are pseudounipolar. The single primary branch bifurcates sending a peripheral process to carry sensory information from the periphery and a central branch which relays that information to the spinal cord or brain. (MSH) * ganglion found on the posterior root of each spinal nerve, composed of the unipolar nerve cell bodies of the sensory neurons of the nerve. (CSP) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000044)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000044#dorsal-root-ganglion-1",
   "name": "dorsal root ganglion",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0000044#dorsal-root-ganglion-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000044",
   "synonym": [
     "ganglion of dorsal root",
@@ -17,4 +18,3 @@
     "spinal ganglion part of peripheral nervous system"
   ]
 }
-

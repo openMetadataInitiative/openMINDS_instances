@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002788)]",
   "description": "Mostly gray regional part of anterior thalamic region, consisting of the anterior medial, anterior dorsal and anterior lateral thalamic nuclei in primates. In rodents, it consists of anterior medial and anterior ventral divisions, with several subdivisions of each, according to Paxinos (MM: 2006-10-26) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002788)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100718",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002788#anterior-nuclear-group-1",
   "name": "anterior nuclear group",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100718"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002788#anterior-nuclear-group-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002788",
   "synonym": [
     "anterior nuclear group of thalamus",
@@ -23,4 +26,3 @@
     "nuclei thalamicus anterior"
   ]
 }
-

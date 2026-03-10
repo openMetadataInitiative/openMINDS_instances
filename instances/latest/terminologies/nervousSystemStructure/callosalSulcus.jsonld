@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002920)]",
   "description": "The callosal sulcus is a sulcus in the brain between the cingulate gyrus and corpus callosum, below the longitudinal cerebral fissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002920)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002920#callosal-sulcus-1",
   "name": "callosal sulcus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002920#callosal-sulcus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002920",
   "synonym": [
     "sulcus corporis callosi",
     "sulcus of corpus callosum"
   ]
 }
-

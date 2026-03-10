@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "Any neuron that expresses calretinin.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "calretinin expressing neuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "calretinin expressing cell",

@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002768)]",
   "description": "A long process of a CNS neuron, that carries efferent (outgoing) action potentials from the cell body in the vestibular nucleus of the pons towards target cells in the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002768)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002768#vestibulospinal-tract-1",
   "name": "vestibulospinal tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002768#vestibulospinal-tract-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002768",
   "synonym": [
     "vestibulo-spinal tract"
   ]
 }
-

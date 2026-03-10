@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ProjectType",
   "definition": "A science-driven project defined primarily by a coherent research question and systematic investigation aimed at generating new knowledge, methods, or insights, regardless of its funding source.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "research project",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a white matter of limbic lobe and stria of telencephalon. Is part of the supracallosal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022234) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022234#medial-longitudinal-stria",
   "name": "medial longitudinal stria",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0022234#medial-longitudinal-stria",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022234",
   "synonym": [
     "medial longitudinal stria of lancisi",
@@ -17,4 +18,3 @@
     "stria of lancisi"
   ]
 }
-

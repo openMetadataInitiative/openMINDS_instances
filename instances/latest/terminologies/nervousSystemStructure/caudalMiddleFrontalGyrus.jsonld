@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a frontal gyrus. Is part of the middle frontal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006445) ('is_a' and 'relationship')]",
   "description": "Component of the middle frontal gyrus. The rostral boundary of the middle frontal gyrus was the rostral extent of the middle frontal gyrus whereas the caudal boundary was the precentral gyrus. The medial and lateral boundaries were designated as the superior frontal sulcus and the inferior frontal sulcus respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006445)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101718",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006445#caudal-middle-frontal-gyrus-1",
   "name": "caudal middle frontal gyrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101718"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006445#caudal-middle-frontal-gyrus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006445",
   "synonym": [
     "posterior part of middle frontal gyrus"
   ]
 }
-

@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a tract of diencephalon. Is part of the optic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035570) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035570#tectothalamic-tract",
   "name": "tectothalamic tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035570#tectothalamic-tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035570",
   "synonym": [
     "tectothalamic fibers"
   ]
 }
-

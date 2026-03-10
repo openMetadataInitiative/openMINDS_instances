@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002704)]",
   "description": "The metathalamus is a composite structure of the thalamus, consisting of the medial geniculate nucleus and the lateral geniculate nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002704)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106839",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002704#metathalamus-1",
   "name": "metathalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106839"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002704#metathalamus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002704",
   "synonym": [
     "geniculate group of the dorsal thalamus",
@@ -16,4 +19,3 @@
     "nuclei metathalami"
   ]
 }
-

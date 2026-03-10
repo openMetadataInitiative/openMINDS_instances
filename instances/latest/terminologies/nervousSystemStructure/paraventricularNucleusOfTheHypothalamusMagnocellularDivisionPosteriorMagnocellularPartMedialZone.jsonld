@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022783)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108512",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022783#paraventricular-nucleus-of-the-hypothalamus-magnocellular-division-posterior-magnocellular-part-medial-zone-1",
   "name": "paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part medial zone",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108512"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0022783#paraventricular-nucleus-of-the-hypothalamus-magnocellular-division-posterior-magnocellular-part-medial-zone-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022783",
   "synonym": null
 }
-

@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011213)]",
   "description": "A root of cranial nerve that is part of a vagus nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011213)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0731734",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011213#vagus-nerve-root",
   "name": "root of vagus nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0731734"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0011213#vagus-nerve-root",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011213",
   "synonym": [
     "rootlet of vagus nerve",
@@ -17,4 +20,3 @@
     "vagus root"
   ]
 }
-

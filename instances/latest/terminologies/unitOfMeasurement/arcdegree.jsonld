@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "An arcdegree is a measurement of a plane angle in which one full rotation is 360 degrees.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "arcdegree",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000185",
   "synonym": [
     "arc degree",

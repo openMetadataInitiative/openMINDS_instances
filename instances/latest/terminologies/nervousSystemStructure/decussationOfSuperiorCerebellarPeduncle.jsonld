@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neural decussation. Is part of the midbrain tegmentum and the superior cerebellar peduncle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002588) ('is_a' and 'relationship')]",
   "description": "Regional part of superior cerebellar peduncle located in the caudal midbrain, at the level of the inferior colliculus, consisting of a large bundle of fibers crossing the midline. It contains fibers projecting from the deep cerebellar nucleus to the midbrain and thalamus through the superior cerebellar peduncle (MM). The decussation of superior cerebellar peduncle is the portion of the superior cerebellar peduncle which crosses into the midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002588)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102963",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002588#decussation-of-superior-cerebellar-peduncle-1",
   "name": "decussation of superior cerebellar peduncle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0102963"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002588#decussation-of-superior-cerebellar-peduncle-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002588",
   "synonym": [
     "decussatio pedunculorum cerebellarium superiorum",
@@ -18,4 +21,3 @@
     "Wernekink's decussation"
   ]
 }
-

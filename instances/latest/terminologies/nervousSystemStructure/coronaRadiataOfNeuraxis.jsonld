@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebral hemisphere white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004682)]",
   "description": "Fan shaped white matter mass comprised of afferent and efferent fibers from the cerebral cortex arranged in radially arrayed bundles, converging towards the internal capsule (Carpenter, Core Text of Neuroanatomy, 3rd ed, 1985, pg. 30; Heimer, The Human Brain and Spinal Cord, 2nd ed., 1995, pg 84). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004682)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102560",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004682#corona-radiata",
   "name": "corona radiata of neuraxis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0102560"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004682#corona-radiata",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004682",
   "synonym": [
     "corona radiata"
   ]
 }
-

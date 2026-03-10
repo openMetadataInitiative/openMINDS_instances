@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002815)]",
   "description": "Fissure between cerebellar hemispheric lobules VIIA and VIIBi. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002815)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002815#horizontal-fissure-of-cerebellum",
   "name": "horizontal fissure of cerebellum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002815#horizontal-fissure-of-cerebellum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002815",
   "synonym": [
     "fissura horizontalis cerebelli",
@@ -19,4 +20,3 @@
     "intercrural fissure of cerebellum"
   ]
 }
-

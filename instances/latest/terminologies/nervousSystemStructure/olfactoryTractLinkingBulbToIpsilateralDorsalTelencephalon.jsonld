@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an olfactory tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034730)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034730#olfactory-tract-linking-bulb-to-ipsilateral-dorsal-telencephalon",
   "name": "olfactory tract linking bulb to ipsilateral dorsal telencephalon",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034730#olfactory-tract-linking-bulb-to-ipsilateral-dorsal-telencephalon",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034730",
   "synonym": null
 }
-

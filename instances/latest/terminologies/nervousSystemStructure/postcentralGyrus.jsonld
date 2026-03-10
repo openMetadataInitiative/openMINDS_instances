@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gyrus. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002581) ('is_a' and 'relationship')]",
   "description": "Component of the parietal lobe. The appearance and disappearance of the central sulcus were the rostral and caudal boundaries of the postcentral gyrus respectively. The medial and lateral boundaries were the lateral bank of the precentral gyrus and the lateral fissure and/or the medial bank of the superior parietal gyrus respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002581)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109070",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002581#postcentral-gyrus-1",
   "name": "postcentral gyrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109070"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002581#postcentral-gyrus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002581",
   "synonym": [
     "gyrus postcentralis",
@@ -17,4 +20,3 @@
     "postrolandic gyrus"
   ]
 }
-

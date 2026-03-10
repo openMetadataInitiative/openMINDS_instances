@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of medulla oblongata and vagus nerve nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002868)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102405",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002868#commissural-nucleus-of-vagus-nerve-1",
   "name": "commissural nucleus of vagus nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0102405"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002868#commissural-nucleus-of-vagus-nerve-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002868",
   "synonym": [
     "commissural nucleus-1",
@@ -16,4 +19,3 @@
     "nucleus of inferior commisure"
   ]
 }
-

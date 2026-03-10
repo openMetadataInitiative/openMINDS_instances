@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a white matter of cerebellum. Is part of the brainstem and spinal white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000174) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000174#caudal-cerebellar-tract",
   "name": "caudal cerebellar tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2000174#caudal-cerebellar-tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000174",
   "synonym": null
 }
-

@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a root of cranial nerve. Is part of the metencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004674) ('is_a' and 'relationship')]",
   "description": "A nerve root that extends fibers into a facial nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004674)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104076",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004674#facial-nerve-root-1",
   "name": "facial nerve root",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104076"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004674#facial-nerve-root-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004674",
   "synonym": [
     "central part of facial nerve",
@@ -18,4 +21,3 @@
     "root of facial nerve"
   ]
 }
-

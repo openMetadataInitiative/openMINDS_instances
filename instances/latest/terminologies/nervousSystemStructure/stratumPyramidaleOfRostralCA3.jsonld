@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034841) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034841#stratum-pyramidale-of-rostral-ca3",
   "name": "stratum pyramidale of rostral CA3",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034841#stratum-pyramidale-of-rostral-ca3",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034841",
   "synonym": null
 }
-

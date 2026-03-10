@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an axon tract. Is part of the motor system and the corticobulbar and corticospinal tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002707) ('is_a' and 'relationship')]",
   "description": "The corticospinal fibers that arise from the pyramidal cells within the cerebral cortex layer V of the precentral motor area, the premotor area and the postcentral gyrus, then descend into and through the medulla to form the lateral corticospinal tract and the anterior corticospinal tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002707)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109556",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002707#pyramidal-tract",
   "name": "corticospinal tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109556"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002707#pyramidal-tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002707",
   "synonym": [
     "corticospinal fibers",
@@ -21,4 +24,3 @@
     "tractus pyramidalis"
   ]
 }
-

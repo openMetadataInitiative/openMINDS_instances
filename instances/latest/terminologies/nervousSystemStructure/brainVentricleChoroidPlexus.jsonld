@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003947)]",
   "description": "The brain ventricles or their associated choroid plexuses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003947)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0730467",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003947#brain-ventricle-choroid-plexus",
   "name": "brain ventricle/choroid plexus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0730467"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003947#brain-ventricle-choroid-plexus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003947",
   "synonym": null
 }
-

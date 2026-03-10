@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an arachnoid mater and forebrain meninges. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003556)]",
   "description": "An arachnoid mater that is part of a forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003556)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003556#forebrain-arachnoid-mater",
   "name": "forebrain arachnoid mater",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003556#forebrain-arachnoid-mater",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003556",
   "synonym": [
     "arachnoid mater of forebrain",
@@ -18,4 +19,3 @@
     "forebrain arachnoid mater of neuraxis"
   ]
 }
-

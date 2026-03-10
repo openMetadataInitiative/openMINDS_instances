@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "An application programming interface that allows applications to interact with the underlying operating system.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "OS API",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "operating system API"

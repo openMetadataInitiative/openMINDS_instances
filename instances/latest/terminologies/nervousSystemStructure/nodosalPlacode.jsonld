@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an epibranchial placode. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009126)]",
   "description": "Caudalmost epibranchial placode. Associated with 3rd branchial cleft. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009126)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009126#nodosal-placode",
   "name": "nodosal placode",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0009126#nodosal-placode",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009126",
   "synonym": [
     "epibranchial placode 3",
@@ -16,4 +17,3 @@
     "vagal epibranchial placode"
   ]
 }
-

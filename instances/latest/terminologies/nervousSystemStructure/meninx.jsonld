@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the meningeal cluster. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002360)]",
   "description": "Membrane organ that surrounds the brain and the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002360)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002360#meninx-1",
   "name": "meninx",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002360#meninx-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002360",
   "synonym": [
     "layer of meninges",
     "meningeal layer"
   ]
 }
-

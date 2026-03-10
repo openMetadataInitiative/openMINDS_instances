@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006492)]",
   "description": "The segment of the spinal cord that corresponds to the sixth cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006492)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006492#sixth-cervical-spinal-cord-segment",
   "name": "C6 segment of cervical spinal cord",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006492#sixth-cervical-spinal-cord-segment",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006492",
   "synonym": [
     "C6 segment",
@@ -16,4 +17,3 @@
     "sixth cervical spinal cord segment"
   ]
 }
-

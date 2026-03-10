@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the corpus callosum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015599) ('is_a' and 'relationship')]",
   "description": "Part of corpus callosum comprising the kneelike anterior bend (adapted from Nolte, The Human Brain, 6th ed., 2009 pg 664) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015599)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104608",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015599#genu-of-corpus-callosum",
   "name": "genu of corpus callosum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104608"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0015599#genu-of-corpus-callosum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015599",
   "synonym": [
     "corpus callosum genu"
   ]
 }
-

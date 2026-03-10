@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a sulcus of brain. Is part of the subarachnoid space. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008334) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0730861",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008334#subarachnoid-sulcus",
   "name": "subarachnoid sulcus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0730861"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0008334#subarachnoid-sulcus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008334",
   "synonym": null
 }
-

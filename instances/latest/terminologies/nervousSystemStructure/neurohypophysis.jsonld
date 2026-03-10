@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gland of diencephalon and secretory circumventricular organ. Is part of the pituitary gland. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002198) ('is_a' and 'relationship')]",
   "description": "The posterior part of the pituitary gland that secretes hormones involved in blood pressure regulation such as oxytocin and antidiuretic hormon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002198)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107477",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002198#neurohypophysis-1",
   "name": "neurohypophysis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0107477"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002198#neurohypophysis-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002198",
   "synonym": [
     "infundibular process",
@@ -25,4 +28,3 @@
     "posterior pituitary"
   ]
 }
-

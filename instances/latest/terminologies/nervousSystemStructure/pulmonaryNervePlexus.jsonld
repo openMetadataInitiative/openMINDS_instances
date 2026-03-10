@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an autonomic nerve plexus. Is part of the vagus nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002009) ('is_a' and 'relationship')]",
   "description": "The pulmonary plexus is an autonomic plexus formed from pulmonary branches of vagus nerve and the sympathetic trunk that supplies the Bronchial tree. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002009)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002009#pulmonary-nerve-plexus",
   "name": "pulmonary nerve plexus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002009#pulmonary-nerve-plexus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002009",
   "synonym": [
     "plexus pulmonalis",
     "pulmonary plexus"
   ]
 }
-

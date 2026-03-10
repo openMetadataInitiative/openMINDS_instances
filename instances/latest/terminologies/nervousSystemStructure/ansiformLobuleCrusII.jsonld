@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an ansiform lobule and hemisphere part of cerebellar posterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005977)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104942",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005977#ansiform-lobule-crus-ii",
   "name": "ansiform lobule crus II",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104942"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005977#ansiform-lobule-crus-ii",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005977",
   "synonym": [
     "crus II of the ansiform lobule (HVII)",
@@ -24,4 +27,3 @@
     "semilunar lobule-2 (inferior)"
   ]
 }
-

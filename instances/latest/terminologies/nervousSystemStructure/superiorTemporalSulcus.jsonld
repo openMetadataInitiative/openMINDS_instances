@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a temporal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002734)]",
   "description": "The superior temporal sulcus is the sulcus separating the superior temporal gyrus from the middle temporal gyrus in the temporal lobe of the brain. The superior temporal sulcus is the first sulcus inferior to the lateral fissure. It is involved in the perception of where others are gazing and is thus important in determining where others' emotions are being directed. It is also involved in the perception of biological motion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002734)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111329",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002734#superior-temporal-sulcus-1",
   "name": "superior temporal sulcus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111329"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002734#superior-temporal-sulcus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002734",
   "synonym": [
     "parallel sulcus",
@@ -16,4 +19,3 @@
     "superior temporal fissure"
   ]
 }
-

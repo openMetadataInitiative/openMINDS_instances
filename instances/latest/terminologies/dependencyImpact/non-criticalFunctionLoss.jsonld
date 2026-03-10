@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/DependencyImpact",
   "definition": "Secondary or optional features of a thing stop working while core functions continue if the thing it depends on is unavailable.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "non-critical function loss",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

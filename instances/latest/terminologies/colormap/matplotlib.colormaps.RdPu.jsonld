@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'RdPu' is a sequential colormap of the Python plotting library Matplotlib.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "matplotlib.colormaps.RdPu",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "RdPu"

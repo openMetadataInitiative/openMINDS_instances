@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum vermis lobule. Is part of the cerebellum vermis culmen. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004079) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004079#cerebellum-vermis-lobule-v",
   "name": "cerebellum vermis lobule V",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004079#cerebellum-vermis-lobule-v",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004079",
   "synonym": [
     "lobule V",
@@ -17,4 +18,3 @@
     "vermic lobule V"
   ]
 }
-

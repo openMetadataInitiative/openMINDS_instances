@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ProgrammingLanguage",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Java",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q251",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q251",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

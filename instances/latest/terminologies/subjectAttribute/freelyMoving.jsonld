@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SubjectAttribute",
   "definition": "An organism that can move easily, without any obstacles or resistance.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "freely moving",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

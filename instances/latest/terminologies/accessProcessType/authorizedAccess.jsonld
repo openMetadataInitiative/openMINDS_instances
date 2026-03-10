@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AccessProcessType",
   "definition": "Access granted following an explicit authorisation decision based on assessment of the access request and, where applicable, acceptance or negotiation of relevant usage conditions.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "authorized access",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a hypothalamic nucleus and preoptic nucleus. Is part of the medial zone of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002034) ('is_a' and 'relationship')]",
   "description": "* An ovoid densely packed collection of small cells of the anterior hypothalamus lying close to the midline in a shallow impression of the optic chiasm. (MSH) * small group of nerve cell bodies in the supraoptic region of the hypothalamus, just above the optic chiasm; influences rhythmic aspects of hypothalamic functions in many vertebrate species. (CSP) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002034)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111341",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002034#suprachiasmatic-nucleus-1",
   "name": "suprachiasmatic nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111341"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002034#suprachiasmatic-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002034",
   "synonym": [
     "suprachiasmatic nucleus of hypothalamus"
   ]
 }
-

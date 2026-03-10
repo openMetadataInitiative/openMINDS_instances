@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a root of lumbar spinal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026006)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0026006#dorsal-nerve-root-of-lumbar-spinal-cord-1",
   "name": "dorsal nerve root of lumbar spinal cord",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0026006#dorsal-nerve-root-of-lumbar-spinal-cord-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026006",
   "synonym": null
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AgeReference",
   "definition": "Age reference point characterized by the onset of the most recent menstrual bleeding cycle prior to conception, used clinically as a proxy reference for estimating gestational age.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "first day of the last menstrual period",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "start of last menstrual cycle",

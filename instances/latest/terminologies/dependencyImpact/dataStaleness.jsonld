@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/DependencyImpact",
   "definition": "A thing must rely on cached or outdated data because fresh data cannot be retrieved if the thing it depends on is unavailable.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "data staleness",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

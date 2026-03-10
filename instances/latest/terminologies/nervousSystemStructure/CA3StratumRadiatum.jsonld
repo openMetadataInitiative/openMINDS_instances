@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of CA3 field. Is part of the hippocampus stratum radiatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014556) ('is_a' and 'relationship')]",
   "description": "Part of stratum radiatum in area CA3, lying superficial to the stratum lucidum and deep to CA3 stratum lacunosum-moleculare. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014556)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101542",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014556#ca3-stratum-radiatum-1",
   "name": "CA3 stratum radiatum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101542"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014556#ca3-stratum-radiatum-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014556",
   "synonym": [
     "CA3 part of stratum radiatum",
@@ -16,4 +19,3 @@
     "stratum radiatum of the CA3 field"
   ]
 }
-

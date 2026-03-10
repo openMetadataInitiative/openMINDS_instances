@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a functional part of brain. Is part of the primary somatosensory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010415) ('is_a' and 'relationship')]",
   "description": "One of the discrete functional units of the somatosensory cortex that processes tactile information derived from the vibrissae. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010415)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101097",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010415#barrel-cortex",
   "name": "barrel cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101097"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0010415#barrel-cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010415",
   "synonym": null
 }
-

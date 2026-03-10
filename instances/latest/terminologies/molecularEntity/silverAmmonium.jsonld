@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Silver ammonium is an inorganic compound with chemical formula AgNH4.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Silver ammonium",
-  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/57440423",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://pubchem.ncbi.nlm.nih.gov/compound/57440423",
+  "preferredOntologyIdentifier": null,
   "synonym": []
 }

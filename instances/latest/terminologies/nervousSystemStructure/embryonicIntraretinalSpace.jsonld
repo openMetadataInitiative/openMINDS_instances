@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an anatomical entity. Is part of the retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006253) ('is_a' and 'relationship')]",
   "description": "The space separating the outer pigment epithelium and the inner neural retina of the optic cup and of the retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006253)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006253#embryonic-intraretinal-space",
   "name": "embryonic intraretinal space",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006253#embryonic-intraretinal-space",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006253",
   "synonym": [
     "intraretinal space",
@@ -17,4 +18,3 @@
     "retina intraretinal space"
   ]
 }
-

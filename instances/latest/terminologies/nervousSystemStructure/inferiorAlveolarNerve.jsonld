@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve of head region. Is part of the lingual nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018405) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018405#inferior-alveolar-nerve",
   "name": "inferior alveolar nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0018405#inferior-alveolar-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018405",
   "synonym": [
     "inferior dental nerve"
   ]
 }
-

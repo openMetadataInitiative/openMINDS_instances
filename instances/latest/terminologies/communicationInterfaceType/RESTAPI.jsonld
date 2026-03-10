@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "An application programming interface that conforms to the representational state transfer (REST) architectural style, typically using the HTTP(S) protocol with JSON or XML documents.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "REST API",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "RESTful API",

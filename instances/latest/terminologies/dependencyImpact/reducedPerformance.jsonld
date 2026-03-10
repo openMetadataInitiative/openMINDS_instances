@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/DependencyImpact",
   "definition": "A thing remains functional but responds more slowly or with higher latency if the thing it depends on is unavailable.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "reduced performance",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

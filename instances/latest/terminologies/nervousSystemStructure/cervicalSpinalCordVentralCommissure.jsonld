@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a spinal cord ventral commissure. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007836) ('is_a' and 'relationship')]",
   "description": "A spinal cord ventral commissure that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007836)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007836#cervical-spinal-cord-ventral-commissure-1",
   "name": "cervical spinal cord ventral commissure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0007836#cervical-spinal-cord-ventral-commissure-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007836",
   "synonym": [
     "cervical spinal cord anterior commissure"
   ]
 }
-

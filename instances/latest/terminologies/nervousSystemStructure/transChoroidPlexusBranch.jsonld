@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brain blood vessel. Is part of the choroid plexus vascular circuit. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005248) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2005248#trans-choroid-plexus-branch",
   "name": "trans-choroid plexus branch",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2005248#trans-choroid-plexus-branch",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2005248",
   "synonym": [
     "TCB"
   ]
 }
-

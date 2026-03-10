@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013500)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013500#glossopharyngeal-vagus-ix-x-ganglion-complex",
   "name": "glossopharyngeal-vagus IX-X ganglion complex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0013500#glossopharyngeal-vagus-ix-x-ganglion-complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013500",
   "synonym": null
 }
-

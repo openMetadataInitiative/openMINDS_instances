@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus and nucleus of ventral thalamus. Is part of the ventral nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001906) ('is_a' and 'relationship')]",
   "description": "The subthalamic nucleus is the lens-shaped nucleus located in the ventral part of the subthalamus on the inner aspect of the internal capsule that is concerned with the integration of somatic motor function. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001906)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001906#subthalamic-nucleus-1",
   "name": "subthalamic nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001906#subthalamic-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001906",
   "synonym": [
     "body of Forel",
@@ -20,4 +21,3 @@
     "subthalamic nucleus (of Luys)"
   ]
 }
-

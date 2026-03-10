@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SoftwareFeature",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "positional data types",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q1477538",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q1477538",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

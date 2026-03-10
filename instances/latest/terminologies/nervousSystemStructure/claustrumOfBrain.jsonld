@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a basal ganglion and cerebral hemisphere gray matter. Is part of the pallium and the basal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002023) ('is_a' and 'relationship')]",
   "description": "One of the four basal ganglia in each cerebral hemisphere that consists of a thin lamina of gray matter between the lentiform nucleus and the insula. The claustrum, which is suspected to be present in all mammals, is a fairly thin (fraction of 1 mm to multiple mms) vertical curved sheet of subcortical gray matter oriented sagittally between the white matter tracts of the external capsule and extreme capsule. The claustrum is lateral to the putamen and medial to the insular cortex and is considered by some sources to be part of the basal ganglia. There are lateral and medial tracts connecting to many cortices and perhaps to the hippocampus, the amygdala, and the caudate nucleus (connections with subcortical centers are a matter of debate). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002023)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102230",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002023#claustrum",
   "name": "claustrum of brain",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0102230"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002023#claustrum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002023",
   "synonym": [
     "claustrum",
@@ -16,4 +19,3 @@
     "dorsal portion of claustrum"
   ]
 }
-

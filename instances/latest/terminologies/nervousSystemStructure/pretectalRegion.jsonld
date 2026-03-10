@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brain gray matter and nuclear complex of neuraxis. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001944)]",
   "description": "Nuclear complex between dorsal thalamus and optic tectum whose nuclei receive afferents primarily from the retina and the optic tectum and are involved in modulating motor behavior in response to visual input. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001944)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109258",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001944#pretectal-region-1",
   "name": "pretectal region",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109258"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001944#pretectal-region-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001944",
   "synonym": [
     "area pretectalis",
@@ -18,4 +21,3 @@
     "pretectum"
   ]
 }
-

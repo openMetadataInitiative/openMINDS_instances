@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModelScope",
   "definition": "A model of an entire brain",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "network: whole brain",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

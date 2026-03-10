@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'Pastel2' is a qualitative colormap of the Python plotting library Matplotlib.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "matplotlib.colormaps.Pastel2",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "Pastel2"

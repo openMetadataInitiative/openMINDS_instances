@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nervous system lemniscus. Is part of the midbrain tegmentum, the cerebral peduncle and the medial lemniscus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002658) ('is_a' and 'relationship')]",
   "description": "Part of medial lemniscus located within the midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002658)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106653",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002658#medial-lemniscus-of-midbrain-1",
   "name": "medial lemniscus of midbrain",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106653"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002658#medial-lemniscus-of-midbrain-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002658",
   "synonym": [
     "midbrain medial lemniscus"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/GustatoryStimulusType",
   "definition": "Any chemical compound that tastes bitter.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "bitter substance",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

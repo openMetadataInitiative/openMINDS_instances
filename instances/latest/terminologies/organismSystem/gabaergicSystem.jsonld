@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/OrganismSystem",
   "definition": "The gabaergic system is composed of any molecule, protein, cell, tissue or organ that is related to GABA.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104506",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXANAT:1005024#gabaergic-system",
   "name": "gabaergic system",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104506"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NLXANAT:1005024#gabaergic-system",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0025591",
   "synonym": [
     "GABAergic system"

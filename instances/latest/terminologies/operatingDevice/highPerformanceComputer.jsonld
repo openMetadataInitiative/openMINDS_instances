@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/OperatingDevice",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "high-performance computer",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q121117",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q121117",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

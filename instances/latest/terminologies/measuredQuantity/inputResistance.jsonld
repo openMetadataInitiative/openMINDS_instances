@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/MeasuredQuantity",
   "definition": "Total resistance observed by the amplifier during an electrophysiological recording.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "input resistance",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "access resistance"

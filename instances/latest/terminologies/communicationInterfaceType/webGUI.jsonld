@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
   "definition": "A graphical user interface that runs in a web browser, typically implemented in HTML, Javascript and CSS.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "web GUI",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "web-browser interface",

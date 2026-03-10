@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gray matter layer of superior colliculus and intermediate layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006788)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006788#middle-gray-layer-of-superior-colliculus",
   "name": "middle gray layer of superior colliculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006788#middle-gray-layer-of-superior-colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006788",
   "synonym": [
     "intermediate gray layer",
@@ -22,4 +23,3 @@
     "stratum griseum mediale"
   ]
 }
-

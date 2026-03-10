@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SoftwareFeature",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "raster image data types",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q182270",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q182270",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

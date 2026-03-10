@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the medial geniculate body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002985) ('is_a' and 'relationship')]",
   "description": "Ventral division of medial geniculate body, first described by Morest (1964) in the cat, but found in primate, mouse and rat as well. It begins midway in the posterior third of the medial geniculate in the cat and is prominent anteriorly. The boundary between the dorsal and ventral divisions is demarcated in rat by a thick horizontally oriented axon bundle, the midgeniculate bundle (Webster, 1995, fig 16). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002985)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112323",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002985#ventral-nucleus-of-medial-geniculate-body-1",
   "name": "ventral nucleus of medial geniculate body",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112323"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002985#ventral-nucleus-of-medial-geniculate-body-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002985",
   "synonym": [
     "medial geniculate complex, ventral part",
@@ -23,4 +26,3 @@
     "ventral principal nucleus of medial geniculate body"
   ]
 }
-

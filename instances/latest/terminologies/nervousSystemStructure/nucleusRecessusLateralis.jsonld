@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus recessus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014663)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014663#nucleus-recessus-lateralis",
   "name": "nucleus recessus lateralis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014663#nucleus-recessus-lateralis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014663",
   "synonym": null
 }
-

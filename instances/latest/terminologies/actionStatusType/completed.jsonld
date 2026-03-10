@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ActionStatusType",
   "definition": "An action that has already taken place with a successful outcome.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "completed",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "https://schema.org/CompletedActionStatus",
   "synonym": [
     "completed action status",

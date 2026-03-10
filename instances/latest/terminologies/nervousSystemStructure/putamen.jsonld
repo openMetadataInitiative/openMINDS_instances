@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the cerebral hemisphere and the caudate-putamen. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001874) ('is_a' and 'relationship')]",
   "description": "Subcortical nucleus of telencephalic , which together with the caudate nucleus, forms the striatum. The putamen lies lateral to the internal capsule and medial to the external medullary lamina, and is separated from the caudate nucleus by the fibers of the internal capsule for most of its length, except at its anterior portion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001874)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109549",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001874#putamen-1",
   "name": "putamen",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109549"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001874#putamen-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001874",
   "synonym": [
     "nucleus putamen"
   ]
 }
-

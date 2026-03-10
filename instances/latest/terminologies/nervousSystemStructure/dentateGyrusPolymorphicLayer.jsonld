@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of dentate gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002928)]",
   "description": "A cellular layer of the dentate gyrus enclosed by the granule cell layer. A number of cell types are located in the polymorphic layer but the most prominent is the mossy cell. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002928)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002928#dentate-gyrus-polymorphic-layer-1",
   "name": "dentate gyrus polymorphic layer",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002928#dentate-gyrus-polymorphic-layer-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002928",
   "synonym": null
 }
-

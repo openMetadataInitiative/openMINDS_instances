@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a granular layer of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008830)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008830#inner-granular-layer-of-cerebellar-cortex",
   "name": "cerebellum internal granule cell layer",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0008830#inner-granular-layer-of-cerebellar-cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008830",
   "synonym": [
     "inner granular layer of cerebellar cortex"
   ]
 }
-

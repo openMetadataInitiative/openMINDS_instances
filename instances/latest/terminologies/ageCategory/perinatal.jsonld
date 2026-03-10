@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/AgeCategory",
   "definition": "'Perinatal' categorizes the life cycle stage of an animal or human that starts right before birth and ends right after birth.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0724163",
-  "knowledgeSpaceLink": null,
   "name": "perinatal",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0724163"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012101",
   "synonym": [
     "perinatal stage"

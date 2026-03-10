@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the spinal cord and the ventricular system of central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002291)]",
   "description": "Spinal cord structure that is part of the ventricular system and is filled with cerebral-spinal fluid and runs the length of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002291)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002291#spinal-cord-central-canal",
   "name": "central canal of spinal cord",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002291#spinal-cord-central-canal",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002291",
   "synonym": [
     "canalis centralis",
@@ -17,4 +18,3 @@
     "ventricle of spinal cord"
   ]
 }
-

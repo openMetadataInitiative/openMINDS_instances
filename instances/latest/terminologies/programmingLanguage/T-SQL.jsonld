@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ProgrammingLanguage",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "T-SQL",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q1411245",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q1411245",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

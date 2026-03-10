@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/SupranationalBody",
   "definition": "International non-governmental organization. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q96979217)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "The Mahdi Servants Union",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q96979217",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q96979217",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Khoddam Al-Mahdi",
     "MSU"

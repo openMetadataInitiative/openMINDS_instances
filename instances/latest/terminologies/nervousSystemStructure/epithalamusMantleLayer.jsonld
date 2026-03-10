@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neural tube mantle layer. Is part of the epithalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013159) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013159#epithalamus-mantle-layer",
   "name": "epithalamus mantle layer",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0013159#epithalamus-mantle-layer",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013159",
   "synonym": [
     "mantle layer epithalamus",
     "mantle layer of epithalamus"
   ]
 }
-

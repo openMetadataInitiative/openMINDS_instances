@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum hemisphere lobule and hemisphere part of cerebellar posterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006121)]",
   "description": "The biventer lobule (or biventral lobule) is triangular in shape; its apex points backward, and is joined by the gray band to the pyramid. The lateral border is separated from the inferior semilunar lobule by the postpyramidal fissure. The base is directed forward, and is on a line with the anterior border of the tonsil, and is separated from the flocculus by the postnodular fissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006121)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006121#hemispheric-lobule-viii",
   "name": "hemispheric lobule VIII",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006121#hemispheric-lobule-viii",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006121",
   "synonym": [
     "biventer 1 (HVIII)",
@@ -25,4 +26,3 @@
     "paraflocculus dorsalis"
   ]
 }
-

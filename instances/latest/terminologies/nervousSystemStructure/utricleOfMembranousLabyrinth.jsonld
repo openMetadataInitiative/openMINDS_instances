@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an otolith organ. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001853)]",
   "description": "The larger of the two otolith organs in the vestibule. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001853)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001853#utricle-of-membranous-labyrinth",
   "name": "utricle of membranous labyrinth",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001853#utricle-of-membranous-labyrinth",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001853",
   "synonym": [
     "membranous labyrinth utricle",
@@ -17,4 +18,3 @@
     "utriculus (labyrinthus vestibularis)"
   ]
 }
-

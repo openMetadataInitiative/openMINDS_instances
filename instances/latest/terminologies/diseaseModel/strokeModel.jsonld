@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/DiseaseModel",
   "definition": "An animal or cell displaying all or some of the pathological processes that are observed during stroke in humans or animals.",
   "description": "A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event. A model of stroke displays some or all of the pathological processes that are observed during stroke in humans or animals.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "stroke model",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "cerebral infaction model",

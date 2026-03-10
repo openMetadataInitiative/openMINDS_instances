@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cortex of cerebral lobe. Is part of the occipital lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016540) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107880",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016540#occipital-cortex",
   "name": "occipital cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0107880"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0016540#occipital-cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016540",
   "synonym": [
     "cortex of occipital lobe",
@@ -16,4 +19,3 @@
     "occipital neocortex"
   ]
 }
-

@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of retina. Is part of the photoreceptor layer of retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003925) ('is_a' and 'relationship')]",
   "description": "Layer of the retina composed of the inner segments of the photoreceptor cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003925)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003925#photoreceptor-inner-segment-layer",
   "name": "photoreceptor inner segment layer",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003925#photoreceptor-inner-segment-layer",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003925",
   "synonym": [
     "retina photoreceptor layer inner segment"
   ]
 }
-

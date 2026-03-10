@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a trigeminal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009907)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009907#sensory-root-of-trigeminal-nerve",
   "name": "sensory root of trigeminal nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0009907#sensory-root-of-trigeminal-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009907",
   "synonym": [
     "radix sensoria (nervus trigeminus [v])",
     "radix sensoria nervus trigemini"
   ]
 }
-

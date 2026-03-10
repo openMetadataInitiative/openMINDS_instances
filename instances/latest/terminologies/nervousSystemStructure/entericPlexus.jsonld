@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an autonomic nerve plexus. Is part of the enteric nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000429) ('is_a' and 'relationship')]",
   "description": "A plexus of autonomic nerve fibers within the wall of the digestive tube, and made up of the submucosal, myenteric, and subserosal plexuses; it contains visceral afferent fibers, sympathetic postganglionic fibers, parasympathetic preganglionic and postganglionic fibers, and parasympathetic postganglionic cell bodies. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000429)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000429#enteric-plexus",
   "name": "enteric plexus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0000429#enteric-plexus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000429",
   "synonym": [
     "enteric nerve plexus",
@@ -18,4 +19,3 @@
     "sympathetic enteric nerve plexus"
   ]
 }
-

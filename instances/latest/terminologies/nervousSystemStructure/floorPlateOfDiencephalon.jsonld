@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003309) ('is_a' and 'relationship')]",
   "description": "A floor plate that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003309)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003309#floor-plate-of-diencephalon",
   "name": "floor plate of diencephalon",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003309#floor-plate-of-diencephalon",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003309",
   "synonym": [
     "between brain floor plate",
@@ -31,4 +32,3 @@
     "mature diencephalon floorplate"
   ]
 }
-

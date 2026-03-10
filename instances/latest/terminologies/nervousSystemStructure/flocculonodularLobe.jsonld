@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum lobe. Is part of the vestibulocerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003012) ('is_a' and 'relationship')]",
   "description": "The flocculonodular lobe is a lobe of the cerebellum consisting of the nodule and the flocculus. It is closely associated with the vestibulocerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003012)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104286",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003012#flocculonodular-lobe-1",
   "name": "flocculonodular lobe",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104286"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003012#flocculonodular-lobe-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003012",
   "synonym": [
     "cerebellum flocculonodular lobe",
@@ -17,4 +20,3 @@
     "posterior lobe-2 of cerebellum"
   ]
 }
-

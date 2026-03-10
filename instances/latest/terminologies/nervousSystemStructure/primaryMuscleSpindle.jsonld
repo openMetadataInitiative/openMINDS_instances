@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a muscle spindle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004010)]",
   "description": "The sensory organ in muscle; involved in the stretch reflex and sensitive to stretch velocity. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004010)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004010#primary-muscle-spindle",
   "name": "primary muscle spindle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004010#primary-muscle-spindle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004010",
   "synonym": null
 }
-

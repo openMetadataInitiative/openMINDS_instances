@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/PaymentModelType",
   "definition": "No payment is required for any billable units (entitlement, consumption, event, monetary value, outcome, or capacity units).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "zero-cost payment model",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

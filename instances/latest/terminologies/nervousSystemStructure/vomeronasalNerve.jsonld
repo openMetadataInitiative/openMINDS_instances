@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009121)]",
   "description": "Nerve carrying fibers from the vomeronasal organ epithelium to the accessory olfactory bulb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009121)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009121#vomeronasal-nerve",
   "name": "vomeronasal nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0009121#vomeronasal-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009121",
   "synonym": null
 }
-

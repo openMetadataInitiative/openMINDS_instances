@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the caudal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034808) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034808#stratum-lacunosum-moleculare-of-caudal-ca3",
   "name": "stratum lacunosum-moleculare of caudal CA3",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034808#stratum-lacunosum-moleculare-of-caudal-ca3",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034808",
   "synonym": null
 }
-

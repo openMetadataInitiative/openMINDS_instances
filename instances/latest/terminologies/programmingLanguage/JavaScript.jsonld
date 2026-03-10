@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ProgrammingLanguage",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "JavaScript",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q2005",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q2005",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

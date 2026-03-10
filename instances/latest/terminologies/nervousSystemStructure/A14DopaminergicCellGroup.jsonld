@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036001)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036001#a14-dopaminergic-cell-group",
   "name": "A14 dopaminergic cell group",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0036001#a14-dopaminergic-cell-group",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036001",
   "synonym": null
 }
-

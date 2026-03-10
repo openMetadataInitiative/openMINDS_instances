@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005394)]",
   "description": "Layer of neocortex lying deep to the internal granule cell layer (layer 4) defined cytoarchitecturally by the predominance of large pyramidal cell bodies. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005394)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107371",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005394#cortical-layer-v",
   "name": "cortical layer V",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0107371"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005394#cortical-layer-v",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005394",
   "synonym": [
     "betz' cells",
@@ -26,4 +29,3 @@
     "neocortical layer V"
   ]
 }
-

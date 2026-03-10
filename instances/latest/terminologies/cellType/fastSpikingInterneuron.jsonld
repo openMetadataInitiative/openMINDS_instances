@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "A parvalbumin positive GABAergic interneuron with a high-frequency firing pattern.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "fast spiking interneuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "FSI"
