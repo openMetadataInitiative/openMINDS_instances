@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainHindbrainBoundary",
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/midbrain-hindbrainBoundary",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003052)]",
   "description": "The part of the brain that is the morphological boundary between the midbrain and hindbrain and that is the location of an organizing center which patterns the midbrain and hindbrain primordia of the neural plate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003052)]",
