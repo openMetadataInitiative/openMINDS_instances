@@ -2,11 +2,11 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/dataProcessing",
+  "@id": "https://openminds.om-i.org/instances/contributionType/communication",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by transforming, cleaning, structuring, or otherwise operationally modifying existing data.",
+  "definition": "A contribution type of a role-bearing entity realized by communicating information about a target entity to relevant audiences.",
   "description": null,
-  "name": "data processing",
+  "name": "communication",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,
   "preferredCrossReference": null,

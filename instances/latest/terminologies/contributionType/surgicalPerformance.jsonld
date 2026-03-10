@@ -2,11 +2,11 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/dataProcessing",
+  "@id": "https://openminds.om-i.org/instances/contributionType/surgicalPerformance",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by transforming, cleaning, structuring, or otherwise operationally modifying existing data.",
+  "definition": "A contribution type of a role-bearing entity realized by performing surgical procedures on a living organism.",
   "description": null,
-  "name": "data processing",
+  "name": "surgical performance",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,
   "preferredCrossReference": null,

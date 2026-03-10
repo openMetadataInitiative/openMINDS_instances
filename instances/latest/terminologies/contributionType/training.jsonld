@@ -2,11 +2,11 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/dataProcessing",
+  "@id": "https://openminds.om-i.org/instances/contributionType/training",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by transforming, cleaning, structuring, or otherwise operationally modifying existing data.",
+  "definition": "A contribution type of a role-bearing entity realized by instructing or conditioning a target entity to acquire practical skills, behaviors, or operational knowledge.",
   "description": null,
-  "name": "data processing",
+  "name": "training",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,
   "preferredCrossReference": null,

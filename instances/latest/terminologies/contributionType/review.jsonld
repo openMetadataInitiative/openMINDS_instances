@@ -2,11 +2,11 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/dataProcessing",
+  "@id": "https://openminds.om-i.org/instances/contributionType/review",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by transforming, cleaning, structuring, or otherwise operationally modifying existing data.",
+  "definition": "A contribution type of a role-bearing entity realized by critically assessing a target entity through expert judgment to evaluate its quality, validity, or suitability.",
   "description": null,
-  "name": "data processing",
+  "name": "review",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,
   "preferredCrossReference": null,
