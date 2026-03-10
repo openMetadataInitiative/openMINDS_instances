@@ -14,7 +14,7 @@
   "copyright": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "Julich-Brain Cytoarchitectonic Atlas",
   "funding": null,
   "hasTerminology": {
@@ -265,7 +265,6 @@
   "keyword": null,
   "majorVersionIdentifier": "v1.13",
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": null,
   "repository": null,
@@ -283,5 +282,5 @@
   ],
   "usedSpecimen": null,
   "versionIdentifier": "v1.13, Colin27",
-  "versionInnovation": "This is the first release of the Julich-Brain Atlas using the common coordinate space Colin27 (1998)."
+  "versionSpecification": "This is the first release of the Julich-Brain Atlas using the common coordinate space Colin27 (1998)."
 }

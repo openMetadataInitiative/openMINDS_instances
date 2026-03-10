@@ -12,7 +12,7 @@
   "copyright": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "Brodmann Cortical Parcellation Scheme (human)",
   "funding": null,
   "hasTerminology": {
@@ -185,7 +185,6 @@
   "keyword": null,
   "majorVersionIdentifier": null,
   "ontologyIdentifier": "http://uri.interlex.org/base/ilx_0101468",
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": null,
   "repository": null,
@@ -197,5 +196,5 @@
   "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "1909",
-  "versionInnovation": "This is the second released version of the human Brodmann cortical parcellation scheme."
+  "versionSpecification": "This is the second released version of the human Brodmann cortical parcellation scheme."
 }

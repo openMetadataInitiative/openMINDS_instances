@@ -14,7 +14,7 @@
   "copyright": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": {
+  "documentation": {
     "@id": "https://www.marmosetbrain.org/nencki_monash_template"
   },
   "fullName": "Marmoset Nencki-Monash Probabilistic Cytoarchitectonic Brain Atlas",
@@ -384,7 +384,6 @@
   "keyword": null,
   "majorVersionIdentifier": null,
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": [
     {
       "@id": "https://doi.org/10.1016/j.neuroimage.2020.117625"
@@ -406,5 +405,5 @@
   ],
   "usedSpecimen": null,
   "versionIdentifier": "v1",
-  "versionInnovation": "This is the first version of this atlas."
+  "versionSpecification": "This is the first version of this atlas."
 }

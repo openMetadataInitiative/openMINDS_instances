@@ -14,7 +14,7 @@
   "copyright": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": {
+  "documentation": {
     "@id": "https://doi.org/10.1016/j.neuroimage.2014.10.017"
   },
   "fullName": "Waxholm Space Atlas of the Sprague Dawley Rat Brain",
@@ -264,7 +264,6 @@
   "keyword": null,
   "majorVersionIdentifier": null,
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": [
     {
       "@id": "https://doi.org/10.1016/j.neuroimage.2014.04.001"
@@ -287,5 +286,5 @@
   ],
   "usedSpecimen": null,
   "versionIdentifier": "v1.01",
-  "versionInnovation": "Anatomical delineations of 76 major brain regions and white matter tracts in the Sprague Dawley rat brain, based on observations in a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v1.01.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v1.label: text file naming the anatomical structures; MBAT_WHS_SD_rat_atlas_v1.01.zip: files describing a suggested hierarchical organization of the anatomical structures. Note: The licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021."
+  "versionSpecification": "Anatomical delineations of 76 major brain regions and white matter tracts in the Sprague Dawley rat brain, based on observations in a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v1.01.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v1.label: text file naming the anatomical structures; MBAT_WHS_SD_rat_atlas_v1.01.zip: files describing a suggested hierarchical organization of the anatomical structures. Note: The licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021."
 }

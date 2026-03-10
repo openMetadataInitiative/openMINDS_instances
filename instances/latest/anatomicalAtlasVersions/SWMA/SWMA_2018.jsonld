@@ -14,7 +14,7 @@
   "copyright": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "Atlas of Superficial White Matter Fibre Bundles",
   "funding": null,
   "hasTerminology": {
@@ -229,7 +229,6 @@
   "keyword": null,
   "majorVersionIdentifier": null,
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": null,
   "repository": null,
@@ -243,5 +242,5 @@
   ],
   "usedSpecimen": null,
   "versionIdentifier": "2018",
-  "versionInnovation": "This is the first released version of this brain atlas."
+  "versionSpecification": "This is the first released version of this brain atlas."
 }

@@ -14,7 +14,7 @@
   "defaultImage": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "MNI Colin27 Average Brain Stereotaxic Registration Model",
   "funding": null,
   "homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases",
@@ -33,7 +33,6 @@
     "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
   },
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": "2006-08-01",
   "repository": null,
@@ -42,5 +41,5 @@
   "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "2008",
-  "versionInnovation": null
+  "versionSpecification": null
 }

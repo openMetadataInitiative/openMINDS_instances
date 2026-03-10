@@ -14,7 +14,7 @@
   "copyright": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "Allen Mouse Brain Atlas",
   "funding": null,
   "hasTerminology": {
@@ -4015,7 +4015,6 @@
   "keyword": null,
   "majorVersionIdentifier": null,
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": null,
   "repository": null,
@@ -4027,5 +4026,5 @@
   "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "CCFv3, 2017",
-  "versionInnovation": null
+  "versionSpecification": null
 }

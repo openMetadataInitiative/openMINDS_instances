@@ -16,7 +16,7 @@
   "defaultImage": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "Waxholm Space of the Sprague Dawley Rat Brain (coordinate space)",
   "funding": null,
   "homepage": "https://www.nitrc.org/projects/whs-sd-atlas",
@@ -31,7 +31,6 @@
     "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/micrometer"
   },
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": "2014-07-16",
   "repository": null,
@@ -40,5 +39,5 @@
   "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "v1",
-  "versionInnovation": null
+  "versionSpecification": null
 }

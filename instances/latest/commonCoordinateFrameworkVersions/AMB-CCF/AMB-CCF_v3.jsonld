@@ -29,7 +29,7 @@
   "defaultImage": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "Allen Mouse Brain Common Coordinate Framework",
   "funding": null,
   "homepage": "https://portal.brain-map.org/",
@@ -50,7 +50,6 @@
     "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/micrometer"
   },
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": "2015-05-01",
   "repository": null,
@@ -59,5 +58,5 @@
   "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "v3",
-  "versionInnovation": "The third version of the 'Allen Mouse Brain Common Coordinate Framework' (CCFv3) is a 3D reconstruction of a whole brain at 10µm resolution."
+  "versionSpecification": "The third version of the 'Allen Mouse Brain Common Coordinate Framework' (CCFv3) is a 3D reconstruction of a whole brain at 10µm resolution."
 }

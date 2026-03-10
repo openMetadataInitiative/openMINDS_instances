@@ -14,7 +14,7 @@
   "defaultImage": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "MNI ICBM152 Average Brain Stereotaxic Registration Model",
   "funding": null,
   "homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152lin",
@@ -29,7 +29,6 @@
     "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
   },
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": "2009-07-01",
   "repository": null,
@@ -38,5 +37,5 @@
   "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "2001 linear symmetric",
-  "versionInnovation": null
+  "versionSpecification": null
 }

@@ -29,7 +29,7 @@
   "defaultImage": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "MEBRAINS population-based monkey brain template",
   "funding": null,
   "homepage": null,
@@ -44,7 +44,6 @@
     "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/micrometer"
   },
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": null,
   "repository": null,
@@ -53,5 +52,5 @@
   "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "v1.0",
-  "versionInnovation": "The first version of the 'MEBRAINS population-based monkey brain template' (v1.0) is a population average brain of T1- and T2-weighted MRI scans from 10 macaque brains. In addition, 9 CT scans of the same monkeys (one missing) are registered to the T1 modality and co-registered to the population average."
+  "versionSpecification": "The first version of the 'MEBRAINS population-based monkey brain template' (v1.0) is a population average brain of T1- and T2-weighted MRI scans from 10 macaque brains. In addition, 9 CT scans of the same monkeys (one missing) are registered to the T1 modality and co-registered to the population average."
 }

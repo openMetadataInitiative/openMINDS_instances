@@ -14,7 +14,7 @@
   "copyright": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "Julich-Brain Cytoarchitectonic Atlas",
   "funding": null,
   "hasTerminology": {
@@ -598,7 +598,6 @@
   "keyword": null,
   "majorVersionIdentifier": "v3.0",
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": null,
   "repository": null,
@@ -616,5 +615,5 @@
   ],
   "usedSpecimen": null,
   "versionIdentifier": "v3.0, Colin27",
-  "versionInnovation": null
+  "versionSpecification": null
 }

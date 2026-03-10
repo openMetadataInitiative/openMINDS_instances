@@ -12,7 +12,7 @@
   "copyright": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "Schaefer Atlas with 400 Parcellation",
   "funding": null,
   "hasTerminology": {
@@ -31,7 +31,6 @@
   "keyword": null,
   "majorVersionIdentifier": "2018",
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": null,
   "repository": null,
@@ -47,5 +46,5 @@
   ],
   "usedSpecimen": null,
   "versionIdentifier": "2018, FSL-MNI152, yeo7n",
-  "versionInnovation": null
+  "versionSpecification": null
 }

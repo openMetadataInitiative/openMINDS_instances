@@ -12,7 +12,7 @@
   "defaultImage": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "FsAverage Surface Space",
   "funding": null,
   "homepage": null,
@@ -27,7 +27,6 @@
     "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
   },
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": null,
   "repository": null,
@@ -36,5 +35,5 @@
   "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "6",
-  "versionInnovation": "This FsAverage Surface Space version has about 41k vertices per hemisphere."
+  "versionSpecification": "This FsAverage Surface Space version has about 41k vertices per hemisphere."
 }

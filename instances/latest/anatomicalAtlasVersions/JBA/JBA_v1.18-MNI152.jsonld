@@ -14,7 +14,7 @@
   "copyright": null,
   "description": null,
   "digitalIdentifier": null,
-  "fullDocumentation": null,
+  "documentation": null,
   "fullName": "Julich-Brain Cytoarchitectonic Atlas",
   "funding": null,
   "hasTerminology": {
@@ -356,7 +356,6 @@
   "keyword": null,
   "majorVersionIdentifier": "v1.18",
   "ontologyIdentifier": null,
-  "otherContribution": null,
   "relatedPublication": null,
   "releaseDate": null,
   "repository": null,
@@ -374,5 +373,5 @@
   ],
   "usedSpecimen": null,
   "versionIdentifier": "v1.18, MNI152",
-  "versionInnovation": "This is the first release of the Julich-Brain Atlas using the common coordinate space MNI ICBM152 (2009c Nonlinear Asymmetric)."
+  "versionSpecification": "This is the first release of the Julich-Brain Atlas using the common coordinate space MNI ICBM152 (2009c Nonlinear Asymmetric)."
 }
