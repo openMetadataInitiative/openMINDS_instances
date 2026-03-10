@@ -7,6 +7,9 @@
   "definition": "A contribution type of a role-bearing entity realized by administrating organizational, operational, or procedural aspects related to a target entity.",
   "description": null,
   "name": "administration",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
