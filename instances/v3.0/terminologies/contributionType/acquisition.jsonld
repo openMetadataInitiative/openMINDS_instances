@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/acquisition",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by acquiring or obtaining an existing target entity or resources required for its use.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "acquisition",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

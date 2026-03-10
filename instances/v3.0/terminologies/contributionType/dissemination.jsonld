@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/dissemination",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by distributing or publishing a target entity to make it accessible to relevant professional or specialist communities.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dissemination",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

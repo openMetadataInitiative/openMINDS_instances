@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/implementation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by putting a specified design, plan, method, or specification into effect through or within a target entity.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "implementation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

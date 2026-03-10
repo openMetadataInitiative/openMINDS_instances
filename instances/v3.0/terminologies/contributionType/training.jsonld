@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/training",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by instructing or conditioning a target entity to acquire practical skills, behaviors, or operational knowledge.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "training",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

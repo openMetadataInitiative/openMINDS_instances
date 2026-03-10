@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/dataProcessing",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by transforming, cleaning, structuring, or otherwise operationally modifying existing data.",
+  "definition": "A contribution type of a role-bearing entity realized by handling, cleaning, transforming, or preparing data for subsequent analysis or use.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
