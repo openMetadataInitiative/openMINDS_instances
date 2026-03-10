@@ -2,14 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/outreach",
+  "@id": "https://openminds.om-i.org/instances/contributionType/dataManagement",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by communicating information about a target entity to non-specialist or stakeholder audiences.",
+  "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "outreach",
+  "name": "data management",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
-

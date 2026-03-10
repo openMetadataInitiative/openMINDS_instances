@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/studyDesign",
+  "@id": "https://openminds.om-i.org/instances/contributionType/dataCollection",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by planning and defining the objectives, structure, and methodological framework of a study.",
+  "definition": "A contribution type of a role-bearing entity realized by systematically acquiring or generating data.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "study design",
+  "name": "data collection",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

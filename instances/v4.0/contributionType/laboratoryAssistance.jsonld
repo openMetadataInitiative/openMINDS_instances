@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/maintenance",
+  "@id": "https://openminds.om-i.org/instances/contributionType/laboratoryAssistance",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by performing corrective, adaptive, or preventive upkeep of a target entity.",
+  "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "maintenance",
+  "name": "laboratory assistance",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

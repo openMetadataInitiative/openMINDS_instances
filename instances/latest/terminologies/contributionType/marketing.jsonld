@@ -2,14 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/surgicalPerformance",
+  "@id": "https://openminds.om-i.org/instances/contributionType/marketing",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by performing operative procedures for clinical or research purposes.",
+  "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "surgical performance",
+  "name": "marketing",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
-

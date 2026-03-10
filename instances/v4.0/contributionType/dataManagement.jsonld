@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/veterinaryCare",
+  "@id": "https://openminds.om-i.org/instances/contributionType/dataManagement",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by providing clinical oversight, diagnosis, and medical treatment for animals.",
+  "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "veterinary care",
+  "name": "data management",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

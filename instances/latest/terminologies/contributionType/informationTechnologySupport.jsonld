@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/animalTraining",
+  "@id": "https://openminds.om-i.org/instances/contributionType/informationTechnologySupport",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by conditioning research animals.",
+  "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "animal training",
+  "name": "information technology support",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
