@@ -1,6 +1,6 @@
 {
   "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.om-i.org/props/"
   },
   "@id": "https://openminds.ebrains.eu/instances/contributionType/communication",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
