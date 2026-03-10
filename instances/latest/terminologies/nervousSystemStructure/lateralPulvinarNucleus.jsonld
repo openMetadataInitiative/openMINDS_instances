@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. Is part of the pulvinar nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002636) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106099",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002636#lateral-pulvinar-nucleus-1",
   "name": "lateral pulvinar nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106099"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002636#lateral-pulvinar-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002636",
   "synonym": [
     "lateral pulvinar nucleus of thalamus",
@@ -18,4 +21,3 @@
     "nucleus pulvinaris thalami, pars lateralis"
   ]
 }
-

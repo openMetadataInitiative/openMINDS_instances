@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a prevertebral ganglion. Is part of the mesenteric plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035769) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035769#mesenteric-ganglion",
   "name": "mesenteric ganglion",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035769#mesenteric-ganglion",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035769",
   "synonym": null
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/DependencyImpact",
   "definition": "A thing switches to an intentionally designed degraded or alternate operating mode if the thing it depends on is unavailable.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "fallback mode activation",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

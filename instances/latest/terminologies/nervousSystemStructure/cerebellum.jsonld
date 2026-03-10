@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the metencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002037) ('is_a' and 'relationship')]",
   "description": "Part of the metencephalon that lies in the posterior cranial fossa behind the brain stem. It is concerned with the coordination of movement. A large dorsally projecting part of the brain concerned especially with the coordination of muscles and the maintenance of bodily equilibrium, situated between the brain stem and the back of the cerebrum , and formed in humans of two lateral lobes and a median lobe. Brain structure derived from the anterior hindbrain, and perhaps including posterior midbrain. The cerebellum plays a role in somatic motor function, the control of muscle tone, and balance. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002037)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101963",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002037#cerebellum-1",
   "name": "cerebellum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101963"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002037#cerebellum-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002037",
   "synonym": [
     "epencephalon-1"
   ]
 }
-

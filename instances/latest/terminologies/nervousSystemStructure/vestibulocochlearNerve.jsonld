@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001648)]",
   "description": "Cranial nerve that transmits sound and equilibrium (balance) information from the inner ear to the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001648)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001648#vestibulocochlear-nerve-1",
   "name": "vestibulocochlear nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001648#vestibulocochlear-nerve-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001648",
   "synonym": [
     "acoustic nerve",
@@ -28,4 +29,3 @@
     "VIIIth cranial nerve"
   ]
 }
-

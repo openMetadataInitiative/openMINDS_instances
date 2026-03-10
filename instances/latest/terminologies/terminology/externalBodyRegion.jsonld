@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "Terminology defining anatomical regions located on the external surface of an organism’s body.",
   "description": "This terminology includes body surface areas that are externally visible or directly accessible without reference to internal organs or cavities. These regions are typically defined by morphological boundaries used in anatomy, clinical description, or anatomical orientation. Examples include regions of the head, trunk, and limbs. The terms provide a standardized way to reference surface locations across species. They support anatomical localization and mapping of externally observable features.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "external body region",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005390)]",
   "description": "The most superficial layer of the neocortex characterized by a paucity of cell bodies. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005390)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107367",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005390#cortical-layer-i",
   "name": "cortical layer I",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0107367"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005390#cortical-layer-i",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005390",
   "synonym": [
     "cerebral cortex, layer 1",
@@ -25,4 +28,3 @@
     "plexiform layer of neocortex"
   ]
 }
-

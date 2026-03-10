@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023564)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102762",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023564#cytoarchitectural-part-of-dentate-gyrus-1",
   "name": "cytoarchitectural part of dentate gyrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0102762"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0023564#cytoarchitectural-part-of-dentate-gyrus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023564",
   "synonym": null
 }
-

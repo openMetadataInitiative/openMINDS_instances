@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/VascularStructure",
   "definition": "Is part of the retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004864)]",
   "description": "A vasculature that is part of a retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004864)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004864#vasculature-of-retina",
   "name": "vasculature of retina",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004864#vasculature-of-retina",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004864",
   "synonym": [
     "retina vasculature",

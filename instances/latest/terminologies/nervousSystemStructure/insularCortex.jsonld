@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cortex of cerebral lobe. Is part of the insula. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034891) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034891#insular-cortex",
   "name": "insular cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034891#insular-cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034891",
   "synonym": [
     "cortex of insula",
     "insular neocortex"
   ]
 }
-

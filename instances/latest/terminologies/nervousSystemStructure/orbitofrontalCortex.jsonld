@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a frontal gyrus. Is part of the limbic system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004167) ('is_a' and 'relationship')]",
   "description": "The region of the cerebral cortex covering the basal surface of the frontal lobes; this region normally controls emotion and decision making. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004167)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108110",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004167#orbital-frontal-cortex",
   "name": "orbitofrontal cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108110"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004167#orbital-frontal-cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004167",
   "synonym": [
     "fronto-orbital cortex",
@@ -16,4 +19,3 @@
     "orbito-frontal cortex"
   ]
 }
-

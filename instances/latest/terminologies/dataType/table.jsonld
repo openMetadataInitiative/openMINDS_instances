@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/DataType",
   "definition": "A 'table' is an arrangement of elements (scalars, lists and/or matrices) in specified/named rows and columns.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "table",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q496946",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q496946",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "tabular data"
   ]

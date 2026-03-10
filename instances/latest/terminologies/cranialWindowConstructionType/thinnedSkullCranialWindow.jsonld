@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/CranialWindowConstructionType",
   "definition": "A cranial window that is constructed by thinning a small region of the skull.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "thinned skull cranial window",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

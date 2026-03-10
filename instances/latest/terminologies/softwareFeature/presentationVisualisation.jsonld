@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SoftwareFeature",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "presentation visualisation",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q451553",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q451553",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002874)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106093",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002874#lateral-pericuneate-nucleus-1",
   "name": "lateral pericuneate nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106093"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002874#lateral-pericuneate-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002874",
   "synonym": null
 }
-

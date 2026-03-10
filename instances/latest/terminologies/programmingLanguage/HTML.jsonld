@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ProgrammingLanguage",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "HTML",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q8811",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q8811",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

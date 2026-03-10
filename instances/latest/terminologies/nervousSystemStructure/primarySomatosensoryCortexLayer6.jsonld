@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of neocortex. Is part of the primary somatosensory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023859) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109334",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023859#primary-somatosensory-cortex-lamina-vi",
   "name": "primary somatosensory cortex layer 6",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109334"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0023859#primary-somatosensory-cortex-lamina-vi",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023859",
   "synonym": [
     "primary somatosensory cortex lamina VI"
   ]
 }
-

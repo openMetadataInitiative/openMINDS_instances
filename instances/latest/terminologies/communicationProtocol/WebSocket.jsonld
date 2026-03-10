@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
   "definition": "A computer communications protocol, providing a bidirectional communication channel over a single Transmission Control Protocol (TCP) connection.",
   "description": "For more information please go to the [WebSocket documentation](https://www.rfc-editor.org/rfc/rfc6455) provided by the Internet Engineering Task Force (IETF).",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "WebSocket",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q859938",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q859938",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "WebSocket protocol"
   ]

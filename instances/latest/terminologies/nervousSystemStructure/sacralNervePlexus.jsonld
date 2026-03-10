@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a lumbosacral nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034986)]",
   "description": "A nerve plexus which provides motor and sensory nerves for the posterior thigh, most of the lower leg, the entire foot, and part of the pelvis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034986)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034986#sacral-nerve-plexus",
   "name": "sacral nerve plexus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034986#sacral-nerve-plexus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034986",
   "synonym": [
     "plexus sacralis",
     "sacral plexus"
   ]
 }
-

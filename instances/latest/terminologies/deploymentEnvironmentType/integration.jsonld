@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/DeploymentEnvironmentType",
   "definition": "An environment in which multiple components or services are integrated and tested together to ensure interoperability and to detect issues early.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "integration",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "int",

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AgeReference",
   "definition": "An age reference point defined by the complete expulsion or extraction of the developing offspring from the gestational parent, marking the end of gestation and the beginning of postnatal development.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "birth",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "start of postnatal stage",

@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Imaging technique for anatomical and structural details of the vascular system [adapted from [National Library of Medicine](https://www.ncbi.nlm.nih.gov/books/NBK557477/)].",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739420",
-  "knowledgeSpaceLink": null,
   "name": "angiography",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/87",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/87"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739420",
   "synonym": [
     "angiographic technique"
   ]

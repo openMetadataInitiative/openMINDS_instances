@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
   "definition": "A network communication protocol used for exchanging hypermedia documents, primarily between web servers and browsers.",
   "description": "For more information please go to the [HTTP Documentation](https://httpwg.org/specs/).",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "HTTP",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q8777",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q8777",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Hypertext Transfer Protocol"
   ]

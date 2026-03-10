@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a white matter of telencephalon and peduncle of thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022237)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022237#anterior-thalamic-peduncle",
   "name": "anterior thalamic peduncle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0022237#anterior-thalamic-peduncle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022237",
   "synonym": [
     "anterior peduncle",
@@ -18,4 +19,3 @@
     "rostral peduncle of thalamus"
   ]
 }
-

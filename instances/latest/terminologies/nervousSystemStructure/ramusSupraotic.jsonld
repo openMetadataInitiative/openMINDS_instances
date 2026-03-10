@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a middle lateral line nerve (MLLN). [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010796)]",
   "description": "Small ramus of the MLLN that innervates neuromasts located at the posterior margin of the otic capsule. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010796)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010796#ramus-supraotic",
   "name": "ramus supraotic",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:3010796#ramus-supraotic",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010796",
   "synonym": null
 }
-

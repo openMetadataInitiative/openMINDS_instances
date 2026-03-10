@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004684) ('is_a' and 'relationship')]",
   "description": "The raphe nuclei are thin plates of cells in and immediately adjacent to the sagittal plane. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004684)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004684#raphe-nuclei-1",
   "name": "raphe nuclei",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004684#raphe-nuclei-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004684",
   "synonym": [
     "nuclei raphes",
     "raphe nuclei set"
   ]
 }
-

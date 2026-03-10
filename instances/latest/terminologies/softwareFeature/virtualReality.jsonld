@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SoftwareFeature",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "virtual reality",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q170519",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q170519",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

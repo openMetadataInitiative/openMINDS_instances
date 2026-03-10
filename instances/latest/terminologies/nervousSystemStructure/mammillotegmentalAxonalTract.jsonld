@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a tract of diencephalon. Is part of the mammillary axonal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006698) ('is_a' and 'relationship')]",
   "description": "The mammillotegmental tract is the collection of axons that connects the ventral diencephalon to the tegmentum and pons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006698)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006698#mammillotegmental-fasciculus",
   "name": "mammillotegmental axonal tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006698#mammillotegmental-fasciculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006698",
   "synonym": [
     "Gudden tract",
@@ -18,4 +19,3 @@
     "von Gudden's tract"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a lamina of gray matter of spinal cord. Is part of the dorsal horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006118) ('is_a' and 'relationship')]",
   "description": "Cytoarchitectural part of spinal cord gray matter. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006118)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006118#lamina-i-of-gray-matter-of-spinal-cord",
   "name": "lamina I of gray matter of spinal cord",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006118#lamina-i-of-gray-matter-of-spinal-cord",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006118",
   "synonym": [
     "lamina i of gray matter of spinal cord",
@@ -23,4 +24,3 @@
     "spinal lamina i"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brain dura mater and meninx of hindbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003565)]",
   "description": "A dura mater that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003565)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003565#hindbrain-dura-mater",
   "name": "hindbrain dura mater",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003565#hindbrain-dura-mater",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003565",
   "synonym": [
     "dura mater of hindbrain",
@@ -16,4 +17,3 @@
     "hindbrain dura mater of neuraxis"
   ]
 }
-

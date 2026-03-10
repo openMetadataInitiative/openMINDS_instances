@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gray matter of spinal cord. Is part of the spinal cord gray commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014630) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014630#spinal-cord-anterior-gray-commissure",
   "name": "ventral gray commissure of spinal cord",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014630#spinal-cord-anterior-gray-commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014630",
   "synonym": [
     "anterior grey commissure of spinal cord",
@@ -17,4 +18,3 @@
     "ventral grey commissure of spinal cord"
   ]
 }
-

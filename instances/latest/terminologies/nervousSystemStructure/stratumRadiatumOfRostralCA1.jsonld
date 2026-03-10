@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the rostral CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034829) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034829#stratum-radiatum-of-rostral-ca1",
   "name": "stratum radiatum of rostral CA1",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034829#stratum-radiatum-of-rostral-ca1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034829",
   "synonym": null
 }
-

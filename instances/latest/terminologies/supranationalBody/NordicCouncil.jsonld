@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/SupranationalBody",
   "definition": "Geo-political inter-parliamentary forum for co-operation between the Nordic countries. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q146165)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Nordic Council",
-  "preferredOntologyIdentifier": "http://www.wikidata.org/entity/Q146165",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q146165",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Nordic cooperation",
     "The Nordic Council"

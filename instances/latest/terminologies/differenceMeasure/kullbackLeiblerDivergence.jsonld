@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/DifferenceMeasure",
   "definition": "A measure of how one probability distribution is different from a second, reference probability distribution.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Kullback-Leibler divergence",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "KL divergence"

@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006467)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006467#eleventh-thoracic-spinal-cord-segment-1",
   "name": "eleventh thoracic spinal cord segment",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006467#eleventh-thoracic-spinal-cord-segment-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006467",
   "synonym": [
     "t11 segment",
     "T11 spinal cord segment"
   ]
 }
-

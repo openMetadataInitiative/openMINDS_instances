@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum vermis lobule VII. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005346)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005346#cerebellum-vermis-lobule-viib",
   "name": "cerebellum vermis lobule VIIB",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005346#cerebellum-vermis-lobule-viib",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005346",
   "synonym": [
     "lobule VII B of vermis",
@@ -17,4 +18,3 @@
     "vermic lobule VIIb"
   ]
 }
-

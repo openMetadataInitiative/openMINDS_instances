@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a white matter of superior colliculus and intermediate layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006787)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006787#middle-white-layer-of-superior-colliculus",
   "name": "middle white layer of superior colliculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006787#middle-white-layer-of-superior-colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006787",
   "synonym": [
     "intermediate white layer",
@@ -20,4 +21,3 @@
     "stratum medullare intermedium colliculi superioris"
   ]
 }
-

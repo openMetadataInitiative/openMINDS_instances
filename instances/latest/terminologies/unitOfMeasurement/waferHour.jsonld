@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "Usage of one wafer of a wafer-scale computing system for one hour",
   "description": "An example of such a wafer-scale system would be BrainScaleS-1",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "wafer-hour",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

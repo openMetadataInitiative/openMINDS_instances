@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModelAbstractionLevel",
   "definition": "Modelling neural networks in which the action potentials of individual neurons are represented",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "spiking neurons",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

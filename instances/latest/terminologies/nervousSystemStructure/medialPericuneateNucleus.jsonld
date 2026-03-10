@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002875)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106681",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002875#medial-pericuneate-nucleus-1",
   "name": "medial pericuneate nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106681"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002875#medial-pericuneate-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002875",
   "synonym": null
 }
-

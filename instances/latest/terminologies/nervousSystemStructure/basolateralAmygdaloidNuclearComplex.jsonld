@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebral hemisphere gray matter and nuclear complex of neuraxis. Is part of the amygdala. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006107) ('is_a' and 'relationship')]",
   "description": "A set of amygdalar nuclei comprising the lateral nucleus (LA), the basal nucleus (BA), and the accessory basal nuclei (ABN). These nuclei are bordered laterally by the external capsule and medially by the central amygdalar nucleus as well as the amygdalohippocampal area. This definition refers to the rat Basolateral nuclear complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006107)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101128",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006107#basolateral-nuclear-complex",
   "name": "basolateral amygdaloid nuclear complex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101128"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006107#basolateral-nuclear-complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006107",
   "synonym": [
     "amygdalar basolateral nucleus",
@@ -23,4 +26,3 @@
     "vicarious cortex"
   ]
 }
-

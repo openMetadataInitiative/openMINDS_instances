@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ProgrammingLanguage",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Bash",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q189248",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q189248",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the superior cerebellar peduncle and the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007709) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111281",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007709#superior-cerebellar-peduncle-of-pons-1",
   "name": "superior cerebellar peduncle of pons",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111281"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0007709#superior-cerebellar-peduncle-of-pons-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007709",
   "synonym": [
     "SCPP"
   ]
 }
-

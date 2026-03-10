@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AnnotationType",
   "definition": "An 'annotation contour line' is a two-dimensional boundary of an area of interest.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "annotation contour line",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

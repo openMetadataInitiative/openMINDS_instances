@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Lightsheet fluorescence microscopy is a fluorescence microscopy technique that uses a thin sheet of light to excite only fluorophores within the plane of illumination.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739693",
-  "knowledgeSpaceLink": null,
   "name": "light sheet fluorescence microscopy",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/technique/lightSheetMicroscopyFluorescent",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/tgbugs/uris/readable/technique/lightSheetMicroscopyFluorescent"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739693",
   "synonym": [
     "light sheet microscopy",
     "LSFM",

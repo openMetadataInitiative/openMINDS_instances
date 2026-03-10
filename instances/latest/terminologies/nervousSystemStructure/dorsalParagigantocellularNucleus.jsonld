@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a paragigantocellular nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016825)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016825#dorsal-paragigantocellular-nucleus",
   "name": "dorsal paragigantocellular nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0016825#dorsal-paragigantocellular-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016825",
   "synonym": [
     "dorsal paragigantocellular reticular nucleus",
@@ -16,4 +17,3 @@
     "posterior paragigantocellular reticular nucleus"
   ]
 }
-

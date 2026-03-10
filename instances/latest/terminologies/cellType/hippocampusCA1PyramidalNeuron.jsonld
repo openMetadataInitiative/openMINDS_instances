@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "An excitatory neuron type with a pyramidal-shaped cell body that is located in the cornu ammonis 1 (CA1) of the hippocampus.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105031",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/SAO:830368389#hippocampus-ca1-pyramidal-cell",
   "name": "hippocampus CA1 pyramidal neuron",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao830368389",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/sao830368389"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/SAO:830368389#hippocampus-ca1-pyramidal-cell",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0105031",
   "synonym": [
     "CA1 pyramidal neuron",
     "cornu ammonis 1 pyramidal neuron",

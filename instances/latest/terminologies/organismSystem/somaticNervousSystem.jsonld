@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/OrganismSystem",
   "definition": "Is an anatomical entity. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000012) ('is_a' and 'relationship')]",
   "description": "Part of peripheral nervous system that includes the somatic parts of the cranial and spinal nerves and their ganglia and the peripheral sensory receptors. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000012)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000012#somatic-nervous-system",
   "name": "somatic nervous system",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0000012#somatic-nervous-system",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000012",
   "synonym": [
     "PNS - somatic",
@@ -17,4 +18,3 @@
     "somatic peripheral nervous system"
   ]
 }
-

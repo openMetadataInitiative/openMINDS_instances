@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a hindbrain nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002105)]",
   "description": "Anatomical structure located in the hindbrain that receives primary electroreceptor input. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002105)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2002105#electrosensory-lateral-line-lobe",
   "name": "electrosensory lateral line lobe",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2002105#electrosensory-lateral-line-lobe",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2002105",
   "synonym": [
     "ELL"
   ]
 }
-

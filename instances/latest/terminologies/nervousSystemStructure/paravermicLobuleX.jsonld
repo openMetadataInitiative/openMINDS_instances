@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a paravermis lobule area and flocculonodular lobe, hemisphere portion. Is part of the flocculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036043) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0724502",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036043#paravermic-lobule-x",
   "name": "paravermic lobule X",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0724502"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0036043#paravermic-lobule-x",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036043",
   "synonym": null
 }
-

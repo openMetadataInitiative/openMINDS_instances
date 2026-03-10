@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/SoftwareFeature",
   "definition": "A text-based system that enables users to interact with a computer or software by entering commands, allowing them to perform specific tasks or operations.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "command line interface",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q189053",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q189053",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "CLI"
   ]

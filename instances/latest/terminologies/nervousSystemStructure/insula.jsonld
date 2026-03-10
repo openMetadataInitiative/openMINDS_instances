@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebral hemisphere gray matter. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002022) ('is_a' and 'relationship')]",
   "description": "Gray matter of the insular region of the neocortex. In gyrencephalic animals, it is part of the insular lobe and lies in the depths of the lateral fissure and covered by portions of the frontal, parietal and temporal lobes. It includes Brodmann areas 13-16. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002022)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105519",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002022#insula-1",
   "name": "insula",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0105519"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002022#insula-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002022",
   "synonym": [
     "central lobe",
@@ -20,4 +23,3 @@
     "lobus insularis"
   ]
 }
-

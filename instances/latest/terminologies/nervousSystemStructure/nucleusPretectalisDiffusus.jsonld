@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035587)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035587#nucleus-pretectalis-diffusus",
   "name": "nucleus pretectalis diffusus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035587#nucleus-pretectalis-diffusus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035587",
   "synonym": null
 }
-

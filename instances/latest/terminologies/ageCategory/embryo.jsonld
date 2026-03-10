@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/AgeCategory",
   "definition": "'Embryo' categorizes the life cycle stage of an animal or human that starts with fertilitzation and ends with the fully formed embryo.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0735599",
-  "knowledgeSpaceLink": null,
   "name": "embryo",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0735599"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000068",
   "synonym": [
     "embryo stage",

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ActionStatusType",
   "definition": "A temporarily stopped action that can be resumed at a later point in time.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "paused",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "paused action type",

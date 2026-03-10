@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006798)]",
   "description": "A nerve that transmits nerve impulses from the central nervous system to effectors such as muscles or glands. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006798)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006798#efferent-nerve",
   "name": "efferent nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006798#efferent-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006798",
   "synonym": [
     "nervus efferente"
   ]
 }
-

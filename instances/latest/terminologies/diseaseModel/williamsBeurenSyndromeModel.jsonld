@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/DiseaseModel",
   "definition": "An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Williams-Beuren syndrome.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Williams-Beuren syndrome model",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

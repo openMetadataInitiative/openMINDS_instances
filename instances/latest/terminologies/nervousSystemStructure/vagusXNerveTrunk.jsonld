@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve trunk. Is part of the vagus nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003535) ('is_a' and 'relationship')]",
   "description": "A nerve trunk that is part of a vagus nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003535)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003535#vagus-x-nerve-trunk",
   "name": "vagus X nerve trunk",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003535#vagus-x-nerve-trunk",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003535",
   "synonym": [
     "trunk of vagal nerve",
@@ -19,4 +20,3 @@
     "vagus neural trunk"
   ]
 }
-

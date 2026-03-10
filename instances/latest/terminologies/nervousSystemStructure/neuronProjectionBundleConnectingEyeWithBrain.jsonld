@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neuron projection bundle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004904)]",
   "description": "A neuron projection bundle that connects the retina or its analog in the eye with the brain. This includes the vertebrate optic nerve (not truly a nerve) as well as analogous structures such as the Bolwig nerve in Drosophila. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004904)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004904#neuron-projection-bundle-connecting-eye-with-brain",
   "name": "neuron projection bundle connecting eye with brain",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004904#neuron-projection-bundle-connecting-eye-with-brain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004904",
   "synonym": [
     "optic nerve (generic)"
   ]
 }
-

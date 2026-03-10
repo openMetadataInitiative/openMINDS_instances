@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AccessChannel",
   "definition": "Access is provided both remotely through digital means and at a specific physical location.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "hybrid access",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

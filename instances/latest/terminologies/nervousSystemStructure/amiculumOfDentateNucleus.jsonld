@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a white matter of metencephalon and amiculum. Is part of the dentate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002568) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100532",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002568#amiculum-of-dentate-nucleus-1",
   "name": "amiculum of dentate nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100532"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002568#amiculum-of-dentate-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002568",
   "synonym": [
     "dentate nuclear amiculum"
   ]
 }
-

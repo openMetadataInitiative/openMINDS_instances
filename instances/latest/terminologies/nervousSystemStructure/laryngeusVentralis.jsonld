@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve of head region. Is part of the ramus recurrens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010764) ('is_a' and 'relationship')]",
   "description": "A branch of the vagus nerve innervating heart, stomach, and lung muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010764)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010764#laryngeus-ventralis",
   "name": "laryngeus ventralis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:3010764#laryngeus-ventralis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010764",
   "synonym": null
 }
-

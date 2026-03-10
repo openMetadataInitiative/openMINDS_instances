@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "Axonless inhibitory interneurons and form the majority of neurons in the vertebrate main olfactory bulb [adapted from [Egger et al. (2003)](https://doi.org/10.1523/JNEUROSCI.23-20-07551.2003)].",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107930",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:123#olfactory-bulb-main-granule-cell",
   "name": "main olfactory bulb granule neuron",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_123",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/nifext_123"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NIFEXT:123#olfactory-bulb-main-granule-cell",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0107930",
   "synonym": [
     "granule cell of the olfactory bulb",
     "olfactory bulb granule neuron",

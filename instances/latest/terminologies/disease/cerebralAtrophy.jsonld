@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Disease",
   "definition": "Cerebral atrophy describes the pathological process of wasting or decrease in size of the cells or tissue of the cerebrum.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/HP:0012444#brain-atrophy",
   "name": "cerebral atrophy",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/HP:0012444#brain-atrophy",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/HP_0002059",
   "synonym": [
     "atrophy of cerebrum",

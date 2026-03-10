@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Metabotropic glutamate receptors are active through an indirect metabotropic process and respond to glutamate as endogenous ligand.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106829",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXMOL:20090503#metabotropic-glutamate-receptor",
   "name": "metabotropic glutamate receptor",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090503",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090503"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NLXMOL:20090503#metabotropic-glutamate-receptor",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0106829",
   "synonym": [
     "glutamate metabotropic",
     "GRM",

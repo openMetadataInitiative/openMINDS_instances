@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/DeviceMountingType",
   "definition": "A mounting configuration in which the device retains a fixed geometry and does not conform to the surface shape of the host structure.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "form-stable mounting",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

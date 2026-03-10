@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the basolateral amygdaloid nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002887) ('is_a' and 'relationship')]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101100",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002887#basal-amygdaloid-nucleus-1",
   "name": "basal amygdaloid nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101100"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002887#basal-amygdaloid-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002887",
   "synonym": [
     "basolateral amygaloid nucleus",
@@ -19,4 +22,3 @@
     "nucleus amygdalae basalis lateralis"
   ]
 }
-

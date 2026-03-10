@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum hemisphere lobule and flocculonodular lobe, hemisphere portion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024009)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104945",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0024009#cerebellum-hemispheric-lobule-x",
   "name": "cerebellum hemispheric lobule X",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104945"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0024009#cerebellum-hemispheric-lobule-x",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024009",
   "synonym": [
     "hemispheric lobule X"
   ]
 }
-

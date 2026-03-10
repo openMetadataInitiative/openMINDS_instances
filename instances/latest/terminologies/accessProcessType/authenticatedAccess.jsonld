@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AccessProcessType",
   "definition": "Access following authentication through an account.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "authenticated access",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

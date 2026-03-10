@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a forebrain meninges and brain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003550)]",
   "description": "A pia mater that is part of a forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003550)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003550#forebrain-pia-mater",
   "name": "forebrain pia mater",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003550#forebrain-pia-mater",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003550",
   "synonym": [
     "forebrain pia mater of neuraxis",
@@ -16,4 +17,3 @@
     "pia mater of neuraxis of forebrain"
   ]
 }
-

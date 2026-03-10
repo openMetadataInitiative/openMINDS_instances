@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModificationConstraint",
   "definition": "A waiver or temporary non-enforcement does not constitute or effect a modification.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "no modification by waiver",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

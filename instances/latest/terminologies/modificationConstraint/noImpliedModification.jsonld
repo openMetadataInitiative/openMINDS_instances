@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModificationConstraint",
   "definition": "Modifications arising from conduct or practice are excluded.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "no implied modification",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

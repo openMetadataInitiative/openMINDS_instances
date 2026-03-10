@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005392)]",
   "description": "Layer of neocortex lying deep to the external granule cell layer defined cytoarchitecturally by numerous small pyramidal neurons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005392)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107369",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005392#cortical-layer-iii",
   "name": "cortical layer III",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0107369"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005392#cortical-layer-iii",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005392",
   "synonym": [
     "cerebral cortex, layer 3",
@@ -24,4 +27,3 @@
     "neocortex layer III"
   ]
 }
-

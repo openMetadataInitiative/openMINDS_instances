@@ -6,10 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the cerebral cortex and the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001393) ('is_a' and 'relationship')]",
   "description": "The part of the brain that is the ultimate target of afferent auditory information. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001393)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100996",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001393#auditory-cortex",
   "name": "auditory cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100996"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001393#auditory-cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001393",
   "synonym": null
 }
-

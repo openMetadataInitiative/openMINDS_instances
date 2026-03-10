@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003015)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100743",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003015#anterior-quadrangular-lobule-1",
   "name": "anterior quadrangular lobule",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100743"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003015#anterior-quadrangular-lobule-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003015",
   "synonym": [
     "anterior crescentic lobule of cerebellum",
@@ -20,4 +23,3 @@
     "semilunar lobule-1 (anterior)"
   ]
 }
-

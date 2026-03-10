@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Disease",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "fragile X syndrome",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_14261",
   "synonym": null
 }

@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Galanin is a biologically active neuropeptide, encoded by the GAL gene, that is widely distributed in the central and peripheral nervous systems and the endocrine system.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104529",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:5074#galanin",
   "name": "galanin",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5074",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/nifext_5074"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NIFEXT:5074#galanin",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0104529",
   "synonym": [
     "GAL"
   ]

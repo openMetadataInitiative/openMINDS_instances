@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial nerve nucleus, brainstem nucleus and midbrain nucleus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002722) ('is_a' and 'relationship')]",
   "description": "Nucleus in the midbrain at the level of the inferior colliculus near the midline, containing the motor neurons giving rise to the trochlear nerve, innervating the contralateral superior oblique extraocular muscle of the eye (Brodal, Neurological Anatomy, 3rd ed, 1981, pg. 533). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002722)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112004",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002722#trochlear-nucleus-1",
   "name": "trochlear nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112004"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002722#trochlear-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002722",
   "synonym": [
     "fourth cranial nerve nucleus",
@@ -20,4 +23,3 @@
     "trochlear motor nucleus"
   ]
 }
-

@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve. Is part of the parasympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004293) ('is_a' and 'relationship')]",
   "description": "A nerve that is part of a parasympathetic nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004293)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004293#parasympathetic-nerve",
   "name": "parasympathetic nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004293#parasympathetic-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004293",
   "synonym": [
     "nerve of parasympathetic nervous system"
   ]
 }
-

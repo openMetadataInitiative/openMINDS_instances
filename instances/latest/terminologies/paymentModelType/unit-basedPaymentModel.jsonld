@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/PaymentModelType",
   "definition": "Payment is based on allocated entitlement units (e.g., users, licenses, devices, seats).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "unit-based payment model",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "Terminology defining anatomical structures that are components of the nervous system.",
   "description": "This terminology includes regions, nuclei, tracts, nerves, and other anatomical components that form part of the central or peripheral nervous system. These structures participate in thr processing, transmission, and integration of information within an organism. The terms cover both macroscopic regions and specialized structural subdivisions of neural anatomy. They are typically derived from cross-species anatomical ontologies such as Uberon. The terminology supports standardized referencing of neural structures in anatomical atlases and datasets.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "nervous system structure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

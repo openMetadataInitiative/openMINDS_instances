@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nervous system commissure and tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005970)]",
   "description": "Any of the nerve fiber tracts that span the longitudinal fissure between the cerebral and/or cerebellar hemispheres of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005970)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005970#brain-commissure",
   "name": "brain commissure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005970#brain-commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005970",
   "synonym": null
 }
-

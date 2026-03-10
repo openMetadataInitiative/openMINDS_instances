@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/DifferenceMeasure",
   "definition": "Test statistic resulting from a chi-squared test.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "chi-squared statistic",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "χ2-statistic"

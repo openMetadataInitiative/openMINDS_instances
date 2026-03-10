@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002736)]",
   "description": "The lateral nuclear group is a collection of nuclei on the lateral side of the thalamus. According to MeSH, it consists of the following: lateral dorsal nucleus lateral posterior nucleus pulvinar. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002736)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106078",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002736#lateral-nuclear-group",
   "name": "lateral nuclear group of thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106078"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002736#lateral-nuclear-group",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002736",
   "synonym": [
     "lateral group of nuclei",
@@ -23,4 +26,3 @@
     "nucleus lateralis thalami"
   ]
 }
-

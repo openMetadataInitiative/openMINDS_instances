@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on the composition, structure, and activity of an entire set of proteins in organisms or their parts.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0741205",
-  "knowledgeSpaceLink": null,
   "name": "proteomics",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Proteomics",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/tgbugs/uris/readable/modality/Proteomics"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0741205",
   "synonym": null
 }

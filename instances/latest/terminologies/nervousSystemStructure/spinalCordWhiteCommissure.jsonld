@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a spinal cord commissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007838)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007838#spinal-cord-white-commissure",
   "name": "spinal cord white commissure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0007838#spinal-cord-white-commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007838",
   "synonym": [
     "white commissure of spinal cord"
   ]
 }
-

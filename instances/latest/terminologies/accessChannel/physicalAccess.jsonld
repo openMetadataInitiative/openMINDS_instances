@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AccessChannel",
   "definition": "Access requires physical presence at a specific location.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "physical access",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "in-person access",

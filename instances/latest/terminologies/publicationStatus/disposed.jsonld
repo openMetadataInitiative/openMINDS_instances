@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/PublicationStatus",
   "definition": "A publication status indicating the work has been removed from active retention or management (e.g., after a retention period, superseded, or otherwise deaccessioned) and is no longer available, without implying wrongdoing or defects in the work.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "disposed",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

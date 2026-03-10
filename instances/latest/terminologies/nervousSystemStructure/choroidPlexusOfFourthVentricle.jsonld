@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a choroid plexus and cerebellum vasculature. Is part of the fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002290) ('is_a' and 'relationship')]",
   "description": "Choroid plexus of the fourth ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002290)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102143",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002290#choroid-plexus-of-fourth-ventricle",
   "name": "choroid plexus of fourth ventricle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0102143"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002290#choroid-plexus-of-fourth-ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002290",
   "synonym": [
     "chorioid plexus of cerebral hemisphere of fourth ventricle",
@@ -18,4 +21,3 @@
     "fourth ventricle choroid plexus"
   ]
 }
-

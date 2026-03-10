@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModificationForm",
   "definition": "Modification is approved through a formal resolution of the governing body.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "board approved modification",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

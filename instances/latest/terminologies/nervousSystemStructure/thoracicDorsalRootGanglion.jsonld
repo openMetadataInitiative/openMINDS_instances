@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a dorsal root ganglion and thoracic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002835)]",
   "description": "A dorsal root ganglion that is part of a thorax. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002835)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002835#thoracic-dorsal-root-ganglion-1",
   "name": "thoracic dorsal root ganglion",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002835#thoracic-dorsal-root-ganglion-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002835",
   "synonym": [
     "dorsal root ganglion of thorax",
@@ -20,4 +21,3 @@
     "thorax ganglion spinalis"
   ]
 }
-

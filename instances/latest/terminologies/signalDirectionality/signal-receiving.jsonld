@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SignalDirectionality",
   "definition": "A signal directionality mode in which a device detects and acquires incoming signals from an external source or medium.",
   "description": "In signal-receiving mode, the device operates as a passive or semi-passive sensor of external signals. It converts physical signal energy into measurable electrical or digital representations. Sensitivity and noise characteristics determine reception performance. Received signals are commonly amplified, filtered, and digitized for analysis. This mode is used in monitoring, imaging, and data acquisition systems.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "signal-receiving",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "receiving",

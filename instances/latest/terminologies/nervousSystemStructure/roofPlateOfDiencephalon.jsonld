@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the diencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003301)]",
   "description": "A roof plate that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003301)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003301#roof-plate-of-diencephalon",
   "name": "roof plate of diencephalon",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003301#roof-plate-of-diencephalon",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003301",
   "synonym": [
     "between brain roof plate",
@@ -30,4 +31,3 @@
     "roofplate of mature diencephalon"
   ]
 }
-

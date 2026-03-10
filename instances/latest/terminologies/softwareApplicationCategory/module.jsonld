@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SoftwareApplicationCategory",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "module",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q11883090",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q11883090",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

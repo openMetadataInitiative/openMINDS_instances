@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brain commissure. Is part of the inferior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003028) ('is_a' and 'relationship')]",
   "description": "A commissure that is part of a inferior colliculus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003028)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003028#commissure-of-inferior-colliculus-1",
   "name": "commissure of inferior colliculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003028#commissure-of-inferior-colliculus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003028",
   "synonym": [
     "caudal colliculus commissure",
@@ -22,4 +23,3 @@
     "posterior corpus quadrigeminum commissure"
   ]
 }
-

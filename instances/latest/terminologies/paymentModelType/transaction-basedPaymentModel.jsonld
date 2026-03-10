@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/PaymentModelType",
   "definition": "Payment is based on counted event units (e.g., processing operations, message deliveries, document generations).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "transaction-based payment model",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

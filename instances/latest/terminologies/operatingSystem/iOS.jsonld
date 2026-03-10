@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/OperatingSystem",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "iOS",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q48493",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q48493",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

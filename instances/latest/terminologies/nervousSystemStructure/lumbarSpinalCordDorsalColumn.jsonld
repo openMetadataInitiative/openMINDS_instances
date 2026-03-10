@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a subdivision of spinal cord dorsal column. Is part of the lumbar spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005842) ('is_a' and 'relationship')]",
   "description": "A subdivision of spinal cord dorsal column that is part of a lumbar spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005842)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005842#lumbar-spinal-cord-dorsal-column-1",
   "name": "lumbar spinal cord dorsal column",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005842#lumbar-spinal-cord-dorsal-column-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005842",
   "synonym": [
     "dorsal funiculus of lumbar segment of spinal cord",
@@ -18,4 +19,3 @@
     "lumbar spinal cord posterior column"
   ]
 }
-

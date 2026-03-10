@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of cerebellar cortex. Is part of the anterior lobe of cerebellum and the cerebellar hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014647) ('is_a' and 'relationship')]",
   "description": "A multi-tissue structure that is part of a anterior lobe of cerebellum and is part of a cerebellar hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014647)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014647#hemispheric-part-of-the-anterior-lobe-of-the-cerebellum",
   "name": "hemisphere part of cerebellar anterior lobe",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014647#hemispheric-part-of-the-anterior-lobe-of-the-cerebellum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014647",
   "synonym": [
     "hemisphere of anterior lobe",
@@ -16,4 +17,3 @@
     "hemispherium lobus anterior"
   ]
 }
-

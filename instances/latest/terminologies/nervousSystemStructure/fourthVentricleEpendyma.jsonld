@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brain ependyma. Is part of the fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004644) ('is_a' and 'relationship')]",
   "description": "An ependyma that is part of a fourth ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004644)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0729148",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004644#fourth-ventricle-ependyma",
   "name": "fourth ventricle ependyma",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0729148"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004644#fourth-ventricle-ependyma",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004644",
   "synonym": [
     "ependyma of fourth ventricle"
   ]
 }
-

@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002844)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002844#eighth-cervical-dorsal-root-ganglion-1",
   "name": "eighth cervical dorsal root ganglion",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002844#eighth-cervical-dorsal-root-ganglion-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002844",
   "synonym": [
     "eighth cervical spinal ganglion"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModificationConsentRequirement",
   "definition": "Modification may be made by one designated party only.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "delegated consent",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

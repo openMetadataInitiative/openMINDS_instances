@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModelAbstractionLevel",
   "definition": "Systems biology modelling using concentrations",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "systems biology: continuous",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

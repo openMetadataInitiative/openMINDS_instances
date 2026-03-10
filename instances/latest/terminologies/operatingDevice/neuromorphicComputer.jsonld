@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/OperatingDevice",
   "definition": "Very-large-scale integration (VLSI) systems containing electronic circuits used to mimic neuro-biological architectures present in the nervous system.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "neuromorphic computer",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q56270917",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q56270917",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }

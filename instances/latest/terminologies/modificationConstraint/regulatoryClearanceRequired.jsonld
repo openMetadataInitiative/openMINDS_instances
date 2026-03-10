@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModificationConstraint",
   "definition": "External regulatory approval is required before effectiveness.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "regulatory clearance required",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

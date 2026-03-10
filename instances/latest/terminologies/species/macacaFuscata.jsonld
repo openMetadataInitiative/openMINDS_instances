@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/Species",
   "definition": "The species *Macaca fuscata* (Japanese macaque) belongs to the family of *cercopithecidae* (old world monkeys).",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105773",
-  "knowledgeSpaceLink": null,
   "name": "Macaca fuscata",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0105773"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9542",
   "synonym": [
     "japanese macaque",

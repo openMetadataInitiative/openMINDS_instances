@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/MeasuredQuantity",
   "definition": "Resistance of the electrode during an electrophysiological recording.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "series resistance",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "access resistance",

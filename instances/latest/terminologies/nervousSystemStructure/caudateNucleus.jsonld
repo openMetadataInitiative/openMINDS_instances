@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a telencephalic nucleus. Is part of the caudate-putamen. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001873) ('is_a' and 'relationship')]",
   "description": "Subcortical nucleus of telecephalic origin consisting of an elongated gray mass lying lateral to and bordering the lateral ventricle. It is divided into a head, body and tail in some species. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001873)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101734",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001873#caudate-nucleus-1",
   "name": "caudate nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101734"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001873#caudate-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001873",
   "synonym": [
     "caudatus"
   ]
 }
-

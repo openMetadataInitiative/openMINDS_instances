@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a medullary lamina of thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014534)]",
   "description": "A medullary lamina that separates ventral and lateral thalamus from the subthalamus and thalamic reticular nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014534)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014534#external-medullary-lamina-of-thalamus",
   "name": "external medullary lamina of thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014534#external-medullary-lamina-of-thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014534",
   "synonym": [
     "external medullary lamina",
@@ -19,4 +20,3 @@
     "lamina medullaris thalami externa"
   ]
 }
-

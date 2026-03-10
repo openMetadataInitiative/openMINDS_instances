@@ -6,13 +6,15 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the pontine tegmentum and the raphe nuclei. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002047) ('is_a' and 'relationship')]",
   "description": "The pontine raphe nucleus is one of the raphe nuclei. It is located in the pontine tegmentum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002047)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109029",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002047#pontine-raphe-nucleus-1",
   "name": "pontine raphe nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109029"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002047#pontine-raphe-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002047",
   "synonym": [
     "raphe of pons",
     "raphe pontis"
   ]
 }
-

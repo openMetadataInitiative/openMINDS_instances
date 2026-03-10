@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the vestibulocochlear nerve. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010736)]",
   "description": "Composed of two rami: a short ventral ramus innervating the cochlea (lagena and papille basilar), and a long dorsal ramus innervating the posterior semicircular canal. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010736)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010736#ramus-posterior-of-cn-viii",
   "name": "ramus posterior of CN VIII",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:3010736#ramus-posterior-of-cn-viii",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010736",
   "synonym": null
 }
-

@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a preoptic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002622)]",
   "description": "The preoptic periventricular nucleus is located along the midline and is medial to the medial preoptic nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002622)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109227",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002622#preoptic-periventricular-nucleus-1",
   "name": "preoptic periventricular nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109227"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002622#preoptic-periventricular-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002622",
   "synonym": [
     "nucleus preopticus periventricularis",
@@ -16,4 +19,3 @@
     "preoptic periventricular hypothalamic nucleus"
   ]
 }
-

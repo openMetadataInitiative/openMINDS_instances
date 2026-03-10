@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a pia mater and brain meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003549)]",
   "description": "The fibrous membrane forming the innermost of the three coverings that surrounds the brain within the cranial cavity that is firmly attached to the glial capsule. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003549)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003549#brain-pia-mater",
   "name": "brain pia mater",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003549#brain-pia-mater",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003549",
   "synonym": [
     "brain pia mater of neuraxis",
@@ -16,4 +17,3 @@
     "pia mater of neuraxis of brain"
   ]
 }
-

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a neural decussation. Is part of the corticospinal tract and the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002755) ('is_a' and 'relationship')]",
   "description": "Part of medulla comprising a white matter structure containing nerve fibers of the pyramidal tract crossing from one side of the brain to the other (MM) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002755)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002755#pyramidal-decussation-1",
   "name": "pyramidal decussation",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002755#pyramidal-decussation-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002755",
   "synonym": [
     "corticospinal decussation",
@@ -25,4 +26,3 @@
     "pyramidal tract decussation"
   ]
 }
-

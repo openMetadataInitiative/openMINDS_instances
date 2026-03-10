@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a pelvis nerve. Is part of the pudendal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011391) ('is_a' and 'relationship')]",
   "description": "A nerve arising from the pudendal nerve that supplies the perineum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011391)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011391#perineal-nerve",
   "name": "perineal nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0011391#perineal-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011391",
   "synonym": [
     "perineal branch of pudendal nerve"
   ]
 }
-

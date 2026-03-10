@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AccessEligibilityType",
   "definition": "Access limited to authenticated and specifically authorised users meeting enhanced legal, ethical, contractual, or governance requirements.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "restricted access",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

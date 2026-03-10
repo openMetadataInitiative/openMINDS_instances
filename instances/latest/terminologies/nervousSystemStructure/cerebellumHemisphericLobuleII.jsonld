@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cerebellum hemisphere lobule and hemisphere part of cerebellar anterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023998)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023998#cerebellum-hemispheric-lobule-ii",
   "name": "cerebellum hemispheric lobule II",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0023998#cerebellum-hemispheric-lobule-ii",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023998",
   "synonym": [
     "hemispheric lobule ii",
@@ -17,4 +18,3 @@
     "lobule II of hemisphere of cerebellum"
   ]
 }
-

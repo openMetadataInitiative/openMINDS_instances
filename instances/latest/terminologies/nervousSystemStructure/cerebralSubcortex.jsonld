@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000454)]",
   "description": "The layer located below the cerebral cortex that includes the forebrain, midbrain and hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000454)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0729745",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000454#cerebral-subcortex",
   "name": "cerebral subcortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0729745"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0000454#cerebral-subcortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000454",
   "synonym": [
     "cerebral medulla"
   ]
 }
-

@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the vestibular ganglion. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002826)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002826#inferior-part-of-vestibular-ganglion-1",
   "name": "inferior part of vestibular ganglion",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002826#inferior-part-of-vestibular-ganglion-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002826",
   "synonym": [
     "pars inferior ganglionis vestibularis",
     "vestibular ganglion inferior part"
   ]
 }
-

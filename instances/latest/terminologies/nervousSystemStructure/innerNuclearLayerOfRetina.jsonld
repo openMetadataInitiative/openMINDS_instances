@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001791) ('is_a' and 'relationship')]",
   "description": "Cytoarchitectural layer of retina containing closely packed cell bodies, the majority of which are bipolar cells (adapted from Wikipedia). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001791)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001791#inner-nuclear-layer-of-retina",
   "name": "inner nuclear layer of retina",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001791#inner-nuclear-layer-of-retina",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001791",
   "synonym": [
     "inner nuclear layer",
@@ -20,4 +21,3 @@
     "stratum nucleare internum retinae"
   ]
 }
-

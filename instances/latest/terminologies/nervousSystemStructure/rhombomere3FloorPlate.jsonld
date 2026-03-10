@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a rhombomere floor plate. Is part of the rhombomere 3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005573) ('is_a' and 'relationship')]",
   "description": "A rhombomere floor plate that is part of a rhombomere 3. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005573)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005573#rhombomere-3-floor-plate",
   "name": "rhombomere 3 floor plate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005573#rhombomere-3-floor-plate",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005573",
   "synonym": [
     "floor plate r3",
@@ -16,4 +17,3 @@
     "floorplate r3"
   ]
 }
-

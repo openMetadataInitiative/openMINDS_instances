@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000120)]",
   "description": "Ganglion that develops from a cranial ectodermal placode and contains sensory neurons that innervate a lateral line. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000120)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000120#lateral-line-ganglion",
   "name": "lateral line ganglion",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2000120#lateral-line-ganglion",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000120",
   "synonym": [
     "LLG"
   ]
 }
-

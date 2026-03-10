@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a meninx of diencephalon and forebrain arachnoid mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003558)]",
   "description": "An arachnoid mater that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003558)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003558#diencephalon-arachnoid-mater",
   "name": "diencephalon arachnoid mater",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003558#diencephalon-arachnoid-mater",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003558",
   "synonym": [
     "arachnoid mater of between brain",
@@ -36,4 +37,3 @@
     "mature diencephalon arachnoid mater of neuraxis"
   ]
 }
-

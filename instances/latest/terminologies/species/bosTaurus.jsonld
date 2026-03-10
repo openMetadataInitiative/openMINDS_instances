@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/Species",
   "definition": "Cattle (Bos taurus) are large, domesticated, bovid ungulates widely kept as livestock.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101393",
-  "knowledgeSpaceLink": null,
   "name": "Bos taurus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101393"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9913",
   "synonym": [
     "bovine",
@@ -16,6 +19,6 @@
     "cow",
     "dairy cow",
     "domestic cattle",
-    "domestic cow" 
+    "domestic cow"
   ]
 }

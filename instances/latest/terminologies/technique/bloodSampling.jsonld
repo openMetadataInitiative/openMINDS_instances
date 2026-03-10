@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "'Blood sampling' is the process of obtaining blood from a body for purpose of medical diagnosis and/or evaluation of an indication for treatment, further medical tests or other procedures.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0782225",
-  "knowledgeSpaceLink": null,
   "name": "blood sampling",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0782225"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_1110095",
   "synonym": [
     "blood collection",

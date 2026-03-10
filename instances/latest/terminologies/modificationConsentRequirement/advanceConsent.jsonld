@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModificationConsentRequirement",
   "definition": "Modification is permitted based on prior standing consent given in the original agreement.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "advance consent",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

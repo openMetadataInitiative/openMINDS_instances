@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Disease",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "autism sprectrum disorder",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_0060041",
   "synonym": null
 }

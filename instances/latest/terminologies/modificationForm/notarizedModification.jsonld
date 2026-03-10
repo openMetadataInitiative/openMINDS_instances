@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModificationForm",
   "definition": "Modification is authenticated by a licensed notary or equivalent public officer.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "notarized modification",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

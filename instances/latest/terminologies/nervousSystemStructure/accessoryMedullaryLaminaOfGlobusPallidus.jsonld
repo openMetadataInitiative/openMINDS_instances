@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a white matter lamina of cerebral hemisphere. Is part of the medial globus pallidus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002763) ('is_a' and 'relationship')]",
   "description": "Thin bundle of myelinated axons that divides the medial pallidal segment into outer and inner portions (Carpenter, Core Text of Neuroanatomy, 3rd ed., 1985, pg. 303). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002763)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100214",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002763#accessory-medullary-lamina",
   "name": "accessory medullary lamina of globus pallidus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100214"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002763#accessory-medullary-lamina",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002763",
   "synonym": [
     "accessory medullar lamina of pallidum",
@@ -19,4 +22,3 @@
     "lamina medullaris accessoria corporis striati"
   ]
 }
-

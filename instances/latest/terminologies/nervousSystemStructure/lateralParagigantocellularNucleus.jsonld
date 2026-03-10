@@ -6,13 +6,15 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a paragigantocellular nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016824)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106087",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016824#lateral-paragigantocellular-nucleus",
   "name": "lateral paragigantocellular nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106087"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0016824#lateral-paragigantocellular-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016824",
   "synonym": [
     "lateral paragigantocellular reticular nucleus",
     "paragigantocellular nucleus, lateral part"
   ]
 }
-

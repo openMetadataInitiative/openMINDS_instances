@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModificationForm",
   "definition": "Modification is executed using legally recognized electronic signature systems.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "electronically signed modification",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "e-signed modification"

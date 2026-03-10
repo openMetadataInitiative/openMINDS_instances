@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014753) ('is_a' and 'relationship')]",
   "description": "Area directly deep to the P2 area of pallium in hagfishes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014753)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014753#p3-area-of-pallium-myxiniformes",
   "name": "P3 area of pallium (Myxiniformes)",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014753#p3-area-of-pallium-myxiniformes",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014753",
   "synonym": null
 }
-

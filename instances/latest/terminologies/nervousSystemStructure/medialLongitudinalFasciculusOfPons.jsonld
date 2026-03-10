@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a medial longitudinal fasciculus. Is part of the pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002794) ('is_a' and 'relationship')]",
   "description": "A medial longitudinal fasciculus that is part of a pons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002794)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106659",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002794#medial-longitudinal-fasciculus-of-pons-1",
   "name": "medial longitudinal fasciculus of pons",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106659"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002794#medial-longitudinal-fasciculus-of-pons-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002794",
   "synonym": [
     "medial longitudinal fasciculus of pons of varolius",
@@ -16,4 +19,3 @@
     "pons of varolius medial longitudinal fasciculus"
   ]
 }
-

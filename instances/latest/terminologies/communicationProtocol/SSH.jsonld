@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/CommunicationProtocol",
   "definition": "A network communication protocol that enables secure remote login and command execution over unsecured networks.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "SSH",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q170460",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q170460",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "Secure Shell"
   ]

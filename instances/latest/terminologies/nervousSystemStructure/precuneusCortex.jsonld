@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a gyrus. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006093) ('is_a' and 'relationship')]",
   "description": "Component of the pareital lobe. The rostral boundary was the posterior extent of the paracentral lobule whereas the caudal boundary was the lingual gyrus. The medial and lateral boundaries were the parieto-occipital fissure and the superior parietal gyrus respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006093)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109199",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006093#precuneus-cortex-1",
   "name": "precuneus cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109199"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006093#precuneus-cortex-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006093",
   "synonym": [
     "precuneate lobule",
@@ -16,4 +19,3 @@
     "quadrate lobule"
   ]
 }
-

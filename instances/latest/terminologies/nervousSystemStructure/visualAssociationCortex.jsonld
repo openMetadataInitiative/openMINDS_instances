@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is an association cortex. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034750) ('is_a' and 'relationship')]",
   "description": "Part of cortex considered to function in higher level visual functions. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034750)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034750#visual-association-cortex",
   "name": "visual association cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034750#visual-association-cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034750",
   "synonym": null
 }
-

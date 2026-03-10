@@ -6,12 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a rhombomere lateral wall. Is part of the rhombomere 3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005574) ('is_a' and 'relationship')]",
   "description": "A rhombomere lateral wall that is part of a rhombomere 3. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005574)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005574#rhombomere-3-lateral-wall",
   "name": "rhombomere 3 lateral wall",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005574#rhombomere-3-lateral-wall",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005574",
   "synonym": [
     "lateral wall rhombomere 3"
   ]
 }
-

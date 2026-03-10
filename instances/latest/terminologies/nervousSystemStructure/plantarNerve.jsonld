@@ -6,10 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a leg nerve. Is part of the tibial nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035109) ('is_a' and 'relationship')]",
   "description": "A nerve that innervates the sole of the foot. Planar nerves arise from the posterior branch of the tibial nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035109)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035109#plantar-nerve",
   "name": "plantar nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035109#plantar-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035109",
   "synonym": null
 }
-

@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is part of the cerebral hemisphere. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016526)]",
   "description": "Subdivision of telencephalon which is one of a number of subdivisions of each hemisphere separated by both real landmarks (sulci and fissures) and arbitrary boundaries. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016526)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106316",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016526#lobe-of-cerebral-cortex",
   "name": "lobe of cerebral hemisphere",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106316"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0016526#lobe-of-cerebral-cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016526",
   "synonym": [
     "cerebral hemisphere lobe",
@@ -18,4 +21,3 @@
     "lobi cerebri"
   ]
 }
-

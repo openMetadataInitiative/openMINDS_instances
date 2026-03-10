@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of dorsal thalamus and nucleus of ventral thalamus. Is part of the ventral nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001925) ('is_a' and 'relationship')]",
   "description": "The ventral lateral nucleus (VL) is a nucleus of the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001925)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112309",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001925#ventral-lateral-nucleus",
   "name": "ventral lateral nucleus of thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112309"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001925#ventral-lateral-nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001925",
   "synonym": [
     "lateral ventral nucleus of thalamus",
@@ -25,4 +28,3 @@
     "ventrolateral thalamic nucleus"
   ]
 }
-

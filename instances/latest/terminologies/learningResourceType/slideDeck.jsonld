@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/LearningResourceType",
   "definition": "A set of slides for a visual presentation.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "slide deck",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "slides",

@@ -6,13 +6,13 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014641)]",
   "description": "A nerve root that extends fibers into a terminal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014641)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014641#terminal-nerve-root-1",
   "name": "terminal nerve root",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014641#terminal-nerve-root-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014641",
   "synonym": [
     "cranial nerve 0 root",
     "root of terminal nerve"
   ]
 }
-

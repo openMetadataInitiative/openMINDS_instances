@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001872)]",
   "description": "Upper central part of the cerebral hemisphere. (MSH) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001872)]",
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108534",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001872#parietal-lobe-1",
   "name": "parietal lobe",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108534"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001872#parietal-lobe-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001872",
   "synonym": [
     "regio parietalis"
   ]
 }
-

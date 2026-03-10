@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a leg nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004214)]",
   "description": "A nerve that is part of a hindlimb stylopod. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004214)]",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004214#upper-leg-nerve",
   "name": "upper leg nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004214#upper-leg-nerve",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004214",
   "synonym": [
     "hind limb stylopod nerve",
@@ -17,4 +18,3 @@
     "thigh RELATED"
   ]
 }
-

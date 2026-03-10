@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of superior olivary complex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002976)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109224",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002976#preolivary-nucleus-1",
   "name": "preolivary nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109224"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002976#preolivary-nucleus-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002976",
   "synonym": [
     "preolivary nuclei"
   ]
 }
-

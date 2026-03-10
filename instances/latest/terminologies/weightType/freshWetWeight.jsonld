@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/WeightType",
   "definition": "The mass of an organism or biological tissue measured in its natural hydrated state prior to processing.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "fresh wet weight",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/SoftwareFeature",
   "definition": "A set of rules and protocols that allows different software applications to communicate with each other, enabling them to access specific functions or data.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "application programming interface",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q165194",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q165194",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "API"
   ]

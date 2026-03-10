@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AnnotationCriteriaType",
   "definition": "A 'deterministic annotation' provides an exact assignment of an entity or a list of entities to a defined annotation. The assignment itself can be based on a deterministic or maximum probability assumption.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "deterministic annotation",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

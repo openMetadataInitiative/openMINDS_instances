@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/Disease",
   "definition": "A generally slow growing tumor attached to the dura mater and composed of neoplastic meningothelial (arachnoidal) cells.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106789",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/BIRNLEX:12601#meningioma",
   "name": "meningioma",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/birnlex_12601",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/birnlex_12601"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/BIRNLEX:12601#meningioma",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0106789",
   "synonym": [
     "meningeal neoplasm",
     "meningothelial cell tumor",

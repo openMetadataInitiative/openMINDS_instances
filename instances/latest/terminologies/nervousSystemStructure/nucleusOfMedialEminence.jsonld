@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
   "definition": "Is a nucleus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002997)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107758",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002997#nucleus-of-medial-eminence-1",
   "name": "nucleus of medial eminence",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0107758"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002997#nucleus-of-medial-eminence-1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002997",
   "synonym": [
     "medial eminence nucleus",
@@ -16,4 +19,3 @@
     "nucleus of eminentia teres"
   ]
 }
-
