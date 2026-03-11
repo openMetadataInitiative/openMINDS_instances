@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/contrastAgentAdministration",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "A 'contrast agent administration' is a (typically) oral or intraveneous administration of a chemical compound to improve the visibility of internal body structures of a subject in a subsequent imaging technique.",
+  "description": null,
+  "name": "contrast agent administration",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

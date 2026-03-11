@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.vaa3d.surfaceformat",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".v3ds"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.vaa3d.surfaceformat",
+  "specification": null,
+  "synonym": [
+    "Vaa3d Surface Format"
+  ]
+}

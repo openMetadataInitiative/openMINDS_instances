@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_zip",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/application/zip"
+  ],
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".zip",
+    ".zipx"
+  ],
+  "isBasedOn": null,
+  "name": "application/zip",
+  "specification": "https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT",
+  "synonym": [
+    "ZIP",
+    "ZIP file",
+    "zipfile"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_medianAccessoryNucleusOfTheMedulla",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "MnA",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_medianAccessoryNucleusOfTheMedulla",
+  "name": "median accessory nucleus of the medulla",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

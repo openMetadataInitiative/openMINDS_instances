@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/NisslStaining",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "The term 'Nissl staining' refers to various basic dyes (e.g., aniline, thionine, cresyl violet) that selectively label negatively charged molecules (e.g., DNA, RNA) and are therefore typically used to highlight important structural features of cell bodies.",
+  "description": null,
+  "name": "Nissl staining",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Nissl",
+    "Nissl method"
+  ]
+}

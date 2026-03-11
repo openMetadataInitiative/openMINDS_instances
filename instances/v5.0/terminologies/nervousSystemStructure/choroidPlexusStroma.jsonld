@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/choroidPlexusStroma",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is part of the choroid plexus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005206)]",
+  "description": "Stromal matrix surrounding blood vessels within the choroid plexus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005206)]",
+  "name": "choroid plexus stroma",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0726217"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005206#choroid-plexus-stroma",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005206",
+  "synonym": [
+    "choroid plexus stromal matrix"
+  ]
+}

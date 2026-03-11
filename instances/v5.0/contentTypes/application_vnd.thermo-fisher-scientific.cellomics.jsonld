@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.thermo-fisher-scientific.cellomics",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".dib",
+    ".c01"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.thermo-fisher-scientific.cellomics",
+  "specification": null,
+  "synonym": null
+}

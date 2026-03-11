@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularHypothalamicNucleusAnteriorPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PVa",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_periventricularHypothalamicNucleusAnteriorPart",
+  "name": "periventricular hypothalamic nucleus, anterior part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

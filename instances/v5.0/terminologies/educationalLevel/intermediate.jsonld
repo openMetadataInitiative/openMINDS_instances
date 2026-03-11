@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/educationalLevel/intermediate",
+  "@type": "https://openminds.om-i.org/types/EducationalLevel",
+  "definition": "The learner has knowledge of the given topic, but is not an expert.",
+  "description": null,
+  "name": "intermediate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

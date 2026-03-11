@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.freesurfer.annotation",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".annot"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.freesurfer.annotation",
+  "specification": "https://surfer.nmr.mgh.harvard.edu/fswiki/LabelsClutsAnnotationFiles#Annotation",
+  "synonym": [
+    "FreeSurfer Annotation File"
+  ]
+}

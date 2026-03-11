@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusMedialBlademolecularLayer",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "DGmb-mo",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_dentateGyrusMedialBlademolecularLayer",
+  "name": "dentate gyrus, medial blade-molecular layer",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

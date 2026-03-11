@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.quicknii+xml",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/application/xml"
+  ],
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".xml"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.quicknii+xml",
+  "specification": null,
+  "synonym": [
+    "QuickNII Extensible Markup Language",
+    "QuickNII XML"
+  ]
+}

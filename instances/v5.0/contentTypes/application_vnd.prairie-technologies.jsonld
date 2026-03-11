@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.prairie-technologies",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".cfg",
+    ".xml",
+    ".tiff"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.prairie-technologies",
+  "specification": null,
+  "synonym": [
+    "Prairie Technologies TIFF"
+  ]
+}

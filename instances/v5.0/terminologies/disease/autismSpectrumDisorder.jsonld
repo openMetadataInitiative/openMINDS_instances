@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/disease/autismSpectrumDisorder",
+  "@type": "https://openminds.om-i.org/types/Disease",
+  "definition": null,
+  "description": null,
+  "name": "autism sprectrum disorder",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_0060041",
+  "synonym": null
+}

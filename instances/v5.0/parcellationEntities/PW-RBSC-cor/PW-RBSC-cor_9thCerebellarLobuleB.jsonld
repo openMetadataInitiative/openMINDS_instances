@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_9thCerebellarLobuleB",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "9bCb",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_9thCerebellarLobuleB",
+  "name": "9th cerebellar lobule, b",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

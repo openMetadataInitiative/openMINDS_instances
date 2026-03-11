@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.leica.scn",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".scn"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.leica.scn",
+  "specification": null,
+  "synonym": [
+    "Leica SCN"
+  ]
+}

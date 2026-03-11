@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/softwareFeature/virtualReality",
+  "@type": "https://openminds.om-i.org/types/SoftwareFeature",
+  "definition": null,
+  "description": null,
+  "name": "virtual reality",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q170519",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

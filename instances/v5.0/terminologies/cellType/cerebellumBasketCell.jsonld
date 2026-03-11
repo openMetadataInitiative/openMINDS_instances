@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/cerebellumBasketCell",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "An inhibitory GABAergic interneurons of the cerebellum, enmeshing the cell body of another neuron with its terminal axon ramifications.",
+  "description": null,
+  "name": "cerebellum basket cell",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/sao666951243"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/SAO:666951243#cerebellum-basket-cell",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0101964",
+  "synonym": [
+    "cerebellar basket cell"
+  ]
+}

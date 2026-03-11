@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/measuredQuantity",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "A qualified physical quantity that was measured/recorded",
+  "description": null,
+  "name": "measured quantity",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.neo.ascii.signal",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".tsv",
+    ".csv",
+    ".asc",
+    ".txt"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.neo.ascii.signal",
+  "specification": null,
+  "synonym": [
+    "NEO AnalogSignals"
+  ]
+}

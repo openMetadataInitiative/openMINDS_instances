@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hippocampalCommissuresDavid",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "hc",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_hippocampalCommissuresDavid",
+  "name": "hippocampal commissures [David]",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

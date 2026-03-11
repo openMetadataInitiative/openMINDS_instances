@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/pelvicGanglion",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a prevertebral ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016508)]",
+  "description": null,
+  "name": "pelvic ganglion",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0016508#pelvic-ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016508",
+  "synonym": [
+    "inferior hypogastric ganglion"
+  ]
+}

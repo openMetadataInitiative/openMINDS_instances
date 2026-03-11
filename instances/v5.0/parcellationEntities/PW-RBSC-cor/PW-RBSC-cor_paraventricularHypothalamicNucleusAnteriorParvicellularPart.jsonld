@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_paraventricularHypothalamicNucleusAnteriorParvicellularPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PaAP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_paraventricularHypothalamicNucleusAnteriorParvicellularPart",
+  "name": "paraventricular hypothalamic nucleus, anterior parvicellular part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

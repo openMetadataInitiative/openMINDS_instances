@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/disease/focalCerebralIschemia",
+  "@type": "https://openminds.om-i.org/types/Disease",
+  "definition": "A 'focal brain ischemia' occurs when a blood clot has occluded a cerebral vessel reducing the blood flow to a specific brain region which increases the risk of cell death in that particular area. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Brain_ischemia#Focal_brain_ischemia)]",
+  "description": null,
+  "name": "focal cerebral ischemia",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "focal brain ischemia",
+    "focal ischemic brain injury"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/microglialCell",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "'Microglial cells' are small, migratory, phagocytic, interstitial glial cells in the central nervous system.",
+  "description": null,
+  "name": "microglial cell",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106919"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0106919",
+  "synonym": null
+}

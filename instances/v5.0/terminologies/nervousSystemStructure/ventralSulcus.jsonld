@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/ventralSulcus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is part of the hypothalamus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000305)]",
+  "description": null,
+  "name": "ventral sulcus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2000305#ventral-sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000305",
+  "synonym": null
+}

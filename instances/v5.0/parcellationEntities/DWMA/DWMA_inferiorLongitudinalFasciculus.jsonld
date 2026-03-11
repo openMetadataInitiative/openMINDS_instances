@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_inferiorLongitudinalFasciculus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_deepWhiteMatter"
+    }
+  ],
+  "lookupLabel": "DWMA_inferiorLongitudinalFasciculus",
+  "name": "inferior longitudinal fasciculus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/inferiorLongitudinalFasciculus"
+  }
+}

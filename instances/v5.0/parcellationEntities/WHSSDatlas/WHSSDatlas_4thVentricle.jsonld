@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_4thVentricle",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "4V"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_4thVentricle",
+  "name": "4th ventricle",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

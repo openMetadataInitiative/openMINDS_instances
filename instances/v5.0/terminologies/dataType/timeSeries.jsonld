@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/dataType/timeSeries",
+  "@type": "https://openminds.om-i.org/types/DataType",
+  "definition": "A 'time series' is a list or matrix, where elements are ordered in equally spaced points in time.",
+  "description": null,
+  "name": "time series",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q186588",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "time-series"
+  ]
+}

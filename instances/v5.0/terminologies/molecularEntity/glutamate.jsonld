@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/glutamate",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Glutamate is the carboxylate anion of glutamic acid; and the major excitatory neurotransmitter in the central nervous system of vertebrates, the peripheral nervous system of invertebrates.",
+  "description": null,
+  "name": "glutamate",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/sao1744435799"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/SAO:1744435799#glutamate",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0104676",
+  "synonym": [
+    "GLU",
+    "Glu",
+    "Glut",
+    "GLUT"
+  ]
+}

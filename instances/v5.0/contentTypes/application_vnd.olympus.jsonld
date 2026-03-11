@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.olympus",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".oib"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.olympus",
+  "specification": null,
+  "synonym": [
+    "Olympus Image Binary"
+  ]
+}

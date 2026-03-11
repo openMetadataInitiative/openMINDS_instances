@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parietalRegionPosteriorAssociationAreas",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PTLp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_parietalRegionPosteriorAssociationAreas",
+  "name": "parietal region, posterior association areas",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

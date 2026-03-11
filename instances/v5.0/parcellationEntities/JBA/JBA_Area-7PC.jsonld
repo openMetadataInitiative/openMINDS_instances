@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-7PC",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_superiorParietalLobule"
+    }
+  ],
+  "lookupLabel": "JBA_Area-7PC",
+  "name": "Area 7PC (SPL)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

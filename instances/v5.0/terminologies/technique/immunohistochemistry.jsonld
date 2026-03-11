@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/immunohistochemistry",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "In 'immunohistochemistry' antigens or haptens are detected and visualized in cells of a tissue sections by exploiting the principle of antibodies binding specifically to antigens in biological tissues.",
+  "description": null,
+  "name": "immunohistochemistry",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "IHC"
+  ]
+}

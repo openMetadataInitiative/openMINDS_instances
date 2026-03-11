@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_extremeCapsule",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "ee",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_extremeCapsule",
+  "name": "extreme capsule",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

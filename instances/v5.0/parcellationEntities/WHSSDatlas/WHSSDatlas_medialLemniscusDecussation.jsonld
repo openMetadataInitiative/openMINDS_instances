@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_medialLemniscusDecussation",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "mlx"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_medialLemniscusDecussation",
+  "name": "medial lemniscus decussation",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

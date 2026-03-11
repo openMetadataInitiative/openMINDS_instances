@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/image_vnd.ilastik.segmentation+neuroglancer.precomputed",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": null,
+  "isBasedOn": null,
+  "name": "image/vnd.ilastik.segmentation+neuroglancer.precomputed",
+  "specification": null,
+  "synonym": [
+    "ilastik segmentation image (neuroglancer precomputed)"
+  ]
+}

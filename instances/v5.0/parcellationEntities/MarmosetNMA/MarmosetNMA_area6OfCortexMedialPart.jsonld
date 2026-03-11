@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area6OfCortexMedialPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "A6M",
+  "alternateName": [
+    "area 6 of cortex, medial (supplementary motor) part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_motorAndPremotorCorticalRegions"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area6OfCortexMedialPart",
+  "name": "area 6 of cortex medial (supplementary motor) part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

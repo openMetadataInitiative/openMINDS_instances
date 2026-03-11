@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_ependymalAndSubendymalLayerOlfactoryVentricle",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "E/OV",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_ependymalAndSubendymalLayerOlfactoryVentricle",
+  "name": "ependymal and subendymal layer/olfactory ventricle",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

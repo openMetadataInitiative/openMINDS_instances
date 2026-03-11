@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_internalMedullaryLamina",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "iml",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_internalMedullaryLamina",
+  "name": "internal medullary lamina",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

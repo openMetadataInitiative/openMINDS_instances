@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_lateralParabrachialNucleusSuperiorPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "LPBS",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_lateralParabrachialNucleusSuperiorPart",
+  "name": "lateral parabrachial nucleus, superior part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

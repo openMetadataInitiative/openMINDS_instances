@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.bci2000",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".dat"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.bci2000",
+  "specification": null,
+  "synonym": [
+    "BCI2000 File Format"
+  ]
+}

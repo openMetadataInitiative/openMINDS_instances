@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/softwareFeature/desktopEnvironment",
+  "@type": "https://openminds.om-i.org/types/SoftwareFeature",
+  "definition": null,
+  "description": null,
+  "name": "desktop environment",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q56155",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

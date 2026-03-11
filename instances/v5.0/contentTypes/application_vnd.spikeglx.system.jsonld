@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.spikeglx.system",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": null,
+  "isBasedOn": null,
+  "name": "application/vnd.spikeglx.system",
+  "specification": null,
+  "synonym": [
+    "SpikeGLX system"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_spinalTrigeminalNucleusOralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "Sp5O",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_spinalTrigeminalNucleusOralPart",
+  "name": "spinal trigeminal nucleus, oral part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

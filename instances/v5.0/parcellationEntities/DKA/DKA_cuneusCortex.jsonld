@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_cuneusCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_occipitalLobe"
+    }
+  ],
+  "lookupLabel": "DKA_cuneusCortex",
+  "name": "cuneus cortex",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cuneusCortex"
+  }
+}

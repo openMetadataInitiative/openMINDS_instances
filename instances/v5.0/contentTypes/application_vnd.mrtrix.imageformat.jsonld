@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.mrtrix.imageformat",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".mih",
+    ".mif.gz",
+    ".mif"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.mrtrix.imageformat",
+  "specification": null,
+  "synonym": [
+    "MRTrix Image Format"
+  ]
+}

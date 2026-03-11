@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.openmetadatainitiative.openminds.schema-tpl+json",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": "Simplified openMINDS-specific schema template that defines properties and values of linked data. Has to be extended with additional information to become a fully valid openMINDS schema.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".schema.tpl.json"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.openmetadatainitiative.openminds.schema-tpl+json",
+  "specification": null,
+  "synonym": [
+    "openMINDS schema template"
+  ]
+}

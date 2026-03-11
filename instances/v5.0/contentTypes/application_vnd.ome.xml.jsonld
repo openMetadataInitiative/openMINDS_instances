@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.ome.xml",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".ome.xml",
+    ".ome"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.ome.xml",
+  "specification": null,
+  "synonym": [
+    "OME-XML"
+  ]
+}

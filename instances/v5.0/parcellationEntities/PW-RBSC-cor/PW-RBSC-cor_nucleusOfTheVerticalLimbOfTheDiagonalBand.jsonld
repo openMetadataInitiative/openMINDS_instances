@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheVerticalLimbOfTheDiagonalBand",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "VDB",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_nucleusOfTheVerticalLimbOfTheDiagonalBand",
+  "name": "nucleus of the vertical limb of the diagonal band",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

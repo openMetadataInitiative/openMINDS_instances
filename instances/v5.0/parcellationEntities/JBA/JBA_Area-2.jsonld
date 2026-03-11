@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-2",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_postcentralGyrus"
+    }
+  ],
+  "lookupLabel": "JBA_Area-2",
+  "name": "Area 2 (PostCS)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

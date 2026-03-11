@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/retrochiasmaticArea",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is part of the medial zone of hypothalamus and the intermediate hypothalamic region. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001933)]",
+  "description": null,
+  "name": "retrochiasmatic area",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0726953"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001933#retrochiasmatic-area-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001933",
+  "synonym": [
+    "retrochiasmatic region"
+  ]
+}

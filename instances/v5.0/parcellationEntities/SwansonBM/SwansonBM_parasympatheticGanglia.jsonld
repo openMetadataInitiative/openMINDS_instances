@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasympatheticGanglia",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "GPA",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_parasympatheticGanglia",
+  "name": "parasympathetic ganglia",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

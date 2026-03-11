@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_anteriorPretectalNucleusVentralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "APTV",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_anteriorPretectalNucleusVentralPart",
+  "name": "anterior pretectal nucleus, ventral part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

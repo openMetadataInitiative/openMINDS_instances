@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/nitricOxideSynthaseExpressingNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "Any neuron that expresses nitric oxide synthase.",
+  "description": null,
+  "name": "nitric oxide synthase expressing neuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "nitric oxide synthase expressing cell",
+    "nitric oxide synthase-positive cell",
+    "nitric oxide synthase-positive neuron",
+    "NOS+ cell",
+    "NOS+ neuron",
+    "NOS-expressing cell",
+    "NOS-expressing neuron",
+    "NOS-positive cell",
+    "NOS-positive neuron"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/programmingLanguage/R",
+  "@type": "https://openminds.om-i.org/types/ProgrammingLanguage",
+  "definition": null,
+  "description": null,
+  "name": "R",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q206904",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

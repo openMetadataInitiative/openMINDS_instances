@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/vascularEndothelialCell",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "Cells that constitute the inner cellular lining of arteries, veins and capillaries.",
+  "description": null,
+  "name": "vascular endothelial cell",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/sao1543450574"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/SAO:1543450574#vascular-endothelial-cell",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0112265",
+  "synonym": [
+    "endothelial cell"
+  ]
+}

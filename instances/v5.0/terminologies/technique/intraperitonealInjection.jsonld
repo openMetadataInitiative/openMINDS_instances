@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/intraperitonealInjection",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "An 'intraperitoneal injection' is the administration of a substance into the peritoneum (abdominal cavity) via a needle or tube.",
+  "description": null,
+  "name": "intraperitoneal injection",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "i.p.",
+    "i.p. injection",
+    "IP",
+    "IP injection"
+  ]
+}

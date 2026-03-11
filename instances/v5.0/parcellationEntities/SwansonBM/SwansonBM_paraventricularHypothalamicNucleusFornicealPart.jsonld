@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusFornicealPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PVHf",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_paraventricularHypothalamicNucleusFornicealPart",
+  "name": "paraventricular hypothalamic nucleus, forniceal part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

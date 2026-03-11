@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/ketamine",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Ketamine is a cyclohexanone derivative used for induction of anesthesia.",
+  "description": null,
+  "name": "ketamine",
+  "otherCrossReference": [
+    "https://www.drugbank.ca/drugs/DB01221"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NIFSTD:DB01221#ketamine",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0105850",
+  "synonym": [
+    "(-)-ketamine",
+    "(S)-(-)-ketamine",
+    "(S)-ketamine",
+    "Cl 581 base",
+    "esketamine",
+    "I-ketamine",
+    "ketaject",
+    "ketalar",
+    "ketalor",
+    "ketanest"
+  ]
+}

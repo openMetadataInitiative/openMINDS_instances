@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/aromataseExpressingNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "Any neuron that expresses aromatase.",
+  "description": null,
+  "name": "aromatase expressing neuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "aromatase expressing cell",
+    "aromatase-positive cell",
+    "aromatase-positive neuron"
+  ]
+}

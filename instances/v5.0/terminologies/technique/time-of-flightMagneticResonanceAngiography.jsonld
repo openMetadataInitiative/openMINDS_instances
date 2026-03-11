@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/time-of-flightMagneticResonanceAngiography",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "'Time-of-flight magnetic resonance angiography' is a non-invasive, non-contrast-enhanced technique used to visualize both arterial and venous vessels with high spatial resolution. Note: it provides no information regarding directionality nor flow velocity quantification. [adapted from:  [Ferreira and Ramalho, 2013](https://doi.org/10.1002/9781118434550.ch7)]",
+  "description": null,
+  "name": "time-of-flight magnetic resonance angiography",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "time-of-flight",
+    "time-of-flight angiography",
+    "time-of-flight MR angiography",
+    "time-of-flight MRA",
+    "TOF",
+    "TOF angiography",
+    "TOF magnetic resonance angiography",
+    "TOF MRA"
+  ]
+}

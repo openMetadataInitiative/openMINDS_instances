@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/softwareFeature/statisticalDataTypes",
+  "@type": "https://openminds.om-i.org/types/SoftwareFeature",
+  "definition": null,
+  "description": null,
+  "name": "statistical data types",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q7604387",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

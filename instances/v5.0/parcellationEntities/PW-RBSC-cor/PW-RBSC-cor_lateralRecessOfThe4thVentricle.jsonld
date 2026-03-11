@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_lateralRecessOfThe4thVentricle",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "LR4V",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_lateralRecessOfThe4thVentricle",
+  "name": "lateral recess of the 4th ventricle",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/disease/alzheimersDisease",
+  "@type": "https://openminds.om-i.org/types/Disease",
+  "definition": null,
+  "description": null,
+  "name": "Alzheimer's disease",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_10652",
+  "synonym": null
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-hPO1",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_parieto-occipitalSulcus"
+    }
+  ],
+  "lookupLabel": "JBA_Area-hPO1",
+  "name": "Area hPO1 (POS)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

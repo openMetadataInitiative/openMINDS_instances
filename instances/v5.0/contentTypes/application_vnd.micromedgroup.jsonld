@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.micromedgroup",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".trc"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.micromedgroup",
+  "specification": null,
+  "synonym": [
+    "Micromed files"
+  ]
+}

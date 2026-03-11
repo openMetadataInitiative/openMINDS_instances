@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_striatonigralPathway",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "snp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_striatonigralPathway",
+  "name": "striatonigral pathway",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

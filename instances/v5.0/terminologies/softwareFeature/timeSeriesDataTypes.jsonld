@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/softwareFeature/timeSeriesDataTypes",
+  "@type": "https://openminds.om-i.org/types/SoftwareFeature",
+  "definition": null,
+  "description": null,
+  "name": "time series data types",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q186588",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

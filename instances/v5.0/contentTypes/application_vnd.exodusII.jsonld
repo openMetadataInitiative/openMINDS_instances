@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.exodusII",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".gen",
+    ".g",
+    ".exoii",
+    ".exo",
+    ".exii",
+    ".ex2v2",
+    ".ex2",
+    ".e",
+    ".0000",
+    ".000",
+    ".00",
+    ".0"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.exodusII",
+  "specification": null,
+  "synonym": null
+}

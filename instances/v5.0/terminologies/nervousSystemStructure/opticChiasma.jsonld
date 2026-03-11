@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/opticChiasma",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a decussation of diencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000959)]",
+  "description": "A decussation of the diencephalon where the fibers of the optic nerve cross. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000959)]",
+  "name": "optic chiasma",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108069"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0000959#optic-chiasm",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000959",
+  "synonym": [
+    "chiasma opticum",
+    "decussation of optic nerve fibers",
+    "optic chiasm"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionDorsomedialNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": "BSTdm",
+  "additionalRemarks": null,
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": null,
+  "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionDorsomedialNucleus"
+  },
+  "lookupLabel": "SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionDorsomedialNucleus",
+  "name": "bed nuclei stria terminalis, anterior division, dorsomedial nucleus",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "3rd ed.",
+  "versionInnovation": null
+}

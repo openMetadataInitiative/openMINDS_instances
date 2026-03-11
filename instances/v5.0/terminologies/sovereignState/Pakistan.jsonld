@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Pakistan",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in South Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q843)]",
+  "description": null,
+  "name": "Pakistan",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q843",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Islamic Republic of Pakistan",
+    "PAK",
+    "PK",
+    "pk",
+    "Pákistán",
+    "Republic of Pakistan"
+  ]
+}

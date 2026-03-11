@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/interneuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "An 'interneuron' is neuron that cannot be classified as sensory receptor or motor neuron.",
+  "description": null,
+  "name": "interneuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

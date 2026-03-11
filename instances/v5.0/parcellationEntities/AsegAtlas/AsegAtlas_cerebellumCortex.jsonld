@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AsegAtlas_cerebellumCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "AsegAtlas_cerebellumCortex",
+  "name": "cerebellum cortex",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cerebellarCortex"
+  }
+}

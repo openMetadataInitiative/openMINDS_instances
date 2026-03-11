@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_nucleusOfOriginOfEfferentsOfTheVestibularNerve",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "EVe",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_nucleusOfOriginOfEfferentsOfTheVestibularNerve",
+  "name": "nucleus of origin of efferents of the vestibular nerve",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/ageCategory/adult",
+  "@type": "https://openminds.om-i.org/types/AgeCategory",
+  "definition": "'Adult' categorizes the life cycle stage of an animal or human that reached sexual maturity.",
+  "description": null,
+  "name": "adult",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0729043"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000113",
+  "synonym": [
+    "adult stage",
+    "post-juvenile adult",
+    "post-juvenile adult stage"
+  ]
+}

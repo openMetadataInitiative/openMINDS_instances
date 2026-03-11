@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Tuberculum",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_olfactoryCortex"
+    }
+  ],
+  "lookupLabel": "JBA_Tuberculum",
+  "name": "Tuberculum (Basal Forebrain)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

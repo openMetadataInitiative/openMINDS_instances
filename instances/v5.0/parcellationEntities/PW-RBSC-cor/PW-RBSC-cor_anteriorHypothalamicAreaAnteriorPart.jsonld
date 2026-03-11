@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_anteriorHypothalamicAreaAnteriorPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "AHA",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_anteriorHypothalamicAreaAnteriorPart",
+  "name": "anterior hypothalamic area, anterior part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

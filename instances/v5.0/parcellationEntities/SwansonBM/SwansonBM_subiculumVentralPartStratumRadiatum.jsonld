@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumVentralPartStratumRadiatum",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "SUBv-sr",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_subiculumVentralPartStratumRadiatum",
+  "name": "subiculum, ventral part, stratum radiatum",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/quantitativeSusceptibilityMapping",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "MRI technique, where the voxel intensity is linear proportional to the underlying tissue [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Quantitative_susceptibility_mapping)].",
+  "description": null,
+  "name": "quantitative susceptibility mapping",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "QSM"
+  ]
+}

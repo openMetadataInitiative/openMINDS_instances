@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_parsOpercularis",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_inferiorFrontalGyrus"
+    }
+  ],
+  "lookupLabel": "DKA_parsOpercularis",
+  "name": "pars opercularis",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/opercularPartOfInferiorFrontalGyrus"
+  }
+}

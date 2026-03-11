@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralSpinothalamicTract",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "sttv",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_ventralSpinothalamicTract",
+  "name": "ventral spinothalamic tract",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

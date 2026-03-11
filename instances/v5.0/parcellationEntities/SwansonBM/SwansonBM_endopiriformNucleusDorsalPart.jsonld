@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_endopiriformNucleusDorsalPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "EPd",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_endopiriformNucleusDorsalPart",
+  "name": "endopiriform nucleus, dorsal part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

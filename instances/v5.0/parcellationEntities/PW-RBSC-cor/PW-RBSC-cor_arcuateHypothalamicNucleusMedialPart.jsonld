@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_arcuateHypothalamicNucleusMedialPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "ArcM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_arcuateHypothalamicNucleusMedialPart",
+  "name": "arcuate hypothalamic nucleus, medial part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

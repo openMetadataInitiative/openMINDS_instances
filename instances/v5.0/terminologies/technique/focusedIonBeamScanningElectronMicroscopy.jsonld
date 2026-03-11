@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/focusedIonBeamScanningElectronMicroscopy",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Focused ion beam scanning electron microscopy is a serial section scanning electron microscopy technique where a focused ion beam is used to ablate the surface of a specimen.",
+  "description": null,
+  "name": "focused ion beam scanning electron microscopy",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/245"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0739434",
+  "synonym": [
+    "FIB-SEM",
+    "FIB/SEM",
+    "FIBSEM",
+    "focused ion beam scanning electron microscoscopy technique"
+  ]
+}

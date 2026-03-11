@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.Accent",
+  "@type": "https://openminds.om-i.org/types/Colormap",
+  "definition": "The colormap 'Accent' is a qualitative colormap of the Python plotting library Matplotlib.",
+  "description": null,
+  "name": "matplotlib.colormaps.Accent",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Accent"
+  ]
+}

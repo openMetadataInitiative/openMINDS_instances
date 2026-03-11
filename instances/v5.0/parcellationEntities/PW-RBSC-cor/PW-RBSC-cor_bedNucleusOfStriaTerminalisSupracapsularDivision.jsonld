@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivision",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "STS",
+  "alternateName": [
+    "bed nucleus of the stria terminalis, supracapsular division"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivision",
+  "name": "bed nucleus of stria terminalis, supracapsular division",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}
