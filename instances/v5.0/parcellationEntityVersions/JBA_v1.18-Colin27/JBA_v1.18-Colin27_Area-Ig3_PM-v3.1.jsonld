@@ -1,0 +1,69 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Ig3_PM-v3.1",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": null,
+  "additionalRemarks": null,
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": null,
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
+        }
+      ],
+      "preferredVisualization": null,
+      "specification": null,
+      "type": null
+    },
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": null,
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/right"
+        }
+      ],
+      "preferredVisualization": null,
+      "specification": null,
+      "type": null
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_granularInsula"
+    }
+  ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-Ig3"
+  },
+  "lookupLabel": "JBA_v1.18-Colin27_Area-Ig3_PM-v3.1",
+  "name": "Area Ig3 (Insula)",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "v1.18-Colin27, PM-v3.1",
+  "versionInnovation": null
+}

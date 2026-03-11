@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v2_striaMedullarisOfTheThalamus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": null,
+  "additionalRemarks": null,
+  "alternateName": [
+    "sm",
+    "stria medullaris thalami"
+  ],
+  "correctedName": null,
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": "61",
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
+        },
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/right"
+        }
+      ],
+      "preferredVisualization": {
+        "@type": "https://openminds.om-i.org/types/ViewerSpecification",
+        "additionalRemarks": null,
+        "anchorPoint": null,
+        "cameraPosition": null,
+        "preferredDisplayColor": {
+          "@id": "https://openminds.om-i.org/instances/singleColor/#FFFC00"
+        }
+      },
+      "specification": null,
+      "type": null
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_thalamicTracts"
+    }
+  ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_striaMedullarisThalami"
+  },
+  "lookupLabel": "WHSSDatlas_v2_striaMedullarisOfTheThalamus",
+  "name": "stria medullaris of the thalamus",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "v2",
+  "versionInnovation": null
+}

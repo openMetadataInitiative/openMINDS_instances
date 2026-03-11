@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_principalSensoryTrigeminalNucleusVentrolateralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "Pr5VL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_principalSensoryTrigeminalNucleusVentrolateralPart",
+  "name": "principal sensory trigeminal nucleus, ventrolateral part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

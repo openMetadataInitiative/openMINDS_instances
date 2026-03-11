@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/CostaRica",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Central America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q800)]",
+  "description": null,
+  "name": "Costa Rica",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q800",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "CR",
+    "cr",
+    "CRC",
+    "CRI",
+    "Republic of Costa Rica",
+    "República de Costa Rica"
+  ]
+}

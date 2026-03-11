@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/lateralMammillaryNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a hypothalamic nucleus. Is part of the mammillary body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001938) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "lateral mammillary nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106075"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001938#lateral-mammillary-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001938",
+  "synonym": [
+    "lateral mammillary hypothalamic nucleus",
+    "lateral nucleus of mammillary body",
+    "nucleus mammillaris lateralis"
+  ]
+}

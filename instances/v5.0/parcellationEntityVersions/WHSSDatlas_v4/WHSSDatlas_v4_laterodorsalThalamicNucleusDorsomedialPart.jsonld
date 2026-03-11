@@ -1,0 +1,61 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_laterodorsalThalamicNucleusDorsomedialPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": null,
+  "additionalRemarks": null,
+  "alternateName": [
+    "LD-dm"
+  ],
+  "correctedName": null,
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": "228",
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
+        },
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/right"
+        }
+      ],
+      "preferredVisualization": {
+        "@type": "https://openminds.om-i.org/types/ViewerSpecification",
+        "additionalRemarks": null,
+        "anchorPoint": null,
+        "cameraPosition": null,
+        "preferredDisplayColor": {
+          "@id": "https://openminds.om-i.org/instances/singleColor/#FF7B00"
+        }
+      },
+      "specification": null,
+      "type": null
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_laterodorsalThalamicNucleiOfTheDorsalThalamus"
+    }
+  ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_laterodorsalThalamicNucleusDorsomedialPart"
+  },
+  "lookupLabel": "WHSSDatlas_v4_laterodorsalThalamicNucleusDorsomedialPart",
+  "name": "laterodorsal thalamic nucleus, dorsomedial part",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "v4",
+  "versionInnovation": null
+}

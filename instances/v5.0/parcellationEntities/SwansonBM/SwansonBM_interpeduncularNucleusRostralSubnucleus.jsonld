@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusRostralSubnucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "IPNr",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_interpeduncularNucleusRostralSubnucleus",
+  "name": "interpeduncular nucleus, rostral subnucleus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

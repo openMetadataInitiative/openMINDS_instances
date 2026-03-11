@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/cyclicAdenosineMonophosphate",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Cyclic adenosine monophosphate is a second messenger important in many biological processes.",
+  "description": null,
+  "name": "cyclic adenosine monophosphate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/ilx_0100318"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/CHEBI:17489#3-5-cyclic-amp",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_17489",
+  "synonym": [
+    "3',5'-cyclic AMP",
+    "3',5'-cylic adenosine monophosphate",
+    "adenosine 3',5'-cyclic monophosphate",
+    "cAMP",
+    "cyclic AMP"
+  ]
+}

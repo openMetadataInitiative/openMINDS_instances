@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/hippocampusFimbria",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a central nervous system cell part cluster. Is part of the fornix of brain, the Ammon's horn and the white matter of telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002310) ('is_a' and 'relationship')]",
+  "description": "Regional part of fornix consisting of a prominent white matter structure adjacent to the hippocampus on the ventricular side continuous with the alveus. Near the splenium the fimbria separates from the hippocampus as the crus of the fornix. (MM: 2006-10-26). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002310)]",
+  "name": "hippocampus fimbria",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104243"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002310#fimbria-of-hippocampus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002310",
+  "synonym": [
+    "fimbria hippocampus",
+    "fimbria of hippocampus",
+    "fimbria of the fornix",
+    "fimbria-fornix",
+    "hippocampal fimbria",
+    "neuraxis fimbria"
+  ]
+}

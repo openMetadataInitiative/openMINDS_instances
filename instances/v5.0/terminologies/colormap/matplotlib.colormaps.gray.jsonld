@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.gray",
+  "@type": "https://openminds.om-i.org/types/Colormap",
+  "definition": "The colormap 'gray' is a sequential (type 2) colormap of the Python plotting library Matplotlib.",
+  "description": null,
+  "name": "matplotlib.colormaps.gray",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "gray"
+  ]
+}

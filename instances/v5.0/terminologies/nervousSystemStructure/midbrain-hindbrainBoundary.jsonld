@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/midbrain-hindbrainBoundary",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003052)]",
+  "description": "The part of the brain that is the morphological boundary between the midbrain and hindbrain and that is the location of an organizing center which patterns the midbrain and hindbrain primordia of the neural plate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003052)]",
+  "name": "midbrain-hindbrain boundary",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0728815"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003052#midbrain-hindbrain-boundary",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003052",
+  "synonym": [
+    "MHB",
+    "mid-hindbrain boundary",
+    "mid-hindbrain junction",
+    "midbrain hindbrain boundary"
+  ]
+}

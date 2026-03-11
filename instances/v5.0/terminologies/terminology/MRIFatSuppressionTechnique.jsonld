@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/MRIFatSuppressionTechnique",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "A terminology defining methods for reducing or separating fat signal in MRI using spectral, inversion recovery, or water–fat decomposition techniques.",
+  "description": null,
+  "name": "MRI fat suppression technique",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

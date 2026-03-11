@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/communicationInterfaceType/RPCAPI",
+  "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
+  "definition": "An application programming interface that allows remote functions in external servers to be called as if they were local functions.",
+  "description": null,
+  "name": "RPC API",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Remote Procedure Call API"
+  ]
+}

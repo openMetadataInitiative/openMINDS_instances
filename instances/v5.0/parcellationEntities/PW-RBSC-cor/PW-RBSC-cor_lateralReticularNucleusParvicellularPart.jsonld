@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_lateralReticularNucleusParvicellularPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "LRtPC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_lateralReticularNucleusParvicellularPart",
+  "name": "lateral reticular nucleus, parvicellular part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

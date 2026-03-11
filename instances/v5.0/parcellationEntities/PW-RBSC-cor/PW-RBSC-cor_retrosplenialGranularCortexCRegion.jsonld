@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_retrosplenialGranularCortexCRegion",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "RSGc",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_retrosplenialGranularCortexCRegion",
+  "name": "retrosplenial granular cortex, c region",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-p24c.pd24cv",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-p24c"
+    }
+  ],
+  "lookupLabel": "JBA_Area-p24c.pd24cv",
+  "name": "Area p24c.pd24cv (pACC)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_schema+json",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/application/schema+json"
+  ],
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".schema.json",
+    ".json",
+    ".jschema",
+    ".jsd",
+    ".jsonsd"
+  ],
+  "isBasedOn": null,
+  "name": "application/schema+json",
+  "specification": null,
+  "synonym": [
+    "JSON Schema"
+  ]
+}

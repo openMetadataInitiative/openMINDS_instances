@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/primarySomatosensoryAreaBarrelFieldLayer6b",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a layer of neocortex. Is part of the barrel cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035875) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "primary somatosensory area barrel field layer 6b",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109294"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035875#primary-somatosensory-area-barrel-field-layer-6b",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035875",
+  "synonym": null
+}

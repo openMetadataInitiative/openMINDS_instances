@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/hindbrainCorticalIntermediateZone",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a cortical intermediate zone. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034994) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "hindbrain cortical intermediate zone",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0733012"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034994#hindbrain-cortical-intermediate-zone",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034994",
+  "synonym": [
+    "hindbrain mantle layer"
+  ]
+}

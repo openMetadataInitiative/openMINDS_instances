@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/disease/glioma",
+  "@type": "https://openminds.om-i.org/types/Disease",
+  "definition": "A benign or malignant brain and spinal cord tumor that arises from glial cells (astrocytes, oligodendrocytes, ependymal cells).",
+  "description": null,
+  "name": "glioma",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/birnlex_12618"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/BIRNLEX:12618#glioma",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0104647",
+  "synonym": [
+    "glial neoplasm",
+    "neoplasm of the neuroglia",
+    "neuroglial neoplasm",
+    "neuroglial tumor",
+    "tumor of neuroglia",
+    "tumor of the neuroglia"
+  ]
+}

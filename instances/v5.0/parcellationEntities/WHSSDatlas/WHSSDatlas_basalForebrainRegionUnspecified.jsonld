@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_basalForebrainRegionUnspecified",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "BFR-u"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_basalForebrainRegionUnspecified",
+  "name": "basal forebrain region, unspecified",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

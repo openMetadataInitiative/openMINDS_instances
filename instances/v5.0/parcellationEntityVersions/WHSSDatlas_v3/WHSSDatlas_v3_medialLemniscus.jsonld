@@ -1,0 +1,61 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_medialLemniscus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": null,
+  "additionalRemarks": "both .label file name and .mbat file name are \"medial lemniscus\", but name was changed to reflect the possibility for subdivision; abbreviation for the corrected name has been added under \"alternateName\" instead of the abbreviation from the .mbat file; for details, see atlas documentation",
+  "alternateName": [
+    "ml-u"
+  ],
+  "correctedName": "medial lemniscus, unspecified",
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": "34",
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
+        },
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/right"
+        }
+      ],
+      "preferredVisualization": {
+        "@type": "https://openminds.om-i.org/types/ViewerSpecification",
+        "additionalRemarks": null,
+        "anchorPoint": null,
+        "cameraPosition": null,
+        "preferredDisplayColor": {
+          "@id": "https://openminds.om-i.org/instances/singleColor/#D4FF00"
+        }
+      },
+      "specification": null,
+      "type": null
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_medialLemniscus"
+    }
+  ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_medialLemniscusUnspecified"
+  },
+  "lookupLabel": "WHSSDatlas_v3_medialLemniscus",
+  "name": "medial lemniscus",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "v3",
+  "versionInnovation": null
+}

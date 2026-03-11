@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/berghiaStephanieae",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "The species *Berghia stephanieae* belongs to the family of *aeolidiidae* (family of sea slugs, shell-less marine gastropod molluscs).",
+  "description": null,
+  "name": "Berghia stephanieae",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_1287507",
+  "synonym": [
+    "aeolidiella stephanieae"
+  ]
+}

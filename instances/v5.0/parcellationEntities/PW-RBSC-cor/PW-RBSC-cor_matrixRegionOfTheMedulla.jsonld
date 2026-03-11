@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_matrixRegionOfTheMedulla",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "Mx",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_matrixRegionOfTheMedulla",
+  "name": "matrix region of the medulla",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

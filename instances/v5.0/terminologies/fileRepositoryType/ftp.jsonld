@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/fileRepositoryType/ftp",
+  "@type": "https://openminds.om-i.org/types/FileRepositoryType",
+  "definition": "A 'FTP repository' is located on a server that uses the file transfer protocol (FTP), a standard internet communication protocol which allows the transfer of files between clients and a server.",
+  "description": null,
+  "name": "FTP repository",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "file transfer protocol repository"
+  ]
+}

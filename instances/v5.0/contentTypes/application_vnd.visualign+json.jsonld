@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.visualign+json",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/application/json"
+  ],
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".json"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.visualign+json",
+  "specification": null,
+  "synonym": [
+    "VisuAlign JavaScript Object Notation",
+    "VisuAlign JSON"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_corticofugalTractAndCoronaRadiata",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "ic-cp-lfp-py",
+    "descending corticofugal pathways"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_corticofugalTractAndCoronaRadiata",
+  "name": "corticofugal tract and corona radiata",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

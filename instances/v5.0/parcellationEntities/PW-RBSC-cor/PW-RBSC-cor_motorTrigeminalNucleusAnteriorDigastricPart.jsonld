@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_motorTrigeminalNucleusAnteriorDigastricPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "5ADi",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_motorTrigeminalNucleusAnteriorDigastricPart",
+  "name": "motor trigeminal nucleus, anterior digastric part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

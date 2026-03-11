@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_commissuralStriaTerminalis",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "cst",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_commissuralStriaTerminalis",
+  "name": "commissural stria terminalis",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/dualViewInvertedSelectivePlaneIlluminationMicroscopy",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Dual-view inverted selective plane illumination microscopy is a specialized light sheet microscopy technique that allows for dual views of the samples while mounted on an inverted microscope.",
+  "description": null,
+  "name": "dual-view inverted selective plane illumination microscopy",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "diSPIM",
+    "dual-view inverted light sheet fluorescence microscopy",
+    "dual-view inverted light sheet microscopy"
+  ]
+}

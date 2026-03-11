@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_pdf",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/application/pdf"
+  ],
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".pdf"
+  ],
+  "isBasedOn": null,
+  "name": "application/pdf",
+  "specification": "https://www.pdfa.org/resource/iso-32000-2-pdf-2-0/",
+  "synonym": [
+    "Adobe Portable Document Format",
+    "PDF"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/dataType/vectorGraphic",
+  "@type": "https://openminds.om-i.org/types/DataType",
+  "definition": "A 'vector graphic' is an associative array defining points, lines and curves which can be rendered to a raster graphic.",
+  "description": null,
+  "name": "vector graphic",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q170130",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "vector image"
+  ]
+}

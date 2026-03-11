@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.voluba.v1.linearTransform+json",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".json"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.voluba.v1.linearTransform+json",
+  "specification": null,
+  "synonym": [
+    "VoluBA (v1) Linear Transformation"
+  ]
+}

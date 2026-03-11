@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionVentralZone",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "SPVOmdmv",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionVentralZone",
+  "name": "spinal nucleus of the trigeminal, oral part, middle dorsomedial region, ventral zone",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/intrabody",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "An 'intrabody' is an antibody that works within the cell to bind an intracellular protein.",
+  "description": null,
+  "name": "intrabody",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

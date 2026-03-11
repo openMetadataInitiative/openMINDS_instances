@@ -1,0 +1,61 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_cornuAmmonis2",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": null,
+  "additionalRemarks": null,
+  "alternateName": [
+    "CA2"
+  ],
+  "correctedName": null,
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/deterministicAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": "97",
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
+        },
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/right"
+        }
+      ],
+      "preferredVisualization": {
+        "@type": "https://openminds.om-i.org/types/ViewerSpecification",
+        "additionalRemarks": null,
+        "anchorPoint": null,
+        "cameraPosition": null,
+        "preferredDisplayColor": {
+          "@id": "https://openminds.om-i.org/instances/singleColor/#FFFF00"
+        }
+      },
+      "specification": null,
+      "type": null
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cornuAmmonis"
+    }
+  ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cornuAmmonis2"
+  },
+  "lookupLabel": "WHSSDatlas_v4_cornuAmmonis2",
+  "name": "cornu ammonis 2",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "v4",
+  "versionInnovation": null
+}

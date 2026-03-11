@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/handedness/rightHandedness",
+  "@type": "https://openminds.om-i.org/types/Handedness",
+  "definition": "Handedness where the organism preferentially uses the right hand or foot for tasks requiring the use of a single hand or foot.",
+  "description": null,
+  "name": "right handedness",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

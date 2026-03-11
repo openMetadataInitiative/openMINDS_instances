@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfDarkschewitsch",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "ND",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_nucleusOfDarkschewitsch",
+  "name": "nucleus of Darkschewitsch",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

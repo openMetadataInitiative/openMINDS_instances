@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.spm",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".mat"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.spm",
+  "specification": null,
+  "synonym": null
+}

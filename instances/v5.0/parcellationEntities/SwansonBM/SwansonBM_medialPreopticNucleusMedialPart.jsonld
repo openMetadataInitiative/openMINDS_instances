@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPreopticNucleusMedialPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "MPNm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_medialPreopticNucleusMedialPart",
+  "name": "medial preoptic nucleus, medial part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

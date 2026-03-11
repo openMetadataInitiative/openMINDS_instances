@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_intermediateInterstitialNucleusOfTheMedialLongitudinalFasciculus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "II",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_intermediateInterstitialNucleusOfTheMedialLongitudinalFasciculus",
+  "name": "intermediate interstitial nucleus of the medial longitudinal fasciculus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

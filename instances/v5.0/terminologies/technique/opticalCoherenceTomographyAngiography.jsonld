@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/opticalCoherenceTomographyAngiography",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Imaging technique that uses laser light reflectance of the surface from moving red blood cells to create detailed images of blood vessels over time [Adapted from [EyeWiki](https://eyewiki.aao.org/Optical_Coherence_Tomography_Angiography)].",
+  "description": null,
+  "name": "optical coherence tomography angiography",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "OCT-A"
+  ]
+}

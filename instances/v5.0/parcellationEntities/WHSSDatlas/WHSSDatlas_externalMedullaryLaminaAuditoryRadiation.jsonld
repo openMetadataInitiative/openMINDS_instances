@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_externalMedullaryLaminaAuditoryRadiation",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "eml-ar",
+    "auditory radiation"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_externalMedullaryLaminaAuditoryRadiation",
+  "name": "external medullary lamina, auditory radiation",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

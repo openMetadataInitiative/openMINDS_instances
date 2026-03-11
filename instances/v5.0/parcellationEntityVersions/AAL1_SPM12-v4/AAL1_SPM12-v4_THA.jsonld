@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_THA",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": "THA",
+  "additionalRemarks": null,
+  "alternateName": [
+    "THA",
+    "Thalamus"
+  ],
+  "correctedName": null,
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": null,
+      "inspiredBy": null,
+      "internalIdentifier": "7101",
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
+        }
+      ],
+      "preferredVisualization": null,
+      "specification": null,
+      "type": null
+    },
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": null,
+      "inspiredBy": null,
+      "internalIdentifier": "7102",
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/right"
+        }
+      ],
+      "preferredVisualization": null,
+      "specification": null,
+      "type": null
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_subcorticalGrayNuclei"
+    }
+  ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_THA"
+  },
+  "lookupLabel": "AAL1_SPM12-v4_THA",
+  "name": "thalamus",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "SPM12, v4",
+  "versionInnovation": null
+}

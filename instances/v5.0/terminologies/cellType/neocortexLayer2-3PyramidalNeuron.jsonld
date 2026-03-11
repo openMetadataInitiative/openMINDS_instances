@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/neocortexLayer2-3PyramidalNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "An excitatory neuron type with a pyramidal-shaped cell body that is located in layer 2/3 of the neocortex.",
+  "description": null,
+  "name": "neocortex layer 2/3 pyramidal neuron",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/nifext_49"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NIFEXT:49#neocortex-pyramidal-cell-layer-2-3",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0107387",
+  "synonym": [
+    "layer 2/3 pyramidal cell",
+    "layer 2/3 pyramidal neuron",
+    "neocortex layer 2/3 pyramidal neuron",
+    "neocortex pyramidal layer 2/3 cell",
+    "superficial pyramidal neuron",
+    "supericial pyramidal cell"
+  ]
+}

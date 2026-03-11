@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_supraoculomotorPeriaqueductalGray",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "Su3",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_supraoculomotorPeriaqueductalGray",
+  "name": "supraoculomotor periaqueductal gray",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

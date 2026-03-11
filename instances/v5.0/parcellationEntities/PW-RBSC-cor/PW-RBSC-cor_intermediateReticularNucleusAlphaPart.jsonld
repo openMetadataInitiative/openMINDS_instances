@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_intermediateReticularNucleusAlphaPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "IRtA",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_intermediateReticularNucleusAlphaPart",
+  "name": "intermediate reticular nucleus, alpha part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

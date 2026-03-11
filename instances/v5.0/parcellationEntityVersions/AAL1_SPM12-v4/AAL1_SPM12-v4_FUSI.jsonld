@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_FUSI",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": "FUSI",
+  "additionalRemarks": null,
+  "alternateName": [
+    "FUSI",
+    "Fusiform"
+  ],
+  "correctedName": null,
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": null,
+      "inspiredBy": null,
+      "internalIdentifier": "5401",
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
+        }
+      ],
+      "preferredVisualization": null,
+      "specification": null,
+      "type": null
+    },
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": null,
+      "inspiredBy": null,
+      "internalIdentifier": "5402",
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/right"
+        }
+      ],
+      "preferredVisualization": null,
+      "specification": null,
+      "type": null
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_occipitalLobe"
+    }
+  ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_FUSI"
+  },
+  "lookupLabel": "AAL1_SPM12-v4_FUSI",
+  "name": "fusiform gyrus",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "SPM12, v4",
+  "versionInnovation": null
+}

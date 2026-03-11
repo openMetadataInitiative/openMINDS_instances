@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusIntermediatePart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": "IPNli",
+  "additionalRemarks": null,
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": null,
+  "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusLateralSubnucleusIntermediatePart"
+  },
+  "lookupLabel": "SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusIntermediatePart",
+  "name": "interpeduncular nucleus, lateral subnucleus, intermediate part",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "3rd ed.",
+  "versionInnovation": null
+}

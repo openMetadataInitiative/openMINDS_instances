@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive",
+  "@type": "https://openminds.om-i.org/types/CriteriaQualityType",
+  "definition": "If a criteria is 'processive' it is based on a repeatable and often automated process.",
+  "description": null,
+  "name": "processive",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

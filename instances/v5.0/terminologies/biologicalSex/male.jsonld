@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/biologicalSex/male",
+  "@type": "https://openminds.om-i.org/types/BiologicalSex",
+  "definition": "Biological sex that produces sperm cells (spermatozoa).",
+  "description": "A male organism typically has the capacity to produce relatively small, usually mobile gametes (reproductive cells), called sperm cells (or spermatozoa). In the process of fertilization, these sperm cells fuse with a larger, usually immobile female gamete, called egg cell (or ovum).",
+  "name": "male",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106489"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PATO_0000384",
+  "synonym": null
+}

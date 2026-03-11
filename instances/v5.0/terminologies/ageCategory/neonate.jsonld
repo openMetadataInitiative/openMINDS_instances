@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/ageCategory/neonate",
+  "@type": "https://openminds.om-i.org/types/AgeCategory",
+  "definition": "'Neonate' categorizes the life cycle stage of an animal or human that immediately follows birth.",
+  "description": null,
+  "name": "neonate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0732178"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007221",
+  "synonym": [
+    "neonatal stage",
+    "neonate stage"
+  ]
+}

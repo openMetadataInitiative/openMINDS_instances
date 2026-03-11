@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.kitware.paraview.pvt",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".pvtu",
+    ".pvts",
+    ".pvtr",
+    ".pvtp",
+    ".ptvi",
+    ".pvtb"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.kitware.paraview.pvt",
+  "specification": null,
+  "synonym": null
+}

@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/image_vnd.silicongraphicsimage",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".bw",
+    ".rgb",
+    ".rgba"
+  ],
+  "isBasedOn": null,
+  "name": "image/vnd.silicongraphicsimage",
+  "specification": null,
+  "synonym": [
+    "Silicon Graphics Image"
+  ]
+}

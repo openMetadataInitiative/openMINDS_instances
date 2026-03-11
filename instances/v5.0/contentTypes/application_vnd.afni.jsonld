@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.afni",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".brik",
+    ".head"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.afni",
+  "specification": null,
+  "synonym": [
+    "AFNI medical imaging data"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheCentralAcousticTract",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "CAT",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_nucleusOfTheCentralAcousticTract",
+  "name": "nucleus of the central acoustic tract",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/atlasType/probabilisticAtlas",
+  "@type": "https://openminds.om-i.org/types/AtlasType",
+  "definition": "A 'probabilistic atlas' is an anatomical or anatomopathological atlases based on statistically-weighted composites of many specimens.",
+  "description": null,
+  "name": "probabilistic atlas",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "probability map"
+  ]
+}

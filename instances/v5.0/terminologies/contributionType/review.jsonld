@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/review",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by critically assessing a target entity through expert judgment to evaluate its quality, validity, or suitability.",
+  "description": null,
+  "name": "review",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

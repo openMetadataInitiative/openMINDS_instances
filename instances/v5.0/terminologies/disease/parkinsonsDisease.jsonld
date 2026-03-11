@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/disease/parkinsonsDisease",
+  "@type": "https://openminds.om-i.org/types/Disease",
+  "definition": "Parkinson's is a progressive central nervous system disorder that affects the motor system.",
+  "description": null,
+  "name": "Parkinson's disease",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_14330",
+  "synonym": null
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/nonrigidImageRegistration",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "A 'nonrigid image registration' is a process of bringing a set of images into the same coordinate system using nonrigid transformation.",
+  "description": null,
+  "name": "nonrigid image registration",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "non-rigid image registration"
+  ]
+}

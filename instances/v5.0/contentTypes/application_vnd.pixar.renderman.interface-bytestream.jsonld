@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.pixar.renderman.interface-bytestream",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".rib"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.pixar.renderman.interface-bytestream",
+  "specification": null,
+  "synonym": [
+    "RenderMan Interface Bytestream"
+  ]
+}

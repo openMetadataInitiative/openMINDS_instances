@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_PCIN",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PCIN",
+  "alternateName": [
+    "CIP",
+    "Cingulum_Post"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_limbicLobe"
+    }
+  ],
+  "lookupLabel": "AAL1_PCIN",
+  "name": "posterior cingulate gyrus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

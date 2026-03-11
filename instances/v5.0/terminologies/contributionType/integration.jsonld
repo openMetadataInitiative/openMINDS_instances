@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/integration",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by incorporating another living or non-living thing into a target entity so that it becomes part of and functions within a coherent whole.",
+  "description": null,
+  "name": "integration",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

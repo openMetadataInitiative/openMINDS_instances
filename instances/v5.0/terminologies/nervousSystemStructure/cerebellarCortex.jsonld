@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cerebellarCortex",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gray matter of hindbrain. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002129) ('is_a' and 'relationship')]",
+  "description": "The superficial gray matter of the cerebellum. It consists of three main layers, the molecular layer, the Purkinje cell layer and the granule cell layer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002129)]",
+  "name": "cerebellar cortex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101946"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002129#cerebellar-cortex-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002129",
+  "synonym": [
+    "cortex of cerebellar hemisphere"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/TheGambia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1005)]",
+  "description": null,
+  "name": "The Gambia",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1005",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "GAM",
+    "Gambia",
+    "GM",
+    "GMB",
+    "Islamic Republic of the Gambia",
+    "Republic of the Gambia",
+    "Republic of The Gambia"
+  ]
+}

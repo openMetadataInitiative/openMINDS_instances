@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area19OfCortexMedialPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "A19M",
+  "alternateName": [
+    "area 19 of cortex, medial part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_visualCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area19OfCortexMedialPart",
+  "name": "area 19 of cortex medial part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.khoros.viff.bitmap",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".xv"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.khoros.viff.bitmap",
+  "specification": null,
+  "synonym": [
+    "Khoros Visualization Image File Format Bitmap"
+  ]
+}

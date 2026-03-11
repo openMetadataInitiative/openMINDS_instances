@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionAnteriorZone",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": "LHAsfa",
+  "additionalRemarks": "Corrected name based on ['Errata for Brain maps: structure of the rat brain, 3rd edition'](https://larrywswanson.com/wp-content/uploads/2015/03/BM3-Errata.pdf). The correct name 'lateral hypothalamic area, subfornical region, anterior zone' has been added under 'correctedName'.",
+  "alternateName": null,
+  "correctedName": "lateral hypothalamic area, subfornical region, anterior zone",
+  "hasAnnotation": null,
+  "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaSubfornicalRegionAnteriorZone"
+  },
+  "lookupLabel": "SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionAnteriorZone",
+  "name": "lateral hypothalamic area, subfornical region, rostral zone",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "3rd ed.",
+  "versionInnovation": null
+}

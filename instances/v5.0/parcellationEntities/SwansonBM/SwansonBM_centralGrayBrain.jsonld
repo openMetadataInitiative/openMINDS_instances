@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralGrayBrain",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "CGB",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_centralGrayBrain",
+  "name": "central gray brain",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

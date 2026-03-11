@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_posteriorThalamicNuclearGroup",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "Po",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_posteriorThalamicNuclearGroup",
+  "name": "posterior thalamic nuclear group",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

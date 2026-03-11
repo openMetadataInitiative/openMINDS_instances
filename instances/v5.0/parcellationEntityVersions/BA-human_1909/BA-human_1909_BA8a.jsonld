@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/BA-human_1909_BA8a",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": "BA8a",
+  "additionalRemarks": null,
+  "alternateName": [
+    "Brodmann's area 8a",
+    "human Brodmann area 8a",
+    "human Brodmann's area 8a",
+    "humanBA8a"
+  ],
+  "correctedName": null,
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/asserted"
+      },
+      "criteriaType": null,
+      "inspiredBy": null,
+      "internalIdentifier": null,
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
+        },
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/right"
+        }
+      ],
+      "preferredVisualization": null,
+      "specification": null,
+      "type": null
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_cerebralCortex"
+    }
+  ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_BA8a"
+  },
+  "lookupLabel": "BA-human_1909_BA8a",
+  "name": "Brodmann area 8a",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013562",
+  "relationAssessment": null,
+  "versionIdentifier": "1909",
+  "versionInnovation": null
+}

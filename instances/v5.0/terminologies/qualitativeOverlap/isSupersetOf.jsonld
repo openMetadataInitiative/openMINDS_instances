@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/qualitativeOverlap/isSupersetOf",
+  "@type": "https://openminds.om-i.org/types/QualitativeOverlap",
+  "definition": "A set/object (A) is a superset of another set/object (B) if (A) and (B) are not equal, but all elements/incidents of (B) are also elements/incidents of (A).",
+  "description": null,
+  "name": "is superset of",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

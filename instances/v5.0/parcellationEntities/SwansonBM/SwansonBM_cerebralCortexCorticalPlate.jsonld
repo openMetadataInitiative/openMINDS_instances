@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortexCorticalPlate",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "CTXpl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_cerebralCortexCorticalPlate",
+  "name": "cerebral cortex, cortical plate",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

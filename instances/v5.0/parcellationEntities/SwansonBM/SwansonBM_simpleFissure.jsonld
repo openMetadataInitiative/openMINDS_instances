@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_simpleFissure",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "sif",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_simpleFissure",
+  "name": "simple fissure",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_interpeduncularNucleusIntermediateSubnucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "IPI",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_interpeduncularNucleusIntermediateSubnucleus",
+  "name": "interpeduncular nucleus, intermediate subnucleus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

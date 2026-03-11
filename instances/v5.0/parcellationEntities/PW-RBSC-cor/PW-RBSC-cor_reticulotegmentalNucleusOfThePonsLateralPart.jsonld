@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_reticulotegmentalNucleusOfThePonsLateralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "RtTgL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_reticulotegmentalNucleusOfThePonsLateralPart",
+  "name": "reticulotegmental nucleus of the pons, lateral part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

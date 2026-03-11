@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deviceType/microscope",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
+  "definition": "A 'microscope' is an instrument used to obtain a magnified image of small objects and reveal details of structures not otherwise distinguishable.",
+  "description": null,
+  "name": "microscope",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://uri.neuinfo.org/nif/nifstd/birnlex_2106",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0106921",
+  "synonym": null
+}

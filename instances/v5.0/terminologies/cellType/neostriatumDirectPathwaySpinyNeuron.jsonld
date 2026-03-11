@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/neostriatumDirectPathwaySpinyNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "The principal projection neuron of the caudate and putamen that excite their output structure.",
+  "description": null,
+  "name": "neostriatum direct pathway spiny neuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://uri.neuinfo.org/nif/nifstd/nlx_149135",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0107404",
+  "synonym": [
+    "direct pathway medium spiny neuron",
+    "direct pathway medium-sized spiny neuron",
+    "dMSN",
+    "neostriatial direct pathway spiny neuron",
+    "striatal direct pathway spiny neuron"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_retroendopiriformNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "REn",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_retroendopiriformNucleus",
+  "name": "retroendopiriform nucleus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/fileRepositoryType/seafile",
+  "@type": "https://openminds.om-i.org/types/FileRepositoryType",
+  "definition": "Seafile is an open source file sync&share solution designed for high reliability, performance and productivity.",
+  "description": null,
+  "name": "Seafile repository",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

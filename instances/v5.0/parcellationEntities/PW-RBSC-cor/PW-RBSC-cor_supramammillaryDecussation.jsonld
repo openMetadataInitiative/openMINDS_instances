@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_supramammillaryDecussation",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "sumx",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_supramammillaryDecussation",
+  "name": "supramammillary decussation",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

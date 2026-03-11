@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimolar",
+  "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
+  "definition": "Millimolar is a decimal fraction of molar concentration that describes a solution as millimole per one liter of a solution.",
+  "description": null,
+  "name": "millimolar",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "10^-3 mol/L",
+    "mM",
+    "mol/m^3"
+  ]
+}

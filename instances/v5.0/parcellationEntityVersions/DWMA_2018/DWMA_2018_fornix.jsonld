@@ -1,0 +1,73 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_fornix",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": null,
+  "additionalRemarks": null,
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": null,
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
+        }
+      ],
+      "preferredVisualization": null,
+      "specification": {
+        "@id": "https://object.cscs.ch/v1/AUTH_227176556f3c4bb38df9feea4b91200c/hbp-d000339_DeepWhiteMatterBundles_DWM_pub/version2018/left-hemisphere/Probability_Maps/Fornix_Left.nii.gz"
+      },
+      "type": null
+    },
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": null,
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/right"
+        }
+      ],
+      "preferredVisualization": null,
+      "specification": {
+        "@id": "https://object.cscs.ch/v1/AUTH_227176556f3c4bb38df9feea4b91200c/hbp-d000339_DeepWhiteMatterBundles_DWM_pub/version2018/right-hemisphere/Probability_Maps/Fornix_Right.nii.gz"
+      },
+      "type": null
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_deepWhiteMatter"
+    }
+  ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_fornix"
+  },
+  "lookupLabel": "DWMA_2018_fornix",
+  "name": "fornix",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "2018",
+  "versionInnovation": null
+}

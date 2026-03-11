@@ -1,0 +1,69 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v2.5-Colin27_Area-1_PM-v10.0",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": null,
+  "additionalRemarks": null,
+  "alternateName": null,
+  "correctedName": null,
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": null,
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
+        }
+      ],
+      "preferredVisualization": null,
+      "specification": null,
+      "type": null
+    },
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.om-i.org/instances/annotationCriteriaType/probabalisticAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": null,
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/right"
+        }
+      ],
+      "preferredVisualization": null,
+      "specification": null,
+      "type": null
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_postcentralGyrus"
+    }
+  ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-1"
+  },
+  "lookupLabel": "JBA_v2.5-Colin27_Area-1_PM-v10.0",
+  "name": "Area 1 (PostCG)",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "v2.5-Colin27, PM-v10.0",
+  "versionInnovation": null
+}

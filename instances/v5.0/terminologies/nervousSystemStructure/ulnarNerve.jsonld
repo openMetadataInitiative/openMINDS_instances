@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/ulnarNerve",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is an arm nerve. Is part of the brachial nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001494) ('is_a' and 'relationship')]",
+  "description": "A nerve which runs near the ulna bone. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001494)]",
+  "name": "ulnar nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001494#ulnar-nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001494",
+  "synonym": null
+}

@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.perkinelmer.evotec",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".res",
+    ".mea",
+    ".flex"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.perkinelmer.evotec",
+  "specification": null,
+  "synonym": [
+    "Evotec/PerkinElmer Opera Flex"
+  ]
+}

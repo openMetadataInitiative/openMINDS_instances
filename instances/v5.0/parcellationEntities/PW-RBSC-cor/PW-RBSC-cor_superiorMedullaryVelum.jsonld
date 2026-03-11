@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_superiorMedullaryVelum",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "SMV",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_superiorMedullaryVelum",
+  "name": "superior medullary velum",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

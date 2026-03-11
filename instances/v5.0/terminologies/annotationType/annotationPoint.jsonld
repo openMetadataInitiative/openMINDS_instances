@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/annotationType/annotationPoint",
+  "@type": "https://openminds.om-i.org/types/AnnotationType",
+  "definition": "'Annotation point(s)' are individual point(s) that are annotated with the same label.",
+  "description": null,
+  "name": "annotation point",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

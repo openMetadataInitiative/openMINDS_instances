@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_ventralLinearNucleusOfTheThalamus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "VLi",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_ventralLinearNucleusOfTheThalamus",
+  "name": "ventral linear nucleus of the thalamus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

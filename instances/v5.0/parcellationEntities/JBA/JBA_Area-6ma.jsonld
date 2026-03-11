@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-6ma",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_posteriorMedialSuperiorFrontalGyrus"
+    }
+  ],
+  "lookupLabel": "JBA_Area-6ma",
+  "name": "Area 6ma (preSMA, mesial SFG)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

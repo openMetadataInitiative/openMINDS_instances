@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.mrc",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".mrcs",
+    ".rec",
+    ".map",
+    ".ali",
+    ".st",
+    ".mrc"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.mrc",
+  "specification": null,
+  "synonym": [
+    "MRC (Medical Research Council)"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/facialMotorNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a facial nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003011)]",
+  "description": "Nucleus located in the pontine tegmentum containing motor neurons that innervate the muscles of the face. Some neurons that project to the cerebellum have also been identified in some species. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003011)]",
+  "name": "facial motor nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104077"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003011#facial-motor-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003011",
+  "synonym": [
+    "branchiomotor nucleus of facial nerve",
+    "facial nerve motor nucleus",
+    "motor nucleus of facial nerve",
+    "motor nucleus of VII",
+    "motor nucleus VII",
+    "nucleus motorius nervi facialis",
+    "nVII"
+  ]
+}

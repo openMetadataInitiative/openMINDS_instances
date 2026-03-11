@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/alpha-2Receptor",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The alpha-2 receptor is a subclass of the adrenoceptor group that bind epinephrine or norepinephrine as endogenous ligands.",
+  "description": null,
+  "name": "alpha-2 receptor",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "alpha2",
+    "alpha-2 adrenergic receptor",
+    "alpha 2",
+    "α2 receptor",
+    "α2 adrenergic receptor"
+  ]
+}

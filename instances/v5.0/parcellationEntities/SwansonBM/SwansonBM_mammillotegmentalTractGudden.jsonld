@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mammillotegmentalTractGudden",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "mtg",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_mammillotegmentalTractGudden",
+  "name": "mammillotegmental tract [Gudden]",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

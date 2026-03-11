@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortexBarrelField",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "S1BF",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_primarySomatosensoryCortexBarrelField",
+  "name": "primary somatosensory cortex, barrel field",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.Purples",
+  "@type": "https://openminds.om-i.org/types/Colormap",
+  "definition": "The colormap 'Purples' is a sequential colormap of the Python plotting library Matplotlib.",
+  "description": null,
+  "name": "matplotlib.colormaps.Purples",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Purples"
+  ]
+}

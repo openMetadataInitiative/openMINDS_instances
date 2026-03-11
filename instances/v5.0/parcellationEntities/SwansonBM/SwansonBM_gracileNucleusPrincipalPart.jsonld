@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gracileNucleusPrincipalPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "GR",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_gracileNucleusPrincipalPart",
+  "name": "gracile nucleus, principal part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

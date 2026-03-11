@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/BA-human_1909_BA39",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": "BA39",
+  "additionalRemarks": null,
+  "alternateName": [
+    "Brodmann's area 39",
+    "human Brodmann area 39",
+    "human Brodmann's area 39",
+    "humanBA39"
+  ],
+  "correctedName": null,
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.om-i.org/instances/criteriaQualityType/asserted"
+      },
+      "criteriaType": null,
+      "inspiredBy": null,
+      "internalIdentifier": null,
+      "laterality": [
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/left"
+        },
+        {
+          "@id": "https://openminds.om-i.org/instances/laterality/right"
+        }
+      ],
+      "preferredVisualization": null,
+      "specification": null,
+      "type": null
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_cerebralCortex"
+    }
+  ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/BA-human_BA39"
+  },
+  "lookupLabel": "BA-human_1909_BA39",
+  "name": "Brodmann area 39",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006480",
+  "relationAssessment": null,
+  "versionIdentifier": "1909",
+  "versionInnovation": null
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SWMA_PoC-SM_1",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/SWMA_superficialWhiteMatter"
+    }
+  ],
+  "lookupLabel": "SWMA_PoC-SM_1",
+  "name": "PoC-SM_1",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

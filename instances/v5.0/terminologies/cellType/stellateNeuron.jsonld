@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/stellateNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "Any neuron in the central nervous system that has a star-like shape formed by dendritic processes radiating from the cell body.",
+  "description": null,
+  "name": "stellate neuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

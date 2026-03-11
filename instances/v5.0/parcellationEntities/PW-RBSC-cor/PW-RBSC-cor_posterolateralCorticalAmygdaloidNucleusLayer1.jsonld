@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_posterolateralCorticalAmygdaloidNucleusLayer1",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PLCo1",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_posterolateralCorticalAmygdaloidNucleusLayer1",
+  "name": "posterolateral cortical amygdaloid nucleus, layer 1",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/disease/meningioma",
+  "@type": "https://openminds.om-i.org/types/Disease",
+  "definition": "A generally slow growing tumor attached to the dura mater and composed of neoplastic meningothelial (arachnoidal) cells.",
+  "description": null,
+  "name": "meningioma",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/birnlex_12601"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/BIRNLEX:12601#meningioma",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0106789",
+  "synonym": [
+    "meningeal neoplasm",
+    "meningothelial cell tumor",
+    "neoplasm of the meninges",
+    "primary meningeal tumor",
+    "supratentorial meningioma"
+  ]
+}

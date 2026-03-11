@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.analyze.analyze75",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".img",
+    ".hdr"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.analyze.analyze75",
+  "specification": null,
+  "synonym": [
+    "Analyze 7.5"
+  ]
+}

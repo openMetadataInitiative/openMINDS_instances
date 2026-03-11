@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureMedialPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "IPACM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureMedialPart",
+  "name": "interstitial nucleus of the posterior limb of the anterior commissure, medial part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

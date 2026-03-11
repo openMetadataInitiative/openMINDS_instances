@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/autoradiography",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "'Autoradiography' is a photography technique that creates images of a radioactive source (e.g., molecules or fragments of molecules that have been radioactively labeled) by the direct exposure to an imaging media (e.g., X-ray film or nuclear emulsion)",
+  "description": null,
+  "name": "autoradiography",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0439300"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0439300",
+  "synonym": null
+}

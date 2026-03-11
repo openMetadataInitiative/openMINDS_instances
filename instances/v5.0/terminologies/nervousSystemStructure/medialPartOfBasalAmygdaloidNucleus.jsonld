@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/medialPartOfBasalAmygdaloidNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a cerebral hemisphere gray matter. Is part of the basal amygdaloid nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002889) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "medial part of basal amygdaloid nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106676"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002889#medial-part-of-basal-amygdaloid-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002889",
+  "synonym": [
+    "basomedial amygdalar nucleus",
+    "basomedial amygdaloid nucleus",
+    "medial basal nucleus of amygdala",
+    "medial division of basal nucleus",
+    "nucleus amygdalae basalis medialis"
+  ]
+}

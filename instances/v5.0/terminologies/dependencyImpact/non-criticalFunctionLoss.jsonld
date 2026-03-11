@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/dependencyImpact/non-criticalFunctionLoss",
+  "@type": "https://openminds.om-i.org/types/DependencyImpact",
+  "definition": "Secondary or optional features of a thing stop working while core functions continue if the thing it depends on is unavailable.",
+  "description": null,
+  "name": "non-critical function loss",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

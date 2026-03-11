@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/peripeduncularNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002144) ('is_a' and 'relationship')]",
+  "description": "A group of neuron cell bodies that form a thin, caplike configuration over the dorsolateral aspect of the crus cerebri; many of its cells are acetylcholinesterase positive. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002144)]",
+  "name": "peripeduncular nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108731"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002144#peripeduncular-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002144",
+  "synonym": [
+    "peripeduncular nucleus of pons"
+  ]
+}

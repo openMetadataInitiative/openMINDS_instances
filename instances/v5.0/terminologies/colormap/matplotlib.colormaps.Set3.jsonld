@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.Set3",
+  "@type": "https://openminds.om-i.org/types/Colormap",
+  "definition": "The colormap 'Set3' is a qualitative colormap of the Python plotting library Matplotlib.",
+  "description": null,
+  "name": "matplotlib.colormaps.Set3",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Set3"
+  ]
+}

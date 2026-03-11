@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/experimentalApproach/multiomics",
+  "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
+  "definition": "Any experimental approach that employs multiple omics approaches in significant ways.",
+  "description": null,
+  "name": "multiomics",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/tgbugs/uris/readable/modality/Multiomics"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739407",
+  "synonym": null
+}

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  ],
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".docx"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "specification": null,
+  "synonym": [
+    "Microsoft Word (OpenXML)",
+    "DOCX"
+  ]
+}

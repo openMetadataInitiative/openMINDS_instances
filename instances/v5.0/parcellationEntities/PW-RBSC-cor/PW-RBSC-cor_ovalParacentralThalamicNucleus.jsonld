@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_ovalParacentralThalamicNucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "OPC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_ovalParacentralThalamicNucleus",
+  "name": "oval paracentral thalamic nucleus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

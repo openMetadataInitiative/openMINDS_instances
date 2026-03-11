@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_facialNucleusVentralIntermediateSubnucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "7VI",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_facialNucleusVentralIntermediateSubnucleus",
+  "name": "facial nucleus, ventral intermediate subnucleus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

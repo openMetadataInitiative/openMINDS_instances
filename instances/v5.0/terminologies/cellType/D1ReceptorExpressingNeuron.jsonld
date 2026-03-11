@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/D1ReceptorExpressingNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "Any neuron that expresses D1 receptors.",
+  "description": null,
+  "name": "D1 receptor expressing neuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "D1 dopamine receptor expressing cell",
+    "D1 dopamine receptor expressing neuron",
+    "D1 receptor expressing cell",
+    "D1R expressing cell",
+    "D1R expressing neuron",
+    "dopamine receptor D1 expressing cell",
+    "dopamine receptor D1 expressing neuron",
+    "DRD1 expressing cell",
+    "DRD1 expressing neuron"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nrrd",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".txt",
+    ".raw",
+    ".nhdr",
+    ".nrrd"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.nrrd",
+  "specification": null,
+  "synonym": [
+    "Nearly Raw Raster Data"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_dorsalSpinocerebellarTractAndOlivocerebellarTract",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "dsc/oc",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_dorsalSpinocerebellarTractAndOlivocerebellarTract",
+  "name": "dorsal spinocerebellar tract and olivocerebellar tract",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

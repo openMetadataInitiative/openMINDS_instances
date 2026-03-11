@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_nervusIntermediusComponentOfTheFacialNerve",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "7ni",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_nervusIntermediusComponentOfTheFacialNerve",
+  "name": "nervus intermedius component of the facial nerve",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

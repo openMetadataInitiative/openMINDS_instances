@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/motionAnalysis",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "'Motion analysis' refers to a group of analysis techniques used to measure from video/images the movement and/or position of an object, specimen, or anatomical parts of a specimen over a given period of time.",
+  "description": null,
+  "name": "motion analysis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "movement analysis"
+  ]
+}

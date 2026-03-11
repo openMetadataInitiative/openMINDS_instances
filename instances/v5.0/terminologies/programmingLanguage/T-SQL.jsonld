@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/programmingLanguage/T-SQL",
+  "@type": "https://openminds.om-i.org/types/ProgrammingLanguage",
+  "definition": null,
+  "description": null,
+  "name": "T-SQL",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q1411245",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
