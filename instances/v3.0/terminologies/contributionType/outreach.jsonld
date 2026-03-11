@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/contributionType/outreach",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by communicating information about a target entity to non-specialist or stakeholder audiences.",
+  "definition": "A contribution type of a role-bearing entity realized by engaging with broader or non-specialist audiences to raise awareness, understanding, or adoption of a target entity.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -12,4 +12,3 @@
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
-

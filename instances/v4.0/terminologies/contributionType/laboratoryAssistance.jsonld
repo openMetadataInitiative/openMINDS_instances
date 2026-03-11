@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/laboratoryAssistance",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": null,
+  "definition": "A contribution type of a role-bearing entity realized by supporting the operational execution of laboratory activities, procedures, or experiments.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

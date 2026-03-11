@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/contributionType/coordination",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by aligning and synchronizing the activities of multiple entities within a defined operational context.",
+  "definition": "A contribution type of a role-bearing entity realized by coordinating activities, participants, or processes related to a target entity.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -12,4 +12,3 @@
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
-

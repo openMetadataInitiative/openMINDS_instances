@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/dissemination",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by communicating or distributing a target entity to intended audiences following or independent of formal publication.",
+  "definition": "A contribution type of a role-bearing entity realized by distributing or publishing a target entity to make it accessible to relevant professional or specialist communities.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -12,4 +12,3 @@
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
-

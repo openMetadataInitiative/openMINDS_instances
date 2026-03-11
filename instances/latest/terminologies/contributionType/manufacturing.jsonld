@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/manufacturing",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by producing or fabricating physical artifacts or materials used within a research or operational context.",
+  "definition": "A contribution type of a role-bearing entity realized by producing physical target entities, typically in a repeatable or systematic manner, for distribution, use, or sale.",
   "description": null,
   "name": "manufacturing",
   "otherCrossReference": null,

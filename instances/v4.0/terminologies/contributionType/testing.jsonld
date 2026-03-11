@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/contributionType/testing",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by systematically examining a target entity to assess its functionality, performance, reliability, or conformance to defined criteria.",
+  "definition": "A contribution type of a role-bearing entity realized by executing defined procedures or experiments to evaluate the behavior, functionality, or performance of a target entity.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -12,4 +12,3 @@
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
-
