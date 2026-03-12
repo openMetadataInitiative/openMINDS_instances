@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/centralLateralNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the rostral intralaminar nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003036) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "central lateral nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101894"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003036#central-lateral-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003036",
+  "synonym": [
+    "central lateral nucleus of thalamus",
+    "central lateral thalamic nucleus",
+    "centrolateral thalamic nucleus",
+    "nucleus centralis lateralis of thalamus",
+    "nucleus centralis lateralis thalami"
+  ]
+}

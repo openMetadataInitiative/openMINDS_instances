@@ -4,25 +4,16 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/preopticPeriventricularNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Preoptic periventricular nucleus' is a preoptic nucleus.",
-  "description": "The preoptic periventricular nucleus is located along the midline and is medial to the medial preoptic nucleus.[WP,unvetted].",
+  "definition": "Is a preoptic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002622)]",
+  "description": "The preoptic periventricular nucleus is located along the midline and is medial to the medial preoptic nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002622)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109227",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002622#preoptic-periventricular-nucleus-1",
   "name": "preoptic periventricular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002622",
   "synonym": [
-    "anterior portion",
-    "dorsal periventricular hypothalamic nucleus",
-    "nucleus periventricularis hypothalami",
-    "nucleus periventricularis praeopticus",
-    "nucleus periventricularis preopticus",
     "nucleus preopticus periventricularis",
-    "pars dorsalis",
-    "periventricular hypothalamic nucleus",
-    "periventricular nucleus",
     "periventricular preoptic nucleus",
-    "POP",
-    "preoptic part",
     "preoptic periventricular hypothalamic nucleus"
   ]
 }
+

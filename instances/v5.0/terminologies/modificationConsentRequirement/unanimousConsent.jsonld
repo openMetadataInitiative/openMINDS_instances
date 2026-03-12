@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConsentRequirement/unanimousConsent",
+  "@type": "https://openminds.om-i.org/types/ModificationConsentRequirement",
+  "definition": "Modification requires agreement of all signatories in a multi-party agreement.",
+  "description": null,
+  "name": "unanimous consent",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

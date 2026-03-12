@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/centralTegmentalTractOfPons",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a tract of brain. Is part of the pontine tegmentum and the central tegmental tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002783) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "central tegmental tract of pons",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101919"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002783#central-tegmental-tract-of-pons-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002783",
+  "synonym": null
+}

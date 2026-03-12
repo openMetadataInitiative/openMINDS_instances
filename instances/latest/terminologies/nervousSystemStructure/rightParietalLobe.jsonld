@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/rightParietalLobe",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a parietal lobe. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002803) ('is_a' and 'relationship')]",
+  "description": "Parietal lobe of the right hemisphere of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002803)]",
+  "name": "right parietal lobe",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002803#right-parietal-lobe-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002803",
+  "synonym": null
+}

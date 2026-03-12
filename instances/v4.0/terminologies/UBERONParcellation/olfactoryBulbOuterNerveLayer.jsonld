@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/olfactoryBulbOuterNerveLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an olfactory bulb layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005978)]",
+  "description": "Superficial layer of the main olfactory bulb containing axons from the olfactory nerve and glial cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005978)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107942",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005978#olfactory-bulb-main-olfactory-nerve-layer",
+  "name": "olfactory bulb outer nerve layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005978",
+  "synonym": [
+    "olfactory bulb main olfactory nerve layer",
+    "olfactory bulb olfactory nerve layer"
+  ]
+}
+

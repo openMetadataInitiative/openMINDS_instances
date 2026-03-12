@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/spinothalamicTractOfPons",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a tract of brain. Is part of the pontine tegmentum and the spinothalamic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002798) ('is_a' and 'relationship')]",
+  "description": "Part of spinothalamic tract that is in the pontine tegmentum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002798)]",
+  "name": "spinothalamic tract of pons",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0110976"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002798#spinothalamic-tract-of-pons-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002798",
+  "synonym": [
+    "pons of varolius spinothalamic tract",
+    "pons of varolius spinothalamic tract of medulla",
+    "pons spinothalamic tract",
+    "pons spinothalamic tract of medulla",
+    "spinothalamic tract of medulla of pons",
+    "spinothalamic tract of medulla of pons of varolius",
+    "spinothalamic tract of pons of varolius"
+  ]
+}

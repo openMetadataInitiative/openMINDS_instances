@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/weightType/bodyWeight",
+  "@type": "https://openminds.om-i.org/types/WeightType",
+  "definition": "The mass of an intact organism measured as a whole.",
+  "description": null,
+  "name": "body weight",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Uganda",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in east Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1036)]",
+  "description": null,
+  "name": "Uganda",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1036",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Jamhuri ya Uganda",
+    "Ouganda",
+    "Pearl of Africa",
+    "Republic of Uganda",
+    "The Republic of Uganda",
+    "UG",
+    "ug",
+    "UGA",
+    "Ugandah"
+  ]
+}

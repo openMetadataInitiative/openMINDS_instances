@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/phosphocreatineSodium",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Phosphocreatine sodium is a compound of two sodiums with a phosphocreatine molecule.",
+  "description": "Phosphocreatine is a phosphorylated form of creatine that serves as a rapidly mobilizable reserve of high-energy phosphates in skeletal muscle, myocardium and the brain to recycle ATP. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Phosphocreatine)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "phosphocreatine sodium",
+  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/9571077",
+  "synonym": [
+    "creatine phosphate disodium salt",
+    "disodium phosphocreatine",
+    "Na2-phosphocreatine",
+    "phosphocreatine sodium salt",
+    "sodium phosphocreatine"
+  ]
+}
+

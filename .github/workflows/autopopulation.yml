@@ -11,9 +11,8 @@ permissions:
 
 jobs:
   sync-instances:
-    # Restrict job to only run in the openMINDS_instances repository
-    if: github.repository == 'openMetadataInitiative/openMINDS_instances'
-    
+    if: github.repository == 'openMetadataInitiative/openMINDS_instances' && ${{ !contains(github.event.head_commit.message, '[ci skip-autopopulate]') }}
+
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -93,6 +92,10 @@ jobs:
           
                   # Generate instance only if the target directory exists
                   if [ -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ]; then
+                    if [[ "$FILE_MODULE" == "terminologies/terminology" ]] && [[ ! -e "$TARGET_FILE" ]]; then
+                      echo "Skipping $TARGET_FILE: terminology file does not exist in $VERSION."
+                      continue
+                    fi
                     echo "Generating instance from $FILE to $TARGET_FILE."
                     python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
                   else

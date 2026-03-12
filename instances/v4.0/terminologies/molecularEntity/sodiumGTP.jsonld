@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/sodiumGTP",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Sodium GTP is a compound of sodium and a GTP molecule.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "sodium GTP",
+  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/136636089",
+  "synonym": [
+    "5'-GTP sodium salt",
+    "guanosine 5'-(tetrahydrogen triphosphate) sodium salt",
+    "Na-GTP",
+    "NaGTP",
+    "sodium GTP",
+    "xSodium (2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9(6H)-yl)-4-hydroxy-2-(((hydroxy((hydroxy(phosphonooxy)phosphoryl)oxy)phosphoryl)oxy)methyl)tetrahydrofuran-3-olate"
+  ]
+}
+

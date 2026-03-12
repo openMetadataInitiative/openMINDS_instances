@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Luxembourg",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Western Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q32)]",
+  "description": null,
+  "name": "Luxembourg",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q32",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Grand Duchy of Luxembourg",
+    "LU",
+    "LUX",
+    "Luxembourg",
+    "Luxemburg",
+    "Lëtzebuerg"
+  ]
+}

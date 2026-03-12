@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/medialParabrachialNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a parabrachial nucleus. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002918) ('is_a' and 'relationship')]",
+  "description": "The Medial parabrachial nucleus is a nucleus of the pons which constitutes part of the pneumotaxic center. It gets its name from its location relative to the superior cerebellar peduncles, which is also known as the 'brachia conjunctiva'. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002918)]",
+  "name": "medial parabrachial nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106675"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002918#medial-parabrachial-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002918",
+  "synonym": null
+}

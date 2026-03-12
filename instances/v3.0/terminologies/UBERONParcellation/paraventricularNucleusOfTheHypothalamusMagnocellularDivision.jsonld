@@ -4,18 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivision",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Paraventricular nucleus of the hypothalamus magnocellular division' is a regional part of brain. It is part of the paraventricular nucleus of hypothalamus.",
-  "description": "",
+  "definition": "Is a regional part of brain. Is part of the paraventricular nucleus of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014603) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108507",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014603#paraventricular-nucleus-of-the-hypothalamus-magnocellular-division-1",
   "name": "paraventricular nucleus of the hypothalamus magnocellular division",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014603",
-  "synonym": [
-    "magnocellular division",
-    "paraventricular hypothalamic nucleus",
-    "paraventricular hypothalamic nucleus magnocellular division",
-    "paraventricular nucleus of the hypothalamus",
-    "paraventricular nucleus of the hypothalamus magnocellular division",
-    "PVHm"
-  ]
+  "synonym": null
 }
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/dorsalHypothalamicNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a hypothalamic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014650)]",
+  "description": "A nerve cell nucleus situated in the dorsal portion of the intermediate hypothalamic region. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014650)]",
+  "name": "dorsal hypothalamic nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014650#dorsal-hypothalamic-nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014650",
+  "synonym": [
+    "dorsal nucleus of hypothalamus"
+  ]
+}

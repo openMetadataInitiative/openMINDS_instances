@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/CzechRepublic",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q213)]",
+  "description": null,
+  "name": "Czech Republic",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q213",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "CZ",
+    "CZE",
+    "Czechia",
+    "CZR",
+    "Česko",
+    "Česká republika"
+  ]
+}

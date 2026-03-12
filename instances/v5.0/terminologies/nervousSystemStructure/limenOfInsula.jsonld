@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/limenOfInsula",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gyrus. Is part of the insula. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002724) ('is_a' and 'relationship')]",
+  "description": "The anterior basal part of the insular cortex, which separates the lateral surface of the insula from the anterior perforated substance (Heimer, The Human Brain and Spinal Cord, 2nd ed., 1995, pg 80). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002724)]",
+  "name": "limen of insula",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106266"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002724#limen-of-insula-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002724",
+  "synonym": [
+    "angulus gyri olfactorii lateralis",
+    "gyrus ambiens (Noback)",
+    "insula limen",
+    "limen insulae"
+  ]
+}

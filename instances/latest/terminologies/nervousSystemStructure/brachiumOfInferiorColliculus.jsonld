@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/brachiumOfInferiorColliculus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a neuron projection bundle and central nervous system cell part cluster. Is part of the inferior colliculus and the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003025) ('is_a' and 'relationship')]",
+  "description": "The Brachium of inferior colliculus (or inferior brachium) carries auditory afferent fibers from the inferior colliculus of the mesencephalon to the medial geniculate nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003025)]",
+  "name": "brachium of inferior colliculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101409"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003025#brachium-of-inferior-colliculus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003025",
+  "synonym": [
+    "brachium of medial geniculate",
+    "inferior brachium",
+    "inferior collicular brachium",
+    "inferior colliculus brachium",
+    "inferior quadrigeminal brachium",
+    "peduncle of inferior colliculus"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/fundusStriati",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the ventral striatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014605) ('is_a' and 'relationship')]",
+  "description": "The ventral portion of the dorsal striatum, linking the caudate nucleus and the putamen anteriorly (adapted from Wikipedia) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014605)]",
+  "name": "fundus striati",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104480"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014605#fundus-striati-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014605",
+  "synonym": null
+}

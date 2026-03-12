@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/dependencyImpact/fallbackModeActivation",
+  "@type": "https://openminds.om-i.org/types/DependencyImpact",
+  "definition": "A thing switches to an intentionally designed degraded or alternate operating mode if the thing it depends on is unavailable.",
+  "description": null,
+  "name": "fallback mode activation",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

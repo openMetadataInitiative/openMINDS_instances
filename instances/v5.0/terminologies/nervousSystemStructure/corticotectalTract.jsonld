@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/corticotectalTract",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a tract of brain. Is part of the midbrain tectum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002556) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "corticotectal tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0102591"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002556#corticotectal-tract-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002556",
+  "synonym": [
+    "corticotectal fibers",
+    "corticotectal fibres",
+    "fibrae corticotectales"
+  ]
+}
