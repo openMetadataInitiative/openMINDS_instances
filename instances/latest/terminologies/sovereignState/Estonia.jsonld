@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Estonia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Northern Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q191)]",
+  "description": null,
+  "name": "Estonia",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q191",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "EE",
+    "ee",
+    "Eesti",
+    "Eesti Vabariik",
+    "EST",
+    "Estland",
+    "Republic of Estonia"
+  ]
+}

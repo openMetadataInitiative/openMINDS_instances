@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfOpticTract",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Nucleus of optic tract' is a nucleus of midbrain tectum and pretectal nucleus.",
-  "description": "Predominantly gray matter structure consisting of large multipoloar cells lying aong axons of the brachium of the superior colliculus, lyaing adjaent to the dorsal terminal nucleus of the accessory optic system.  In several species, cells of this nucleus receive input from the contralateral retina (Sefton and Dreher in Paxinos, G.  The rat nervous system, 1995, pg. 862).",
+  "definition": "Is a nucleus of midbrain tectum and pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002996)]",
+  "description": "Predominantly gray matter structure consisting of large multipoloar cells lying aong axons of the brachium of the superior colliculus, lyaing adjaent to the dorsal terminal nucleus of the accessory optic system. In several species, cells of this nucleus receive input from the contralateral retina (Sefton and Dreher in Paxinos, G. The rat nervous system, 1995, pg. 862). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002996)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107759",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002996#nucleus-of-optic-tract-1",
   "name": "nucleus of optic tract",
@@ -13,9 +13,8 @@
   "synonym": [
     "large-celled nucleus of optic tract",
     "lentiform nucleus of pretectal area",
-    "nucleus magnocellularis tractus optici",
     "nucleus of the optic tract",
-    "nucleus tractus optici",
     "optic tract nucleus"
   ]
 }
+

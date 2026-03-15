@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sagittalSinus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an unpaired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015704)]",
+  "description": "Either the inferior or superior sagittal sinus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015704)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015704#sagittal-sinus",
+  "name": "sagittal sinus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015704",
+  "synonym": null
+}
+

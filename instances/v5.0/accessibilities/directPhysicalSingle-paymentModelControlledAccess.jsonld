@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/accessibilities/directPhysicalSingle-paymentModelControlledAccess",
+  "@type": "https://openminds.om-i.org/types/Accessibility",
+  "channel": {
+    "@id": "https://openminds.om-i.org/instances/accessChannel/physicalAccess"
+  },
+  "eligibility": {
+    "@id": "https://openminds.om-i.org/instances/accessEligibilityType/controlledAccess"
+  },
+  "form": {
+    "@id": "https://openminds.om-i.org/instances/accessForm/directAccess"
+  },
+  "process": {
+    "@id": "https://openminds.om-i.org/instances/accessProcessType/immediateAccess"
+  },
+  "paymentModel": [
+      {
+        "@id": "https://openminds.om-i.org/instances/paymentModelType/single-paymentModel"
+      }
+  ]
+}

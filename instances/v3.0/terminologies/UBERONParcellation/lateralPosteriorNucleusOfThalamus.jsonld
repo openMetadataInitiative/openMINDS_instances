@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPosteriorNucleusOfThalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the lateral nuclear group of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002983) ('is_a' and 'relationship')]",
+  "description": "The lateral posterior nucleus is a nucleus of the thalamus. It acts in concert with the pulvinar. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002983)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002983#lateral-posterior-nucleus",
+  "name": "lateral posterior nucleus of thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002983",
+  "synonym": [
+    "lateral posterior nucleus",
+    "lateral posterior nucleus of the thalamus",
+    "lateral posterior thalamic nucleus",
+    "laterodorsal nucleus, caudal part",
+    "nucleus dorso-caudalis",
+    "nucleus dorsocaudalis (Hassler)",
+    "nucleus lateralis posterior",
+    "nucleus lateralis posterior thalami",
+    "nucleus lateralis thalami posterior",
+    "posterior lateral nucleus of thalamus"
+  ]
+}
+

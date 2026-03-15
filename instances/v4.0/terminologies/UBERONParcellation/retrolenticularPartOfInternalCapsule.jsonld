@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/retrolenticularPartOfInternalCapsule",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the posterior limb of internal capsule. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034749) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034749#retrolenticular-part-of-internal-capsule",
+  "name": "retrolenticular part of internal capsule",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034749",
+  "synonym": [
+    "pars retrolentiformis",
+    "postlenticular portion of internal capsule",
+    "retrolenticular limb",
+    "retrolentiform limb"
+  ]
+}
+

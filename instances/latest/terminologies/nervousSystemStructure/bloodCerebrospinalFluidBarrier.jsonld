@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/bloodCerebrospinalFluidBarrier",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is part of the choroid plexus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003210)]",
+  "description": "Barrier in the choroid plexus located in the lateral, third, and fourth brain ventricles that controls the entrance of substances into the cerebrospinal fluid from the blood. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003210)]",
+  "name": "blood-cerebrospinal fluid barrier",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0729920"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003210#blood-cerebrospinal-fluid-barrier",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003210",
+  "synonym": [
+    "blood-CSF barrier"
+  ]
+}

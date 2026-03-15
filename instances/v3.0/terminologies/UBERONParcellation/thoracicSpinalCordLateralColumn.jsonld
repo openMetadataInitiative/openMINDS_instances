@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/thoracicSpinalCordLateralColumn",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a subdivision of spinal cord lateral column. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005847) ('is_a' and 'relationship')]",
+  "description": "A subdivision of spinal cord lateral column that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005847)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005847#thoracic-spinal-cord-lateral-column-1",
+  "name": "thoracic spinal cord lateral column",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005847",
+  "synonym": null
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/supraopticCrest",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a sensory circumventricular organ. Is part of the anterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002689) ('is_a' and 'relationship')]",
+  "description": "One of the circumventricular organs of the brain. The OVLT is outside the blood brain barrier, and so neurons in this region can respond to factors that are present in the systemic circulation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002689)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002689#supraoptic-crest-1",
+  "name": "supraoptic crest",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002689",
+  "synonym": [
+    "organum vasculosum lamina terminalis",
+    "organum vasculosum laminae terminalis",
+    "OVLT",
+    "prechiasmatic gland",
+    "vascular organ of lamina terminalis"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusCircularisOfPretectum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035593)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035593#nucleus-circularis-of-pretectum",
+  "name": "nucleus circularis of pretectum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035593",
+  "synonym": null
+}
+

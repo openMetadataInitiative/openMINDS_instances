@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deviceType/MRIHeadCoil",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
+  "definition": "Type of volume coil optimized for radiofrequency transmission and/or reception over the head and brain, providing homogeneous B1 field coverage within the cranial region.",
+  "description": "Head coils are dedicated radiofrequency (RF) volume coils designed to image the brain and cranial structures. They typically use birdcage or quadrature configurations to achieve uniform excitation and reception across the entire head. Head coils can operate as transmit/receive or receive-only systems depending on the scanner design. High-channel phased-array head coils are increasingly common, improving signal-to-noise ratio (SNR) and parallel-imaging capabilities. In some advanced configurations, open or partial head coils are employed for interventional or functional MRI studies, where full enclosure is not required.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MRI head coil",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "brain coil",
+    "cranial coil",
+    "head MRI coil"
+  ]
+}
+

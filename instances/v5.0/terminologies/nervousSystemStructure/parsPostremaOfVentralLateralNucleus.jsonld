@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/parsPostremaOfVentralLateralNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gray matter of diencephalon. Is part of the ventral lateral nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002617) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "pars postrema of ventral lateral nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108545"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002617#pars-postrema-of-ventral-lateral-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002617",
+  "synonym": [
+    "nucleus dorsointermedius externus magnocellularis (hassler)",
+    "nucleus lateralis intermedius mediodorsalis situs postremus",
+    "nucleus ventralis lateralis thalami, pars postrema",
+    "posterodorsal part of ventral lateral posterior nucleus (jones)",
+    "ventral lateral nucleus (pars postrema)",
+    "vLps"
+  ]
+}

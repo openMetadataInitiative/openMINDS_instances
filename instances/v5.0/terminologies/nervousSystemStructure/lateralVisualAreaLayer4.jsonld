@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/lateralVisualAreaLayer4",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the lateral visual area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035915) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "lateral visual area, layer 4",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0035915#lateral-visual-area-layer-4",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035915",
+  "synonym": null
+}

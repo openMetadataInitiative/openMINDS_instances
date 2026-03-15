@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorDivisionOfBedNucleiOfStriaTerminalis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the bed nucleus of stria terminalis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011177) ('is_a' and 'relationship')]",
+  "description": "One of two divisions of the nuclei of stria terminalis based on topology, connectivity and multiple stains in the rat ( Swanson-2004 ) and the mouse ( Dong-2004 ). The other division consists of the anterior nuclei of stria terminalis. The posterior division includes the principal nucleus of stria terminalis, interfascicular nucleus of stria terminalis, transverse nucleus of stria terminalis, premedullary nucleus of stria terminalis, dorsal nucleus of stria terminalis, the strial extension of stria terminalis, and the cell sparse zone of stria terminalis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011177)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011177#posterior-division-of-bed-nuclei-of-stria-terminalis",
+  "name": "posterior division of bed nuclei of stria terminalis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011177",
+  "synonym": [
+    "bed nuclei of the stria terminalis, posterior division",
+    "posterior nuclei of stria terminalis"
+  ]
+}
+

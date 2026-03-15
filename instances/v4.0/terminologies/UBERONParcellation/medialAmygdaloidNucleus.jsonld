@@ -4,11 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/medialAmygdaloidNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Medial amygdaloid nucleus' is a telencephalic nucleus. It is part of the corticomedial nuclear complex.",
+  "definition": "Is a telencephalic nucleus. Is part of the corticomedial nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002892) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0736076",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002892#medial-amygdaloid-nucleus-1",
   "name": "medial amygdaloid nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002892",
-  "synonym": null
+  "synonym": [
+    "medial amygalar nucleus",
+    "medial nucleus of amygdala"
+  ]
 }
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/inferiorPulvinarNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the pulvinar nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002982) ('is_a' and 'relationship')]",
+  "description": "One of four subdivisions recognized in the primate pulvinar based on initially on topography, located ventrally between the medial and lateral geniculate bodies (Carpenter, A core text of neuroanatomy, 3rd ed., 1985, pg 238) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002982)]",
+  "name": "inferior pulvinar nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002982#inferior-pulvinar-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002982",
+  "synonym": [
+    "nucleus pulvinaris inferior",
+    "nucleus pulvinaris inferior thalami",
+    "nucleus pulvinaris thalami, pars inferior"
+  ]
+}

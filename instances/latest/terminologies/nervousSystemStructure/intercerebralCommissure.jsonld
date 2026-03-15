@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/intercerebralCommissure",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a commissure of telencephalon. Is part of the cerebral hemisphere white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002473) ('is_a' and 'relationship')]",
+  "description": "A commissure that connects the two cerebral hemispheres. Examples: anterior commissure, corpus callosum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002473)]",
+  "name": "intercerebral commissure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002473#intercerebral-commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002473",
+  "synonym": null
+}

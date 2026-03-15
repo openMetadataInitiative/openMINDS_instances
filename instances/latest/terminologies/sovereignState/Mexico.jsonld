@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Mexico",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in North America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q96)]",
+  "description": null,
+  "name": "Mexico",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q96",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "MEX",
+    "Mexican Republic",
+    "Mexican United States",
+    "Mexko",
+    "MX",
+    "mx",
+    "MXN",
+    "México",
+    "United Mexican States",
+    "US of M"
+  ]
+}

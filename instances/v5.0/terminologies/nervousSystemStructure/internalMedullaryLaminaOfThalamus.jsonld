@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/internalMedullaryLaminaOfThalamus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a medullary lamina of thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002762)]",
+  "description": "Predominantly white regional part of thalamus consisting of a Y shaped bundle of fibers that runs the anterior-posterior length of thalamus and divides the thalamus into roughly three regions (MM: 2006-10-26) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002762)]",
+  "name": "internal medullary lamina of thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0105586"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002762#internal-medullary-lamina-of-thalamus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002762",
+  "synonym": [
+    "envelope (involucrum medial) (Hassler)",
+    "internal medullary lamina",
+    "lamina medullaris interna",
+    "lamina medullaris interna thalami",
+    "lamina medullaris medialis thalami",
+    "lamina medullaris thalami interna"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/secondSacralSpinalCordSegment",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sacral subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006461)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006461#second-sacral-spinal-cord-segment-1",
+  "name": "second sacral spinal cord segment",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006461",
+  "synonym": [
+    "S2 segment",
+    "S2 spinal cord segment"
+  ]
+}
+

@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/FederatedStatesOfMicronesia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island sovereign state in Oceania. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q702)]",
+  "description": null,
+  "name": "Federated States of Micronesia",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q702",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Fed. Sts. Micronesia",
+    "Fed. Sts. of Micronesia",
+    "Federated States of Micronesia",
+    "fm",
+    "FM",
+    "FSM",
+    "Micronesia",
+    "Mikronesia"
+  ]
+}

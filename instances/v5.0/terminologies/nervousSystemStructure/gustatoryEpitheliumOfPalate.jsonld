@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/gustatoryEpitheliumOfPalate",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gustatory epithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014453)]",
+  "description": "A gustatory epithelium that is part of a roof of mouth. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014453)]",
+  "name": "gustatory epithelium of palate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014453#gustatory-epithelium-of-palate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014453",
+  "synonym": [
+    "palatal gustatory epithelium"
+  ]
+}

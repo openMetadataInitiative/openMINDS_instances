@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/gadolinium",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Gadolinium (Gd) is a chemical element with atomic number 64 and belongs to the rare-earth metals. [paraphrased from (https://en.wikipedia.org/wiki/Gadolinium)]",
+  "description": "Gadolinium is a chemical element; it has symbol Gd and atomic number 64. It is a silvery-white metal when oxidation is removed. Gadolinium is a malleable and ductile rare-earth element. It reacts with atmospheric oxygen or moisture slowly to form a black coating. Gadolinium below its Curie point of 20 °C (68 °F) is ferromagnetic, with an attraction to a magnetic field higher than that of nickel. Above this temperature it is the most paramagnetic element. It is found in nature only in an oxidized form. When separated, it usually has impurities of the other rare earths because of their similar chemical properties. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Gadolinium)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0782820",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:35729#gadolinium-molecular-entity",
+  "name": "gadolinium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_35729",
+  "synonym": [
+    "Gd"
+  ]
+}
+

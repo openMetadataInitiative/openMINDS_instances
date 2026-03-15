@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/A11DopaminergicCellGroup",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036006)]",
+  "description": null,
+  "name": "A11 dopaminergic cell group",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0036006#a11-dopaminergic-cell-group",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036006",
+  "synonym": null
+}

@@ -4,16 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/supraspinalNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Supraspinal nucleus' is a nucleus of medulla oblongata.",
-  "description": "",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002882)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111360",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002882#supraspinal-nucleus-1",
   "name": "supraspinal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002882",
-  "synonym": [
-    "SSp",
-    "nucleus substantiae grisea ventralis",
-    "nucleus substantiae griseae ventralis",
-    "nucleus supraspinalis"
-  ]
+  "synonym": null
 }
+

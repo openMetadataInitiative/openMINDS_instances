@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Malaysia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q833)]",
+  "description": null,
+  "name": "Malaysia",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q833",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Federation of Malaysia",
+    "Malaysia",
+    "Malaysia Federation",
+    "MAS",
+    "MY",
+    "my",
+    "MYS"
+  ]
+}

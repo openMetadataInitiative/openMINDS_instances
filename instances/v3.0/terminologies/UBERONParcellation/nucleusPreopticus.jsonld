@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusPreopticus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a hypothalamic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014665)]",
+  "description": "The nucleus preopticus (NPO) of the hypothalamus of common carp, is a homolog of the paraventricular nucleus of mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014665)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014665#nucleus-preopticus",
+  "name": "nucleus preopticus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014665",
+  "synonym": null
+}
+

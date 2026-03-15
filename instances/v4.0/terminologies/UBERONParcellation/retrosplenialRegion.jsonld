@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/retrosplenialRegion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013531) ('is_a' and 'relationship')]",
+  "description": "The retrosplenial region is a brain area and part of the cingulate cortex. It is defined by Brodmann area 26, Brodmann area 29 and the Brodmann area 30. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013531)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013531#retrosplenial-region",
+  "name": "retrosplenial region",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013531",
+  "synonym": null
+}
+

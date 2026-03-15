@@ -4,15 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/subbrachialNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Subbrachial nucleus' is a nucleus of midbrain tectum.",
-  "description": "A group of cells ventral to the nucleus of brachium of inferior colliculus in the mouse (Paxinos-2001).",
+  "definition": "Is a nucleus of midbrain tectum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006119)]",
+  "description": "A group of cells ventral to the nucleus of brachium of inferior colliculus in the mouse (Paxinos-2001). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006119)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111154",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006119#subbrachial-nucleus-1",
   "name": "subbrachial nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006119",
   "synonym": [
-    "SubB",
-    "subbrachial nucleus",
     "tegmental area of tsai"
   ]
 }
+

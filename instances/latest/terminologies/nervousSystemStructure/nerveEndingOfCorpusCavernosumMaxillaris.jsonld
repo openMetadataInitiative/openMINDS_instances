@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/nerveEndingOfCorpusCavernosumMaxillaris",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nerve ending. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013671)]",
+  "description": null,
+  "name": "nerve ending of corpus cavernosum maxillaris",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0013671#nerve-ending-of-of-corpus-cavernosum-maxillaris",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013671",
+  "synonym": null
+}

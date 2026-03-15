@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/funiculusOfNeuraxis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neuron projection bundle and central nervous system cell part cluster. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006133) ('is_a' and 'relationship')]",
+  "description": "The cerebrospinal nerves consist of numerous nerve fibers collected together and enclosed in membranous sheaths. A small bundle of fibers, enclosed in a tubular sheath, is called a funiculus; if the nerve is of small size, it may consist only of a single funiculus; but if large, the funiculi are collected together into larger bundles or fasciculi, which are bound together in a common membranous investment. Examples include: Anterior funiculus of the spinal cord Lateral funiculus of the spinal cord Posterior funiculus of the spinal cord Funiculus solitarius of the medulla Funiculus separans. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006133)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006133#funiculus-of-neuraxis",
+  "name": "funiculus of neuraxis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006133",
+  "synonym": null
+}
+

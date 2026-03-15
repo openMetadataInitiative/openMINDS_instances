@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cervicalSpinalCordWhiteMatter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a white matter of spinal cord. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014614) ('is_a' and 'relationship')]",
+  "description": "A white matter of spinal cord that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014614)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014614#cervical-spinal-cord-white-matter-1",
+  "name": "cervical spinal cord white matter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014614",
+  "synonym": null
+}
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/anterodorsalNucleusOfMedialGeniculateBody",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the medial geniculate body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014521) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "anterodorsal nucleus of medial geniculate body",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100757"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014521#anterodorsal-nucleus-of-medial-geniculate-body-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014521",
+  "synonym": [
+    "anterodorsal nucleus of medial geniculate complex"
+  ]
+}

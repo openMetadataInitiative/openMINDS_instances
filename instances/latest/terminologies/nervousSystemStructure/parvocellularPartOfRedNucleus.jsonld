@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/parvocellularPartOfRedNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gray matter of midbrain. Is part of the red nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002938) ('is_a' and 'relationship')]",
+  "description": "The parvocellular red nucleus (RNp) is located in the rostral midbrain and is involved in motor coordination. Together with the magnocellular red nucleus, it makes up the red nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002938)]",
+  "name": "parvocellular part of red nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108564"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002938#parvocellular-part-of-red-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002938",
+  "synonym": [
+    "neoruber",
+    "pars parvocellularis nuclei rubri",
+    "red nucleus, parvocellular part"
+  ]
+}

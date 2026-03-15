@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/saphenousNerve",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a leg nerve. Is part of the femoral nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002475) ('is_a' and 'relationship')]",
+  "description": "The largest cutaneous branch of the femoral nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002475)]",
+  "name": "saphenous nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002475#saphenous-nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002475",
+  "synonym": null
+}

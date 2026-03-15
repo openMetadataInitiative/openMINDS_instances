@@ -4,11 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fasciculusOfBrain",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Fasciculus of brain' is a nerve fasciculus and central nervous system cell part cluster. It is part of the brain and white matter.",
-  "description": "A fascicle that is part of a brain.",
+  "definition": "Is a nerve fasciculus and central nervous system cell part cluster. Is part of the brain and the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005838) ('is_a' and 'relationship')]",
+  "description": "A fascicle that is part of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005838)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0727527",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005838#fasciculus-of-brain",
   "name": "fasciculus of brain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005838",
-  "synonym": null
+  "synonym": [
+    "brain fasciculus"
+  ]
 }
+

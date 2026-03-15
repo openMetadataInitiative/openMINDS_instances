@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/medialOctavolateralisNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a lateral line sensory nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000291)]",
+  "description": "Lateral line sensory nucleus located in the cerebellum that processes sensory input from the lateral line. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000291)]",
+  "name": "medial octavolateralis nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2000291#medial-octavolateralis-nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000291",
+  "synonym": null
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/accessEligibilityType/openAccess",
+  "@type": "https://openminds.om-i.org/types/AccessEligibilityType",
+  "definition": "Access without prior registration, authentication, or authorisation.",
+  "description": null,
+  "name": "open access",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

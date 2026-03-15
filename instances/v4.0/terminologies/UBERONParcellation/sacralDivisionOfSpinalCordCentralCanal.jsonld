@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/sacralDivisionOfSpinalCordCentralCanal",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a subdivision of spinal cord central canal. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014547)]",
+  "description": "Part of spinal cord central canal contained in the sacral spinal cord. It is continuous rostrally with the spinal cord central canal of the lumbar cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014547)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014547#sacral-division-of-spinal-cord-central-canal",
+  "name": "sacral division of spinal cord central canal",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014547",
+  "synonym": [
+    "sacral spinal cord central canal"
+  ]
+}
+

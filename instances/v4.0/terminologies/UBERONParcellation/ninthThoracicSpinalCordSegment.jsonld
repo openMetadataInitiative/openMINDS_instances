@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ninthThoracicSpinalCordSegment",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006465)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006465#ninth-thoracic-spinal-cord-segment-1",
+  "name": "ninth thoracic spinal cord segment",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006465",
+  "synonym": [
+    "t9 segment",
+    "T9 spinal cord segment"
+  ]
+}
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/funiculusOfSpinalCord",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a funiculus of neuraxis. Is part of the white matter of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006127) ('is_a' and 'relationship')]",
+  "description": "A funiculus of neuraxis that is part of a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006127)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006127#funiculus-of-spinal-cord",
+  "name": "funiculus of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006127",
+  "synonym": [
+    "spinal cord funiculus",
+    "white column of spinal cord"
+  ]
+}
+

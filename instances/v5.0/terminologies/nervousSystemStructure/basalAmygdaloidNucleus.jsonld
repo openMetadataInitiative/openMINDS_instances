@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/basalAmygdaloidNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a telencephalic nucleus. Is part of the basolateral amygdaloid nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002887) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "basal amygdaloid nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101100"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002887#basal-amygdaloid-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002887",
+  "synonym": [
+    "basolateral amygaloid nucleus",
+    "basolateral amygdalar nucleus",
+    "basolateral amygdaloid nucleus",
+    "basolateral nucleus (de olmos)",
+    "intermediate principal nucleus",
+    "nucleus amygdalae basalis lateralis"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/accessChannel/hybridAccess",
+  "@type": "https://openminds.om-i.org/types/AccessChannel",
+  "definition": "Access is provided both remotely through digital means and at a specific physical location.",
+  "description": null,
+  "name": "hybrid access",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

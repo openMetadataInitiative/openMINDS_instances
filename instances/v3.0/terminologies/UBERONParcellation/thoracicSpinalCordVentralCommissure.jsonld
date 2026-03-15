@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/thoracicSpinalCordVentralCommissure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a spinal cord ventral commissure. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007837) ('is_a' and 'relationship')]",
+  "description": "A spinal cord ventral commissure that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007837)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007837#thoracic-spinal-cord-ventral-commissure-1",
+  "name": "thoracic spinal cord ventral commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007837",
+  "synonym": [
+    "thoracic spinal cord anterior commissure"
+  ]
+}
+

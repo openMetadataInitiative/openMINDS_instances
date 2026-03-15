@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/vermisOfTheFlocculonodularLobeOfTheCerebellum",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a cerebellar vermis. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024037)]",
+  "description": null,
+  "name": "vermis of the flocculonodular lobe of the cerebellum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112409"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0024037#vermis-of-the-flocculonodular-lobe-of-the-cerebellum-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024037",
+  "synonym": [
+    "flocculonodular vermis"
+  ]
+}

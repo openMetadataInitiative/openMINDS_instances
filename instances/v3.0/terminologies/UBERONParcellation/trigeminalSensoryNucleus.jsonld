@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalSensoryNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a trigeminal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004132)]",
+  "description": "The sensory trigeminal nerve nuclei are the largest of the cranial nerve nuclei, and extend through the whole of the midbrain, pons and medulla. The nucleus is divided into three parts, from rostral to caudal (top to bottom in humans): * The mesencephalic nucleus * The chief sensory nucleus (or pontine nucleus or main sensory nucleus or primary nucleus) * The spinal trigeminal nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004132)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004132#trigeminal-sensory-nucleus",
+  "name": "trigeminal sensory nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004132",
+  "synonym": [
+    "sensory trigeminal nucleus",
+    "sensory trigeminal V nucleus",
+    "trigeminal V sensory nucleus"
+  ]
+}
+

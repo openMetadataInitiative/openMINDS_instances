@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/proliferatingNeuroepithelium",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a developing neuroepithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034706)]",
+  "description": "An epithelium that is undergoing proliferation to provide large numbers of neuronal cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034706)]",
+  "name": "proliferating neuroepithelium",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034706#proliferating-neuroepithelium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034706",
+  "synonym": null
+}

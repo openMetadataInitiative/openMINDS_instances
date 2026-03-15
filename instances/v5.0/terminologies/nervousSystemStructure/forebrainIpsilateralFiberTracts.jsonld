@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/forebrainIpsilateralFiberTracts",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a fasciculus of brain. Is part of the white matter of forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022247) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "forebrain ipsilateral fiber tracts",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0022247#forebrain-ipsilateral-fiber-tracts",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022247",
+  "synonym": null
+}

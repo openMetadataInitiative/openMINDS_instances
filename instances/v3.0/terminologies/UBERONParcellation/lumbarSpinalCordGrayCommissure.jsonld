@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lumbarSpinalCordGrayCommissure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a dorsal gray commissure of spinal cord and lumbar spinal cord gray matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0033483)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0033483#lumbar-spinal-cord-gray-commissure-1",
+  "name": "lumbar spinal cord gray commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0033483",
+  "synonym": null
+}
+

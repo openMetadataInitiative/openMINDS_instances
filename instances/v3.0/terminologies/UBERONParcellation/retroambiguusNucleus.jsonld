@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/retroambiguusNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016848)]",
+  "description": "The term retroambiguus nucleus refers to a group of neurons in the medulla at the caudal end of the nucleus ambiguus, from which the cranial part of the accessory nerve originates ( Crosby-1962 ). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016848)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016848#retroambiguus-nucleus",
+  "name": "retroambiguus nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016848",
+  "synonym": [
+    "nucleus retroambiguus"
+  ]
+}
+

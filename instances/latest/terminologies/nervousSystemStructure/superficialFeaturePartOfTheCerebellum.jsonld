@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/superficialFeaturePartOfTheCerebellum",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024046) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "superficial feature part of the cerebellum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111271"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0024046#superficial-feature-part-of-the-cerebellum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024046",
+  "synonym": null
+}

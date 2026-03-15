@@ -5,7 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorFrontalGyrus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "Is a frontal gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002661)]",
-  "description": "Component of the frontal lobe, lateral aspect. The rostral boundary is the first appearance of the superior frontal sulcus whereas the caudal boundary is the midpoint of the paracentral sulcus on the \\ [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002661)]",
+  "description": "Component of the frontal lobe, lateral aspect. The rostral boundary is the first appearance of the superior frontal sulcus whereas the caudal boundary is the midpoint of the paracentral sulcus on the inflated surface. The medial and lateral boundaries are the medial aspect of the frontal lobe and the superior frontal sulcus respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002661)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111304",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002661#superior-frontal-gyrus-1",
   "name": "superior frontal gyrus",

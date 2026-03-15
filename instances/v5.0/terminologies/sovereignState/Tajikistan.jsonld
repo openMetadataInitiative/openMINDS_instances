@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Tajikistan",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in Central Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q863)]",
+  "description": null,
+  "name": "Tajikistan",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q863",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Republic of Tajikistan",
+    "tj",
+    "TJ",
+    "TJK"
+  ]
+}

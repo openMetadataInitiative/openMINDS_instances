@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/geniculatePlacode",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an epibranchial placode. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009124)]",
+  "description": "Rostralmost epibranchial placode. Associated with 1st branchial cleft. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009124)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009124#geniculate-placode",
+  "name": "geniculate placode",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009124",
+  "synonym": [
+    "epibranchial placode 1",
+    "facial epibranchial placode",
+    "facial placode"
+  ]
+}
+

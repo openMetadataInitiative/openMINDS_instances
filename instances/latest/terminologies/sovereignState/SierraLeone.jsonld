@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/SierraLeone",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1044)]",
+  "description": null,
+  "name": "Sierra Leone",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1044",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Republic of Sierra Leone",
+    "SL",
+    "sl",
+    "SLE"
+  ]
+}

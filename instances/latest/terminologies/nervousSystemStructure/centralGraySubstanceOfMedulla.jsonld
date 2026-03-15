@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/centralGraySubstanceOfMedulla",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gray matter of hindbrain and central gray substance. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002867) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "central gray substance of medulla",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101892"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002867#central-gray-substance-of-medulla-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002867",
+  "synonym": [
+    "central gray matter",
+    "medullary central gray substance"
+  ]
+}

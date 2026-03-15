@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/hilusOfDentateGyrus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a cerebral hemisphere gray matter. Is part of the dentate gyrus of hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002136) ('is_a' and 'relationship')]",
+  "description": "Layer of the dentate gyrus lying deep to the granule cell layer, within the opening of the C or V formed by the granule cell layer characterized by loosely packed polymorphic cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002136)]",
+  "name": "hilus of dentate gyrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0103062"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002136#hilus-of-dentate-gyrus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002136",
+  "synonym": [
+    "dentate gyrus hilus",
+    "field CA4 of hippocampal formation"
+  ]
+}

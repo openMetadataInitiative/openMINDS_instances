@@ -4,23 +4,16 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/gracileFasciculus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Gracile fasciculus' is a nerve fasciculus and central nervous system cell part cluster. It is part of the white matter and dorsal column-medial lemniscus pathway.",
-  "description": "Axon bundle arising largely from the dorsal root ganglia of the lower spinal cord, ascending in humans in the dorsal funiculus, synapsing within the nucleus gracilis of the lower medulla.",
+  "definition": "Is a nerve fasciculus and central nervous system cell part cluster. Is part of the white matter and the dorsal column-medial lemniscus pathway. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005821) ('is_a' and 'relationship')]",
+  "description": "A group of axons that are from neurons involved in proprioception from the lower trunk and lower limb. The fasciculus gracilis (tract of Goll) is a bundle of axon fibres in the dorsomedial spinal cord that carries information about fine touch, vibrations, and conscious proprioception from the lower part of the body to the brain stem. It is part of the posterior column of the spinal cord, which also contains the fasciculus cuneatus, which carries the same information from the upper part of the body. This tract and its continuation in the brain stem is often referred to as the posterior column-medial lemniscus pathway. The fasciculus gracilis is wedge-shaped on transverse section and lies next the posterior median septum, its base being at the surface of the medulla spinalis, and its apex directed toward the posterior gray commissure. It increases in size from below upward, and consists of long thin fibers that are derived from the posterior nerve roots, and ascend as far as the medulla oblongata, where they end in the nucleus gracilis. The tract of Goll was named after Swiss neuroanatomist Friedrich Goll. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005821)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104726",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005821#gracile-fasciculus",
   "name": "gracile fasciculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005821",
   "synonym": [
-    "f. gracilis medullae spinalis",
     "fasciculus gracilis",
-    "GF",
-    "Gl9 gracile fasciculus",
-    "gr",
-    "gracile column",
     "gracile fascicle",
-    "gracile fasciculus (paxspn)",
-    "gracile tract",
-    "gracilis tract",
-    "tract of Goll"
+    "gracilis tract"
   ]
 }
+

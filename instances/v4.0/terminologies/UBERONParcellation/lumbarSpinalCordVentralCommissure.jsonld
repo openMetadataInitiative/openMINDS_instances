@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCordVentralCommissure",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal cord ventral commissure. Is part of the lumbar spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007834) ('is_a' and 'relationship')]",
+  "description": "A spinal cord ventral commissure that is part of a lumbar spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007834)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007834#lumbar-spinal-cord-ventral-commissure-1",
+  "name": "lumbar spinal cord ventral commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007834",
+  "synonym": [
+    "lumbar spinal cord anterior commissure"
+  ]
+}
+

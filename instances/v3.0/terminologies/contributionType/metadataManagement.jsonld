@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/contributionType/metadataManagement",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
-  "definition": null,
+  "definition": "A contribution type of a role-bearing entity realized by overseeing the creation, curation, governance, and maintenance of metadata to ensure its quality, consistency, and fitness for use.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

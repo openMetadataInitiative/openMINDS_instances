@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusSacciVasculosi",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a neural nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035145)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035145#nucleus-sacci-vasculosi",
+  "name": "nucleus sacci vasculosi",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035145",
+  "synonym": null
+}
+

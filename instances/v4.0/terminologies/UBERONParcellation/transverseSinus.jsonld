@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/transverseSinus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a paired venous dural sinus. Is part of the sigmoid sinus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001641) ('is_a' and 'relationship')]",
+  "description": "One of the dural venous sinuses and drains the superior sagittal sinus the occipital sinus and the straight sinus, and empties into the sigmoid sinus which in turn reaches the jugular bulb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001641)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001641#transverse-sinus",
+  "name": "transverse sinus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001641",
+  "synonym": [
+    "sinus transversus durae matris"
+  ]
+}
+

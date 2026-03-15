@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/posteriorPeriventricularNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a hypothalamic nucleus. Is part of the posterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002708) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "posterior periventricular nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109122"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002708#posterior-periventricular-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002708",
+  "synonym": [
+    "griseum periventriculare hypothalami",
+    "nucleus periventricularis posterior",
+    "periventricular hypothalamic nucleus, posterior part",
+    "periventricular nucleus, posterior subdivision",
+    "posterior paraventricular nucleus",
+    "posterior periventricular hypothalamic nucleus",
+    "posterior periventricular nucleus of hypothalamus",
+    "posterior periventricular nucleus of the hypothalamus"
+  ]
+}

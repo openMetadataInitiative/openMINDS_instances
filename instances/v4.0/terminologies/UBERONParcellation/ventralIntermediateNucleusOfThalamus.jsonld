@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralIntermediateNucleusOfThalamus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nucleus of ventral thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000430)]",
+  "description": "A nucleus medially located within the ventral nuclei of the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000430)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000430#ventral-intermediate-nucleus-of-thalamus",
+  "name": "ventral intermediate nucleus of thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000430",
+  "synonym": null
+}
+

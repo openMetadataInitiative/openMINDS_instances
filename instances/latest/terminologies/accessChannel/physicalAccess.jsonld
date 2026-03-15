@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/accessChannel/physicalAccess",
+  "@type": "https://openminds.om-i.org/types/AccessChannel",
+  "definition": "Access requires physical presence at a specific location.",
+  "description": null,
+  "name": "physical access",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "in-person access",
+    "on-premises access",
+    "on-site access"
+  ]
+}

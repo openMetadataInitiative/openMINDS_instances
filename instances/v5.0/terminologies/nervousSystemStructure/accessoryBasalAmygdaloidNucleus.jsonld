@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/accessoryBasalAmygdaloidNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a telencephalic nucleus. Is part of the basolateral amygdaloid nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002885) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "accessory basal amygdaloid nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100209"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002885#accessory-basal-amygdaloid-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002885",
+  "synonym": [
+    "accessory basal nucleus of amygdala",
+    "basal amygdaloid nucleus, medial part",
+    "basomedial nucleus (accessory basal nucleus)",
+    "basomedial nucleus (de olmos)"
+  ]
+}

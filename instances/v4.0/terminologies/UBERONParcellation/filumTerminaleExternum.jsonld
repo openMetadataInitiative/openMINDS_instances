@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/filumTerminaleExternum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the filum terminale. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010270)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010270#filum-terminale-externum",
+  "name": "filum terminale externum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010270",
+  "synonym": [
+    "external part of filum terminale"
+  ]
+}
+

@@ -4,14 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialPericuneateNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Medial pericuneate nucleus' is a nucleus of medulla oblongata.",
-  "description": "",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002875)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106681",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002875#medial-pericuneate-nucleus-1",
   "name": "medial pericuneate nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002875",
-  "synonym": [
-    "MPCu",
-    "nucleus pericuneatus medialis"
-  ]
+  "synonym": null
 }
+

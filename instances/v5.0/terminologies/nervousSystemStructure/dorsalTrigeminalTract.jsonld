@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/dorsalTrigeminalTract",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a trigeminothalamic tract and tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002797) ('is_a' and 'relationship')]",
+  "description": "The dorsal trigeminal tract (dorsal trigeminothalamic tract, or lemniscus) is a tract which receives signals from Meissner's corpuscles and Pacinian corpuscles. this tract arises from Principal trigeminal nucleus and terminates in the VPM nucleus of the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002797)]",
+  "name": "dorsal trigeminal tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0103494"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002797#dorsal-trigeminal-tract-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002797",
+  "synonym": [
+    "dorsal ascending trigeminal tract",
+    "dorsal division of trigeminal lemniscus",
+    "dorsal secondary ascending tract of v",
+    "dorsal secondary tract of v",
+    "dorsal trigeminal lemniscus",
+    "dorsal trigeminal pathway",
+    "dorsal trigeminothalamic tract",
+    "posterior trigeminothalamic tract",
+    "reticulothalamic tract",
+    "tractus trigeminothalamicus posterior",
+    "uncrossed dorsal trigeminothalamic tract"
+  ]
+}

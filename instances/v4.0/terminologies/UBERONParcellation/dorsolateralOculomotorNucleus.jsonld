@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsolateralOculomotorNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a brainstem nucleus and midbrain nucleus. Is part of the oculomotor nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014522) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014522#dorsolateral-oculomotor-nucleus",
+  "name": "dorsolateral oculomotor nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014522",
+  "synonym": [
+    "dorsolateral nucleus of oculomotor nuclear complex",
+    "nucleus dorsalis nervi oculomotorii",
+    "oculomotor nerve dorsolateral nucleus"
+  ]
+}
+

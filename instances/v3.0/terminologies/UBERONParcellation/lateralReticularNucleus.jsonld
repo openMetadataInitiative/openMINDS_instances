@@ -4,16 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralReticularNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Lateral reticular nucleus' is a nucleus of medulla oblongata. It is part of the lateral medullary reticular complex.",
-  "description": "A nucleus of the lateral medullary nuclear complex.",
+  "definition": "Is a nucleus of medulla oblongata. Is part of the lateral medullary reticular complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002154) ('is_a' and 'relationship')]",
+  "description": "A nucleus of the lateral medullary nuclear complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002154)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106100",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002154#lateral-reticular-nucleus-1",
   "name": "lateral reticular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002154",
   "synonym": [
-    "lateral reticular nuclei",
-    "lateral reticular nucleus (medulla)",
-    "LRt",
-    "nucleus reticularis lateralis medullae oblongatae"
+    "lateral reticular nucleus (medulla)"
   ]
 }
+

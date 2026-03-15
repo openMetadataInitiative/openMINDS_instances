@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/rootOfOlfactoryNerve",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019311)]",
+  "description": "The initial segment of an olfactory nerve, leaving the central nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019311)]",
+  "name": "root of olfactory nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0727253"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0019311#olfactory-nerve-root",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019311",
+  "synonym": [
+    "olfactory nerve root"
+  ]
+}

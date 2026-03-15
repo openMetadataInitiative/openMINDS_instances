@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/circularNucleusOfAntheriorHypothalamicNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a hypothalamic nucleus. Is part of the periventricular zone of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035596) ('is_a' and 'relationship')]",
+  "description": "A group of cells located in the central part of the anterior hypothalamic nucleus in the anterior hypothalamic region of the rat ( Swanson-2004 ) and the mouse ( Paxinos-2001 ). Functionally it belongs to the magnocellular neuroendocrine cell groups of the subcortical motor system ( Swanson-2004 ) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035596)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035596#circular-nucleus-of-antherior-hypothalamic-nucleus",
+  "name": "circular nucleus of antherior hypothalamic nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035596",
+  "synonym": null
+}
+

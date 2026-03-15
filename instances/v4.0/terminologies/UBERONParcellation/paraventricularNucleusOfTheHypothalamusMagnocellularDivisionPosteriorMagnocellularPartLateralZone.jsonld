@@ -4,14 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartLateralZone",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part lateral zone' is a regional part of brain.",
-  "description": "",
+  "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022791)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108511",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022791#paraventricular-nucleus-of-the-hypothalamus-magnocellular-division-posterior-magnocellular-part-lateral-zone-1",
   "name": "paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part lateral zone",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022791",
-  "synonym": [
-    "PVHpml",
-    "paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part lateral zone"
-  ]
+  "synonym": null
 }
+

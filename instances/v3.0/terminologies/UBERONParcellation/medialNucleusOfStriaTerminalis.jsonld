@@ -4,16 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfStriaTerminalis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Medial nucleus of stria terminalis' is a telencephalic nucleus. It is part of the bed nucleus of stria terminalis.",
-  "description": "",
+  "definition": "Is a telencephalic nucleus. Is part of the bed nucleus of stria terminalis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034895) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106667",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034895#medial-nucleus-of-stria-terminalis",
   "name": "medial nucleus of stria terminalis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034895",
   "synonym": [
-    "BSTM",
-    "medial bed nucleus of stria terminalis",
-    "medial bed nucleus of the stria terminalis",
     "medial subdivision of BNST"
   ]
 }
+

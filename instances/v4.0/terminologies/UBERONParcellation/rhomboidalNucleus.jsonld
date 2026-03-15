@@ -4,20 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rhomboidalNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Rhomboidal nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.",
-  "description": "",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the midline nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002955) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110128",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002955#rhomboidal-nucleus-1",
   "name": "rhomboidal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002955",
   "synonym": [
-    "nucleus commissuralis rhomboidalis",
-    "nucleus rhomboidalis",
-    "nucleus rhomboidalis thalami",
-    "Rh",
     "rhomboid nucleus",
-    "rhomboid nucleus (Cajal 1904)",
-    "rhomboid nucleus of the thalamus",
     "rhomboid thalamic nucleus"
   ]
 }
+

@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Jordan",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q810)]",
+  "description": null,
+  "name": "Jordan",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q810",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Giordania",
+    "Hashemite Kingdom of Jordan",
+    "HKJ",
+    "JO",
+    "JOR",
+    "Kingdom of Jordan",
+    "State of Jordan",
+    "Yarden"
+  ]
+}

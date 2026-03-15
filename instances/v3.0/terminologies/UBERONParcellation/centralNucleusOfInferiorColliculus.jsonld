@@ -4,22 +4,17 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/centralNucleusOfInferiorColliculus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Central nucleus of inferior colliculus' is a nucleus of midbrain tectum. It is part of the inferior colliculus.",
-  "description": "",
+  "definition": "Is a nucleus of midbrain tectum. Is part of the inferior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002563) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101911",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002563#central-nucleus-of-inferior-colliculus-1",
   "name": "central nucleus of inferior colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002563",
   "synonym": [
-    "central cortex of the inferior colliculus",
-    "central nucleus",
-    "central nucleus of the inferior colliculus",
     "chief nucleus of inferior colliculus",
-    "CIC",
-    "inferior colliculus",
-    "inferior colliculus central nucleus",
-    "nucleus centralis (colliculi inferioris)",
+    "inferior colliculus, central nucleus",
     "nucleus centralis colliculi inferioris",
     "nucleus of inferior colliculus (Crosby)"
   ]
 }
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventroRostralCluster",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a diencephalic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2007002)]",
+  "description": "Early-forming neural cluster located in the rostral diencephalon. At 19 h, axons arising from the vrc grow caudally to pioneer the tract of the postoptic commissure (TPOC). Ross et al., 1992. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2007002)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2007002#ventro-rostral-cluster",
+  "name": "ventro-rostral cluster",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2007002",
+  "synonym": [
+    "ventrorostral cluster",
+    "vrc"
+  ]
+}
+

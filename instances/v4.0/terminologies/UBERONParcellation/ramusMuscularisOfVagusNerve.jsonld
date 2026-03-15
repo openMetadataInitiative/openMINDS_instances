@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ramusMuscularisOfVagusNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the ramus recurrens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010751) ('is_a' and 'relationship')]",
+  "description": "Motor nervous branch of the vagus innervating m. subarcualis rectus I. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010751)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010751#ramus-muscularis-of-vagus-nerve",
+  "name": "ramus muscularis of vagus nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010751",
+  "synonym": null
+}
+

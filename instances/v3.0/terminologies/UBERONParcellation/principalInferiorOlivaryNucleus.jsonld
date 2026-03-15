@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/principalInferiorOlivaryNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an inferior olivary nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002158)]",
+  "description": "The inferior olivary nucleus that consists of the major laminar structure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002158)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002158#principal-inferior-olivary-nucleus",
+  "name": "principal inferior olivary nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002158",
+  "synonym": [
+    "chief inferior olivary nucleus",
+    "convoluted olive",
+    "inferior olivary complex, principal olive",
+    "inferior olive principal nucleus",
+    "inferior olive, principal nucleus",
+    "main olivary nucleus",
+    "nucleus olivaris principalis",
+    "principal nucleus of inferior olive",
+    "principal olivary nucleus",
+    "principal olive"
+  ]
+}
+

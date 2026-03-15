@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/centralTegmentalTractOfMidbrain",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a tract of brain. Is part of the midbrain tegmentum and the central tegmental tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002585) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "central tegmental tract of midbrain",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101918"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002585#central-tegmental-tract-of-midbrain-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002585",
+  "synonym": null
+}

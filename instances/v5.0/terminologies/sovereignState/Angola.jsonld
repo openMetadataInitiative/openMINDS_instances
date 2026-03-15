@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Angola",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country on the west coast of Southern Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q916)]",
+  "description": null,
+  "name": "Angola",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q916",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "AGO",
+    "ANG",
+    "Angola",
+    "AO",
+    "ao",
+    "Ngola",
+    "Republic of Angola",
+    "República de Angola"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfHypothalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a hypothalamic nucleus. Is part of the periventricular zone of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001930) ('is_a' and 'relationship')]",
+  "description": "Nucleus in the anterior part of the hypothalamus. (MSH) * one of the magnocellular hypothalamic nuclei, an elongated plate of large, deeply staining cells located close to the third ventricle in the anterior hypothalamic area; major source of oxytocin and to a lesser extent, of antidiuretic hormone, neurohormones, which are carried to the neurohypophysis along the paraventriculohypophysial tract. (CSP) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001930)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108501",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001930#paraventricular-nucleus-of-hypothalamus-1",
+  "name": "paraventricular nucleus of hypothalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001930",
+  "synonym": [
+    "filiform nucleus",
+    "paraventricular hypothalamic nucleus",
+    "paraventricular nucleus"
+  ]
+}
+

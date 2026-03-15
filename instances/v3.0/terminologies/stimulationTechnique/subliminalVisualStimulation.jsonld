@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/subliminalVisualStimulation",
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/subliminalVisualStimulation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
   "definition": "Stimulation technique that is providing visual stimuli below an indivdual's threshold for conscious perception [adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli)]",
   "description": null,
@@ -12,3 +12,4 @@
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
+

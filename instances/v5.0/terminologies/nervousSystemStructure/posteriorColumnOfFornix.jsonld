@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/posteriorColumnOfFornix",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a neuron projection bundle and central nervous system cell part cluster. Is part of the fornix of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006115) ('is_a' and 'relationship')]",
+  "description": "Part of fornix adjacent to the fimbria comprising flattened bands of fibers that extend from the fimbria, running underneath the corpus callosum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006115)]",
+  "name": "posterior column of fornix",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109089"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006115#posterior-column-of-fornix-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006115",
+  "synonym": [
+    "crus fornicis",
+    "crus of fornix",
+    "fornix, crus posterius",
+    "posterior column of fornix of forebrain",
+    "posterior crus of fornix",
+    "posterior pillar of fornix"
+  ]
+}

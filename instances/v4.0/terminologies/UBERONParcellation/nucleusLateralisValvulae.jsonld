@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusLateralisValvulae",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000551)]",
+  "description": "Hindbrain nucleus in the tegmental region of rhombomere 1. The cells of the nucleus are granular and lie at the ventral border of the cerebellum and brain stem. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000551)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000551#nucleus-lateralis-valvulae",
+  "name": "nucleus lateralis valvulae",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000551",
+  "synonym": null
+}
+

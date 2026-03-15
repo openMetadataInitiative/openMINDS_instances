@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/vascularStructure/vasculatureOfBrain",
+  "@type": "https://openminds.om-i.org/types/VascularStructure",
+  "definition": "Is a vasculature of central nervous system. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008998) ('is_a' and 'relationship')]",
+  "description": "System pertaining to blood vessels in the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008998)]",
+  "name": "vasculature of brain",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0735625"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0008998#vasculature-of-brain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008998",
+  "synonym": [
+    "brain vasculature",
+    "cerebrovascular system",
+    "intracerebral vasculature"
+  ]
+}

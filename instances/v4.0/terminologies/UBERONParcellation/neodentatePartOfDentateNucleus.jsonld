@@ -4,16 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/neodentatePartOfDentateNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Neodentate part of dentate nucleus' is a gray matter of hindbrain. It is part of the dentate nucleus.",
-  "description": "",
+  "definition": "Is a gray matter of hindbrain. Is part of the dentate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002747) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107392",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002747#neodentate-part-of-dentate-nucleus-1",
   "name": "neodentate part of dentate nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002747",
   "synonym": [
-    "NDt",
-    "neodentate portion of dentate nucleus",
-    "neodentate portion of the dentate nucleus",
-    "pars neodentata"
+    "neodentate portion of dentate nucleus"
   ]
 }
+

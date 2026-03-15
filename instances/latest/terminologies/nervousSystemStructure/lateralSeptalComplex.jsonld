@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/lateralSeptalComplex",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a septal nuclear complex. Is part of the striatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007628) ('is_a' and 'relationship')]",
+  "description": "The lateral septal area; largest nuclear mass in this region, plays a pivotal role in various physiological processes, such as aggression, emotion, thermoregulation, water and food intake and sexual behaviour. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007628)]",
+  "name": "lateral septal complex",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0728564"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0007628#lateral-septal-complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007628",
+  "synonym": [
+    "lateral septal area"
+  ]
+}

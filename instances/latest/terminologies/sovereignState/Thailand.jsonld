@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Thailand",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Southeast Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q869)]",
+  "description": null,
+  "name": "Thailand",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q869",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Kingdom of Siam",
+    "Kingdom of Thailand",
+    "Prathet Thai",
+    "Ratcha-anachak Thai",
+    "Siam",
+    "TH",
+    "th",
+    "THA",
+    "Thai",
+    "The Kingdom of Siam",
+    "The Kingdom of Thailand"
+  ]
+}

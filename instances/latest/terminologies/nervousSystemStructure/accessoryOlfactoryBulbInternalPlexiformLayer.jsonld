@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/accessoryOlfactoryBulbInternalPlexiformLayer",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is an olfactory bulb layer. Is part of the accessory olfactory bulb. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019290) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "accessory olfactory bulb internal plexiform layer",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0019290#accessory-olfactory-bulb-internal-plexiform-layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019290",
+  "synonym": [
+    "AOB, internal plexiform layer"
+  ]
+}

@@ -4,13 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/septohippocampalNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Septohippocampal nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.",
-  "description": "Part of septal nuclear complex.  In the human, it refers to the most caudal of scattered clusters of neurons in the septum pellucidum that extend, on the underside of the corpus callosum, from the level of the medial septal nucleus to the CA fields ( Crosby-1962 ). In the rat it is associated with the lateral septal nucleus throughout its rostro-caudal course toward the CA fields ( Swanson-1998.  Adapted from Brain Info.",
+  "definition": "Is a telencephalic nucleus. Is part of the septal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007630) ('is_a' and 'relationship')]",
+  "description": "Part of septal nuclear complex. In the human, it refers to the most caudal of scattered clusters of neurons in the septum pellucidum that extend, on the underside of the corpus callosum, from the level of the medial septal nucleus to the CA fields ( Crosby-1962 ). In the rat it is associated with the lateral septal nucleus throughout its rostro-caudal course toward the CA fields ( Swanson-1998. Adapted from Brain Info. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007630)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110513",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007630#septohippocampal-nucleus",
   "name": "septohippocampal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007630",
-  "synonym": [
-    "SHi"
-  ]
+  "synonym": null
 }
+

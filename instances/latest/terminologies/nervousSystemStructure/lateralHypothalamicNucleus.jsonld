@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/lateralHypothalamicNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a hypothalamic nucleus. Is part of the lateral hypothalamic area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001937) ('is_a' and 'relationship')]",
+  "description": "The lateral hypothalamus or lateral hypothalamic area is a part of the hypothalamus. It is concerned with hunger. Damage to this area can cause reduced food intake. Stimulating the lateral hypothalamus causes a desire to eat, while stimulating the ventromedial hypothalamus causes a desire to stop eating. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001937)]",
+  "name": "lateral hypothalamic nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106071"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001937#lateral-hypothalamic-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001937",
+  "synonym": [
+    "nucleus hypothalamicus lateralis"
+  ]
+}

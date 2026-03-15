@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter. Is part of the spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002318) ('is_a' and 'relationship')]",
+  "description": "The regions of the spinal cord that are largely or entirely composed of myelinated nerve cell axons and contain few or no neural cell bodies or dendrites. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002318)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002318#white-matter-of-spinal-cord",
+  "name": "white matter of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002318",
+  "synonym": [
+    "spinal cord white matter",
+    "spinal cord white matter of neuraxis",
+    "spinal cord white substance",
+    "substantia alba medullae spinalis",
+    "white matter of neuraxis of spinal cord",
+    "white substance of spinal cord"
+  ]
+}
+

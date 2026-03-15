@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/finTasteBud",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034723)]",
+  "description": "A taste bud that is located on a fin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034723)]",
+  "name": "fin taste bud",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034723#fin-taste-bud",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034723",
+  "synonym": null
+}

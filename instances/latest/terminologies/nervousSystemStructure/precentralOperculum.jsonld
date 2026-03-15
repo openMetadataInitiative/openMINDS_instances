@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/precentralOperculum",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the operculum of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002605) ('is_a' and 'relationship')]",
+  "description": "The ventrolateral lip of the precentral gyrus, which overlies the insula and is bounded by the lateral fissure (Brain Info). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002605)]",
+  "name": "precentral operculum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109194"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002605#precentral-operculum-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002605",
+  "synonym": [
+    "operculum precentrale"
+  ]
+}

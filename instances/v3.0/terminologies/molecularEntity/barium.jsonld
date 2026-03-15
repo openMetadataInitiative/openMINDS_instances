@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/barium",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Barium (Ba) is a chemical element with atomic number 56 and belongs to the alkaline earth metals.[adapted from Wikipedia (https://en.wikipedia.org/wiki/Barium)]",
+  "description": "Barium is a chemical element; it has symbol Ba and atomic number 56. It is the fifth element in group 2; and is a soft, silvery alkaline earth metal. Because of its high chemical reactivity, barium is never found in nature as a free element. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Barium)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "barium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_37133",
+  "synonym": [
+    "Ba"
+  ]
+}
+

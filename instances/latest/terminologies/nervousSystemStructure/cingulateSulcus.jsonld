@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cingulateSulcus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002710)]",
+  "description": "The cingulate sulcus is a sulcus (brain fold) on the medial wall of the cerebral cortex. The frontal and parietal lobes are separated by the cingulate sulcus from the cingulate gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002710)]",
+  "name": "cingulate sulcus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0102181"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002710#cingulate-sulcus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002710",
+  "synonym": [
+    "calloso-marginal sulcus",
+    "callosomarginal fissure",
+    "callosomarginal sulcus",
+    "cingulate fissure",
+    "sulcus callosomarginalis",
+    "sulcus cingulatus",
+    "sulcus cinguli"
+  ]
+}

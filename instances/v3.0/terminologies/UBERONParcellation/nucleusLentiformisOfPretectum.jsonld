@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusLentiformisOfPretectum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035581)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035581#nucleus-lentiformis-of-pretectum",
+  "name": "nucleus lentiformis of pretectum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035581",
+  "synonym": [
+    "nucleus lentiformis mesencephali"
+  ]
+}
+

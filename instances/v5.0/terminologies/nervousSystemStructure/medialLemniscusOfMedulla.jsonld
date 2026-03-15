@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/medialLemniscusOfMedulla",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nervous system lemniscus. Is part of the medulla oblongata and the medial lemniscus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002748) ('is_a' and 'relationship')]",
+  "description": "Part of medial lemniscus located within the medulla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002748)]",
+  "name": "medial lemniscus of medulla",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106652"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002748#medial-lemniscus-of-medulla-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002748",
+  "synonym": [
+    "medulla medial lemniscus"
+  ]
+}

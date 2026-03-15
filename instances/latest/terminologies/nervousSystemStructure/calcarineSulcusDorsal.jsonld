@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/calcarineSulcusDorsal",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is an anatomical entity. Is part of the calcarine sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028395) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "calcarine sulcus (dorsal)",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0028395#calcarine-sulcus-dorsal-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0028395",
+  "synonym": null
+}

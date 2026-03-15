@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralPretectalNucleusSauropsida",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035584)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035584#ventral-pretectal-nucleus-sauropsida",
+  "name": "ventral pretectal nucleus (sauropsida)",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035584",
+  "synonym": null
+}
+

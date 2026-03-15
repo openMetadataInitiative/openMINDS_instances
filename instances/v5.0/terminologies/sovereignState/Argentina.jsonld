@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Argentina",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in South America. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q414)]",
+  "description": null,
+  "name": "Argentina",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q414",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "AR",
+    "ARG",
+    "Argentine Republic",
+    "Republic of Argentina",
+    "Republica Argentina",
+    "República Argentina"
+  ]
+}

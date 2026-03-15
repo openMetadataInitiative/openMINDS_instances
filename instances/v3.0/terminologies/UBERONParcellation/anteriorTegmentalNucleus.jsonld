@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorTegmentalNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a brainstem nucleus and midbrain nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010036)]",
+  "description": "A group of cells located ventral to the decussation of the superior cerebellar peduncle in the mouse ( Paxinos-2001 ) and rat ( Swanson-1998 ) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010036)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010036#anterior-tegmental-nucleus",
+  "name": "anterior tegmental nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010036",
+  "synonym": null
+}
+

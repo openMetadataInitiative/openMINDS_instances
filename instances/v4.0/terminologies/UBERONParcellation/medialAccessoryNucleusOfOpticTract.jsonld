@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/medialAccessoryNucleusOfOpticTract",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an accessory nucleus of optic tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013601)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013601#medial-accessory-nucleus-of-optic-tract",
+  "name": "medial accessory nucleus of optic tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013601",
+  "synonym": [
+    "medial terminal nucleus of the accessory optic tract",
+    "nucleus accessorius medialis tractus optici"
+  ]
+}
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/centralRetinalArtery",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a retina blood vessel. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001620)]",
+  "description": "The central retinal artery (retinal artery) branches off the ophthalmic artery, running inferior to the optic nerve within its dural sheath to the eyeball. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001620)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001620#central-retinal-artery",
+  "name": "central retinal artery",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001620",
+  "synonym": [
+    "central artery of retina",
+    "retinal artery",
+    "Zinn's artery"
+  ]
+}
+
