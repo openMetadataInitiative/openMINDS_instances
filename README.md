@@ -29,15 +29,15 @@ The autopopulation workflow synchronizes instance files across versions when a `
 
 ### Propagation rules
 
-| Case | Behavior |
-|------|----------|
-| Target file exists | File is updated |
+| Case                                                       | Behavior |
+|------------------------------------------------------------|----------|
+| Target file exists                                         | File is updated |
 | `terminologies/terminology/*` — target file does not exist | Skipped |
-| `terminologies/*` — target folder does not exist | Skipped |
-| Top-level folder does not exist in target version | Skipped |
-| Top-level folder exists, subfolder does not | Subfolder is created and file is propagated |
-| Same file modified in multiple versions in a single push | Skipped for all versions |
-| File is moved or renamed | Not propagated ⚠️ |
+| `terminologies/*` — target folder does not exist           | Skipped |
+| Top-level folder does not exist in target version          | Skipped |
+| Top-level folder exists, subfolder does not                | Subfolder is created and file is propagated |
+| Same file modified in multiple versions in a single push   | Skipped for all versions |
+| File is moved, renamed  or deleted                         | Not propagated ⚠️ |
 
 ### Property synchronization behavior
 
