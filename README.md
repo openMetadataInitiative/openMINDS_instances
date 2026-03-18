@@ -21,6 +21,33 @@ If you want to contribute please follow our :arrow_right: [**contribution guidel
 
 Explore the coverage statistics for the openMINDS instance library :arrow_right: [**openMINDS instance library coverage**][instance-library-coverage]
 
+## Autopopulation
+
+The autopopulation workflow synchronizes instance files across versions when a `.jsonld` file is added or modified on `main`. The file must be modified in exactly one version per push for triggering the autopopulation.
+
+> To skip autopopulation for a specific push or merge, include `[ci skip-autopopulate]` in the commit message.
+
+### Propagation rules
+
+| Case | Behavior |
+|------|----------|
+| Target file exists | File is updated |
+| `terminologies/terminology/*` — target file does not exist | Skipped |
+| `terminologies/*` — target folder does not exist | Skipped |
+| Top-level folder does not exist in target version | Skipped |
+| Top-level folder exists, subfolder does not | Subfolder is created and file is propagated |
+| Same file modified in multiple versions in a single push | Skipped for all versions |
+| File is moved or renamed | Not propagated ⚠️ |
+
+### Property synchronization behavior
+
+| Case | Behavior |
+|------|----------|
+| Property exists in source and is valid for target version | Propagated |
+| Property exists in source but not valid for target version | Ignored |
+| Property exists in target but not in source | Left untouched |
+| Property has the same name but different usage across versions | Propagated ⚠️ |
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contribution-url]: https://openminds-documentation.readthedocs.io/en/latest/shared/contribution_guidelines.html
