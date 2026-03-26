@@ -37,7 +37,7 @@ The autopopulation workflow synchronizes instance files across versions when a `
 | Top-level folder does not exist in target version          | Skipped |
 | Top-level folder exists, subfolder does not                | Subfolder is created and file is propagated |
 | Same file modified in multiple versions in a single push   | Skipped for all versions |
-| File is moved, renamed  or deleted                         | Not propagated ⚠️ |
+| File is moved, renamed or deleted                          | Not propagated ⚠️ |
 
 ### Property synchronization behavior
 
