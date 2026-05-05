@@ -26,8 +26,7 @@ def get_instance_data():
     """Return the data for all instances in the library."""
     # At present, only covers terminologies
     instance_data = {}
-    #root = Path("instances/latest")
-    root = Path("/Users/raphaelgazzotti/PycharmProjects/openMINDS_instances/instances/latest")
+    root = Path("instances/latest")
     for dir in root.iterdir():
         if dir.name == "terminologies":
             instance_data[dir.name] = {}
