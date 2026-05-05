@@ -50,8 +50,9 @@ def calculate_stats(instance_data):
         for key in (
             "definition",
             "description",
-            "interlexIdentifier",
-            "knowledgeSpaceLink",
+            #"interlexIdentifier",
+            #"knowledgeSpaceLink",
+            "preferredCrossReference",
             "preferredOntologyIdentifier",
             "synonym",
         ):
@@ -92,7 +93,6 @@ def main(build_dir="_coverage"):
     context = {
         "terminologies": stats
     }
-
     with open(build_dir / "index.html", "w") as fp:
         fp.write(template_home.render(**context))
     shutil.copy(this_dir / "coverage.css", build_dir)
