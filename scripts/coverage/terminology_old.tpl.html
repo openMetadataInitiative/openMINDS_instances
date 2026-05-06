@@ -14,15 +14,17 @@
                 <th>Name</th>
                 <th>Definition</th>
                 <th>Description</th>
-                <th>XRef ID</th>
-                <th>Ontology ID</th>
+                <th>Interlex id</th>
+                <th>KS link</th>
+                <th>Ontology id</th>
                 <th>Synonyms</th>
             </tr>
             <tr>
                 <th></th>
                 <th>{{stats.definition|int}}%</th>
                 <th>{{stats.description|int}}%</th>
-                <th>{{stats.preferredCrossReference|int}}%</th>
+                <th>{{stats.interlexIdentifier|int}}%</th>
+                <th>{{stats.knowledgeSpaceLink|int}}%</th>
                 <th>{{stats.preferredOntologyIdentifier|int}}%</th>
                 <th>{{stats.synonym|int}}%</th>
             </tr>
@@ -33,7 +35,8 @@
                 <td>{{instance.name}}</td>
                 <td class={{ "good" if instance.definition else "bad" }}></td>
                 <td class={{ "good" if instance.description else "bad" }}></td>
-                <td class={{ "good" if instance.preferredCrossReference else "bad" }}></td>
+                <td class={{ "good" if instance.interlexIdentifier else "bad" }}></td>
+                <td class={{ "good" if instance.knowledgeSpaceLink else "bad" }}></td>
                 <td class={{ "good" if instance.preferredOntologyIdentifier else "bad" }}></td>
                 <td class={{ "good" if instance.synonym else "bad" }}></td>
             </tr>

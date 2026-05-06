@@ -14,8 +14,9 @@
                 <th>Name</th>
                 <th>Definition</th>
                 <th>Description</th>
-                <th>XRef ID</th>
-                <th>Ontology ID</th>
+                <th>Interlex id</th>
+                <th>KS link</th>
+                <th>Ontology id</th>
                 <th>Synonyms</th>
             </tr>
         </thead>
@@ -25,7 +26,8 @@
                 <td><a href="terminologies/{{term_name}}.html">{{term_name}}</a></td>
                 <td class="{{stats.definition|colourcode}}" style="text-align: center;">{{stats.definition|int}}%</td>
                 <td class="{{stats.description|colourcode}}" style="text-align: center;">{{stats.description|int}}%</td>
-                <td class="{{stats.preferredCrossReference|colourcode}}" style="text-align: center;">{{stats.preferredCrossReference|int}}%</td>
+                <td class="{{stats.interlexIdentifier|colourcode}}" style="text-align: center;">{{stats.interlexIdentifier|int}}%</td>
+                <td class="{{stats.knowledgeSpaceLink|colourcode}}" style="text-align: center;">{{stats.knowledgeSpaceLink|int}}%</td>
                 <td class="{{stats.preferredOntologyIdentifier|colourcode}}" style="text-align: center;">{{stats.preferredOntologyIdentifier|int}}%</td>
                 <td class="{{stats.synonym|colourcode}}" style="text-align: center;">{{stats.synonym|int}}%</td>
             </tr>
