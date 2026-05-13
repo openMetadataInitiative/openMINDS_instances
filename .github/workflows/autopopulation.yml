@@ -11,7 +11,8 @@ permissions:
 
 jobs:
   sync-instances:
-    if: ${{ !contains(github.event.head_commit.message, '[ci skip-autopopulate]') }}
+    if: github.repository == 'openMetadataInitiative/openMINDS_instances' && ${{ !contains(github.event.head_commit.message, '[ci skip-autopopulate]') }}
+
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
