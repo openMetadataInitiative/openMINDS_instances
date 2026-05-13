@@ -84,30 +84,24 @@ jobs:
           
               # Iterate over existing versions in the instances directory
               for VERSION in $(ls "$MAIN_FOLDER"); do
-          
-                # Skip processing if the version matches the modified file's version
                 if [ "$VERSION" != "$FILE_VERSION" ]; then
                   TARGET_FILE="$MAIN_FOLDER/$VERSION/$FILE_MODULE/$FILE_NAME"
-          
-                  # Generate instance only if the target directory exists
-                  if [ -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ]; then
-                    if [[ "$FILE_MODULE" == "terminologies/terminology" ]] && [[ ! -e "$TARGET_FILE" ]]; then
-                      echo "Skipping $TARGET_FILE: terminology file does not exist in $VERSION."
-                      continue
-                    fi
+                  TOP_LEVEL_DIR=$(echo "$FILE_MODULE" | cut -d'/' -f1)
+              
+                  # Target file does not exist in instances/VERSION/terminologies/terminology
+                  if [[ "$FILE_MODULE" == "terminologies/terminology" ]] && [[ ! -e "$TARGET_FILE" ]]; then
+                    echo "Skipping $TARGET_FILE: terminology file does not exist in $VERSION."
+                  # Folder does not exist in instances/VERSION/terminologies/
+                  elif [[ "$FILE_MODULE" == terminologies/* ]] && [[ ! -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ]]; then
+                    echo "Skipping $FILE_MODULE: folder does not exist in $VERSION."
+                  # Top-level folder exists in instances/VERSION/
+                  elif [ -d "$MAIN_FOLDER/$VERSION/$TOP_LEVEL_DIR/" ]; then
+                    mkdir -p "$MAIN_FOLDER/$VERSION/$FILE_MODULE/"
                     echo "Generating instance from $FILE to $TARGET_FILE."
                     python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
+                  # Top-level folder not in instances/VERSION/
                   else
-                    # Folder does not exist
-                    if [[ "$FILE_MODULE" == terminologies/* ]]; then
-                      echo "Skipping $FILE_MODULE (the folder does not exist in $VERSION)."
-                      echo "Skipping the generation of $FILE to $TARGET_FILE."
-                    else
-                      echo "Creating missing folder(s) for $FILE_MODULE in $VERSION."
-                      mkdir -p "$MAIN_FOLDER/$VERSION/$FILE_MODULE/"
-                      echo "Generating instance from $FILE to $TARGET_FILE."
-                      python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
-                    fi
+                    echo "Skipping $FILE_MODULE: top-level folder does not exist in $VERSION."
                   fi
                 fi
               done
