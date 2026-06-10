@@ -4,15 +4,44 @@ import sys
 
 
 def load_json(path):
+    """Load and return the contents of a JSON file at the given path."""
     with open(path) as f:
         json_file = json.load(f)
     return json_file
+
 
 VERSION_FILE = load_json('.github/versions.json')
 TYPES_FILE = load_json('.github/types.json')
 PROPERTIES_FILE = load_json('.github/properties.json')
 REGEX_PATTERN_TYPE = r"https://openminds\.(om-i\.org|ebrains\.eu)/.*/"
 REGEX_PATTERN_INSTANCE = r"^https://openminds\.(om-i\.org|ebrains\.eu)/instances/"
+
+
+def score_match(src_item, tgt_item):
+    """Score the similarity between two dicts, ignoring openMINDS namespace differences."""
+    score = 0
+    for k, v in src_item.items():
+        tgt_v = tgt_item.get(k)
+        if v == tgt_v:
+            score += 1
+        elif isinstance(v, str) and isinstance(tgt_v, str):
+            # Compare without namespace prefix
+            src_local = re.sub(REGEX_PATTERN_INSTANCE, "", v)
+            tgt_local = re.sub(REGEX_PATTERN_INSTANCE, "", tgt_v)
+            if src_local == tgt_local:
+                score += 1
+    return score
+
+
+def find_best_match(item, tgt_list):
+    """Return the index and score of the most similar item in tgt_list."""
+    best_idx, best_score = -1, -1
+    for i, tgt_item in enumerate(tgt_list):
+        score = score_match(item, tgt_item)
+        if score > best_score:
+            best_score, best_idx = score, i
+    return best_idx, best_score
+
 
 def sync_properties(src_data, tgt_data, version):
     """Sync properties from src_data to tgt_data."""
@@ -68,15 +97,18 @@ def sync_properties(src_data, tgt_data, version):
         elif isinstance(value, list):
             if all(isinstance(item, dict) for item in value):
                 # Add the list if it does not exist in tgt_data
-                # Modify the list if its original length is equal to the new one
                 if key not in tgt_data:
                     tgt_data[key] = []
 
-                if len(tgt_data[key]) == 0 or len(tgt_data[key]) == len(value):
-                    tgt_data[key] = []
-                    for idx, item in enumerate(value):
-                        tgt_data[key].append({})
-                        tgt_data[key][idx] = sync_properties(item, tgt_data[key][idx], version)
+                for item in value:
+                    best_idx, best_score = find_best_match(item, tgt_data[key])
+
+                    if best_score == len(item):
+                        continue  # perfect match, skip
+                    elif best_score > 0:
+                        tgt_data[key][best_idx] = sync_properties(item, tgt_data[key][best_idx], version)
+                    else:
+                        tgt_data[key].append(sync_properties(item, {}, version))
             else:
                 # Non-dictionary values
                 tgt_data[key] = value
@@ -100,7 +132,6 @@ def main(src_file, tgt_file, version):
 
     # Sync properties
     target_data = sync_properties(src_data, tgt_data, version)
-
     # Write the updated target data back to the target file
     with open(tgt_file, 'w') as f:
         json.dump(target_data, f, indent=2, sort_keys=True, ensure_ascii=False)
