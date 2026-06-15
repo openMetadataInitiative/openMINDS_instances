@@ -13,7 +13,7 @@
   ],
   "isBasedOn": [
     {
-      "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_x-hdf"
+      "@id": "https://openminds.om-i.org/instances/contentTypes/image_x-hdf"
     }
   ],
   "name": "application/vnd.faconstructor.3d-pli+hdf5",
