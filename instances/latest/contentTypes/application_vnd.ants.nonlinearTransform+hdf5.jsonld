@@ -12,7 +12,11 @@
     ".h5",
     ".hdf5"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_x-hdf"
+    }
+  ],
   "name": "application/vnd.ants.nonlinearTransform+hdf5",
   "specification": null,
   "synonym": [

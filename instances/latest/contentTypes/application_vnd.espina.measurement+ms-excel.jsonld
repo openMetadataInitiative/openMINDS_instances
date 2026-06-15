@@ -11,7 +11,11 @@
   "fileExtension": [
     ".xls"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.ms-excel"
+    }
+  ],
   "name": "application/vnd.espina.measurement+ms-excel",
   "specification": null,
   "synonym": [

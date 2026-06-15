@@ -11,7 +11,11 @@
   "fileExtension": [
     ".json"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.om-i.org/instances/contentTypes/application_json"
+    }
+  ],
   "name": "application/vnd.voluba.v1.linearTransform+json",
   "specification": null,
   "synonym": [

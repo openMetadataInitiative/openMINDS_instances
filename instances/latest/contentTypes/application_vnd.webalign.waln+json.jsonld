@@ -11,7 +11,11 @@
   "fileExtension": [
     ".waln"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.om-i.org/instances/contentTypes/application_json"
+    }
+  ],
   "name": "application/vnd.webalign.waln+json",
   "specification": null,
   "synonym": [

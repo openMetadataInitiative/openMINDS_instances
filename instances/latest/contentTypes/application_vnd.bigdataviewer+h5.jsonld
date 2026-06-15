@@ -11,7 +11,11 @@
   "fileExtension": [
     ".h5"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_x-hdf"
+    }
+  ],
   "name": "application/vnd.bigdataviewer+h5",
   "specification": null,
   "synonym": [

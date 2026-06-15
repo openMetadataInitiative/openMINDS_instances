@@ -13,7 +13,11 @@
   "fileExtension": [
     ".json"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.om-i.org/instances/contentTypes/application_json"
+    }
+  ],
   "name": "application/vnd.nest-desktop.model.v4+json",
   "specification": null,
   "synonym": [

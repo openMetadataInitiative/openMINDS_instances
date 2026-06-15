@@ -12,7 +12,11 @@
     ".hdf5",
     ".h5"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/contentTypes/application_x-hdf"
+    }
+  ],
   "name": "image/vnd.ilastik.pixelclassification+hdf5",
   "specification": null,
   "synonym": [
