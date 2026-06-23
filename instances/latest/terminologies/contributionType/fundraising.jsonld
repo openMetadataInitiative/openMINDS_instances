@@ -2,11 +2,11 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/coordination",
+  "@id": "https://openminds.om-i.org/instances/contributionType/fundraising",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by aligning or synchronizing the interactions of multiple activities, actors, or processes related to a target entity.",
+  "definition": "A contribution type of a role-bearing entity realized by securing financial resources to support a target entity or activities related to it.",
   "description": null,
-  "name": "coordination",
+  "name": "fundraising",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,
   "preferredCrossReference": null,

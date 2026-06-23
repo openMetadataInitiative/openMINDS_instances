@@ -2,11 +2,11 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contributionType/coordination",
+  "@id": "https://openminds.om-i.org/instances/contributionType/research",
   "@type": "https://openminds.om-i.org/types/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by aligning or synchronizing the interactions of multiple activities, actors, or processes related to a target entity.",
+  "definition": "A contribution type of a role-bearing entity realized by systematically investigating a target entity to generate new knowledge or understanding.",
   "description": null,
-  "name": "coordination",
+  "name": "research",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,
   "preferredCrossReference": null,
