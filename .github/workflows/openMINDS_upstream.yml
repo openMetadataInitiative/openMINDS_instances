@@ -19,6 +19,7 @@ jobs:
         include:
           - repo: openMetadataInitiative/openMINDS_json-schema
             workflow: build.yml
+            inputs: '{"branch":"${{ github.ref_name }}","repository":"${{ github.repository }}"}'
 
           - repo: openMetadataInitiative/openMINDS_MATLAB
             workflow: build.yml
@@ -26,11 +27,12 @@ jobs:
           - repo: openMetadataInitiative/openMINDS_Python
             workflow: build.yml
 
-          - repo: openMetadataInitiative/openMINDS_Python-dev
+          - repo: openMetadataInitiative/openMINDS_Python
             workflow: build-dev.yml
 
           - repo: openMetadataInitiative/openMINDS_LinkML
             workflow: build.yml
+            inputs: '{"branch":"${{ github.ref_name }}","repository":"${{ github.repository }}"}'
 
           - repo: openMetadataInitiative/openMINDS_documentation
             workflow: build.yml
@@ -41,16 +43,16 @@ jobs:
     steps:
     - name: Trigger target repositories
       run: |
-          curl -s -w "\n${{ matrix.repo }}: %{http_code}\n" \
-            -X POST \
-            -u "${{ secrets.PAT_USERNAME }}:${{ secrets.PAT_TOKEN }}" \
-            -H "Accept: application/vnd.github+json" \
-            -H "Content-Type: application/json" \
-            https://api.github.com/repos/${{ matrix.repo }}/actions/workflows/${{ matrix.workflow }}/dispatches \
-            --data "{
-              \"ref\": \"pipeline\",
-              \"inputs\": {
-                \"branch\": \"${{ github.ref_name }}\",
-                \"repository\": \"${{ github.repository }}\"
-              }
-            }"
+        if [ -n "${{ matrix.inputs }}" ]; then
+          DATA='{"ref":"pipeline","inputs":'${{ matrix.inputs }}'}'
+        else
+          DATA='{"ref":"pipeline"}'
+        fi
+        
+        curl -s -w "\n${{ matrix.repo }}: %{http_code}\n" \
+          -X POST \
+          -u "${{ secrets.PAT_USERNAME }}:${{ secrets.PAT_TOKEN }}" \
+          -H "Accept: application/vnd.github+json" \
+          -H "Content-Type: application/json" \
+          https://api.github.com/repos/${{ matrix.repo }}/actions/workflows/${{ matrix.workflow }}/dispatches \
+          --data "$DATA"
