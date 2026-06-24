@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/experimentalApproach/functionalConnectivity",
+  "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
+  "definition": "Any experimental approach that refers to statistical dependence between time series of electro-physiological activity and (de)oxygenated blood levels in distinct regions of the brain [Babaeeghazvini et al., 2021](https://doi.org/10.3389/fnhum.2021.721206).",
+  "description": "Electro-physiological activity can be assessed non-invasively using encephalographic recordings. Electro- and magnetoencephalography (EEG and MEG, respectively) reflect changes in averaged post-synaptic potential and dendritic currents of neural populations and, hence, provide direct insight into ‘neural functioning’. (De)oxygenated blood levels are typically based on functional MRI (fMRI) and blood-oxygen-level dependent (BOLD) contrasts, one assesses (correlated) changes in the metabolic demand, providing indirect insight into this neural functioning [Babaeeghazvini et al., 2021](https://doi.org/10.3389/fnhum.2021.721206).",
+  "name": "functional connectivity",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0793847"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0793847",
+  "synonym": []
+}
