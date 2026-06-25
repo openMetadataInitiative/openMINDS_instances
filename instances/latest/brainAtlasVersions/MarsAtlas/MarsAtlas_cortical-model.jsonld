@@ -1,0 +1,184 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/MarsAtlas_cortical-model",
+  "@type": "https://openminds.om-i.org/types/BrainAtlasVersion",
+  "abbreviation": "MarsAtlas",
+  "accessibility": {
+    "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
+  },
+  "author": null,
+  "coordinateSpace": null,
+  "copyright": null,
+  "custodian": null,
+  "description": "The MarsAtlas is a model of cortical and/or subcortical parcellations and can be applied to any human brain volume files following T1 imaging. The model is implemented in the FreeSurfer software, and cortical and/or subcortical segmentations can be obtained through specific pipelines. When the MarsAtlas is applied to commonly used coordinate framework with a standard reference dataset in a common coordinate space, the output may act as a reference brain atlas.",
+  "digitalIdentifier": {
+    "@id": "https://doi.org/10.1002/hbm.23121"
+  },
+  "fullDocumentation": {
+    "@id": "https://meca-brain.org/software/marsatlas/"
+  },
+  "fullName": "Marseille Atlas",
+  "funding": null,
+  "hasTerminology": {
+    "@type": "https://openminds.om-i.org/types/ParcellationTerminologyVersion",
+    "dataLocation": null,
+    "hasEntity": [
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_anteriorCingulateCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_caudalDorsolateralPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_caudalDorsomedialPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_caudalMedialVisualCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_caudalMiddleTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_caudalSuperiorTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_cuneus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_dorsalInferiorParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_dorsolateralMotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_dorsolateralPremotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_dorsolateralSomatosensoryCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_dorsomedialMotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_dorsomedialPremotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_dorsomedialSomatosensoryCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_insularCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_isthmusCingulateCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_lateralVisualCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_medialInferiorTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_medialParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_medialSuperiorParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_midCingulateCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_posteriorCingulateCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_rostralDorsalPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_rostralDorsolateralInferiorPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_rostralDorsolateralSuperiorPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_rostralInferiorTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_rostralMedialPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_rostralMedialVisualCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_rostralMiddleTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_rostralSuperiorTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_rostralVentralPremotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_rostralVentrolateralPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_superiorParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_superiorVisualCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_ventralInferiorParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_ventralMotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_ventralOrbitoFrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_ventralSomatosensoryCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_ventralmedialOrbitoFrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_ventrolateralOrbitoFrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_ventromedialPrefrontalCortex"
+      }
+    ],
+    "ontologyIdentifier": null
+  },
+  "homepage": "https://meca-brain.org/software/",
+  "howToCite": "Guillaume Auzias*, Olivier Coulon*, Andrea Brovelli (2016) MarsAtlas : A cortical parcellation atlas for functional mapping, Human Brain Mapping 37(4), p. 1573-1592, doi:10.1002/hbm.23121 (* equal contribution)",
+  "isAlternativeVersionOf": null,
+  "isNewVersionOf": null,
+  "keyword": null,
+  "license": null,
+  "majorVersionIdentifier": null,
+  "ontologyIdentifier": null,
+  "otherContribution": null,
+  "relatedPublication": [
+    {
+      "@id": "https://doi.org/10.1002/hbm.23121"
+    },
+    {
+      "@id": "https://doi.org/10.1109/tmi.2013.2241651"
+    }
+  ],
+  "releaseDate": "2016-01-27",
+  "repository": null,
+  "shortName": "MarsAtlas",
+  "supportChannel": [
+    "https://meca-brain.org/contact/"
+  ],
+  "type": {
+    "@id": "https://openminds.om-i.org/instances/atlasType/parcellationModel"
+  },
+  "usedSpecimen": null,
+  "versionIdentifier": "cortical model",
+  "versionInnovation": "This is the first version of this parcellation scheme. It contains 41 cortical parcellation areas on each hemisphere belonging to 7 parent regions, and builds on the [HipHop parameterization pipeline](https://meca-brain.org/software/hip-hop/). The pipeline performs a parameterization of the white matter surface and implicitly provides an inter-subject cortical surface matching. The resulting 2D coordinate system (longitude/latitude) is fitted to a model of cortical organization, which means that a number of sulcal lines have a constant coordinate (longitude or latitude) and that some pairs of sulci have the same coordinate because they are aligned in this model."
+}
+
