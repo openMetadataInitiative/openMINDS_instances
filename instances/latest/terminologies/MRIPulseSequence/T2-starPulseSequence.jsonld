@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/T2-starPulseSequence",
+  "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "T2-star pulse sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "T2* pulse sequence"
+  ]
+}
