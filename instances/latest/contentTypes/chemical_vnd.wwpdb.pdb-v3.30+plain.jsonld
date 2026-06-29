@@ -13,7 +13,11 @@
     ".ent",
     ".pdb"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.om-i.org/instances/contentTypes/text_plain"
+    }
+  ],
   "name": "chemical/vnd.wwpdb.pdb-v3.30+plain",
   "specification": "https://www.wwpdb.org/documentation/file-format-content/format33/v3.3.html",
   "synonym": [
