@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/leadership",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by setting direction and making consequential decisions for a collective undertaking.",
+  "description": null,
+  "name": "leadership",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

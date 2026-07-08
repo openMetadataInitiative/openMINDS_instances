@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/approval",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by formally authorizing or accepting a target entity so that it may proceed or be used.",
+  "description": null,
+  "name": "approval",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
