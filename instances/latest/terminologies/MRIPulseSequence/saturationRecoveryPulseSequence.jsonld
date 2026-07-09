@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/saturationRecoveryPulseSequence",
+  "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
+  "definition": "A magnetic resonance imaging pulse sequence composed of multiple slice selective 90-degree radiofrequency pulses at regular intervals delayed to allow the recovery of all the longitudinal magnetization before another pulse is applied.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "saturation recovery pulse sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "SR pulse sequence"
+  ]
+}

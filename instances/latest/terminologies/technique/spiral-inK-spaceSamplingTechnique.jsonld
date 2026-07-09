@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/spiral-inK-spaceSamplingTechnique",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "spiral-in k-space sampling technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "spiral in k-space sampling technique" 
+  ]
+}
