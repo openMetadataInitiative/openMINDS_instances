@@ -4,6 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/accessibilities/directPhysicalSingle-paymentModelControlledAccess",
   "@type": "https://openminds.om-i.org/types/Accessibility",
+  "application": "Select when a physical research product can be obtained or used directly after a single payment, without prior registration, authentication, or a separate authorization procedure. Example: purchasing a printed book or another tangible research product for a one-time price.",
   "channel": {
     "@id": "https://openminds.om-i.org/instances/accessChannel/physicalAccess"
   },

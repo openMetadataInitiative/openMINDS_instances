@@ -4,6 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/accessibilities/directVirtualAuthenticatedControlledAccess",
   "@type": "https://openminds.om-i.org/types/Accessibility",
+  "application": "Select when a research product can be accessed directly online at no cost by users whose identity, account, affiliation, or other qualifying status has been authenticated. No separate authorization decision is required. Example: access through an authenticated institutional account or single sign-on.",
   "channel": {
     "@id": "https://openminds.om-i.org/instances/accessChannel/virtualAccess"
   },
