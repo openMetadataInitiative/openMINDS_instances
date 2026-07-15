@@ -13,12 +13,12 @@
   "form": {
     "@id": "https://openminds.om-i.org/instances/accessForm/directAccess"
   },
+  "paymentModel": [
+    {
+      "@id": "https://openminds.om-i.org/instances/paymentModelType/single-paymentModel"
+    }
+  ],
   "process": {
     "@id": "https://openminds.om-i.org/instances/accessProcessType/immediateAccess"
-  },
-  "paymentModel": [
-      {
-        "@id": "https://openminds.om-i.org/instances/paymentModelType/single-paymentModel"
-      }
-  ]
+  }
 }
