@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/spinalCord",
-  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "@id": "https://openminds.om-i.org/instances/organ/spinalCord",
+  "@type": "https://openminds.om-i.org/types/Organ",
   "definition": "Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002240)]",
   "description": "Part of the central nervous system located in the vertebral canal continuous with and caudal to the brain; demarcated from brain by plane of foramen magnum. It is composed of an inner core of gray matter in which nerve cells predominate, and an outer layer of white matter in which myelinated nerve fibers predominate, and surrounds the central canal. (CUMBO) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002240)]",
   "name": "spinal cord",

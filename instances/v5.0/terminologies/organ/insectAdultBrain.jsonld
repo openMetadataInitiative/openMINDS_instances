@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/insectAdultBrain",
-  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "@id": "https://openminds.om-i.org/instances/organ/insectAdultBrain",
+  "@type": "https://openminds.om-i.org/types/Organ",
   "definition": "Is a brain. Is part of the insect adult central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003624) ('is_a' and 'relationship')]",
   "description": "Brain of the adult. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003624)]",
   "name": "insect adult brain",
