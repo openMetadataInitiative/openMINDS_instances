@@ -7,7 +7,7 @@
   "dataType": null,
   "definingSource": null,
   "description": "A text file containing a program written in the Stan modeling language.",
-  "displayLabel": null,
+  "displayLabel": "Stan model file",
   "fileExtension": [
     ".stan"
   ],
@@ -18,7 +18,5 @@
   ],
   "name": "application/vnd.stan.R",
   "specification": "https://mc-stan.org/docs/stan-users-guide/style-guide.html#file-extensions",
-  "synonym": [
-    "Stan model file"
-  ]
+  "synonym": null
 }

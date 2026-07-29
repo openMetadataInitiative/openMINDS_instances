@@ -7,7 +7,7 @@
   "dataType": null,
   "definingSource": null,
   "description": "An R script is a text file that stores the R commands you would normally type at the R command prompt.",
-  "displayLabel": null,
+  "displayLabel": "R script",
   "fileExtension": [
     ".R",
     ".r"
@@ -15,7 +15,5 @@
   "isBasedOn": null,
   "name": "text/x-r",
   "specification": "https://cran.r-project.org/doc/contrib/Lemon-kickstart/kr_scrpt.html",
-  "synonym": [
-    "R script"
-  ]
+  "synonym": null,
 }

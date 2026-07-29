@@ -7,7 +7,7 @@
   "dataType": null,
   "definingSource": null,
   "description": "A text file containing function definitions written in the Stan modeling language.",
-  "displayLabel": null,
+  "displayLabel": "Stan function definitions",
   "fileExtension": [
     ".stanfunctions"
   ],
@@ -18,7 +18,5 @@
   ],
   "name": "application/vnd.stanfunctions.R",
   "specification": "https://mc-stan.org/docs/stan-users-guide/style-guide.html#file-extensions",
-  "synonym": [
-    "Stan function definitions"
-  ]
+  "synonym": null
 }
