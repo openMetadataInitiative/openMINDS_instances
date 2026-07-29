@@ -12,7 +12,11 @@
     ".fg",
     ".fg.gz"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.om-i.org/instances/contentTypes/text_x-fastq"
+    }
+  ],
   "name": "application/vnd.illumina.annotated-sequence+fastq",
   "specification": "https://en.wikipedia.org/wiki/FASTQ_format",
   "synonym": [
