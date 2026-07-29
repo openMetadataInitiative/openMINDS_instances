@@ -17,7 +17,11 @@
     ".jsd",
     ".jsonsd"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.om-i.org/instances/contentTypes/application_json"
+    }
+  ],
   "name": "application/schema+json",
   "specification": null,
   "synonym": [

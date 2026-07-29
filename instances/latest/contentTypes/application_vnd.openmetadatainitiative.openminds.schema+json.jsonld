@@ -11,7 +11,11 @@
   "fileExtension": [
     ".schema.omi.json"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.om-i.org/instances/contentTypes/application_json"
+    }
+  ],
   "name": "application/vnd.openmetadatainitiative.openminds.schema+json",
   "specification": null,
   "synonym": [
