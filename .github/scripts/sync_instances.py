@@ -97,7 +97,7 @@ def sync_properties(src_data, tgt_data, version):
         elif isinstance(value, list):
             if all(isinstance(item, dict) for item in value):
                 # Add the list if it does not exist in tgt_data
-                if key not in tgt_data:
+                if not isinstance(tgt_data.get(key), list):
                     tgt_data[key] = []
 
                 for item in value:
