@@ -11,7 +11,11 @@
   "fileExtension": [
     ".csv"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.om-i.org/instances/contentTypes/text_csv"
+    }
+  ],
   "name": "application/vnd.intranat+csv",
   "specification": null,
   "synonym": [
