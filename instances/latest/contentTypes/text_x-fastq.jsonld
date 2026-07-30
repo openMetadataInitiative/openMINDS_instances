@@ -6,7 +6,7 @@
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": [
     {
-      "id": "https://openminds.om-i.org/instances/dataType/table"
+      "@id": "https://openminds.om-i.org/instances/dataType/table"
     }
   ],
   "definingSource": null,
