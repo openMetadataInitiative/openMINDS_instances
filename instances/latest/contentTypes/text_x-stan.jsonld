@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.stan.R",
+  "@id": "https://openminds.om-i.org/instances/contentTypes/text_x-stan",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "definingSource": null,
@@ -16,7 +16,7 @@
       "@id": "https://openminds.om-i.org/instances/contentTypes/text_x-r"
     }
   ],
-  "name": "application/vnd.stan.R",
+  "name": "text/x-stan",
   "specification": "https://mc-stan.org/docs/stan-users-guide/style-guide.html#file-extensions",
   "synonym": null
 }
