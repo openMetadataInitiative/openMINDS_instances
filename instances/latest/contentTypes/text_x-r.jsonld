@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/text_x-r",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": "An R script is a text file that stores the R commands you would normally type at the R command prompt.",
+  "displayLabel": "R script",
+  "fileExtension": [
+    ".R",
+    ".r"
+  ],
+  "isBasedOn": null,
+  "name": "text/x-r",
+  "specification": "https://cran.r-project.org/doc/contrib/Lemon-kickstart/kr_scrpt.html",
+  "synonym": null
+}
