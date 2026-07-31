@@ -9,7 +9,7 @@
     "https://www.iana.org/assignments/media-types/application/sbml+xml",
     "https://mimetype.io/application/sbml+xml"
   ],
-  "description": "SBML is an XML based format format for representing computational models of biological processes.",
+  "description": "SBML is an XML based format for representing computational models of biological processes.",
   "displayLabel": "Systems Biology Markup Language",
   "fileExtension": [
     ".sbml",
