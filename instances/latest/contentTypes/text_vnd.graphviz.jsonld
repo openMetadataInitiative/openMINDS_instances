@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/text_vnd.graphviz",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/text/vnd.graphviz",
+    "https://mimetype.io/text/vnd.graphviz"
+  ],
+  "description": "DOT is a text graph description language for directed and undirected graphs.",
+  "displayLabel": "DOT Language",
+  "fileExtension": [
+    ".dot",
+    ".gv"
+  ],
+  "isBasedOn": null,
+  "name": "text/vnd.graphviz",
+  "specification": "https://graphviz.org/doc/info/lang.html",
+  "synonym": [
+    "DOT"
+  ]
+}
