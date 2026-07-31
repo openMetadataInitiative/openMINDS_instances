@@ -12,7 +12,7 @@
   "definingSource": [
     "https://mimetype.io/audio/vnd.wav"
   ],
-  "description": "An WAV is an uncompressed, lossless audio file format standard which preserves the original sound quality but results in larger file sizes compared to compressed formats.",
+  "description": "A WAV is an uncompressed, lossless audio file format standard which preserves the original sound quality but results in larger file sizes compared to compressed formats.",
   "displayLabel": "Waveform Audio File Format",
   "fileExtension": [
     ".wave",
