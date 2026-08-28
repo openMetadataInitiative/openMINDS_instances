@@ -1,0 +1,213 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/MarsAtlas_Colin27-MNI",
+  "@type": "https://openminds.om-i.org/types/BrainAtlasVersion",
+  "abbreviation": "MarsAtlas",
+  "accessibility": {
+    "@id": "https://openminds.om-i.org/instances/productAccessibility/freeAccess"
+  },
+  "author": null,
+  "coordinateSpace": {
+    "@id": "https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-Colin27_1998"
+  },
+  "copyright": null,
+  "custodian": null,
+  "description": "The MarsAtlas is a model of cortical and/or subcortical parcellations and can be applied to any human brain volume files following T1 imaging. The model is implemented in the FreeSurfer software, and cortical and/or subcortical segmentations can be obtained through specific pipelines. When the MarsAtlas is applied to commonly used coordinate framework with a standard reference dataset in a common coordinate space, the output may act as a reference brain atlas.",
+  "digitalIdentifier": null,
+  "fullDocumentation": {
+    "@id": "https://meca-brain.org/software/marsatlas-colin27/"
+  },
+  "fullName": "Marseille Atlas",
+  "funding": null,
+  "hasTerminology": {
+    "@type": "https://openminds.om-i.org/types/ParcellationTerminologyVersion",
+    "dataLocation": null,
+    "hasEntity": [
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_accumbens"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_amygdala"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_anteriorCingulateCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_caudalDorsolateralPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_caudalDorsomedialPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_caudalMedialVisualCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_caudalMiddleTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_caudalSuperiorTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_caudate"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_cuneus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_dorsalInferiorParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_dorsolateralMotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_dorsolateralPremotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_dorsolateralSomatosensoryCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_dorsomedialMotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_dorsomedialPremotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_dorsomedialSomatosensoryCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_hippocampus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_insularCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_isthmusCingulateCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_lateralVisualCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_medialInferiorTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_medialParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_medialSuperiorParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_midCingulateCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_pallidum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_posteriorCingulateCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_puttamen"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_rostralDorsalPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_rostralDorsolateralInferiorPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_rostralDorsolateralSuperiorPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_rostralInferiorTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_rostralMedialPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_rostralMedialVisualCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_rostralMiddleTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_rostralSuperiorTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_rostralVentralPremotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_rostralVentrolateralPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_superiorParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_superiorVisualCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_thalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_ventralInferiorParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_ventralMotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_ventralOrbitoFrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_ventralSomatosensoryCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_ventralmedialOrbitoFrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_ventrolateralOrbitoFrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_ventromedialPrefrontalCortex"
+      }
+    ],
+    "ontologyIdentifier": null
+  },
+  "homepage": "https://meca-brain.org/software/",
+  "howToCite": "Please cite the following publications: \\n- Auzias*, G., Coulon*, C. & Brovelli, A. (2016) MarsAtlas : A cortical parcellation atlas for functional mapping. Human Brain Mapping 37(4), p. 1573-1592, doi:10.1002/hbm.23121 (* equal contribution) \\n- Brovelli, A., Badier, J.-M., Bonini, F., Bartolomei, F., Coulon*, O. & Auzias*, G. (2017) Dynamic Reconfiguration of Visuomotor-Related Functional Connectivity Networks. The Journal of Neuroscience, 37(4), p. 839–853, doi:10.1523/JNEUROSCI.1672-16.2017 (*equal contribution) \\n Please make sure to follow the copyright of the [Colin27 average brain in the MNI space](https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/colin-27). You may also cite its original publication, [Holmes et al. (1998)](http://doi.org/10.1097/00004728-199803000-00032).",
+  "isAlternativeVersionOf": null,
+  "isNewVersionOf": null,
+  "keyword": null,
+  "license": null,
+  "majorVersionIdentifier": null,
+  "ontologyIdentifier": null,
+  "otherContribution": null,
+  "relatedPublication": [
+    {
+      "@id": "https://doi.org/10.1002/hbm.23121"
+    },
+    {
+      "@id": "https://doi.org/10.1109/tmi.2013.2241651"
+    },
+    {
+      "@id": "https://doi.org/10.1523/JNEUROSCI.1672-16.2017"
+    },
+    {
+      "@id": "http://doi.org/10.1097/00004728-199803000-00032"
+    }
+  ],
+  "releaseDate": "2018-01-08",
+  "repository": {
+    "@id": "https://www.dropbox.com/s/ndz8qtqblkciole/MarsAtlas-MNI-Colin27.zip?dl=0"
+  },
+  "shortName": "MarsAtlas",
+  "supportChannel": [
+    "https://meca-brain.org/contact/"
+  ],
+  "type": {
+    "@id": "https://openminds.om-i.org/instances/atlasType/deterministicAtlas"
+  },
+  "usedSpecimen": null,
+  "versionIdentifier": "Colin27-MNI",
+  "versionInnovation": "This is the first version of this brain atlas. The MarsAtlas parcellation scheme was applied to the original version (1998) of the Colin27 average brain in the MNI space resulting in 41 cortical and 7 subcortical annotations."
+}
+

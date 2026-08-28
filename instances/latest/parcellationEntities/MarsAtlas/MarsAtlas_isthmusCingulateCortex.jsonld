@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_isthmusCingulateCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "ICC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_cingularCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_isthmusCingulateCortex"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_isthmusCingulateCortex"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_subcortical-extension_isthmusCingulateCortex"
+    }
+  ],
+  "lookupLabel": "MarsAtlas_isthmusCingulateCortex",
+  "name": "isthmus cingulate cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": {
+    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/isthmusOfCingulateCortex"
+  }
+}
+

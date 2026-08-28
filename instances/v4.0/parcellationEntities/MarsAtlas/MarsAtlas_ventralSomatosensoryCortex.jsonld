@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_ventralSomatosensoryCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "Sv",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_parietalLobe"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_ventralSomatosensoryCortex"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_ventralSomatosensoryCortex"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_subcortical-extension_ventralSomatosensoryCortex"
+    }
+  ],
+  "lookupLabel": "MarsAtlas_ventralSomatosensoryCortex",
+  "name": "ventral somatosensory cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

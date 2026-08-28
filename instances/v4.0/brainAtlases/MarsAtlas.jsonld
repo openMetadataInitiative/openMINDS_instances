@@ -1,0 +1,204 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/brainAtlas/MarsAtlas",
+  "@type": "https://openminds.om-i.org/types/BrainAtlas",
+  "abbreviation": "MarsAtlas",
+  "author": null,
+  "custodian": null,
+  "description": "The MarsAtlas is a model of cortical and/or subcortical parcellations and can be applied to any human brain volume files following T1 imaging. The model is implemented in the FreeSurfer software, and cortical and/or subcortical segmentations can be obtained through specific pipelines. When the MarsAtlas is applied to commonly used coordinate framework with a standard reference dataset in a common coordinate space, the output may act as a reference brain atlas.",
+  "digitalIdentifier": null,
+  "fullName": "Marseille Atlas",
+  "hasTerminology": {
+    "@type": "https://openminds.om-i.org/types/ParcellationTerminology",
+    "dataLocation": null,
+    "hasEntity": [
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_accumbens"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_amygdala"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_anteriorCingulateCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_caudalDorsolateralPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_caudalDorsomedialPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_caudalMedialVisualCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_caudalMiddleTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_caudalSuperiorTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_caudate"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_cingularCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_cuneus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_dorsalInferiorParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_dorsolateralMotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_dorsolateralPremotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_dorsolateralSomatosensoryCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_dorsomedialMotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_dorsomedialPremotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_dorsomedialSomatosensoryCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_frontalLobe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_hippocampus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_insula"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_insularCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_isthmusCingulateCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_lateralVisualCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_medialInferiorTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_medialParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_medialSuperiorParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_midCingulateCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_occipitalLobe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_orbito-FrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_pallidum"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_parietalLobe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_posteriorCingulateCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_puttamen"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_rostralDorsalPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_rostralDorsolateralInferiorPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_rostralDorsolateralSuperiorPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_rostralInferiorTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_rostralMedialPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_rostralMedialVisualCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_rostralMiddleTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_rostralSuperiorTemporalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_rostralVentralPremotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_rostralVentrolateralPrefrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_superiorParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_superiorVisualCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_temporalLobe"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_thalamus"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_ventralInferiorParietalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_ventralMotorCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_ventralOrbitoFrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_ventralSomatosensoryCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_ventralmedialOrbitoFrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_ventrolateralOrbitoFrontalCortex"
+      },
+      {
+        "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_ventromedialPrefrontalCortex"
+      }
+    ],
+    "ontologyIdentifier": null
+  },
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/MarsAtlas_Colin27-MNI"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/MarsAtlas_cortical-model"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/brainAtlasVersion/MarsAtlas_subcortical-extension"
+    }
+  ],
+  "homepage": "https://meca-brain.org/software/",
+  "howToCite": null,
+  "ontologyIdentifier": null,
+  "shortName": "MarsAtlas",
+  "usedSpecies": {
+    "@id": "https://openminds.om-i.org/instances/species/homoSapiens"
+  }
+}
+

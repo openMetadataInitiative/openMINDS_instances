@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_cuneus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "Cu",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_occipitalLobe"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_cuneus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_cortical-model_cuneus"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_subcortical-extension_cuneus"
+    }
+  ],
+  "lookupLabel": "MarsAtlas_cuneus",
+  "name": "cuneus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": {
+    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cuneusCortex"
+  }
+}
+

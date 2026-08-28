@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarsAtlas_caudate",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_caudate"
+    },
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarsAtlas_subcortical-extension_caudate"
+    }
+  ],
+  "lookupLabel": "MarsAtlas_caudate",
+  "name": "caudate",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": {
+    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/caudateNucleus"
+  }
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarsAtlas_frontalLobe",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "frontal region"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "hasVersion": null,
+  "lookupLabel": "MarsAtlas_frontalLobe",
+  "name": "frontal lobe",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": {
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/frontalLobe"
+  }
+}
+

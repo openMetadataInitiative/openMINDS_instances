@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarsAtlas_dorsolateralPremotorCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PMdl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarsAtlas_frontalLobe"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarsAtlas_Colin27-MNI_dorsolateralPremotorCortex"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarsAtlas_cortical-model_dorsolateralPremotorCortex"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarsAtlas_subcortical-extension_dorsolateralPremotorCortex"
+    }
+  ],
+  "lookupLabel": "MarsAtlas_dorsolateralPremotorCortex",
+  "name": "dorsolateral premotor cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+
