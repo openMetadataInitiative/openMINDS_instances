@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/AgeCategory",
   "definition": "Life cycle stage of a subject that starts right before and ends right after birth.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0724163",
-  "knowledgeSpaceLink": null,
   "name": "perinate",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0724163"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012101",
   "synonym": [
     "perinatal stage",
