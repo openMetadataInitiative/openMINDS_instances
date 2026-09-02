@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AgeCategory",
   "definition": "Life cycle stage of a subject that starts with sexual maturity and ends with the cessation of growth (if reached after sexual maturity).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "young adult",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "early adult",
