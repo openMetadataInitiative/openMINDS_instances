@@ -4,11 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/ageCategory/juvenile",
   "@type": "https://openminds.om-i.org/types/AgeCategory",
-  "definition": "'Life cycle stage of a subject that starts with the independence of the nest and/or caregiver and ends with sexual maturity.",
+  "definition": "Life cycle stage of a subject that starts with the independence of the nest and/or caregiver and ends with sexual maturity.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0730395",
-  "knowledgeSpaceLink": null,
   "name": "juvenile",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0730395"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034919",
   "synonym": [
     "juvenile stage"
