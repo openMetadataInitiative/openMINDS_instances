@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/accessibilities/directVirtualAuthorizedRestrictedAccess",
+  "@type": "https://openminds.om-i.org/types/Accessibility",
+  "application": "Select when a research product can be accessed directly online at no cost only by authenticated users who have received explicit authorization and who satisfy enhanced legal, ethical, contractual, security, or governance requirements. Example: approved researchers accessing sensitive data directly in a secure virtual environment.",
+  "channel": {
+    "@id": "https://openminds.om-i.org/instances/accessChannel/virtualAccess"
+  },
+  "eligibility": {
+    "@id": "https://openminds.om-i.org/instances/accessEligibilityType/restrictedAccess"
+  },
+  "form": {
+    "@id": "https://openminds.om-i.org/instances/accessForm/directAccess"
+  },
+  "process": {
+    "@id": "https://openminds.om-i.org/instances/accessProcessType/authorizedAccess"
+  },
+  "paymentModel": [
+      {
+        "@id": "https://openminds.om-i.org/instances/paymentModelType/zero-costPaymentModel"
+      }
+  ]
+}
