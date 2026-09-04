@@ -4,6 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/accessibilities/directVirtualOpenAccess",
   "@type": "https://openminds.om-i.org/types/Accessibility",
+  "application": "Select when anyone can access the research product directly online at no cost, without registration, authentication, authorization, or mediation. Example: an openly available publication, dataset, software package, or downloadable research file.",
   "channel": {
     "@id": "https://openminds.om-i.org/instances/accessChannel/virtualAccess"
   },
@@ -14,9 +15,9 @@
     "@id": "https://openminds.om-i.org/instances/accessForm/directAccess"
   },
   "paymentModel": [
-    {
-      "@id": "https://openminds.om-i.org/instances/paymentModelType/zero-costPaymentModel"
-    }
+      {
+        "@id": "https://openminds.om-i.org/instances/paymentModelType/zero-costPaymentModel"
+      }
   ],
   "process": {
     "@id": "https://openminds.om-i.org/instances/accessProcessType/immediateAccess"
