@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/zigzagK-spaceSamplingTechnique",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "A k-space sampling strategy that follows a zigzag pattern.",
+  "description": null,
+  "name": "zigzag k-space sampling technique",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "zig-zag k-space sampling technique"
+  ]
+}

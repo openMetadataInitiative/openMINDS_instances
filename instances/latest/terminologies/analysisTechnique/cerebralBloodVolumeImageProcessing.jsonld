@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/cerebralBloodVolumeImageProcessing",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "Image processing technique that outputs a measure of cerebral blood volume.",
+  "description": null,
+  "name": "cerebral blood volume image processing",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "cbv"
+  ]
+}
