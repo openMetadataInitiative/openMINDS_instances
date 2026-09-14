@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "head restrained",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "head-restrained"
+  ]
 }
