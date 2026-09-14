@@ -11,5 +11,7 @@
   "otherOntologyIdentifier": null,
   "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_14330",
-  "synonym": null
+  "synonym": [
+    "Parkinson disease"
+  ]
 }

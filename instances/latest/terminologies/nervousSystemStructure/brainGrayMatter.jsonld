@@ -14,10 +14,13 @@
   "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003528#brain-gray-matter",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003528",
   "synonym": [
+    "brain gray matter",
     "brain grey matter",
+    "brain gray substance",
     "brain grey substance",
     "gray matter of brain",
     "grey matter of brain",
+    "gray substance of brain",
     "grey substance of brain"
   ]
 }
