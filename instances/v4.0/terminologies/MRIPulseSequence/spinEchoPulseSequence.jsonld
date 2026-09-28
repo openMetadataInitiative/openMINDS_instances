@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/spinEchoPulseSequence",
   "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
-  "definition": "In magnetic resonance imaging, a 'spin echo pulse sequence' is a contrast generation technique that induces bulk changes in the spin magnetization of a sample by applying sequential pulses of resonant electromagnetic waves at different angles (cf. [Fonseca (2013)](https://doi.org/10.5772/53693)).",
+  "definition": "A magnetic resonance imaging pulse sequence composed of a slice selective 90-degree pulse followed by one or more (for fast spin echo sequences) 180-degree refocusing pulses.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
