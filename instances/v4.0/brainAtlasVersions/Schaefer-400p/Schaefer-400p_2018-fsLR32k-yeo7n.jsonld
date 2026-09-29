@@ -22,7 +22,7 @@
   "hasTerminology": {
     "@type": "https://openminds.om-i.org/types/ParcellationTerminologyVersion",
     "dataLocation": null,
-    "hasEntity":null,
+    "hasEntity": null,
     "ontologyIdentifier": null
   },
   "homepage": null,
@@ -31,7 +31,7 @@
   "isNewVersionOf": null,
   "keyword": null,
   "license": {
-    "@id": "https://openminds.om-i.org/instances/licenses/mit"
+    "@id": "https://openminds.om-i.org/instances/licenses/MIT"
   },
   "majorVersionIdentifier": "2018",
   "ontologyIdentifier": null,
@@ -48,3 +48,4 @@
   "versionIdentifier": "2018, fsLR32k, yeo7n",
   "versionInnovation": null
 }
+

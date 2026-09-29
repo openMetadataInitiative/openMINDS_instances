@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ependyma",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the ventricle of nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004670)]",
+  "description": "The thin epithelium-like membrane composed of ependymal cells that lines the ventricular system of the brain and the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004670)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004670#ependyma",
+  "name": "ependyma",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004670",
+  "synonym": [
+    "ependyma of neuraxis",
+    "ependymal epithelium"
+  ]
+}
+

@@ -4,11 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/brainEpendyma",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Brain ependyma' is an ependyma. It is part of the brain ventricle.",
-  "description": "The ependymal cell layer that lines the brain ventricles.",
+  "definition": "Is an ependyma. Is part of the brain ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005357) ('is_a' and 'relationship')]",
+  "description": "The ependymal cell layer that lines the brain ventricles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005357)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0730349",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005357#brain-ependyma",
   "name": "brain ependyma",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005357",
-  "synonym": null
+  "synonym": [
+    "ependyma of ventricular system of brain"
+  ]
 }
+

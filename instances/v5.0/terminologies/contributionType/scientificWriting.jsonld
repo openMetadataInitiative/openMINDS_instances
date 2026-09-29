@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/scientificWriting",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by producing textual content that reports, analyzes, or interprets scientific investigations or knowledge about a target entity.",
+  "description": null,
+  "name": "scientific writing",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

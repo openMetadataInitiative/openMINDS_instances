@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/C1SegmentOfCervicalSpinalCord",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006469)]",
+  "description": "The segment of the spinal cord that corresponds to the first cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006469)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006469#first-cervical-spinal-cord-segment",
+  "name": "C1 segment of cervical spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006469",
+  "synonym": [
+    "C1 cervical spinal cord",
+    "C1 segment",
+    "C1 spinal cord segment",
+    "first cervical spinal cord segment"
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfDiencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neural decussation. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007425) ('is_a' and 'relationship')]",
+  "description": "A neural decussation that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007425)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007425#decussation-of-diencephalon",
+  "name": "decussation of diencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007425",
+  "synonym": [
+    "diencephalon decussation"
+  ]
+}
+

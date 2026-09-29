@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rightParietalLobe",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a parietal lobe. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002803) ('is_a' and 'relationship')]",
+  "description": "Parietal lobe of the right hemisphere of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002803)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002803#right-parietal-lobe-1",
+  "name": "right parietal lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002803",
+  "synonym": null
+}
+

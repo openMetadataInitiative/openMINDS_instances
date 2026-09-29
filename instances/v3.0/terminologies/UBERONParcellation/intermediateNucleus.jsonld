@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a diencephalic nucleus. Is part of the caudal tuberculum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002202) ('is_a' and 'relationship')]",
+  "description": "Diencephalic nucleus which is located between the dorsal hypothalamus and the caudal tuberal nucleus and does not contain tyrosine hydroxylase immunoreactive cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002202)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2002202#intermediate-nucleus",
+  "name": "intermediate nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2002202",
+  "synonym": null
+}
+

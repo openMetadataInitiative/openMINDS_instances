@@ -4,15 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rostralMiddleFrontalGyrus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Rostral middle frontal gyrus' is a regional part of brain and frontal gyrus. It is part of the middle frontal gyrus.",
-  "description": "Component of the middl frontal gyrus  The rostral boundary is the first appearance of the superior frontal sulcus whereas the caudal boundary is the middle frontal gyrus. The medial and lateral boundaries are the superior frontal sulcus and the inferior frontal sulcus respectively (Christine Fennema-Notestine).",
+  "definition": "Is a regional part of brain and frontal gyrus. Is part of the middle frontal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006446) ('is_a' and 'relationship')]",
+  "description": "Component of the middle frontal gyrus The rostral boundary is the first appearance of the superior frontal sulcus whereas the caudal boundary is the middle frontal gyrus. The medial and lateral boundaries are the superior frontal sulcus and the inferior frontal sulcus respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006446)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110215",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006446#rostral-middle-frontal-gyrus-1",
   "name": "rostral middle frontal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006446",
   "synonym": [
-    "anterior part of middle frontal gyrus",
-    "rostral middle frontal gyrus",
-    "rostral part of middle frontal gyrus"
+    "anterior part of middle frontal gyrus"
   ]
 }
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/macularDegeneration",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
+  "definition": "A retinal degeneration characterized by gradual deterioration of light-sensing cells in the tissues at the back of the eye resulting in vision loss.[adapted from [Disease Ontology definition](http://purl.obolibrary.org/obo/DOID_4448)]",
+  "description": "Deterioration of the macula lutea in the retina; may be inherited, drug induced, or due to aging; leads to a severe loss of central vision while peripheral vision is retained.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106448",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/BIRNLEX:12811#macular-degeneration-1",
+  "name": "macular degeneration",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_4448",
+  "synonym": [
+    "macular degeneration of retina",
+    "macular dystrophy",
+    "maculopathy"
+  ]
+}
+

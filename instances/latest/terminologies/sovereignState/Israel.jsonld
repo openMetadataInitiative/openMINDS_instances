@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Israel",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q801)]",
+  "description": null,
+  "name": "Israel",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q801",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "il",
+    "IL",
+    "ISR",
+    "State of Israel",
+    "Yisrael"
+  ]
+}

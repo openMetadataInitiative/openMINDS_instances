@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuOr",
+  "@id": "https://openminds.ebrains.eu/instances/colormap/matplotlib.colormaps.PuOr",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
   "definition": "The colormap 'PuOr' is a diverging colormap of the Python plotting library Matplotlib.",
   "description": null,
@@ -14,3 +14,4 @@
     "PuOr"
   ]
 }
+

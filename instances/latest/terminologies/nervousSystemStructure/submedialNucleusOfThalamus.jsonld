@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/submedialNucleusOfThalamus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a posterior nucleus of thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003031)]",
+  "description": "Thalamic nucleus separated from the ventromedial part of the mediodorsal nucleus of the thalamus by the internal medullary lamina (Paxinos The rat nervous system 2nd ed, Academic Press, 1995). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003031)]",
+  "name": "submedial nucleus of thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111192"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003031#submedial-nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003031",
+  "synonym": [
+    "gelatinosus thalamic nucleus",
+    "nucleus submedialis thalami",
+    "nucleus submedius thalami",
+    "submedial nucleus",
+    "submedial nucleus thalamus",
+    "submedial thalamic nucleus"
+  ]
+}

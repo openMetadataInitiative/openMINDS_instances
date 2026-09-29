@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/deepFibularNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a leg nerve and fibular nerve. Is part of the common fibular nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035207) ('is_a' and 'relationship')]",
+  "description": "A branch of the common peroneal nerve. It innervates the ankle and toes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035207)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035207#deep-fibular-nerve",
+  "name": "deep fibular nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035207",
+  "synonym": [
+    "deep peroneal nerve"
+  ]
+}
+

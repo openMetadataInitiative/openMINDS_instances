@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorCingulateMedialAndRetrosplenialCorticalRegions",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PCR",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_dorsalPallium"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_posteriorCingulateMedialAndRetrosplenialCorticalRegions",
+  "name": "Posterior cingulate medial and retrosplenial cortical regions",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

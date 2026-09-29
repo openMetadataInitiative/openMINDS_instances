@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/commandLineInterface",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
+  "definition": "A text-based system that enables users to interact with a computer or software by entering commands, allowing them to perform specific tasks or operations.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "command line interface",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q189053",
+  "synonym": [
+    "CLI"
+  ]
+}
+

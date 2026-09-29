@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/spinothalamicTract",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007703)]",
+  "description": "A tract that originates from neurons in the spinal central gray and projects to various somatosensory nuclei of the thalamus. It is formed in the medulla by merger of the anterior spinothalamic tract and lateral spinothalamic tract (adapted from Braininfo.org) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007703)]",
+  "name": "spinothalamic tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0110973"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0007703#spinothalamic-tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007703",
+  "synonym": null
+}

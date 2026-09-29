@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/autonomicNervousSystem",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002410) ('is_a' and 'relationship')]",
+  "description": "The autonomic nervous system is composed of neurons that are not under conscious control, and is comprised of two antagonistic components, the sympathetic and parasympathetic nervous systems. The autonomic nervous system regulates key functions including the activity of the cardiac (heart) muscle, smooth muscles (e.g. of the gut), and glands. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002410)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002410#autonomic-nervous-system",
+  "name": "autonomic nervous system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002410",
+  "synonym": [
+    "autonomic division of peripheral nervous system",
+    "autonomic part of peripheral nervous system",
+    "divisio autonomica systematis nervosi peripherici",
+    "pars autonomica systematis nervosi peripherici",
+    "peripheral autonomic nervous system",
+    "visceral nervous system"
+  ]
+}
+

@@ -1,0 +1,30 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalHornOfSpinalCord",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a spinal cord column. Is part of the gray matter of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002256) ('is_a' and 'relationship')]",
+  "description": "The pronounced, dorsolaterally oriented ridge of grey matter in each lateral half of the spinal cord. the dorsal (more towards the back) grey matter of the spinal cord. It receives several types of sensory information from the body, including light touch, proprioception, and vibration. This information is sent from receptors of the skin, bones, and joints through sensory neurons whose cell bodies lie in the dorsal root ganglion. The dorsal region of the mature spinal cord contains neurons that process and relay sensory input. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002256)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002256#spinal-cord-dorsal-horn",
+  "name": "dorsal horn of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002256",
+  "synonym": [
+    "columna grisea posterior medullae spinalis",
+    "cornu dorsale",
+    "cornu posterius medullae spinalis",
+    "dorsal gray column of spinal cord",
+    "dorsal gray horn",
+    "dorsal gray matter of spinal cord",
+    "dorsal grey column of spinal cord",
+    "dorsal horn spinal cord",
+    "posterior gray column of spinal cord",
+    "posterior gray horn of spinal cord",
+    "posterior grey column of spinal cord",
+    "posterior horn of spinal cord",
+    "spinal cord dorsal horn",
+    "spinal cord posterior horn"
+  ]
+}
+

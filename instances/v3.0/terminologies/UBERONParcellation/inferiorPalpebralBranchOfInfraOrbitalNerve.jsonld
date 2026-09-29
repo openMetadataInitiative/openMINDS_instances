@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorPalpebralBranchOfInfraOrbitalNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a palpebral branch of infra-orbital nerve and lower eyelid nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022296)]",
+  "description": "A nerve that innervates a lower eyelid and is a branch of the infra-orbital branch of the maxillary nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022296)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022296#inferior-palpebral-branch-of-infra-orbital-nerve",
+  "name": "inferior palpebral branch of infra-orbital nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022296",
+  "synonym": [
+    "rami palpebrales inferiores nervi infraorbitalis"
+  ]
+}
+

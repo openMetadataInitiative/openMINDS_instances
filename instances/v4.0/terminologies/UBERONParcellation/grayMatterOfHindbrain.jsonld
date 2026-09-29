@@ -4,11 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/grayMatterOfHindbrain",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Gray matter of hindbrain' is a brain gray matter. It is part of the hindbrain.",
+  "definition": "Is a brain gray matter. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019263) ('is_a' and 'relationship')]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0724553",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0019263#gray-matter-of-hindbrain",
   "name": "gray matter of hindbrain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019263",
-  "synonym": null
+  "synonym": [
+    "gray matter of the hindbrain"
+  ]
 }
+

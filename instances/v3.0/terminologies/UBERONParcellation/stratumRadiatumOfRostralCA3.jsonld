@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/stratumRadiatumOfRostralCA3",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034839) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034839#stratum-radiatum-of-rostral-ca3",
+  "name": "stratum radiatum of rostral CA3",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034839",
+  "synonym": null
+}
+

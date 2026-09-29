@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/ageCategory/adult",
   "@type": "https://openminds.om-i.org/types/AgeCategory",
-  "definition": "'Adult' categorizes the life cycle stage of an animal or human that reached sexual maturity.",
+  "definition": "Life cycle stage of a subject that starts with sexual maturity and ends with death.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0729043",
   "knowledgeSpaceLink": null,

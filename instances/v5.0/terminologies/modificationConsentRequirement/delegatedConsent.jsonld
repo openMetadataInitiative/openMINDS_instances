@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationConsentRequirement/delegatedConsent",
+  "@type": "https://openminds.om-i.org/types/ModificationConsentRequirement",
+  "definition": "Modification may be made by one designated party only.",
+  "description": null,
+  "name": "delegated consent",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

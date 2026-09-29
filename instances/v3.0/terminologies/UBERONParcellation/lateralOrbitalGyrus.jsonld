@@ -4,14 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalGyrus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Lateral orbital gyrus' is an orbital gyrus.",
-  "description": "",
+  "definition": "Is an orbital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002564)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106084",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002564#lateral-orbital-gyrus-1",
   "name": "lateral orbital gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002564",
-  "synonym": [
-    "gyrus orbitalis lateralis",
-    "gyrus orbitalis longitudinalis externus"
-  ]
+  "synonym": null
 }
+

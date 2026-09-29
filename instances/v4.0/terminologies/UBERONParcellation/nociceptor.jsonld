@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nociceptor",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035017)]",
+  "description": "Peripheral receptors for pain. Nociceptors include receptors which are sensitive to painful mechanical stimuli, extreme heat or cold, and chemical stimuli. All nociceptors are free nerve endings. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035017)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035017#nociceptor",
+  "name": "nociceptor",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035017",
+  "synonym": null
+}
+

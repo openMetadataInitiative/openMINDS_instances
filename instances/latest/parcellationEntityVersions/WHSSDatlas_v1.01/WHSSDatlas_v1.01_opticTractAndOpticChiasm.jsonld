@@ -13,7 +13,6 @@
   "hasAnnotation": [
     {
       "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
-      "anchorPoint": null,
       "criteria": null,
       "criteriaQualityType": {
         "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
@@ -49,10 +48,13 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_opticFiberSystemAndSupraopticDecussation"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_opticTractAndOpticChiasm"
+  },
   "lookupLabel": "WHSSDatlas_v1.01_opticTractAndOpticChiasm",
   "name": "optic tract and optic chiasm",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "v1.01",
-  "versionInnovation": null
+  "versionSpecification": null
 }

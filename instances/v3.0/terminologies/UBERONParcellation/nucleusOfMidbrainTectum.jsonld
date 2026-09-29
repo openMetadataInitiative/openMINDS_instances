@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMidbrainTectum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a midbrain nucleus. Is part of the midbrain tectum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011214) ('is_a' and 'relationship')]",
+  "description": "A neural nucleus that is part of a midbrain tectum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011214)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011214#nucleus-of-midbrain-tectum",
+  "name": "nucleus of midbrain tectum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011214",
+  "synonym": [
+    "nucleus of tectum"
+  ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Kuwait",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Sovereign state in Western Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q817)]",
+  "description": null,
+  "name": "Kuwait",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q817",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "KUW",
+    "KW",
+    "kw",
+    "KWT",
+    "State of Kuwait"
+  ]
+}

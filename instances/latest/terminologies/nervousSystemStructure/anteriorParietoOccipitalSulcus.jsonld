@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/anteriorParietoOccipitalSulcus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a sulcus of brain. Is part of the parieto-occipital sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025829) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "anterior parieto-occipital sulcus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100736"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0025829#anterior-parieto-occipital-sulcus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0025829",
+  "synonym": null
+}

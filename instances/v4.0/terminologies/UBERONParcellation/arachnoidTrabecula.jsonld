@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/arachnoidTrabecula",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the arachnoid mater. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000439)]",
+  "description": "The arachnoid trabeculae are delicate strands of connective tissue that loosely connect the two innermost layers of the meninges -- the arachnoid mater and the pia mater. They are found within the subarachnoid space where cerebrospinal fluid is also found. Embryologically, the trabeculae are the remnants of the common precursor that forms both the arachnoid and pial layers of the meninges. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000439)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000439#arachnoid-trabecula",
+  "name": "arachnoid trabecula",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000439",
+  "synonym": null
+}
+

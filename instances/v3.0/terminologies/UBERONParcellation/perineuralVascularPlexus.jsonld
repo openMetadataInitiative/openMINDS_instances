@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/perineuralVascularPlexus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015189)]",
+  "description": "The capillary bed that initially surrounds the relative avascular brain and spinal cord; the perineural vascular plexus (PNVP) is the precursor to the blood brain barrier formed by angioblasts which migrate away from somites and is recruited to surround the neural tube in response to VEGF; vascularization of the brain and spinal cord occurs via angiogenesis as sprouting vessels from the PNVP invade the neuroepithelium and grow inward toward the ventricular lumen. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015189)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015189#perineural-vascular-plexus",
+  "name": "perineural vascular plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015189",
+  "synonym": [
+    "PNVP"
+  ]
+}
+

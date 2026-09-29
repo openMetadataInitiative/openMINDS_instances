@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab20b",
+  "@id": "https://openminds.ebrains.eu/instances/colormap/matplotlib.colormaps.tab20b",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
   "definition": "The colormap 'tab20b' is a qualitative colormap of the Python plotting library Matplotlib.",
   "description": null,
@@ -14,3 +14,4 @@
     "tab20b"
   ]
 }
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/mesomere2",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a midbrain neuromere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019274)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0019274#mesomere-2",
+  "name": "mesomere 2",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019274",
+  "synonym": [
+    "mesomere 2 (preisthmus or caudal midbrain)",
+    "mesomere M2"
+  ]
+}
+

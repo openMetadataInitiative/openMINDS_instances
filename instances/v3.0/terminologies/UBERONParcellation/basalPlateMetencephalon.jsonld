@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/basalPlateMetencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neural tube basal plate. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005239)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005239#basal-plate-metencephalon",
+  "name": "basal plate metencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005239",
+  "synonym": [
+    "metencephalon basal plate"
+  ]
+}
+

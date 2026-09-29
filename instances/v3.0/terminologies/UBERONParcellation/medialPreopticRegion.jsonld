@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialPreopticRegion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the preoptic area and the medial zone of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007769) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007769#medial-preoptic-region",
+  "name": "medial preoptic region",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007769",
+  "synonym": [
+    "medial preoptic area"
+  ]
+}
+

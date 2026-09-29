@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/provision",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by making a target entity or its functionality available for use.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "provision",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

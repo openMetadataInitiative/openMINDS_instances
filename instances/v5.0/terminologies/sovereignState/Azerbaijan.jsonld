@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Azerbaijan",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in the Caucasus in Eastern Europe and Western Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q227)]",
+  "description": null,
+  "name": "Azerbaijan",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q227",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "AZ",
+    "az",
+    "AZE",
+    "Azərbaycan",
+    "Azərbaycan Respublikası",
+    "Republic of Azerbaijan"
+  ]
+}

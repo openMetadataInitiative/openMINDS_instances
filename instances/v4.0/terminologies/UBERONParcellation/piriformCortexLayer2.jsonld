@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/piriformCortexLayer2",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the piriform cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014280) ('is_a' and 'relationship')]",
+  "description": "Middle of three cytoarchitecturally defined layers of the piriform cortex characterized by a compact layer of cell bodies. It can be divided into a superficial part and a more densely packed deep part. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014280)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014280#piriform-cortex-layer-2",
+  "name": "piriform cortex layer 2",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014280",
+  "synonym": [
+    "layer 2 of piriform cortex",
+    "layer II of piriform cortex",
+    "piriform cortex layer II"
+  ]
+}
+

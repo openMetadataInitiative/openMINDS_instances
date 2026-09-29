@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/verticalLimbOfTheDiagonalBand",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a subdivision of diagonal band. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006124)]",
+  "description": null,
+  "name": "vertical limb of the diagonal band",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112424"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006124#vertical-limb-of-the-diagonal-band-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006124",
+  "synonym": [
+    "crus verticale striae diagonalis",
+    "vertical limb of diagonal band",
+    "vertical limb of the diagonal band of Broca"
+  ]
+}

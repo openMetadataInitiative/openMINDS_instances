@@ -4,13 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/subicularComplex",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Subicular complex' is a regional part of brain. It is part of the hippocampal formation.",
-  "description": "A composite structure of the temporal lobe that includes the subiculum, the presubiculum and the parasubicular area (Amaral-90)",
+  "definition": "Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023787) ('is_a' and 'relationship')]",
+  "description": "A composite structure of the temporal lobe that includes the subiculum, the presubiculum and the parasubicular area (Amaral-90) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023787)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111167",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023787#subicular-complex-1",
   "name": "subicular complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023787",
-  "synonym": [
-    "subicular complex"
-  ]
+  "synonym": null
 }
+

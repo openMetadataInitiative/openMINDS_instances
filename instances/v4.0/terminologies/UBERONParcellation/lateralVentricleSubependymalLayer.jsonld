@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralVentricleSubependymalLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the telencephalic ventricle and the postnatal subventricular zone. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010404)]",
+  "description": "A cell layer below the ependyma in the lateral ventricles of the brain. This region contains adult neural stem cells which have the potential to generate new neurons and glial cells via neurogenesis. It is an adult version of the embryonic forebrain germinal zone. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010404)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010404#lateral-ventricle-subependymal-layer",
+  "name": "lateral ventricle subependymal layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010404",
+  "synonym": null
+}
+

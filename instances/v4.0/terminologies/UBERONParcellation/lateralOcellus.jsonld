@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralOcellus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a dorsal ocellus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003162)]",
+  "description": "The ocellus that is paired. The number, form, and function of the dorsal ocelli varies markedly throughout insect orders. They tend to be larger and more strongly expressed in flying insects (particularly bees, wasps, dragonflies and locusts), where they are typically found as a triplet. Two lateral ocelli are directed to the left and right of the head respectively, while a central (median) ocellus is directed frontally. In some terrestrial insects (e.g. some ants and cockroaches), only two lateral ocelli are present: the median ocellus is absent. Note that the unfortunately labelled 'lateral ocelli' here refers to the sideways facing position of the ocelli, which are of the dorsal type. They should not be confused with the lateral ocelli of some insect larvae (see stemmata). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003162)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003162#lateral-ocellus",
+  "name": "lateral ocellus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003162",
+  "synonym": null
+}
+

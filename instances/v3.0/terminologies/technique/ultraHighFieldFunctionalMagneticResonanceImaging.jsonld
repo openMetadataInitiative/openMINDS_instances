@@ -4,11 +4,18 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/ultraHighFieldFunctionalMagneticResonanceImaging",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "'Ultra high-field functional magnetic resonance imaging' comprises all functional MRI techniques conducted with a MRI scanner with a magnetic field strength equal or above 7 Tesla.",
+  "definition": "A magnetic resonance imaging technique that generates multiple images over time of some physiological processes of a specimen typically employing a magnetic field strength of 7 Tesla (or higher).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "ultra high-field functional magnetic resonance imaging",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "UHF fMRI",
+    "UHF functional magnetic resonance imaging",
+    "UHF functional MRI",
+    "ultra high-field fMRI",
+    "ultra high-field functional MRI"
+  ]
 }
+

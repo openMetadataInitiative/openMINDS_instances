@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralCommissuralNucleusOfSpinalCord",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of spinal cord. Is part of the ventral horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034771) ('is_a' and 'relationship')]",
+  "description": "The term commissural nucleus of the spinal cord refers to a group of cells in the medial portion of the anterior gray column; it corresponds roughly to lamina VIII. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034771)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034771#ventral-commissural-nucleus-of-spinal-cord",
+  "name": "ventral commissural nucleus of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034771",
+  "synonym": [
+    "commissural nucleus of spinal cord"
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/insectEmbryonicLarvalCentralNervousSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a central nervous system. Is part of the insect embryonic/larval nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001919) ('is_a' and 'relationship')]",
+  "description": "Central nervous system of the embryo/larva. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001919)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6001919#embryonic-larval-central-nervous-system",
+  "name": "insect embryonic/larval central nervous system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6001919",
+  "synonym": [
+    "larval central nervous system"
+  ]
+}
+

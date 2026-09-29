@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/stratumLucidumOfCaudalCA3",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a CA3 stratum lucidum. Is part of the caudal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034810) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034810#stratum-lucidum-of-caudal-ca3",
+  "name": "stratum lucidum of caudal CA3",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034810",
+  "synonym": null
+}
+

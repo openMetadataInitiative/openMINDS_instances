@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ramusLateral",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a posterior lateral line nerve (PLLN). [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010801)]",
+  "description": "Ventral division of the trunk of the PLLN, this prominent ramus extends over the lateral trunk and caudal musculature innervating the lateral line of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010801)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010801#ramus-lateral",
+  "name": "ramus lateral",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010801",
+  "synonym": null
+}
+

@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.Pastel2",
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.Pastel2",
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'Pastel2' is a qualitative colormap of the Python plotting library Matplotlib.",
   "description": null,
@@ -14,3 +14,4 @@
     "Pastel2"
   ]
 }
+

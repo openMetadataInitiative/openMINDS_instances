@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralNerveRootOfLumbarSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a root of lumbar spinal nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024382)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0024382#ventral-nerve-root-of-lumbar-spinal-cord-1",
+  "name": "ventral nerve root of lumbar spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024382",
+  "synonym": null
+}
+

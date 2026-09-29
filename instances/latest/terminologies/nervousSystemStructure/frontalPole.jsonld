@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/frontalPole",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a pole of cerebral hemisphere. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002795) ('is_a' and 'relationship')]",
+  "description": "Component of the frontal lobe. The rostral and caudal boundaries of the frontal pole are the superior frontal gyrus and the rostral division of the middle frontal gyrus respectively (Christine Fennama-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002795)]",
+  "name": "frontal pole",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104455"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002795#frontal-pole-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002795",
+  "synonym": [
+    "polus frontalis"
+  ]
+}

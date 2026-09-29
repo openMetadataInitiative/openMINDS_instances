@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/grayMatterOfTelencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a gray matter of forebrain. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011300) ('is_a' and 'relationship')]",
+  "description": "A portion of gray matter that is part of a telencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011300)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011300#predominantly-gray-regional-part-of-telencephalon",
+  "name": "gray matter of telencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011300",
+  "synonym": [
+    "predominantly gray regional part of telencephalon"
+  ]
+}
+

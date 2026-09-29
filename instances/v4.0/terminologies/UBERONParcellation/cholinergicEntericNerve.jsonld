@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cholinergicEntericNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an enteric nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010406)]",
+  "description": "Nerve fibers that utilize acetylcholine as a neurotransmitter to the intestinal system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010406)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010406#cholinergic-enteric-nerve",
+  "name": "cholinergic enteric nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010406",
+  "synonym": null
+}
+

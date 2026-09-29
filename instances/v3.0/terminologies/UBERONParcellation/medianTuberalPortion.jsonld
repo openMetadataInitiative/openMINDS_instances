@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medianTuberalPortion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000392) ('is_a' and 'relationship')]",
+  "description": "Multi-tissue structure which is part of the hypothalamus and consists of caudal and ventral zones, and is separated from the dorsal hypothalamic zone by a deep ventral sulcus. From Neuroanatomy of the Zebrafish Brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000392)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000392#median-tuberal-portion",
+  "name": "median tuberal portion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000392",
+  "synonym": null
+}
+

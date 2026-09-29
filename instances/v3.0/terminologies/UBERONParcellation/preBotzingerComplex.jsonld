@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/preBotzingerComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the medulla oblongata. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006007)]",
+  "description": "The group of interneurons within the medulla oblongata's ventral respiratory group that are important for the generation of ventilatory (inspiratory) rhythmogenesis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006007)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006007#pre-botzinger-complex",
+  "name": "pre-Botzinger complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006007",
+  "synonym": [
+    "Pre-Bötzinger complex",
+    "preBötC"
+  ]
+}
+

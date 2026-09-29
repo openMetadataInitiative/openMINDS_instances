@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_secondarySomatosensoryCortexExternalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "S2E",
+  "alternateName": [
+    "secondary somatosensory cortex, external part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_somatosensoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_secondarySomatosensoryCortexExternalPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_secondarySomatosensoryCortexExternalPart",
+  "name": "secondary somatosensory cortex external part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

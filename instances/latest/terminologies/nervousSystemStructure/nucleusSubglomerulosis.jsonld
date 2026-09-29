@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/nucleusSubglomerulosis",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a diencephalic nucleus. Is part of the caudal tuberculum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000397) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "nucleus subglomerulosis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2000397#nucleus-subglomerulosis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000397",
+  "synonym": null
+}

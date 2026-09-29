@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/maculaLutea",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000053)]",
+  "description": "An oval area in the retina, usually located temporal to the posterior pole of the eye and slightly below the level of the optic disk. It is characterized by the presence of a yellow pigment diffusely permeating the inner layers, contains the fovea centralis in its center, and provides the best phototopic visual acuity. It is devoid of retinal blood vessels, except in its periphery, and receives nourishment from the choriocapillaris of the choroid. (From Cline et al., Dictionary of Visual Science, 4th ed) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000053)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000053#macula-1",
+  "name": "macula lutea",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000053",
+  "synonym": null
+}
+

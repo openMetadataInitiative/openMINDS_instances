@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/laminaIIIOfGrayMatterOfSpinalCord",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a lamina of gray matter of spinal cord. Is part of the nucleus proprius of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016574) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016574#lamina-iii-of-gray-matter-of-spinal-cord",
+  "name": "lamina III of gray matter of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016574",
+  "synonym": [
+    "lamina spinale III",
+    "rexed lamina III",
+    "spinal lamina III"
+  ]
+}
+

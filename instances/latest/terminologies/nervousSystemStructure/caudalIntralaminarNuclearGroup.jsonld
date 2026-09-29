@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/caudalIntralaminarNuclearGroup",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the intralaminar nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019295) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "caudal intralaminar nuclear group",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0019295#caudal-intralaminar-nuclear-group",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019295",
+  "synonym": [
+    "caudal group of intralaminar nuclei",
+    "posterior group of intralaminar nuclei"
+  ]
+}

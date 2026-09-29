@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/myelin",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity and anatomical structure. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000345) ('is_a' and 'relationship')]",
+  "description": "A dielectric (electrically insulating) material consisting of protein and fat that forms a layer, the myelin sheath, usually around only the axon of a neuron. Myelin is about 40 % water; the dry mass of myelin is about 70 - 85 % lipids and about 15 - 30 % proteins. Some of the proteins that make up myelin are myelin basic protein (MBP), myelin oligodendrocyte glycoprotein (MOG), and proteolipid protein (PLP). The primary lipid of myelin is a glycolipid called galactocerebroside (GalC). The intertwining hydrocarbon chains of sphingomyelin serve to strengthen the myelin sheath. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000345)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000345#myelin",
+  "name": "myelin",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000345",
+  "synonym": null
+}
+

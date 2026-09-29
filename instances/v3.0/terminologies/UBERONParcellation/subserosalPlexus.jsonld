@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/subserosalPlexus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an enteric plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012374)]",
+  "description": "The subserous part of the enteric plexus of autonomic nerves. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012374)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0012374#subserosal-plexus",
+  "name": "subserosal plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012374",
+  "synonym": [
+    "subserous nerve plexus",
+    "subserous plexus",
+    "tela subserosa"
+  ]
+}
+

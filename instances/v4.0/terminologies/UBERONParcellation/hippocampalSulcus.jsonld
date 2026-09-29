@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hippocampalSulcus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002899)]",
+  "description": "The hippocampal sulcus, also known as the hippocampal fissure, is a sulcus that separates the dentate gyrus from the subiculum and the CA1 field in the hippocampus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002899)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002899#hippocampal-sulcus-1",
+  "name": "hippocampal sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002899",
+  "synonym": [
+    "dentate fissure",
+    "hippocampal fissure",
+    "sulcus hippocampi"
+  ]
+}
+

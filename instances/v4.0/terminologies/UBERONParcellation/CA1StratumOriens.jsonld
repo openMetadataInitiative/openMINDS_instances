@@ -4,17 +4,16 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/CA1StratumOriens",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'CA1 stratum oriens' is a layer of CA1 field. It is part of the hippocampus stratum oriens.",
-  "description": "Part of stratum oriens lying in area CA1, superficial to the alveus of CA1 and deep to the pyramidal cell layer of CA1.  It is continuous with the stratum oriens of CA2 and bounded by the subiculum",
+  "definition": "Is a layer of CA1 field. Is part of the hippocampus stratum oriens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014552) ('is_a' and 'relationship')]",
+  "description": "Part of stratum oriens lying in area CA1, superficial to the alveus of CA1 and deep to the pyramidal cell layer of CA1. It is continuous with the stratum oriens of CA2 and bounded by the subiculum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014552)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101524",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014552#ca1-stratum-oriens-1",
   "name": "CA1 stratum oriens",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014552",
   "synonym": [
     "CA1 part of stratum oriens",
-    "CA1 s. oriens",
-    "CA1 stratum oriens",
     "oriens layer of CA1 field",
     "stratum oriens of the CA1 field"
   ]
 }
+

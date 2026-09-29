@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/D-AP5",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "D-AP5 is the D-isomer of AP5, a chemical compound that is a selective NMDA receptor antagonist that competitively inhibits the ligand (glutamate) binding site of NMDA receptors. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/AP5)]",
+  "description": "The active isomer of AP5 is considered to be the D configuration. AP5 is sometimes used in conjunction with the calcium chelator BAPTA to determine whether NMDARs are required for a particular cellular process. AP5 has also been used to study NMDAR-dependent LTP in the mammalian hippocampus. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/AP5)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100867",
+  "knowledgeSpaceLink": null,
+  "name": "D-AP5",
+  "preferredOntologyIdentifier": "https://purl.obolibrary.org/obo/CHEBI_138644",
+  "synonym": [
+    "5-Phosphono-D-norvaline",
+    "D-2-amino-5-phosphonopentanoic acid",
+    "D-2-Amino-5-phosphonopentanoic acid",
+    "D-2-amino-5-phosphonovaleric acid",
+    "D-2-amino-5-phosphopentanoic acid",
+    "D-2-amino-5-phosphovaleric acid",
+    "D-AP-5 acid",
+    "D-AP-5",
+    "D-AP5 acid",
+    "D-APV acid",
+    "D-APV",
+    "D-Norvaline, 5-phosphono-"
+  ]
+}
+

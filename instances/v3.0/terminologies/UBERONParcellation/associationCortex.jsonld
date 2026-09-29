@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/associationCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a functional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035015)]",
+  "description": "Region of the cerebral cortex that integrates diverse sensory or motor information for purposeful action. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035015)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035015#association-cortex",
+  "name": "association cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035015",
+  "synonym": null
+}
+

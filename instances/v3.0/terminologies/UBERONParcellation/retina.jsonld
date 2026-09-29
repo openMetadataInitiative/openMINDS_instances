@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/retina",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a photoreceptor array. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000966)]",
+  "description": "The retina is the innermost layer or coating at the back of the eyeball, which is sensitive to light and in which the optic nerve terminates. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000966)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000966#retina-1",
+  "name": "retina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000966",
+  "synonym": [
+    "inner layer of eyeball",
+    "retina of camera-type eye",
+    "tunica interna of eyeball"
+  ]
+}
+

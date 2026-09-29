@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralLineNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008906)]",
+  "description": "Cranial nerves that carry afferent and efferent fibers for the lateral line system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008906)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008906#lateral-line-nerve",
+  "name": "lateral line nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008906",
+  "synonym": null
+}
+

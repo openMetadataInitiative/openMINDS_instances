@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_pallialAmygdala",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PalAmyg",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_pallium"
+    }
+  ],
+  "hasVersion": null,
+  "lookupLabel": "MarmosetNMA_pallialAmygdala",
+  "name": "Pallial amygdala",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

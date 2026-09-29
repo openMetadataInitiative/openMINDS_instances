@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/hindbrainMarginalLayer",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a central nervous system cell part cluster. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034709) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "hindbrain marginal layer",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0733117"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034709#hindbrain-marginal-layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034709",
+  "synonym": [
+    "marginal zone of hindbrain"
+  ]
+}

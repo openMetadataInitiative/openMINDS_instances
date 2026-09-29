@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SupranationalBody/ProvisionalWorldGovernment",
+  "@type": "https://openminds.om-i.org/types/SupranationalBody",
+  "definition": "World Government in Provisional stage. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q119439372)]",
+  "description": null,
+  "name": "Provisional World Government",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q119439372",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Provisional World Government for the Federation of Earth",
+    "Transitional World Government",
+    "World Government for the Federation of Earth"
+  ]
+}

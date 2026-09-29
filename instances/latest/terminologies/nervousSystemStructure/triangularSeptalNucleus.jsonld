@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/triangularSeptalNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a telencephalic nucleus. Is part of the septal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002977) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "triangular septal nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111955"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002977#triangular-septal-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002977",
+  "synonym": [
+    "nucleus triangularis septi",
+    "triangular nucleus of septum",
+    "triangular nucleus septum (cajal)"
+  ]
+}

@@ -4,17 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/islaMagnaOfCalleja",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Isla magna of Calleja' is a regional part of brain. It is part of the island of Calleja.",
-  "description": "A profile (typically representing a sequence alignment) derived from a matrix of nucleotide (or amino acid) counts per position that reflects information content at each position.",
+  "definition": "Is a regional part of brain. Is part of the island of Calleja. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023868) ('is_a' and 'relationship')]",
+  "description": "Regional part of telencephalon; the most prominent of the islands of Calleja located medially in the nucleus accumbens (adapted from Braininfo.org). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023868)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105729",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023868#isla-magna-of-calleja-1",
   "name": "isla magna of Calleja",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023868",
   "synonym": [
-    "ICm",
-    "insula magna",
     "isla magna of calleja",
-    "Large island of Calleja",
     "major island of Calleja"
   ]
 }
+

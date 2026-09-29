@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/ventralNucleusOfTrapezoidBody",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of trapezoid body. Is part of the periolivary nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002832) ('is_a' and 'relationship')]",
+  "description": "A small nucleus of the periolivary complex located laterally to the MNTB, and ventral to the MSO. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002832)]",
+  "name": "ventral nucleus of trapezoid body",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112324"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002832#ventral-nucleus-of-trapezoid-body-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002832",
+  "synonym": [
+    "anterior nucleus of trapezoid body",
+    "nucleus anterior corporis trapezoidei",
+    "nucleus ventralis corporis trapezoidei",
+    "ventral trapezoid nucleus",
+    "VNTB"
+  ]
+}

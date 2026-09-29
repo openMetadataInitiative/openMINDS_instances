@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/digastricBranchOfFacialNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the facial nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011315) ('is_a' and 'relationship')]",
+  "description": "The digastric branch of facial nerve arises close to the stylomastoid foramen, and divides into several filaments, which supply the posterior belly of the Digastricus; one of these filaments joins the glossopharyngeal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011315)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011315#digastric-branch-of-facial-nerve",
+  "name": "digastric branch of facial nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011315",
+  "synonym": [
+    "digastric branch of facial nerve (CN VII)",
+    "facial nerve, digastric branch",
+    "nerve to posterior belly of digastric",
+    "ramus digastricus (nervus facialis)",
+    "ramus digastricus nervus facialis"
+  ]
+}
+

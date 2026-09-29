@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/GTP",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Guanosine-5'-triphosphate (GTP) is a purine nucleoside triphosphate. [sourced from [Wikipedia](https://en.wikipedia.org/wiki/Guanosine_triphosphate)]",
+  "description": "GTP is one of the building blocks needed for the synthesis of RNA during the transcription process. It also has a role as an activator of substrates in metabolic reactions and as a source of energy for protein synthesis and gluconeogenesis. GTP is essential to signal transduction, in particular with G-proteins, in second-messenger mechanisms where it is converted to guanosine diphosphate (GDP) through the action of GTPases. (adapted from Wikipedia: https://en.wikipedia.org/wiki/Guanosine_triphosphate)",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0439625",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:15996#gtp",
+  "name": "GTP",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_15996",
+  "synonym": [
+    "5'-GTP",
+    "guanosine 5'-triphosphate",
+    "guanosine 5'-triphosphoric acid",
+    "guanosine triphosphate",
+    "H4gtp"
+  ]
+}
+

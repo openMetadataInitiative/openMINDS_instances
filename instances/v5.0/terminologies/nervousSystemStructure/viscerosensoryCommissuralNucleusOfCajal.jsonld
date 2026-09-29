@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/viscerosensoryCommissuralNucleusOfCajal",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000710)]",
+  "description": null,
+  "name": "viscerosensory commissural nucleus of Cajal",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2000710#viscerosensory-commissural-nucleus-of-cajal",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000710",
+  "synonym": null
+}

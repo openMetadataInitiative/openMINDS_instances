@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hippocampusMolecularLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a layer of hippocampus. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005368) ('is_a' and 'relationship')]",
+  "description": "The most superficial stratum in the hippocampus. Here the perforant path fibers form synapses onto the distal, apical dendrites of pyramidal cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005368)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005368#hippocampal-molecular-layer",
+  "name": "hippocampus molecular layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005368",
+  "synonym": [
+    "hippocampal molecular layer",
+    "hippocampus stratum moleculare",
+    "molecular layer of hippocampus"
+  ]
+}
+

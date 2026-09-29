@@ -13,7 +13,6 @@
   "hasAnnotation": [
     {
       "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
-      "anchorPoint": null,
       "criteria": null,
       "criteriaQualityType": {
         "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
@@ -49,10 +48,13 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_superiorColliculus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_superficialGrayLayerOfTheSuperiorColliculus"
+  },
   "lookupLabel": "WHSSDatlas_v4_superficialGrayLayerOfTheSuperiorColliculus",
   "name": "superficial gray layer of the superior colliculus",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "v4",
-  "versionInnovation": null
+  "versionSpecification": null
 }

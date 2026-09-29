@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/zonalLayerOfSuperiorColliculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a gray matter layer of superior colliculus and superficial layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006780)]",
+  "description": "A thin layer consisting of small myelinated axons together with marginal and horizontal cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006780)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006780#zonal-layer-of-superior-colliculus",
+  "name": "zonal layer of superior colliculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006780",
+  "synonym": [
+    "lamina colliculi superioris I",
+    "lamina I of superior colliculus",
+    "layer I of superior colliculus",
+    "stratum zonale colliculi superioris",
+    "stratum zonale of midbrain",
+    "stratum zonale of superior colliculus"
+  ]
+}
+

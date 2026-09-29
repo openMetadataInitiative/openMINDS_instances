@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/execution",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by carrying out substantive tasks according to an established plan, method, or procedure.",
+  "description": null,
+  "name": "execution",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

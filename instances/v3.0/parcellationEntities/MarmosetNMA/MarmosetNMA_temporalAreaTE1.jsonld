@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_temporalAreaTE1",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "TE1",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_lateralAndInferiorTemporalCorticalRegion"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTE1"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_temporalAreaTE1",
+  "name": "temporal area TE1 (inferior temporal cortex)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

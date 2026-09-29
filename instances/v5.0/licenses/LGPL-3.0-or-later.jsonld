@@ -1,0 +1,13 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/licenses/LGPL-3.0-or-later",
+  "@type": "https://openminds.om-i.org/types/License",
+  "fullName": "GNU Lesser General Public License v3.0 or later",
+  "legalCode": "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
+  "shortName": "LGPL-3.0-or-later",
+  "webpage": [
+    "https://spdx.org/licenses/LGPL-3.0-or-later.html"
+  ]
+}

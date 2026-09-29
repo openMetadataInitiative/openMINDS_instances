@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/thoracicSpinalCordDorsalColumn",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a subdivision of spinal cord dorsal column. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005839) ('is_a' and 'relationship')]",
+  "description": "A subdivision of spinal cord dorsal column that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005839)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005839#thoracic-spinal-cord-dorsal-column-1",
+  "name": "thoracic spinal cord dorsal column",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005839",
+  "synonym": [
+    "dorsal funiculus of thoracic segment of spinal cord",
+    "dorsal white column of thoracic segment of spinal cord",
+    "thoracic segment of dorsal funiculus of spinal cord",
+    "thoracic spinal cord posterior column"
+  ]
+}
+

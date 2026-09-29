@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorVagusXGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a vagus X ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005363)]",
+  "description": "The large group of sensory neuron cell bodies, anterior to the jugular vein, associated with the vagus nerve (tenth cranial nerve) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005363)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005363#inferior-vagus-x-ganglion",
+  "name": "inferior vagus X ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005363",
+  "synonym": [
+    "ganglion inferius (nervus vagus)",
+    "ganglion inferius nervi vagi",
+    "ganglion inferius nervus vagi",
+    "ganglion nodosum",
+    "inferior ganglion of vagus",
+    "inferior ganglion of vagus nerve",
+    "nodose ganglion",
+    "tenth cranial nerve nodose ganglion",
+    "vagus nerve inferior ganglion",
+    "vagus nerve nodose ganglion"
+  ]
+}
+

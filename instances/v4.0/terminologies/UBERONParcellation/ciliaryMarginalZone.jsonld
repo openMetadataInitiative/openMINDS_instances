@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ciliaryMarginalZone",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003065)]",
+  "description": "Region at the periphery of the retina where retinal stem cells are located. After 60 hpf, the CMZ is the source of most retinal growth. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003065)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003065#ciliary-marginal-zone",
+  "name": "ciliary marginal zone",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003065",
+  "synonym": [
+    "peripheral growth zone",
+    "retinal ciliary marginal zone"
+  ]
+}
+

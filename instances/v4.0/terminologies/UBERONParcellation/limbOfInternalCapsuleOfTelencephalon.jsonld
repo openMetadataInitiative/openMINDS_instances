@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/limbOfInternalCapsuleOfTelencephalon",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebral hemisphere white matter. Is part of the internal capsule of telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014525) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014525#limb-of-internal-capsule-of-telencephalon",
+  "name": "limb of internal capsule of telencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014525",
+  "synonym": [
+    "internal capsule subdivision",
+    "limb of internal capsule",
+    "subdivision of internal capsule"
+  ]
+}
+

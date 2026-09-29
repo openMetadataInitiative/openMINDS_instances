@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ganglionOfPeripheralNervousSystem",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a ganglion. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003338) ('is_a' and 'relationship')]",
+  "description": "A spatially aggregated collection of nerve cell bodies in the PNS, consisting of one or more subpopulations that share cell type, chemical phenotype, and connections. (CUMBO). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003338)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ganglion of peripheral nervous system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003338",
+  "synonym": [
+    "peripheral nervous system ganglion"
+  ]
+}
+

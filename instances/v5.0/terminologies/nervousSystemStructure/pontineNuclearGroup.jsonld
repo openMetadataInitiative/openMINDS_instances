@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/pontineNuclearGroup",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the basal part of pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002151) ('is_a' and 'relationship')]",
+  "description": "Nuclei in the basal pons, intermingled among the descending axons from the cortex, that receive neocrotcial input and give rise to many axons that cross the midline to enter the contralateral cerebellum (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 135) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002151)]",
+  "name": "pontine nuclear group",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109028"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002151#pontine-nuclear-complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002151",
+  "synonym": [
+    "pontine gray",
+    "pontine nuclear complex",
+    "pontine nuclei",
+    "pontine nucleus"
+  ]
+}

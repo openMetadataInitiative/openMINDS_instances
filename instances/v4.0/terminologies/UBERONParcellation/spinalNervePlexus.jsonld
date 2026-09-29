@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/spinalNervePlexus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001813)]",
+  "description": "An intermingling of fiber fascicles from adjacent spinal nerves to form a network. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001813)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001813#spinal-nerve-plexus",
+  "name": "spinal nerve plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001813",
+  "synonym": [
+    "plexus nervorum spinalium",
+    "plexus of spinal nerves",
+    "somatic nerve plexus"
+  ]
+}
+

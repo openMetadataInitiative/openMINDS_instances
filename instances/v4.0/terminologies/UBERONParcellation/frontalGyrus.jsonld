@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/frontalGyrus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a gyrus. Is part of the frontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015593) ('is_a' and 'relationship')]",
+  "description": "A gyrus that is part of a frontal cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015593)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015593#frontal-gyrus",
+  "name": "frontal gyrus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015593",
+  "synonym": null
+}
+

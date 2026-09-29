@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/motorRootOfFacialNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a facial nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010287)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010287#motor-root-of-facial-nerve",
+  "name": "motor root of facial nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010287",
+  "synonym": [
+    "facial nerve motor root",
+    "motor component of the VIIth (facial) nerve",
+    "seventh cranial nerve motor root"
+  ]
+}
+

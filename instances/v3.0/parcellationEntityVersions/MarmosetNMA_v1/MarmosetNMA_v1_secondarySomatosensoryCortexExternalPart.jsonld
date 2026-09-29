@@ -1,0 +1,89 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_secondarySomatosensoryCortexExternalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntityVersion",
+  "abbreviation": "S2E",
+  "additionalRemarks": null,
+  "alternateName": [
+    "secondary somatosensory cortex, external part"
+  ],
+  "correctedName": null,
+  "hasAnnotation": [
+    {
+      "@type": "https://openminds.ebrains.eu/sands/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.ebrains.eu/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.ebrains.eu/instances/annotationCriteriaType/probabalisticAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": "106",
+      "laterality": [
+        {
+          "@id": "https://openminds.ebrains.eu/instances/laterality/left"
+        }
+      ],
+      "preferredVisualization": {
+        "@type": "https://openminds.ebrains.eu/sands/ViewerSpecification",
+        "additionalRemarks": null,
+        "anchorPoint": null,
+        "cameraPosition": null,
+        "preferredDisplayColor": {
+          "@id": "https://openminds.ebrains.eu/instances/colormap/matplotlib.colormaps.Greys"
+        }
+      },
+      "specification": null,
+      "type": {
+        "@id": "https://openminds.ebrains.eu/instances/annotationType/annotationMask"
+      }
+    },
+    {
+      "@type": "https://openminds.ebrains.eu/sands/AtlasAnnotation",
+      "anchorPoint": null,
+      "criteria": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.ebrains.eu/instances/criteriaQualityType/processive"
+      },
+      "criteriaType": {
+        "@id": "https://openminds.ebrains.eu/instances/annotationCriteriaType/deterministicAnnotation"
+      },
+      "inspiredBy": null,
+      "internalIdentifier": "106",
+      "laterality": [
+        {
+          "@id": "https://openminds.ebrains.eu/instances/laterality/left"
+        }
+      ],
+      "preferredVisualization": {
+        "@type": "https://openminds.ebrains.eu/sands/ViewerSpecification",
+        "additionalRemarks": null,
+        "anchorPoint": null,
+        "cameraPosition": null,
+        "preferredDisplayColor": {
+          "@id": "https://openminds.ebrains.eu/instances/singleColor/#E8FFB2"
+        }
+      },
+      "specification": null,
+      "type": {
+        "@id": "https://openminds.ebrains.eu/instances/annotationType/annotationMask"
+      }
+    }
+  ],
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_somatosensoryCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_v1_secondarySomatosensoryCortexExternalPart",
+  "name": "secondary somatosensory cortex external part",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "v1",
+  "versionInnovation": "This is the first version of this parcellation entity."
+}
+

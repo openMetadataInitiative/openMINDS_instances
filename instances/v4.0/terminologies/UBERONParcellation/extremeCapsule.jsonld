@@ -4,14 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/extremeCapsule",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Extreme capsule' is a cerebral hemisphere white matter.",
-  "description": "Thin band of fibers separating the claustrum from the insular cortex",
+  "definition": "Is a cerebral hemisphere white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014528)]",
+  "description": "Thin band of fibers separating the claustrum from the insular cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014528)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104058",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014528#extreme-capsule-1",
   "name": "extreme capsule",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014528",
-  "synonym": [
-    "band of Baillarger",
-    "capsula extrema"
-  ]
+  "synonym": null
 }
+

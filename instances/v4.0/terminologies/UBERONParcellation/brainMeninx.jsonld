@@ -4,11 +4,16 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/brainMeninx",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Brain meninx' is a meninx. It is part of the brain.",
-  "description": null,
+  "definition": "Is a meninx. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003547) ('is_a' and 'relationship')]",
+  "description": "A meninx that is part of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003547)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0726394",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003547#brain-meninx",
   "name": "brain meninx",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003547",
-  "synonym": null
+  "synonym": [
+    "brain meninges",
+    "meninges of brain",
+    "meninx of brain"
+  ]
 }
+

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/cerebralBloodVolumeImageProcessing",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
+  "definition": "Image processing technique that outputs a measure of cerebral blood volume.",
+  "description": null,
+  "name": "cerebral blood volume image processing",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "cbv"
+  ]
+}

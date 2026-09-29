@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/dorsalAcousticStria",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a stria of neuraxis and white matter of pontine tegmentum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002790)]",
+  "description": "White matter structure containing fibers arising from the cochlear nuclear complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002790)]",
+  "name": "dorsal acoustic stria",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0103411"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002790#dorsal-acoustic-stria-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002790",
+  "synonym": [
+    "posterior acoustic stria",
+    "stria cochlearis posterior"
+  ]
+}

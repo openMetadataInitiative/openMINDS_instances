@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lumbarDivisionOfSpinalCordCentralCanal",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a subdivision of spinal cord central canal. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014543)]",
+  "description": "Part of central canal lying within the lumbar spinal cord. It is continuous rostrally with the central canal of the thoracic spinal cord and caudally with the central canal of the sacral spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014543)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014543#lumbar-spinal-cord-central-canal",
+  "name": "lumbar division of spinal cord central canal",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014543",
+  "synonym": [
+    "lumbar spinal cord central canal"
+  ]
+}
+

@@ -413,7 +413,7 @@
   },
   "keyword": null,
   "license": {
-    "@id": "https://openminds.om-i.org/instances/licenses/ccByNcSa4.0"
+    "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-NC-SA-4.0"
   },
   "majorVersionIdentifier": "v2.4",
   "ontologyIdentifier": null,
@@ -432,3 +432,4 @@
   "versionIdentifier": "v2.4, Colin27",
   "versionInnovation": null
 }
+

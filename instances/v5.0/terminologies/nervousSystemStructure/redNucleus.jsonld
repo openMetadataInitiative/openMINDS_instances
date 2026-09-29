@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/redNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a brainstem nucleus and midbrain nucleus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001947) ('is_a' and 'relationship')]",
+  "description": "Large round nucleus located in the midbrain tegmentum, consisting of a magnocellular and parvicellular portion in most species studied. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001947)]",
+  "name": "red nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109722"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001947#red-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001947",
+  "synonym": [
+    "nucleus ruber"
+  ]
+}

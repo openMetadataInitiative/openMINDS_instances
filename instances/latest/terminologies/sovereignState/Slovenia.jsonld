@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Slovenia",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q215)]",
+  "description": null,
+  "name": "Slovenia",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q215",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Republic of Slovenia",
+    "Republika Slovenija",
+    "SI",
+    "si",
+    "SLO",
+    "slo",
+    "Slovenija",
+    "svn",
+    "SVN"
+  ]
+}

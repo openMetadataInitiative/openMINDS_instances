@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/floorPlateOfDiencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003309) ('is_a' and 'relationship')]",
+  "description": "A floor plate that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003309)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003309#floor-plate-of-diencephalon",
+  "name": "floor plate of diencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003309",
+  "synonym": [
+    "between brain floor plate",
+    "between brain floorplate",
+    "diencephalon floor plate",
+    "diencephalon floorplate",
+    "floor plate diencephalic region",
+    "floor plate diencephalon",
+    "floor plate of between brain",
+    "floor plate of interbrain",
+    "floor plate of mature diencephalon",
+    "floorplate diencephalon",
+    "floorplate of between brain",
+    "floorplate of diencephalon",
+    "floorplate of interbrain",
+    "floorplate of mature diencephalon",
+    "interbrain floor plate",
+    "interbrain floorplate",
+    "mature diencephalon floor plate",
+    "mature diencephalon floorplate"
+  ]
+}
+

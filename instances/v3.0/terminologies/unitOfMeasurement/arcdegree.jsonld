@@ -9,7 +9,7 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "arcdegree",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000185",
   "synonym": [
     "arc degree",
     "degree",

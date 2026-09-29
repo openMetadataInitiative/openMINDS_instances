@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/insectChaeta",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an insect eo-type sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005177)]",
+  "description": "A sensillum with a long, unicellular, setiform outgrowth that is strongly chitinized. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005177)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6005177#chaeta",
+  "name": "insect chaeta",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6005177",
+  "synonym": [
+    "sensillum chaeticum"
+  ]
+}
+

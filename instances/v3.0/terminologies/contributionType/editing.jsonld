@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/editing",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by modifying the content or form of a target entity to improve its accuracy, clarity, coherence, or quality.",
+  "description": null,
+  "name": "editing",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

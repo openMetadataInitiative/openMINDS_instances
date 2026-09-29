@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_temporopolarProisocortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "TPPro",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_lateralAndInferiorTemporalCorticalRegion"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporopolarProisocortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_temporopolarProisocortex",
+  "name": "temporopolar proisocortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

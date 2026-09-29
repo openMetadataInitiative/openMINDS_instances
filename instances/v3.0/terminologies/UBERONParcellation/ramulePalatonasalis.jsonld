@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ramulePalatonasalis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the maxillary nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010671) ('is_a' and 'relationship')]",
+  "description": "Descends and branches to the buccal roof where it anastomoses with the palatine ramus of the facial nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010671)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010671#ramule-palatonasalis",
+  "name": "ramule palatonasalis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010671",
+  "synonym": null
+}
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sympatheticNervousSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the autonomic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000013) ('is_a' and 'relationship')]",
+  "description": "The sympathetic nervous system is one of the two divisions of the vertebrate autonomic nervous system (the other being the parasympathetic nervous system). The sympathetic preganglionic neurons have their cell bodies in the thoracic and lumbar regions of the spinal cord and connect to the paravertebral chain of sympathetic ganglia. Innervate heart and blood vessels, sweat glands, viscera and the adrenal medulla. Most sympathetic neurons, but not all, use noradrenaline as a post-ganglionic neurotransmitter. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000013)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000013#sympathetic-nervous-system-1",
+  "name": "sympathetic nervous system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000013",
+  "synonym": [
+    "pars sympathica divisionis autonomici systematis nervosi",
+    "sympathetic part of autonomic division of nervous system"
+  ]
+}
+

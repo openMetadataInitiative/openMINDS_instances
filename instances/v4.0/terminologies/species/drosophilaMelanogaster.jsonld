@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/drosophilaMelanogaster",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "The species *Drosophila melanogaster* (fruit fly) belongs to the family of *Drosophilidae*.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103567",
+  "knowledgeSpaceLink": null,
+  "name": "Drosophila melanogaster",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_7227",
+  "synonym": [
+    "fruit fly"
+  ]
+}
+

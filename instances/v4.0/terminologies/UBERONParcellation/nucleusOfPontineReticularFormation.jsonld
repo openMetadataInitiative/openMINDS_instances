@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfPontineReticularFormation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the pontine reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007413) ('is_a' and 'relationship')]",
+  "description": "A nucleus of brain that is part of a pontine reticular formation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007413)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007413#nucleus-of-pontine-reticular-formation",
+  "name": "nucleus of pontine reticular formation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007413",
+  "synonym": [
+    "pontine reticular formation nucleus"
+  ]
+}
+

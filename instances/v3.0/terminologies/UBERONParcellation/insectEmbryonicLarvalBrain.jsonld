@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/insectEmbryonicLarvalBrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a brain and ganglion of central nervous system. Is part of the insect embryonic/larval central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001920) ('is_a' and 'relationship')]",
+  "description": "Brain of the embryo/larva. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001920)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6001920#insect-embryonic-larval-brain",
+  "name": "insect embryonic/larval brain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6001920",
+  "synonym": null
+}
+

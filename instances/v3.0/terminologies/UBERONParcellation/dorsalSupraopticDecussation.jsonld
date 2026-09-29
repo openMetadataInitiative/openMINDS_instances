@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalSupraopticDecussation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a commissure of diencephalon. Is part of the anterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002697) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002697#dorsal-supraoptic-decussation-1",
+  "name": "dorsal supraoptic decussation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002697",
+  "synonym": [
+    "commissura supraoptica dorsalis",
+    "commissure of Meynert",
+    "dorsal supra-optic commissure",
+    "dorsal supraoptic commissure",
+    "dorsal supraoptic commissure (of ganser)",
+    "dorsal supraoptic decussation (of ganser)",
+    "dorsal supraoptic decussation (of Meynert)",
+    "dorsal supraoptic decussation of Meynert",
+    "ganser's commissure",
+    "Meynert's commissure",
+    "supraoptic commissure of Meynert",
+    "supraoptic commissures, dorsal"
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/supramammillaryNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a hypothalamic nucleus. Is part of the mammillary body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001940) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "supramammillary nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111351"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001940#supramammillary-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001940",
+  "synonym": null
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/skeletalStructure/femur",
+  "@type": "https://openminds.om-i.org/types/SkeletalStructure",
+  "definition": "Is an upper leg bone and part of the hindlimb skeleton. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000981)]",
+  "description": "Endochondral longbone connecting the pelvic girdle with posterior zeugopodium skeleton.[definition of [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000981)]",
+  "name": "femur",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000981",
+  "synonym": null
+}

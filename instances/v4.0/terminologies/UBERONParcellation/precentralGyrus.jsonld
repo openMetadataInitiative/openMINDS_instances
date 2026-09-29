@@ -4,18 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/precentralGyrus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Precentral gyrus' is a frontal gyrus.",
-  "description": "Component of the frontal lobe.  The appearance and disappearance of the central sulcus is the rostral and caudal boundaries of the precentral gyrus respectively. The medial boundary is specific frontal gyri (superior, middle and inferior) whereas the lateral boundary is the medial bank of the central sulcus (Christine Fennema-Notestine).",
+  "definition": "Is a frontal gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002703)]",
+  "description": "Component of the frontal lobe. The appearance and disappearance of the central sulcus is the rostral and caudal boundaries of the precentral gyrus respectively. The medial boundary is specific frontal gyri (superior, middle and inferior) whereas the lateral boundary is the medial bank of the central sulcus (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002703)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109193",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002703#precentral-gyrus-1",
   "name": "precentral gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002703",
   "synonym": [
-    "anterior central gyrus",
-    "gyrus centralis anterior",
-    "gyrus praecentralis",
-    "motor cortex (Noback)",
     "precentral convolution",
     "prerolandic gyrus"
   ]
 }
+

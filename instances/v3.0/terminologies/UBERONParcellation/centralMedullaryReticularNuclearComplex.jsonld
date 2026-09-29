@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/centralMedullaryReticularNuclearComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medullary reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035940) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035940#central-medullary-reticular-nuclear-complex",
+  "name": "central medullary reticular nuclear complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035940",
+  "synonym": [
+    "central group (medullary reticular formation)",
+    "central medullary reticular complex",
+    "central medullary reticular group",
+    "nuclei centrales myelencephali"
+  ]
+}
+

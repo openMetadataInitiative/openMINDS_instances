@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fourthLumbarSpinalCordSegment",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a lumbar subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006451)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006451#forth-lumbar-spinal-cord-segment",
+  "name": "fourth lumbar spinal cord segment",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006451",
+  "synonym": [
+    "L4 segment",
+    "L4 spinal cord segment"
+  ]
+}
+

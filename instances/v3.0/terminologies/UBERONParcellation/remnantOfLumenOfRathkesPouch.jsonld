@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/remnantOfLumenOfRathkesPouch",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the adenohypophysis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009975) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009975#remnant-of-lumen-of-rathke-s-pouch",
+  "name": "remnant of lumen of Rathke's pouch",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009975",
+  "synonym": null
+}
+

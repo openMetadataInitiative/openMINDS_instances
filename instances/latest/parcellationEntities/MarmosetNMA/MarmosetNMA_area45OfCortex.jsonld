@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area45OfCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "A45",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventrolateralPrefrontalCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area45OfCortex",
+  "name": "area 45 of cortex",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

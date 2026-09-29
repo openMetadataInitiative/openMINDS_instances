@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cristaOfAmpullaOfPosteriorSemicircularDuctOfMembranousLaybrinth",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a crista ampullaris neuroepithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007275)]",
+  "description": "A crista ampullaris neuroepithelium that is part of a posterior semicircular duct. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007275)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007275#crista-of-ampulla-of-posterior-semicircular-duct-of-membranous-laybrinth",
+  "name": "crista of ampulla of posterior semicircular duct of membranous laybrinth",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007275",
+  "synonym": [
+    "caudal crista",
+    "posterior crista ampullaris",
+    "posterior semicircular canal sensory patch"
+  ]
+}
+

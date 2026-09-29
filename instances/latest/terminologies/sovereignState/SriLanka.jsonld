@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/SriLanka",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island country in South Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q854)]",
+  "description": null,
+  "name": "Sri Lanka",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q854",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "ce",
+    "Ceylan",
+    "Ceylon",
+    "Democratic Socialist Republic of Sri Lanka",
+    "Lanka, Sri",
+    "LK",
+    "lk",
+    "LKA",
+    "lke",
+    "Serendib",
+    "sri",
+    "Sri",
+    "SRI",
+    "Srilanka",
+    "Taprobane"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/wallOfLateralVentricle",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a wall of ventricular system of brain. Is part of the telencephalic ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036654) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "wall of lateral ventricle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036654",
+  "synonym": null
+}

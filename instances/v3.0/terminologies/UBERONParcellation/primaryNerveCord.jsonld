@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/primaryNerveCord",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a central nervous system cell part cluster. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005053)]",
+  "description": "A cluster of neurons that is the most prominent longitudinally extending condensed part of a nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005053)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005053#primary-nerve-cord",
+  "name": "primary nerve cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005053",
+  "synonym": [
+    "nerve cord",
+    "true nerve cord"
+  ]
+}
+

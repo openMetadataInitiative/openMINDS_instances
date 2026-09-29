@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralCorticospinalTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an axon tract. Is part of the corticospinal tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002760) ('is_a' and 'relationship')]",
+  "description": "Part of pyramidal tract (corticospinal tract) containing uncrossed fibers and traveling in the ventral funiculus of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002760)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002760#ventral-corticospinal-tract-1",
+  "name": "ventral corticospinal tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002760",
+  "synonym": [
+    "anterior corticospinal tract",
+    "anterior pyramidal tract",
+    "anterior tract of turck",
+    "bundle of Turck",
+    "column of Turck",
+    "corticospinal tract, uncrossed"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfMetencephalon",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter of hindbrain. Is part of the metencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019291) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0019291#white-matter-of-metencephalon",
+  "name": "white matter of metencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019291",
+  "synonym": null
+}
+

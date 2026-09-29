@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/opticDisc",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001783)]",
+  "description": "The optic disc or optic nerve head is the location where ganglion cell axons exit the eye to form the optic nerve. There are no light sensitive rods or cones to respond to a light stimulus at this point. This causes a break in the visual field called 'the blind spot' or the 'physiological blind spot'. The optic nerve head in a normal human eye carries from 1 to 1.2 million neurons from the eye towards the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001783)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001783#optic-disc",
+  "name": "optic disc",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001783",
+  "synonym": [
+    "optic disk"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/insectEmbryonicLarvalHeadSensillum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a head sensillum and insect embryonic/larval sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007242)]",
+  "description": "Any sensillum (UBERON:6007152) that is part of some larval head (UBERON:6001730). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007242)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6007242#embryonic-larval-head-sensillum",
+  "name": "insect embryonic/larval head sensillum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6007242",
+  "synonym": null
+}
+

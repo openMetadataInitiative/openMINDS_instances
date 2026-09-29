@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.turbo",
+  "@id": "https://openminds.ebrains.eu/instances/colormap/matplotlib.colormaps.turbo",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
   "definition": "The colormap 'turbo' is a miscellaneous colormap of the Python plotting library Matplotlib.",
   "description": null,
@@ -14,3 +14,4 @@
     "turbo"
   ]
 }
+

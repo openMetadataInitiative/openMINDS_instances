@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/creation",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by producing or bringing a target entity into existence.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "creation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

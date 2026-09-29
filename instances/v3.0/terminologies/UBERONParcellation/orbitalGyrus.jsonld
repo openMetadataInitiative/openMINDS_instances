@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalGyrus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a gyrus. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007193) ('is_a' and 'relationship')]",
+  "description": "The inferior or orbital surface of the frontal lobe is concave, and rests on the orbital plate of the frontal bone. It is divided into four orbital gyri by a well-marked H-shaped orbital sulcus. These are named, from their position, the medial, anterior, lateral, and posterior orbital gyri. The medial orbital gyrus presents a well-marked antero-posterior sulcus, the olfactory sulcus, for the olfactory tract; the portion medial to this is named the straight gyrus, and is continuous with the superior frontal gyrus on the medial surface. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007193)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007193#orbital-gyrus",
+  "name": "orbital gyrus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007193",
+  "synonym": null
+}
+

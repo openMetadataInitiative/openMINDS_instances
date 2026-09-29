@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area19OfCortexDorsointermediatePart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A19DI",
+  "alternateName": [
+    "area 19 of cortex, dorsointermediate part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_visualCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area19OfCortexDorsointermediatePart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area19OfCortexDorsointermediatePart",
+  "name": "area 19 of cortex dorsointermediate part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

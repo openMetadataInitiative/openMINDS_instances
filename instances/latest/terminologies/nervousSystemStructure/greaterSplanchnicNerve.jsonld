@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/greaterSplanchnicNerve",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a thoracic splanchnic nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018680)]",
+  "description": null,
+  "name": "greater splanchnic nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0018680#greater-splanchnic-nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018680",
+  "synonym": [
+    "greater thoracic splanchnic nerve"
+  ]
+}

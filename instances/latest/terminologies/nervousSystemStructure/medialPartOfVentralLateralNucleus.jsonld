@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/medialPartOfVentralLateralNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gray matter of diencephalon. Is part of the ventral lateral nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002614) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "medial part of ventral lateral nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106680"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002614#medial-part-of-ventral-lateral-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002614",
+  "synonym": [
+    "nucleus ventralis lateralis thalami, pars medialis",
+    "nucleus ventrooralis medialis (Hassler)",
+    "ventral lateral nucleus, medial part",
+    "ventral medial nucleus",
+    "ventral medial nucleus of thalamus",
+    "vMp (Macchi)"
+  ]
+}

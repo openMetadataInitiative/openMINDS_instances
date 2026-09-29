@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortexRostrotemporalLateralArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AuRTL",
+  "alternateName": [
+    "auditory cortex, rostrotemporal lateral area"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostrotemporalLateralArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_auditoryCortexRostrotemporalLateralArea",
+  "name": "auditory cortex rostrotemporal lateral area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

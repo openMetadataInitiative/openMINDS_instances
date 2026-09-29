@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lowPressureBaroreceptor",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a baroreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018393)]",
+  "description": "Found in large systemic veins, in pulmonary vessels, and in the walls of the right atrium and ventricles of the heart (the atrial volume receptors). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018393)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018393#low-pressure-baroreceptor",
+  "name": "low-pressure baroreceptor",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018393",
+  "synonym": null
+}
+

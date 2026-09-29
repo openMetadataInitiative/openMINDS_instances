@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/sublaminarLayerS4",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sublaminar layers S4 or S5, sublaminar layers S3 or S4, sublaminar layers S2 or S3 or S4, sublaminar layers S1 or S3 or S4, sublaminar layers S3 or S4 or S5 and sublaminar layers S1 or S2 or S3 or S4. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008925)]",
+  "description": "A retinal neural layer that is immediately adjacent to the S3 and S5 layer and comprises 20 percent of the inner plexiform layer of retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008925)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008925#sublaminar-layer-s4",
+  "name": "sublaminar layer S4",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008925",
+  "synonym": null
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/primaryMotorCortexLayer1",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a layer of neocortex. Is part of the primary motor cortex and the cortical layer I. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034888) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034888#primary-motor-cortex-layer-1",
+  "name": "primary motor cortex layer 1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034888",
+  "synonym": null
+}
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainDuraMater",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a brain dura mater and forebrain meninges. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003561)]",
+  "description": "A dura mater that is part of a forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003561)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003561#forebrain-dura-mater",
+  "name": "forebrain dura mater",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003561",
+  "synonym": [
+    "dura mater of forebrain",
+    "dura mater of neuraxis of forebrain",
+    "forebrain dura mater of neuraxis"
+  ]
+}
+

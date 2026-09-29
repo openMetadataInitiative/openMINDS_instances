@@ -4,15 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/interthalamicAdhesion",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Interthalamic adhesion' is a nervous system commissure.",
-  "description": "Median gray matter mass that connects the two thalami;  present in a large percentage of humans (Heimer, L. The Human Brain and Spinal Cord, 2nd ed., 1995, pg 76n).",
+  "definition": "Is a nervous system commissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006681)]",
+  "description": "The medial surface of the thalamus constitutes the upper part of the lateral wall of the third ventricle, and is connected to the corresponding surface of the opposite thalamus by a flattened gray band, the Interthalamic adhesion (massa intermedia, middle commissure, gray commissure). In non-human mammals it is a large structure. In humans this mass averages about 1 cm in length in its antero-posterior diameter. It sometimes consists of two parts and occasionally is absent. The interthalamic adhesion is found in 70-80% of humans. It is present more often in females and larger than in males by an average of 53 percent.. When absent in development, no noticeable deficit has been observed. It contains nerve cells and nerve fibers; a few of the latter may cross the middle line, but most of them pass toward the middle line and then curve lateralward on the same side. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006681)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105629",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006681#interthalamic-adhesion",
   "name": "interthalamic adhesion",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006681",
   "synonym": [
     "interthalamic connection",
-    "massa intermedia",
     "middle commissure"
   ]
 }
+

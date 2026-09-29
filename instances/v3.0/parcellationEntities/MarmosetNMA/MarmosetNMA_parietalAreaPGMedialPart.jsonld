@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_parietalAreaPGMedialPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PGM",
+  "alternateName": [
+    "parietal area PG, medial part (cortex)"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_posteriorCingulateMedialAndRetrosplenialCorticalRegions"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPGMedialPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_parietalAreaPGMedialPart",
+  "name": "parietal area PG medial part (cortex)",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

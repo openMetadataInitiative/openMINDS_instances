@@ -4,16 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/externalCapsuleOfTelencephalon",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "",
-  "description": "The 'external capsule of telencephalon' is a series of white matter fibre tracts that run between the most lateral segment of the lentiform nucleus and the claustrum.",
+  "definition": "Is a cerebral hemisphere white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004545)]",
+  "description": "Any of the series of white matter fiber tracts in the brain that run between the most lateral segment of the lentiform nucleus and the claustrum; the white matter of the external capsule contains fibers known as corticocortical association fibers which are responsible for connecting the cerebral cortex to another cortical area; the capsule appears as a thin white sheet of white matter and provides a route for cholinergic fibers from the basal forebrain to the cerebral cortex; it eventually joins the internal capsule around the lentiform nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004545)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0724043",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXANAT:1010013#external-capsule-of-telencephalon",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004545#external-capsule-of-telencephalon",
   "name": "external capsule of telencephalon",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004545",
-  "synonym": [
-    "brain external capsule",
-    "capsula externa",
-    "corpus callosum external capsule",
-    "external capsule"
-  ]
+  "synonym": null
 }
+

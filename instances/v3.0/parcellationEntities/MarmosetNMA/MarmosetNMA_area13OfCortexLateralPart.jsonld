@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area13OfCortexLateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A13L",
+  "alternateName": [
+    "area 13 of cortex, lateral part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_orbitalFrontalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area13OfCortexLateralPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area13OfCortexLateralPart",
+  "name": "area 13 of cortex lateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

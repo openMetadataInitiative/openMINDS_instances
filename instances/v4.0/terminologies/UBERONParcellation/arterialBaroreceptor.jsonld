@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/arterialBaroreceptor",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a baroreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018392)]",
+  "description": "Arterial baroreceptors are stretch receptors that are stimulated by distortion of the arterial wall when pressure changes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018392)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018392#arterial-baroreceptor",
+  "name": "arterial baroreceptor",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018392",
+  "synonym": null
+}
+

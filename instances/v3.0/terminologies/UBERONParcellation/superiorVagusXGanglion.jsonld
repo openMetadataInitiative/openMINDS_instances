@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorVagusXGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a vagus X ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005364)]",
+  "description": "The upper ganglion of the vagus nerve located at the jugular foramen. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005364)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005364#superior-vagus-x-ganglion",
+  "name": "superior vagus X ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005364",
+  "synonym": [
+    "ganglion superius (nervus vagus)",
+    "ganglion superius nervus vagi",
+    "superior ganglion of vagus",
+    "superior ganglion of vagus nerve",
+    "superior vagus ganglion",
+    "tenth cranial nerve jugular ganglion",
+    "vagus nerve jugular ganglion",
+    "vagus nerve superior ganglion"
+  ]
+}
+

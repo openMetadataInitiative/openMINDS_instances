@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/outerPlexiformLayerOfRetina",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001790) ('is_a' and 'relationship')]",
+  "description": "The layer within the retina where the bipolar cells synapse with the photoreceptor cells. Between the inner and outer nuclear layers, the outer plexiform layer (OPL) contains connections between the photoreceptors and bipolar and horizontal cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001790)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001790#outer-plexiform-layer-of-retina",
+  "name": "outer plexiform layer of retina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001790",
+  "synonym": [
+    "outer plexiform layer",
+    "retina outer plexiform layer",
+    "retinal outer plexiform layer",
+    "stratum plexiforme externum",
+    "stratum plexiforme externum retinae"
+  ]
+}
+

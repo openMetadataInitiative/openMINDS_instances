@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pleuralGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008941)]",
+  "description": "A knot of nerves in The pallial cavity that innervates the mantle of a snail. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008941)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008941#pleural-ganglion",
+  "name": "pleural ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008941",
+  "synonym": null
+}
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/caenorhabditisElegans",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "The species *Caenorhabditis elegans* (C. elegans) belongs to the family of *rhabditidae* (roundworms).",
+  "description": null,
+  "name": "Caenorhabditis elegans",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101548"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_6239",
+  "synonym": [
+    "C. elegans"
+  ]
+}

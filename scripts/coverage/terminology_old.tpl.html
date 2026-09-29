@@ -1,0 +1,48 @@
+<html>
+
+<head>
+    <title>openMINDS instance library status</title>
+    <link rel="stylesheet" href="../coverage.css">
+</head>
+
+<body>
+    <h1>openMINDS instance library status</h1>
+    <h2><a href="../index.html">Terminologies</a>: {{term_name}}</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Definition</th>
+                <th>Description</th>
+                <th>Interlex id</th>
+                <th>KS link</th>
+                <th>Ontology id</th>
+                <th>Synonyms</th>
+            </tr>
+            <tr>
+                <th></th>
+                <th>{{stats.definition|int}}%</th>
+                <th>{{stats.description|int}}%</th>
+                <th>{{stats.interlexIdentifier|int}}%</th>
+                <th>{{stats.knowledgeSpaceLink|int}}%</th>
+                <th>{{stats.preferredOntologyIdentifier|int}}%</th>
+                <th>{{stats.synonym|int}}%</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for instance in instances.values()|sort(attribute="name") %}
+            <tr>
+                <td>{{instance.name}}</td>
+                <td class={{ "good" if instance.definition else "bad" }}></td>
+                <td class={{ "good" if instance.description else "bad" }}></td>
+                <td class={{ "good" if instance.interlexIdentifier else "bad" }}></td>
+                <td class={{ "good" if instance.knowledgeSpaceLink else "bad" }}></td>
+                <td class={{ "good" if instance.preferredOntologyIdentifier else "bad" }}></td>
+                <td class={{ "good" if instance.synonym else "bad" }}></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+
+</html>

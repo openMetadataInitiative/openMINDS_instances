@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_parietalAreaPFG",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PFG",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_parietalAreaPFG",
+  "name": "parietal area PFG (cortex)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

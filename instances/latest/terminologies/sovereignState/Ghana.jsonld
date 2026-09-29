@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Ghana",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in West Africa. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q117)]",
+  "description": null,
+  "name": "Ghana",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q117",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Gaana",
+    "Gana",
+    "gh",
+    "GH",
+    "GHA",
+    "Republic of Ghana"
+  ]
+}

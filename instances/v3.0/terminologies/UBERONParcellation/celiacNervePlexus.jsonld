@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/celiacNervePlexus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an autonomic nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002010)]",
+  "description": "A complex network of nerves located in the abdomen behind the stomach. The celiac plexus is located near where the celiac trunk, superior mesenteric artery, and renal arteries branch from the abdominal aorta. It is behind the stomach and the omental bursa and in front of the crura of the diaphragm, on the level of the first lumbar vertebra, L1. The plexus is formed (in part) by the greater and lesser splanchnic nerves of both sides, and also parts of the right vagus nerve. The celiac plexus proper consists of the celiac ganglia with a network of interconnecting fibers. The aorticorenal ganglia are often considered to be part of the celiac ganglia, and thus, part of the plexus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002010)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002010#celiac-nerve-plexus",
+  "name": "celiac nerve plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002010",
+  "synonym": [
+    "celiac plexus",
+    "coeliac plexus",
+    "plexus coeliacus",
+    "plexus nervosus coeliacus"
+  ]
+}
+

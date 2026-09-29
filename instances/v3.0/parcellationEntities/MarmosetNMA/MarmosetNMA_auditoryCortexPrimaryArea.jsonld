@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortexPrimaryArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AuA1",
+  "alternateName": [
+    "auditory cortex, primary area"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexPrimaryArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_auditoryCortexPrimaryArea",
+  "name": "auditory cortex primary area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

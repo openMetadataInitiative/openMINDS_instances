@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/stratumLucidumOfRostralCA3",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a CA3 stratum lucidum. Is part of the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034840) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "stratum lucidum of rostral CA3",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034840#stratum-lucidum-of-rostral-ca3",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034840",
+  "synonym": null
+}

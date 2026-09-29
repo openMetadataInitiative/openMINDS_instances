@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/MeyersLoopOfOpticRadiation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a radiation of cerebral hemisphere. Is part of the optic radiation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035935) ('is_a' and 'relationship')]",
+  "description": "Part of the optic radiation which sweeps back on itself into the temporal lobe, just lateral to the temporal horn of the lateral ventricle.. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035935)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035935#meyer-s-loop-of-optic-radiation",
+  "name": "Meyer's loop of optic radiation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035935",
+  "synonym": [
+    "inferior optic radiation",
+    "Meyer's loop"
+  ]
+}
+

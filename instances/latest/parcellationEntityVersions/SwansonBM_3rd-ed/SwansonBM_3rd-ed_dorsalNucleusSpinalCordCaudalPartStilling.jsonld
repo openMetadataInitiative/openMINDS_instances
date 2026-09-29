@@ -10,10 +10,13 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalNucleusSpinalCordCaudalPartStilling"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_dorsalNucleusSpinalCordCaudalPartStilling",
   "name": "dorsal nucleus spinal cord, caudal part [Stilling]",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "3rd ed.",
-  "versionInnovation": null
+  "versionSpecification": null
 }

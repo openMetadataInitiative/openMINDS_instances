@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheTractOfThePostopticCommissure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a diencephalic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001340)]",
+  "description": "The nucleus containing the cell bodies of neurons whose axons form the postoptic commissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001340)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2001340#nucleus-of-the-tract-of-the-postoptic-commissure",
+  "name": "nucleus of the tract of the postoptic commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2001340",
+  "synonym": [
+    "ntPOC"
+  ]
+}
+

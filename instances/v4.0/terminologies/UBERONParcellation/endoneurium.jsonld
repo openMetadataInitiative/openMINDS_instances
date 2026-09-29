@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/endoneurium",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the peripheral nervous system and the nerve fiber. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000123) ('is_a' and 'relationship')]",
+  "description": "The loose connective tissue within the perineurium that continues into nerve fascicles and surrounds individual fibers. (Nolte, J. The Human Brain 3rd edition) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000123)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000123#endoneurium",
+  "name": "endoneurium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000123",
+  "synonym": null
+}
+

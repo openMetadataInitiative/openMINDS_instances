@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/hyoideomandibularNerve",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002010)]",
+  "description": "Nerve that is a branch of cranial nerve VII that passes through or around the suspensorium to innervate muscles and sensory organs on or near pharyngeal arch 2. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002010)]",
+  "name": "hyoideomandibular nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2002010#hyoideomandibular-nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2002010",
+  "synonym": null
+}

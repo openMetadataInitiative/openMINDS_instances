@@ -4,18 +4,17 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/anteriorColumnOfFornix",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Anterior column of fornix' is a cerebral hemisphere white matter. It is part of the fornix of brain.",
-  "description": "",
+  "definition": "Is a cerebral hemisphere white matter. Is part of the fornix of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002940) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100691",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002940#anterior-column-of-fornix-1",
   "name": "anterior column of fornix",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002940",
   "synonym": [
-    "anterior column of fornix",
     "anterior crus of fornix",
     "anterior pillar of fornix",
     "columna fornicis anterior",
-    "crus anterius",
-    "fornix"
+    "fornix, crus anterius"
   ]
 }
+

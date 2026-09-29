@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deviceType/MRIExtremityCoil",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
+  "definition": "Type of volume coil optimized for imaging peripheral anatomical regions such as the arms, legs, wrists, ankles, or knees; in rare cases, extremity coils may adopt a surface-coil design when full enclosure of the anatomy is impractical.",
+  "description": "Extremity coils are specialized radiofrequency volume coils designed to provide high signal-to-noise ratio and uniform excitation when imaging smaller body parts like the limbs. They typically use cylindrical or contoured geometries that enclose the target region but can also appear as surface-coil variants for joints or areas where full coverage is not feasible. Extremity coils are widely used in musculoskeletal and vascular MRI, offering focused, high-resolution imaging of localized peripheral structures.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MRI extremity coil",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "knee/ankle/wrist coil",
+    "limb coil",
+    "peripheral coil"
+  ]
+}
+

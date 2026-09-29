@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLateralLineNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a lateral line nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000425)]",
+  "description": "Cranial nerve which enters the brain between cranial nerves VI and VII; contains afferents and sensory efferents to the anterior lateral line ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000425)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000425#anterior-lateral-line-nerve",
+  "name": "anterior lateral line nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000425",
+  "synonym": [
+    "rostral lateral line nerve"
+  ]
+}
+

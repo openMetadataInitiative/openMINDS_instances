@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/abdominalNervePlexus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an aortic plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035773)]",
+  "description": "The abdominal aortic plexus (aortic plexus) is formed by branches derived, on either side, from the celiac plexus and ganglia, and receives filaments from some of the lumbar ganglia. It is situated upon the sides and front of the aorta, between the origins of the superior and inferior mesenteric arteries. From this plexus arise part of the spermatic, the inferior mesenteric, and the hypogastric plexuses; it also distributes filaments to the inferior vena cava. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035773)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035773#abdominal-nerve-plexus",
+  "name": "abdominal nerve plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035773",
+  "synonym": [
+    "abdominal aortic nerve plexus",
+    "abdominal aortic plexus",
+    "plexus aorticus abdominalis",
+    "plexus aortique abdominal@fr",
+    "plexus nervosus aorticus abdominalis",
+    "preaortic nerve plexus"
+  ]
+}
+

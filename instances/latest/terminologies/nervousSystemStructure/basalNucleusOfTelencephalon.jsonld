@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/basalNucleusOfTelencephalon",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a telencephalic nucleus. Is part of the substantia innominata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010010) ('is_a' and 'relationship')]",
+  "description": "A group of neurons in the basal forebrain that has wide projections to the neocortex and is rich in acetylcholine and choline acetyltransferase. It undergoes degeneration in paralysis agitans and Alzheimer's disease. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010010)]",
+  "name": "basal nucleus of telencephalon",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101109"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0010010#basal-nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010010",
+  "synonym": [
+    "basal magnocellular nucleus (substantia innominata)",
+    "basal nuclei of Meynert",
+    "basal nucleus",
+    "basal nucleus of Meynert",
+    "basal substance of telencephalon",
+    "ganglion of Meynert",
+    "Meynert's nucleus",
+    "nucleus basalis",
+    "nucleus basalis of Meynert",
+    "substantia basalis telencephali"
+  ]
+}

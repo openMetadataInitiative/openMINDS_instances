@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lapillus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an otolith. Is part of the utricle of membranous labyrinth. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000530) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000530#lapillus",
+  "name": "lapillus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000530",
+  "synonym": [
+    "utricular otolith",
+    "utriculith"
+  ]
+}
+

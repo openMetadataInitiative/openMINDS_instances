@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/oralRamule",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a ramus mandibularis externus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010794)]",
+  "description": "Medial branch of the ramus mandibularis externus. This ramule innervates the oral and angular lines of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010794)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010794#oral-ramule",
+  "name": "oral ramule",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010794",
+  "synonym": null
+}
+

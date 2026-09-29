@@ -1,0 +1,35 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/UnitedKingdom",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in north-west Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q145)]",
+  "description": null,
+  "name": "United Kingdom",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q145",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Britain",
+    "England",
+    "G B",
+    "G B R",
+    "G. B.",
+    "G. B. R.",
+    "G.B.",
+    "G.B.R.",
+    "GB",
+    "GBR",
+    "Great Britain",
+    "Great Britain and Northern Ireland",
+    "The UK",
+    "The United Kingdom of Great Britain and Northern Ireland",
+    "U K",
+    "U. K.",
+    "U.K.",
+    "UK",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ]
+}

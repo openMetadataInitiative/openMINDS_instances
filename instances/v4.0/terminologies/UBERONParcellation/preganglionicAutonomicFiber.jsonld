@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/preganglionicAutonomicFiber",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a trigeminal nerve fibers. Is part of the autonomic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011925) ('is_a' and 'relationship')]",
+  "description": "Nerve fibers which project from the central nervous system to autonomic ganglia. In the sympathetic division most preganglionic fibers originate with neurons in the intermediolateral column of the spinal cord, exit via ventral roots from upper thoracic through lower lumbar segments, and project to the paravertebral ganglia; there they either terminate in synapses or continue through the splanchnic nerves to the prevertebral ganglia. In the parasympathetic division the fibers originate in neurons of the brain stem and sacral spinal cord. In both divisions the principal transmitter is acetylcholine but peptide cotransmitters may also be released. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011925)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011925#preganglionic-autonomic-fiber",
+  "name": "preganglionic autonomic fiber",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011925",
+  "synonym": [
+    "preganglionic nerve fiber"
+  ]
+}
+

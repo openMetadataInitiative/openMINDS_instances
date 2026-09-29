@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/piriformCortexLayer2a",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the piriform cortex layer 2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022340) ('is_a' and 'relationship')]",
+  "description": "Superficial region of layer 2 of the piriform cortex characterized by a less dense packing of cells and a concentration of semilunar cell bodies. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022340)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022340#piriform-cortex-layer-2a",
+  "name": "piriform cortex layer 2a",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022340",
+  "synonym": null
+}
+

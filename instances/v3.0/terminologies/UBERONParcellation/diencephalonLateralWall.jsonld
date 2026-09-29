@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalonLateralWall",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the diencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005591)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005591#diencephalon-lateral-wall",
+  "name": "diencephalon lateral wall",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005591",
+  "synonym": [
+    "lateral wall diencephalic region",
+    "lateral wall diencephalon"
+  ]
+}
+

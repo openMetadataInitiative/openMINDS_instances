@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfLateralLemniscus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nucleus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006840)]",
+  "description": "Groups of cells situated largely within the fiber bundles of the lateral lemniscus. Two nuclei are usually distinguished: a ventral group and a dorsal group (Brodal, Neurological Anatomy, 3rd ed., 1981, pg. 619). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006840)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006840#nucleus-of-lateral-lemniscus",
+  "name": "nucleus of lateral lemniscus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006840",
+  "synonym": [
+    "lateral lemniscus nuclei",
+    "lateral lemniscus nucleus",
+    "nuclei lemnisci lateralis"
+  ]
+}
+

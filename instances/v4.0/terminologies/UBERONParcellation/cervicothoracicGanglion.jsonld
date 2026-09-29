@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cervicothoracicGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cervical ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002441)]",
+  "description": "The group of neurons formed by the fusion of the inferior cervical and first thoracic ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002441)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002441#cervicothoracic-ganglion",
+  "name": "cervicothoracic ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002441",
+  "synonym": [
+    "cervicothoracic sympathetic ganglion",
+    "ganglion cervicothoracicum",
+    "ganglion stellatum",
+    "stellate ganglion"
+  ]
+}
+

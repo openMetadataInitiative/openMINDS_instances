@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialForebrainBundleTelencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a diencephalic white matter and telencephalic tracts. Is part of the medial forebrain bundle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000910) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000910#medial-forebrain-bundle-telencephalon",
+  "name": "medial forebrain bundle telencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000910",
+  "synonym": null
+}
+

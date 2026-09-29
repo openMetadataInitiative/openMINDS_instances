@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/medialHabenularNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a habenular nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001942)]",
+  "description": "The habenular nuclei comprise a small group of nuclei that are part of the epithalamus of the diencephalon, situated at the posterior end of the thalamus, on its upper surface. The habenular nuclei are typically divided into: lateral habenular nucleus medial habenular nucleus The pineal gland is attached to the brain in this region. Nerve impulses from the habenular nuclei are transmitted to the septal nuclei via the stria medullaris, which is found on the medial surface of the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001942)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001942#medial-habenular-nucleus-1",
+  "name": "medial habenular nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001942",
+  "synonym": [
+    "medial habenula",
+    "nucleus habenulae medialis",
+    "nucleus habenularis medialis",
+    "nucleus habenularis medialis (Hassler)",
+    "nucleus habenularis medialis epithalami"
+  ]
+}
+

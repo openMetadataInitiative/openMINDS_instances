@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/prosomere",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a neuromere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014775)]",
+  "description": "A neuromere that is part of the presumptive forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014775)]",
+  "name": "prosomere",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014775#prosomere",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014775",
+  "synonym": [
+    "forebrain neuromere"
+  ]
+}

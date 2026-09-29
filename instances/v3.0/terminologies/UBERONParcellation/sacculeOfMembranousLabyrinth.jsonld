@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sacculeOfMembranousLabyrinth",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an otolith organ. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001854)]",
+  "description": "The smaller of the two otolith organs in the vestibule. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001854)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001854#saccule-of-membranous-labyrinth",
+  "name": "saccule of membranous labyrinth",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001854",
+  "synonym": [
+    "membranous labyrinth saccule",
+    "saccule",
+    "sacculus",
+    "sacculus (labyrinthus vestibularis)"
+  ]
+}
+

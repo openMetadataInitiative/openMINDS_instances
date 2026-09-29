@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorSuperiorAlveolarNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a superior alveolar nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035646)]",
+  "description": "The anterior superior alveolar branch (anterior superior dental branch), of considerable size, is given off from the maxillary nerve just before its exit from the infraorbital foramen; it descends in a canal in the anterior wall of the maxillary sinus, and divides into branches which supply the incisor and canine teeth. It communicates with the middle superior alveolar branch, and gives off a nasal branch, which passes through a minute canal in the lateral wall of the inferior meatus, and supplies the mucous membrane of the anterior part of the inferior meatus and the floor of the nasal cavity, communicating with the nasal branches from the sphenopalatine ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035646)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035646#anterior-superior-alveolar-nerve",
+  "name": "anterior superior alveolar nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035646",
+  "synonym": [
+    "anterior superior dental nerve"
+  ]
+}
+

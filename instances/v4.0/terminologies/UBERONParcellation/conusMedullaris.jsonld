@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/conusMedullaris",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005437)]",
+  "description": "The conus medullaris is the terminal end of the spinal cord. It occurs near lumbar vertebral levels 1 (L1) and 2 (L2). After the spinal cord tapers out, the spinal nerves continue as dangling nerve roots called cauda equina. This terminal nerve root tail is referred to as the filum terminale. The upper end of the conus medullaris is usually not well defined. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005437)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005437#conus-medullaris",
+  "name": "conus medullaris",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005437",
+  "synonym": [
+    "medullary cone"
+  ]
+}
+

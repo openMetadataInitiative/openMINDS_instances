@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/axonTract",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a neuron projection bundle and central nervous system cell part cluster. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001018)]",
+  "description": "A group of axons linking two or more neuropils and having a common origin, termination. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001018)]",
+  "name": "axon tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001018#nerve-tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001018",
+  "synonym": [
+    "axonal tract",
+    "neuraxis tract",
+    "tract of neuraxis"
+  ]
+}

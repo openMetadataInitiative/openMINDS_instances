@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/eighthThoracicDorsalRootGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002851)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002851#eighth-thoracic-dorsal-root-ganglion-1",
+  "name": "eighth thoracic dorsal root ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002851",
+  "synonym": [
+    "eighth thoracic spinal ganglion"
+  ]
+}
+

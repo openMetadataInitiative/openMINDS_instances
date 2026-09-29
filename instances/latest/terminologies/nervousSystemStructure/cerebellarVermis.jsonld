@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/cerebellarVermis",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004720)]",
+  "description": "A subregion of the cerebellar cortex, consisting of the most medial zone of the cerebellar cortex, stradding the midline. May be continuous with the lateral cerebellar hemispheres in some areas of the cerebellum, e.g., dorsally, or separated by deeper fissures in others (e.g., ventrally) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004720)]",
+  "name": "cerebellar vermis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112392"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004720#vermis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004720",
+  "synonym": [
+    "cerebellum vermis",
+    "vermal parts of the cerebellum",
+    "vermal regions",
+    "vermis cerebelli [I-X]",
+    "vermis of cerebellum",
+    "vermis of cerebellum [I-X]"
+  ]
+}

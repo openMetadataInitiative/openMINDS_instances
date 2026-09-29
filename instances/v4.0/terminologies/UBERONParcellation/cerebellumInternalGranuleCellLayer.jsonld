@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellumInternalGranuleCellLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a granular layer of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008830)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008830#inner-granular-layer-of-cerebellar-cortex",
+  "name": "cerebellum internal granule cell layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008830",
+  "synonym": [
+    "inner granular layer of cerebellar cortex"
+  ]
+}
+

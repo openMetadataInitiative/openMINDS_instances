@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/vestibularGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cranial ganglion, sensory ganglion, ganglion of peripheral nervous system and vestibular organ. Is part of the vestibulocochlear ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002824) ('is_a' and 'relationship')]",
+  "description": "The ganglion of the vestibular nerve. It contains the cell bodies of the bipolar primary afferent neurons whose peripheral processes form synaptic contact with hair cells of the vestibular sensory end organs. Distributed to the maculae of the utricle and saccule and to the ampullary crests of the semicircular ducts. The vestibular fibers arise in bipolar cells in the vestibular ganglion in the internal acoustic meatus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002824)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002824#vestibular-ganglion-1",
+  "name": "vestibular ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002824",
+  "synonym": [
+    "Scarpa's ganglion",
+    "vestibular part of vestibulocochlear ganglion",
+    "vestibulocochlear VIII ganglion vestibular component"
+  ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AUD",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_dorsalPallium"
+    }
+  ],
+  "hasVersion": null,
+  "lookupLabel": "MarmosetNMA_auditoryCortex",
+  "name": "Auditory cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

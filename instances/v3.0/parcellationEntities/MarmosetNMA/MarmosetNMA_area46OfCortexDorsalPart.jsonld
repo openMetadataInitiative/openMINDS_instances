@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area46OfCortexDorsalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A46D",
+  "alternateName": [
+    "area 46 of cortex, dorsal part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_dorsolateralPrefrontalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area46OfCortexDorsalPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area46OfCortexDorsalPart",
+  "name": "area 46 of cortex dorsal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

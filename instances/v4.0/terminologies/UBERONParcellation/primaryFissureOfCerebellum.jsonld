@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/primaryFissureOfCerebellum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014471)]",
+  "description": "The monticulus of the cerebellum is divided by the primary fissure (or preclival fissure) into an anterior, raised part, the culmen or summit, and a posterior sloped part, the clivus; the quadrangular lobule is similarly divided. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014471)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014471#primary-fissure-of-cerebellum",
+  "name": "primary fissure of cerebellum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014471",
+  "synonym": [
+    "fissura preclivalis",
+    "fissura prima",
+    "fissura prima cerebelli",
+    "fissura superior anterior",
+    "preclival fissure",
+    "primary sulcus of cerebellum"
+  ]
+}
+

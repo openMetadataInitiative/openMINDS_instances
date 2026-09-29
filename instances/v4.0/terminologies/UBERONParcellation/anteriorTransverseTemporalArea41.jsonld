@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/anteriorTransverseTemporalArea41",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006095)]",
+  "description": "A subdivision of the cytoarchitecturally defined temporal region of cerebral cortex. It occupies the anterior transverse temporal gyrus (H) in the bank of the lateral sulcus on the dorsal surface of the temporal lobe. Cytoarchitecturally it is bounded medially by the parainsular area 52 (H) and laterally by the posterior transverse temporal area 42 (H) (Brodmann-1909). Adapted from Brain Info. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006095)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006095#anterior-transverse-termporal-area-41",
+  "name": "anterior transverse temporal area 41",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006095",
+  "synonym": [
+    "area 41 of Brodmann",
+    "area 41 of Brodmann-1909",
+    "area temporalis transversa anterior",
+    "B09-41",
+    "BA41",
+    "Brodmann (1909) area 41",
+    "Brodmann area 41",
+    "Brodmann area 41, anterior transverse temporal",
+    "Brodmann's area 41",
+    "principle auditory receptive areas"
+  ]
+}
+

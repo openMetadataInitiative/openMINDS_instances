@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_superficialWhiteMatter",
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SWMA_superficialWhiteMatter",
   "@type": "https://openminds.om-i.org/types/ParcellationEntity",
   "abbreviation": "SWM",
   "alternateName": null,

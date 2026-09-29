@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lumenOfCentralNervousSystem",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002561) ('is_a' and 'relationship')]",
+  "description": "The cavity that is enclosed by the central nervous system. In vertebrates this is the cavity that includes as parts ventricular cavities and the central canal of the spinal cord that develops from the lumen of the neura tube. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002561)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002561#neuraxis-cavity",
+  "name": "lumen of central nervous system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002561",
+  "synonym": [
+    "cavity of neuraxis",
+    "cavity of ventricular system of neuraxis",
+    "neuraxis cavity",
+    "neuraxis lumen"
+  ]
+}
+

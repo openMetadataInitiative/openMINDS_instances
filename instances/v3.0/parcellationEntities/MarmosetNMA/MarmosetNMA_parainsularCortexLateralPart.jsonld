@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_parainsularCortexLateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "PaIL",
+  "alternateName": [
+    "parainsular cortex, lateral part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_insularCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_parainsularCortexLateralPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_parainsularCortexLateralPart",
+  "name": "parainsular cortex lateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/paramedianReticularNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007764)]",
+  "description": "A medullary nucleus that sends its connections to the spinal cord in a mostly ipsilateral manner. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007764)]",
+  "name": "paramedian reticular nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108455"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0007764#paramedian-reticular-nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007764",
+  "synonym": [
+    "ventral paramedian reticular nucleus"
+  ]
+}

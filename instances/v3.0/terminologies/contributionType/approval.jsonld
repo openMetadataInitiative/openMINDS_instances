@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/approval",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by formally authorizing or accepting a target entity so that it may proceed or be used.",
+  "description": null,
+  "name": "approval",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

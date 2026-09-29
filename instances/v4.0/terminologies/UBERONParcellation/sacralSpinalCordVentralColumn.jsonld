@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCordVentralColumn",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a subdivision of spinal cord ventral column. Is part of the sacral spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005853) ('is_a' and 'relationship')]",
+  "description": "A subdivision of spinal cord ventral column that is part of a sacral spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005853)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005853#sacral-spinal-cord-ventral-column-1",
+  "name": "sacral spinal cord ventral column",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005853",
+  "synonym": null
+}
+

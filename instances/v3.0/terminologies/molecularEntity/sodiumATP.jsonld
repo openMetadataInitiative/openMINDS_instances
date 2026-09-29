@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/sodiumATP",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Sodium ATP is a compound of sodium and an ATP molecule.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "sodium ATP",
+  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/23675355",
+  "synonym": [
+    "ATP Na salt",
+    "ATP xsodium",
+    "ATP-Na",
+    "NaATP",
+    "sodium adenosine triphosphate",
+    "sodium adenosine-5'-triphosphate",
+    "sodium ATP"
+  ]
+}
+

@@ -4,14 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/metencephalon",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Metencephalon' is a segmental subdivision of hindbrain.",
-  "description": "Anterior part of the hindbrain ventral to the cerebellum.",
+  "definition": "Is a segmental subdivision of hindbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001895)]",
+  "description": "Rostral segment of the hindbrain that has as its parts the pons (where present) and the cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001895)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106845",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001895#metencephalon-1",
   "name": "metencephalon",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001895",
   "synonym": [
-    "Epencephalon-2",
-    "epencephalon"
+    "epencephalon-2"
   ]
 }
+

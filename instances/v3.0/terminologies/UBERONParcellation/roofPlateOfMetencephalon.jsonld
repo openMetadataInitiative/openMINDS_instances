@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/roofPlateOfMetencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the metencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003302)]",
+  "description": "A roof plate that is part of a metencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003302)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003302#roof-plate-of-metencephalon",
+  "name": "roof plate of metencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003302",
+  "synonym": [
+    "epencephalon-2 roof plate",
+    "epencephalon-2 roofplate",
+    "metencephalon roof plate",
+    "metencephalon roofplate",
+    "roof plate metencephalon",
+    "roof plate of epencephalon-2",
+    "roofplate of epencephalon-2",
+    "roofplate of metencephalon"
+  ]
+}
+

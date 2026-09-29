@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusSubgranularZone",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the dentate gyrus of hippocampal formation. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009952)]",
+  "description": "A narrow layer of cells located between the granule cell layer and hilus of the dentate gyrus, where adult neurogenesis occurs. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009952)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009952#dentate-gyrus-subgranular-zone",
+  "name": "dentate gyrus subgranular zone",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009952",
+  "synonym": [
+    "subgranular zone",
+    "subgranular zone of dentate gyrus"
+  ]
+}
+

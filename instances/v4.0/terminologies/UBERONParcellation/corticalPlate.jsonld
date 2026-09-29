@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/corticalPlate",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005343)]",
+  "description": "The outer neural tube region in which post-mitotic neuroblasts migrate along radial glia to form the adult cortical layers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005343)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005343#cortical-plate",
+  "name": "cortical plate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005343",
+  "synonym": [
+    "cerebral cortex cortical plate",
+    "future cortical layers II-VI",
+    "neocortex cortical plate"
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/roofPlateSpinalCordRegion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the spinal cord. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005724)]",
+  "description": "A tissue that is part of a spinal cord and is part of a roof plate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005724)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005724#roof-plate-spinal-cord-region",
+  "name": "roof plate spinal cord region",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005724",
+  "synonym": [
+    "roof plate spinal cord"
+  ]
+}
+

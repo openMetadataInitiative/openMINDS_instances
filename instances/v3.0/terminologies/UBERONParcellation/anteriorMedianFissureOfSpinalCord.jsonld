@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianFissureOfSpinalCord",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a subarachnoid fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035319)]",
+  "description": "A fissure in the midline of the anterior surface of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035319)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035319#anterior-median-fissure-of-spinal-cord",
+  "name": "anterior median fissure of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035319",
+  "synonym": [
+    "fissura mediana anterior medullae spinalis",
+    "ventral median fissure of spinal cord"
+  ]
+}
+

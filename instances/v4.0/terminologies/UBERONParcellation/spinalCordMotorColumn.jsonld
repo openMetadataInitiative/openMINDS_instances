@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/spinalCordMotorColumn",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal cord column. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003990)]",
+  "description": "The subclasses of motor neurons which are organized into longitudinally oriented columns that occupy distinct and, in some cases, discontinuous domains along the rostrocaudal axis of the spinal cord; motor neurons within a single column send their axons to a common peripheral target. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003990)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003990#spinal-cord-motor-column",
+  "name": "spinal cord motor column",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003990",
+  "synonym": null
+}
+

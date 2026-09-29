@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/spinalCordVentralCommissure",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal cord white commissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004170)]",
+  "description": "The band of nerve fibers which cross the midline of the spinal cord ventral to the central canal and posterior grey commissure. The anterior (or ventral) white commissure, also known as the alba anterior medullae spinalis, is a bundle of nerve fibers which cross the midline of the spinal cord just anterior to the gray commissure. A N4 fibers and C fibers carrying pain sensation in the spinothalamic tract contribute to this commissure, as do fibers of the anterior corticospinal tract, which carry motor signals from the primary motor cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004170)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004170#spinal-cord-ventral-commissure",
+  "name": "spinal cord ventral commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004170",
+  "synonym": [
+    "anterior white commissure",
+    "anterior white commissure of spinal cord",
+    "spinal cord anterior commissure",
+    "ventral spinal commissure",
+    "ventral white column",
+    "ventral white commissure of spinal cord"
+  ]
+}
+

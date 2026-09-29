@@ -4,15 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/medialOrbitalGyrus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Medial orbital gyrus' is an orbital gyrus.",
-  "description": "",
+  "definition": "Is an orbital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002570)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106673",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002570#medial-orbital-gyrus-1",
   "name": "medial orbital gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002570",
-  "synonym": [
-    "gyrus orbitalis longitudinalis internus",
-    "gyrus orbitalis medialis",
-    "gyrus orbitalis medius"
-  ]
+  "synonym": null
 }
+

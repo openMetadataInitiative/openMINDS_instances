@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/mono-exponentialDecayFitting",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
+  "definition": "Curve fitting technique that uses a mono-exponential decay function as the underlying model.",
+  "description": null,
+  "name": "mono-exponential decay fitting",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

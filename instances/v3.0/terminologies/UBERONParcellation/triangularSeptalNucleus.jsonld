@@ -4,18 +4,16 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/triangularSeptalNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Triangular septal nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.",
-  "description": "",
+  "definition": "Is a telencephalic nucleus. Is part of the septal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002977) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111955",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002977#triangular-septal-nucleus-1",
   "name": "triangular septal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002977",
   "synonym": [
-    "nucleus septalis triangularis",
     "nucleus triangularis septi",
     "triangular nucleus of septum",
-    "triangular nucleus of the septum",
-    "triangular nucleus septum (Cajal)",
-    "TS"
+    "triangular nucleus septum (cajal)"
   ]
 }
+

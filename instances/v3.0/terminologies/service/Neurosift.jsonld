@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/service/Neurosift",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Service",
+  "definition": "Neurosift is a browser-based tool designed for the visualization of neuroscience data with a focus on NWB (Neurodata Without Borders) files.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Neurosift",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

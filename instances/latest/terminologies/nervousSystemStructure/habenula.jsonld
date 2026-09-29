@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/habenula",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the epithalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001904) ('is_a' and 'relationship')]",
+  "description": "A segment of the epithalamus that has as its parts the habenular nuclei and the habenular commissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001904)]",
+  "name": "habenula",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0104854"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001904#habenula-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001904",
+  "synonym": [
+    "habenula complex"
+  ]
+}

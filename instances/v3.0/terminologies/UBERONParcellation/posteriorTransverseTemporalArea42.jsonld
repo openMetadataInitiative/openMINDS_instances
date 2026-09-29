@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorTransverseTemporalArea42",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006096)]",
+  "description": "A subdivision of the cytoarchitecturally defined temporal region of cerebral cortex. It is located in the bank of the lateral sulcus on the dorsal surface of the temporal lobe. Cytoarchitecturally it is bounded medially by the anterior transverse temporal area 41(H) and laterally by the superior temporal area 22 (Brodmann-1909). Adapted from Brain Info. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006096)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006096#posterior-transverse-termporal-area-42",
+  "name": "posterior transverse temporal area 42",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006096",
+  "synonym": [
+    "area 42 of Brodmann",
+    "area 42 of Brodmann-1909",
+    "area temporalis transversa posterior",
+    "auditory association area",
+    "B09-42",
+    "BA42",
+    "Brodmann (1909) area 42",
+    "Brodmann area 42",
+    "Brodmann area 42, posterior transverse temporal",
+    "Brodmann's area 42"
+  ]
+}
+

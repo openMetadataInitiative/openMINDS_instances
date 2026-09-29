@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/centralNucleusOfInferiorColliculus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of midbrain tectum. Is part of the inferior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002563) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "central nucleus of inferior colliculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101911"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002563#central-nucleus-of-inferior-colliculus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002563",
+  "synonym": [
+    "chief nucleus of inferior colliculus",
+    "inferior colliculus, central nucleus",
+    "nucleus centralis colliculi inferioris",
+    "nucleus of inferior colliculus (Crosby)"
+  ]
+}

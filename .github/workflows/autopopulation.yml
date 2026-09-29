@@ -1,20 +1,18 @@
 name: Autopopulation
 
+# Run the job if a PR was merged or a push occurred on main
 on:
-  # Trigger when a pull request is merged into main
-  pull_request:
-    types: [closed]
-    branches:
-      - main
-  # Trigger on direct pushes to main
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   sync-instances:
-    # Run the job if a PR was merged or a push occurred on main
-    if: github.event.pull_request.merged == true || github.event_name == 'push'
+    if: github.repository == 'openMetadataInitiative/openMINDS_instances' && ${{ !contains(github.event.head_commit.message, '[ci skip-autopopulate]') }}
+
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -87,15 +85,24 @@ jobs:
           
               # Iterate over existing versions in the instances directory
               for VERSION in $(ls "$MAIN_FOLDER"); do
-          
-                # Skip processing if the version matches the modified file's version
                 if [ "$VERSION" != "$FILE_VERSION" ]; then
                   TARGET_FILE="$MAIN_FOLDER/$VERSION/$FILE_MODULE/$FILE_NAME"
-          
-                  # Generate instance only if the target directory exists
-                  if [ -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ]; then
-                    echo "Generating instance from $FILE to $TARGET_FILE"
+                  TOP_LEVEL_DIR=$(echo "$FILE_MODULE" | cut -d'/' -f1)
+              
+                  # Target file does not exist in instances/VERSION/terminologies/terminology
+                  if [[ "$FILE_MODULE" == "terminologies/terminology" ]] && [[ ! -e "$TARGET_FILE" ]]; then
+                    echo "Skipping $TARGET_FILE: terminology file does not exist in $VERSION."
+                  # Folder does not exist in instances/VERSION/terminologies/
+                  elif [[ "$FILE_MODULE" == terminologies/* ]] && [[ ! -d "$MAIN_FOLDER/$VERSION/$FILE_MODULE/" ]]; then
+                    echo "Skipping $FILE_MODULE: folder does not exist in $VERSION."
+                  # Top-level folder exists in instances/VERSION/
+                  elif [ -d "$MAIN_FOLDER/$VERSION/$TOP_LEVEL_DIR/" ]; then
+                    mkdir -p "$MAIN_FOLDER/$VERSION/$FILE_MODULE/"
+                    echo "Generating instance from $FILE to $TARGET_FILE."
                     python .github/scripts/sync_instances.py "$FILE" "$TARGET_FILE" "$VERSION"
+                  # Top-level folder not in instances/VERSION/
+                  else
+                    echo "Skipping $FILE_MODULE: top-level folder does not exist in $VERSION."
                   fi
                 fi
               done
@@ -106,9 +113,6 @@ jobs:
             git config --global user.email "support@openmetadatainitiative.org"
             git add $MAIN_FOLDER/**/*.jsonld
             git commit -m "Autopopulation of instance file."
-            
-            # Fetch latest remote changes and rebase before pushing
-            git fetch origin main
             git pull --rebase origin main
             git push origin HEAD:main
           else

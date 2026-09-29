@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/echoPlanarPulseSequence",
+  "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
+  "definition": "A magnetic resonance image pulse sequence that is composed of multiple echoes at different phase steps (often collected blocks of 64 or 128 phase steps), which are acquired using rephasing gradients where rephasing is achieved by rapidly reversing the readout or frequency-encoding gradient.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "echo planar pulse sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "echo-planar imaging"
+  ]
+}

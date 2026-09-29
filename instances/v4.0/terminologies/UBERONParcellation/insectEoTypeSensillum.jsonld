@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/insectEoTypeSensillum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an insect external sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007232)]",
+  "description": "Sensillum with innervated external cuticular sensory structure consisting of one or more bipolar sensory neurons, and 3 support cells: a trichogen cell which makes the external cuticular sensory structure, a thecogen cell which makes the socket that holds the base of the external sensory structure and a tormogen cell which makes the cuticular matrix (cap) at the tip of the innervating dendrite(s). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007232)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6007232#eo-type-sensillum",
+  "name": "insect eo-type sensillum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6007232",
+  "synonym": null
+}
+

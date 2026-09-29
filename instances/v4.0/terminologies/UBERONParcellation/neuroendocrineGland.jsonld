@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/neuroendocrineGland",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010133) ('is_a' and 'relationship')]",
+  "description": "Any of the organized aggregations of cells that function as secretory or excretory organs and that release hormones in response to neural stimuli. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010133)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010133#neuroendocrine-gland",
+  "name": "neuroendocrine gland",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010133",
+  "synonym": [
+    "neuroendocrine system gland"
+  ]
+}
+

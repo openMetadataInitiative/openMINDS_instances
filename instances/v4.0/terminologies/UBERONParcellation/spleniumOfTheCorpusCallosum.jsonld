@@ -4,17 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/spleniumOfTheCorpusCallosum",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "",
-  "description": "The 'splenium of the corpus callosum' is a white matter fibre bundle. It is represents the posterior end of the corpus callosum.",
+  "definition": "Is a cerebral hemisphere white matter. Is part of the corpus callosum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015708) ('is_a' and 'relationship')]",
+  "description": "The posterior end of the corpus callosum. It overlaps the tela chorioidea of the third ventricle and the mid-brain, and ends in a thick, convex, free border. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015708)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0724356",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015708#splenium-of-the-corpus-callosum",
   "name": "splenium of the corpus callosum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015708",
   "synonym": [
     "corpus callosum splenium",
-    "splenium",
-    "splenium corporis callosi",
-    "splenium corpus callosi",
-    "splenium of corpus callosum"
+    "corpus callosum, splenium"
   ]
 }
+

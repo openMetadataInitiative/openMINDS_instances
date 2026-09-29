@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/leftOccipitalLobe",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an occipital lobe. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002806) ('is_a' and 'relationship')]",
+  "description": "An occipital lobe that is part of a left cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002806)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002806#left-occipital-lobe-1",
+  "name": "left occipital lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002806",
+  "synonym": null
+}
+

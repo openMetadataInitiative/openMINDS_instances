@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterLaminaOfNeuraxis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014530) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014530#white-matter-lamina-of-neuraxis",
+  "name": "white matter lamina of neuraxis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014530",
+  "synonym": null
+}
+

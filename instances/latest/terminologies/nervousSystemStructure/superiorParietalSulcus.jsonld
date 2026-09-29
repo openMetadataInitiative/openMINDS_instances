@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/superiorParietalSulcus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a sulcus of parietal lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026724)]",
+  "description": "A superficial feature of the parietal lobe that extends from the dorsal surface of the superior parietal lobule across the margin of the parietal lobe into the precuneus (Ono-90). (NN) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026724)]",
+  "name": "superior parietal sulcus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0026724#superior-parietal-sulcus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0026724",
+  "synonym": null
+}

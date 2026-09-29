@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/ventralNuclearGroup",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of dorsal thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002776)]",
+  "description": "Nuclei in the ventral part of the thalamus, involved in modulating activity of dorsal thalamic nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002776)]",
+  "name": "ventral nuclear group",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112319"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002776#ventral-nuclear-group-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002776",
+  "synonym": [
+    "dorsal thalamus, ventral group",
+    "nuclei ventrales thalami",
+    "ventral group of dorsal thalamus",
+    "ventral nuclear group of thalamus",
+    "ventral nuclear mass",
+    "ventral nuclei of thalamus",
+    "ventral tier thalamic nuclei"
+  ]
+}

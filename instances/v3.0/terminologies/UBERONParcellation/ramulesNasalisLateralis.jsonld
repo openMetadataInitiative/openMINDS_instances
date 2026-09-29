@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ramulesNasalisLateralis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the ophthalmic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010652) ('is_a' and 'relationship')]",
+  "description": "First branch gives rise to two ramules that border the naris and innervate the surrounding tissue. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010652)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010652#ramules-nasalis-lateralis",
+  "name": "ramules nasalis lateralis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010652",
+  "synonym": null
+}
+

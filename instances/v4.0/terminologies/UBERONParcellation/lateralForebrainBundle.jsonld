@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralForebrainBundle",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2007012)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2007012#lateral-forebrain-bundle",
+  "name": "lateral forebrain bundle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2007012",
+  "synonym": null
+}
+

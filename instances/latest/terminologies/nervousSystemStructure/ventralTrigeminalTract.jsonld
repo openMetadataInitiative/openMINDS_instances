@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/ventralTrigeminalTract",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a trigeminothalamic tract and tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002549) ('is_a' and 'relationship')]",
+  "description": "The Anterior trigeminothalamic tract (or ventral trigeminothalamic tract) serves as pain, temperature, and light touch pathway from the face, head and neck. It receives input from trigeminal nerve, facial nerve, glossopharyngeal nerve and vagus nerve. It receives discriminative tactile and pressure input from the contralateral principal sensory nucleus of CN V, which terminates in the ventral posteromedial nucleus of the thalamus. It then ascends to the contralateral sensory cortex via three neurons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002549)]",
+  "name": "ventral trigeminal tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112361"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002549#ventral-trigeminal-tract-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002549",
+  "synonym": [
+    "anterior trigeminothalamic tract",
+    "tractus trigeminothalamicus anterior",
+    "trigeminal lemniscus-2",
+    "ventral crossed tract",
+    "ventral secondary ascending tract of V",
+    "ventral trigeminal pathway",
+    "ventral trigeminothalamic tract"
+  ]
+}

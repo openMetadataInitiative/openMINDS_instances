@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/integumentalTasteBud",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034717)]",
+  "description": "A taste bud that is located external to the digestive tube, on the head or body, as found in species such as goldfish. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034717)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034717#integumental-taste-bud",
+  "name": "integumental taste bud",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034717",
+  "synonym": null
+}
+

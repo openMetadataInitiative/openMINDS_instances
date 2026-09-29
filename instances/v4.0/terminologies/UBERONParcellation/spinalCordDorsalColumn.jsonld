@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/spinalCordDorsalColumn",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal cord column. Is part of the dorsal funiculus of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005373) ('is_a' and 'relationship')]",
+  "description": "The wedge-shaped fiber bundle of white matter in the dorsomedial side of the spinal cord that is made up of the fasciculus gracilis and fasciculus cuneatus; it is part of the ascending posterior column-medial lemniscus pathway that is important for well-localized fine touch and conscious proprioception. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005373)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005373#spinal-cord-dorsal-column",
+  "name": "spinal cord dorsal column",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005373",
+  "synonym": [
+    "dorsal column",
+    "dorsal column of spinal cord",
+    "posterior column",
+    "spinal cord posterior column"
+  ]
+}
+

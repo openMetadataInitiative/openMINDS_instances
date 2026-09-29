@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/RuffiniNerveEnding",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012457)]",
+  "description": "An encapsulated nerve receptor present in subpapillary dermis and deep dermis of hairy and glabrous skin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012457)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0012457#ruffini-nerve-ending",
+  "name": "Ruffini nerve ending",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012457",
+  "synonym": [
+    "corpusculum sensorium fusiforme",
+    "Ruffini's corpuscle"
+  ]
+}
+

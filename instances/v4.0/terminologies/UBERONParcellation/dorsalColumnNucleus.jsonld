@@ -4,13 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsalColumnNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Dorsal column nucleus' is a nucleus of medulla oblongata. It is part of the dorsal column-medial lemniscus pathway.",
-  "description": "A pair of nuclei in the brainstem. The name refers collectively to the cuneate nucleus and gracile nucleus, which are present at the junction between the spinal cord and the medulla oblongata. Both nuclei contain secondary neurons of the dorsal column-medial lemniscus pathway,",
+  "definition": "Is a nucleus of medulla oblongata. Is part of the dorsal column-medial lemniscus pathway. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018238) ('is_a' and 'relationship')]",
+  "description": "A nucleus that contain secondary neurons of the dorsal column-medial lemniscus pathway, which carries fine touch and proprioceptive information from the body to the brain. Examples: gracile nucleus, cuneat nucleus, nucleus of Bishoff. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018238)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103429",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018238#dorsal-column-nucleus",
   "name": "dorsal column nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018238",
-  "synonym": [
-    "dorsal column nuclei"
-  ]
+  "synonym": null
 }
+

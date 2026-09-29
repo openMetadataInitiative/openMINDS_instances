@@ -4,11 +4,17 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/midbrainRapheNuclei",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Midbrain raphe nuclei' is a regional part of brain. It is part of the midbrain tegmentum and raphe nuclei.",
-  "description": "Midline nuclei found in the midbrain, includes the dorsal raphe nucleus and the rostral linear nucleus of raphe.",
+  "definition": "Is a regional part of brain. Is part of the midbrain tegmentum and the raphe nuclei. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007412) ('is_a' and 'relationship')]",
+  "description": "Midline nuclei found in the midbrain, includes the dorsal raphe nucleus and the rostral linear nucleus of raphe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007412)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106941",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007412#midbrain-raphe-nuclei-1",
   "name": "midbrain raphe nuclei",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007412",
-  "synonym": null
+  "synonym": [
+    "midbrain raphe",
+    "nuclei raphes tegmenti mesencephali",
+    "raphe nuclei of tegmentum of midbrain",
+    "set of raphe nuclei of tegmentum of midbrain"
+  ]
 }
+

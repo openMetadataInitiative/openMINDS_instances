@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/A13DopaminergicCellGroup",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a dopaminergic cell groups. Is part of the zona incerta. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036007) ('is_a' and 'relationship')]",
+  "description": "A group of cells that fluoresce for dopamine and are distributed in clusters that, in the primate, are ventral and medial to the mammillothalamic tract of the hypothalamus; a few extend into the reuniens nucleus of the thalamus (Felten-1983). In the mouse A13 is located ventral to the mammillothalamic tract of the thalamus in the zona incerta (adapted from Brain Info) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036007)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036007#a13-dopaminergic-cell-group",
+  "name": "A13 dopaminergic cell group",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036007",
+  "synonym": null
+}
+

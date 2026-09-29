@@ -4,24 +4,17 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfMedialMammillaryNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Medial part of medial mammillary nucleus' is a gray matter of diencephalon. It is part of the medial mammillary nucleus.",
-  "description": "",
+  "definition": "Is a gray matter of diencephalon. Is part of the medial mammillary nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002632) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106677",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002632#medial-part-of-medial-mammillary-nucleus-1",
   "name": "medial part of medial mammillary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002632",
   "synonym": [
-    "medial mamillary nucleus",
-    "medial mammillary nucleus",
     "medial mammillary nucleus (carpenter)",
-    "medial mammillary nucleus median part",
-    "medial part",
-    "medial part of the medial mammillary nucleus",
-    "medial subdivision of medial mammillary nucleus",
-    "median part",
-    "MML",
-    "nucleus corporis mamillaris medialis",
-    "nucleus medialis corpus mamillaris (Shantha)",
-    "pars medialis"
+    "medial mammillary nucleus, medial part",
+    "medial mammillary nucleus, median part",
+    "medial subdivision of medial mammillary nucleus"
   ]
 }
+

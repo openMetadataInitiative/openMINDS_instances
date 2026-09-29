@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/glialLimitingMembrane",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the blood brain barrier. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018687) ('is_a' and 'relationship')]",
+  "description": "The meshwork of astrocytic foot processes (glial end feet) covered by a basal lamina adjacent to the inner pial surface of the central nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018687)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018687#glial-limiting-membrane",
+  "name": "glial limiting membrane",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018687",
+  "synonym": [
+    "glia limitans"
+  ]
+}
+

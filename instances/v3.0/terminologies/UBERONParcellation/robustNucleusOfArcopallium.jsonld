@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/robustNucleusOfArcopallium",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a telencephalic nucleus. Is part of the arcopallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035808) ('is_a' and 'relationship')]",
+  "description": "A specialized nucleus within the intermediate archistriatum of songbirds, required for and active during the production of learned song. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035808)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035808#robust-nucleus-of-arcopallium",
+  "name": "robust nucleus of arcopallium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035808",
+  "synonym": null
+}
+

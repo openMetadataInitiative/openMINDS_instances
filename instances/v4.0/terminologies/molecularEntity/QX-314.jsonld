@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/QX-314",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "QX-314 is a quaternary lidocaine derivative, permanently charged, and lipophobic. [sourced from the [Merck website](https://www.sigmaaldrich.com/FR/fr/product/mm/552233)]",
+  "description": "QX-314 is a blocker of voltage-sensitive Na+ conductance when applied intracellularly. It suppresses the generation of Na+-dependent spikes from inside the cell membrane, without affecting Ca2+ currents or glutamate-activated currents. (adapted from the Merck website: https://www.sigmaaldrich.com/FR/fr/product/mm/552233)",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0523764",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:46937#qx-314",
+  "name": "QX-314",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_46937",
+  "synonym": [
+    "(2-((2,6-dimethylphenyl)amino)-2-oxoethyl)-triethylazanium",
+    "[2-[(2,6-dimethylphenyl)amino]-2-oxoethyl]-triethylazanium",
+    "2-((2,6-Dimethylphenyl)amino)-N,N,N-triethyl-2-oxoethanaminium",
+    "2-[(2,6-dimethylphenyl)amino]-N,N,N-triethyl-2-oxoethanaminium",
+    "QX 314"
+  ]
+}
+

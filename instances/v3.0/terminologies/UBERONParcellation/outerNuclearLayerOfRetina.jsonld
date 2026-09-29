@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/outerNuclearLayerOfRetina",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001789) ('is_a' and 'relationship')]",
+  "description": "The layer within the retina where the photoreceptor cell bodies reside. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001789)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001789#outer-nuclear-layer-of-retina",
+  "name": "outer nuclear layer of retina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001789",
+  "synonym": [
+    "neural retina outer nuclear layer",
+    "retina outer nuclear layer",
+    "retinal outer nuclear layer",
+    "stratum nucleare externum (retina)",
+    "stratum nucleare externum retinae"
+  ]
+}
+

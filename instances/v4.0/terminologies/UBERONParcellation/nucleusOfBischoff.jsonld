@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfBischoff",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a dorsal column nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018236)]",
+  "description": "A midline nucleus of the dorsal motor column found in animals with a prominent tail, including alligator, some birds, kangaroo, rat, shrew, great anteater. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018236)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018236#nucleus-of-bischoff",
+  "name": "nucleus of Bischoff",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018236",
+  "synonym": [
+    "nucleus of Bishoff"
+  ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorSuperiorFissureOfCerebellum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002814)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002814#posterior-superior-fissure-of-cerebellum",
+  "name": "posterior superior fissure of cerebellum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002814",
+  "synonym": [
+    "fissura post clivalis",
+    "post-clival fissure",
+    "postclival fissure",
+    "postlunate fissure",
+    "superior posterior cerebellar fissure"
+  ]
+}
+

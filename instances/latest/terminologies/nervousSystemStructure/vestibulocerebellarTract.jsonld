@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/vestibulocerebellarTract",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002552) ('is_a' and 'relationship')]",
+  "description": "White matter tract containing axons arising in the vestibular ganglion primarily projecting to the ipsilateral cerebellum via the inferior cerebellar peduncle (Heimer, L. The Human Brain, 2nd ed., 1995, pg 370). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002552)]",
+  "name": "vestibulocerebellar tract",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112459"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002552#vestibulocerebellar-tract-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002552",
+  "synonym": [
+    "vestibulocerebellar fibers"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cavernousSinus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003712)]",
+  "description": "The cavernous sinus (or lateral sellar compartment), within the human head, is a large collection of thin-walled veins creating a cavity bordered by the temporal bone of the skull and the sphenoid bone, lateral to the sella turcica. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003712)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003712#cavernous-sinus",
+  "name": "cavernous sinus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003712",
+  "synonym": null
+}
+

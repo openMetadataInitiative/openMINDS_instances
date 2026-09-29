@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/paratenialNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the midline nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002992) ('is_a' and 'relationship')]",
+  "description": "One of the median nuclei of the thalamus, situated ventral and medial to the stria medullaris. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002992)]",
+  "name": "paratenial nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108483"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002992#paratenial-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002992",
+  "synonym": [
+    "nucleus parataenialis",
+    "parataenial nucleus",
+    "paratenial thalamic nucleus"
+  ]
+}

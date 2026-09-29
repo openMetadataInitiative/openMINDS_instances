@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularSystemChoroidalFissure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the ventricle of nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002192) ('is_a' and 'relationship')]",
+  "description": "The narrow cleft along the medial wall of the lateral ventricle along the margins of which the choroid plexus is attached; it lies between the upper surface of the thalamus and lateral edge of the fornix in the central part of the ventricle and between the terminal stria and fimbria hippocampi in the inferior horn. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002192)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002192#ventricular-system-choroidal-fissure",
+  "name": "ventricular system choroidal fissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002192",
+  "synonym": [
+    "choroidal fissure of lateral ventricle",
+    "lateral ventricle choroid fissure",
+    "ventricular system choroid fissure"
+  ]
+}
+

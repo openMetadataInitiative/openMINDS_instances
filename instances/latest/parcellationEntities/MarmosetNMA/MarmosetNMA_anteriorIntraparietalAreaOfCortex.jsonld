@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_anteriorIntraparietalAreaOfCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "AIP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_anteriorIntraparietalAreaOfCortex",
+  "name": "anterior intraparietal area of cortex",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

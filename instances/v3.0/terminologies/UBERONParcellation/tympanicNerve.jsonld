@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/tympanicNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the glossopharyngeal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036216) ('is_a' and 'relationship')]",
+  "description": "The tympanic nerve (nerve of Jacobson) is a branch of the glossopharyngeal nerve found near the ear. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036216)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036216#tympanic-nerve",
+  "name": "tympanic nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036216",
+  "synonym": null
+}
+

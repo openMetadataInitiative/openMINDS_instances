@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortexCaudolateralArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AuCL",
+  "alternateName": [
+    "auditory cortex, caudolateral area"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexCaudolateralArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_auditoryCortexCaudolateralArea",
+  "name": "auditory cortex caudolateral area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellopontineAngle",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014908)]",
+  "description": "Junction between the cerebellum and the pons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014908)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014908#cerebellopontine-angle",
+  "name": "cerebellopontine angle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014908",
+  "synonym": null
+}
+

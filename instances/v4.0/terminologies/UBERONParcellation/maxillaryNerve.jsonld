@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/maxillaryNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the trigeminal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000377) ('is_a' and 'relationship')]",
+  "description": "The sensory nerve subdivision of the trigeminal nerve that transmits sensory information from the palate, upper teeth and gingiva, the skin between the palpebral fissure and the mouth, and from the nasal cavity and maxillary sinuses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000377)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000377#maxillary-nerve",
+  "name": "maxillary nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000377",
+  "synonym": [
+    "maxillary division [V2]",
+    "maxillary division [Vb]",
+    "maxillary division of fifth cranial nerve",
+    "maxillary division of trigeminal nerve (Vb; V2)",
+    "maxillary nerve [V2]",
+    "maxillary nerve [Vb]",
+    "nervus maxillaris (Vb; V2)",
+    "nervus maxillaris [v2]",
+    "nervus maxillaris [vb]",
+    "ramus maxillaris (ramus V2)",
+    "second division of fifth cranial nerve",
+    "second division of trigeminal nerve",
+    "trigeminal V nerve maxillary division"
+  ]
+}
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/arachnoidMater",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a leptomeninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002362)]",
+  "description": "A think avascular meningeal layer, between the pia mater and the dural mater. It is separated from the pia mater by the subarachnoid space. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002362)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002362#arachnoid-mater",
+  "name": "arachnoid mater",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002362",
+  "synonym": [
+    "arachnoid",
+    "arachnoid mater of neuraxis",
+    "arachnoid membrane"
+  ]
+}
+

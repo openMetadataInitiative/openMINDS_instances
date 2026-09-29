@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/centralNervousSystemGrayMatterLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nervous system cell part layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016548)]",
+  "description": "A layer of of the central nervous system that is part of gray matter. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016548)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016548#central-nervous-system-gray-matter-layer",
+  "name": "central nervous system gray matter layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016548",
+  "synonym": [
+    "CNS gray matter layer",
+    "CNS grey matter layer",
+    "gray matter layer of neuraxis",
+    "grey matter layer of neuraxis"
+  ]
+}
+

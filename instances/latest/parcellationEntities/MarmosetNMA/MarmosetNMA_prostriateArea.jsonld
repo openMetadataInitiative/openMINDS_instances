@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_prostriateArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "ProSt",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorCingulateMedialAndRetrosplenialCorticalRegions"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_prostriateArea",
+  "name": "prostriate area",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

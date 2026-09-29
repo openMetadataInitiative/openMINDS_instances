@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cortexOfCerebralLobe",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebral hemisphere gray matter. Is part of the neocortex and the lobe of cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016529) ('is_a' and 'relationship')]",
+  "description": "Grey matter neocortex region of a lobe of the cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016529)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016529#cortex-of-cerebral-lobe",
+  "name": "cortex of cerebral lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016529",
+  "synonym": [
+    "cortex of cerebral hemisphere lobe",
+    "cortex of lobe of cerebral hemisphere"
+  ]
+}
+

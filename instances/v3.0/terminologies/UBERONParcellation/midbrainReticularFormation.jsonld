@@ -4,19 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainReticularFormation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Midbrain reticular formation' is a nuclear complex of neuraxis and gray matter of midbrain. It is part of the midbrain tegmentum and reticular formation.",
-  "description": "Part of the reticular formation located in the midbrain tegmentum",
+  "definition": "Is a nuclear complex of neuraxis and gray matter of midbrain. Is part of the midbrain tegmentum and the reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002639) ('is_a' and 'relationship')]",
+  "description": "Part of the reticular formation located in the midbrain tegmentum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002639)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106943",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002639#midbrain-reticular-formation-1",
   "name": "midbrain reticular formation",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002639",
   "synonym": [
-    "formatio reticularis mesencephali",
-    "formatio reticularis tegmentalis",
-    "formatio reticularis tegmenti mesencephali",
-    "MBRF",
     "reticular formation of midbrain",
-    "substantia reticularis mesencephali",
     "tegmental reticular formation"
   ]
 }
+

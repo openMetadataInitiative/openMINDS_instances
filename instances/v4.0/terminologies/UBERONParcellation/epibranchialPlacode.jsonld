@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/epibranchialPlacode",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the peripheral nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003078)]",
+  "description": "Focal thickenings of the embryonic ectoderm that form immediately dorsal and caudal of the clefts between the pharyngeal arches and that produce the neuroblasts that migrate and condense to form the distal cranial ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003078)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003078#epibranchial-placode",
+  "name": "epibranchial placode",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003078",
+  "synonym": null
+}
+

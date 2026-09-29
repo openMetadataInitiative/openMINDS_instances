@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/ageCategory/perinate",
+  "@type": "https://openminds.om-i.org/types/AgeCategory",
+  "definition": "Life cycle stage of a subject that starts right before and ends right after birth.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0724163",
+  "knowledgeSpaceLink": null,
+  "name": "perinate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012101",
+  "synonym": [
+    "perinatal stage",
+    "perinate stage"
+  ]
+}

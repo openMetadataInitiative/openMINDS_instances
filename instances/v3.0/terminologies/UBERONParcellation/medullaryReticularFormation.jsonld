@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryReticularFormation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Medullary reticular formation' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata and reticular formation.",
-  "description": "Part of reticular formation located in the medulla",
+  "definition": "Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medulla oblongata and the reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002559) ('is_a' and 'relationship')]",
+  "description": "The reticular formation is a series of brain nuclei located in the medulla oblongata. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002559)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106744",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002559#medullary-reticular-formation-1",
   "name": "medullary reticular formation",
@@ -13,12 +13,10 @@
   "synonym": [
     "bulb reticular formation",
     "bulbar reticular formation",
-    "formatio reticularis myelencephali",
     "medulla oblongata reticular formation",
     "medulla oblonmgata reticular formation",
     "medullary reticular nucleus",
     "metepencephalon reticular formation",
-    "reticular formation",
     "reticular formation of bulb",
     "reticular formation of medulla",
     "reticular formation of medulla oblongata",
@@ -27,3 +25,4 @@
     "rhombencephalic reticular formation"
   ]
 }
+

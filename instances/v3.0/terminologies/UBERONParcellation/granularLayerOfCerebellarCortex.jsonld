@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/granularLayerOfCerebellarCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellar layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002956)]",
+  "description": "The granular layer is the innermost layer of the cerebellar cortex. This layer contains densely packed small neurons, mostly granule cells. Some Golgi cells are found at the outer border. Granule neurons send parallel fibers to the upper molecular layer, where they synapse with Purkinje cell dendrites. Mossy fibers from the pontine nuclei in the white matter synapse with granule cell axons, Golgi cell axons and unipolar brush interneuron axons at cerebellar glomeruli in the granule cell layer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002956)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002956#granular-layer-of-cerebellar-cortex",
+  "name": "granular layer of cerebellar cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002956",
+  "synonym": [
+    "cerebellar granular layer",
+    "cerebellar granule cell layer",
+    "cerebellar granule layer",
+    "cerebellum granule cell layer",
+    "cerebellum granule layer",
+    "granule cell layer of cerebellar cortex",
+    "stratum granulosum cerebelli",
+    "stratum granulosum corticis cerebelli"
+  ]
+}
+

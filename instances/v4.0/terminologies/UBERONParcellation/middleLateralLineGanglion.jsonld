@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/middleLateralLineGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a lateral line ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001483)]",
+  "description": "The middle lateral line ganglion develops from a cranial ectodermal placode and contains sensory neurons that innervate the middle lateral line. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001483)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2001483#middle-lateral-line-ganglion",
+  "name": "middle lateral line ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2001483",
+  "synonym": null
+}
+

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/armNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a forelimb nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003433)]",
+  "description": "A nerve that is part of an arm. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003433)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003433#arm-nerve",
+  "name": "arm nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003433",
+  "synonym": [
+    "brachial region nerve",
+    "nerve of arm",
+    "nerve of brachial region"
+  ]
+}
+

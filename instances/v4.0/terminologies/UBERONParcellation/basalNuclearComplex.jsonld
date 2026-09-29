@@ -4,18 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/basalNuclearComplex",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Basal nuclear complex' is a nuclear complex of neuraxis and gray matter of forebrain. It is part of the basal forebrain.",
-  "description": "The deep nuclei of telencephalic origin found in the basal region of the forebrain, The deep nuclei found in the basal forebrain.Large subcortical nuclear masses derived from the telencephalon and located in the basal regions of the cerebral hemispheres. (MeSH definition of Basal Ganglia in UMLS).",
+  "definition": "Is a nuclear complex of neuraxis and gray matter of forebrain. Is part of the basal forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006098) ('is_a' and 'relationship')]",
+  "description": "The deep nuclei of telencephalic origin found in the basal region of the forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006098)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101108",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006098#basal-nuclear-complex-1",
   "name": "basal nuclear complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006098",
   "synonym": [
-    "basal ganglia",
-    "basal ganglia (anatomic)",
     "basal nuclei",
-    "basal nuclei of the forebrain",
-    "corpus striatum (Savel'ev)",
-    "ganglia basales"
+    "basal nuclei of the forebrain"
   ]
 }
+

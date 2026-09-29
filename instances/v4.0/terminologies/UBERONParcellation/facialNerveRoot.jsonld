@@ -4,11 +4,18 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/facialNerveRoot",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Facial nerve root' is a root of cranial nerve. It is part of the metencephalon.",
-  "description": "A nerve root that extends_fibers_into a facial nerve.",
+  "definition": "Is a root of cranial nerve. Is part of the metencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004674) ('is_a' and 'relationship')]",
+  "description": "A nerve root that extends fibers into a facial nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004674)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104076",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004674#facial-nerve-root-1",
   "name": "facial nerve root",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004674",
-  "synonym": null
+  "synonym": [
+    "central part of facial nerve",
+    "facial nerve fibers",
+    "facial neural root",
+    "fibrae nervi facialis",
+    "root of facial nerve"
+  ]
 }
+

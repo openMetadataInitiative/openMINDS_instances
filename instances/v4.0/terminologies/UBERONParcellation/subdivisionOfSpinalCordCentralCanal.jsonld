@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/subdivisionOfSpinalCordCentralCanal",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the central canal of spinal cord. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014538)]",
+  "description": "A subdivision of the central canal of the spinal cord along its anterior-posterior axis. This is typically subdivided into cervical, thoracic, lumbar and sacral segments. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014538)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014538#regional-part-of-spinal-cord-central-canal",
+  "name": "subdivision of spinal cord central canal",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014538",
+  "synonym": [
+    "regional part of spinal cord central canal"
+  ]
+}
+

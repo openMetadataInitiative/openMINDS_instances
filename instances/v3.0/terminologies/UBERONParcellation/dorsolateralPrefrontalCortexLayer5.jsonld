@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortexLayer5",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cortical layer V. Is part of the dorsolateral prefrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035157) ('is_a' and 'relationship')]",
+  "description": "Layer 5 of dorsolateral prefrontal cortex lying deep to the internal granule cell layer 4 and cytoarchitectonically divisible into layers 5a and 5b. Layer 5a is characterized by the predominance of large pyramidal cell bodies. Layer 5b is pale in comparison. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035157)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035157#dorsolateral-prefrontal-cortex-layer-5",
+  "name": "dorsolateral prefrontal cortex layer 5",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035157",
+  "synonym": [
+    "layer V of dorsolateral prefrontal cortex"
+  ]
+}
+

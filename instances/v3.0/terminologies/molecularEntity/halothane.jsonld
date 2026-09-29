@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/Halothane",
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/halothane",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
   "definition": "Halothane is a haloalkane comprising ethane having three fluoro substituents at the 1-position as well as bromo- and chloro substituents at the 2-position. It has a role as an inhalation anaesthetic. It is a haloalkane, an organofluorine compound, an organochlorine compound and an organobromine compound.[adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:5615)]",
   "description": null,
@@ -23,3 +23,4 @@
     "Rhodialothan"
   ]
 }
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularReticularNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a lateral reticular nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016633)]",
+  "description": "The parvocellular reticular nucleus is part of the brain located dorsolateral to the nucleus reticularis pontis caudalis. The dorsal portion of the reticular nucleus has been shown to innervate the mesencephalic trigeminal nucleus and its surrounding area. Also, it projects to the facial nucleus, hypoglossal nucleus and parabrachial nucleus along with parts of the caudal parvocellular reticular formation. This nucleus is also involved in expiration with a part of the gigantocellular nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016633)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016633#parvocellular-reticular-nucleus",
+  "name": "parvocellular reticular nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016633",
+  "synonym": [
+    "nucleus reticularis parvocellularis",
+    "parvicellular reticular nucleus"
+  ]
+}
+

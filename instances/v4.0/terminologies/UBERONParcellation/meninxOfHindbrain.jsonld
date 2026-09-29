@@ -4,11 +4,16 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/meninxOfHindbrain",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Meninx of hindbrain' is a brain meninx. It is part of the hindbrain.",
-  "description": null,
+  "definition": "Is a brain meninx. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003291) ('is_a' and 'relationship')]",
+  "description": "A meninx that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003291)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0736366",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003291#meninx-of-hindbrain",
   "name": "meninx of hindbrain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003291",
-  "synonym": null
+  "synonym": [
+    "hindbrain meninges",
+    "hindbrain meninx",
+    "meninges of hindbrain"
+  ]
 }
+

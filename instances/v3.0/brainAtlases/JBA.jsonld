@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/brainAtlas/Julich-BrainAtlas",
+  "@id": "https://openminds.ebrains.eu/instances/brainAtlas/JBA",
   "@type": "https://openminds.ebrains.eu/sands/BrainAtlas",
   "abbreviation": "JBA",
   "author": null,
@@ -920,5 +920,7 @@
   "shortName": "Julich-Brain Atlas",
   "usedSpecies": {
     "@id": "https://openminds.ebrains.eu/instances/species/homoSapiens"
-  }
+  },
+  "ontologyIdentifier": null
 }
+

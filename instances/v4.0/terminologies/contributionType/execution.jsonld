@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/execution",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by carrying out substantive tasks according to an established plan, method, or procedure.",
+  "description": null,
+  "name": "execution",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

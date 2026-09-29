@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sympatheticTrunk",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the sympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000407) ('is_a' and 'relationship')]",
+  "description": "One of a a paired bundle of nerve fibers plus ganglia that run from the base of the skull to the coccyx. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000407)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000407#sympathetic-trunk",
+  "name": "sympathetic trunk",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000407",
+  "synonym": [
+    "gangliated cord",
+    "sympathetic chain",
+    "sympathetic ganglionic chain"
+  ]
+}
+

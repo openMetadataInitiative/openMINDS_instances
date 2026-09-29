@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralNucleusOfPosteriorCommissure",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Ventral nucleus of posterior commissure' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
-  "description": "",
+  "definition": "Is a brainstem nucleus and midbrain nucleus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002044) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107753",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002044#nucleus-of-darkschewitsch",
   "name": "ventral nucleus of posterior commissure",
@@ -13,15 +13,7 @@
   "synonym": [
     "Darkshevich nucleus",
     "Darkshevich's nucleus",
-    "Dk",
-    "nucleus accessorius",
-    "nucleus commissurae posterioris (Riley)",
-    "nucleus Darkschewitsch",
-    "nucleus Darkschewitschi",
-    "nucleus fasciculi longitudinalis medialis",
-    "Nucleus of Darkschewitsch",
-    "nucleus of Darkschewitsch (Cajal)",
-    "nucleus of Darkshevich",
-    "nucleus of the posterior commissure (Darkschewitsch)"
+    "nucleus of Darkschewitsch"
   ]
 }
+

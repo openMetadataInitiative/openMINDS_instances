@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_medialIntraparietalAreaOfCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "MIP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_medialIntraparietalAreaOfCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_medialIntraparietalAreaOfCortex",
+  "name": "medial intraparietal area of cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

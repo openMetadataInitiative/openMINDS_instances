@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/accessoryCiliaryGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a ganglion of ciliary nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035776)]",
+  "description": "A parasympathetic ganglion located on the short ciliary nerve differentiated from the main ciliary ganglion by virtue of the fact that it had no root derived directly from the inferior trunk of the oculomotor nerve and it never attaches to this nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035776)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035776#accessory-ciliary-ganglion",
+  "name": "accessory ciliary ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035776",
+  "synonym": null
+}
+

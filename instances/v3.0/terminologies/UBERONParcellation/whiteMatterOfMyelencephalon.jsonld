@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfMyelencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a white matter of hindbrain. Is part of the myelencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019262) ('is_a' and 'relationship')]",
+  "description": "A white matter that is part of the myelencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019262)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0019262#white-matter-of-myelencephalon",
+  "name": "white matter of myelencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019262",
+  "synonym": [
+    "myelencephalic white matter"
+  ]
+}
+

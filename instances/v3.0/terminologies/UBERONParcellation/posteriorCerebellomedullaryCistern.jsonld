@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCerebellomedullaryCistern",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellomedullary cistern. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005974)]",
+  "description": "A space between the cerebellum and the dorsal surface of the medulla. The cisterna magna (or cerebellomedullary cistern) is one of three principal openings in the subarachnoid space between the arachnoid and pia mater layers of the meninges surrounding the brain. The openings are collectively referred to as cisterns. The cisterna magna is located between the cerebellum and the dorsal surface of the medulla oblongata. Cerebrospinal fluid produced in the fourth ventricle drains into the cisterna magna via the lateral apertures and median aperture. The two other principal cisterns are the pontine cistern located between the pons and the medulla, and the interpeduncular cistern located between the cerebral peduncles. Cerebral spinal fluid can also be obtained by puncture of the cisterna magna (cistern puncture). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005974)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005974#posterior-cerebellomedullary-cistern",
+  "name": "posterior cerebellomedullary cistern",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005974",
+  "synonym": [
+    "cisterna cerebellomedullaris posterior",
+    "cisterna magna"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/dentateGyrusMolecularLayerInner",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a layer of dentate gyrus. Is part of the dentate gyrus molecular layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022347) ('is_a' and 'relationship')]",
+  "description": "Inner third of the dentate gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022347)]",
+  "name": "dentate gyrus molecular layer inner",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0022347#dentate-gyrus-molecular-layer-inner",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022347",
+  "synonym": null
+}

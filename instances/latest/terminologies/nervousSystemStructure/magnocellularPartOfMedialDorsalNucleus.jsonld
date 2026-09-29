@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/magnocellularPartOfMedialDorsalNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gray matter of diencephalon. Is part of the medial dorsal nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002647) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "magnocellular part of medial dorsal nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106473"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002647#magnocellular-part-of-medial-dorsal-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002647",
+  "synonym": [
+    "dorsomedial thalamic nucleus, magnocellular part",
+    "magnocellular mediodorsal nucleus",
+    "magnocellular nucleus of medial dorsal nucleus of thalamus",
+    "magnocellular part of dorsomedial nucleus",
+    "magnocellular part of mediodorsal nucleus",
+    "nucleus medialis dorsalis, pars magnocellularis",
+    "nucleus medialis fibrosus",
+    "nucleus medialis fibrosus (hassler)",
+    "pars magnocellularis nuclei mediodorsalis thalami"
+  ]
+}

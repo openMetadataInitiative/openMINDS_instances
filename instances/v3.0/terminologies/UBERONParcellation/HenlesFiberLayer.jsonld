@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/HenlesFiberLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nervous system cell part layer. Is part of the retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_8000005) ('is_a' and 'relationship')]",
+  "description": "This layer contains bundles of unmyelinated cone and rod photoreceptor axons terminating in the pedicles and spherules that synapse in the retinal outer plexiform layer (OPL). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_8000005)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Henle's fiber layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_8000005",
+  "synonym": [
+    "Henle fiber layer",
+    "HFL",
+    "nerve fiber layer of Henle"
+  ]
+}
+

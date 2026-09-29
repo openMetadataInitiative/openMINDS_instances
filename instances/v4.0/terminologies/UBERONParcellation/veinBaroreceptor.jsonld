@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/veinBaroreceptor",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a low-pressure baroreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018394)]",
+  "description": "A baroreceptor that located in a vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018394)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018394#vein-baroreceptor",
+  "name": "vein baroreceptor",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018394",
+  "synonym": null
+}
+

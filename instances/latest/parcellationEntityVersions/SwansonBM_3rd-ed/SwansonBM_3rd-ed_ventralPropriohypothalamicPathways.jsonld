@@ -10,10 +10,13 @@
   "correctedName": "ventral propriohypothalamic pathways",
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPropriohypothalamicPathways"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_ventralPropriohypothalamicPathways",
   "name": "medial propriohypothalamic pathways",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "3rd ed.",
-  "versionInnovation": null
+  "versionSpecification": null
 }

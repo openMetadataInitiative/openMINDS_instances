@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/dorsalNerveOfPenis",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a pelvis nerve and nerve of penis. Is part of the pudendal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019197) ('is_a' and 'relationship')]",
+  "description": "The deep terminal division of the pudendal nerve that runs along the dorsum of the penis and innervates the the corpus cavernosum penis, the prepuce and the glans penis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019197)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0019197#dorsal-nerve-of-penis",
+  "name": "dorsal nerve of penis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019197",
+  "synonym": [
+    "nervus dorsalis penis",
+    "nervus dorsalis penis <male>"
+  ]
+}
+

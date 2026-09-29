@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/applicationProgrammingInterface",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
+  "definition": "A set of rules and protocols that allows different software applications to communicate with each other, enabling them to access specific functions or data.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "application programming interface",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/entity/Q165194",
+  "synonym": [
+    "API"
+  ]
+}
+

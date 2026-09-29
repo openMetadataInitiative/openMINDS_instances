@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lacrimalNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the ophthalmic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011096) ('is_a' and 'relationship')]",
+  "description": "The lacrimal nerve is the smallest of the three branches of the ophthalmic division of the trigeminal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011096)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011096#lacrimal-nerve",
+  "name": "lacrimal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011096",
+  "synonym": [
+    "nervus lacrimalis"
+  ]
+}
+

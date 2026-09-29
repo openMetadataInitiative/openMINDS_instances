@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nuclearComplexOfNeuraxis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a gray matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007245)]",
+  "description": "Gray matter of the central nervous system which is a collection of clustered nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007245)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007245#nuclear-complex-of-neuraxis",
+  "name": "nuclear complex of neuraxis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007245",
+  "synonym": null
+}
+

@@ -4,18 +4,16 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/arcuateFasciculus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "",
-  "description": "The 'arcuate fasciculus' is a white matter fibre bundle connecting the posterior part of the temporoparietal junction with the frontal cortex in the brain. It is is a cerebral nerve fasciculus.",
+  "definition": "Is a cerebral nerve fasciculus. Is part of the superior longitudinal fasciculus and the forebrain ipsilateral fiber tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035937) ('is_a' and 'relationship')]",
+  "description": "The arcuate fasciculus (Latin, curved bundle) is the neural pathway connecting the posterior part of the temporoparietal junction with the frontal cortex in the brain and is now considered as part of the Superior longitudinal fasciculus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035937)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0731407",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035937#arcuate-fasciculus",
   "name": "arcuate fasciculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035937",
   "synonym": [
-    "AF",
     "arcuate fascicle",
-    "ARF",
     "cerebral arcuate fasciculus",
-    "fasciculus arcuatus",
-    "fibrae arcuatae cerebri"
+    "fasciculus arcuatus"
   ]
 }
+

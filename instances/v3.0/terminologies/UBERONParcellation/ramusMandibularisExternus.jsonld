@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ramusMandibularisExternus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anteroventral lateral line nerve (AVLLN). [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010765)]",
+  "description": "Runs together with motor fibers of the hyomandibular trunk of VII. The mandibularis externus of AVLLN branches into three ramules. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010765)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010765#ramus-mandibularis-externus",
+  "name": "ramus mandibularis externus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010765",
+  "synonym": null
+}
+

@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/magnetizationTransferPulseSequence",
+  "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
+  "definition": "A combination of two radiofrequency pulses, the first off-resonance, the second in resonance with the Larmor frequency of free-water protons.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "magnetization transfer pulse sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "MT pulse sequence"
+  ]
+}

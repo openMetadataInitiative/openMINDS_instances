@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/meninxOfTelencephalon",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a forebrain meninges. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003289) ('is_a' and 'relationship')]",
+  "description": "A meninx that is part of a telencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003289)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003289#meninx-of-telencephalon",
+  "name": "meninx of telencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003289",
+  "synonym": [
+    "telencephalon meninx"
+  ]
+}
+

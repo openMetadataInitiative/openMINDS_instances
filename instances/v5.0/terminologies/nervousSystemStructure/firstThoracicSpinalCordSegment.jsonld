@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/firstThoracicSpinalCordSegment",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006457)]",
+  "description": null,
+  "name": "first thoracic spinal cord segment",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0006457#first-thoracic-spinal-cord-segment-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006457",
+  "synonym": [
+    "t1 segment",
+    "T1 spinal cord segment"
+  ]
+}

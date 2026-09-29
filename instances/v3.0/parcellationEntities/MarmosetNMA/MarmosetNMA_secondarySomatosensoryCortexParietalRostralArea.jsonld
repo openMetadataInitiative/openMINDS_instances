@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_secondarySomatosensoryCortexParietalRostralArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "S2PR",
+  "alternateName": [
+    "secondary somatosensory cortex, parietal rostral area"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_somatosensoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_secondarySomatosensoryCortexParietalRostralArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_secondarySomatosensoryCortexParietalRostralArea",
+  "name": "secondary somatosensory cortex parietal rostral area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

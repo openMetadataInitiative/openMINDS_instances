@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/species/cricetulusGriseus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "definition": "The Chinese hamster (Cricetulus griseus or Cricetulus aureus) is a rodent in the genus Cricetulus of the subfamily Cricetidae.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102635",
+  "knowledgeSpaceLink": null,
+  "name": "Cricetulus griseus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_10029",
+  "synonym": [
+    "Cricetulus aureus",
+    "Chinese hamster"
+  ]
+}
+

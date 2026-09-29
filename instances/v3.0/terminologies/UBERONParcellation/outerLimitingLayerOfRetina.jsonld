@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/outerLimitingLayerOfRetina",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a limiting membrane of retina. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001788)]",
+  "description": "The row of jucntional complexes between the plasma membranes of rod segments and the Muller glia cells; this barrier separates the layer of inner and outer segments of the rods and cones from the outer nuclear layer and forms a blood-retina barrier. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001788)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001788#outer-limiting-layer-of-retina",
+  "name": "outer limiting layer of retina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001788",
+  "synonym": [
+    "external limiting lamina of retina",
+    "external limiting membrane",
+    "external limiting membrane of retina",
+    "outer limiting membrane",
+    "outer limiting membrane of retina",
+    "retina external limiting lamina",
+    "retina outer limiting membrane",
+    "stratum limitans externum (retina)",
+    "stratum limitans externum retinae"
+  ]
+}
+

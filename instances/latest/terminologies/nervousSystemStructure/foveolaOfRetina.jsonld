@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/foveolaOfRetina",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is part of the fovea centralis. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018107)]",
+  "description": "A region of the fovea centralis that lies in the center of the fovea and contains only cone cells, and a cone-shaped zone of Müller cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018107)]",
+  "name": "foveola of retina",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0018107#foveola-of-retina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018107",
+  "synonym": null
+}

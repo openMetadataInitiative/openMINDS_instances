@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/sensoryReceptor",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nerve ending. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012451)]",
+  "description": "A sensory nerve ending that responds to a stimulus in the internal or external environment of an organism. In response to stimuli the sensory receptor initiates sensory transduction by creating graded potentials or action potentials in the same cell or in an adjacent one. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012451)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0012451#sensory-receptor",
+  "name": "sensory receptor",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012451",
+  "synonym": [
+    "peripheral ending of sensory neuron"
+  ]
+}
+

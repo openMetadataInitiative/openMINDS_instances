@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/periventricularPretectalNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a diencephalic nucleus and pretectal nucleus. Is part of the synencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035569) ('is_a' and 'relationship')]",
+  "description": "A nucleus medial to the central pretectal nucleus in the periventricular zone. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035569)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035569#periventricular-pretectal-nucleus",
+  "name": "periventricular pretectal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035569",
+  "synonym": [
+    "periventricular pretectum",
+    "pretectal periventricular nucleus"
+  ]
+}
+

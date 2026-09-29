@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/chordaTympaniBranchOfFacialNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cranial nerve. Is part of the facial nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009675) ('is_a' and 'relationship')]",
+  "description": "The chorda tympani is a nerve that branches from the facial nerve (cranial nerve VII) inside the facial canal, just before the facial nerve exits the skull via the stylomastoid foramen. Chorda tympani is a branch of the facial nerve (the seventh cranial nerve) that serves the taste buds in the front of the tongue, runs through the middle ear, and carries taste messages to the brain. The chorda tympani is part of one of three cranial nerves that are involved in taste. The taste system involves a complicated feedback loop, with each nerve acting to inhibit the signals of other nerves. The chorda tympani appears to exert a particularly strong inhibitory influence on other taste nerves, as well as on pain fibers in the tongue. When the chorda tympani is damaged, its inhibitory function is disrupted, leading to less inhibited activity in the other nerves. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009675)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009675#chorda-tympani-branch-of-facial-nerve",
+  "name": "chorda tympani branch of facial nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009675",
+  "synonym": [
+    "chorda tympani",
+    "facial VII nerve chorda tympani branch",
+    "parasympathetic root of submandibular ganglion",
+    "radix parasympathica ganglii submandibularis"
+  ]
+}
+

@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/abducensNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001646)]",
+  "description": "Cranial nerve that runs to the eye muscles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001646)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001646#abducens-nerve-1",
+  "name": "abducens nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001646",
+  "synonym": [
+    "abducens nerve [VI]",
+    "abducens nerve tree",
+    "abducens VI nerve",
+    "abducent nerve [VI]",
+    "lateral rectus nerve",
+    "nervus abducens",
+    "nervus abducens [VI]",
+    "sixth cranial nerve"
+  ]
+}
+

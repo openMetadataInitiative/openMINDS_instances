@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/somatosensoryCortex",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "Area of the parietal lobe concerned with receiving general sensations. It lies posterior to the central sulcus.",
-  "description": null,
+  "definition": "Is a functional part of brain. Is part of the postcentral gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008930) ('is_a' and 'relationship')]",
+  "description": "Area of the parietal lobe concerned with receiving general sensations. It lies posterior to the central sulcus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008930)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110752",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008930#somatosensory-cortex",
   "name": "somatosensory cortex",
@@ -14,3 +14,4 @@
     "somatic sensory cortex"
   ]
 }
+

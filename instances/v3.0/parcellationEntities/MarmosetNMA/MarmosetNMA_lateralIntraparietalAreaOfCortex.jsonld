@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_lateralIntraparietalAreaOfCortex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "LIP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_lateralIntraparietalAreaOfCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_lateralIntraparietalAreaOfCortex",
+  "name": "lateral intraparietal area of cortex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+
