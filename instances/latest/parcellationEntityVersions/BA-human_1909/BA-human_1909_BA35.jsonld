@@ -16,7 +16,6 @@
   "hasAnnotation": [
     {
       "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
-      "anchorPoint": null,
       "criteria": null,
       "criteriaQualityType": {
         "@id": "https://openminds.om-i.org/instances/criteriaQualityType/asserted"
@@ -50,5 +49,5 @@
   "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006102",
   "relationAssessment": null,
   "versionIdentifier": "1909",
-  "versionInnovation": null
+  "versionSpecification": null
 }

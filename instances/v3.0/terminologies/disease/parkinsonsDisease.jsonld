@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "Parkinson's disease",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_14330",
-  "synonym": null
+  "synonym": [
+    "Parkinson disease"
+  ]
 }

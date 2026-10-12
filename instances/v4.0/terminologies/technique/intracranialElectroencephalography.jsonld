@@ -10,5 +10,8 @@
   "knowledgeSpaceLink": null,
   "name": "intracranial electroencephalography",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "iEEG",
+    "intracranial EEG"
+  ]
 }

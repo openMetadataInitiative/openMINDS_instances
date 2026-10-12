@@ -11,7 +11,11 @@
   "fileExtension": [
     ".mmcif"
   ],
-  "isBasedOn": null,
+  "isBasedOn": [
+    {
+      "@id": "https://openminds.om-i.org/instances/contentTypes/text_plain"
+    }
+  ],
   "name": "chemical/vnd.wwpdb.pdbx-mmcif.v5+plain",
   "specification": "https://mmcif.wwpdb.org/docs/user-guide/guide.html",
   "synonym": [

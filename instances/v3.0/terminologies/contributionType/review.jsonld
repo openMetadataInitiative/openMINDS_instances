@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/contributionType/review",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
-  "definition": "A contribution type of a role-bearing entity realized by critically assessing a target entity through expert judgment to evaluate its quality, validity, or suitability.",
+  "definition": "A contribution type of a role-bearing entity realized by critically assessing a target entity through expert judgment to evaluate its quality, validity, or suitability and, where appropriate, identify deficiencies or opportunities for improvement and recommend changes.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
