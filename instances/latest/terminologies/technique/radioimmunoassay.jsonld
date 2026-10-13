@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/radioimmunoassay",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "An immunoassay that detects or quantifies a target substance by measuring radioactivity associated with the binding of radiolabeled antigens or antibodies in an antigen–antibody reaction.",
+  "description": null,
+  "name": "radioimmunoassay",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0486472"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0018419",
+  "synonym": [
+    "radioimmunological assay", 
+    "RIA"
+}
