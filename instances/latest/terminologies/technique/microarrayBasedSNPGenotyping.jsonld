@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/microarrayBasedSNPGenotyping",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Any genotyping technique that uses DNA microarrays with predefined probes to determine single-nucleotide polymorphism (SNP) genotypes through allele-specific hybridization or associated detection reactions, potentially incorporating DNA amplification.",
+  "description": null,
+  "name": "microarray-based SNP genotyping",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "microarray-based single-nucleotide polymorphism genotyping",
+    "single-nucleotide polymorphism array genotyping",
+    "single-nucleotide polymorphism chip genotyping",
+    "single-nucleotide polymorphism microarray genotyping",
+    "SNP array genotyping",
+    "SNP chip genotyping",
+    "SNP microarray genotyping"
+  ]
+}
