@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/fluorescencePolarizationImmunoassay",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "An immunoassay that detects or quantifies a target substance by measuring changes in the polarization of fluorescence emitted by labeled molecules as their rotational mobility changes upon binding to antibodies.",
+  "description": null,
+  "name": "fluorescence polarization immunoassay",
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0024787",
+  "synonym": [
+    "FPIA",
+    "polarization fluoroimmunoassay"
+  ]
+}
