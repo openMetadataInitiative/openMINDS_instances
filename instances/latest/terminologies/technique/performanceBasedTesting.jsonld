@@ -2,17 +2,17 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/technique/objectivePerformanceBasedTesting",
+  "@id": "https://openminds.om-i.org/instances/technique/performanceBasedTesting",
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "An assessment technique that evaluates the abilities, skills, or functional performance of a subject through the direct observation and standardized measurement of performance on predefined tasks.",
   "description": null,
-  "name": "objective performance-based testing",
+  "name": "performance-based testing",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,
   "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "objective performance testing",
-    "objective performance-based assessment"
+    "performance testing",
+    "performance-based assessment"
   ]
 }
