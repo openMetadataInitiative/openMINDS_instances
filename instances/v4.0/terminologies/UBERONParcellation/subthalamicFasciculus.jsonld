@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/subthalamicFasciculus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a fasciculus of brain. Is part of the forebrain ipsilateral fiber tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022256) ('is_a' and 'relationship')]",
+  "description": "The subthalamic fasciculus is a tract which connects the subthalamic nucleus and the globus pallidus. It is a bidirectional connection between the GP and the subthalamic nucleus, including (1) fibers running from the GPe to the subthalamic nucleus, and (2) fibers running from the STN back to the GP. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022256)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022256#subthalamic-fasciculus",
+  "name": "subthalamic fasciculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022256",
+  "synonym": null
+}
+

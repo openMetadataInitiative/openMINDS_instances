@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/text_prs.fallenstein.rst",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".txt",
     ".rst"
   ],
+  "isBasedOn": null,
   "name": "text/prs.fallenstein.rst",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

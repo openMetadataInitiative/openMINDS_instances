@@ -12,11 +12,10 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_inferiorFrontalGyrus"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "DKA_parsOpercularis",
   "name": "pars opercularis",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/opercularPartOfInferiorFrontalGyrus"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/opercularPartOfInferiorFrontalGyrus"
   }
 }

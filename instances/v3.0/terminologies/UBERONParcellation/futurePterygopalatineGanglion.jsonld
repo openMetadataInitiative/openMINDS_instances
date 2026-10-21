@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/futurePterygopalatineGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010128)]",
+  "description": "A ganglion that has the potential to develop into a pterygopalatine ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010128)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010128#future-pterygopalatine-ganglion",
+  "name": "future pterygopalatine ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010128",
+  "synonym": [
+    "future Meckel ganglion",
+    "future Meckel's ganglion",
+    "future nasal ganglion",
+    "future palatine ganglion",
+    "future pterygopalatine ganglia",
+    "future sphenopalatine ganglion",
+    "future sphenopalatine parasympathetic ganglion"
+  ]
+}
+

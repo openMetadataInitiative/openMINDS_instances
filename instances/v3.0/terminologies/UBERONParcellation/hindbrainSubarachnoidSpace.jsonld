@@ -4,11 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainSubarachnoidSpace",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Hindbrain subarachnoid space' is a subarachnoid space. It is part of the hindbrain.",
-  "description": null,
+  "definition": "Is a subarachnoid space. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005219) ('is_a' and 'relationship')]",
+  "description": "A subarachnoid space that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005219)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0726998",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005219#hindbrain-subarachnoid-space",
   "name": "hindbrain subarachnoid space",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005219",
-  "synonym": null
+  "synonym": [
+    "subarachnoid space hindbrain"
+  ]
 }
+

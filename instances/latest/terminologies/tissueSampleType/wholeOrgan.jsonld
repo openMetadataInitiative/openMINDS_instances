@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/TissueSampleType",
   "definition": "A whole organ sample from a living or deceased multicellular organism body.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "whole organ",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

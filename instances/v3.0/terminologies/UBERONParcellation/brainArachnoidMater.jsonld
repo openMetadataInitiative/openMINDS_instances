@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/brainArachnoidMater",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an arachnoid mater and brain meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005397)]",
+  "description": "An arachnoid mater that surrounds a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005397)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005397#brain-arachnoid-mater",
+  "name": "brain arachnoid mater",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005397",
+  "synonym": [
+    "arachnoidea mater cranialis",
+    "arachnoidea mater encephali",
+    "brain arachnoid matter",
+    "cranial arachnoid mater"
+  ]
+}
+

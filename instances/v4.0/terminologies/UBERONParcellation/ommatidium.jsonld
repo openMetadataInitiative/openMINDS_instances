@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ommatidium",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an arthropod sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000971)]",
+  "description": "The smallest morphological and functional unit of the compound eye that consists of a usually limited and often constant number of rhabdomeric photoreceptor cells, cornea-secreting epithelial cells, and interommatidial pigment cells, and may additionally contain crystalline cone cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000971)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000971#ommatidium",
+  "name": "ommatidium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000971",
+  "synonym": [
+    "omatidium"
+  ]
+}
+

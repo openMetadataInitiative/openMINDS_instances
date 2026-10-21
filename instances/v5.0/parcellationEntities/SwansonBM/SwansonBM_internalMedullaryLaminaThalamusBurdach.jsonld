@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_internalMedullaryLaminaThalamusBurdach",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "im",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_internalMedullaryLaminaThalamusBurdach",
+  "name": "internal medullary lamina thalamus [Burdach]",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

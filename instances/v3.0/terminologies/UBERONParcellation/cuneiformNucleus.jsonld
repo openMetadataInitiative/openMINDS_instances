@@ -4,18 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cuneiformNucleus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Cuneiform nucleus' is a nucleus of midbrain reticular formation.",
-  "description": "",
+  "definition": "Is a nucleus of midbrain reticular formation. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002696)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102671",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002696#cuneiform-nucleus-1",
   "name": "cuneiform nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002696",
   "synonym": [
-    "area parabigeminalis (Mai)",
-    "CnF",
-    "cuneiform nucleus (Castaldi)",
-    "cunieform nucleus",
-    "nucleus cuneiformis",
     "parabigeminal area (mai)"
   ]
 }
+

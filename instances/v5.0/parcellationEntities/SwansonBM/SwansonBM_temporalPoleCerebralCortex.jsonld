@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_temporalPoleCerebralCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "TEP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_temporalPoleCerebralCortex",
+  "name": "temporal pole, cerebral cortex",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

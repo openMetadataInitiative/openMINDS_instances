@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/C3SegmentOfCervicalSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006488)]",
+  "description": "The segment of the spinal cord that corresponds to the third cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006488)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006488#third-cervical-spinal-cord-segment",
+  "name": "C3 segment of cervical spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006488",
+  "synonym": [
+    "C3 segment",
+    "C3 spinal cord segment",
+    "third cervical spinal cord segment"
+  ]
+}
+

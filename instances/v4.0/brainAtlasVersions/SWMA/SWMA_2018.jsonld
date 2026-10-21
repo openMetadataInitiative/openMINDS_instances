@@ -20,9 +20,9 @@
   "fullName": "Atlas of Superficial White Matter Fibre Bundles",
   "funding": null,
   "hasTerminology": {
-		"@type": "https://openminds.om-i.org/types/ParcellationTerminologyVersion",
-		"dataLocation": null,
-		"hasEntity": [
+    "@type": "https://openminds.om-i.org/types/ParcellationTerminologyVersion",
+    "dataLocation": null,
+    "hasEntity": [
       {
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_2018_CAC-PoCi_0"
       },
@@ -219,15 +219,15 @@
         "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SWMA_2018_Tr-SF_0"
       }
     ],
-		"ontologyIdentifier": null
-	},
+    "ontologyIdentifier": null
+  },
   "homepage": null,
   "howToCite": null,
   "isAlternativeVersionOf": null,
   "isNewVersionOf": null,
   "keyword": null,
   "license": {
-    "@id": "https://openminds.om-i.org/instances/licenses/ccByNcSa4.0"
+    "@id": "https://openminds.om-i.org/instances/licenses/CC-BY-NC-SA-4.0"
   },
   "majorVersionIdentifier": null,
   "ontologyIdentifier": null,
@@ -242,3 +242,4 @@
   "versionIdentifier": "2018",
   "versionInnovation": "This is the first released version of this brain atlas."
 }
+

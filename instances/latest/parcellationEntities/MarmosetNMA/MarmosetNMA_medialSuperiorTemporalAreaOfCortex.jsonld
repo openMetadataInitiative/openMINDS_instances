@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_medialSuperiorTemporalAreaOfCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "MST",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_visualCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_medialSuperiorTemporalAreaOfCortex",
+  "name": "medial superior temporal area of cortex",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

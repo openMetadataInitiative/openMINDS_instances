@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/avidinBiotinComplexStaining",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": null,
+  "description": null,
+  "name": "avidin-biotin complex staining",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "ABC staining"
+  ]
+}

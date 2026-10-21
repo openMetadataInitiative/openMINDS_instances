@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_secondaryVisualCortexMediolateralArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "V2ML",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_secondaryVisualCortexMediolateralArea",
+  "name": "secondary visual cortex, mediolateral area",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

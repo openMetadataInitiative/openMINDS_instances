@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfDorsalThalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of thalamus. Is part of the dorsal thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015233) ('is_a' and 'relationship')]",
+  "description": "A nucleus of brain that is part of a dorsal thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015233)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015233#nucleus-of-dorsal-thalamus",
+  "name": "nucleus of dorsal thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015233",
+  "synonym": [
+    "dorsal thalamic nucleus",
+    "nucleus of thalamus proper"
+  ]
+}
+

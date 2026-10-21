@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/neuralTubeMantleLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a differentiating neuroepithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004061)]",
+  "description": "The layer of glia and differentiating neurons that forms as a second layer around the germinal neuroepithium; as this develops it comes to lie between the ventricular and marginal layers and includes the basal and alar plates. Develops into neurons and glia forming a gray matter layer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004061)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004061#neural-tube-mantle-layer",
+  "name": "neural tube mantle layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004061",
+  "synonym": [
+    "neural tube intermediate zone"
+  ]
+}
+

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Optogenetic inhibition is a genetic technique in which the activity of specific neuron populations is decreased using light of a particular wavelength. This can be achieved by expressing light-sensitive ion channels, pumps or enzymes specifically in the target neurons.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "optogenetic inhibition",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

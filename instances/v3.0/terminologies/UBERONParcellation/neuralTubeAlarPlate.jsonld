@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/neuralTubeAlarPlate",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the neural tube mantle layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005882) ('is_a' and 'relationship')]",
+  "description": "The mantle layer of the neural tube that lies dorsal to the sulcus limitans and contains primarily sensory neurons and interneurons involved in communication of sensory impulses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005882)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005882#neural-tube-alar-plate",
+  "name": "neural tube alar plate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005882",
+  "synonym": [
+    "alar plate",
+    "alar plate of neural tube"
+  ]
+}
+

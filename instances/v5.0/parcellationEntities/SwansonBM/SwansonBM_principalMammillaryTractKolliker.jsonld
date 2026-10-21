@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_principalMammillaryTractKolliker",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "pm",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_principalMammillaryTractKolliker",
+  "name": "principal mammillary tract [Kölliker]",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

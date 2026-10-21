@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/TissueSampleAttribute",
   "definition": "A specimen that has been dyed using chemical or biochemical substances for general colorization of e.g., molecules or subcellular components, that can be visualized under the right light exposure.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "stained",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

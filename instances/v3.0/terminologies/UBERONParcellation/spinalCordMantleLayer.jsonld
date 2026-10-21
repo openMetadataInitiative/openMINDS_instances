@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinalCordMantleLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neural tube mantle layer. Is part of the future spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009583) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009583#spinal-cord-mantle-layer",
+  "name": "spinal cord mantle layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009583",
+  "synonym": [
+    "mantle layer lateral wall spinal cord",
+    "spinal cord lateral wall mantle layer"
+  ]
+}
+

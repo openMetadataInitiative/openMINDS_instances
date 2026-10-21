@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/organ/liver",
+  "@type": "https://openminds.om-i.org/types/Organ",
+  "definition": "'Liver' is an organ that is part of the digestive system of vertebrate animals.",
+  "description": "An exocrine gland which secretes bile and functions in metabolism of protein and carbohydrate and fat, synthesizes substances involved in the clotting of the blood, synthesizes vitamin A, detoxifies poisonous substances, stores glycogen, and breaks down worn-out erythrocytes[GO].",
+  "name": "liver",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0725629"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002107#liver",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002107",
+  "synonym": null
+}

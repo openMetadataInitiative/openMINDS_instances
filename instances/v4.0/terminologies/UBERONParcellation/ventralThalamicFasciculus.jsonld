@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralThalamicFasciculus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a fasciculus of brain. Is part of the ventral thalamus and the forebrain ipsilateral fiber tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022254) ('is_a' and 'relationship')]",
+  "description": "The thalamic fasciculus is a component of the subthalamus. It is sometimes considered synonymous with 'field H1 of Forel'. Nerve fibres forming a composite bundle containing cerebellothalamic (crossed) and pallidothalamic (uncrossed) fibres that is insinuated between the thalamus and zona incerta. The thalamic fasciculus consists of the joint fibers of the ansa lenticularis and the lenticular fasciculus, coming from different portions of the medial globus pallidus, before they jointly enter the ventral lateral nucleus of the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022254)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022254#ventral-thalamic-fasciculus",
+  "name": "ventral thalamic fasciculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022254",
+  "synonym": [
+    "area subthalamica tegmentalis, pars dorsomedialis",
+    "area tegmentalis H1",
+    "area tegmentalis, pars dorsalis",
+    "area tegmentalis, pars dorsalis (Forel)",
+    "campus foreli (pars dorsalis)",
+    "fasciculus thalamicus",
+    "fasciculus thalamicus [h1]",
+    "fasciculus thalamicus hypothalami",
+    "field H1",
+    "forel's field h1",
+    "forelli campus I",
+    "h1 bundle of Forel",
+    "h1 field of Forel",
+    "tegmental area h1",
+    "thalamic fasciculus",
+    "thalamic fasciculus [h1]"
+  ]
+}
+

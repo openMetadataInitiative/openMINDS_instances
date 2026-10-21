@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.perkinelmer.columbus",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".tiff",
+    ".csv",
+    ".xml"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.perkinelmer.columbus",
+  "specification": null,
+  "synonym": [
+    "PerkinElmer Columbus"
+  ]
+}

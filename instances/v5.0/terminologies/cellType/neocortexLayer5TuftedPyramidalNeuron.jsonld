@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/neocortexLayer5TuftedPyramidalNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "An excitatory neuron type with a pyramidal-shaped cell body found in layer 5 of the neocortex and projects to subcortical areas.",
+  "description": null,
+  "name": "neocortex layer 5 tufted pyramidal neuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/ilx_0738209"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0738209",
+  "synonym": [
+    "L5 TPC",
+    "L5 tufted pyramidal cell",
+    "layer 5 tufted pyramidal cell",
+    "layer 5 tufted pyramidal neuron",
+    "TL5 neuron"
+  ]
+}

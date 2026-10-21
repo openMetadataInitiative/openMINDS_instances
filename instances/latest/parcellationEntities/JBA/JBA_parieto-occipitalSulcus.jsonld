@@ -12,9 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_parietalLobe"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "JBA_parieto-occipitalSulcus",
   "name": "parieto-occipital sulcus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

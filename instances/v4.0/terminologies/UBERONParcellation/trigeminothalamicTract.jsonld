@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/trigeminothalamicTract",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004171)]",
+  "description": "The trigeminothalamic tract is one of the major routes of nociceptive and temperature signaling from the face. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004171)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004171#trigeminal-tract",
+  "name": "trigeminothalamic tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004171",
+  "synonym": [
+    "tractus trigeminothalamicus"
+  ]
+}
+

@@ -4,17 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/supramammillaryNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Supramammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.",
-  "description": "",
+  "definition": "Is a hypothalamic nucleus. Is part of the mammillary body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001940) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111351",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001940#supramammillary-nucleus-1",
   "name": "supramammillary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001940",
-  "synonym": [
-    "nuclei premamillaris",
-    "nucleus premamillaris hypothalami",
-    "premamillary nucleus",
-    "premammillary nuclei",
-    "SuM"
-  ]
+  "synonym": null
 }
+

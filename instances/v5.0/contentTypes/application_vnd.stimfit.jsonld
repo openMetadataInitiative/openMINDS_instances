@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.stimfit",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".abf",
+    ".abf2",
+    ".atf",
+    ".axgx",
+    ".axgd",
+    ".cfs",
+    ".heka",
+    ".hdf5"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.stimfit",
+  "specification": null,
+  "synonym": [
+    "Python stfio"
+  ]
+}

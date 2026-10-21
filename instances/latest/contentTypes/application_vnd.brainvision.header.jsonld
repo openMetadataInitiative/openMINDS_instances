@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.brainvision.header",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".vhdr"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.brainvision.header",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "BrainVision Data Exchange Header File",

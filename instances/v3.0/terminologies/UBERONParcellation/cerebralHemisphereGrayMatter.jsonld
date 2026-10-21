@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralHemisphereGrayMatter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a gray matter of telencephalon. Is part of the cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005401) ('is_a' and 'relationship')]",
+  "description": "A gray matter that is part of a cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005401)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005401#cerebral-hemisphere-gray-matter",
+  "name": "cerebral hemisphere gray matter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005401",
+  "synonym": [
+    "cerebral gray matter",
+    "cerebral grey matter",
+    "cerebral hemisphere grey matter"
+  ]
+}
+

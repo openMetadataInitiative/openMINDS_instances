@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.yokogawa.cv7000",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".tiff",
     ".wpi"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.yokogawa.cv7000",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

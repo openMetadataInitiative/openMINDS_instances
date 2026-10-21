@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/ventralTegmentalArea",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002691) ('is_a' and 'relationship')]",
+  "description": "Unpaired midbrain region situated in the ventromedial portion of the reticular formation. The VTA is medial to the substantia nigra and ventral to the red nucleus, and extends caudally from the posterior hypothalamus in the diencephalon. The VTA contains dopamine neurons that project to various limbic and cortical areas and is a critical component of the brain's reward circuitry. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002691)]",
+  "name": "ventral tegmental area",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112351"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002691#ventral-tegmental-area-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002691",
+  "synonym": [
+    "a10a",
+    "ventral tegmental area of tsai",
+    "ventral tegmental nucleus (tsai)",
+    "ventral tegmental nucleus of tsai"
+  ]
+}

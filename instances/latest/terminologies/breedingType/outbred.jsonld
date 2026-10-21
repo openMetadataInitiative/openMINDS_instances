@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/BreedingType",
   "definition": "'Outbred' breeding (or outbreeding) is the production of offspring from mating organisms that belong to two different background breeds.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "outbred",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

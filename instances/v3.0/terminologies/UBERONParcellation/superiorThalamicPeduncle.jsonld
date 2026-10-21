@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorThalamicPeduncle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a peduncle of thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022241)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022241#superior-thalamic-peduncle",
+  "name": "superior thalamic peduncle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022241",
+  "synonym": [
+    "centroparietal peduncle",
+    "centroparietal thalamic peduncle",
+    "middle thalamic peduncle",
+    "pedunculus thalami superior",
+    "superior peduncle"
+  ]
+}
+

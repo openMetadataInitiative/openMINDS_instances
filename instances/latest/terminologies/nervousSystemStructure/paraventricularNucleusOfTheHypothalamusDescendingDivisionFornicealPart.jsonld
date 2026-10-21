@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/paraventricularNucleusOfTheHypothalamusDescendingDivisionFornicealPart",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the paraventricular nucleus of the hypothalamus descending division. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014598) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "paraventricular nucleus of the hypothalamus descending division - forniceal part",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0108504"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0014598#paraventricular-nucleus-of-the-hypothalamus-descending-division-forniceal-part-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014598",
+  "synonym": null
+}

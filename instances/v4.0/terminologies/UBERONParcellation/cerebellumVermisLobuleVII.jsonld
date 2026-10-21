@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellumVermisLobuleVII",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebellum vermis lobule. Is part of the cerebellum posterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004081) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004081#cerebellum-vermis-lobule-vii",
+  "name": "cerebellum vermis lobule VII",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004081",
+  "synonym": [
+    "folium-tuber vermis (VII)",
+    "lobule VII of cerebellum vermis",
+    "vermic lobule VII"
+  ]
+}
+

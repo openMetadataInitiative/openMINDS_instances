@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/roofPlateOfDiencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the diencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003301)]",
+  "description": "A roof plate that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003301)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003301#roof-plate-of-diencephalon",
+  "name": "roof plate of diencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003301",
+  "synonym": [
+    "between brain roof plate",
+    "between brain roofplate",
+    "diencephalon roof plate",
+    "diencephalon roofplate",
+    "interbrain roof plate",
+    "interbrain roofplate",
+    "mature diencephalon roof plate",
+    "mature diencephalon roofplate",
+    "roof plate diencephalic region",
+    "roof plate diencephalon",
+    "roof plate of between brain",
+    "roof plate of interbrain",
+    "roof plate of mature diencephalon",
+    "roofplate of between brain",
+    "roofplate of diencephalon",
+    "roofplate of interbrain",
+    "roofplate of mature diencephalon"
+  ]
+}
+

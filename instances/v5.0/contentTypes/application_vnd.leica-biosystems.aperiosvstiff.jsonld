@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.leica-biosystems.aperiosvstiff",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".tiff",
+    ".svs"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.leica-biosystems.aperiosvstiff",
+  "specification": null,
+  "synonym": null
+}

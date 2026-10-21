@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/limbicSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the forebrain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000349)]",
+  "description": "A set of midline structures surrounding the brainstem of the mammalian brain, originally described anatomically, e.g., hippocampal formation, amygdala, hypothalamus, cingulate cortex. Although the original designation was anatomical, the limbic system has come to be associated with the system in the brain subserving emotional functions. As such, it is very poorly defined and doesn't correspond closely to the anatomical meaning any longer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000349)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000349#limbic-system",
+  "name": "limbic system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000349",
+  "synonym": null
+}
+

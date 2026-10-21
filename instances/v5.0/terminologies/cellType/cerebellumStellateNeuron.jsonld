@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/cerebellumStellateNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "Any cerebellar neuron that has a star-like shape formed by dendritic processes radiating from the cell body.",
+  "description": null,
+  "name": "cerebellum stellate neuron",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/nifext_130"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NIFEXT:130#cerebellum-stellate-cell",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0101975",
+  "synonym": [
+    "cerebellar stellate cell",
+    "cerebellar stellate neuron",
+    "cerebellum stellate cell"
+  ]
+}

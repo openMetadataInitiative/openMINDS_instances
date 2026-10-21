@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Species",
   "definition": "The species *Callithrix jacchus* (common marmoset) belongs to the family of *callitrichidae* (new world monkeys).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Callithrix jacchus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9483",
   "synonym": [
     "callithrix jacchus jacchus",

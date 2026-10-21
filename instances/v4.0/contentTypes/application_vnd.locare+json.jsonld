@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.locare+json",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": "A text-based format for representing structured data based on JavaScript object syntax following the [LocareJSON schema specification](https://github.com/blixilla/LocareJSON).",
+  "displayLabel": null,
+  "fileExtension": [
+    ".locare.json",
+    ".json"
+  ],
+  "name": "application/vnd.locare+json",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/json",
+  "specification": "https://github.com/blixilla/LocareJSON",
+  "synonym": [
+    "LocareJSON",
+    "Locare JavaScript Object Notation"
+  ]
+}

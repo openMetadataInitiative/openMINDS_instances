@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/tectospinalTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002949)]",
+  "description": "A long process of a CNS neuron, that carries efferent (outgoing) action potentials from the cell body in the superior colliculus of the midbrain towards target cells in the ventral spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002949)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002949#tectospinal-tract-1",
+  "name": "tectospinal tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002949",
+  "synonym": [
+    "Held's bundle",
+    "tectospinal pathway"
+  ]
+}
+

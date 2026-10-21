@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Mauritius",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Island sovereign state off of East Africa in the Indian Ocean. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q1027)]",
+  "description": null,
+  "name": "Mauritius",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q1027",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Maurice",
+    "Moris",
+    "MRI",
+    "MU",
+    "MUS",
+    "Republic of Mauritius",
+    "République de Maurice"
+  ]
+}

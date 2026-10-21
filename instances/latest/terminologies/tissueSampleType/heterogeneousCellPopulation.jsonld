@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/TissueSampleType",
   "definition": "A sample of multiple cells/a population of cells that are of two or more different cell types.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "heterogeneous cell population",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

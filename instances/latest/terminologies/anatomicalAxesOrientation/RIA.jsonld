@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AnatomicalAxesOrientation",
   "definition": "X, Y, Z axes are oriented towards right, inferior and anterior, respectively.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "RIA",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

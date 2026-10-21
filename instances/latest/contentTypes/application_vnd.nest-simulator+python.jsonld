@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nest-simulator+python",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".py"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.nest-simulator+python",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Python:NEST"

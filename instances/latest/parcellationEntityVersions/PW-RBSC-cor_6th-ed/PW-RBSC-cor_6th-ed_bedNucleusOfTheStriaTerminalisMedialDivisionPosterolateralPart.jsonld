@@ -10,10 +10,13 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosterolateralPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionPosterolateralPart",
   "name": "bed nucleus of the stria terminalis, medial division, posterolateral part",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "6th ed.",
-  "versionInnovation": null
+  "versionSpecification": null
 }

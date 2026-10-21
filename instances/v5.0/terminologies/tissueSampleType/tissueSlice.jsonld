@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/tissueSampleType/tissueSlice",
+  "@type": "https://openminds.om-i.org/types/TissueSampleType",
+  "definition": "A thin and often flat sample of tissue that was excised from a larger tissue sample (e.g., a tissue block or a whole organ) from a living or deceased multicellular organism body.",
+  "description": null,
+  "name": "tissue slice",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

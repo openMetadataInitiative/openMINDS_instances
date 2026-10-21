@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/gigantocellularNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002155)]",
+  "description": "Nucleus located in the rostral ventrolateral medulla. The PGL was originally identified by cytoarchitectural criteria in the human medulla (Olszewski and Baxter, 1954). In humans, the PGL is located in the ventrolateral quadrant of the rostral medullary tegmentum between the nucleus subtrigeminalis caudally, trapezoid body and the superior olive rostrally, nucleus gigantocellularis medially, spinothalamic tract fibers laterally, inferior olive ventrally, and the nucleus ambiguous dorsally (Olszewski and Baxter, 1954). In the rat, the PGL has been further subdivided into retrofacial PGL (caudal to the facial nucleus), and more rostrally located juxtafacial PGL (medial to the facial nucleus), based upon different connectivity. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002155)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002155#gigantocellular-nucleus",
+  "name": "gigantocellular nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002155",
+  "synonym": [
+    "gigantocellular group",
+    "gigantocellular reticular nuclei",
+    "gigantocellular reticular nucleus",
+    "nucleus gigantocellularis"
+  ]
+}
+

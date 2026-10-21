@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_anteriorCommissureIntrabulbarPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "aci",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_anteriorCommissureIntrabulbarPart",
+  "name": "anterior commissure, intrabulbar part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

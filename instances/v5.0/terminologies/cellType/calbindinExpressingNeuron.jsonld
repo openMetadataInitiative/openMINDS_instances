@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/calbindinExpressingNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "Any neuron that expresses calbindin.",
+  "description": null,
+  "name": "calbindin expressing neuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "CALB+ cell",
+    "CALB+ neuron",
+    "CALB-expressing cell",
+    "CALB-expressing neuron",
+    "CALB-positive cell",
+    "CALB-positive neuron",
+    "calbindin expressing cell",
+    "calbindin-positive cell",
+    "calbindin-positive neuron"
+  ]
+}

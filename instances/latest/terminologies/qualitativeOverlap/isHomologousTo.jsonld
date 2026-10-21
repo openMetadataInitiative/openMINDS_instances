@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/QualitativeOverlap",
   "definition": "A set/object (A) has the same relative position, function, or structure as a set/object (B).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "is homologous to",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ramusVentral",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a posterior lateral line nerve (PLLN). [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010804)]",
+  "description": "This ramus leaves the postotic ganglionic complex together with the third branchial ramus of X. This ramule innervates the ventral line of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010804)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010804#ramus-ventral",
+  "name": "ramus ventral",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010804",
+  "synonym": null
+}
+

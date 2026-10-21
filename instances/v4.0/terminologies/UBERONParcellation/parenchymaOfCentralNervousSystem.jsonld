@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/parenchymaOfCentralNervousSystem",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005158)]",
+  "description": "The functional tissue of the central nervous system consisting of neurons and glial cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005158)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005158#parenchyma-of-central-nervous-system",
+  "name": "parenchyma of central nervous system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005158",
+  "synonym": [
+    "central nervous system parenchyma",
+    "CNS parenchyma",
+    "parenchyma of CNS"
+  ]
+}
+

@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusStratumOriens",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005371)]",
+  "description": "Layer that is part of the CA fields of the hippocampus consisting of a narrow relatively cell free layer located deep to the pyramidal cell layer extending through areas CA1, CA2 and CA3. (adapted from Paxinos The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005371)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005371#stratum-oriens",
+  "name": "hippocampus stratum oriens",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005371",
+  "synonym": [
+    "oriens layer of hippocampus",
+    "oriens layer of the hippocampus",
+    "polymorphic layer of hippocampus",
+    "polymorphic layer of the hippocampus",
+    "stratum oriens",
+    "stratum oriens hippocampi"
+  ]
+}
+

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/FileUsageRole",
   "definition": "A preview is a representative image or short movie used to peak interest for a product.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "preview",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

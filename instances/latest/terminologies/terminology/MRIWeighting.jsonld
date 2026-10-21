@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "Class of imaging techniques where the image contrast is generated from a specific intrinsic tissue parameter (T1, T2, etc.).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "MRI weighting",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

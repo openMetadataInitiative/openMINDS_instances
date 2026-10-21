@@ -2,13 +2,14 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/T1Weighting",
+  "@id": "https://openminds.om-i.org/instances/MRIWeighting/T1Weighting",
   "@type": "https://openminds.om-i.org/types/MRIWeighting",
   "definition": "Image processing technique that specifically enhances the signal-to-noise ratio of the spin-lattice relaxation (T1 relaxation time).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "T1 weighting",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "T1 weighted image processing",

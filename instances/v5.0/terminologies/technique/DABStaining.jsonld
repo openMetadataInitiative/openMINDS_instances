@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/DABStaining",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "In a 'DAB staining', the organic compound DAB (3, 3'-diaminobenzidine) is oxidized in presence of peroxidase and hydrogen peroxide resulting in deposition of a brown, alcohol-insoluble precipitate which can be used in immunohistochemical and blotting applications.",
+  "description": null,
+  "name": "DAB staining",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "3,3′-Diaminobenzidine staining"
+  ]
+}

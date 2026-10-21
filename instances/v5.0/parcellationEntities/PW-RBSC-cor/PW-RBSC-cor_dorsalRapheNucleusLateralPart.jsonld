@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_dorsalRapheNucleusLateralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "DRL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_dorsalRapheNucleusLateralPart",
+  "name": "dorsal raphe nucleus, lateral part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

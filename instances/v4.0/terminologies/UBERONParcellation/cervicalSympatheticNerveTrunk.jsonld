@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cervicalSympatheticNerveTrunk",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sympathetic nerve trunk. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034901)]",
+  "description": "The cervical ganglia are paravertebral ganglia of the sympathetic nervous system. These emerging postganglionic nerves synapse with preganglionic nerves from the thoracic spinal cord. They consist of three paravertebral ganglia: superior cervical ganglion middle cervical ganglion inferior cervical ganglion. The inferior ganglion may be fused with the first thoracic ganglion to form a single structure, the stellate ganglion. Nerves emerging from cervical sympathetic ganglia contribute to the cardiac plexus, among other things. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034901)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034901#cervical-sympathetic-nerve-trunk",
+  "name": "cervical sympathetic nerve trunk",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034901",
+  "synonym": [
+    "cervical part of sympathetic trunk",
+    "cervical sympathetic chain",
+    "cervical sympathetic trunk"
+  ]
+}
+

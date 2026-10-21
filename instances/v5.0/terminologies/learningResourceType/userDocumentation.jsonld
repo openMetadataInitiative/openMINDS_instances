@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/learningResourceType/userDocumentation",
+  "@type": "https://openminds.om-i.org/types/LearningResourceType",
+  "definition": "Documentation for the users of a resource.",
+  "description": null,
+  "name": "user documentation",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

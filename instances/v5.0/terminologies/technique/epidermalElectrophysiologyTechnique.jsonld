@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/epidermalElectrophysiologyTechnique",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "The term 'epidermal electrophysiology technique' describes a subclass of non-invasive electrophysiology techniques where one or several electrodes are placed on the outermost cell layer of an organism (epidermis) to measure electrical properties.",
+  "description": null,
+  "name": "epidermal electrophysiology technique",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "epidermal electrophysiology"
+  ]
+}

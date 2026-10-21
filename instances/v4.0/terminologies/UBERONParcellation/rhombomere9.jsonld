@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rhombomere9",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019284)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0019284#rhombomere-9",
+  "name": "rhombomere 9",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019284",
+  "synonym": [
+    "r9"
+  ]
+}
+

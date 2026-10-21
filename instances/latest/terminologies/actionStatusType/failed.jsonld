@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ActionStatusType",
   "definition": "An action that failed to complete or completed but produced an error.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "failed",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "https://schema.org/FailedActionStatus",
   "synonym": [
     "failed action status",

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/excitatoryNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "An 'excitatory neuron' releases neurotransmitters (e.g. glutamate) that have a deperpolarizing effect on the post-synaptic neuron, facilitating the generation of an action potential.",
+  "description": null,
+  "name": "excitatory neuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "excitatory cell"
+  ]
+}

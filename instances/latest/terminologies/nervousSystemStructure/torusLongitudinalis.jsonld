@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/torusLongitudinalis",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the midbrain tectum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000449) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "torus longitudinalis",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:2000449#torus-longitudinalis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000449",
+  "synonym": null
+}

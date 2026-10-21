@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortexRostromedialArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AuRM",
+  "alternateName": [
+    "auditory cortex, rostromedial area"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostromedialArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_auditoryCortexRostromedialArea",
+  "name": "auditory cortex rostromedial area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

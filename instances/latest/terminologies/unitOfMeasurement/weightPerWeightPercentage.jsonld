@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "The percentage of a particular substance within a mixture, as measured by weight or mass and expressed in the same unit",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "weight per weight percentage",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "% w/w",

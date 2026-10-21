@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Species",
   "definition": "The species *Chlorocebus pygerythrus* (vervet marmoset) belongs to the family of *cercopithecidae* (old world monkeys).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "Chlorocebus pygerythrus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_60710",
   "synonym": [
     "cercopithecus aethiops pygerythrus",

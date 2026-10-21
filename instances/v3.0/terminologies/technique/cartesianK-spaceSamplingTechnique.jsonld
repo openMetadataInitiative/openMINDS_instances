@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/cartesianK-spaceSamplingTechnique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A k-space sampling strategy that follows a rectilinear grid.",
+  "description": null,
+  "name": "cartesian k-space sampling technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

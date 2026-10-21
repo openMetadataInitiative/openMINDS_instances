@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a sulcus of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034671) ('is_a' and 'relationship')]",
+  "description": "Composite sulcus of the frontal lobe of the macaque. Located on the dorsolateral surface, it consists of the superior ramus of the arcuate sulcus (macaque), the inferior ramus of the arcuate sulcus and the spur of the arcuate sulcus (macaque) (http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID=2379) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034671)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034671#arcuate-sulcus",
+  "name": "arcuate sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034671",
+  "synonym": null
+}
+

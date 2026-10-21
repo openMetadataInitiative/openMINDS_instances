@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Ketamine is a cyclohexanone derivative used for induction of anesthesia.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0105850",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFSTD:DB01221#ketamine",
   "name": "ketamine",
-  "preferredOntologyIdentifier": "https://www.drugbank.ca/drugs/DB01221",
+  "otherCrossReference": [
+    "https://www.drugbank.ca/drugs/DB01221"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NIFSTD:DB01221#ketamine",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0105850",
   "synonym": [
     "(-)-ketamine",
     "(S)-(-)-ketamine",

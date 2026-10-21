@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/opticStalk",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a developing neuroepithelium. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003098) ('is_a' and 'relationship')]",
+  "description": "The narrow, proximal portion of the optic vesicle which connects the embryonic eye and forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003098)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003098#optic-stalk",
+  "name": "optic stalk",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003098",
+  "synonym": null
+}
+

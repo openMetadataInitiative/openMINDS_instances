@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularSuperficialPretectalNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a diencephalic nucleus and superficial pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035563)]",
+  "description": "A nucleus that is part of the superficial pretectum and is characterized by large widely scattered cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035563)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035563#magnocellular-superficial-pretectal-nucleus",
+  "name": "magnocellular superficial pretectal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035563",
+  "synonym": null
+}
+

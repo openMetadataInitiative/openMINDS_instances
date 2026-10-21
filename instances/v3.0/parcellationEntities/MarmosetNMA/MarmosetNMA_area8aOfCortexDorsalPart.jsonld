@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area8aOfCortexDorsalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A8aD",
+  "alternateName": [
+    "area 8a of cortex, dorsal part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_dorsolateralPrefrontalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area8aOfCortexDorsalPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area8aOfCortexDorsalPart",
+  "name": "area 8a of cortex dorsal part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

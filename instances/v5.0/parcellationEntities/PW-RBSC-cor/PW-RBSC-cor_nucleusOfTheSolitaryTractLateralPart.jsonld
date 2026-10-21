@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractLateralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "SolL",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_nucleusOfTheSolitaryTractLateralPart",
+  "name": "nucleus of the solitary tract, lateral part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

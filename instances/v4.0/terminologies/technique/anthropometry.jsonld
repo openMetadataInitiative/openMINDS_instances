@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/anthropometry",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "A measurement technique that involves systematically measuring the physical dimensions, size, weight, and proportions of the human or other primate body.",
+  "description": null,
+  "name": "anthropometry",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "anthropometric assessment",
+    "anthropometric measurement"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/facioAcousticVIIVIIIPreganglionComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the cranial ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006232) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006232#facio-acoustic-vii-viii-preganglion-complex",
+  "name": "facio-acoustic VII-VIII preganglion complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006232",
+  "synonym": null
+}
+

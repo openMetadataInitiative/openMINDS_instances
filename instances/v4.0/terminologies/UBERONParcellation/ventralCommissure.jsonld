@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ventralCommissure",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a commissure of telencephalon. Is part of the ventral part of telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005341) ('is_a' and 'relationship')]",
+  "description": "The fiber tracts that connect the ventral region of the two cerebral hemispheres and span the longitudinal fissure, including the anterior and the habenular commissures. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005341)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005341#ventral-commissure",
+  "name": "ventral commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005341",
+  "synonym": null
+}
+

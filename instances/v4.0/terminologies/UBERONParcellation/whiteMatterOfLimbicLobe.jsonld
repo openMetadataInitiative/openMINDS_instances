@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfLimbicLobe",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter of cerebral lobe. Is part of the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016536) ('is_a' and 'relationship')]",
+  "description": "A white matter of cerebral lobe that is part of a limbic lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016536)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016536#white-matter-of-limbic-lobe",
+  "name": "white matter of limbic lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016536",
+  "synonym": null
+}
+

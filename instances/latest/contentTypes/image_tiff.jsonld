@@ -5,14 +5,17 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/image_tiff",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/image/tiff"
+  ],
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".tiff",
     ".tif"
   ],
+  "isBasedOn": null,
   "name": "image/tiff",
-  "relatedMediaType": "https://www.iana.org/assignments/media-types/image/tiff",
   "specification": null,
   "synonym": [
     "Tagged Image File (Tiled)"

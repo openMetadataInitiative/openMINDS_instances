@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_temporalAreaTF",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "TF",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventralAreasOfTheTemporalLobe"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_temporalAreaTF",
+  "name": "temporal area TF",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

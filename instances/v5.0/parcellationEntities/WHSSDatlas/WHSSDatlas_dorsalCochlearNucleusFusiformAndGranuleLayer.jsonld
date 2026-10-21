@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_dorsalCochlearNucleusFusiformAndGranuleLayer",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "DCNFG"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_dorsalCochlearNucleusFusiformAndGranuleLayer",
+  "name": "dorsal cochlear nucleus, fusiform and granule layer",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

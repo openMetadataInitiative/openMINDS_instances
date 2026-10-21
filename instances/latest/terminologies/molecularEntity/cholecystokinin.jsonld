@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Cholecystokinin is a peptide hormone of the gastrointestinal system responsible for stimulating the digestion of fat and protein.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0102124",
-  "knowledgeSpaceLink": null,
   "name": "cholecystokinin",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5068",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://uri.neuinfo.org/nif/nifstd/nifext_5068",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0102124",
   "synonym": [
     "CCK"
   ]

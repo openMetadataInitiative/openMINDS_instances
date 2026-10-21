@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/apexOfSpinalCordDorsalHorn",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gray matter of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004678)]",
+  "description": null,
+  "name": "apex of spinal cord dorsal horn",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0004678#apex-of-spinal-cord-dorsal-horn-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004678",
+  "synonym": [
+    "apex columnae posterioris",
+    "apex cornu posterioris medullae spinalis",
+    "apex of dorsal gray column",
+    "apex of dorsal gray column of spinal cord",
+    "apex of dorsal horn of spinal cord",
+    "apex of posterior horn of spinal cord",
+    "apex of spinal cord posterior horn"
+  ]
+}

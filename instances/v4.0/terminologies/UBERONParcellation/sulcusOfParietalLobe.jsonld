@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/sulcusOfParietalLobe",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sulcus of brain. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035927) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035927#sulcus-of-parietal-lobe",
+  "name": "sulcus of parietal lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035927",
+  "synonym": [
+    "parietal lobe sulcus"
+  ]
+}
+

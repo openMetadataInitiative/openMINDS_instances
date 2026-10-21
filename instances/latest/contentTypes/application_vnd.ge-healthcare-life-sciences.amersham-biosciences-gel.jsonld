@@ -5,13 +5,16 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.ge-healthcare-life-sciences.amersham-biosciences-gel",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".gel"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.ge-healthcare-life-sciences.amersham-biosciences-gel",
-  "relatedMediaType": null,
   "specification": null,
-  "synonym": "GEL"
+  "synonym": [
+    "GEL"
+  ]
 }

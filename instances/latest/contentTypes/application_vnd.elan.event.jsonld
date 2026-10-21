@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.elan.event",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".pos"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.elan.event",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "ELAN event file"

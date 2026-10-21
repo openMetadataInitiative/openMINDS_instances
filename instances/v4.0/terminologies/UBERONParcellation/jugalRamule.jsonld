@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/jugalRamule",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a ramus mandibularis externus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010778)]",
+  "description": "This ramule innervates the jugal line of neuromasts and is the dorsal branch of the ramus mandibularis externus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010778)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010778#jugal-ramule",
+  "name": "jugal ramule",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010778",
+  "synonym": null
+}
+

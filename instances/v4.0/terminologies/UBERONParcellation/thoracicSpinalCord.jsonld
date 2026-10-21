@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003038)]",
+  "description": "The thoracic nerves are the spinal nerves emerging from the thoracic vertebrae. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003038)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003038#thoracic-spinal-cord",
+  "name": "thoracic spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003038",
+  "synonym": [
+    "pars thoracica medullae spinalis",
+    "segmenta thoracica medullae spinalis [1-12]",
+    "thoracic region of spinal cord",
+    "thoracic segment of spinal cord",
+    "thoracic segments of spinal cord [1-12]"
+  ]
+}
+

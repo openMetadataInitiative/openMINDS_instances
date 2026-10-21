@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paracommissuralNucleusOfSolitaryTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of solitary tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035575)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035575#paracommissural-nucleus-of-solitary-tract",
+  "name": "paracommissural nucleus of solitary tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035575",
+  "synonym": null
+}
+

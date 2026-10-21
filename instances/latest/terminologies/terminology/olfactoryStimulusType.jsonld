@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "An 'olfactory stimulus type' groups similar olfactory stimuli used across olfactory stimulation techniques.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "olfactory stimulus type",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

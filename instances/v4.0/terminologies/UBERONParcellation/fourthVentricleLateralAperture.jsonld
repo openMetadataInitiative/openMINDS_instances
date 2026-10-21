@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/fourthVentricleLateralAperture",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a fourth ventricle aperture. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003992)]",
+  "description": "One of the two lateral openings of the fourth ventricle into the subarachnoid space at the cerebellopontine angle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003992)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003992#fourth-ventricle-lateral-aperture",
+  "name": "fourth ventricle lateral aperture",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003992",
+  "synonym": [
+    "apertura lateralis",
+    "foramen of key and retzius",
+    "foramen of Key-Retzius",
+    "foramen of Luschka",
+    "foramen of Retzius",
+    "lateral aperture of fourth ventricle"
+  ]
+}
+

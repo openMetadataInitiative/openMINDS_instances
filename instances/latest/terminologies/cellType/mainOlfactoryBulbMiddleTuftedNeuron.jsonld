@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "A subclass of neurons situated in the middle layer of the external plexiform layer of the main olfactory bulb.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107935",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:121#olfactory-bulb-main-tufted-cell",
   "name": "main olfactory bulb middle tufted neuron",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_121",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/nifext_121"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NIFEXT:121#olfactory-bulb-main-tufted-cell",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0107935",
   "synonym": [
     "olfactory bulb (main) tufted cell (middle)",
     "middle tufted cell of the main olfactory bulb",

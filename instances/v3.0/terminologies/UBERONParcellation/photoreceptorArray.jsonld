@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/photoreceptorArray",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005388) ('is_a' and 'relationship')]",
+  "description": "An array of photoreceptors and any supporting cells found in an eye. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005388)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005388#photoreceptor-array",
+  "name": "photoreceptor array",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005388",
+  "synonym": [
+    "light-sensitive tissue"
+  ]
+}
+

@@ -4,15 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfHypothalamus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Dorsal longitudinal fasciculus of hypothalamus' is a fasciculus of brain. It is part of the lateral hypothalamic area and dorsal longitudinal fasciculus.",
-  "description": "Part of dorsal longitudinal fasciculus located within the hypothalamus",
+  "definition": "Is a fasciculus of brain. Is part of the lateral hypothalamic area and the dorsal longitudinal fasciculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003008) ('is_a' and 'relationship')]",
+  "description": "Part of dorsal longitudinal fasciculus located within the hypothalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003008)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103443",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003008#dorsal-longitudinal-fasciculus-of-hypothalamus-1",
   "name": "dorsal longitudinal fasciculus of hypothalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003008",
-  "synonym": [
-    "dlfh",
-    "dorsal longitudinal fasciculus of the hypothalamus",
-    "fasciculus longitudinalis dorsalis (hypothalami)"
-  ]
+  "synonym": null
 }
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/caudalMotorNucleusOfAbducens",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the abducens nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000629) ('is_a' and 'relationship')]",
+  "description": "Caudal part of the abducens nucleus that mediates motor function. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000629)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000629#caudal-motor-nucleus-of-abducens",
+  "name": "caudal motor nucleus of abducens",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000629",
+  "synonym": null
+}
+

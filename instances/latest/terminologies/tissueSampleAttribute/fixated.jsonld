@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/TissueSampleAttribute",
   "definition": "A specimen that was treated with a fixative (e.g., paraformaldehyde) to preserve its existing form and structure.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "fixated",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

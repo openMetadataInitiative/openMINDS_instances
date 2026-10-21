@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphericLobuleII",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellum hemisphere lobule and hemisphere part of cerebellar anterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023998)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023998#cerebellum-hemispheric-lobule-ii",
+  "name": "cerebellum hemispheric lobule II",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023998",
+  "synonym": [
+    "hemispheric lobule ii",
+    "lobule H II of Larsell",
+    "lobule II of cerebellar hemisphere",
+    "lobule II of hemisphere of cerebellum"
+  ]
+}
+

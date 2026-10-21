@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/caudaEquina",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the spinal nerve root. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012337) ('is_a' and 'relationship')]",
+  "description": "The cauda equina is a structure within the lower end of the spinal column of most vertebrates, that consists of nerve roots and rootlets from above. The space in which the cerebrospinal fluid is present is actually an extension of the subarachnoid space. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012337)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0012337#cauda-equina",
+  "name": "cauda equina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012337",
+  "synonym": null
+}
+

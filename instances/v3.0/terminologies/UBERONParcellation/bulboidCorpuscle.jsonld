@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/bulboidCorpuscle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a sensory receptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035968)]",
+  "description": "A receptor in the transitional zone between mucous membrane and skin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035968)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035968#bulboid-corpuscle",
+  "name": "bulboid corpuscle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035968",
+  "synonym": null
+}
+

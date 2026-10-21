@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SubjectAttribute",
   "definition": "A temporary state of an organism induced by anaestetic substances that cause the reduction or loss of pain sensation with or without loss of consciousness.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "anaesthetized",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

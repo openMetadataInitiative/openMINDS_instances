@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusKOfVentralTegmentum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a brainstem nucleus and midbrain nucleus. Is part of the ventral tegmental area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014646) ('is_a' and 'relationship')]",
+  "description": "A nucleus present in the ventral tegmentum of skates. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014646)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014646#nucleus-k-of-ventral-tegmentum",
+  "name": "nucleus K of ventral tegmentum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014646",
+  "synonym": null
+}
+

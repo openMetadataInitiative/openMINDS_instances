@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "high-performance computer",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q121117",
-  "synonym": null
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "HPC"
+  ]
 }

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-hOc4la",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_lateralOccipitalCortex"
+    }
+  ],
+  "lookupLabel": "JBA_Area-hOc4la",
+  "name": "Area hOc4la (LOC)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

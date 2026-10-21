@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/diaphragmaSellae",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the meningeal dura mater. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035416)]",
+  "description": "The diaphragma sellae or sellar diaphragm is the circular fold of dura mater that almost completely roofs the fossa hypophyseos in the sphenoid bone of the skull. It retains the pituitary gland in the fossa hypophyseos, with only the infundibulum of the pituitary gland passing through it. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035416)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035416#diaphragma-sellae",
+  "name": "diaphragma sellae",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035416",
+  "synonym": [
+    "sellar diaphragm"
+  ]
+}
+

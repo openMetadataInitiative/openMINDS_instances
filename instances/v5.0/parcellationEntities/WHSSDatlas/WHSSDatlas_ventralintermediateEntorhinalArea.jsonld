@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralintermediateEntorhinalArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_ventralintermediateEntorhinalArea",
+  "name": "ventral-intermediate entorhinal area",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

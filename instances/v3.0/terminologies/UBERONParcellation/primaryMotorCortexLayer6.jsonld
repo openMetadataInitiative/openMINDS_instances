@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/primaryMotorCortexLayer6",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a layer of neocortex. Is part of the primary motor cortex and the cortical layer VI. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022316) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022316#primary-motor-cortex-layer-6",
+  "name": "primary motor cortex layer 6",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022316",
+  "synonym": null
+}
+

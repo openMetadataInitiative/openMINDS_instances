@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/QualitativeOverlap",
   "definition": "Two sets/objects (A and B) partially overlap when some elements/incidents are part of both original objects (A and B).",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "partially overlaps with",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

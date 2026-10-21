@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.leica.las.af.lif",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".lif"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.leica.las.af.lif",
+  "specification": null,
+  "synonym": [
+    "Leica LAS AF LIF (Leica Image File Format)"
+  ]
+}

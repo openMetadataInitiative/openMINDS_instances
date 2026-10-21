@@ -4,24 +4,17 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/lateralPartOfBasalAmygdaloidNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Lateral part of basal amygdaloid nucleus' is a cerebral hemisphere gray matter. It is part of the basal amygdaloid nucleus.",
-  "description": "",
+  "definition": "Is a cerebral hemisphere gray matter. Is part of the basal amygdaloid nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002888) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106089",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002888#lateral-part-of-basal-amygdaloid-nucleus-1",
   "name": "lateral part of basal amygdaloid nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002888",
   "synonym": [
-    "BAL",
     "lateral basal nucleus of amygdala",
     "lateral basal nucleus of the amygdala",
     "lateral division of basal nucleus",
-    "lateral division of the basal nucleus",
-    "lateral part of the basal amygdalar nucleus",
-    "lateral part of the basolateral nucleus",
-    "nucleus amygdalae basalis",
-    "nucleus amygdaloideus basalis",
-    "nucleus basalis lateralis amygdalae",
-    "pars lateralis",
-    "pars lateralis magnocellularis"
+    "lateral division of the basal nucleus"
   ]
 }
+

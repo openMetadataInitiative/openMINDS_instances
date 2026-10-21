@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaGelatinosaOfCervicalSpinalCordDorsalHorn",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a substantia gelatinosa. Is part of the cervical spinal cord dorsal horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014623) ('is_a' and 'relationship')]",
+  "description": "A substantia gelatinosa that is part of a cervical spinal cord dorsal horn. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014623)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014623#substantia-gelatinosa-of-cervical-spinal-cord-dorsal-horn-1",
+  "name": "substantia gelatinosa of cervical spinal cord dorsal horn",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014623",
+  "synonym": null
+}
+

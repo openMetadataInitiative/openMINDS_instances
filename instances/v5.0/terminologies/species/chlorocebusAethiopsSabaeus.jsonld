@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/chlorocebusAethiopsSabaeus",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "The species *Chlorocebus aethiops sabaeus* (green monkey) belongs to the family of *cercopithecidae* (old world monkeys).",
+  "description": null,
+  "name": "Chlorocebus aethiops sabaeus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_60711",
+  "synonym": [
+    "cercopithecus aethiops sabaeus",
+    "cercopithecus sabaeus",
+    "cercopithecus sabeus",
+    "chlorocebus aethiops sabeus",
+    "chlorocebus sabaeus",
+    "chlorocebus sabeus",
+    "green monkey"
+  ]
+}

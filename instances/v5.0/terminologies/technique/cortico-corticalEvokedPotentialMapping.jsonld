@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/cortico-corticalEvokedPotentialMapping",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Cortico-cortical evoked potential (CCEP) mapping is used to identify the effective connectivity between distinct neuronal populations based on multiple CCEP measurements across (parts of) the brain in response to direct electrical stimulation (typically at various locations).",
+  "description": null,
+  "name": "cortico-cortical evoked potential mapping",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "CCEP mapping"
+  ]
+}

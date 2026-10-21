@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/organizationType",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Terminology for classifying an organization based on its legal status or position within a larger entity.",
+  "description": null,
+  "name": "organization type",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q17197366",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

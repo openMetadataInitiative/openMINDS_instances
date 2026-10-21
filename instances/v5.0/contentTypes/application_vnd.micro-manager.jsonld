@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.micro-manager",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".xml",
+    ".txt",
+    ".tiff"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.micro-manager",
+  "specification": null,
+  "synonym": [
+    "Micro-Manager"
+  ]
+}

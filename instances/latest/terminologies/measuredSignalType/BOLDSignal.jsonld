@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/measuredSignalType/BOLDSignal",
+  "@type": "https://openminds.om-i.org/types/MeasuredSignalType",
+  "definition": "A computed signal type that corresponds to the blood oxygenation level of tissue that the measurement was performed on.",
+  "description": null,
+  "name": "BOLD signal",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0101356",
+  "synonym": [
+    "blood-oxygen-level-dependent signal",
+    "BOLD",
+    "blood oxygen level dependent signal"
+  ]
+}

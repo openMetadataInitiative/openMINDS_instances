@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_occipito-parietalTransitionalAreaOfCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "OPt",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_posteriorParietalCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_occipito-parietalTransitionalAreaOfCortex",
+  "name": "occipito-parietal transitional area of cortex",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere2FloorPlate",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a rhombomere floor plate. Is part of the rhombomere 2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005570) ('is_a' and 'relationship')]",
+  "description": "A rhombomere floor plate that is part of a rhombomere 2. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005570)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005570#rhombomere-2-floor-plate",
+  "name": "rhombomere 2 floor plate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005570",
+  "synonym": [
+    "floor plate r2",
+    "floor plate rhombomere 2",
+    "floorplate r2"
+  ]
+}
+

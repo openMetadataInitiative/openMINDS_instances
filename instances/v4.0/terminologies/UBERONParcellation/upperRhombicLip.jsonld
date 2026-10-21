@@ -4,11 +4,17 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/upperRhombicLip",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Upper rhombic lip' is a regional part of brain. It is part of the rhombomere 1 and rhombic lip.",
-  "description": "Anterior-most region of dorsal hindbrain within rhombomere 1, adjacent the midbrain-hindbrain boundary.",
+  "definition": "Is a regional part of brain. Is part of the rhombomere 1 and the rhombic lip. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009841) ('is_a' and 'relationship')]",
+  "description": "Anterior-most region of dorsal hindbrain within rhombomere 1, adjacent the midbrain-hindbrain boundary. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009841)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0732955",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009841#upper-rhombic-lip",
   "name": "upper rhombic lip",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009841",
-  "synonym": null
+  "synonym": [
+    "cerebellar anlage",
+    "presumptive cerebellum",
+    "rostral rhombic lip",
+    "upper (rostral) rhombic lip"
+  ]
 }
+

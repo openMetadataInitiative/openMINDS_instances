@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/laminaOfSeptumPellucidum",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the septum pellucidum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002742) ('is_a' and 'relationship')]",
+  "description": "One of two layers of both white and gray matter of the septum pellucidum. During fetal development there is a space between the two laminae called the cavum septum pellucidum which, in ninety per cent of cases, disappears during infancy. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002742)]",
+  "name": "lamina of septum pellucidum",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0105979"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002742#lamina-of-septum-pellucidum-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002742",
+  "synonym": [
+    "septum pellucidum lamina"
+  ]
+}

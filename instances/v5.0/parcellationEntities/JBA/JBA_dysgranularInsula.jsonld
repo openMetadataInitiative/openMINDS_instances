@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_dysgranularInsula",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_insula"
+    }
+  ],
+  "lookupLabel": "JBA_dysgranularInsula",
+  "name": "dysgranular insula",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

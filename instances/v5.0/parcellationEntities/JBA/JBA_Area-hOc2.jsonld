@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-hOc2",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_occipitalCortex"
+    }
+  ],
+  "lookupLabel": "JBA_Area-hOc2",
+  "name": "Area hOc2 (V2, 18)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

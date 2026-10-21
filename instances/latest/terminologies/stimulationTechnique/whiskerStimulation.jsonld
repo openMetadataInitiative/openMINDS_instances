@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/StimulationTechnique",
   "definition": "'Whisker stimulation' comprises all stimulation techniques in which a single whisker or a group of whiskers is deflected in repeatable manner.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "whisker stimulation",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

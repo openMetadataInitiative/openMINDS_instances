@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/brainstemAndSpinalWhiteMatter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000318)]",
+  "description": "CNS white matter that is part of the brain stem or spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000318)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000318#brainstem-and-spinal-white-matter",
+  "name": "brainstem and spinal white matter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000318",
+  "synonym": null
+}
+

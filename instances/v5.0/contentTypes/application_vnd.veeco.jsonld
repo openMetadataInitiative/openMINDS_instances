@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.veeco",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".tfr",
+    ".ffr",
+    ".zfr",
+    ".zfp",
+    ".2fl"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.veeco",
+  "specification": null,
+  "synonym": [
+    "TopoMetrix"
+  ]
+}

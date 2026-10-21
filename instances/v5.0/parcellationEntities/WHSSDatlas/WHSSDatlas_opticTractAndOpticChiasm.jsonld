@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_opticTractAndOpticChiasm",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "opt-och"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_opticTractAndOpticChiasm",
+  "name": "optic tract and optic chiasm",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

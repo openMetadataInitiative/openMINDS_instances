@@ -10,19 +10,8 @@
   ],
   "definition": null,
   "hasParent": null,
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3_inferiorColliculusBrachium"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v3.01_inferiorColliculusBrachium"
-    },
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/WHSSDatlas_v4_inferiorColliculusBrachium"
-    }
-  ],
   "lookupLabel": "WHSSDatlas_inferiorColliculusBrachium",
   "name": "inferior colliculus, brachium",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

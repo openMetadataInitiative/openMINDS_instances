@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/thoracicGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a paravertebral ganglion. Is part of the thoracic sympathetic nerve trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000961) ('is_a' and 'relationship')]",
+  "description": "The thoracic ganglia are paravertebral ganglia. The thoracic portion of the sympathetic trunk typically has 12 thoracic ganglia. Emerging from the ganglia are thoracic splancic nerves (the cardiopulmonary, the greater, lesser, and least splanchic nerves) that help provide sympathetic innervation to abdominal structures. Also, the ganglia of the thoracic sympathetic trunk have both white and gray rami communicantes. The white rami carry sympathetic fibers arising in the spinal cord into the sympathetic trunk. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000961)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000961#thoracic-ganglion",
+  "name": "thoracic ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000961",
+  "synonym": [
+    "ganglion of thorax",
+    "ganglion thoracicum splanchnicum",
+    "thoracic paravertebral ganglion",
+    "thoracic splanchnic ganglion",
+    "thoracic sympathetic ganglion",
+    "thorax ganglion"
+  ]
+}
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorLateralOccipitalCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the lateral occipital cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022367) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022367#inferior-lateral-occipital-cortex",
+  "name": "inferior lateral occipital cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022367",
+  "synonym": [
+    "lateral occipital cortex, inferior division",
+    "lateral occipital cortex, inferior division (OLI)"
+  ]
+}
+

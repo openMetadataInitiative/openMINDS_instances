@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/dorsalPlusVentralThalamus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a regional part of brain. Is part of the thalamic complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001897) ('is_a' and 'relationship')]",
+  "description": "Subcortical brain region consisting of paired gray matter bodies in the dorsal diencephalon and forming part of the lateral wall of the third ventricle of the brain. The thalamus represents the major portion of the diencephalon and is commonly divided into cellular aggregates known as nuclear groups.(MeSH). The dorsal topographic division of the interbrain. The macrodissected adult human thalamus was clearly illustrated by Vesalius in 1543 and the term as defined here was introduced by His in 1893. It includes the traditional epithalamus, dorsal thalamus, and ventral thalamus of Herrick (1910, pp. 494, 498). Also see Kuhlenbeck (1927, Ch. 9) and Jones (1985, p. 87). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001897)]",
+  "name": "dorsal plus ventral thalamus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0111657"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0001897#thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001897",
+  "synonym": [
+    "wider thalamus"
+  ]
+}

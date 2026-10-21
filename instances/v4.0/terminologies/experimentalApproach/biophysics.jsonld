@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/experimentalApproach/biophysics",
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
-  "definition": "'Biophysics' covers any experimental approach that is traditionally used in physics, but applied and modified to study biological phenomena. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Biophysics)]",
+  "definition": "Any experimental approach that is traditionally used in physics, but applied and modified to study biological phenomena. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Biophysics)]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0793772",
   "knowledgeSpaceLink": null,
@@ -12,3 +12,4 @@
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
+

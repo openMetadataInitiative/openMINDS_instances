@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.rawbinarysignal",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".raw"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.rawbinarysignal",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Raw binary interleaved compact files"

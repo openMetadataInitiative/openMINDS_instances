@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": "Unit of frequency equivalent to one event per second",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "hertz",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000106",
   "synonym": [
     "Hz",

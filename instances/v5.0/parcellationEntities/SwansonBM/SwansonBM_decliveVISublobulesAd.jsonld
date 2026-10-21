@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_decliveVISublobulesAd",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "DECa-d",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_decliveVISublobulesAd",
+  "name": "declive (VI), sublobules a-d",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

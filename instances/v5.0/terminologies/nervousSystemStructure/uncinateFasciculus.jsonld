@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/uncinateFasciculus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a fasciculus of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003044) ('is_a' and 'relationship')]",
+  "description": "Pathway arising from the fastigial nucleus to the vestibular nuclei, reticular formation, motor neurons of brainstem and cervical spinal cord (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 261). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003044)]",
+  "name": "uncinate fasciculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112157"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0003044#uncinate-fasciculus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003044",
+  "synonym": [
+    "cerebral uncinate fasciculus"
+  ]
+}

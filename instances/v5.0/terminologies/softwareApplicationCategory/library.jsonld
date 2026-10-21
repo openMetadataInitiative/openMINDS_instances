@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/softwareApplicationCategory/library",
+  "@type": "https://openminds.om-i.org/types/SoftwareApplicationCategory",
+  "definition": null,
+  "description": null,
+  "name": "library",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q188860",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_caudoputamen",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "CP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_caudoputamen",
+  "name": "caudoputamen",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

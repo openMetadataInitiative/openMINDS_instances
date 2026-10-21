@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModelScope",
   "definition": "A model of one or more brain regions",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "network: brain region",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

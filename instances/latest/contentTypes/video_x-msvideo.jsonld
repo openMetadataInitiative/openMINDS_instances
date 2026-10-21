@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/video_x-msvideo",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".avi"
   ],
+  "isBasedOn": null,
   "name": "video/x-msvideo",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Audio Video Interleave",

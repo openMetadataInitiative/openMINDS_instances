@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SubjectAttribute",
   "definition": "An organism that is part of a study and does not receive the treatment being tested.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "control",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

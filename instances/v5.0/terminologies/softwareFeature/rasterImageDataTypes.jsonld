@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/softwareFeature/rasterImageDataTypes",
+  "@type": "https://openminds.om-i.org/types/SoftwareFeature",
+  "definition": null,
+  "description": null,
+  "name": "raster image data types",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q182270",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

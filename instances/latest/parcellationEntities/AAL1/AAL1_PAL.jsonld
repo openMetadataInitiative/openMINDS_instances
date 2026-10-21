@@ -15,13 +15,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_subcorticalGrayNuclei"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_PAL"
-    }
-  ],
   "lookupLabel": "AAL1_PAL",
   "name": "lenticular nucleus, pallidum",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

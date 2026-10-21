@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hypothalamicNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a diencephalic nucleus. Is part of the hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006568) ('is_a' and 'relationship')]",
+  "description": "A nucleus of brain that is part of a hypothalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006568)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006568#hypothalamic-nucleus",
+  "name": "hypothalamic nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006568",
+  "synonym": [
+    "nucleus of hypothalamus"
+  ]
+}
+

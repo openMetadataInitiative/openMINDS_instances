@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_primarySomatosensoryAreaDysgranularZone",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "S1-dz"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_primarySomatosensoryAreaDysgranularZone",
+  "name": "primary somatosensory area, dysgranular zone",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

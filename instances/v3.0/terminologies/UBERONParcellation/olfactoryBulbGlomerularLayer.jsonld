@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbGlomerularLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an olfactory bulb layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005377)]",
+  "description": "The glomerular layer is the most superficial layer, consisting of mitral cell dendritic arborizations (glomeruli), olfactory nerve fibers, and periglomerular cells. Periglomerular cells contact multiple mitral cell dendrites within the glomeruli and provide lateral inhibition of neighboring glomeruli while allowing excitation of a specific mitral cell dendritic tree. Each mitral cell is contacted by at least 1000 olfactory nerve fibers. Portion of tissue which is located in between the primary olfactory fiber layer and the external cellular layer of the olfactory bulb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005377)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005377#olfactory-bulb-glomerular-layer",
+  "name": "olfactory bulb glomerular layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005377",
+  "synonym": [
+    "olfactory bulb main glomerulus",
+    "stratum glomerulosum bulbi olfactorii"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/primaryOlfactoryFiberLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the olfactory bulb. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000267)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000267#primary-olfactory-fiber-layer",
+  "name": "primary olfactory fiber layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000267",
+  "synonym": null
+}
+

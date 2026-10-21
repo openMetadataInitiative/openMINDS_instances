@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/intermediolateralNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nucleus of spinal cord. Is part of the lamina VII of gray matter of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002175) ('is_a' and 'relationship')]",
+  "description": "The intermediolateral nucleus is a region of gray matter found in Rexed lamina VII of the spinal column. Rexed Lamina VII contains several well defined nuclei including the nucleus dorsalis, the intermediolateral cell column (lateral gray horn), and the sacral autonomic nucleus. It extends from the first thoracic through the third lumbar segment, and contains the autonomic motor neurons that give rise to the preganglionic fibers of the sympathetic system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002175)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002175#intermediolateral-nucleus",
+  "name": "intermediolateral nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002175",
+  "synonym": [
+    "intermediolateral nucleus of spinal cord",
+    "nucleus intermediolateralis medullae spinalis",
+    "spinal cord intermediolateral nucleus"
+  ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.igorpro",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".ibw",
+    ".pxp"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.igorpro",
+  "specification": null,
+  "synonym": [
+    "Igor Binary Waves, Packed Experiment files"
+  ]
+}

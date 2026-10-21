@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalRootsCoiter",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "drt",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_dorsalRootsCoiter",
+  "name": "dorsal roots [Coiter]",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

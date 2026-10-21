@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpace/P-MarmosetBSC-corT",
+  "@type": "https://openminds.ebrains.eu/sands/CommonCoordinateSpace",
+  "abbreviation": "P-MarmosetBSC-corT",
+  "author": null,
+  "custodian": null,
+  "description": "Stereotactic coordinate space of the coronal plane.",
+  "digitalIdentifier": null,
+  "fullName": "Paxinos et al. Coronal Template of the Marmoset Brain in Stereotaxic Coordinates",
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/P-MarmosetBSC-corT_v2012-Interaural-LSA"
+    }
+  ],
+  "homepage": "http://www.neura.edu.au/research/themes/paxinos-group",
+  "howToCite": null,
+  "ontologyIdentifier": null,
+  "shortName": "Paxinos et al. Stereotaxic Coronal Template (Marmoset Brain)",
+  "usedSpecies": {
+    "@id": "https://openminds.ebrains.eu/instances/species/callithrixJacchus"
+  }
+}
+

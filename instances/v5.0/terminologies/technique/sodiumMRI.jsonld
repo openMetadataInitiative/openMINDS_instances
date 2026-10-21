@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/sodiumMRI",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "'Sodium MRI' is a specialised magnetic resonance imaging technique that uses strong magnetic fields, magnetic field gradients, and radio waves to generate images of the distribution of sodium in the body. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Sodium_MRI)]",
+  "description": null,
+  "name": "sodium MRI",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Na MRI",
+    "Na-MRI",
+    "Sodium-MRI"
+  ]
+}

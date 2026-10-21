@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleVIIA",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebellum vermis lobule VII. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005345)]",
+  "description": "The folium vermis is a short, narrow, concealed band at the posterior extremity of the vermis, consisting apparently of a single folium, but in reality marked on its upper and under surfaces by secondary fissures. Laterally, it expands in either hemisphere into a considerable lobule, the superior semilunar lobule (lobulus semilunaris superior; postero-superior lobules), which occupies the posterior third of the upper surface of the hemisphere, and is bounded below by the horizontal sulcus. The superior semilunar lobules and the folium vermis form the lobus semilunaris. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005345)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005345#cerebellum-vermis-lobule-viia",
+  "name": "cerebellum vermis lobule VIIA",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005345",
+  "synonym": [
+    "folium of vermis of cerebellum",
+    "vermic lobule VIIA"
+  ]
+}
+

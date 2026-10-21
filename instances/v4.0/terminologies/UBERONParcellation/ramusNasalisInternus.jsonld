@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/ramusNasalisInternus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an ophthalmic nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010661)]",
+  "description": "Distal part of the opthalmicus profundus gives rise to 2 ramules: palatinus and cutaneous. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010661)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010661#ramus-nasalis-internus",
+  "name": "ramus nasalis internus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010661",
+  "synonym": null
+}
+

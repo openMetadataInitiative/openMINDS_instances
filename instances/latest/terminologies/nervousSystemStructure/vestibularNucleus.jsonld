@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/vestibularNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of medulla oblongata. Is part of the vestibular nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007228) ('is_a' and 'relationship')]",
+  "description": "A cranial nucleus for the vestibular nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007228)]",
+  "name": "vestibular nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0007228#vestibular-nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007228",
+  "synonym": [
+    "vestibular nucleus of acoustic nerve",
+    "vestibular nucleus of eighth cranial nerve",
+    "vestibular VIII nucleus"
+  ]
+}

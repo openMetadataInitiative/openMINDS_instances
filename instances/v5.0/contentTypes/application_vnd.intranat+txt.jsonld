@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.intranat+txt",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".pts",
+    ".txt"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.intranat+txt",
+  "specification": null,
+  "synonym": [
+    "IntrAnat PTS"
+  ]
+}

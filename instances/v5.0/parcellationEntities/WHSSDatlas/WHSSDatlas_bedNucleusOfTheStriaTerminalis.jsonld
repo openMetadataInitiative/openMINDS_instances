@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_bedNucleusOfTheStriaTerminalis",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "BNST"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_bedNucleusOfTheStriaTerminalis",
+  "name": "bed nucleus of the stria terminalis",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

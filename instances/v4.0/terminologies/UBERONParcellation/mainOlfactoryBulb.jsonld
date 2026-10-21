@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/mainOlfactoryBulb",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the olfactory bulb. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009951) ('is_a' and 'relationship')]",
+  "description": "The main olfactory bulb has a multi-layered cellular architecture. In order from surface to the center the layers are: Glomerular layer, External plexiform layer, Mitral cell layer, Internal plexiform layer, Granule cell layer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009951)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009951#main-olfactory-bulb",
+  "name": "main olfactory bulb",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009951",
+  "synonym": null
+}
+

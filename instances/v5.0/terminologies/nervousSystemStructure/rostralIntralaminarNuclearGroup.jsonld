@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/rostralIntralaminarNuclearGroup",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the intralaminar nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002965) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "rostral intralaminar nuclear group",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0110211"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002965#rostral-intralaminar-nuclei",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002965",
+  "synonym": [
+    "anterior group of intralaminar nuclei",
+    "nuclei intralaminares rostrales",
+    "rostral group of intralaminar nuclei",
+    "rostral intralaminar nuclei"
+  ]
+}

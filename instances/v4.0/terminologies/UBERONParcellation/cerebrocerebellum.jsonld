@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebrocerebellum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of cerebellar cortex. Is part of the cerebellar hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014644) ('is_a' and 'relationship')]",
+  "description": "The part of the cerebellar cortex that receives input from the cerebral cortex via axons from the pontine relay nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014644)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014644#cerebrocerebellum",
+  "name": "cerebrocerebellum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014644",
+  "synonym": [
+    "cerebellum lateral hemisphere",
+    "cerebellum lateral zone",
+    "neocerebellum",
+    "pontocerebellum"
+  ]
+}
+

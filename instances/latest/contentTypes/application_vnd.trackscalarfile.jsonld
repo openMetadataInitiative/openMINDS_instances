@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.trackscalarfile",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".tsf"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.trackscalarfile",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Track Scalar File Format"

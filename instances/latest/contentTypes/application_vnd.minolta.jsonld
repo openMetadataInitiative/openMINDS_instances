@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.minolta",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".mrw"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.minolta",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Minolta MRW"

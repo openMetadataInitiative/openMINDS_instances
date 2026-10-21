@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/diffuseReticularNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a parabrachial nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002869)]",
+  "description": null,
+  "name": "diffuse reticular nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0105881"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002869#diffuse-reticular-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002869",
+  "synonym": [
+    "Koelliker-Fuse nucleus",
+    "kolliker-Fuse nucleus",
+    "Kolloker-Fuse nucleus",
+    "Kölliker-Fuse nucleus",
+    "nucleus of Kolliker-Fuse",
+    "nucleus subparabrachialis",
+    "subparabrachial nucleus"
+  ]
+}

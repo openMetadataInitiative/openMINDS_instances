@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_retroinsularArea",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "ReI",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_insularCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_retroinsularArea",
+  "name": "retroinsular area (cortex)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

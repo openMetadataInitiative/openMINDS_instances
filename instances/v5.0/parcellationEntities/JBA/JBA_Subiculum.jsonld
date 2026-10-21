@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Subiculum",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_hippocampalFormation"
+    }
+  ],
+  "lookupLabel": "JBA_Subiculum",
+  "name": "Subiculum (Hippocampus)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

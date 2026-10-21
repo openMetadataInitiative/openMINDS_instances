@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/fourthVentricleMedianAperture",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a fourth ventricle aperture. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003991)]",
+  "description": "The large midline opening of the posterior inferior part of the roof of the fourth ventricle that connects the fourth ventricle to the posterior cerebromedullary cistern and the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003991)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003991#fourth-ventricle-median-aperture",
+  "name": "fourth ventricle median aperture",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003991",
+  "synonym": [
+    "apertura mediana",
+    "foramen of Magendie",
+    "foramen of Majendie",
+    "median aperture of fourth ventricle"
+  ]
+}
+

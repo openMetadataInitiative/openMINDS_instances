@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/insectEmbryonicLarvalSensillum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an arthropod sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007240)]",
+  "description": "Any sensillum (UBERON:6007152) that is part of some larva (UBERON:6001727). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007240)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6007240#embryonic-larval-sensillum",
+  "name": "insect embryonic/larval sensillum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6007240",
+  "synonym": [
+    "larval sensillum"
+  ]
+}
+

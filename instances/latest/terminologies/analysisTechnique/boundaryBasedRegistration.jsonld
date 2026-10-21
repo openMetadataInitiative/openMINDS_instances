@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "The term 'boundary-based registration' refers to feature based image registration methods which utilize a boundary which can be identified in the source and target image.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "boundary-based registration",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "BBR"

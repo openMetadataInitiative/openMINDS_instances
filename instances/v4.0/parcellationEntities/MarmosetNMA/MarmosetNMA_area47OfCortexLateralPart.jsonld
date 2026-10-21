@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area47OfCortexLateralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "A47L(12L)",
+  "alternateName": [
+    "area 47 (old 12) of cortex, lateral part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_ventrolateralPrefrontalCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47OfCortexLateralPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area47OfCortexLateralPart",
+  "name": "area 47 (old 12) of cortex lateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

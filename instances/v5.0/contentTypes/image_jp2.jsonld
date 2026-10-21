@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/image_jp2",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".jpc",
+    ".j2c",
+    ".j2k"
+  ],
+  "isBasedOn": null,
+  "name": "image/jp2",
+  "specification": null,
+  "synonym": [
+    "JPEG 2000"
+  ]
+}

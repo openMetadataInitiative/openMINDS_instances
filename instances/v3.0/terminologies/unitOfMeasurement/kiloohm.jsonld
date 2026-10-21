@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/kiloohm",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "A unit of measurement of electrical resistance equal to 1,000 ohms (10³ Ω).",
+  "description": null,
+  "name": "kiloohm",
+  "preferredOntologyIdentifier": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilohm",
+  "synonym": [
+    "kilohm",
+    "kilo-ohm",
+    "kΩ"
+  ]
+}

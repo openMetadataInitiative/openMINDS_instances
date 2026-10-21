@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/MeasuredSignalType",
   "definition": "A neural oscillation in the high frequency range (typically between 30-150 Hz) arising from synchronous and coherent electrical activity in the brain. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Gamma_wave)]",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104539",
-  "knowledgeSpaceLink": null,
   "name": "gamma activity",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0104539",
   "synonym": [
     "gamma-wave",

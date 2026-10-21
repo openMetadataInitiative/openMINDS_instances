@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.spike2.sonpy.son",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".smr"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.spike2.sonpy.son",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "CED spike2 files"

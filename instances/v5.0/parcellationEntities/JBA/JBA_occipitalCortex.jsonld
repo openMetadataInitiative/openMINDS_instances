@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_occipitalCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_occipitalLobe"
+    }
+  ],
+  "lookupLabel": "JBA_occipitalCortex",
+  "name": "occipital cortex",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

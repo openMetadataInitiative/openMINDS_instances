@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SubcellularEntity",
   "definition": "A 'dendritic spine' is a protrusion from a dendrite. Spines are specialised subcellular compartments involved in the synaptic transmission.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103030",
-  "knowledgeSpaceLink": null,
   "name": "dendritic spine",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao1799103720",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://uri.neuinfo.org/nif/nifstd/sao1799103720",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0103030",
   "synonym": null
 }

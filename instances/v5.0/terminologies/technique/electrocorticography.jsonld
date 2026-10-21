@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/electrocorticography",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "'Electrocorticography', short ECoG, is an intracranial electroencephalography technique in which electrodes are placed (subdural or epidural) on the exposed surface of the brain to record electrical activity from the cerebral cortex.",
+  "description": null,
+  "name": "electrocorticography",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "ECoG"
+  ]
+}

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "surface projection",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "surface texture projection"

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/tissueSampleAttribute/untreated",
+  "@type": "https://openminds.om-i.org/types/TissueSampleAttribute",
+  "definition": "A specimen that has not been modified or treated (e.g., with chemicals) compared to its natural state.",
+  "description": null,
+  "name": "untreated",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

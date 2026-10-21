@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_lateralPosteriorThalamicNucleusMediorostralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "LPMR",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_lateralPosteriorThalamicNucleusMediorostralPart",
+  "name": "lateral posterior thalamic nucleus, mediorostral part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

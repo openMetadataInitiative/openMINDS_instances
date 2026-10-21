@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/selfReporting",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A data collection technique in which individuals provide information about their own characteristics, behaviors, experiences, attitudes, or conditions through questionnaires, interviews, or other reporting instruments.",
+  "description": null,
+  "name": "self-reporting",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "self reporting"
+  ]
+}

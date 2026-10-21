@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/striatumMediumSpinyNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "A special type of GABAergic neuron with large dendritic trees that is located in the striatum.",
+  "description": null,
+  "name": "striatum medium spiny neuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/npo/uris/neurons/35"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0784362",
+  "synonym": [
+    "MSN",
+    "spiny projection neuron",
+    "SPN",
+    "striatal medium spiny neuron"
+  ]
+}

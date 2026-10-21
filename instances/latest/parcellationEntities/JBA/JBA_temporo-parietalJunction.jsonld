@@ -12,9 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_temporalLobe"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "JBA_temporo-parietalJunction",
   "name": "temporo-parietal junction",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

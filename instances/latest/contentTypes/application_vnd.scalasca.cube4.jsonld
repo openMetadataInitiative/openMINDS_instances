@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.scalasca.cube4",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".cubex"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.scalasca.cube4",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

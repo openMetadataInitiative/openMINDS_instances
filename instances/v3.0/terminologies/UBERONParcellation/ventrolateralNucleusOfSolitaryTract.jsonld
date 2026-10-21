@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventrolateralNucleusOfSolitaryTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of solitary tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019312)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0019312#ventrolateral-subnucleus-of-solitary-tract",
+  "name": "ventrolateral nucleus of solitary tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019312",
+  "synonym": [
+    "ventrolateral subnucleus of solitary tract",
+    "ventrolateral subnucleus of solitary tract, left"
+  ]
+}
+

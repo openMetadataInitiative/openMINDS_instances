@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_sublenticularExtendedAmygdalaMedialPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "EAM",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_sublenticularExtendedAmygdalaMedialPart",
+  "name": "sublenticular extended amygdala, medial part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

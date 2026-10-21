@@ -4,11 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicComplex",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'thalamic complex' is a nuclear complex. It is part of the 'gray matter of diencephalon'.",
-  "description": "A nuclear complex which in mammals consists of four parts, the hypothalamus, epithalamus, ventral thalamus, and dorsal thalamus [WP,modified]. [http://en.wikipedia.org/wiki/Thalamus#Thalamic_nuclei]",
+  "definition": "Is a nuclear complex of neuraxis and gray matter of diencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010225)]",
+  "description": "A nuclear complex which in mammals consists of four parts, the hypothalamus, epithalamus, ventral thalamus, and dorsal thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010225)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0734352",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010225#thalamic-complex",
   "name": "thalamic complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010225",
   "synonym": null
 }
+

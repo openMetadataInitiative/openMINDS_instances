@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/meninxOfDiencephalon",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a forebrain meninges. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003290) ('is_a' and 'relationship')]",
+  "description": "A meninx that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003290)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003290#meninx-of-diencephalon",
+  "name": "meninx of diencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003290",
+  "synonym": [
+    "between brain meninges",
+    "between brain meninx",
+    "diencephalon meninges",
+    "diencephalon meninx",
+    "interbrain meninges",
+    "interbrain meninx",
+    "mature diencephalon meninges",
+    "mature diencephalon meninx",
+    "meninges of between brain",
+    "meninges of diencephalon",
+    "meninges of interbrain",
+    "meninges of mature diencephalon",
+    "meninx of between brain",
+    "meninx of interbrain",
+    "meninx of mature diencephalon"
+  ]
+}
+

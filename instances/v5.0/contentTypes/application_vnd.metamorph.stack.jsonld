@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.metamorph.stack",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".nd",
+    ".stk"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.metamorph.stack",
+  "specification": null,
+  "synonym": [
+    "MetaMorph Stack"
+  ]
+}

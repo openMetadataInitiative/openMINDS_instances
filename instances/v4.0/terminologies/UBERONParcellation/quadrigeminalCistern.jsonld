@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/quadrigeminalCistern",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a subarachnoid cistern. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004052)]",
+  "description": "The enclosed space extending forward between the corpus callosum and the thalamus that contains the internal cerebral veins. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004052)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004052#quadrigeminal-cistern",
+  "name": "quadrigeminal cistern",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004052",
+  "synonym": [
+    "ambient cistern",
+    "cistern of great cerebral vein",
+    "cisterna ambiens",
+    "cisterna quadrigeminalis",
+    "cisterna venae magnae cerebri",
+    "superior cistern"
+  ]
+}
+

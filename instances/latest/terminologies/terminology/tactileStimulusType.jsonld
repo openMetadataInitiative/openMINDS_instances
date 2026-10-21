@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "A 'tactile stimulus type' groups similar tactile stimuli used across tactile stimulation techniques.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "tactile stimulus type",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "Serial block face scanning electron microscopy is a serial section scanning electron microscopy technique where an ultramicrotome is used to remove the surface layer of a specimen.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "serial block face scanning electron microscopy",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "SB-SEM",

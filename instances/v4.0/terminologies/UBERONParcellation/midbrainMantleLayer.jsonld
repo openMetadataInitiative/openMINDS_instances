@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/midbrainMantleLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a neural tube mantle layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009581)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009581#midbrain-mantle-layer",
+  "name": "midbrain mantle layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009581",
+  "synonym": [
+    "mantle layer lateral wall midbrain",
+    "midbrain lateral wall mantle layer"
+  ]
+}
+

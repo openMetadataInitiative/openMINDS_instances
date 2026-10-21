@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fourthVentricleGeneral",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "V4g",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_fourthVentricleGeneral",
+  "name": "fourth ventricle, general",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

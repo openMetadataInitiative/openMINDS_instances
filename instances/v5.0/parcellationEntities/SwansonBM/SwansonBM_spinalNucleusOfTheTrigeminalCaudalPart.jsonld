@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalCaudalPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "SPVC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_spinalNucleusOfTheTrigeminalCaudalPart",
+  "name": "spinal nucleus of the trigeminal, caudal part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

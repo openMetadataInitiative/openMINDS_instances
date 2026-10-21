@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/medullaryLaminaOfThalamus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter lamina of diencephalon. Is part of the thalamic complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014533) ('is_a' and 'relationship')]",
+  "description": "Medullary laminae of thalamus are layers of myelinated fibres that appear on cross sections of the thalamus. They also are commonly referred to as laminae medullares thalami or medullary layers of thalamus. The specific layers are: Lamina medullaris lateralis (external medullary lamina) - separates ventral and lateral thalamus from the subthalamus and thalamic reticular nucleus; Lamina medullaris medialis (internal medullary lamina) - positioned between the dorsomedial and ventral nuclei of thalamus, encloses the intralaminar nuclei (centromedian nucleus, paracentral, and central lateral) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014533)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014533#medullary-lamina-of-thalamus",
+  "name": "medullary lamina of thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014533",
+  "synonym": null
+}
+

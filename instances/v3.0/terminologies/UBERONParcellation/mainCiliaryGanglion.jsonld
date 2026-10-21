@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/mainCiliaryGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cranial ganglion and ganglion of ciliary nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002058)]",
+  "description": "A parasympathetic ganglion located in the posterior orbit that contains preganglionic nerves and postganglionic neurons of the oculomotor nerve, connects to the Edinger-Westphal nucleus via the oculomotor nerve and the eye muscles via the short ciliary nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002058)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002058#main-ciliary-ganglion",
+  "name": "main ciliary ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002058",
+  "synonym": [
+    "ciliary ganglion"
+  ]
+}
+

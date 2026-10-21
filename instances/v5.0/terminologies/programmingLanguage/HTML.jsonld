@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/programmingLanguage/HTML",
+  "@type": "https://openminds.om-i.org/types/ProgrammingLanguage",
+  "definition": null,
+  "description": null,
+  "name": "HTML",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q8811",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

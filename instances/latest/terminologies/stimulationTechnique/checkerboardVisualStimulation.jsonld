@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/StimulationTechnique",
   "definition": "Stimulation technique that uses a checkerboard as visual stimulus.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "checkerboard visual stimulation",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "checker board stimulation",

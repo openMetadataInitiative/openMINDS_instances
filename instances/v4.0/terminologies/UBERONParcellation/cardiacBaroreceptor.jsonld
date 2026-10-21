@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cardiacBaroreceptor",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a low-pressure baroreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018395)]",
+  "description": "A baroreceptor that located in a heart. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018395)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018395#cardiac-baroreceptor",
+  "name": "cardiac baroreceptor",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018395",
+  "synonym": null
+}
+

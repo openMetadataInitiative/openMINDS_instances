@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/centrumSemiovale",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebral hemisphere white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008967)]",
+  "description": "The semioval center is the white matter found underneath the grey matter on the surface of the cerebrum. The term is synonymous with cerebral white matter. The white matter, located in each hemisphere between the cerebral cortex and nuclei, as a whole has a semioval shape. It consists of cortical projection fibers, association fibers and cortical fibers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008967)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008967#centrum-semiovale",
+  "name": "centrum semiovale",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008967",
+  "synonym": [
+    "centrum ovale",
+    "corpus medullare cerebri",
+    "medullary center",
+    "substantia centralis medullaris cerebri"
+  ]
+}
+

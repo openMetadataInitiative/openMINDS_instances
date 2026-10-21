@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/filumTerminaleInternum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the filum terminale. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010269)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010269#filum-terminale-internum",
+  "name": "filum terminale internum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010269",
+  "synonym": [
+    "internal part of filum terminale"
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_paraventricularThalamicNucleiAnteriorAndPosterior",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "PV"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_paraventricularThalamicNucleiAnteriorAndPosterior",
+  "name": "paraventricular thalamic nuclei (anterior and posterior)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

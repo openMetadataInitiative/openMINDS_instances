@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.pickle",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".pkl",
     ".pickle"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.pickle",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Python pickle files"

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/cryosectioning",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Cutting of specimen in cryo/freezing conditions typically resulting in micromillimeter thin slices.",
+  "description": null,
+  "name": "cryosectioning",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "cryosection procedure",
+    "frozen section procedure"
+  ]
+}

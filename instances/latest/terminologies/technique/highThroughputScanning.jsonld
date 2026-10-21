@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "'High-throughput scanning' is a technique for automatic creation of analog or digital images of a large number of samples.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "high-throughput scanning",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "high throughput scanning"

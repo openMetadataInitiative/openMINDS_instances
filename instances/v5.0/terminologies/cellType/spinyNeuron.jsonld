@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/spinyNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "Any neuron characterized by a high density of dendritic spines on the dendrites.",
+  "description": null,
+  "name": "spiny neuron",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/nlx_100601"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NLXCELL:100601#spiny-neuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

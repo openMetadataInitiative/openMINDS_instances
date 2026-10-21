@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/thirdLumbarSpinalCordSegment",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a lumbar subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006449)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006449#third-lumbar-spinal-cord-segment-1",
+  "name": "third lumbar spinal cord segment",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006449",
+  "synonym": [
+    "L3 segment",
+    "L3 spinal cord segment"
+  ]
+}
+

@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nikon",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".ids",
     ".ics"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.nikon",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

@@ -4,24 +4,23 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorHornLateralVentricle",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Posterior horn lateral ventricle' is a telencephalic ventricle.",
-  "description": "Part of the lateral ventricle that extends posteriorly into the occipital lobe.",
+  "definition": "Is a telencephalic ventricle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004672)]",
+  "description": "Part of the lateral ventricle that extends posteriorly into the occipital lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004672)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109097",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004672#posterior-horn-lateral-ventricle-1",
   "name": "posterior horn lateral ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004672",
   "synonym": [
-    "cornu occipitale",
     "cornu occipitale (ventriculi lateralis)",
     "cornu occipitale ventriculi lateralis",
-    "cornu posterius",
     "cornu posterius (ventriculi lateralis)",
     "cornu posterius ventriculi lateralis",
     "occipital horn",
     "occipital horn of lateral ventricle",
-    "posterior horn lateral ventricle",
     "posterior horn of lateral ventricle",
     "posterior horn of the lateral ventricle",
-    "ventriculus lateralis"
+    "ventriculus lateralis, cornu occipitale",
+    "ventriculus lateralis, cornu posterius"
   ]
 }
+

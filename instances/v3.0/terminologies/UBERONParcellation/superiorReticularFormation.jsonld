@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorReticularFormation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medullary reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004166) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004166#superior-reticular-formation",
+  "name": "superior reticular formation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004166",
+  "synonym": null
+}
+

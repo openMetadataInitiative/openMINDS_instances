@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.burleigh-instruments.burleigh",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".img"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.burleigh-instruments.burleigh",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

@@ -4,19 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/medianPreopticNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Median preoptic nucleus' is a preoptic nucleus.",
-  "description": "The median preoptic nucleus is located along the midline in a position significantly dorsal to the other 3 preoptic nuclei, at least in the macaca fascicularis brain. It wraps around the top (dorsal), front, and bottom (ventral) surfaces of the anterior commissure. The median preoptic nucleus generates thirst. Drinking decreases noradrenaline release in the median preoptic nucleus.",
+  "definition": "Is a preoptic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002625)]",
+  "description": "The median preoptic nucleus is located along the midline in a position significantly dorsal to the other 3 preoptic nuclei, at least in the macaca fascicularis brain. It wraps around the top (dorsal), front, and bottom (ventral) surfaces of the anterior commissure. The median preoptic nucleus generates thirst. Drinking decreases noradrenaline release in the median preoptic nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002625)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106717",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002625#median-preoptic-nucleus-1",
   "name": "median preoptic nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002625",
-  "synonym": [
-    "medial preoptic area",
-    "median preoptic nucleus (Loo)",
-    "MnPO",
-    "nucleus praeopticus medianus",
-    "nucleus preopticus medianus",
-    "periventricular nucleus",
-    "preventricular portion"
-  ]
+  "synonym": null
 }
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rhombomere1",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005499)]",
+  "description": "Hindbrain segment or neuromere 1. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005499)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005499#rhombomere-1",
+  "name": "rhombomere 1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005499",
+  "synonym": [
+    "r1"
+  ]
+}
+

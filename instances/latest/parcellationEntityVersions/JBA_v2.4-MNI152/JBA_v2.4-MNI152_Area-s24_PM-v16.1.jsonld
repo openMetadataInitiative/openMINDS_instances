@@ -11,7 +11,6 @@
   "hasAnnotation": [
     {
       "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
-      "anchorPoint": null,
       "criteria": null,
       "criteriaQualityType": {
         "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
@@ -32,7 +31,6 @@
     },
     {
       "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
-      "anchorPoint": null,
       "criteria": null,
       "criteriaQualityType": {
         "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
@@ -57,10 +55,13 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_frontalCingulateGyrus"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-s24"
+  },
   "lookupLabel": "JBA_v2.4-MNI152_Area-s24_PM-v16.1",
   "name": "Area s24 (sACC)",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "v2.4-MNI152, PM-v16.1",
-  "versionInnovation": null
+  "versionSpecification": null
 }

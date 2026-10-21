@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/operatingSystem/Unix",
+  "@type": "https://openminds.om-i.org/types/OperatingSystem",
+  "definition": null,
+  "description": null,
+  "name": "Unix",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q11368",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

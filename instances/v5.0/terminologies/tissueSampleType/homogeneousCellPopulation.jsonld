@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/tissueSampleType/homogeneousCellPopulation",
+  "@type": "https://openminds.om-i.org/types/TissueSampleType",
+  "definition": "A sample of multiple cells/a population of cells that are of the same cell type.",
+  "description": null,
+  "name": "homogeneous cell population",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

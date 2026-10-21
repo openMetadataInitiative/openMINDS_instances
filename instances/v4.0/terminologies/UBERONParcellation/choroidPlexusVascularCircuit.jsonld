@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/choroidPlexusVascularCircuit",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a vasculature of brain. Is part of the choroid plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005219) ('is_a' and 'relationship')]",
+  "description": "Cranial vasculature where the posterior cerebral veins and the trans-choroid plexus branch form a circuit around the 4th ventricle choroid plexus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005219)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2005219#choroid-plexus-vascular-circuit",
+  "name": "choroid plexus vascular circuit",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2005219",
+  "synonym": [
+    "CVC"
+  ]
+}
+

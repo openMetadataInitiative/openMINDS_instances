@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/auditoryRadiation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a radiation of cerebral hemisphere. Is part of the forebrain ipsilateral fiber tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022262) ('is_a' and 'relationship')]",
+  "description": "The acoustic radiations or auditory radiations are structures found in the brain, in the ventral cochlear pathway, a part of the auditory system. Lesions to the auditory radiations could be a cause of cortical deafness. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022262)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022262#auditory-radiation",
+  "name": "auditory radiation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022262",
+  "synonym": [
+    "acoustic radiation",
+    "geniculotemporal radiation",
+    "geniculotemporal tract",
+    "radiatio acustica"
+  ]
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/opticRadiation",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a radiation of cerebral hemisphere. Is part of the forebrain ipsilateral fiber tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022264) ('is_a' and 'relationship')]",
+  "description": "The optic radiation (also known as the geniculo-calcarine tract or as the geniculostriate pathway) is a collection of axons from relay neurons in the lateral geniculate nucleus of the thalamus carrying visual information to the visual cortex (also called striate cortex) along the calcarine fissure. There is one such tract on each side of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022264)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022264#optic-radiation",
+  "name": "optic radiation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022264",
+  "synonym": [
+    "Gratiolet's radiation"
+  ]
+}
+

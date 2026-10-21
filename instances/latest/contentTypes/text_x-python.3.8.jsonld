@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/text_x-python.3.8",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".py"
   ],
+  "isBasedOn": null,
   "name": "text/x-python.3.8",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/programmingLanguage/JavaScript",
+  "@type": "https://openminds.om-i.org/types/ProgrammingLanguage",
+  "definition": null,
+  "description": null,
+  "name": "JavaScript",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q2005",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

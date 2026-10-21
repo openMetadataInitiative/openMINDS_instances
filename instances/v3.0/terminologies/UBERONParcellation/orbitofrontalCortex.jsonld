@@ -4,18 +4,16 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/orbitofrontalCortex",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Orbitofrontal cortex' is a frontal gyrus. It is part of the limbic system.",
-  "description": "Component of the prefontal cortex, frontal lobe, inferior region (Christine Fennema-Notestine).",
+  "definition": "Is a frontal gyrus. Is part of the limbic system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004167) ('is_a' and 'relationship')]",
+  "description": "The region of the cerebral cortex covering the basal surface of the frontal lobes; this region normally controls emotion and decision making. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004167)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108110",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004167#orbital-frontal-cortex",
   "name": "orbitofrontal cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004167",
   "synonym": [
     "fronto-orbital cortex",
-    "OFC",
     "orbital frontal cortex",
-    "orbito-frontal cortex",
-    "orbitofrontal cortex",
-    "segment of cortex of frontal lobe"
+    "orbito-frontal cortex"
   ]
 }
+

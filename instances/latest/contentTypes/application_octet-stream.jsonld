@@ -5,13 +5,16 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_octet-stream",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/application/octet-stream"
+  ],
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".bin"
   ],
+  "isBasedOn": null,
   "name": "application/octet-stream",
-  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/octet-stream",
   "specification": null,
   "synonym": [
     "binary format",

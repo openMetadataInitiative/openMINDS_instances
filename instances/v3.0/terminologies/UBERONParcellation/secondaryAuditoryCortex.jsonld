@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryAuditoryCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the auditory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034752) ('is_a' and 'relationship')]",
+  "description": "The part of the auditory cortex that receive more diffuse input from the belt areas of the medial geniculate complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034752)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034752#secondary-auditory-cortex",
+  "name": "secondary auditory cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034752",
+  "synonym": [
+    "belt auditory area",
+    "peripheral auditory cortex",
+    "second auditory area",
+    "secondary auditory cortex (belt, area 42)"
+  ]
+}
+

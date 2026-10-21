@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_externalPlexiformLayerOfTheOlfactoryBulb",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "EPl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_externalPlexiformLayerOfTheOlfactoryBulb",
+  "name": "external plexiform layer of the olfactory bulb",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

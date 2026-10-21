@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/subpretectalComplexOfAves",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a brain gray matter and nuclear complex of neuraxis. Is part of the pretectal region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035588) ('is_a' and 'relationship')]",
+  "description": "A nuclear complex in the ventral pretectal region. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035588)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035588#subpretectal-complex-of-aves",
+  "name": "subpretectal complex of Aves",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035588",
+  "synonym": null
+}
+

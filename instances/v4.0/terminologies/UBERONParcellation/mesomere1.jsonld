@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/mesomere1",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a midbrain neuromere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019272)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0019272#mesomere-1",
+  "name": "mesomere 1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019272",
+  "synonym": [
+    "mesomere M1"
+  ]
+}
+

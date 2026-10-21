@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/neodentatePartOfDentateNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a gray matter of hindbrain. Is part of the dentate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002747) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "neodentate part of dentate nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0107392"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002747#neodentate-part-of-dentate-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002747",
+  "synonym": [
+    "neodentate portion of dentate nucleus"
+  ]
+}

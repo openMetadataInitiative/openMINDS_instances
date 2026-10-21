@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ActionStatusType",
   "definition": "A pending or suspended action.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "inactive",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "inactive action status",

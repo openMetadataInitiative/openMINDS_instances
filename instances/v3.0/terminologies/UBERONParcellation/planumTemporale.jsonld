@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/planumTemporale",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022268) ('is_a' and 'relationship')]",
+  "description": "The planum temporale is the cortical area just posterior to the auditory cortex within the Sylvian fissure. It is a triangular region which forms the heart of Wernicke's area, one of the most important functional areas for language. The planum temporale shows a significant asymmetry. In 65% of all individuals the left planum temporale appears to be more developed, while the right planum temporale is more developed in only 10%. In some peoplebs brains, the planum temporale is more than five times larger on the left than on the right, making it the most asymmetrical structure in the brain. This greater size of the left planum temporale compared with the right is already present in the foetus, where it can be observed starting from the 31st week of gestation. This observation strengthens the hypothesis of a genetic predisposition for brain asymmetry. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022268)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022268#planum-temporale",
+  "name": "planum temporale",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022268",
+  "synonym": null
+}
+

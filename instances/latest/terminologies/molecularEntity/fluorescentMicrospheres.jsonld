@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Fluorescent microspheres are non-toxic, non-biologically reactive small polymers embedded with fluorescent dye which are used in medical imaging, as markers for fluorescent microscopy and as standards for flow cytometry fluorescent cell sorting.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "fluorescent microspheres",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -15,13 +15,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_centralRegion"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_POST"
-    }
-  ],
   "lookupLabel": "AAL1_POST",
   "name": "postcentral gyrus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

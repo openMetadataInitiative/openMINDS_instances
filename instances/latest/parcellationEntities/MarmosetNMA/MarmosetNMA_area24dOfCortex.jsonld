@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_area24dOfCortex",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "A24d",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/MarmosetNMA_anteriorCingulateCortex"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area24dOfCortex",
+  "name": "area 24d of cortex",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

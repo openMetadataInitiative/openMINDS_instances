@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/mesencephalicTractOfTrigeminalNerve",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a tract of brain. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002666) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "mesencephalic tract of trigeminal nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106813"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002666#mesencephalic-tract-of-trigeminal-nerve-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002666",
+  "synonym": [
+    "mesencephalic root of v",
+    "mesencephalic trigeminal tract"
+  ]
+}

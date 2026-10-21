@@ -4,21 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTrapezoidBody",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Nucleus of trapezoid body' is a nucleus of superior olivary complex.",
-  "description": "A nucleus embedded within the fibers of the trapezoid body.",
+  "definition": "Is a nucleus of superior olivary complex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007633)]",
+  "description": "A nucleus embedded within the fibers of the trapezoid body. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007633)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111919",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007633#trapezoid-nuclear-complex",
   "name": "nucleus of trapezoid body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007633",
   "synonym": [
-    "nuclei of trapezoid body",
-    "nucleus corporis trapezoidei",
-    "nucleus of the trapezoid body",
-    "nucleus trapezoidalis",
-    "set of nuclei of trapezoid body",
-    "trapezoid gray",
-    "trapezoid nuclear complex",
-    "trapezoid nuclei",
-    "Tz"
+    "trapezoid nuclear complex"
   ]
 }
+

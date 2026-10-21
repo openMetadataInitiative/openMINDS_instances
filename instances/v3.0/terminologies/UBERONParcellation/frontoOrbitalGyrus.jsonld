@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/frontoOrbitalGyrus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an orbital gyrus and frontal gyrus. Is part of the orbitofrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009836) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104458",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009836#fronto-orbital-gyrus-1",
+  "name": "fronto-orbital gyrus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009836",
+  "synonym": [
+    "orbito-frontal gyrus",
+    "orbitofrontal gyrus"
+  ]
+}
+

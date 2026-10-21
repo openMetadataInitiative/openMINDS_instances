@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/tapetumOfCorpusCallosum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebral hemisphere white matter. Is part of the corpus callosum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000373) ('is_a' and 'relationship')]",
+  "description": "On either side of the corpus collosum, the fibers radiate in the white substance and pass to the various parts of the cerebral cortex; those curving forward from the genu into the frontal lobe constitute the forceps anterior, and those curving backward into the occipital lobe, the forceps posterior. Between these two parts is the main body of the fibers which constitute the tapetum and extend laterally on either side into the temporal lobe, and cover in the central part of the lateral ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000373)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000373#tapetum-of-corpus-callosum",
+  "name": "tapetum of corpus callosum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000373",
+  "synonym": null
+}
+

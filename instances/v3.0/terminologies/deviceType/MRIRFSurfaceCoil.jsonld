@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/deviceType/MRIRFSurfaceCoil",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
+  "definition": "A localized radiofrequency (RF) coil designed to transmit and/or receive magnetic resonance imaging (MRI) signals from a limited region near the body surface.",
+  "description": "An MRI RF surface coil is positioned directly adjacent to the region of interest to maximize local signal sensitivity. Its sensitivity decreases rapidly with distance, making it primarily suitable for imaging superficial anatomical regions. In most clinical configurations, it is used in combination with an MRI RF volume coil for transmission and operates mainly in receive mode. In specialized or legacy systems, it may also be configured for both transmission and reception. MRI RF surface coils are typically mounted in a non-integrated manner and may be either conformable or form-stable, depending on their mechanical design and intended application.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MRI RF surface coil",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "magnetic resonance imaging local radiofrequency coil",
+    "magnetic resonance imaging radiofrequency local coil",
+    "magnetic resonance imaging radiofrequency surface coil",
+    "magnetic resonance imaging surface radiofrequency coil",
+    "MRI local RF coil",
+    "MRI RF local coil",
+    "MRI surface RF coil"
+  ]
+}
+

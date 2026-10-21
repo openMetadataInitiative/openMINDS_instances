@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusRapheMagnus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nucleus of medulla oblongata. Is part of the medullary raphe nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002156) ('is_a' and 'relationship')]",
+  "description": "The nucleus raphe magnus, located directly rostral to the raphe obscurus, is afferently stimulated from axons in the spinal cord and cerebellum. This makes the magnus a likely candidate for part of the motor system; however, it seems to participate in the endogenous analgesia system. The magnus receives descending afferents from the periaqueductal gray, the paraventricular hypothalamic nucleus, central nucleus of the amygdala, lateral hypothalamic area, parvocellular reticular nucleus and the prelimbic, infralimbic, medial and lateral precentral cortices. All of these brain areas influence the main function of the raphe magnus. The main function of the magnus is mostly pain mediation; in fact it sends projections to the dorsal horn of the spinal cord to directly inhibit pain. The periaquiductal gray, the epicenter of analgesia, sends efferent connections to the nucleus raphe magnus in when it is stimulated by opiates (endogenous or otherwise). Electrical stimulation of the PAG produces analgesia, as well as administration of morphine to the PAG or n.r. magnus. The antinociceptic effects of electrical stimulation of the PAG can be blocked by administering naloxone, an opiate antagonist, to the n.r. magnus. All of this seems to indicate that the magnus is part of the endogenous opiate system, and acts to inhibit pain in the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002156)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107791",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002156#nucleus-raphe-magnus-1",
+  "name": "nucleus raphe magnus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002156",
+  "synonym": [
+    "magnus raphe nucleus",
+    "nucleus raphes magnus",
+    "raphe magnus nucleus"
+  ]
+}
+

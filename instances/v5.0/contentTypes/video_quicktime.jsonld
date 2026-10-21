@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/video_quicktime",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".mov"
+  ],
+  "isBasedOn": null,
+  "name": "video/quicktime",
+  "specification": null,
+  "synonym": [
+    "QuickTime Movie"
+  ]
+}

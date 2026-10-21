@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/paracentralNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the rostral intralaminar nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001924) ('is_a' and 'relationship')]",
+  "description": "One of the intralaminar nuclei of the thalamus, located medial to the central lateral nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001924)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001924#paracentral-nucleus-1",
+  "name": "paracentral nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001924",
+  "synonym": [
+    "nucleus centralis lateralis superior (kusama)",
+    "nucleus paracentral",
+    "nucleus paracentral thalami",
+    "nucleus paracentralis thalami",
+    "paracentral nucleus of thalamus",
+    "paracentral nucleus thalamus (gurdjian 1927)",
+    "paracentral thalamic nucleus"
+  ]
+}
+

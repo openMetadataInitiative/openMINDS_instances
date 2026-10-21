@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/archivalDataRetrieval",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A secondary data collection technique that involves systematically extracting information from existing records, documents, or datasets to investigate research questions.",
+  "description": null,
+  "name": "archival data retrieval",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "archival records retrieval"
+  ]
+}

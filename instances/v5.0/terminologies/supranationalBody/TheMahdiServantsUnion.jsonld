@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SupranationalBody/TheMahdiServantsUnion",
+  "@type": "https://openminds.om-i.org/types/SupranationalBody",
+  "definition": "International non-governmental organization. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q96979217)]",
+  "description": null,
+  "name": "The Mahdi Servants Union",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q96979217",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Khoddam Al-Mahdi",
+    "MSU"
+  ]
+}

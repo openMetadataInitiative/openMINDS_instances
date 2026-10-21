@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/hippocampusGranuleCellLayer",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005367)]",
+  "description": null,
+  "name": "hippocampus granule cell layer",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005367#hippocampus-granule-cell-layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005367",
+  "synonym": null
+}

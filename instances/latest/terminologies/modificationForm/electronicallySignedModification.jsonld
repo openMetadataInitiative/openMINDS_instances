@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modificationForm/electronicallySignedModification",
+  "@type": "https://openminds.om-i.org/types/ModificationForm",
+  "definition": "Modification is executed using legally recognized electronic signature systems.",
+  "description": null,
+  "name": "electronically signed modification",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "e-signed modification"
+  ]
+}

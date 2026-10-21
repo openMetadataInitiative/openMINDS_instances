@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_secondarySomatosensoryCortexParietalVentralArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "S2PV",
+  "alternateName": [
+    "secondary somatosensory cortex, parietal ventral area"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_somatosensoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_secondarySomatosensoryCortexParietalVentralArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_secondarySomatosensoryCortexParietalVentralArea",
+  "name": "secondary somatosensory cortex parietal ventral area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

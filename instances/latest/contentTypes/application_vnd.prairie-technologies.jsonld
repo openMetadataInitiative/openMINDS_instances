@@ -5,6 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.prairie-technologies",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
@@ -12,8 +13,8 @@
     ".xml",
     ".tiff"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.prairie-technologies",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Prairie Technologies TIFF"

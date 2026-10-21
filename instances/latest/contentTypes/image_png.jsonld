@@ -5,13 +5,16 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/image_png",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/image/png"
+  ],
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".png"
   ],
+  "isBasedOn": null,
   "name": "image/png",
-  "relatedMediaType": "https://www.iana.org/assignments/media-types/image/png",
   "specification": null,
   "synonym": [
     "Portable Network Graphics",

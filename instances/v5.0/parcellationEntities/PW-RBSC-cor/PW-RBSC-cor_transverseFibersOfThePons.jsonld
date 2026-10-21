@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_transverseFibersOfThePons",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "tfp",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_transverseFibersOfThePons",
+  "name": "transverse fibers of the pons",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "An 'educational level' defines the developmental stage of a student and how learning environments are structured. ",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "educational level",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

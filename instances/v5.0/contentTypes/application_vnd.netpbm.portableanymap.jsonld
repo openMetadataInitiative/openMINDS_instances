@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.netpbm.portableanymap",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".ppm",
+    ".pgm",
+    ".pbm"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.netpbm.portableanymap",
+  "specification": null,
+  "synonym": [
+    "Portable Anymap"
+  ]
+}

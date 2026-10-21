@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinoOlivaryTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a tract of brain. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002719) ('is_a' and 'relationship')]",
+  "description": "The spino-olivary tract is located in the ventral funiculus of the spinal cord. This tract carries proprioception information from muscles and tendons as well as cutaneous impulses to the olivary nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002719)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002719#spino-olivary-tract-1",
+  "name": "spino-olivary tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002719",
+  "synonym": [
+    "helweg's tract"
+  ]
+}
+

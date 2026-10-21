@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/immunoassay",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "An analytical assay that uses the specific binding between antibodies and antigens to detect or quantify a target substance in a biological or chemical sample.",
+  "description": null,
+  "name": "immunoassay",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "immunochemical assay",
+    "immunological assay"
+  ]
+}

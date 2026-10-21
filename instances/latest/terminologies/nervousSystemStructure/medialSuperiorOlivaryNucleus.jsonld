@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/medialSuperiorOlivaryNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of superior olivary complex. Is part of the primary superior olive. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002782) ('is_a' and 'relationship')]",
+  "description": "One of two subnuclei of the superior olive located within the caudal pontine tegmentum. Appears as a parasagittal row of transversely oriented bipolar neurons in transverse sections of human, with elongated somata in humans and other primates and large caliber dendrites. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002782)]",
+  "name": "medial superior olivary nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106704"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002782#medial-superior-olivary-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002782",
+  "synonym": [
+    "chief nucleus of superior olive",
+    "chief superior olivary nucleus",
+    "main superior olivary nucleus",
+    "medial superior olive",
+    "principal superior olivary nucleus",
+    "superior olivary nucleus, medial part",
+    "superior olive medial part"
+  ]
+}

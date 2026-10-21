@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortexRostralParabelt",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AuRPB",
+  "alternateName": [
+    "auditory cortex, rostral parabelt"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostralParabelt"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_auditoryCortexRostralParabelt",
+  "name": "auditory cortex rostral parabelt",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

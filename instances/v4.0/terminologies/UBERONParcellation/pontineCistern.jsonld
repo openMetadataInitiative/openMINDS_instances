@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pontineCistern",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a subarachnoid cistern and hindbrain subarachnoid space. Is part of the pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004048) ('is_a' and 'relationship')]",
+  "description": "The space located on lateral aspects of the pons at the junction with the celebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004048)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004048#pontine-cistern",
+  "name": "pontine cistern",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004048",
+  "synonym": [
+    "cisterna pontis"
+  ]
+}
+

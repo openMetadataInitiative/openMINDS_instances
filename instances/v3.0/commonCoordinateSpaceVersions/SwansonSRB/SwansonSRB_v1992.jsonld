@@ -57,7 +57,7 @@
   "isNewVersionOf": null,
   "keyword": null,
   "license": {
-    "@id": "https://openminds.ebrains.eu/instances/licenses/ccByNc4.0"
+    "@id": "https://openminds.ebrains.eu/instances/licenses/CC-BY-NC-4.0"
   },
   "nativeUnit": {
     "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/millimeter"
@@ -73,4 +73,3 @@
   "versionIdentifier": "v1992",
   "versionInnovation": "This is the first version of this common coordinate space."
 }
-

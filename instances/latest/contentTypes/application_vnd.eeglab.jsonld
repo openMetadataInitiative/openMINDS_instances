@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.eeglab",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".sat"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.eeglab",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

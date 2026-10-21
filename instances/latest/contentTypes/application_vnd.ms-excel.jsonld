@@ -5,13 +5,16 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.ms-excel",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/application/vnd.ms-excel"
+  ],
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".xls"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.ms-excel",
-  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/vnd.ms-excel",
   "specification": null,
   "synonym": [
     "Microsoft Excel",

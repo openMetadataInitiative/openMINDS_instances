@@ -4,11 +4,14 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/tractOfBrain",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Tract of brain' is an axon tract. It is part of the brain and white matter.",
-  "description": "An axon tract that is part of a brain.",
+  "definition": "Is an axon tract. Is part of the brain and the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007702) ('is_a' and 'relationship')]",
+  "description": "An axon tract that is part of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007702)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0736079",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007702#tract-of-brain",
   "name": "tract of brain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007702",
-  "synonym": null
+  "synonym": [
+    "brain tract"
+  ]
 }
+

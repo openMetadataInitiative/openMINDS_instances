@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/primaryDorsalNerveCord",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a primary nerve cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005054)]",
+  "description": "A nerve cord in the dorsal mid-line that is the most prominent nerve cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005054)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005054#primary-dorsal-nerve-cord",
+  "name": "primary dorsal nerve cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005054",
+  "synonym": [
+    "dorsal nerve cord",
+    "true dorsal nerve cord"
+  ]
+}
+
