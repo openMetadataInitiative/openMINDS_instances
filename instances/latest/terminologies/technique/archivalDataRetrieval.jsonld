@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/archivalDataRetrieval",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "A secondary data collection technique that involves systematically extracting information from existing records, documents, or datasets to investigate research questions.",
+  "description": null,
+  "name": "archival data retrieval",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "archival records retrieval"
+  ]
+}
