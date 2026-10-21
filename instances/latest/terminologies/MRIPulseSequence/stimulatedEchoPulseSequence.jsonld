@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/stimulatedEchoPulseSequence",
   "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
-  "definition": "A magnetic resonance imaging pulse sequence produced by a three-or-more-RF-pulse sequence in which transverse magnetization is stored temporarily as longitudinal magnetization by one pulse and later returned to the transverse plane to re-phase by a subsequent pulse.",
+  "definition": "A family of magnetic resonance imaging pulse sequences that use three or more radiofrequency (RF) pulses to generate stimulated echoes by temporarily storing transverse magnetization as longitudinal magnetization and subsequently converting it back into transverse magnetization for signal formation.",
   "description": null,
   "name": "stimulated echo pulse sequence",
   "otherCrossReference": null,
