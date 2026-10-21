@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/massSpectrometryBasedGenotyping",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Any genotyping technique that identifies genetic variants by measuring mass differences between allele-specific nucleic acid products using mass spectrometry, often following PCR amplification or primer extension.",
+  "description": null,
+  "name": "mass spectrometry-based genotyping",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "mass spectrometric genotyping"
+  ]
+}

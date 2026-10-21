@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/PCRBasedGenotyping",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Any genotyping technique that uses polymerase chain reaction (PCR) to amplify specific DNA regions and determine genetic variants through amplification-associated detection methods, potentially incorporating restriction enzyme digestion, fragment analysis, or sequencing.",
+  "description": null,
+  "name": "PCR-based genotyping",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "PCR genotyping",
+    "polymerase chain reaction-based genotyping"
+  ]
+}
