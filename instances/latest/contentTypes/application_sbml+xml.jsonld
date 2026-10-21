@@ -6,12 +6,14 @@
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "definingSource": [
-    "https://www.iana.org/assignments/media-types/application/sbml+xml"
+    "https://www.iana.org/assignments/media-types/application/sbml+xml",
+    "https://mimetype.io/application/sbml+xml"
   ],
-  "description": null,
-  "displayLabel": null,
+  "description": "SBML is an XML based format for representing computational models of biological processes.",
+  "displayLabel": "Systems Biology Markup Language",
   "fileExtension": [
-    ".sbml"
+    ".sbml",
+    ".xml"
   ],
   "isBasedOn": [
     {
@@ -19,8 +21,8 @@
     }
   ],
   "name": "application/sbml+xml",
-  "specification": null,
+  "specification": "https://sbml.org/documents/specifications/",
   "synonym": [
-    "System Biology Markup Language"
+    "SBML"
   ]
 }

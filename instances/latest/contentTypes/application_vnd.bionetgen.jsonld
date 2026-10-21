@@ -6,16 +6,16 @@
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "definingSource": null,
-  "description": null,
-  "displayLabel": null,
+  "description": "A BNGL is a text file used to represent biochemical reaction networks, supporting both kinetic and energy-based (eBNG) thermodynamic models.",
+  "displayLabel": "BioNetGen Language",
   "fileExtension": [
-    ".ebngl",
     ".bngl"
   ],
   "isBasedOn": null,
   "name": "application/vnd.bionetgen",
-  "specification": null,
+  "specification": "https://vcell.org/bionetgen/tutorial.html",
   "synonym": [
-    "BioNetGen Language"
+    "eBNG",
+    "BNGL File"
   ]
 }
