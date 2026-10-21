@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/semiStructuredQuestioning",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A data collection technique in which respondents are presented with questions guided by a predefined framework or set of topics, allowing flexibility in question wording, order, and follow-up questions to explore responses in greater depth.",
+  "description": null,
+  "name": "semi-structured questioning",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "semi structured questioning"
+  ]
+}

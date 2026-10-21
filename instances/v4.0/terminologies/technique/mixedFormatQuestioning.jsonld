@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/mixedFormatQuestioning",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "A data collection technique in which respondents are presented with predefined questions using standardized wording and order, with answers collected through a combination of predefined response options or categories and unrestricted free-text responses.",
+  "description": null,
+  "name": "mixed-format questioning",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "mixed-response-format questioning"
+  ]
+}

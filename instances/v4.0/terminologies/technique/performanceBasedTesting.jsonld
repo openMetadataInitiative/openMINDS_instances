@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/performanceBasedTesting",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "An assessment technique that evaluates the abilities, skills, or functional performance of a subject through the direct observation and standardized measurement of performance on predefined tasks.",
+  "description": null,
+  "name": "performance-based testing",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "performance testing",
+    "performance-based assessment"
+  ]
+}
