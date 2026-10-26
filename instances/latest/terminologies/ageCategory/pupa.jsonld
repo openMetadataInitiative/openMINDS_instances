@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/ageCategory/pupa",
+  "@type": "https://openminds.om-i.org/types/AgeCategory",
+  "definition": "Life cycle stage of a holometabolous insect that follows the larva stage and precedes the adult stage, during which metamorphosis takes place.",
+  "description": null,
+  "name": "pupa",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000070",
+  "synonym": [
+    "pupal stage",
+    "pupa stage",
+    "chrysalis stage"
+  ]
+}
