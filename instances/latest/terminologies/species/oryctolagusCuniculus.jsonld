@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/oryctolagusCuniculus",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "The species *Oryctolagus cuniculus* (European rabbit) belongs to the family of *leporidae* (rabbits and hares). Domestic and laboratory rabbits belong to this species.",
+  "description": null,
+  "name": "Oryctolagus cuniculus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9986",
+  "synonym": [
+    "European rabbit",
+    "rabbit",
+    "domestic rabbit"
+  ]
+}
