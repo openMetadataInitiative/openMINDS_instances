@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.siibra.meta+json.jsonld",
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.siibra.meta+json",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": [
     {
