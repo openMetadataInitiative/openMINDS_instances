@@ -12,7 +12,7 @@
   "description": "Sidecar file to volumetric/raster a file bundle, providing metadata to the said bundle.",
   "displayLabel": "siibra meta.json file",
   "fileExtension": [
-    "meta.json"
+    ".meta.json"
   ],
   "name": "application/vnd.siibra.meta+json",
   "relatedMediaType": null,
