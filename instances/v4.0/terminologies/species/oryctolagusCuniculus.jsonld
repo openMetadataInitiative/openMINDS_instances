@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/oryctolagusCuniculus",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "The species *Oryctolagus cuniculus* (European rabbit) belongs to the family of *leporidae* (rabbits and hares).",
+  "description": "It is a small herbivorous mammal characterized by its soft fur, long ears, short tail, and powerful hind legs. Native to the Iberian Peninsula, it typically inhabits grasslands and open woodlands, living in social groups within underground burrow systems known as warrens. It is also the ancestral species of all domestic rabbit breeds, including those used in laboratory research.",
+  "name": "Oryctolagus cuniculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9986",
+  "synonym": [
+    "European rabbit",
+    "rabbit",
+    "domestic rabbit"
+  ]
+}
