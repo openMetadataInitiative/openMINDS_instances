@@ -8,7 +8,9 @@
   "description": null,
   "name": "Pogona vitticeps",
   "otherCrossReference": null,
-  "otherOntologyIdentifier": null,
+  "otherOntologyIdentifier": [
+    "http://purl.obolibrary.org/obo/VTO_0022066"
+  ],
   "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_103695",
   "synonym": [
