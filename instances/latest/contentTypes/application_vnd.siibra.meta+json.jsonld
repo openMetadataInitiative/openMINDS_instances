@@ -9,13 +9,14 @@
       "@id": "https://openminds.om-i.org/instances/dataType/associativeArray"
     }
   ],
-  "description": "Sidecar file to volumetric/raster a file bundle, providing metadata to the said bundle.",
+  "definingSource": null,
+  "description": "Sidecar file to a volumetric/raster image file bundle, providing metadata to the said bundle.",
   "displayLabel": "siibra meta.json file",
   "fileExtension": [
     ".meta.json"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.siibra.meta+json",
-  "relatedMediaType": null,
   "specification": "https://raw.githubusercontent.com/FZJ-INM1-BDA/siibra-explorer/refs/heads/master/.metaSpec/meta.schema.json",
   "synonym": [
     "siibra toolsuite volume descriptor"
