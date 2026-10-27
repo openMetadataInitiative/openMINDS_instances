@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parasympatheticGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an autonomic ganglion. Is part of the parasympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001808) ('is_a' and 'relationship')]",
+  "description": "Ganglion containing neurons that receive innervation from parasympathetic neurons in the central nervous system and subserves parasympathetic functions through innervation of smooth muscle, cardiac muscle and glands. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001808)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001808#parasympathetic-ganglion",
+  "name": "parasympathetic ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001808",
+  "synonym": null
+}
+

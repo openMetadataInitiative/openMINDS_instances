@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.xdmf",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".xdmf",
     ".xmf"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.xdmf",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "eXtensible Data Model and Format"

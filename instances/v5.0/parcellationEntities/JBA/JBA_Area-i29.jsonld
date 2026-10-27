@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-i29",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_retrosplenialPart"
+    }
+  ],
+  "lookupLabel": "JBA_Area-i29",
+  "name": "Area i29 (retrosplenial)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

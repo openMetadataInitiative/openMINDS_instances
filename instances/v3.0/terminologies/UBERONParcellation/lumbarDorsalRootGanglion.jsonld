@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lumbarDorsalRootGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002836)]",
+  "description": "The group of nerve cell bodies located on the dorsal spinal roots within the vertebral column at the level of the lumbar vertebrae. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002836)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002836#lumbar-dorsal-root-ganglion-1",
+  "name": "lumbar dorsal root ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002836",
+  "synonym": [
+    "lumbar spinal ganglion"
+  ]
+}
+

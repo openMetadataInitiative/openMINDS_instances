@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/somatostatinExpressingNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "Any neuron that expresses somatostatin.",
+  "description": null,
+  "name": "somatostatin expressing neuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "somatostatin expressing cell",
+    "somatostatin positive cell",
+    "somatostatin positive neuron",
+    "SST+ cell",
+    "SST+ neuron",
+    "SST-positive cell",
+    "SST-positive neuron"
+  ]
+}

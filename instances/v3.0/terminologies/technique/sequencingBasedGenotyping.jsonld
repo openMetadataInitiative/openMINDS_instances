@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/sequencingBasedGenotyping",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Any genotyping technique that determines genetic variants through the analysis of DNA sequence data, encompassing targeted, whole-exome, and whole-genome approaches and potentially incorporating PCR-based amplification.",
+  "description": null,
+  "name": "sequencing-based genotyping",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "sequence-based genotyping"
+  ]
+}

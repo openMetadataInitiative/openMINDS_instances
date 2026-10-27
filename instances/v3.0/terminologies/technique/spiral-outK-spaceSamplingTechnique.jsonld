@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/spiral-outK-spaceSamplingTechnique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A k-space sampling strategy that follows a pattern that spirals out from the centre of k-space.",
+  "description": null,
+  "name": "spiral-out k-space sampling technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "spiral out k-space sampling technique"
+  ]
+}

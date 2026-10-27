@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/cholecystokinin",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Cholecystokinin is a peptide hormone of the gastrointestinal system responsible for stimulating the digestion of fat and protein.",
+  "description": null,
+  "name": "cholecystokinin",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://uri.neuinfo.org/nif/nifstd/nifext_5068",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0102124",
+  "synonym": [
+    "CCK"
+  ]
+}

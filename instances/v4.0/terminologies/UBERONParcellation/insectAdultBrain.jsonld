@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/insectAdultBrain",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a brain. Is part of the insect adult central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003624) ('is_a' and 'relationship')]",
+  "description": "Brain of the adult. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003624)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6003624#adult-brain",
+  "name": "insect adult brain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6003624",
+  "synonym": null
+}
+

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.ome.tiff",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".ome.btf",
+    ".ome.tf8",
+    ".ome.tf2",
+    ".ome.tiff"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.ome.tiff",
+  "specification": null,
+  "synonym": [
+    "OME-TIFF"
+  ]
+}

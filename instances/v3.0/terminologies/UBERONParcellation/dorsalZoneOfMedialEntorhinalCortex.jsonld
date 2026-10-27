@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalZoneOfMedialEntorhinalCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the medial entorhinal cortex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018262)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0018262#dorsal-zone-of-medial-entorhinal-cortex",
+  "name": "dorsal zone of medial entorhinal cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018262",
+  "synonym": [
+    "entorhinal area, medial part, dorsal zone"
+  ]
+}
+

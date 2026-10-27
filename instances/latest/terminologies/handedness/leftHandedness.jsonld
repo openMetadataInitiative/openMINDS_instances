@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Handedness",
   "definition": "Handedness where the organism preferentially uses the left hand or foot for tasks requiring the use of a single hand or foot.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "left handedness",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

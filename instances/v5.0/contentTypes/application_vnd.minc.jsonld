@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.minc",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".mnc"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.minc",
+  "specification": null,
+  "synonym": [
+    "MINC MRI"
+  ]
+}

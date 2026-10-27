@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "A nuclear-specific staining technique where DAPi (4′,6-diamidino-2-phenylindole) is used as a dye.",
   "description": "DAPi, or 4′,6-diamidino-2-phenylindole, is a blue fluorescent dye that bind strongly to adenine-thymine (AT) rich regions in DNA. It is used extensively in fluorescence microscopy and can be used on both fixated and living cells.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "DAPi staining",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "4′,6-diamidino-2-phenylindole staining",

@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.seiko",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".xqd",
     ".xqf"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.seiko",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Seiko"

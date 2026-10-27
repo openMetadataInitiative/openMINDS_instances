@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/expertReporting",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A data collection technique in which an individual with specialized expertise provides information, evaluations, or judgments about a subject, system, or phenomenon based on professional knowledge or experience.",
+  "description": null,
+  "name": "expert-reporting",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "expert reporting"
+  ]
+}

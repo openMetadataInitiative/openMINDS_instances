@@ -10,10 +10,13 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminal"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminal",
   "name": "spinal nucleus of the trigeminal",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "3rd ed.",
-  "versionInnovation": null
+  "versionSpecification": null
 }

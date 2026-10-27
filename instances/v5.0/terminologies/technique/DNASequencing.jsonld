@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/DNASequencing",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "'DNA sequencing' refers to a group of techniques that are used to determine the order of nucleotides (nucleic acid sequence) in DNA. [adapted from [wikipedia](https://en.wikipedia.org/wiki/DNA_sequencing)]",
+  "description": null,
+  "name": "DNA sequencing",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0783031"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_0000626",
+  "synonym": [
+    "deoxyribonucleic acid sequencing",
+    "deoxyribonucleic acid sequencing assay",
+    "DNA sequencing assay",
+    "DNA-Seq"
+  ]
+}

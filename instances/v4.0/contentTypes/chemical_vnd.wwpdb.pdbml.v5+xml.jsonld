@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/chemical_vnd.wwpdb.pdbml.v5+xml",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": "A XML serialization of the wwPDB’s PDBx/mmCIF data model, using tags from the PDBx/mmCIF dictionary to represent and distribute macromolecular structure data.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".xml"
+  ],
+  "name": "chemical/vnd.wwpdb.pdbml.v5+xml",
+  "relatedMediaType": "https://www.iana.org/assignments/media-types/text/xml",
+  "specification": "https://pdbml.wwpdb.org/",
+  "synonym": [
+    "Protein Data Bank Markup Language",
+    "PDB Markup Language",
+    "PDBML"
+  ]
+}

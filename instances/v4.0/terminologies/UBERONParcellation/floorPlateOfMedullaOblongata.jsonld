@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/floorPlateOfMedullaOblongata",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003311) ('is_a' and 'relationship')]",
+  "description": "A floor plate that is part of a medulla oblongata. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003311)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003311#floor-plate-of-medulla-oblongata",
+  "name": "floor plate of medulla oblongata",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003311",
+  "synonym": [
+    "bulb floor plate",
+    "bulb floorplate",
+    "floor plate medulla oblongata",
+    "floor plate of bulb",
+    "floor plate of medulla oblonmgata",
+    "floor plate of metepencephalon",
+    "floorplate of bulb",
+    "floorplate of medulla oblongata",
+    "floorplate of medulla oblonmgata",
+    "floorplate of metepencephalon",
+    "medulla oblongata floor plate",
+    "medulla oblongata floorplate",
+    "medulla oblonmgata floor plate",
+    "medulla oblonmgata floorplate",
+    "metepencephalon floor plate",
+    "metepencephalon floorplate"
+  ]
+}
+

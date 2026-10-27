@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/finTasteBud",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034723)]",
+  "description": "A taste bud that is located on a fin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034723)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034723#fin-taste-bud",
+  "name": "fin taste bud",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034723",
+  "synonym": null
+}
+

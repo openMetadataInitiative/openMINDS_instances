@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_amygdalopiriformTransitionArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "APir",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_lateropallialPart"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_amygdalopiriformTransitionArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_amygdalopiriformTransitionArea",
+  "name": "amygdalopiriform transition area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

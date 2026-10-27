@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_area23OfCortexVentralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "A23V",
+  "alternateName": [
+    "area 23 of cortex, ventral part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_posteriorCingulateMedialAndRetrosplenialCorticalRegions"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_area23OfCortexVentralPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_area23OfCortexVentralPart",
+  "name": "area 23 of cortex ventral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

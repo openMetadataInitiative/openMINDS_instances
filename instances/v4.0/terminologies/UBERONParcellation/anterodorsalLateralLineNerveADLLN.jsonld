@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/anterodorsalLateralLineNerveADLLN",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a lateral line nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010105)]",
+  "description": "Sensory nerve of the anterior lateral line component. It develops from the preotic anterodorsal placode. ADLLN branches into two rami innervating orbital lines of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010105)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010105#anterodorsal-lateral-line-nerve-adlln",
+  "name": "anterodorsal lateral line nerve (ADLLN)",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010105",
+  "synonym": null
+}
+

@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/univariateAnalysis",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "Any statistical analysis that is carried out on only one (dependent) variable of the data to summarize or describe that variable. [adapted from [Dandilands, 2014](https://doi.org/10.1007/978-94-007-0753-5_3108)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "univariate analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "univariate statistics"
+  ]
+}

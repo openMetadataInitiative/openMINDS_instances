@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaMotorRelated",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "LHAmo",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_lateralHypothalamicAreaMotorRelated",
+  "name": "lateral hypothalamic area, motor related",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

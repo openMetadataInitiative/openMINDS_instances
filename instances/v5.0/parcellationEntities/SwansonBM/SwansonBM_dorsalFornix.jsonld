@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalFornix",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "df",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_dorsalFornix",
+  "name": "dorsal fornix",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

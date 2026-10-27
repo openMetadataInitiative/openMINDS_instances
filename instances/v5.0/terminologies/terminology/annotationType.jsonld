@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/annotationType",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "Geometrical classification of annotations into types.",
+  "description": null,
+  "name": "annotation type",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

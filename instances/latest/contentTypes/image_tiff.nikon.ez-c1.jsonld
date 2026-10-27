@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/image_tiff.nikon.ez-c1",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".tiff"
   ],
+  "isBasedOn": null,
   "name": "image/tiff.nikon.ez-c1",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Nikon EZ-C1"

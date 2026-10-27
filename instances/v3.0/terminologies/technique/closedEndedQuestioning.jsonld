@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/closedEndedQuestioning",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A data collection technique in which respondents are presented with predefined questions using standardized wording and order, with answers restricted to predefined response options or categories without allowing free-text responses.",
+  "description": null,
+  "name": "closed-ended questioning",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "closed-response questioning",
+    "fixed-response questioning"
+  ]
+}

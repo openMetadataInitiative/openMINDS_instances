@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/arborVitae",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a white matter of cerebellum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027333)]",
+  "description": "The white matter contained within the cerebellum, lying deep to the granule cell layer in the cerebellar cortex, excluding the parts of the cerebellar peduncles that extend outside of the cerebellum. The deep cerebellar nuclei are embedded within the arbor vitae. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027333)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0027333#arbor-vitae",
+  "name": "arbor vitae",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0027333",
+  "synonym": null
+}
+

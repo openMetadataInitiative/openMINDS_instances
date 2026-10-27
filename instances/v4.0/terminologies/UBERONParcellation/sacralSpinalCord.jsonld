@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCord",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005843)]",
+  "description": "A spinal cord segment that adjacent to a sacral region. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005843)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005843#sacral-spinal-cord-1",
+  "name": "sacral spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005843",
+  "synonym": [
+    "pars sacralis medullae spinalis",
+    "sacral segment of spinal cord",
+    "sacral segments of spinal cord [1-5]",
+    "segmenta sacralia medullae spinalis [1-5]"
+  ]
+}
+

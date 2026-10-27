@@ -6,9 +6,12 @@
   "@type": "https://openminds.om-i.org/types/Species",
   "definition": "The species *Felis catus* (domestic cat) belongs to the family of *Felidae*, subfamily *Felinae*.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101690",
-  "knowledgeSpaceLink": null,
   "name": "Felis catus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0101690"
+  ],
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9685",
   "synonym": [
     "cat",

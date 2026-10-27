@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/LPS",
+  "@type": "https://openminds.om-i.org/types/AnatomicalAxesOrientation",
+  "definition": "X, Y, Z axes are oriented towards left, posterior and superior, respectively.",
+  "description": null,
+  "name": "LPS",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_O1",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "O1",
+  "alternateName": [
+    "O1",
+    "Occipital_Sup"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_occipitalLobe"
+    }
+  ],
+  "lookupLabel": "AAL1_O1",
+  "name": "superior occipital gyrus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

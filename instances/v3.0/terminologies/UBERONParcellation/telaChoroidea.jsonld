@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/telaChoroidea",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the ventricle of nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005283) ('is_a' and 'relationship')]",
+  "description": "A structure found in the walls of the ventricles of the brain, consisting of part of the meninges (pia mater in mammals) plus ependyma. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005283)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005283#tela-choroidea",
+  "name": "tela choroidea",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005283",
+  "synonym": null
+}
+

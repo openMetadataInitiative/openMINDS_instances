@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_laterodorsalThalamicNucleusDorsomedialPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "LD-dm"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_laterodorsalThalamicNucleusDorsomedialPart",
+  "name": "laterodorsal thalamic nucleus, dorsomedial part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

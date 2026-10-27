@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.gifti",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".gii",
     ".gii.gz"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.gifti",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

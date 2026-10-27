@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Technique",
   "definition": "MRI sequence, used with fully flow compensated, long echo, gradient recalled echo (GRE) pulse sequence. Acquires images sensitive to venous blood, hemorrhage and iron storage. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Susceptibility_weighted_imaging)].",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "susceptibility weighted imaging",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "SWI",

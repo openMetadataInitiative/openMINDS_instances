@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SetupType",
   "definition": "A 'computing system' is a setup type with the purpose of performing computations.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "computing system",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

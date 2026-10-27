@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "A smooth muscle cell assocatiated with the vasculature.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "vascular smooth muscle cell",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CL_0000359",
   "synonym": [
     "vascular associated smooth muscle cell",

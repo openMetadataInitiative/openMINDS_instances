@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/CellType",
   "definition": "An inhibitory interneuron in the caudate nucleus and putamen which mainly uses the neurotrasmitter acetylcholine (ACh).",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0107403",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/SAO:1866881837#neostriatum-cholinergic-cell",
   "name": "neostriatum cholinergic interneuron",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao1866881837",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/sao1866881837"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/SAO:1866881837#neostriatum-cholinergic-cell",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0107403",
   "synonym": [
     "cholinergic striatal neuron",
     "CIN",

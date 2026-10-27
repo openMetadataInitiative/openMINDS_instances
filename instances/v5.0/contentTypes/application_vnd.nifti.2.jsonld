@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nifti.2",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".nii",
+    ".hdr",
+    ".img",
+    ".nii.gz"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.nifti.2",
+  "specification": null,
+  "synonym": [
+    "NIfTI-2"
+  ]
+}

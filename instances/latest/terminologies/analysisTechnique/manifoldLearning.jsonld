@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": "'manifold learning' refers to a group of machine learning algorithms for non-linear dimensionality reduction of high-dimensionalty data.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "manifold learning",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/proisocortex",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the neocortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014951) ('is_a' and 'relationship')]",
+  "description": "The part of the neocortex hich mainly consists of parts of cingulate, parahippocampal and temporopolar cortice. As distinct from isocortex (typical neocortex) which contains other regions. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014951)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014951#proisocortex",
+  "name": "proisocortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014951",
+  "synonym": null
+}
+

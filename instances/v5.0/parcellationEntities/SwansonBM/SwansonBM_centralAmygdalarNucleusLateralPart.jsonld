@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralAmygdalarNucleusLateralPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "CEAl",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_centralAmygdalarNucleusLateralPart",
+  "name": "central amygdalar nucleus, lateral part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

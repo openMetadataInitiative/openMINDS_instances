@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/dataType/scalar",
+  "@type": "https://openminds.om-i.org/types/DataType",
+  "definition": "A 'scalar' represent a single value (e.g., integer, float, string, etc.).",
+  "description": null,
+  "name": "scalar",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q1289248",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

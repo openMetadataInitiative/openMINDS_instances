@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/pathology",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "definition": "Any experimental approach that aims to identify or classify the causes and effects of diseases, disorders, injuries, or other abnormal biology.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pathology",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "pathological approach"
+  ]
+}
+

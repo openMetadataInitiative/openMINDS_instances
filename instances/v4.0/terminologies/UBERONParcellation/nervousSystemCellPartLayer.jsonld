@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nervousSystemCellPartLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022303) ('is_a' and 'relationship')]",
+  "description": "Single layer of a laminar structure, identified by different density, arrangement or size of cells and processes arranged in flattened layers or lamina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022303)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022303#nervous-system-cell-part-layer",
+  "name": "nervous system cell part layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022303",
+  "synonym": null
+}
+

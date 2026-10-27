@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/ratiometry",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
+  "definition": "Quantitative analysis technique utilizing the ratio of two signals or responses obtained from a sample.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ratiometry",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "ratiometric analysis"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ramusNasalisMedialis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the ophthalmic nerve. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010653)]",
+  "description": "First branch gives rise to two ramules that border the naris and innervate the surrounding tissue. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010653)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010653#ramus-nasalis-medialis",
+  "name": "ramus nasalis medialis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010653",
+  "synonym": null
+}
+

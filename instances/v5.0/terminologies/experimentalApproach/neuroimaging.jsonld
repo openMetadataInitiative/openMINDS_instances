@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/experimentalApproach/neuroimaging",
+  "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
+  "definition": "Any experimental approach focused on the non-invasive direct or indirect imaging of the structure, function, or pharmacology of the nervous system.",
+  "description": null,
+  "name": "neuroimaging",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/tgbugs/uris/readable/modality/Neuroimaging"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0741206",
+  "synonym": null
+}

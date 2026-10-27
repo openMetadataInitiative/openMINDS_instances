@@ -10,10 +10,13 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_medialParabrachialNucleusExternalPart"
+  },
   "lookupLabel": "PW-RBSC-cor_6th-ed_medialParabrachialNucleusExternalPart",
   "name": "medial parabrachial nucleus external part",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "6th ed.",
-  "versionInnovation": null
+  "versionSpecification": null
 }

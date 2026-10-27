@@ -12,9 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_amygdala"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "JBA_fiberMasses",
   "name": "fiber masses",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

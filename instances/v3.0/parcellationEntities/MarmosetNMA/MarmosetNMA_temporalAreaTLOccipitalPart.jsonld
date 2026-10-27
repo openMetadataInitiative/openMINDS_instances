@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_temporalAreaTLOccipitalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "TLO",
+  "alternateName": [
+    "temporal area TL, occipital part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_ventralAreasOfTheTemporalLobe"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTLOccipitalPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_temporalAreaTLOccipitalPart",
+  "name": "temporal area TL occipital part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

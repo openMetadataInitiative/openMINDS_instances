@@ -12,11 +12,10 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_cerebralCortex"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "DKA_occipitalLobe",
   "name": "occipital lobe",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/occipitalLobe"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/occipitalLobe"
   }
 }

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_brachiumOfTheSuperiorColliculus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "bsc"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_brachiumOfTheSuperiorColliculus",
+  "name": "brachium of the superior colliculus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

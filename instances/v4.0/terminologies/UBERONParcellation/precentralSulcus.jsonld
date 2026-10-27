@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/precentralSulcus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a subarachnoid sulcus and frontal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022252)]",
+  "description": "The precentral sulcus lies parallel to, and in front of, the central sulcus. (A sulcus is one of the prominent grooves on the surface of the human brain. ) The precentral sulcus divides the inferior, middle, and superior frontal gyri from the precentral gyrus. In the majority of brains, the precentral sulcus is divided into two parts: the inferior precentral sulcus and the superior precentral sulcus. However, the precentral sulcus may also be divided into three parts or form one continuous sulcus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022252)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022252#precentral-sulcus",
+  "name": "precentral sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022252",
+  "synonym": null
+}
+

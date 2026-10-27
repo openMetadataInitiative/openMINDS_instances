@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModelAbstractionLevel",
   "definition": "Systems biology modelling using representations of individual particles",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "systems biology: discrete",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

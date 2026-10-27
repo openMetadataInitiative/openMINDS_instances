@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/ModelAbstractionLevel",
   "definition": "Modelling of protein structure",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "protein structure",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

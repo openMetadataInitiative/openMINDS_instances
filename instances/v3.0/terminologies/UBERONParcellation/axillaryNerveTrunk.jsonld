@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/axillaryNerveTrunk",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve trunk. Is part of the axillary nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002442) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002442#axillary-nerve-trunk",
+  "name": "axillary nerve trunk",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002442",
+  "synonym": [
+    "right axillary neural trunk",
+    "trunk of right axillary nerve"
+  ]
+}
+

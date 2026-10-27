@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/wholeGenomeSequencingBasedGenotyping",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Any sequencing-based genotyping technique that determines genetic variants across coding and non-coding genomic regions through the analysis of whole-genome sequencing data, without restricting sequencing to predefined genomic targets.",
+  "description": null,
+  "name": "whole-genome sequencing-based genotyping",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "WGS genotyping",
+    "WGS-based genotyping",
+    "whole-genome sequencing genotyping"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/rhombomere5FloorPlate",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a rhombomere floor plate. Is part of the rhombomere 5. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005579) ('is_a' and 'relationship')]",
+  "description": "A rhombomere floor plate that is part of a rhombomere 5. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005579)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005579#rhombomere-5-floor-plate",
+  "name": "rhombomere 5 floor plate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005579",
+  "synonym": [
+    "floor plate r5",
+    "floor plate rhombomere 5",
+    "floorplate r5"
+  ]
+}
+

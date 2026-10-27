@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.blackrockmicrosystems.parallelrecordings",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".ns1",
+    ".ns2",
+    ".ns3",
+    ".ns4",
+    ".ns5",
+    ".ns6",
+    ".ns7",
+    ".ns8",
+    ".ns9",
+    ".nev"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.blackrockmicrosystems.parallelrecordings",
+  "specification": null,
+  "synonym": [
+    "Blackrock Parallel Recordings"
+  ]
+}

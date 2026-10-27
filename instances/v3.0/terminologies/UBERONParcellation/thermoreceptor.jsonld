@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/thermoreceptor",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a sensory receptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035018)]",
+  "description": "Cellular receptors which mediate the sense of temperature. Thermoreceptors in vertebrates are mostly located under the skin. In mammals there are separate types of thermoreceptors for cold and for warmth and NOCICEPTORS which detect cold or heat extreme enough to cause pain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035018)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035018#thermoreceptor",
+  "name": "thermoreceptor",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035018",
+  "synonym": null
+}
+

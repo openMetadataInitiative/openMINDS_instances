@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/deepGrayLayerOfSuperiorColliculus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a gray matter layer of superior colliculus and deep layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006789)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006789#deep-gray-layer-of-superior-colliculus",
+  "name": "deep gray layer of superior colliculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006789",
+  "synonym": [
+    "deep grey layer of superior colliculus",
+    "lamina colliculi superioris vi",
+    "lamina VI of superior colliculus",
+    "layer VI of superior colliculus",
+    "stratum griseum profundum",
+    "stratum griseum profundum colliculi superioris",
+    "stratum griseum profundum of superior colliculus"
+  ]
+}
+

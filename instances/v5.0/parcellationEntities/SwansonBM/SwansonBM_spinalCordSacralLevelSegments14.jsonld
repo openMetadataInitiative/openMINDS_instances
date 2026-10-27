@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordSacralLevelSegments14",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "SP-S1-4",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_spinalCordSacralLevelSegments14",
+  "name": "spinal cord, sacral level, segments 1-4",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

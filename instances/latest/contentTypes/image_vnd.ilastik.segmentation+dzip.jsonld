@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/image_vnd.ilastik.segmentation+dzip",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".dzip"
   ],
+  "isBasedOn": null,
   "name": "image/vnd.ilastik.segmentation+dzip",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "ilastik segmentation image (DZIP)"

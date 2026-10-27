@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/DeviceType",
   "definition": "An 'electronic amplifier' is a device that increases the power (voltage or current) of a time-varying signal.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100567",
-  "knowledgeSpaceLink": null,
   "name": "electronic amplifier",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_27076",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://uri.neuinfo.org/nif/nifstd/nlx_27076",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0100567",
   "synonym": [
     "amp",
     "amplifier"

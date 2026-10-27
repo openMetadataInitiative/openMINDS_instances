@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/astrocyte",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "'Astrocytes' are a class of large, star-shaped neuroglial (macroglial) cells in the central nervous system.",
+  "description": null,
+  "name": "astrocyte",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0100947"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0100947",
+  "synonym": [
+    "astroglial cell"
+  ]
+}

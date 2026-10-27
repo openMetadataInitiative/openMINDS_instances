@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/myelencephalonSulcusLimitans",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is part of the future myelencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009578)]",
+  "description": "A sulcus limitans of neural tube that is part of a future myelencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009578)]",
+  "name": "myelencephalon sulcus limitans",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0734752"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0009578#myelencephalon-sulcus-limitans",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009578",
+  "synonym": null
+}

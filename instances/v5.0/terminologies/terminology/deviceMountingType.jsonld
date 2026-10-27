@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/terminology/deviceMountingType",
+  "@type": "https://openminds.om-i.org/types/Terminology",
+  "definition": "A terminology defining methods for mechanically attaching devices based on structural integration, compliance, and geometric conformity to the host structure.",
+  "description": null,
+  "name": "device mounting type",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

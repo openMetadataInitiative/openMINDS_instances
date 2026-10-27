@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.jeol",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".par",
+    ".img",
+    ".dat"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.jeol",
+  "specification": null,
+  "synonym": [
+    "JEOL"
+  ]
+}

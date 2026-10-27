@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/posteriorLateralLineNervePLLN",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a lateral line nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010115)]",
+  "description": "Sensory nerve of the posterior lateral line component. It develops from de postotic posterior placode. PLLN innervates the trunk lines of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010115)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:3010115#posterior-lateral-line-nerve-plln",
+  "name": "posterior lateral line nerve (PLLN)",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_3010115",
+  "synonym": null
+}
+

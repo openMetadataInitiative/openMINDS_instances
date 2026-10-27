@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/paravertebralGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sympathetic ganglion and trunk ganglion. Is part of the sympathetic trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001807) ('is_a' and 'relationship')]",
+  "description": "Trunk ganglion which is part of a bilaterally paired set of sympathetic ganglia located anterior and lateral to the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001807)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001807#paravertebral-ganglion",
+  "name": "paravertebral ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001807",
+  "synonym": [
+    "ganglion of sympathetic trunk",
+    "ganglion trunci sympathetici",
+    "ganglion trunci sympathici",
+    "sympathetic chain ganglion"
+  ]
+}
+

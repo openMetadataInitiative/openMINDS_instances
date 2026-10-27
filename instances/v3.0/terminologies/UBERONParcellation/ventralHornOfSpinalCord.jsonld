@@ -1,0 +1,30 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralHornOfSpinalCord",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a spinal cord column. Is part of the gray matter of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002257) ('is_a' and 'relationship')]",
+  "description": "The ventral grey column of the spinal cord. The neurons of the ventral region of the mature spinal cord participate in motor output. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002257)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002257#spinal-cord-ventral-horn",
+  "name": "ventral horn of spinal cord",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002257",
+  "synonym": [
+    "anterior gray column of spinal cord",
+    "anterior gray horn of spinal cord",
+    "anterior grey column of spinal cord",
+    "anterior horn",
+    "columna grisea anterior medullae spinalis",
+    "spinal cord anterior horn",
+    "spinal cord ventral horn",
+    "ventral gray column of spinal cord",
+    "ventral gray matter of spinal cord",
+    "ventral grey column of spinal cord",
+    "ventral grey horn",
+    "ventral horn spinal cord",
+    "ventral region of spinal cord",
+    "ventral spinal cord"
+  ]
+}
+

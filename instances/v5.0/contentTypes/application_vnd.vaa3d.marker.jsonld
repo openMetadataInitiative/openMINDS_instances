@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.vaa3d.marker",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".csv",
+    ".marker"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.vaa3d.marker",
+  "specification": null,
+  "synonym": null
+}

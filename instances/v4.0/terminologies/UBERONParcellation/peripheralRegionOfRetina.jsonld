@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/peripheralRegionOfRetina",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of nervous system. Is part of the retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013682) ('is_a' and 'relationship')]",
+  "description": "Region of retina that extends from central retina to ora serrata. Peripheral retina is dominated by rods and also has less ganglion cells and is not as thick as central retina. It is responsible for peripheral and night vision. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013682)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013682#peripheral-region-of-retina",
+  "name": "peripheral region of retina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013682",
+  "synonym": [
+    "peripheral retina"
+  ]
+}
+

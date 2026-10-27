@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nasoFrontalVein",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the cavernous sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004689)]",
+  "description": "The nasofrontal vein is a vein in the eye which drains to the superior ophthalmic vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004689)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004689#naso-frontal-vein",
+  "name": "naso-frontal vein",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004689",
+  "synonym": [
+    "nasofrontal vein"
+  ]
+}
+

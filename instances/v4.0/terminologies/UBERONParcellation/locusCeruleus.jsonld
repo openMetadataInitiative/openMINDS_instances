@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/locusCeruleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Locus ceruleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.",
-  "description": "A noradrenergic nucleus in the brain stem involved with physiological responses to stress and panic; also implicated in physical dependence and withdrawal. (Adapted from Wikipedia)",
+  "definition": "Is a brainstem nucleus and hindbrain nucleus. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002148) ('is_a' and 'relationship')]",
+  "description": "The locus ceruleus is a dense cluster of neurons within the dorsorostral pons. This nucleus is the major location of neurons that release norepinephrine throughout the brain, and is responsible for physiological responses to stress and panic. Bluish region in the superior angle of the fourth ventricle floor, corresponding to melanin-like pigmented nerve cells which lie lateral to the ponto-mesencephalic central gray (griseum centrale). It is also known as nucleus pigmentosus pontis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002148)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106335",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002148#locus-ceruleus-1",
   "name": "locus ceruleus",
@@ -13,17 +13,13 @@
   "synonym": [
     "blue nucleus",
     "caerulean nucleus",
-    "LC",
-    "loci coeruleus",
     "locus caeruleus",
-    "locus cinereus",
     "locus coeruleu",
     "locus coeruleus",
-    "locus coeruleus (Vicq d'Azyr)",
     "nucleus caeruleus",
-    "nucleus loci caerulei",
     "nucleus of locus caeruleus",
-    "Nucleus Pigmentosus Pontis",
+    "nucleus pigmentosus pontis",
     "substantia ferruginea"
   ]
 }
+

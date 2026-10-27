@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/ExperimentalApproach",
   "definition": "Any experimental approach focused on incidence, distribution, and possible control of diseases and other factors relating to health.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739400",
-  "knowledgeSpaceLink": null,
   "name": "epidemiology",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Epidemiology",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/tgbugs/uris/readable/modality/Epidemiology"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739400",
   "synonym": [
     "epidemiological approach"
   ]

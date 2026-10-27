@@ -12,9 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_limbicLobe"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "JBA_hippocampalFormation",
   "name": "hippocampal formation",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

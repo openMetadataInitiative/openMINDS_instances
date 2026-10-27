@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/currentClamp",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Current clamp is a technique in which the amount of current injected into the cell is controlled, which allows for the detection of changes in the transmembrane voltage resulting from ion channel activity.",
+  "description": null,
+  "name": "current clamp",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

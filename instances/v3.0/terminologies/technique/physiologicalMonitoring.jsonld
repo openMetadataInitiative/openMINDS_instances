@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/physiologicalMonitoring",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A measurement technique that involves continuously or repeatedly recording physiological parameters of a living organism to assess its physiological state and changes over time.",
+  "description": null,
+  "name": "physiological monitoring",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "physiologic monitoring"
+  ]
+}

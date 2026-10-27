@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellarCommissure",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nervous system commissure. Is part of the white matter of cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006847) ('is_a' and 'relationship')]",
+  "description": "A nervous system commissure that connects a left hemisphere of cerebellum and connects a right hemisphere of cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006847)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006847#cerebellar-commissure",
+  "name": "cerebellar commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006847",
+  "synonym": [
+    "commissura cerebelli",
+    "commissure of cerebellum"
+  ]
+}
+

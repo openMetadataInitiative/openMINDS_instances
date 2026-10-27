@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_interventricularForamen",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "IVF",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_interventricularForamen",
+  "name": "interventricular foramen",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

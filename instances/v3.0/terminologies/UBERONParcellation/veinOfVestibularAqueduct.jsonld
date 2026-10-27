@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/veinOfVestibularAqueduct",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the transverse sinus and the inferior petrosal sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036074)]",
+  "description": "A vein that leaves the vestibule through an individual bone canal running parallel to the vestibular aqueduct up to the dura of the posterior side of the petrosa in the area of the endolymphatic sac. It then opens in the inferior petrosal sinus or the jugular bulb. The vein receives other branches from the bone, dura and sac. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036074)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0036074#vein-of-vestibular-aqueduct",
+  "name": "vein of vestibular aqueduct",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036074",
+  "synonym": [
+    "vena aqueductus vestibuli",
+    "vestibular aqueduct vein"
+  ]
+}
+

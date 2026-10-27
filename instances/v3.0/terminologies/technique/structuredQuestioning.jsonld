@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/structuredQuestioning",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A data collection technique in which respondents are presented with a predetermined set of questions using standardized wording and order, ensuring consistency and comparability of questions across respondents.",
+  "description": null,
+  "name": "structured questioning",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "standardized questioning"
+  ]
+}

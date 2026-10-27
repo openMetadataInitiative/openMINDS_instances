@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/heavyMetalNegativeStaining",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "In a 'heavy metal negative staining', a thin and amorphous film of heavy metal salts (e.g. uranyl acetate) is applied on a sample to reveal its structural details for electron microscopy.",
+  "description": null,
+  "name": "heavy metal negative staining",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "heavy metal salt staining",
+    "heavy metal staining",
+    "negative staining"
+  ]
+}

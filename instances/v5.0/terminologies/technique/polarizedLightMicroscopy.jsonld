@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/polarizedLightMicroscopy",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Polarized light microscopy comprises all optical microscopy techniques involving polarized light.",
+  "description": null,
+  "name": "polarized light microscopy",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0485478"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0013816",
+  "synonym": [
+    "polarized-light microscopy"
+  ]
+}

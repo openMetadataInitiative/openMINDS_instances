@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralPropriohypothalamicPathways",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntityVersion",
+  "abbreviation": "phpv",
+  "additionalRemarks": "Region name does not match the abbreviation (medial propriohypothalamic pathways vs. phpv). The assumed correct name 'ventral propriohypothalamic pathways' has been added under 'correctedName'.",
+  "alternateName": null,
+  "correctedName": "ventral propriohypothalamic pathways",
+  "hasAnnotation": null,
+  "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPropriohypothalamicPathways"
+  },
+  "lookupLabel": "SwansonBM_3rd-ed_ventralPropriohypothalamicPathways",
+  "name": "medial propriohypothalamic pathways",
+  "ontologyIdentifier": null,
+  "relationAssessment": null,
+  "versionIdentifier": "3rd ed.",
+  "versionInnovation": null
+}

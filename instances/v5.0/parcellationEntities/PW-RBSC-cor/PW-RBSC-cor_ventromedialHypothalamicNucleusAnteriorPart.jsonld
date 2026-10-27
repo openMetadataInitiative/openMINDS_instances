@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_ventromedialHypothalamicNucleusAnteriorPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "VMHA",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_ventromedialHypothalamicNucleusAnteriorPart",
+  "name": "ventromedial hypothalamic nucleus, anterior part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/mainOlfactoryBulbSuperficialTuftedNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "A subclass of neurons situated in the outermost (superficial) layer of the external plexiform layer of the main olfactory bulb.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "main olfactory bulb superficial tufted neuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "main olfactory bulb superficial tufted cell",
+    "superficial tufted neuron of the main olfactory bulb",
+    "superficial tufted cell of the main olfactory bulb"
+  ]
+}

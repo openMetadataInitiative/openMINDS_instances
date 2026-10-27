@@ -12,9 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_telencephalon"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "JBA_cerebralCortex",
   "name": "cerebral cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

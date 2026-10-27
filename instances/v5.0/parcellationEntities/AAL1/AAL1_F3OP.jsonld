@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_F3OP",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "F3OP",
+  "alternateName": [
+    "F3OP",
+    "Frontal_Inf_Oper"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_frontalLobe"
+    }
+  ],
+  "lookupLabel": "AAL1_F3OP",
+  "name": "inferior frontal gyrus, opercular part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

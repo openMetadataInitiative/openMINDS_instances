@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pharyngealNervePlexus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an autonomic nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011325)]",
+  "description": "The pharyngeal plexus is a network of nerve fibers innervating most of the palate, larynx, and pharynx. It is located on the surface of the middle pharyngeal constrictor muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011325)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011325#pharyngeal-nerve-plexus",
+  "name": "pharyngeal nerve plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011325",
+  "synonym": [
+    "pharyngeal plexus of vagus nerve",
+    "plexus pharyngeus nervi vagi",
+    "vagus nerve pharyngeal plexus"
+  ]
+}
+

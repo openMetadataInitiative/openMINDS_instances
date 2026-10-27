@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/differentiatingNeuroepithelium",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a developing neuroepithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034707)]",
+  "description": "A neuroepithelium some of whose cells are undergoing terminal differentiation to become neuronal cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034707)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034707#differentiating-neuroepithelium",
+  "name": "differentiating neuroepithelium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034707",
+  "synonym": null
+}
+

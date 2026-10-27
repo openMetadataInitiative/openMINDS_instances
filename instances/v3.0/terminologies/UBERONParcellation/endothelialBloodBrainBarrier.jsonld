@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/endothelialBloodBrainBarrier",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a blood brain barrier. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000201)]",
+  "description": "A blood brain barrier that is composed of endothelial cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000201)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000201#endothelial-blood-brain-barrier",
+  "name": "endothelial blood brain barrier",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000201",
+  "synonym": null
+}
+

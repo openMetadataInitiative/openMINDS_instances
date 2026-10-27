@@ -4,21 +4,17 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/brachiumOfSuperiorColliculus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Brachium of superior colliculus' is a neuron projection bundle and central nervous system cell part cluster. It is part of the white matter of superior colliculus.",
-  "description": "Bundle of fibers that passes over the medial geniculate nucleus (in humans) to reach the superior colliculus.  Contains afferents from the retina.",
+  "definition": "Is a neuron projection bundle and central nervous system cell part cluster. Is part of the white matter of superior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002580) ('is_a' and 'relationship')]",
+  "description": "Bundle of fibers that passes over the medial geniculate nucleus (in humans) to reach the superior colliculus. Contains afferents from the retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002580)]",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101410",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002580#brachium-of-superior-colliculus-1",
   "name": "brachium of superior colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002580",
   "synonym": [
-    "brachium colliculi cranialis",
-    "brachium colliculi rostralis",
-    "brachium colliculi superioris",
-    "brachium of the superior colliculus",
-    "brachium quadrigeminum superius",
     "superior brachium",
     "superior collicular brachium",
     "superior colliculus brachium",
     "superior quadrigeminal brachium"
   ]
 }
+

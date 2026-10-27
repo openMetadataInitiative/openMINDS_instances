@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/dataType/matrix",
+  "@type": "https://openminds.om-i.org/types/DataType",
+  "definition": "A 'matrix' is a list of lists.",
+  "description": null,
+  "name": "matrix",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q44337",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/insectCentroPosteriorMedialSynapticNeuropilDomain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is an insect synaptic neuropil domain. Is part of the insect embryonic/larval protocerebrum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007070) ('is_a' and 'relationship')]",
+  "description": "A synaptic neuropil domain of the larval brain located posterior to the medial lobe of the mushroom body. It is separated from the centro-lateral compartment by the peduncle, and from the centro-posterior intermediate compartment by the antenno-cerebral tract to which it is connected via a branch. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007070)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:6007070#centro-posterior-medial-synaptic-neuropil-domain",
+  "name": "insect centro-posterior medial synaptic neuropil domain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6007070",
+  "synonym": [
+    "centro-posterior medial neuropil",
+    "centro-posterior medial synaptic neuropil domain",
+    "larval central complex"
+  ]
+}
+

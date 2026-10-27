@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/marginalVenousSinus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017637)]",
+  "description": "A paired dural venous sinus at the rim of the foramen magnum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017637)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0017637#marginal-venous-sinus",
+  "name": "marginal venous sinus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0017637",
+  "synonym": [
+    "intracranial marginal sinus"
+  ]
+}
+

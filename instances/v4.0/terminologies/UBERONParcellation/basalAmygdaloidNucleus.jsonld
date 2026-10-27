@@ -4,25 +4,19 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/basalAmygdaloidNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Basal amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.",
-  "description": "",
+  "definition": "Is a telencephalic nucleus. Is part of the basolateral amygdaloid nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002887) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101100",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002887#basal-amygdaloid-nucleus-1",
   "name": "basal amygdaloid nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002887",
   "synonym": [
-    "basal nucleus of the amygdala",
     "basolateral amygaloid nucleus",
     "basolateral amygdalar nucleus",
     "basolateral amygdaloid nucleus",
-    "basolateral nucleus (De Olmos)",
-    "basolateral nucleus of amygdala",
-    "basolateral nucleus of the amygdala",
+    "basolateral nucleus (de olmos)",
     "intermediate principal nucleus",
-    "nucleus amygdalae basalis",
-    "nucleus amygdalae basalis lateralis",
-    "nucleus amygdaloideus basalis",
-    "nucleus amygdaloideus basolateralis",
-    "nucleus basalis amygdalae"
+    "nucleus amygdalae basalis lateralis"
   ]
 }
+

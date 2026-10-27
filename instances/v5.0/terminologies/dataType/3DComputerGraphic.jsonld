@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/dataType/3DComputerGraphic",
+  "@type": "https://openminds.om-i.org/types/DataType",
+  "definition": "A '3D computer graphic' is an associative array, defining points, lines, and/or curves in a three dimensional space, which can be rendered to raster graphic.",
+  "description": null,
+  "name": "3D computer graphic",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q189177",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

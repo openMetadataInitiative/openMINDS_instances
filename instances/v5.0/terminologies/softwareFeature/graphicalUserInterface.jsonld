@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/softwareFeature/graphicalUserInterface",
+  "@type": "https://openminds.om-i.org/types/SoftwareFeature",
+  "definition": "A visual system that enables users to interact with a computer or software through graphical elements like windows, icons, and menus, allowing them to perform specific tasks or operations.",
+  "description": null,
+  "name": "graphical user interface",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q782543",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "GUI"
+  ]
+}

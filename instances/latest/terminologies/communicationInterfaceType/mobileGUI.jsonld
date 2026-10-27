@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/communicationInterfaceType/mobileGUI",
+  "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
+  "definition": "A graphical user interface that runs as a native app on a mobile phone.",
+  "description": null,
+  "name": "mobile GUI",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "mobile graphical user interface"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/muscularStructure/pectoralAppendageMuscle",
+  "@type": "https://openminds.om-i.org/types/MuscularStructure",
+  "definition": "Is part of a pectoral appendage. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014794) ('is_a' and 'relationship')]",
+  "description": "Any muscle organ that is part of a pectoral appendage (forelimb or pectoral fin). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014794)]",
+  "name": "pectoral appendage muscle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014794",
+  "synonym": null
+}

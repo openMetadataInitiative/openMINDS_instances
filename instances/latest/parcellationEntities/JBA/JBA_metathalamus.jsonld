@@ -12,9 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_thalamus"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "JBA_metathalamus",
   "name": "metathalamus",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

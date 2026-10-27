@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SetupType",
   "definition": "A 'stimulation system' is a setup type with the purpose of stimulating a specimen.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "stimulation system",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

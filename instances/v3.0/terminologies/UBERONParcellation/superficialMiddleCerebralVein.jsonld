@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superficialMiddleCerebralVein",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebral vein. Is part of the cavernous sinus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035231) ('is_a' and 'relationship')]",
+  "description": "A vein that runs along the fissure of Sylvius to the cavernous sinus on the lateral surface of the brain and connects to the superior sagittal and transverse sinuses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035231)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035231#superficial-middle-cerebral-vein",
+  "name": "superficial middle cerebral vein",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035231",
+  "synonym": [
+    "Sylvian vein",
+    "vein of Labbe"
+  ]
+}
+

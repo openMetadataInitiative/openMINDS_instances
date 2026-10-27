@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Amyloid beta peptide with carboxyterminal variant ending at residual Val40.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0101246",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXMOL:20090708#beta-amyloid-40",
   "name": "Beta-Amyloid 40",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_13181",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/nlx_13181"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NLXMOL:20090708#beta-amyloid-40",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0101246",
   "synonym": [
     "Abeta40",
     "AbetaX-40",

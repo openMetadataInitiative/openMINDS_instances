@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/tissueSampleType/nerve",
+  "@type": "https://openminds.om-i.org/types/TissueSampleType",
+  "definition": "A nerve sample (i.e. a whole nerve or a part of a nerve) from a living or deceased multicellular organism body.",
+  "description": null,
+  "name": "nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

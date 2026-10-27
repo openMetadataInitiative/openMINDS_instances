@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_Area-OP8",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_frontalOperculum"
+    }
+  ],
+  "lookupLabel": "JBA_Area-OP8",
+  "name": "Area Op8 (Frontal Operculum)",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

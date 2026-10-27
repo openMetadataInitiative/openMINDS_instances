@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.nikon.nef",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".tiff",
     ".nef"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.nikon.nef",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Nikon Electronic Format"

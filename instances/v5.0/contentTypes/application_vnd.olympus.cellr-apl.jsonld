@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.olympus.cellr-apl",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".obsep",
+    ".tiff",
+    ".tnb",
+    ".mtb",
+    ".apl"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.olympus.cellr-apl",
+  "specification": null,
+  "synonym": [
+    "Olympus CellR/APL"
+  ]
+}

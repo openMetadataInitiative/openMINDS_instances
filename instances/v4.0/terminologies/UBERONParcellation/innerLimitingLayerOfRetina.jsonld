@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/innerLimitingLayerOfRetina",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a limiting membrane of retina. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001794)]",
+  "description": "The row of fused Muller cell processes and astrocytes that separates the retinal nerve fiber layer from the vitreous. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001794)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001794#inner-limiting-layer-of-retina",
+  "name": "inner limiting layer of retina",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001794",
+  "synonym": [
+    "inner limiting membrane",
+    "inner limiting membrane of retina",
+    "internal limiting lamina of retina",
+    "internal limiting membrane of retina",
+    "retina inner limiting membrane",
+    "retina internal limiting lamina",
+    "stratum limitans internum retinae"
+  ]
+}
+

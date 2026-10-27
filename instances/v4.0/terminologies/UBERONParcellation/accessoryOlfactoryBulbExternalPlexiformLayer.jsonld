@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/accessoryOlfactoryBulbExternalPlexiformLayer",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an olfactory bulb layer. Is part of the accessory olfactory bulb. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019289) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0019289#accessory-olfactory-bulb-external-plexiform-layer",
+  "name": "accessory olfactory bulb external plexiform layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019289",
+  "synonym": [
+    "AOB, outer plexiform layer"
+  ]
+}
+

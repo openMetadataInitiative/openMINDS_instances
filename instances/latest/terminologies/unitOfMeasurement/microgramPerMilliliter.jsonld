@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/UnitOfMeasurement",
   "definition": null,
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "microgram per milliliter",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "ug/ml",

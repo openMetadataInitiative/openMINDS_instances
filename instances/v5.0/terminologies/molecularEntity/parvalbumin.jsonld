@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/parvalbumin",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Parvalbumin is a calcium-binding albumin protein with low molecular weight (typically 9-11 kDa).",
+  "description": null,
+  "name": "parvalbumin",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/nifext_6"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NIFEXT:6#parvalbumin",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0108558",
+  "synonym": [
+    "PV",
+    "Pvalb"
+  ]
+}

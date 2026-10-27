@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.ebrains.image-service.neuroglancer.precomputed",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": "This content type defines a file repository produced by the EBRAINS image-service holding a collection of files that is conform with the Neuroglancer precomputed specifications.",
+  "displayLabel": null,
+  "fileExtension": null,
+  "isBasedOn": null,
+  "name": "application/vnd.ebrains.image-service.neuroglancer.precomputed",
+  "specification": null,
+  "synonym": [
+    "EBRAINS image-service with Neuroglancer precomputed specifications",
+    "EBRAINS image-service Neuroglancer precomputed specs"
+  ]
+}

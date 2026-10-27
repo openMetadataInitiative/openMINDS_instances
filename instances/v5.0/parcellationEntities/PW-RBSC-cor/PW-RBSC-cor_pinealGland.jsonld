@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_pinealGland",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "Pi",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_pinealGland",
+  "name": "pineal gland",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorLongitudinalFasciculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a cerebral nerve fasciculus. Is part of the white matter of telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022246) ('is_a' and 'relationship')]",
+  "description": "The superior longitudinal fasciculus (also called the superior longitudinal fascicle or SLF) is a pair of long bi-directional bundles of neurons connecting the front and the back of the cerebrum. Each association fiber bundle is lateral to the centrum ovale of a cerebral hemisphere and connects the frontal, occipital, parietal, and temporal lobes. The neurons pass from the frontal lobe through the operculum to the posterior end of the lateral sulcus where numerous neurons radiate into the occipital lobe and other neurons turn downward and forward around the putamen and radiate to anterior portions of the temporal lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022246)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022246#superior-longitudinal-fasciculus",
+  "name": "superior longitudinal fasciculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022246",
+  "synonym": null
+}
+

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/thirdSacralDorsalRootGanglion",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a sacral dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002862)]",
+  "description": null,
+  "name": "third sacral dorsal root ganglion",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002862#third-sacral-dorsal-root-ganglion-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002862",
+  "synonym": [
+    "third sacral spinal ganglion"
+  ]
+}

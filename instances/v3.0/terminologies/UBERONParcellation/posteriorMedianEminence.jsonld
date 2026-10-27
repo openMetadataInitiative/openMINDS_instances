@@ -4,14 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorMedianEminence",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Posterior median eminence' is a regional part of brain. It is part of the median eminence of neurohypophysis.",
-  "description": "",
+  "definition": "Is a regional part of brain. Is part of the median eminence of neurohypophysis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002652) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109104",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002652#posterior-median-eminence-1",
   "name": "posterior median eminence",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002652",
-  "synonym": [
-    "PME",
-    "eminentia mediana posterior"
-  ]
+  "synonym": null
 }
+

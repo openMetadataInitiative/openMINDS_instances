@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.wadsworthcenter.spider",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".spi",
     ".stk"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.wadsworthcenter.spider",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "SPIDER"

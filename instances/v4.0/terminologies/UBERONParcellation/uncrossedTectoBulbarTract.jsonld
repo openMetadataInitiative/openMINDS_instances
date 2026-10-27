@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/uncrossedTectoBulbarTract",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a tectobulbar tract. Is part of the brainstem and spinal white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000296) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2000296#uncrossed-tecto-bulbar-tract",
+  "name": "uncrossed tecto-bulbar tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000296",
+  "synonym": null
+}
+

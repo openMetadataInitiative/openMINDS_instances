@@ -6,10 +6,13 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "The NMDA receptors belong to the class of ionotropic glutamate receptors which can be activated with glutamate and glycine with a voltage-dependent current flow. The blockage of the activated channel through extracellular magnesium (Mg2+) and zinc (Zn2+) ions can only be removed when the neuron is sufficiently depolarized.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0107622",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:5250#nmda-type-glutamate-gated-cationic-channel",
   "name": "NMDA receptor",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5250",
+  "otherCrossReference": [
+    "http://uri.neuinfo.org/nif/nifstd/nifext_5250"
+  ],
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/NIFEXT:5250#nmda-type-glutamate-gated-cationic-channel",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0107622",
   "synonym": [
     "ionotropic glutamate N-methyl-D-aspartate receptor",
     "ionotropic glutamate NMDA receptor",

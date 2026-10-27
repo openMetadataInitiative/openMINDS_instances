@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cerebellumLobe",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005293)]",
+  "description": "A major subdivision of the cerebellum: anterior, posterior and flocculonodular. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005293)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005293#lobe-parts-of-the-cerebellar-cortex",
+  "name": "cerebellum lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005293",
+  "synonym": [
+    "cerebellar lobe",
+    "lobe of cerebellum",
+    "lobe parts of the cerebellar cortex"
+  ]
+}
+

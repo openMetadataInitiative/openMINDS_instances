@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_directSegementOfArcuateFasciculus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/DWMA_arcuateFasciculus"
+    }
+  ],
+  "lookupLabel": "DWMA_directSegementOfArcuateFasciculus",
+  "name": "direct segment of arcuate fasciculus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

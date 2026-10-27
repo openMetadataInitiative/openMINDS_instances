@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/sliceTimingCorrection",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "'Slice timing correction' is a preprocessing technique applied to functional magnetic resonance image data in order to correct for temporal offsets between 2D image slices during the data acquisition. [adapted from [Parker and Razlighi, 2019](https://doi.org/10.3389/fnins.2019.00821)]",
+  "description": null,
+  "name": "slice timing correction",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "STC"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/acousticoFacialVIIVIIIGanglionComplex",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012175)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0012175#acoustico-facial-vii-viii-ganglion-complex",
+  "name": "acoustico-facial VII-VIII ganglion complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012175",
+  "synonym": [
+    "acousticofacial ganglion",
+    "facio-acoustic ganglion",
+    "facio-acoustic ganglion complex VII-VIII"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preganglionicAutonomicPoolsParasympathetic",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "ANSprep",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_preganglionicAutonomicPoolsParasympathetic",
+  "name": "preganglionic autonomic pools, parasympathetic",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

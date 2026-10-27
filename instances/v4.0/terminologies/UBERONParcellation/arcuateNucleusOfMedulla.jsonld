@@ -4,20 +4,15 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/arcuateNucleusOfMedulla",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Arcuate nucleus of medulla' is a nucleus of medulla oblongata.",
-  "description": "",
+  "definition": "Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002865)]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100882",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002865#arcuate-nucleus-of-medulla-1",
   "name": "arcuate nucleus of medulla",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002865",
   "synonym": [
-    "ArcM",
-    "arcuate hypothalamic nucleus medial part",
     "arcuate hypothalamic nucleus of medulla",
-    "arcuate nucleus",
-    "arcuate nucleus (medulla)",
     "arcuate nucleus of hypothalamus of medulla",
-    "arcuate nucleus of the medulla",
     "arcuate nucleus-1",
     "arcuate nucleus-2 of medulla",
     "arcuate periventricular nucleus of medulla",
@@ -25,7 +20,6 @@
     "infundibular nucleus of medulla",
     "infundibular periventricular nucleus of medulla",
     "medial arcuate nucleus",
-    "medial part",
     "medulla arcuate hypothalamic nucleus",
     "medulla arcuate nucleus",
     "medulla arcuate nucleus of hypothalamus",
@@ -34,9 +28,7 @@
     "medulla infundibular hypothalamic nucleus",
     "medulla infundibular nucleus",
     "medulla infundibular periventricular nucleus",
-    "nuclei arcuati",
-    "nucleus arciformis pyramidalis",
-    "nucleus arcuatus myelencephali",
-    "nucleus arcuatus pyramidalis"
+    "nucleus arciformis pyramidalis"
   ]
 }
+

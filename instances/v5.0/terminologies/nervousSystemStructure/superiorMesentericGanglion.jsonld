@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/superiorMesentericGanglion",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a mesenteric ganglion. Is part of the superior mesenteric plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005479) ('is_a' and 'relationship')]",
+  "description": "A ganglion in the upper part of the superior mesenteric plexus that is the synapsing point for one of the pre- and post-synaptic nerves of the sympathetic division of the autonomous nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005479)]",
+  "name": "superior mesenteric ganglion",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0005479#superior-mesenteric-ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005479",
+  "synonym": null
+}

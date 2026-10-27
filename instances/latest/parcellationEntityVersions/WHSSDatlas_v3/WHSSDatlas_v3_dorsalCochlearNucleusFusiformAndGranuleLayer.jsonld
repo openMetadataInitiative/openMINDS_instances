@@ -13,7 +13,6 @@
   "hasAnnotation": [
     {
       "@type": "https://openminds.om-i.org/types/AtlasAnnotation",
-      "anchorPoint": null,
       "criteria": null,
       "criteriaQualityType": {
         "@id": "https://openminds.om-i.org/instances/criteriaQualityType/processive"
@@ -49,10 +48,13 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_cochlearNucleusDorsalPart"
     }
   ],
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_dorsalCochlearNucleusFusiformAndGranuleLayer"
+  },
   "lookupLabel": "WHSSDatlas_v3_dorsalCochlearNucleusFusiformAndGranuleLayer",
   "name": "dorsal cochlear nucleus, fusiform and granule layer",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "v3",
-  "versionInnovation": null
+  "versionSpecification": null
 }

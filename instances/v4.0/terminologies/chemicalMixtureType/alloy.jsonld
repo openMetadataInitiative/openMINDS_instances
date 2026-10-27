@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/chemicalMixtureType/alloy",
+  "@type": "https://openminds.om-i.org/types/ChemicalMixtureType",
+  "definition": "A mixture of chemical elements of which at least one is a metal, the atoms are joined by metallic bonding and retains all properties of a metal. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Alloy)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "alloy",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_142648",
+  "synonym": null
+}

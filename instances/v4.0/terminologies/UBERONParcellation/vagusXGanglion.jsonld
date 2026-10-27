@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/vagusXGanglion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005362)]",
+  "description": "The group of sensory neuron cell bodies associated with the vagus nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005362)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005362#vagus-x-ganglion",
+  "name": "vagus X ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005362",
+  "synonym": [
+    "ganglion of vagus nerve",
+    "right glossopharyngeal ganglion",
+    "vagal ganglion",
+    "vagus ganglion",
+    "vagus neural ganglion"
+  ]
+}
+

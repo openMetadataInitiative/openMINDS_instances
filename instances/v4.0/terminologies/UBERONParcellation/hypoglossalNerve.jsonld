@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hypoglossalNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cranial nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001650)]",
+  "description": "Cranial nerve that innervates the muscles of the tongue. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001650)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001650#hypoglossal-nerve-1",
+  "name": "hypoglossal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001650",
+  "synonym": [
+    "cranial nerve XII",
+    "hypoglossal nerve [XII]",
+    "hypoglossal nerve tree",
+    "hypoglossal XII",
+    "hypoglossal XII nerve",
+    "nervus hypoglossus [xii]",
+    "twelfth cranial nerve"
+  ]
+}
+

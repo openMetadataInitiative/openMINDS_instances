@@ -5,11 +5,12 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.snakemake.snakefile",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
-  "fileExtension": [],
+  "fileExtension": null,
+  "isBasedOn": null,
   "name": "application/vnd.snakemake.snakefile",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Snakefile"

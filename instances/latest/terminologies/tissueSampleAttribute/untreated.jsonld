@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/TissueSampleAttribute",
   "definition": "A specimen that has not been modified or treated (e.g., with chemicals) compared to its natural state.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "untreated",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

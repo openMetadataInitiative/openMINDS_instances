@@ -5,14 +5,17 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/text_html",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/text/html"
+  ],
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".html",
     ".htm"
   ],
+  "isBasedOn": null,
   "name": "text/html",
-  "relatedMediaType": "https://www.iana.org/assignments/media-types/text/html",
   "specification": null,
   "synonym": [
     "Hypertext Markup Language",

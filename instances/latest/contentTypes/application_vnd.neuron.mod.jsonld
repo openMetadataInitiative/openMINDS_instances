@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.neuron.mod",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".mod"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.neuron.mod",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

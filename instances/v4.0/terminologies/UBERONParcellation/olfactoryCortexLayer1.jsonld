@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/olfactoryCortexLayer1",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022317) ('is_a' and 'relationship')]",
+  "description": "Surface layer of the olfactory cortex that contains dendrites, fiber systems and a small number of neurons. It has been divided into a superficial part and a deep part. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022317)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022317#olfactory-cortex-layer-1",
+  "name": "olfactory cortex layer 1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022317",
+  "synonym": null
+}
+

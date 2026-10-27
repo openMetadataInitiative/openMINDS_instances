@@ -4,14 +4,12 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/tuberomammillaryNucleusVentralPart",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Tuberomammillary nucleus ventral part' is a regional part of brain. It is part of the tuberomammillary nucleus.",
-  "description": "",
+  "definition": "Is a regional part of brain. Is part of the tuberomammillary nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014594) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112057",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014594#tuberomammillary-nucleus-ventral-part-1",
   "name": "tuberomammillary nucleus ventral part",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014594",
-  "synonym": [
-    "TMv",
-    "tuberomammillary nucleus ventral part"
-  ]
+  "synonym": null
 }
+

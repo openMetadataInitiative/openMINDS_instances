@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/actionStatusType/matplotlib.colormaps.RdBu",
+  "@id": "https://openminds.om-i.org/instances/colormap/matplotlib.colormaps.RdBu",
   "@type": "https://openminds.om-i.org/types/Colormap",
   "definition": "The colormap 'RdBu' is a diverging colormap of the Python plotting library Matplotlib.",
   "description": null,
@@ -14,3 +14,4 @@
     "RdBu"
   ]
 }
+

@@ -4,8 +4,8 @@
   },
   "@id": "https://openminds.om-i.org/instances/UBERONParcellation/areaXOfVentralLateralNucleus",
   "@type": "https://openminds.om-i.org/types/UBERONParcellation",
-  "definition": "'Area X of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.",
-  "description": "",
+  "definition": "Is a gray matter of diencephalon. Is part of the ventral lateral nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002687) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100891",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002687#area-x",
   "name": "area X of ventral lateral nucleus",
@@ -15,13 +15,9 @@
     "area X",
     "area X of Olszewski",
     "nucleus lateralis intermedius mediodorsalis situs ventralis medialis",
-    "nucleus ventralis oralis",
-    "nucleus ventro-oralis internus (Hassler)",
-    "nucleus ventrooralis internus",
-    "nucleus ventrooralis internus (Hassler)",
-    "pars posterior (Dewulf)",
-    "pars posterior (dewulf)",
-    "superior part",
-    "X"
+    "nucleus ventralis oralis, pars posterior (dewulf)",
+    "nucleus ventrooralis internus (hassler)",
+    "nucleus ventrooralis internus, superior part"
   ]
 }
+

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/anteriorMesencephalicCentralArtery",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005052)]",
+  "description": "Arteries that irrigate rostral regions of the midbrain. They extend between the Basial communicating artery to the anterior cerebral vein. Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005052)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2005052#anterior-mesencephalic-central-artery",
+  "name": "anterior mesencephalic central artery",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2005052",
+  "synonym": [
+    "AMCtA",
+    "rostral mesencephalic central artery"
+  ]
+}
+

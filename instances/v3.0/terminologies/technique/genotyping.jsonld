@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/genotyping",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Any experimental or computational method used to determine or infer the alleles or genetic variants present at one or more genomic loci in a biological organism or sample, based on molecular measurements or previously obtained genetic data.",
+  "description": null,
+  "name": "genotyping",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "genotype determination"
+  ]
+}

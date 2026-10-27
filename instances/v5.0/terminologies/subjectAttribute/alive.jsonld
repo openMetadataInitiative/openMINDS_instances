@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/subjectAttribute/alive",
+  "@type": "https://openminds.om-i.org/types/SubjectAttribute",
+  "definition": "An organism that is not dead.",
+  "description": null,
+  "name": "alive",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

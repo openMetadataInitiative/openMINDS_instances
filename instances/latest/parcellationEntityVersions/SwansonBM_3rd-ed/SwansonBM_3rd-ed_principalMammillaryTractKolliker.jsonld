@@ -10,10 +10,13 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_principalMammillaryTractKolliker"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_principalMammillaryTractKolliker",
   "name": "principal mammillary tract [Kölliker]",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "3rd ed.",
-  "versionInnovation": null
+  "versionSpecification": null
 }

@@ -12,11 +12,10 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/DKA_temporalLobe_medialAspect"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "DKA_entorhinalCortex",
   "name": "entorhinal cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": {
-    "@id": "https://openminds.om-i.org/instances/UBERONParcellation/entorhinalCortex"
+  "relatedInterspeciesAnatomy": {
+    "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/entorhinalCortex"
   }
 }

@@ -10,7 +10,7 @@
   "fileExtension": [
     ".json"
   ],
-  "name": "application_vnd.meshview+json",
+  "name": "application/vnd.meshview+json",
   "relatedMediaType": "https://www.iana.org/assignments/media-types/application/json",
   "specification": null,
   "synonym": [

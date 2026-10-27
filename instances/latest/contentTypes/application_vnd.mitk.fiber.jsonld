@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.mitk.fiber",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".fib"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.mitk.fiber",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Fiber bundle"

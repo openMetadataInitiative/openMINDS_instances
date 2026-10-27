@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/ventralLateralGeniculateNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a nucleus of dorsal thalamus. Is part of the lateral geniculate body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002480) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "ventral lateral geniculate nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0112321"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002480#ventral-nucleus-of-lateral-geniculate-body",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002480",
+  "synonym": [
+    "corpus geniculatum externum, nucleus accessorius",
+    "corpus geniculatum laterale, pars oralis",
+    "dorsal_nucleus_of_lateral_geniculate_body",
+    "griseum praegeniculatum",
+    "lateral geniculate complex, ventral part",
+    "lateral geniculate complex, ventral part (kolliker)",
+    "lateral geniculate nucleus, ventral part",
+    "nucleus corporis geniculati lateralis, pars ventralis",
+    "nucleus praegeniculatus",
+    "nucleus pregeniculatum",
+    "nucleus pregeniculatus",
+    "nucleus ventralis corporis geniculati lateralis",
+    "praegeniculatum",
+    "pregeniculate nucleus",
+    "ventral part of the lateral geniculate complex"
+  ]
+}

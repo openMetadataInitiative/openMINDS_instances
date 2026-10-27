@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/deepTemporalNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nerve of head region. Is part of the mandibular nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011327) ('is_a' and 'relationship')]",
+  "description": "The deep temporal nerves, branches of the mandibular division of the trigeminal nerve, are two in number, anterior and posterior. They pass above the upper border of the pterygoideus externus and enter the deep surface of the temporalis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011327)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011327#deep-temporal-nerve",
+  "name": "deep temporal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011327",
+  "synonym": null
+}
+

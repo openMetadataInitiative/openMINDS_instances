@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/WHSSDatlas_ventralCochlearNucleusGranuleCellLayer",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": [
+    "GCL"
+  ],
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "WHSSDatlas_ventralCochlearNucleusGranuleCellLayer",
+  "name": "ventral cochlear nucleus, granule cell layer",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

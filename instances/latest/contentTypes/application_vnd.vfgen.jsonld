@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.vfgen",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".vf"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.vfgen",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Vector Field File"

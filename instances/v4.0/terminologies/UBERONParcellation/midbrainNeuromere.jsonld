@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/midbrainNeuromere",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a neuromere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014776)]",
+  "description": "A neuromere that is part of the presumptive midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014776)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014776#midbrain-neuromere",
+  "name": "midbrain neuromere",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014776",
+  "synonym": [
+    "mesomere of nervous system",
+    "neuromere of mesomere group"
+  ]
+}
+

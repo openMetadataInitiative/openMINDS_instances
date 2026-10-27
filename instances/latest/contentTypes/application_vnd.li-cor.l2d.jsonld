@@ -5,6 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.li-cor.l2d",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
@@ -12,8 +13,8 @@
     ".tiff",
     ".l2d"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.li-cor.l2d",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Li-Cor L2D"

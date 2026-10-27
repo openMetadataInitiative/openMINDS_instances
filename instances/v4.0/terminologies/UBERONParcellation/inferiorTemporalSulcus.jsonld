@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/inferiorTemporalSulcus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a temporal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002969)]",
+  "description": "The inferior surface of the temporal lobe is concave, and is continuous posteriorly with the tentorial surface of the occipital lobe. It is traversed by the inferior temporal sulcus, which extends from near the occipital pole behind, to within a short distance of the temporal pole in front, but is frequently subdivided by bridging gyri. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002969)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002969#inferior-temporal-sulcus-1",
+  "name": "inferior temporal sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002969",
+  "synonym": [
+    "inferior temporal sulcus-1",
+    "middle temporal sulcus (szikla)",
+    "second temporal sulcus",
+    "sulcus t2"
+  ]
+}
+

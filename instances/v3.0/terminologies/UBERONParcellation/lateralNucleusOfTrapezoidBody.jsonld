@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNucleusOfTrapezoidBody",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nucleus of superior olivary complex. Is part of the trapezoid body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016843) ('is_a' and 'relationship')]",
+  "description": "One of two potential parts of the trapezoid nucleus. Separated by an indistinct boundary, the other is the medial trapezoid nucleus ( Crosby-1962 ). The existence of the trapezoid nucleus in the human is disputed ( Bazwinsky-2003 ) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016843)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016843#lateral-nucleus-of-trapezoid-body",
+  "name": "lateral nucleus of trapezoid body",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016843",
+  "synonym": [
+    "LNTB"
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/chemiluminescenceImmunoassay",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "An immunoassay that detects or quantifies a target substance by measuring light emitted from a chemical reaction associated with an antibody–antigen binding event.",
+  "description": null,
+  "name": "chemiluminescence immunoassay",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "chemiluminescent immunoassay",
+    "CLIA"
+  ]
+}

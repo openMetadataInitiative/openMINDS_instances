@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lumbarNervePlexus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a lumbosacral nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034987)]",
+  "description": "A nervous plexus in the lumbar region of the body which forms part of the lumbosacral plexus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034987)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034987#lumbar-nerve-plexus",
+  "name": "lumbar nerve plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034987",
+  "synonym": [
+    "lumbar plexus",
+    "plexus lumbalis"
+  ]
+}
+

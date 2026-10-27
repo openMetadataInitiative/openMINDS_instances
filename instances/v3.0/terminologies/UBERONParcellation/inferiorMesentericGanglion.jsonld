@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorMesentericGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a mesenteric ganglion. Is part of the inferior mesenteric nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005453) ('is_a' and 'relationship')]",
+  "description": "A ganglion located near where the inferior mesenteric artery branches from the abdominal aorta. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005453)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005453#inferior-mesenteric-ganglion",
+  "name": "inferior mesenteric ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005453",
+  "synonym": null
+}
+

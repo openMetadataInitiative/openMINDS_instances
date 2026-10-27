@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/service/MeshView",
+  "@type": "https://openminds.om-i.org/types/Service",
+  "definition": "Web application for viewing atlas surface meshes and data point clouds.",
+  "description": "MeshView is a web application for real-time 3D display of surface mesh data representing structural parcellations from volumetric atlases, such as the Waxholm Space Atlas of the Sprague Dawley Rat Brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MeshView",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

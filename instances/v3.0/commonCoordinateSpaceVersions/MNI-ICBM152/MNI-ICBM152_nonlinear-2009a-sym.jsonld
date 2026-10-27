@@ -17,9 +17,7 @@
 	"fullDocumentation": null,
 	"fullName": "MNI ICBM152 Average Brain Stereotaxic Registration Model",
 	"funding": null,
-	"homepage": {
-		"@id": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009"
-	},
+	"homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009",
 	"howToCite": null,
 	"isAlternativeVersionOf": null,
 	"isNewVersionOf": null,

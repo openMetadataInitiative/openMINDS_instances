@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olivaryBody",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is part of the medulla oblongata. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000128)]",
+  "description": "Prominent oval structure in the medulla oblongata, present in pairs, the lower portion of the brainstem. They contain the olivary nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000128)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000128#olivary-body",
+  "name": "olivary body",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000128",
+  "synonym": [
+    "olive body"
+  ]
+}
+

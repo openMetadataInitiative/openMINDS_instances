@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/spinalTrigeminalTract",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a tract of brain. Is part of the brainstem. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014761) ('is_a' and 'relationship')]",
+  "description": "Brainstem tract formed by the central processes of first-order, trigeminal ganglion neurons that extends from the caudal medulla to the midpons. This tract conveys nociceptive and thermal information from the face to second-order neurons in the spinal nucleus of the trigeminal complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014761)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014761#spinal-trigeminal-tract",
+  "name": "spinal trigeminal tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014761",
+  "synonym": null
+}
+

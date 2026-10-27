@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/operatingSystem/Solaris",
+  "@type": "https://openminds.om-i.org/types/OperatingSystem",
+  "definition": null,
+  "description": null,
+  "name": "Solaris",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q14646",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/zigzagK-spaceSamplingTechnique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A k-space sampling strategy that follows a zigzag pattern.",
+  "description": null,
+  "name": "zigzag k-space sampling technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "zig-zag k-space sampling technique"
+  ]
+}

@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "A 'chemical mixture type' groups all mixtures with the same chemical and physical characteristics under a general term.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "chemicalMixtureType",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

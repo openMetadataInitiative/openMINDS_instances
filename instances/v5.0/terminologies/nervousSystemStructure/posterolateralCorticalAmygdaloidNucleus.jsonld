@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/posterolateralCorticalAmygdaloidNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a telencephalic nucleus. Is part of the cortical amygdaloid nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034999) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "posterolateral cortical amygdaloid nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0034999#posterolateral-cortical-amygdaloid-nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034999",
+  "synonym": [
+    "posterolateral cortical amygdaloid area"
+  ]
+}

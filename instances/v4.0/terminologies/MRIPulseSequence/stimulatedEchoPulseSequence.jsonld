@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/MRIPulseSequence/stimulatedEchoPulseSequence",
+  "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
+  "definition": "A family of magnetic resonance imaging pulse sequences that use three or more radiofrequency (RF) pulses to generate stimulated echoes by temporarily storing transverse magnetization as longitudinal magnetization and subsequently converting it back into transverse magnetization for signal formation.",
+  "description": null,
+  "name": "stimulated echo pulse sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "STE pulse sequence"
+  ]
+}

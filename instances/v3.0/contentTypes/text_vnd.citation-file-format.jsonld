@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/text_vnd.citation-file-format",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "CITATION.cff files are plain text files with human- and machine-readable citation information for research products. [adapted from [Citation File Format (CFF)](https://citation-file-format.github.io/)]",
+  "displayLabel": null,
+  "fileExtension": [
+    ".cff"
+  ],
+  "name": "text/vnd.citation-file-format",
+  "relatedMediaType": null,
+  "specification": "https://github.com/citation-file-format/citation-file-format/blob/main/README.md",
+  "synonym": [
+    "CITATION.cff"
+  ]
+}

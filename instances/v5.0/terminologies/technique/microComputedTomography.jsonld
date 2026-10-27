@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/microComputedTomography",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "'Micro computed tomography' uses X-rays to create cross-sections of physical objects with resolution in the micrometer range that can be used to recreate 3-dimensional models [adapted from [Wikipedia](https://en.wikipedia.org/wiki/X-ray_microtomography)].",
+  "description": null,
+  "name": "micro computed tomography",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0489243"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0514122",
+  "synonym": [
+    "micro CT",
+    "microtomography",
+    "X-ray microtomography",
+    "X-ray micro computed tomography"
+  ]
+}

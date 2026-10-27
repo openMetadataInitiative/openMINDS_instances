@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.bionetgen",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".ebngl",
     ".bngl"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.bionetgen",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "BioNetGen Language"

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/genotyping",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Any experimental or computational method used to determine or infer the alleles or genetic variants present at one or more genomic loci in a biological organism or sample, based on molecular measurements or previously obtained genetic data.",
+  "description": null,
+  "name": "genotyping",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "genotype determination"
+  ]
+}

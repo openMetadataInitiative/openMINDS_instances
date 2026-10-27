@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/neuropeptideYExpressingNeuron",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "Any neuron that expresses neuropeptide Y.",
+  "description": null,
+  "name": "neuropeptide Y expressing neuron",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "neuropeptide Y expressing cell",
+    "neuropeptide Y-positive cell",
+    "neuropeptide Y-positive neuron",
+    "NPY+ cell",
+    "NPY+ neuron",
+    "NPY-expressing cell",
+    "NPY-expressing neuron",
+    "NPY-positive cell",
+    "NPY-positive neuron"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cellType/vascularSmoothMuscleCell",
+  "@type": "https://openminds.om-i.org/types/CellType",
+  "definition": "A smooth muscle cell assocatiated with the vasculature.",
+  "description": null,
+  "name": "vascular smooth muscle cell",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CL_0000359",
+  "synonym": [
+    "vascular associated smooth muscle cell",
+    "VSMC"
+  ]
+}

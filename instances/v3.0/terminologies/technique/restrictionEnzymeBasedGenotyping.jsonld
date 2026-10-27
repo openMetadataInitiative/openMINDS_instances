@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/restrictionEnzymeBasedGenotyping",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Any genotyping technique that uses restriction enzymes to identify genetic variants through differences in DNA fragment patterns, potentially incorporating PCR amplification as in restriction fragment length polymorphism analysis.",
+  "description": null,
+  "name": "restriction enzyme-based genotyping",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/intermediateOculomotorNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a brainstem nucleus and midbrain nucleus. Is part of the oculomotor nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002970) ('is_a' and 'relationship')]",
+  "description": null,
+  "name": "intermediate oculomotor nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0105573"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002970#intermediate-oculomotor-nucleus-1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002970",
+  "synonym": [
+    "intermediate nucleus of oculomotor nuclear complex",
+    "intermediate oculomotor cell column"
+  ]
+}

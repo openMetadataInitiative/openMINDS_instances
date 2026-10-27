@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/hindbrainSpinalCordBoundary",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005076)]",
+  "description": "An anatomical boundary that adjacent to a hindbrain and adjacent to a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005076)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005076#hindbrain-spinal-cord-boundary",
+  "name": "hindbrain-spinal cord boundary",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005076",
+  "synonym": [
+    "hindbrain-spinal cord boundary region"
+  ]
+}
+

@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/terminology/CranialWindowConstructionType",
+  "@id": "https://openminds.om-i.org/instances/terminology/cranialWindowConstructionType",
   "@type": "https://openminds.om-i.org/types/Terminology",
   "definition": "The construction type of a cranial window.",
   "description": null,
@@ -12,3 +12,4 @@
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
+

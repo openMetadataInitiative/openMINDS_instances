@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.neo.ascii.spiketrain",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".txt"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.neo.ascii.spiketrain",
+  "specification": null,
+  "synonym": [
+    "NEO SpikeTrains"
+  ]
+}

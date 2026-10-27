@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contributionType/editing",
+  "@type": "https://openminds.om-i.org/types/ContributionType",
+  "definition": "A contribution type of a role-bearing entity realized by modifying the content or form of a target entity to improve its accuracy, clarity, coherence, or quality.",
+  "description": null,
+  "name": "editing",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

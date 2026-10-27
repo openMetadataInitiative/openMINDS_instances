@@ -2,18 +2,20 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.phy",
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.mearec",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
-    ".npy"
+    ".h5"
   ],
-  "name": "application/vnd.phy",
-  "relatedMediaType": null,
+  "isBasedOn": null,
+  "name": "application/vnd.mearec",
   "specification": null,
   "synonym": [
-    "phy files"
+    "Multi-Electrode-Arrays",
+    "MEA"
   ]
 }

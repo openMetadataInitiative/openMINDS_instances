@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.hamamatsu.vms",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".vms"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.hamamatsu.vms",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Hamamatsu VMS"

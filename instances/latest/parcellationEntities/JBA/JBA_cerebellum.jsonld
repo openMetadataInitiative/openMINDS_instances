@@ -12,9 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_metencephalon"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "JBA_cerebellum",
   "name": "cerebellum",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

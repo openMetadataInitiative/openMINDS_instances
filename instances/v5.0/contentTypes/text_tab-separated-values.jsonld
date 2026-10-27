@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/text_tab-separated-values",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/text/tab-separated-values"
+  ],
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".tsv",
+    ".csv"
+  ],
+  "isBasedOn": null,
+  "name": "text/tab-separated-values",
+  "specification": null,
+  "synonym": [
+    "Tab-Separated Value",
+    "TSV"
+  ]
+}

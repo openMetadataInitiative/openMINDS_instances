@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/disease/acquiredBlindness",
+  "@type": "https://openminds.om-i.org/types/Disease",
+  "definition": "Acquired blindness is caused by a group of diseases, disorders or injuries that led to permanent severely impaired vision or irreversible lack of vision during adulthood.",
+  "description": null,
+  "name": "acquired blindness",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0499758"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0336554",
+  "synonym": null
+}

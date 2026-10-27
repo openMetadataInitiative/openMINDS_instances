@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/earlyMesencephalicVesicle",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a future brain vesicle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013147)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013147#early-mesencephalic-vesicle",
+  "name": "early mesencephalic vesicle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013147",
+  "synonym": [
+    "mesencephalic vesicle"
+  ]
+}
+

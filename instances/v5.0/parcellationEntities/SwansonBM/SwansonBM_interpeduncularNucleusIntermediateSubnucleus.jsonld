@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusIntermediateSubnucleus",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "IPNi",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_interpeduncularNucleusIntermediateSubnucleus",
+  "name": "interpeduncular nucleus, intermediate subnucleus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

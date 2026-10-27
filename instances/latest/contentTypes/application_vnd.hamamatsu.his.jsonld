@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.hamamatsu.his",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".his"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.hamamatsu.his",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "Hamamatsu HIS"

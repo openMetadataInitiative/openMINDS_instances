@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/nucleusRapheObscurus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nucleus of medulla oblongata. Is part of the medullary raphe nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002684) ('is_a' and 'relationship')]",
+  "description": "The raphe obscurus projects to the cerebellar lobes VI and VII and to crus II along with the nucleus raphe pontis. This so called obscure nucleus has also been implicated in the modulation of the hypoglossal nerve. It has been observed that the ablation of this nucleus causes a change in the firing pattern in the XII nerve. In addition, the raphe obscurus mediates expiration via the inhibitory effect of serotonin and depresses periodic synaptic potentials. It has also been shown that this nucleus stimulates gastrointestinal motor function; microinjections of 5-HT into the n.r. obscurus increase gastric movement. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002684)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107793",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002684#nucleus-raphe-obscurus-1",
+  "name": "nucleus raphe obscurus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002684",
+  "synonym": [
+    "nucleus raphes obscurus",
+    "obscurus raphe nucleus",
+    "raphe obscurus nucleus"
+  ]
+}
+

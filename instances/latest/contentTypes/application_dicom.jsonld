@@ -5,13 +5,16 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_dicom",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/application/dicom"
+  ],
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".dcm"
   ],
+  "isBasedOn": null,
   "name": "application/dicom",
-  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/dicom",
   "specification": null,
   "synonym": [
     "Digital Imaging and Communications in Medicine",

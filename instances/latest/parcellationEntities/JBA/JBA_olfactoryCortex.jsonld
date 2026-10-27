@@ -12,9 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_limbicLobe"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "JBA_olfactoryCortex",
   "name": "olfactory cortex",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

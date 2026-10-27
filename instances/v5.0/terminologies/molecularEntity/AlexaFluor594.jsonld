@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/AlexaFluor594",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Alexa Fluor 594' is a fluorochrome/fluorescent dye used to stain biological specimens.",
+  "description": null,
+  "name": "Alexa Fluor 594",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/CHEBI:51248#alexa-fluor-594",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_51248",
+  "synonym": [
+    "Alexa 594"
+  ]
+}

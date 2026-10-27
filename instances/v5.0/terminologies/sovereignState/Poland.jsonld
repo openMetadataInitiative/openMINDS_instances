@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Poland",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in Central Europe. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q36)]",
+  "description": null,
+  "name": "Poland",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q36",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "PL",
+    "POL",
+    "Polska",
+    "Republic of Poland",
+    "Rzeczpospolita Polska"
+  ]
+}

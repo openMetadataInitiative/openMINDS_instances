@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/(N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "(N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole (Pittsburgh compound B) is used as a positron emission tomography tracer to increase contrast of beta-amyloid plaques in neuronal tissue.",
+  "description": null,
+  "name": "(N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://pubchem.ncbi.nlm.nih.gov/compound/2826731",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Pittsburgh Compound B",
+    "Pittsburgh B",
+    "PiB",
+    "benzothiazole-1",
+    "BTA-1",
+    "2-{4-[(11C)Methylamino]phenyl}-1,3-benzothiazol-6-ol",
+    "(N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole"
+  ]
+}

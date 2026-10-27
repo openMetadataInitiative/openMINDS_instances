@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/floorPlateSpinalCordRegion",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005723)]",
+  "description": "A multi-tissue structure that is part of a spinal cord and is part of a floor plate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005723)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005723#floor-plate-spinal-cord-region",
+  "name": "floor plate spinal cord region",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005723",
+  "synonym": [
+    "floor plate spinal cord",
+    "floorplate spinal cord"
+  ]
+}
+

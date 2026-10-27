@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/dentateGyrusPyramidalLayer",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a layer of dentate gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002929)]",
+  "description": null,
+  "name": "dentate gyrus pyramidal layer",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0002929#dentate-gyrus-pyramidal-layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002929",
+  "synonym": null
+}

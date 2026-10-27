@@ -6,10 +6,11 @@
   "@type": "https://openminds.om-i.org/types/MolecularEntity",
   "definition": "Dynorphin belongs to a class of opioid peptides that arise from the precursor protein prodynorphin. Dynorphins bind to the kappa opioid receptor.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0103624",
-  "knowledgeSpaceLink": null,
   "name": "dynorphin",
-  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5097",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://uri.neuinfo.org/nif/nifstd/nifext_5097",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0103624",
   "synonym": [
     "Dyn"
   ]

@@ -5,13 +5,14 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/image_vnd.compix.simplepcihcimage",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".cxd "
   ],
+  "isBasedOn": null,
   "name": "image/vnd.compix.simplepcihcimage",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "SimplePCI, HCImage"

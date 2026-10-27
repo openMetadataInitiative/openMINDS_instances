@@ -4,20 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateGyrus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "'Anterior cingulate gyrus' is a gyrus. It is part of the cingulate gyrus and anterior cingulate cortex.",
-  "description": "",
+  "definition": "Is a gyrus. Is part of the cingulate gyrus and the anterior cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002756) ('is_a' and 'relationship')]",
+  "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100690",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002756#anterior-cingulate-gyrus-1",
   "name": "anterior cingulate gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002756",
-  "synonym": [
-    "ACG",
-    "anterior cingulate",
-    "anterior division",
-    "cGa",
-    "cingulate gyrus",
-    "cortex cingularis anterior",
-    "gyrus cinguli anterior",
-    "gyrus limbicus anterior"
-  ]
+  "synonym": null
 }
+

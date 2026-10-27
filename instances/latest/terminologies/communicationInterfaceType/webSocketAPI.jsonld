@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/communicationInterfaceType/webSocketAPI",
+  "@type": "https://openminds.om-i.org/types/CommunicationInterfaceType",
+  "definition": "An application programming interface based on exchanging messages between a client application and a server using web sockets.",
+  "description": null,
+  "name": "web socket API",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

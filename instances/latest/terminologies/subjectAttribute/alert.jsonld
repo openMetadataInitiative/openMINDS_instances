@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SubjectAttribute",
   "definition": "A temporary state of an organism in which it can quickly perceive and act.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "alert",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

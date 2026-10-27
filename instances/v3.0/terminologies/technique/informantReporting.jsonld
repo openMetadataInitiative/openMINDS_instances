@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/informantReporting",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A data collection technique in which an individual provides information about another individual or subject based on their observations, experiences, or knowledge.",
+  "description": null,
+  "name": "informant-reporting",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "informant reporting",
+    "other non-expert reporting"
+  ]
+}

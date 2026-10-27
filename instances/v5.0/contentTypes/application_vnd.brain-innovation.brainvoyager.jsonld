@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.brain-innovation.brainvoyager",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".v16",
+    ".vmr"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.brain-innovation.brainvoyager",
+  "specification": null,
+  "synonym": null
+}

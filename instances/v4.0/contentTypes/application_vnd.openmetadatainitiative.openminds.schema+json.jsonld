@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.openmetadatainitiative.openminds.schema+json",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": "openMINDS-specific schema syntax that defines properties and values of linked data, includes centrally managed vocabulary definitions, and provides configuration hints for possible adoptions.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".schema.omi.json"
+  ],
+  "name": "application/vnd.openmetadatainitiative.openminds.schema+json",
+  "relatedMediaType": null,
+  "specification": null,
+  "synonym": [
+    "openMINDS schema"
+  ]
+}

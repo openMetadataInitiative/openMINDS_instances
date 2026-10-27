@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_meninges",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "MEN",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_meninges",
+  "name": "meninges",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

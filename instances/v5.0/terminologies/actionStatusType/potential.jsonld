@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/actionStatusType/potential",
+  "@type": "https://openminds.om-i.org/types/ActionStatusType",
+  "definition": "A description of an action that is supported.",
+  "description": null,
+  "name": "potential",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "https://schema.org/PotentialActionStatus",
+  "synonym": [
+    "potential action type",
+    "potential action"
+  ]
+}

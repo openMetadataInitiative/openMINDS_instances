@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/cochlearNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nucleus of medulla oblongata. Is part of the cochlear nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001720) ('is_a' and 'relationship')]",
+  "description": "Any of the nuclei of the cochlear nuclear complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001720)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001720#cochlear-nucleus",
+  "name": "cochlear nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001720",
+  "synonym": [
+    "cochlear nucleus of acoustic nerve",
+    "cochlear nucleus of eighth cranial nerve",
+    "cochlear VIII nucleus",
+    "nucleus of cochlear nerve",
+    "statoacoustic (VIII) nucleus"
+  ]
+}
+

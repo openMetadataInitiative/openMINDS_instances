@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/SubjectAttribute",
   "definition": "A temporary state of an organism in the time period that immediately follows a surgical procedure.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "postoperative",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

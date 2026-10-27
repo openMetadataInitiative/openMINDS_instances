@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/thirdVentricleEpendyma",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a brain ependyma. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004642) ('is_a' and 'relationship')]",
+  "description": "An ependyma that is part of a third ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004642)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004642#third-ventricle-ependyma",
+  "name": "third ventricle ependyma",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004642",
+  "synonym": [
+    "3rd ventricle ependyma",
+    "ependyma of third ventricle"
+  ]
+}
+

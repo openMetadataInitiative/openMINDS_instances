@@ -5,13 +5,16 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.openxmlformats-officedocument.spreadsheetml.sheet",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  ],
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".xlsx"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-  "relatedMediaType": "https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
   "specification": null,
   "synonym": [
     "Microsoft Excel (Open XML)",

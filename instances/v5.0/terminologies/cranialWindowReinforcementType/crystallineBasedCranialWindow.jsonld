@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/cranialWindowReinforcementType/crystallineBasedCranialWindow",
+  "@type": "https://openminds.om-i.org/types/CranialWindowReinforcementType",
+  "definition": "A cranial window reinforced by an implantation of a crystalline material.",
+  "description": null,
+  "name": "crystalline-based cranial window",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

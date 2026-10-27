@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/analysisOfVariance",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "A family of statistical hypothesis testing methods used to determine whether the means of two or more groups differ significantly by comparing the variation between groups with the variation within groups.",
+  "description": null,
+  "name": "analysis of variance",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_0200201",
+  "synonym": [
+    "ANOVA"
+  ]
+}

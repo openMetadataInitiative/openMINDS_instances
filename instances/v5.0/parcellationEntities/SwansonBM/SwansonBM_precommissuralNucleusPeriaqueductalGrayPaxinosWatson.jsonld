@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precommissuralNucleusPeriaqueductalGrayPaxinosWatson",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PRC",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_precommissuralNucleusPeriaqueductalGrayPaxinosWatson",
+  "name": "precommissural nucleus, periaqueductal gray [Paxinos-Watson]",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_SMA",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "SMA",
+  "alternateName": [
+    "SMA",
+    "Supp_Motor_Area"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_frontalLobe"
+    }
+  ],
+  "lookupLabel": "AAL1_SMA",
+  "name": "supplementary motor area",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

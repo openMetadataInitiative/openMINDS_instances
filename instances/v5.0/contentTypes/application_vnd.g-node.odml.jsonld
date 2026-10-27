@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.g-node.odml",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".odml"
+  ],
+  "isBasedOn": null,
+  "name": "application/vnd.g-node.odml",
+  "specification": "https://g-node.github.io/python-odml/",
+  "synonym": [
+    "odML",
+    "open metadata Markup Language"
+  ]
+}

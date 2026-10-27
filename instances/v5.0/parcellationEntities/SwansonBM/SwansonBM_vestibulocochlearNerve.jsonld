@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibulocochlearNerve",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "VIIIn",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_vestibulocochlearNerve",
+  "name": "vestibulocochlear nerve",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

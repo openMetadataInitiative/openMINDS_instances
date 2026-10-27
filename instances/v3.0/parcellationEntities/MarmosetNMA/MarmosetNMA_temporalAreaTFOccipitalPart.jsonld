@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_temporalAreaTFOccipitalPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "TFO",
+  "alternateName": [
+    "temporal area TF, occipital part"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_ventralAreasOfTheTemporalLobe"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTFOccipitalPart"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_temporalAreaTFOccipitalPart",
+  "name": "temporal area TF occipital part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

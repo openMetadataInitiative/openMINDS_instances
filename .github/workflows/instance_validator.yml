@@ -1,0 +1,9 @@
+name: Instance Validator
+
+on:
+  - pull_request
+  - workflow_dispatch
+
+jobs:
+  validate-instance:
+    uses: openMetadataInitiative/openMINDS_actions/.github/workflows/instance_validator.yml@main

@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_GR",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "GR",
+  "alternateName": [
+    "GR",
+    "Rectus"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_frontalLobe"
+    }
+  ],
+  "lookupLabel": "AAL1_GR",
+  "name": "gyrus rectus",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

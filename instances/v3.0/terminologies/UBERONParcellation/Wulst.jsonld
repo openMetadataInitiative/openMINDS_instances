@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/Wulst",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a nuclear complex of neuraxis and gray matter of telencephalon. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014756) ('is_a' and 'relationship')]",
+  "description": "A nuclear complex in the avian telecephalon dorsal to the DVR. The Wulst has telencephalic circuitry similar to the DVR. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014756)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014756#wulst",
+  "name": "Wulst",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014756",
+  "synonym": null
+}
+

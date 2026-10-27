@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/nervousSystemStructure/neuralNucleus",
+  "@type": "https://openminds.om-i.org/types/NervousSystemStructure",
+  "definition": "Is a central nervous system cell part cluster. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000125)]",
+  "description": "A spatially aggregated collection of nerve cell bodies in the CNS, consisting of one or more subpopulations that share cell type, chemical phenotype, and connections, and including nearby cells that share the same cell type, chemical phenotype, and connections. (CUMBO) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000125)]",
+  "name": "neural nucleus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0107752"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/UBERON:0000125#nucleus-of-cns",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000125",
+  "synonym": [
+    "nervous system nucleus",
+    "neuraxis nucleus",
+    "neuronal nucleus",
+    "nucleus of CNS"
+  ]
+}

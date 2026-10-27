@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.metaxpress",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".tiff",
     ".htd"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.metaxpress",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": [
     "MetaXpress"

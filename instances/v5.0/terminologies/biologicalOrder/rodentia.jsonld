@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/biologicalOrder/rodentia",
+  "@type": "https://openminds.om-i.org/types/BiologicalOrder",
+  "definition": "The biological order *Rodentia* (rodents) belongs to the class *Mammalia* (mammals).",
+  "description": null,
+  "name": "Rodentia",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0110175"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9989",
+  "synonym": [
+    "rodents"
+  ]
+}

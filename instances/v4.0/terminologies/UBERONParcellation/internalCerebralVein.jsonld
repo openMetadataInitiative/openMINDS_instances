@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/internalCerebralVein",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035152)]",
+  "description": "The internal cerebral veins (veins of Galen; deep cerebral veins) drain the deep parts of the hemisphere and are two in number; each is formed near the interventricular foramen by the union of the terminal and choroid veins. They run backward parallel with one another, between the layers of the tela chorioidea of the third ventricle, and beneath the splenium of the corpus callosum, where they unite to form a short trunk, the great cerebral vein; just before their union each receives the corresponding basal vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035152)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0035152#internal-cerebral-vein",
+  "name": "internal cerebral vein",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035152",
+  "synonym": null
+}
+

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortexCaudomedialArea",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": "AuCM",
+  "alternateName": [
+    "auditory cortex, caudomedial area"
+  ],
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/MarmosetNMA_auditoryCortex"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexCaudomedialArea"
+    }
+  ],
+  "lookupLabel": "MarmosetNMA_auditoryCortexCaudomedialArea",
+  "name": "auditory cortex caudomedial area",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
+

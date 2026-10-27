@@ -12,9 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_brain"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "JBA_metencephalon",
   "name": "metencephalon",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

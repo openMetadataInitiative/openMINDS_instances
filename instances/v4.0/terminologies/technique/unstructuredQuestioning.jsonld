@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/unstructuredQuestioning",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "A data collection technique in which questions are formulated and adapted flexibly during the interaction without a predetermined wording or order, allowing respondents' answers to guide the development of subsequent questions.",
+  "description": null,
+  "name": "unstructured questioning",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -5,13 +5,16 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.wavefronttechnologies",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": [
+    "https://www.iana.org/assignments/media-types/model/obj"
+  ],
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".obj"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.wavefronttechnologies",
-  "relatedMediaType": "https://www.iana.org/assignments/media-types/model/obj",
   "specification": null,
   "synonym": [
     "Wavefront OBJ"

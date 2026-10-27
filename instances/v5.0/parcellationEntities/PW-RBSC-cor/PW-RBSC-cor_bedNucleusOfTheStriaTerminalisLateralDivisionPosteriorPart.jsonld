@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionPosteriorPart",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "STLP",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionPosteriorPart",
+  "name": "bed nucleus of the stria terminalis, lateral division, posterior part",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

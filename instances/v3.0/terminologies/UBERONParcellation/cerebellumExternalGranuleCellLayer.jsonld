@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumExternalGranuleCellLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a granular layer of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008829)]",
+  "description": "Transient layer of the cerebellar cortex present during development which is composed of dividing and migrating granule cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008829)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008829#outer-granular-layer-of-cerebellar-cortex",
+  "name": "cerebellum external granule cell layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008829",
+  "synonym": [
+    "outer granular layer of cerebellar cortex"
+  ]
+}
+

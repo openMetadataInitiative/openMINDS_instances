@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/softwareApplicationCategory/notebook",
+  "@type": "https://openminds.om-i.org/types/SoftwareApplicationCategory",
+  "definition": null,
+  "description": null,
+  "name": "notebook",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://www.wikidata.org/entity/Q28405706",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

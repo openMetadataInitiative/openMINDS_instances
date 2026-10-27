@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/orbitalOperculum",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a regional part of brain. Is part of the operculum of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002593) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002593#orbital-operculum-1",
+  "name": "orbital operculum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002593",
+  "synonym": [
+    "operculum orbitale",
+    "pars orbitalis of frontal operculum (Ono)"
+  ]
+}
+

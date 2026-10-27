@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/epithalamusVentricularLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a neural tube ventricular layer. Is part of the epithalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013160) ('is_a' and 'relationship')]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013160#epithalamus-ventricular-layer",
+  "name": "epithalamus ventricular layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013160",
+  "synonym": [
+    "ventricular layer epithalamus",
+    "ventricular layer of epithalamus"
+  ]
+}
+

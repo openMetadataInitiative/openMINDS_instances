@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/postganglionicParasympatheticFiber",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a postganglionic autonomic fiber. Is part of the parasympathetic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011929) ('is_a' and 'relationship')]",
+  "description": "A cholinergic axonal fiber projecting from a parasympathetic ganglion to an effector organ. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011929)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0011929#postganglionic-parasympathetic-fiber",
+  "name": "postganglionic parasympathetic fiber",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011929",
+  "synonym": null
+}
+

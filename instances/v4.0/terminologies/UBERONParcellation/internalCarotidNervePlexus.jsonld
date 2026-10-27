@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/internalCarotidNervePlexus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is an autonomic nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002024)]",
+  "description": "The internal carotid plexus (carotid plexus) is situated on the lateral side of the internal carotid artery, and in the plexus there occasionally exists a small gangliform swelling, the carotid ganglion, on the under surface of the artery. Postganglionic sympathetic fibres ascend from the superior cervical ganglion, along the walls of the internal carotid artery, to enter the internal carotid plexus. These fibres then distribute to deep structures, which include the levator palpebrae superioris and pupillary dilator muscles. Some of the fibres from the internal carotid plexus converge to form the deep petrosal nerve. The internal carotid plexus communicates with the semilunar ganglion, the abducent nerve, and the sphenopalatine ganglion; it distributes filaments to the wall of the carotid artery, and also communicates with the tympanic branch of the glossopharyngeal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002024)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002024#internal-carotid-nerve-plexus",
+  "name": "internal carotid nerve plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002024",
+  "synonym": [
+    "internal carotid plexus",
+    "plexus caroticus internus"
+  ]
+}
+

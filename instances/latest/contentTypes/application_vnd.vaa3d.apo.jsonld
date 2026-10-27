@@ -5,14 +5,15 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/application_vnd.vaa3d.apo",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
+  "definingSource": null,
   "description": null,
   "displayLabel": null,
   "fileExtension": [
     ".csv",
     ".apo"
   ],
+  "isBasedOn": null,
   "name": "application/vnd.vaa3d.apo",
-  "relatedMediaType": null,
   "specification": null,
   "synonym": null
 }

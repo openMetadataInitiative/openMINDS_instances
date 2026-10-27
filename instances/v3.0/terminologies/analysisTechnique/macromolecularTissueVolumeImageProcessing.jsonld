@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/analysisTechnique/macromolecularTissueVolumeImageProcessing",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
+  "definition": "Magnetic resonance imaging analysis technique that provides a quantitative estimate of the macromolecular tissue volume within the image. [adapted from [Mezer et al., (2013)](https://doi.org/10.1038/nm.3390)].",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "macromolecular tissue volume image processing",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "macromolecular tissue volume estimation",
+    "MTV estimation",
+    "MTV image processing"
+  ]
+}

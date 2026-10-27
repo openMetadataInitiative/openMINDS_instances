@@ -15,13 +15,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/AAL1_brain"
     }
   ],
-  "hasVersion": [
-    {
-      "@id": "https://openminds.om-i.org/instances/parcellationEntityVersion/AAL1_SPM12-v4_IN"
-    }
-  ],
   "lookupLabel": "AAL1_IN",
   "name": "insula",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

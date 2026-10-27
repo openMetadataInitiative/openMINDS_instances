@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/habenularNucleus",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a nucleus of thalamus. Is part of the habenula. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008993) ('is_a' and 'relationship')]",
+  "description": "Either of the two neural nuclei within the habenula. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008993)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008993#habenular-nucleus",
+  "name": "habenular nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008993",
+  "synonym": null
+}
+

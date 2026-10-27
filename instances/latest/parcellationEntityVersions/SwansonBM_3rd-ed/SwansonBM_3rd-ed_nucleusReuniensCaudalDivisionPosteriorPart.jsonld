@@ -12,10 +12,13 @@
   "correctedName": null,
   "hasAnnotation": null,
   "hasParent": null,
+  "isVersionOf": {
+    "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensCaudalDivisionPosteriorPart"
+  },
   "lookupLabel": "SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionPosteriorPart",
   "name": "nucleus reuniens, caudal division, posterior part",
   "ontologyIdentifier": null,
   "relationAssessment": null,
   "versionIdentifier": "3rd ed.",
-  "versionInnovation": null
+  "versionSpecification": null
 }

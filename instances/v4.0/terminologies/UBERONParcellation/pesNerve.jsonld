@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/pesNerve",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a hindlimb nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003445)]",
+  "description": "A nerve that is part of a foot. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003445)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003445#pes-nerve",
+  "name": "pes nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003445",
+  "synonym": [
+    "foot nerve",
+    "nerve of foot"
+  ]
+}
+

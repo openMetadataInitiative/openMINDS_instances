@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pretectalRegionEdinger",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "PRT",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_pretectalRegionEdinger",
+  "name": "pretectal region [Edinger]",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

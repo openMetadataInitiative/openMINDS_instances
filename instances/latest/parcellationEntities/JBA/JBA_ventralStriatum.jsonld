@@ -12,9 +12,8 @@
       "@id": "https://openminds.om-i.org/instances/parcellationEntity/JBA_basalGanglia"
     }
   ],
-  "hasVersion": null,
   "lookupLabel": "JBA_ventralStriatum",
   "name": "ventral striatum",
   "ontologyIdentifier": null,
-  "relatedUBERONTerm": null
+  "relatedInterspeciesAnatomy": null
 }

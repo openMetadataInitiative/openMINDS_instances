@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trochlearNerve",
+  "@type": "https://openminds.om-i.org/types/ParcellationEntity",
+  "abbreviation": "IVn",
+  "alternateName": null,
+  "definition": null,
+  "hasParent": null,
+  "lookupLabel": "SwansonBM_trochlearNerve",
+  "name": "trochlear nerve",
+  "ontologyIdentifier": null,
+  "relatedInterspeciesAnatomy": null
+}

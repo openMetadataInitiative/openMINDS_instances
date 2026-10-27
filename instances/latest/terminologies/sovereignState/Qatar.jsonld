@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/SovereignState/Qatar",
+  "@type": "https://openminds.om-i.org/types/SovereignState",
+  "definition": "Country in West Asia. [auto-generated from 'schema:description' property of the [Wikidata entity](http://www.wikidata.org/entity/Q846)]",
+  "description": null,
+  "name": "Qatar",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "http://www.wikidata.org/entity/Q846",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "QA",
+    "qa",
+    "QAT",
+    "qat",
+    "State of Qatar"
+  ]
+}

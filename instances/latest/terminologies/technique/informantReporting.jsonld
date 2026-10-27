@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/informantReporting",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "A data collection technique in which an individual provides information about another individual or subject based on their observations, experiences, or knowledge.",
+  "description": null,
+  "name": "informant-reporting",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "informant reporting",
+    "other non-expert reporting"
+  ]
+}

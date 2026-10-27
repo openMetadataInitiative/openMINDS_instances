@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/TissueSampleType",
   "definition": "A nerve sample (i.e. a whole nerve or a part of a nerve) from a living or deceased multicellular organism body.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "nerve",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/UBERONParcellation/sublaminarLayerS5",
+  "@type": "https://openminds.om-i.org/types/UBERONParcellation",
+  "definition": "Is a sublaminar layers S4 or S5, sublaminar layers S1 or S2 or S5 and sublaminar layers S3 or S4 or S5. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008926)]",
+  "description": "A retinal neural layer that is immediately adjacent to the retinal ganglion cell layer and comprises 20 percent of the ganglion plexiform layer of retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008926)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008926#sublaminar-layer-s5",
+  "name": "sublaminar layer S5",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008926",
+  "synonym": null
+}
+

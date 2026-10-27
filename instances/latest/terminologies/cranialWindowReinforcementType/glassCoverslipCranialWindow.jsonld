@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/CranialWindowReinforcementType",
   "definition": "A cranial window reinforced by an implantation of a glass coverslip.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "glass coverslip cranial window",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

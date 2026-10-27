@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusStratumRadiatum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005372)]",
+  "description": "The layer located immediately above the pyramidal cell layer in CA2 and CA1 and superficial to the stratum lucidum in CA3. Suprapyramidal region in which CA3 to CA3 associational connections and CA3 to CA1 Schaffer collateral connections are located. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005372)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005372#stratum-radiatum",
+  "name": "hippocampus stratum radiatum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005372",
+  "synonym": [
+    "radiate layer of hippocampus",
+    "stratum radiatum",
+    "stratum radiatum hippocampi"
+  ]
+}
+

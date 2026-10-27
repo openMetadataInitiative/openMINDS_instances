@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/targetedSequencingBasedGenotyping",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Any sequencing-based genotyping technique that determines genetic variants within predefined genomic regions using targeted amplification or enrichment followed by DNA sequencing, encompassing whole-exome sequencing-based genotyping.",
+  "description": null,
+  "name": "targeted sequencing-based genotyping",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "targeted sequencing genotyping"
+  ]
+}

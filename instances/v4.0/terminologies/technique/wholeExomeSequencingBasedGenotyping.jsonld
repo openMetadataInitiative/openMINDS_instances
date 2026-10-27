@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/wholeExomeSequencingBasedGenotyping",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "Any targeted sequencing-based genotyping technique that determines genetic variants primarily within protein-coding genomic regions through the analysis of whole-exome sequencing data.",
+  "description": null,
+  "name": "whole-exome sequencing-based genotyping",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "WES genotyping",
+    "WES-based genotyping",
+    "whole-exome sequencing genotyping"
+  ]
+}

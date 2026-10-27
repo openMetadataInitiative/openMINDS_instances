@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/openEndedQuestioning",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A data collection technique in which respondents are presented with predefined questions using standardized wording and order, with answers recorded exclusively as unrestricted free-text responses without predefined response options or categories.",
+  "description": null,
+  "name": "open-ended questioning",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "open-response questioning",
+    "free-response questioning"
+  ]
+}

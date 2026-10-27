@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/middleLateralLineNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Is a lateral line nerve. Is part of the posterior lateral line nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001482) ('is_a' and 'relationship')]",
+  "description": "Nerve fibers originating from the middle lateral line ganglion. These fibers innervate the middle lateral line. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001482)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:2001482#middle-lateral-line-nerve",
+  "name": "middle lateral line nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2001482",
+  "synonym": null
+}
+
