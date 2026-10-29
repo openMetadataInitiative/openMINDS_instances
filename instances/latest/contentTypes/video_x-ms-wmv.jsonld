@@ -5,8 +5,10 @@
   "@id": "https://openminds.om-i.org/instances/contentTypes/video_x-ms-wmv",
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
-  "definingSource": null,
-  "description": null,
+  "definingSource": [
+    "https://www.loc.gov/preservation/digital/formats/fdd/fdd000091.shtml"
+  ],
+  "description": "Windows Media Video is a proprietary Microsoft file format, which uses the Advanced Systems Format (ASF) container to store video compressed with a Windows Media Video (WMV) codec.",
   "displayLabel": null,
   "fileExtension": [
     ".wmv"

@@ -6,8 +6,7 @@
   "@type": "https://openminds.om-i.org/types/ContentType",
   "dataType": null,
   "definingSource": [
-    "https://www.iana.org/assignments/media-types/video/matroska",
-    "https://www.rfc-editor.org/rfc/rfc9559"
+    "https://www.iana.org/assignments/media-types/video/matroska"
   ],
   "description": null,
   "displayLabel": null,
@@ -16,7 +15,7 @@
   ],
   "isBasedOn": null,
   "name": "video/matroska",
-  "specification": null,
+  "specification": "https://www.rfc-editor.org/rfc/rfc9559",
   "synonym": [
     "Matroska video file",
     "video/x-matroska"
