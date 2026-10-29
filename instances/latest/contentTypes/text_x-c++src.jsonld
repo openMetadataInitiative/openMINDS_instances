@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/text_x-c++src",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": [
+    "https://mimetype.io/text/x-c"
+  ],
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".cpp",
+    ".cc",
+    ".cxx",
+    ".c++"
+  ],
+  "isBasedOn": null,
+  "name": "text/x-c++src",
+  "specification": null,
+  "synonym": [
+    "C++ source file"
+  ]
+}
