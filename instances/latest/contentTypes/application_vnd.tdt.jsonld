@@ -8,7 +8,12 @@
   "definingSource": null,
   "description": null,
   "displayLabel": null,
-  "fileExtension": null,
+  "fileExtension": [
+    ".tsq",
+    ".tbk",
+    ".tev",
+    ".sev"
+  ],
   "isBasedOn": null,
   "name": "application/vnd.tdt",
   "specification": null,

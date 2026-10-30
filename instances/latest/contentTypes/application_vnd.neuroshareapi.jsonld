@@ -10,7 +10,7 @@
   "displayLabel": null,
   "fileExtension": null,
   "isBasedOn": null,
-  "name": "application/vnd.neuroshareapi",
+  "name": "application/vnd.neuroshare.api",
   "specification": null,
   "synonym": [
     "Neuroshare compatible files"

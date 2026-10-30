@@ -8,7 +8,10 @@
   "definingSource": null,
   "description": null,
   "displayLabel": null,
-  "fileExtension": null,
+  "fileExtension": [
+    ".bin",
+    ".meta"
+  ],
   "isBasedOn": null,
   "name": "application/vnd.spikeglx.system",
   "specification": null,
