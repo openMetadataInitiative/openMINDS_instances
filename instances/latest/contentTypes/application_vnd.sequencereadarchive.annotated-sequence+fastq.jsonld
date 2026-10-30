@@ -9,8 +9,8 @@
   "description": "A text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores often including a description added by the Sequence Read Archive.",
   "displayLabel": null,
   "fileExtension": [
-    ".fg",
-    ".fg.gz"
+    ".fastq",
+    ".fq"
   ],
   "isBasedOn": [
     {
