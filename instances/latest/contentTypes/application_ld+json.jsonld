@@ -21,6 +21,7 @@
   "name": "application/ld+json",
   "specification": null,
   "synonym": [
-    "JSON-LD"
+    "JSON-LD",
+    "JSONLD"
   ]
 }
