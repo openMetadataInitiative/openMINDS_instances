@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/video_matroska",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "description": null,
+  "displayLabel": null,
+  "fileExtension": [
+    ".mkv"
+  ],
+  "name": "video/matroska",
+  "specification": "https://www.rfc-editor.org/rfc/rfc9559",
+  "synonym": [
+    "Matroska video file",
+    "video/x-matroska"
+  ]
+}

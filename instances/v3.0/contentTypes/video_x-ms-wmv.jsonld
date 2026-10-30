@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contentTypes/video_x-ms-wmv",
+  "@type": "https://openminds.ebrains.eu/core/ContentType",
+  "dataType": null,
+  "description": "Windows Media Video is a proprietary Microsoft file format, which uses the Advanced Systems Format (ASF) container to store video compressed with a Windows Media Video (WMV) codec.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".wmv"
+  ],
+  "name": "video/x-ms-wmv",
+  "specification": null,
+  "synonym": [
+    "Windows Media Video",
+    "WMV"
+  ]
+}
