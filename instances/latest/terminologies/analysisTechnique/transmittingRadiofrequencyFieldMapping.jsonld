@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/analysisTechnique/transmitRadiofrequencyFieldMapping",
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
-  "definition": null,
+  "definition": "An MRI analysis technique used to calculate spatial maps of the transmitted radiofrequency magnetic field (B₁⁺) from acquired MRI data, enabling the assessment and correction of spatial variations in excitation flip angles.",
   "description": null,
   "name": "transmitting radiofrequency field mapping",
   "otherCrossReference": null,
