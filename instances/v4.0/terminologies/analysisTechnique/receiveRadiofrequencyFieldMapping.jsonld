@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/receiveRadiofrequencyFieldMapping",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "An MRI analysis technique used to calculate spatial maps of the receive sensitivity of radiofrequency (RF) coils (B₁⁻) from acquired MRI data, enabling the assessment and correction of spatial variations in signal intensity caused by nonuniform RF reception.",
+  "description": null,
+  "name": "receive radiofrequency field mapping",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "B1- mapping",
+    "B1⁻ mapping",
+    "B₁⁻ mapping",
+    "receive RF field mapping",
+    "received radiofrequency field mapping",
+    "received RF field mapping",
+    "receiving radiofrequency field mapping",
+    "receiving RF field mapping"
+  ]
+}
