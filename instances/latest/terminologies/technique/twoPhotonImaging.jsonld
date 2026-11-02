@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/twoPhotonImaging",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "An optical imaging technique that encompasses both the acquisition of images using two-photon microscopy and their subsequent processing.",
+  "description": null,
+  "name": "two-photon imaging",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "2-photon imaging"
+  ]
+}
