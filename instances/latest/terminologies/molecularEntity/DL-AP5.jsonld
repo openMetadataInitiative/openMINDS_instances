@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/DL-AP5",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "DL-AP5 is a racemic mixture of D- and L-isomers of AP5, a chemical compound that is a selective NMDA receptor antagonist that competitively inhibits the ligand (glutamate) binding site of NMDA receptors. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/AP5)]",
+  "description": "The active isomer of AP5 is considered to be the D configuration, although many preparations are racemic. AP5 is sometimes used in conjunction with the calcium chelator BAPTA to determine whether NMDARs are required for a particular cellular process. AP5 has also been used to study NMDAR-dependent LTP in the mammalian hippocampus. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/AP5)]",
+  "name": "DL-AP5",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://purl.obolibrary.org/obo/CHEBI_138644",
+    "http://uri.interlex.org/base/ilx_0100867"
+  ],
+  "preferredCrossReference": "https://pubchem.ncbi.nlm.nih.gov/compound/1216",
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0024152",
+  "synonym": [
+    "AP5",
+    "APV",
+    "2-amino-5-phosphonopentanoic acid"
+  ]
+}
