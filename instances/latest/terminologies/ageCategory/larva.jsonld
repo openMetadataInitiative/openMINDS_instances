@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/ageCategory/larva",
+  "@type": "https://openminds.om-i.org/types/AgeCategory",
+  "definition": "Immature life cycle stage of an animal after hatching (or the end of the embryo stage), which differs from the adult in form and turns into the adult (or, in insects with a pupa stage, the pupa) by metamorphosis or a series of moults, e.g. insect, fish and nematode larvae and amphibian tadpoles.",
+  "description": null,
+  "name": "larva",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000069",
+  "synonym": [
+    "larval stage",
+    "larva stage",
+    "tadpole"
+  ]
+}
