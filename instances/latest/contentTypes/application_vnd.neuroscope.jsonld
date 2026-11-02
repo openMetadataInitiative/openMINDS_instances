@@ -8,11 +8,16 @@
   "definingSource": null,
   "description": null,
   "displayLabel": null,
-  "fileExtension": null,
+  "fileExtension": [
+    ".clu",
+    ".res",
+    ".ext.evt",
+    ".evt.ext"
+  ],
   "isBasedOn": null,
   "name": "application/vnd.neuroscope",
   "specification": null,
   "synonym": [
-    "NeuroScope format files"
+    "NeuroScope Format"
   ]
 }

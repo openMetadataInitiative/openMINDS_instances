@@ -8,7 +8,12 @@
   "definingSource": null,
   "description": null,
   "displayLabel": null,
-  "fileExtension": null,
+  "fileExtension": [
+    ".fet",
+    ".clu",
+    ".res",
+    ".spk"
+  ],
   "isBasedOn": null,
   "name": "application/vnd.klustakwik",
   "specification": null,

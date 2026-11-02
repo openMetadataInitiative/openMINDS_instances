@@ -8,7 +8,11 @@
   "definingSource": null,
   "description": null,
   "displayLabel": null,
-  "fileExtension": null,
+  "fileExtension": [
+    ".dat",
+    ".npy",
+    ".json"
+  ],
   "isBasedOn": null,
   "name": "application/vnd.openephys",
   "specification": null,
