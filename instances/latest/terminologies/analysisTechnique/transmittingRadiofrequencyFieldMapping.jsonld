@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.om-i.org/props/"
   },
-  "@id": "https://openminds.om-i.org/instances/analysisTechnique/transmittingRadiofrequencyFieldMapping",
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/transmitRadiofrequencyFieldMapping",
   "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
   "definition": null,
   "description": null,
