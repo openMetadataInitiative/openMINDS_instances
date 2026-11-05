@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/brainMapping",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "imaging techniques used to colocalize sites of brain functions or physiological activity with brain structures [from Wikidata](https://www.wikidata.org/wiki/Q639842)",
+  "description": "In 2021, the first connectome that shows how an animal's brain changes throughout its lifetime was reported. Scientists mapped and compared the whole brains of eight isogenic C. elegans worms, each at a different stage of development. Later that year, scientists combined electron microscopy and brainbow imaging to show for the first time the development of a mammalian neural circuit. They reported the complete wiring diagrams between the CNS and muscles of ten individual mice. [from Wikipedia](https://en.wikipedia.org/wiki/Brain_mapping#Brain_development)",
+  "name": "brain mapping",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0385232"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
