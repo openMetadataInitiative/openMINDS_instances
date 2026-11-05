@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/adeno-associatedVirus",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "Adeno-associated viruses are small, non-enveloped viruses with single-stranded DNA genomes.",
+  "description": "Adeno-associated viruses (AAVs) infect humans and some other primate species. [Wikipedia](https://en.wikipedia.org/wiki/Adeno-associated_virus)",
+  "name": "adeno-associated virus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_272636",
+  "synonym": [
+    "AAV"
+  ]
+}

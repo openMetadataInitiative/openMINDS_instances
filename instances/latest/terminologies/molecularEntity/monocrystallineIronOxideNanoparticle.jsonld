@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/monocrystallineIronOxideNanoparticle",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Monocrystalline iron oxide nanoparticles are superparamagnetic iron oxide particles with a small diameter (between 1-100 nanometers).",
+  "description": "Due to their magnetic properties, monocrystalline iron oxide nanoparticles (MIONs) are often used in molecular imaging and MRI.",
+  "name": "monocrystalline iron oxide nanoparticle",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0670119"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0091113",
+  "synonym": [
+    "MION",
+    "MIONs"
+  ]
+}
