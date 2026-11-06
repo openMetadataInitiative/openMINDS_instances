@@ -14,26 +14,45 @@
   "axesOrigin": [
     {
       "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "typeOfUncertainty": null,
+      "uncertainty": null,
+      "unit": null,
       "value": 75.0
     },
     {
       "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "typeOfUncertainty": null,
+      "uncertainty": null,
+      "unit": null,
       "value": 111.0
     },
     {
       "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "typeOfUncertainty": null,
+      "uncertainty": null,
+      "unit": null,
       "value": 67.0
     }
   ],
-  "copyright": null,
+  "contribution": null,
+  "contributorAffiliation": null,
+  "copyright": {
+    "@type": "https://openminds.om-i.org/types/Copyright",
+    "customUsageClause": "Copyright (C) 1993–2009 Louis Collins, McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University. Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies. The authors and McGill University make no representations about the suitability of this software for any purpose. It is provided “as is” without express or implied warranty. The authors are not responsible for any data loss, equipment damage, property loss, or injury to subjects or patients resulting from the use or misuse of this software package.",
+    "holder": null,
+    "year": [
+      "1993",
+      "2009"
+    ]
+  },
   "defaultImage": null,
   "description": null,
   "digitalIdentifier": null,
   "documentation": null,
   "fullName": "MNI Colin27 Average Brain Stereotaxic Registration Model",
   "funding": null,
-  "homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases",
-  "howToCite": null,
+  "homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/colin-27",
+  "howToCite": "Holmes CJ, Hoge R, Collins L, Woods R, Toga AW, and Evans AC; 'Enhancement of MR images using registration for signal averaging.'; J Comput Assist Tomogr; 1998 Mar-Apr; 22(2):324–33. [doi: 10.1097/00004728-199803000-00032](https://doi.org/10.1097/00004728-199803000-00032)",
   "isPrecededBy": null,
   "isVariantOf": [
     {
@@ -48,6 +67,7 @@
     "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
   },
   "ontologyIdentifier": null,
+  "publicationStatus": null,
   "relatedPublication": null,
   "releaseDate": "1998-06-01",
   "repository": null,
@@ -56,5 +76,5 @@
   "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "1998",
-  "versionSpecification": null
+  "versionSpecification": "The 1998 version was constructed using a two-stage linear registration and averaging procedure (Holmes et al., 1998). In the first stage, each T1-weighted MRI volume was registered to stereotaxic space using an automated volumetric registration procedure (MRITOTAL) and resampled onto a 1 mm isotropic voxel grid. The registered volumes were averaged to generate an initial anatomical reference, which was subsequently used as the registration target for a second alignment of the original acquisitions. This refinement reduced residual registration variability and anatomical blurring, while repeated-image averaging improved the signal-to-noise ratio (SNR) and anatomical definition. The resulting anatomical average was linearly aligned with the MNI305 stereotaxic reference. The distributed dataset includes the averaged T1-weighted volume and accompanying brain and head masks."
 }
