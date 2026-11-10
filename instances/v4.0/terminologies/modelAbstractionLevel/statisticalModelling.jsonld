@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/modelAbstractionLevel/statisticalModelling",
+  "@type": "https://openminds.om-i.org/types/ModelAbstractionLevel",
+  "definition": "Statistical modelling of neural data generation",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "statistical modelling",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "statistical model",
+    "statistical modeling"
+  ]
+}
