@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/magnesium",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Magnesium (Mg) is a chemical element with atomic number 12 and belongs to the alkaline earth metals. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Magnesium)]",
+  "description": "Magnesium is a chemical element; it has symbol Mg and atomic number 12. Like the other alkaline earth metals, it occurs naturally only in combination with other elements and almost always has an oxidation state of +2. Magnesium is required for many core functions of cells in the human body and for some 300 enzymes; magnesium ions interact with polyphosphate compounds such as ATP, DNA and RNA. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Magnesium)]",
+  "name": "magnesium",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0106453"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/CHEBI:25108#magnesium-molecular-entity",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_25108",
+  "synonym": [
+    "Mg"
+  ]
+}

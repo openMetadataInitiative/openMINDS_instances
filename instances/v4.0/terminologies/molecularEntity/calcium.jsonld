@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/calcium",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Calcium (Ca) is a chemical element with atomic number 20 and belongs to the alkaline earth metals. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Calcium)]",
+  "description": "Calcium is a chemical element; it has symbol Ca and atomic number 20. It is the most abundant metal and the fifth-most abundant element in the human body. Calcium ions (Ca2+) are vital to cell physiology and biochemistry: they act as second messengers in signal transduction, trigger neurotransmitter release and muscle contraction, serve as enzyme cofactors and take part in fertilization. Outside cells, they maintain the potential difference across excitable membranes and are important for protein synthesis and bone formation. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Calcium)]",
+  "name": "calcium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_22985",
+  "synonym": [
+    "Ca"
+  ]
+}
