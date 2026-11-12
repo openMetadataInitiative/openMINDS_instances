@@ -9,11 +9,11 @@
   "name": "DL-AP5",
   "otherCrossReference": null,
   "otherOntologyIdentifier": [
-    "http://purl.obolibrary.org/obo/CHEBI_138644",
+    "http://id.nlm.nih.gov/mesh/2018/M0024152",
     "http://uri.interlex.org/base/ilx_0100867"
   ],
   "preferredCrossReference": "https://pubchem.ncbi.nlm.nih.gov/compound/1216",
-  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0024152",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_138644",
   "synonym": [
     "AP5",
     "APV",

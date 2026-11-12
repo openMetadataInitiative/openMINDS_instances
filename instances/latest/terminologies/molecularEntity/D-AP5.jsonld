@@ -8,9 +8,11 @@
   "description": "The active isomer of AP5 is considered to be the D configuration. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/AP5)]",
   "name": "D-AP5",
   "otherCrossReference": null,
-  "otherOntologyIdentifier": null,
+  "otherOntologyIdentifier": [
+    "http://id.nlm.nih.gov/mesh/2018/M0024151"
+  ],
   "preferredCrossReference": "https://pubchem.ncbi.nlm.nih.gov/compound/135342",
-  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0024151",
+  "preferredOntologyIdentifier": null,
   "synonym": [
     "(2R)-2-amino-5-phosphonopentanoic acid",
     "(R)-2-amino-5-phosphonopentanoic acid",
