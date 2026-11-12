@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/sodium",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Sodium (Na) is a chemical element with atomic number 11 and belongs to the alkali metals. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Sodium)]",
+  "description": "Sodium is a chemical element; it has symbol Na and atomic number 11. It is an essential element for all animals and some plants. Sodium ions are the major cation in the extracellular fluid and the major contributor to its osmotic pressure. In nerve cells, the sudden flow of sodium ions into the cell through voltage-gated sodium channels enables the transmission of a nerve impulse, a process called the action potential. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Sodium)]",
+  "name": "sodium",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0110713"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/CHEBI:26712#sodium-molecular-entity",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_26712",
+  "synonym": [
+    "Na"
+  ]
+}
