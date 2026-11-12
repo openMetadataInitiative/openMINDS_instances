@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/potassium",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Potassium (K) is a chemical element with atomic number 19 and belongs to the alkali metals. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Potassium)]",
+  "description": "Potassium is a chemical element; it has symbol K and atomic number 19. It is a soft, silvery-white alkali metal. Because of its high chemical reactivity, potassium is found in nature only in ionic salts. Potassium ions are vital for the functioning of all living cells; the transfer of potassium ions across nerve cell membranes is necessary for normal nerve transmission. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Potassium)]",
+  "name": "potassium",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0109172"
+  ],
+  "preferredCrossReference": "https://knowledge-space.org/wiki/CHEBI:26217#potassium-molecular-entity",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_26217",
+  "synonym": [
+    "K"
+  ]
+}
