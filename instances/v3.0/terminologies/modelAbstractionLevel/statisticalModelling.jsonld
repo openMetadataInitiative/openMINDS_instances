@@ -2,13 +2,16 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/statisticalModel",
+  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/statisticalModelling",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
   "definition": "Statistical modelling of neural data generation",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "statistical model",
+  "name": "statistical modelling",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "statistical model",
+    "statistical modeling"
+  ]
 }
