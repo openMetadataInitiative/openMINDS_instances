@@ -10,5 +10,17 @@
   "knowledgeSpaceLink": null,
   "name": "spiking neurons: point neuron",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "point neuron SNN",
+    "point neuron spiking network",
+    "point neuron spiking neural network",
+    "point neuron spiking neurons",
+    "point-neuron SNN",
+    "point-neuron spiking network",
+    "point-neuron spiking neural network",
+    "point-neuron spiking neurons",
+    "SNN: point neuron",
+    "spiking network: point neuron",
+    "spiking neural network: point neuron"
+  ]
 }

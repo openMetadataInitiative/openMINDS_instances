@@ -10,5 +10,13 @@
   "knowledgeSpaceLink": null,
   "name": "spiking neurons: biophysical",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "biophysical SNN",
+    "biophysical spiking network",
+    "biophysical spiking neural network",
+    "biophysical spiking neurons",
+    "SNN: biophysical",
+    "spiking network: biophysical",
+    "spiking neural network: biophysical"
+  ]
 }

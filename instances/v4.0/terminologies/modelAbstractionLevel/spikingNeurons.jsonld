@@ -10,5 +10,9 @@
   "knowledgeSpaceLink": null,
   "name": "spiking neurons",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "SNN",
+    "spiking network",
+    "spiking neural network"
+  ]
 }

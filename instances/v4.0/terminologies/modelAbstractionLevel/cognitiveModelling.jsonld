@@ -10,5 +10,8 @@
   "knowledgeSpaceLink": null,
   "name": "cognitive modelling",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "cognitive model",
+    "cognitive modeling"
+  ]
 }

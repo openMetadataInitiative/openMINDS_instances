@@ -20,6 +20,7 @@
   "name": "application/vnd.nwb.nwbn+hdf",
   "specification": null,
   "synonym": [
+    "NWB",
     "NWB:N"
   ]
 }
