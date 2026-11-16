@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/technique/electrogastrography",
+  "@type": "https://openminds.om-i.org/types/Technique",
+  "definition": "a non-invasive technique for recording gastric myoelectrical activity using cutaneous electrodes placed on the abdominal skin over the stomach. [Adapted from [Yin and Chen, 2013](https://doi.org/10.5056/jnm.2013.19.1.5 )]",
+  "description": null,
+  "name": "electrogastrography",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
