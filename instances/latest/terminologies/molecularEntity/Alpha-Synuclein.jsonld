@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/Alpha-Synuclein",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": null,
+  "description": null,
+  "name": "Alpha-Synuclein",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "https://pubchem.ncbi.nlm.nih.gov/protein/O55042"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/protein/O55042",
+  "synonym": [
+    "Alpha-synuclein",
+    "Alpha synuclein",
+    "Non-A beta component of AD amyloid",
+    "Non-A4 component of amyloid precursor",
+    "NACP"
+  ]
+}
