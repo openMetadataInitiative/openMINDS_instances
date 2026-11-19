@@ -5,7 +5,7 @@
   "@id": "https://openminds.om-i.org/instances/species/adeno-associatedVirus",
   "@type": "https://openminds.om-i.org/types/Species",
   "definition": "A small, non-enveloped dependoparvovirus that relies on a helper virus to replicate, it establishes benign latent infections in host cells which makes it a widely used delivery vector for in vivo genetic transduction.",
-  "description": "Adeno-associated viruses (AAVs) infect humans and some other primate species. [Wikipedia](https://en.wikipedia.org/wiki/Adeno-associated_virus)",
+  "description": null,
   "name": "adeno-associated virus",
   "otherCrossReference": null,
   "otherOntologyIdentifier": null,
