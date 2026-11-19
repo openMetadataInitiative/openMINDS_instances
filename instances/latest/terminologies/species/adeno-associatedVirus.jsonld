@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/species/adeno-associatedVirus",
+  "@type": "https://openminds.om-i.org/types/Species",
+  "definition": "A small, non-enveloped dependoparvovirus that relies on a helper virus to replicate, it establishes benign latent infections in host cells which makes it a widely used delivery vector for in vivo genetic transduction.",
+  "description": null,
+  "name": "adeno-associated virus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_272636",
+  "synonym": [
+    "AAV"
+  ]
+}
