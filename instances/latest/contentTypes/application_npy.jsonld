@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/contentTypes/application_npy",
+  "@type": "https://openminds.om-i.org/types/ContentType",
+  "dataType": null,
+  "definingSource": [
+    "https://numpy.org/doc/stable/reference/generated/numpy.lib.format.html"
+  ],
+  "description": "a file format for saving a single NumPy array.",
+  "displayLabel": null,
+  "fileExtension": [
+    ".npy"
+  ],
+  "isBasedOn": null,
+  "name": "application/npy",
+  "specification": null,
+  "synonym": [
+    null
+  ]
+}
