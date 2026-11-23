@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/ageCategory/nymph",
+  "@type": "https://openminds.om-i.org/types/AgeCategory",
+  "definition": "Immature life cycle stage of a hemimetabolous invertebrate (e.g. crickets, locusts, cockroaches), which develops gradually into the adult without a pupa stage.",
+  "description": null,
+  "name": "nymph",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014405",
+  "synonym": [
+    "nymph stage"
+  ]
+}
