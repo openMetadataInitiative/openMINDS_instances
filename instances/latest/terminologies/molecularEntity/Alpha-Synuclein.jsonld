@@ -14,10 +14,12 @@
   "preferredCrossReference": null,
   "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/protein/O55042",
   "synonym": [
-    "Alpha-synuclein",
-    "Alpha synuclein",
-    "Non-A beta component of AD amyloid",
-    "Non-A4 component of amyloid precursor",
-    "NACP"
+    "alpha synuclein",
+    "NACP",
+    "non-A beta component of AD amyloid",
+    "non-A beta component precursor",
+    "non-A4 component of amyloid precursor",
+    "non-Aβ component precursor",
+    "α-synuclein"
   ]
 }
