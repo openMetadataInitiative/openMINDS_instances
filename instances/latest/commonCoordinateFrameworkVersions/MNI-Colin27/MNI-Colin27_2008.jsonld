@@ -8,17 +8,51 @@
   "accessibility": {
     "@id": "https://openminds.om-i.org/instances/accessibilities/directVirtualOpenAccess"
   },
-  "anatomicalAxesOrientation": null,
-  "axesOrigin": null,
-  "copyright": null,
+  "anatomicalAxesOrientation": {
+    "@id": "https://openminds.om-i.org/instances/anatomicalAxesOrientation/RAS"
+  },
+  "axesOrigin": [
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "typeOfUncertainty": null,
+      "uncertainty": null,
+      "unit": null,
+      "value": 180.0
+    },
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "typeOfUncertainty": null,
+      "uncertainty": null,
+      "unit": null,
+      "value": 252.0
+    },
+    {
+      "@type": "https://openminds.om-i.org/types/QuantitativeValue",
+      "typeOfUncertainty": null,
+      "uncertainty": null,
+      "unit": null,
+      "value": 144.0
+    }
+  ],
+  "contribution": null,
+  "contributorAffiliation": null,
+  "copyright": {
+    "@type": "https://openminds.om-i.org/types/Copyright",
+    "customUsageClause": "Copyright (C) 1993–2009 Louis Collins, McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University. Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies. The authors and McGill University make no representations about the suitability of this software for any purpose. It is provided “as is” without express or implied warranty. The authors are not responsible for any data loss, equipment damage, property loss, or injury to subjects or patients resulting from the use or misuse of this software package.",
+    "holder": null,
+    "year": [
+      "1993",
+      "2009"
+    ]
+  },
   "defaultImage": null,
   "description": null,
   "digitalIdentifier": null,
   "documentation": null,
   "fullName": "MNI Colin27 Average Brain Stereotaxic Registration Model",
   "funding": null,
-  "homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases",
-  "howToCite": null,
+  "homepage": "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/colin-27-2008",
+  "howToCite": "Holmes CJ, Hoge R, Collins L, Woods R, Toga AW, and Evans AC; 'Enhancement of MR images using registration for signal averaging.'; J Comput Assist Tomogr; 1998 Mar-Apr; 22(2):324–33. [doi: 10.1097/00004728-199803000-00032](https://doi.org/10.1097/00004728-199803000-00032)\nAubert-Broche B, Evans AC, and Collins DL; 'A new improved version of the realistic digital brain phantom'; NeuroImage; 2006 Aug;32(1):138–45. [doi: 10.1016/j.neuroimage.2006.03.052](https://doi.org/10.1016/j.neuroimage.2006.03.052)",
   "isPrecededBy": null,
   "isVariantOf": [
     {
@@ -33,6 +67,7 @@
     "@id": "https://openminds.om-i.org/instances/unitOfMeasurement/millimeter"
   },
   "ontologyIdentifier": null,
+  "publicationStatus": null,
   "relatedPublication": null,
   "releaseDate": "2006-08-01",
   "repository": null,
@@ -41,5 +76,5 @@
   "usageCondition": null,
   "usedSpecimen": null,
   "versionIdentifier": "2008",
-  "versionSpecification": null
+  "versionSpecification": "The 2008 version provides an enhanced anatomical phantom based on averages of 27 T1-weighted, 11 T2-weighted, and 12 proton density-weighted MRI volumes (Aubert-Broche et al., 2006). The volumes are defined in Talairach stereotaxic space and represented on a 0.5 mm isotropic voxel grid. The anatomical phantom incorporates refined tissue segmentation and classification, using additional computed tomography (CT) and magnetic resonance angiography (MRA) information to improve the representation of brain and surrounding head tissues, particularly the skull and blood vessels. The distributed dataset includes averaged T1-weighted, T2-weighted, and PD-weighted volumes, a discrete tissue classification volume, and 12 probabilistic (fuzzy) tissue maps describing the fractional composition of different tissues within individual voxels. The discrete classification distinguishes cerebrospinal fluid, gray matter, white matter, fat, muscle, skin and muscle, skull, dura mater, bone marrow, and blood vessels."
 }
