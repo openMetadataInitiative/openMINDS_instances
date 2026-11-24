@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/technique/twoPhotonFluorescenceMicroscopy",
   "@type": "https://openminds.om-i.org/types/Technique",
-  "definition": "Two-photon fluorescence microscopy is a fluorescence microscopy technique for living tissue which is based on the simultaneous excitation by two photons with longer wavelength than the emitted light.",
+  "definition": "A deep-tissue microscopy technique in which two low-energy, long-wavelength (typically near-infrared) photons excite a fluorophore simultaneously at a laser's focal point to emit a single higher-energy, shorter-wavelength fluorescent photon.",
   "description": null,
   "name": "two-photon fluorescence microscopy",
   "otherCrossReference": null,

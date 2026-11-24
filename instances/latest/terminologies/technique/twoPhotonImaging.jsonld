@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.om-i.org/instances/technique/twoPhotonImaging",
   "@type": "https://openminds.om-i.org/types/Technique",
-  "definition": "An optical imaging technique that encompasses both the acquisition of images using two-photon microscopy and their subsequent processing.",
+  "definition": "An optical imaging technique that involves two-photon microscopy and subsequent processing to produce images.",
   "description": null,
   "name": "two-photon imaging",
   "otherCrossReference": null,
