@@ -11,7 +11,7 @@
 ![GitHub][license-url]
 ![GitHub contributors][contributors-url]
 
-The openMINDS_instances repository is part of the openMINDS metadata framework. It provides serviceable, well-defined terms and constructs (formatted as JSON-LD instances) for selected schemas of the openMINDS metadata model.
+This source repository is part of the openMINDS metadata framework. It provides libraries for serviceable, well-defined metadata instances (formatted as JSON-LD) for selected schemas of the openMINDS metadata model.
 
 To learn more about the openMINDS metadata framework please go to :arrow_right: [**ReadTheDocs**][docu-url].  
 For browsing through the metadata instances you can also directly jump to the :arrow_right: [**instance libraries**][libraries-url].
