@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/tet-lacZReporter",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The Tet-lacZ reporter is a reporter construct in which the Escherichia coli lacZ gene, encoding beta-galactosidase, is placed under the control of a tetracycline response element.",
+  "description": null,
+  "name": "Tet-lacZ reporter",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

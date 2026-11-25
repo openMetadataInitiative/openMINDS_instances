@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/Arc-dVenus",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "Arc-dVenus is a reporter construct in which the gene encoding the fluorescent protein dVenus is transcribed under the control of the promoter of the immediate early gene Arc.",
+  "description": null,
+  "name": "Arc-dVenus",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Arc::dVenus"
+  ]
+}
