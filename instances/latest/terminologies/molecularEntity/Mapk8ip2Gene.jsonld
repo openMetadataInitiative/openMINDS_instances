@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/Mapk8ip2Gene",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The Mapk8ip2 gene is a gene that encodes a scaffold protein that is thought to be involved in the regulation of the c-Jun amino-terminal kinase signaling pathway. [adapted from [NCBI gene](https://www.ncbi.nlm.nih.gov/gene/23542)]",
+  "description": null,
+  "name": "Mapk8ip2 gene",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "https://www.ncbi.nlm.nih.gov/gene/23542",
+    "https://www.ncbi.nlm.nih.gov/gene/60597"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "IB-2",
+    "IB2",
+    "JIP2",
+    "MAPK8IP2",
+    "mitogen-activated protein kinase 8 interacting protein 2",
+    "PRKM8IPL"
+  ]
+}
