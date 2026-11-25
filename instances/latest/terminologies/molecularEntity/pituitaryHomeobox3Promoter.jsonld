@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/pituitaryHomeobox3Promoter",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The pituitary homeobox 3 promoter is the promoter of the Pitx3 gene, which encodes the paired-like homeodomain transcription factor 3.",
+  "description": null,
+  "name": "pituitary homeobox 3 promoter",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Pitx3 promoter"
+  ]
+}

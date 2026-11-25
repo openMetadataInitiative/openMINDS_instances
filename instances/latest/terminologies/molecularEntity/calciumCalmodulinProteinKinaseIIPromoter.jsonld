@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/calciumCalmodulinProteinKinaseIIPromoter",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The calcium calmodulin protein kinase II promoter is the promoter of the Camk2a gene, which encodes the calcium calmodulin protein kinase II alpha chain.",
+  "description": null,
+  "name": "calcium calmodulin protein kinase II promoter",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Ca2+/calmodulin-dependent protein kinase II promoter",
+    "CaMKII promoter",
+    "CaMKIIa promoter",
+    "Camk2a promoter"
+  ]
+}

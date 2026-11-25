@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/purkinjeCellProtein2Promoter",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The Purkinje cell protein 2 promoter is the promoter of the Pcp2 gene, which encodes the Purkinje cell protein 2.",
+  "description": null,
+  "name": "Purkinje cell protein 2 promoter",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "L7 promoter",
+    "Pcp2 promoter"
+  ]
+}
