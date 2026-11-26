@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/Nr2f1Gene",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The Nr2f1 gene is a gene that encodes the nuclear receptor subfamily 2 group F member 1, a nuclear hormone receptor and transcriptional regulator. [adapted from [NCBI gene](https://www.ncbi.nlm.nih.gov/gene/7025)]",
+  "description": null,
+  "name": "Nr2f1 gene",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "https://www.ncbi.nlm.nih.gov/gene/13865",
+    "https://www.ncbi.nlm.nih.gov/gene/7025"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "COUP-TFI",
+    "COUPTF1",
+    "EAR-3",
+    "EAR3",
+    "ERBAL3",
+    "NR2F1",
+    "nuclear receptor subfamily 2 group F member 1",
+    "TCFCOUP1",
+    "TFCOUP1"
+  ]
+}

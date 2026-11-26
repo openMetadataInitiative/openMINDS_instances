@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/kallikrein-relatedPeptidase8Promoter",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The kallikrein-related peptidase 8 promoter is the promoter of the Klk1b8 gene, which encodes the kallikrein-related peptidase 8, also known as neuropsin.",
+  "description": null,
+  "name": "kallikrein-related peptidase 8 promoter",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "KLK8 promoter",
+    "neuropsin promoter",
+    "Nop promoter"
+  ]
+}

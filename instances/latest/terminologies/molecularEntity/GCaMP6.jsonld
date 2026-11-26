@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/GCaMP6",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "GCaMP6 is a family of ultrasensitive protein calcium sensors, derived from GCaMP by structure-based mutagenesis and neuron-based screening. [adapted from [Chen et al. 2013](https://doi.org/10.1038/nature12354)]",
+  "description": "GCaMP6 sensors outperformed other sensors in cultured neurons and in zebrafish, flies and mice in vivo. In layer 2/3 pyramidal neurons of the mouse visual cortex, GCaMP6 reliably detected single action potentials in neuronal somata and orientation-tuned synaptic calcium transients in individual dendritic spines. [adapted from [Chen et al. 2013](https://doi.org/10.1038/nature12354)]",
+  "name": "GCaMP6",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

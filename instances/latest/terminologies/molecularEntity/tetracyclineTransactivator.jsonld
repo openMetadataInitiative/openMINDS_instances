@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/tetracyclineTransactivator",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The tetracycline transactivator is a protein created by fusing TetR, the tetracycline repressor found in Escherichia coli, with the activation domain of the VP16 protein found in herpes simplex virus. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Tetracycline-controlled_transcriptional_activation)]",
+  "description": "The tetracycline transactivator binds to DNA at specific TetO operator sequences, several repeats of which are placed upstream of a minimal promoter to form a tetracycline response element. In the Tet-Off system, tetracycline and its derivatives bind the tetracycline transactivator and render it incapable of binding these sequences, thereby repressing expression of the downstream genes. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Tetracycline-controlled_transcriptional_activation)]",
+  "name": "tetracycline transactivator",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "tetracycline transactivator protein",
+    "tetracycline-controlled transactivator",
+    "tTA"
+  ]
+}

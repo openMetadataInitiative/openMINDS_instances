@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/GCaMP",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "GCaMP is a genetically encoded calcium indicator that is a synthetic fusion of green fluorescent protein, calmodulin and M13, a peptide sequence from myosin light-chain kinase. [adapted from [wikipedia](https://en.wikipedia.org/wiki/GCaMP)]",
+  "description": "When bound to calcium ions, GCaMP fluoresces green. It is used in biological research to measure intracellular calcium levels both in vitro and in vivo using virally transfected or transgenic cell and animal lines. The genetic sequence encoding GCaMP can be inserted under the control of promoters exclusive to certain cell types, allowing for cell-type specific expression of GCaMP. [adapted from [wikipedia](https://en.wikipedia.org/wiki/GCaMP)]",
+  "name": "GCaMP",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "G-CaMP"
+  ]
+}

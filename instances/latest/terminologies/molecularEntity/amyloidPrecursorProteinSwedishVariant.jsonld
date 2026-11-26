@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/molecularEntity/amyloidPrecursorProteinSwedishVariant",
+  "@type": "https://openminds.om-i.org/types/MolecularEntity",
+  "definition": "The amyloid precursor protein Swedish variant is a human amyloid-beta precursor protein sequence variant that has Asn and Leu residues at positions equivalent to Lys-670 and Met-671 of the amino acid sequence represented by UniProtKB:P05067-1.",
+  "description": null,
+  "name": "amyloid precursor protein Swedish variant",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": "https://knowledge-space.org/wiki/PR:000025601#amyloid-beta-a4-protein-sequence-variant-appkm670-671nl-human",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000025601",
+  "synonym": [
+    "amyloid precursor protein KM670/671NL Swedish mutation",
+    "amyloid-beta precursor protein sequence variant KM670/671NL (human)",
+    "hAPP/var:KM670/671NL",
+    "Swedish APP"
+  ]
+}
